@@ -24,34 +24,40 @@ function openDialogOnHash() {
   }
 }
 
-function initDialogs() {
-  document.querySelectorAll("dialog").forEach((dialog) => {
-    dialog.addEventListener("click", (e) => {
-      if (e.target === dialog) {
-        dialog.close();
-      }
-    });
-
-    const closeButton = getCloseButton(dialog);
-    if (closeButton) {
-      closeButton.addEventListener("click", () => dialog.close());
+export function bindDialog(dialog) {
+  dialog.addEventListener("click", (e) => {
+    if (e.target === dialog) {
+      dialog.close();
     }
   });
 
-  document.querySelectorAll("[data-dialog-trigger]").forEach((trigger) => {
-    const handler = (e) => {
-      if (e.type === "click" || (e.type === "keydown" && e.key === "Enter")) {
-        e.preventDefault();
-        const dialogId = trigger.getAttribute("data-dialog-trigger");
-        openDialog(dialogId);
-      }
-    };
+  const closeButton = getCloseButton(dialog);
+  if (closeButton) {
+    closeButton.addEventListener("click", () => dialog.close());
+  }
+}
 
-    trigger.addEventListener("click", handler);
-    trigger.addEventListener("keydown", handler);
-  });
+export function bindDialogTrigger(trigger) {
+  const handler = (e) => {
+    if (e.type === "click" || (e.type === "keydown" && e.key === "Enter")) {
+      e.preventDefault();
+      const dialogId = trigger.getAttribute("data-dialog-trigger");
+      openDialog(dialogId);
+    }
+  };
 
-  // Initialize hash check
+  trigger.addEventListener("click", handler);
+  trigger.addEventListener("keydown", handler);
+}
+
+export function initDialogsIn(root) {
+  root.querySelectorAll("dialog").forEach(bindDialog);
+  root.querySelectorAll("[data-dialog-trigger]").forEach(bindDialogTrigger);
+}
+
+function initDialogs() {
+  initDialogsIn(document);
+
   openDialogOnHash();
   window.addEventListener("hashchange", openDialogOnHash);
 }

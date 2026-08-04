@@ -3,8 +3,9 @@ draft: false
 title: "Lithuania"
 country: "lithuania"
 params:
+  iso_code: LT
   operators_without_fip:
-    - "Aukštaitijos siaurasis geležinkelis (heritage railway)"
+    - Aukštaitijos siaurasis geležinkelis (heritage railway)
 ---
 
 ## FIP Information

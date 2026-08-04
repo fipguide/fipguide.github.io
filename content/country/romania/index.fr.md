@@ -3,6 +3,7 @@ draft: false
 title: "Roumanie"
 country: "romania"
 params:
+  iso_code: RO
   operators_without_fip:
     - Astra Trains Carpatic (ATC)
     - IRC (InterRegional Călători)

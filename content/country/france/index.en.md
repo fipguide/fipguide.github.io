@@ -3,6 +3,7 @@ draft: false
 title: "France"
 country: "france"
 params:
+  iso_code: FR
   operators_without_fip:
     - CFC (Chemins de fer de la Corse / Railways in Corsica)
     - '[Frecciarossa (Trenitalia)](/operator/fs/#international-frecciarossa-trains-to-paris "Frecciarossa (Trenitalia)")'

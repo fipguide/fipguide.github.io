@@ -218,6 +218,47 @@ related:
   operators: Related Operators
   operators-nearby: Neighboring Operators
 reportError: Report an error
+routePlanner:
+  arrival: Arrival
+  borderPoint: 'Border Point:'
+  copyToClipboard: Copy to clipboard
+  debugHint: >-
+    Is this information incorrect or missing? Please report the error to us and
+    attach the following information:
+  debugTitle: Debug Information
+  departure: Departure
+  departureTime: Departure time
+  duration: Duration
+  errorGeneric: An error occurred. Please try again.
+  experimental: >-
+    The route planner is still experimental. It still contains errors, so we
+    need your help. If you find incorrect information, please report it using
+    the ICON_BUG_REPORT icon for each leg in the route result. The route
+    information is based on the [Transitous API](https://transitous.org/).
+    Please make sure to verify the information on the respective operator pages
+    in the FIP Guide before traveling.
+  fipAccepted: FIP accepted
+  fipNotAccepted: FIP not accepted
+  fipPartial: FIP partially accepted
+  fipUnknown: FIP status unknown
+  from: From
+  fromPlaceholder: e.g. Brussels-Midi
+  internationalJourney: 'International journey! Please check the border points on the country pages:'
+  loading: Searching for connections…
+  noResults: No connections found.
+  openGitHubIssue: Open GitHub issue
+  operatorBaseUrl: /en
+  operatorNotInFipGuide: Operator not in FIP Guide
+  platform: Platform
+  reservationPartiallyRequired: Reservation partially required
+  reservationRequired: Reservation required
+  search: Search
+  swap: Swap origin and destination
+  to: To
+  toPlaceholder: e.g. Vienna Hbf
+  transfer: transfer(s)
+  viewInFipGuide: View in FIP Guide
+  walk: Walk
 satellite:
   content: >-
     To avoid additional costs when calling abroad, you can use the app

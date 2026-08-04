@@ -3,6 +3,7 @@ draft: false
 title: "Italy"
 country: "italy"
 params:
+  iso_code: IT
   operators_without_fip:
     - Azienda Regionale Sarda Trasporti
     - Circumflegrea

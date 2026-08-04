@@ -3,6 +3,7 @@ draft: false
 title: "Vereinigtes Königreich"
 country: "united-kingdom"
 params:
+  iso_code: GB
   operators_without_fip:
     - Blackpool Tramway
     - Caledonian MacBrayne Ferries

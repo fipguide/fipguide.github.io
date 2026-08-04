@@ -227,6 +227,50 @@ related:
   operators: Opérateurs associés
   operators-nearby: Opérateurs voisins
 reportError: Signaler une erreur
+routePlanner:
+  arrival: Arrivée
+  borderPoint: 'Point frontière :'
+  copyToClipboard: Copier dans le presse-papiers
+  debugHint: >-
+    Cette information est incorrecte ou incomplète ? Merci de nous signaler
+    l’erreur et de joindre les informations suivantes :
+  debugTitle: Informations de débogage
+  departure: Départ
+  departureTime: Heure de départ
+  duration: Durée
+  errorGeneric: Une erreur s'est produite. Veuillez réessayer.
+  experimental: >-
+    Le planificateur d'itinéraire est encore expérimental. Il contient encore
+    des erreurs, c'est pourquoi nous avons besoin de votre aide. Si vous trouvez
+    des informations erronées, veuillez les signaler via l'icône ICON_BUG_REPORT
+    pour chaque tronçon dans le résultat de l'itinéraire. Les informations
+    d'itinéraire sont basées sur l'[API Transitous](https://transitous.org/).
+    Veuillez vérifier les informations sur les pages des opérateurs
+    correspondants dans le FIP Guide avant de voyager.
+  fipAccepted: FIP accepté
+  fipNotAccepted: FIP non accepté
+  fipPartial: FIP partiellement accepté
+  fipUnknown: Statut FIP inconnu
+  from: De
+  fromPlaceholder: ex. Bruxelles-Midi
+  internationalJourney: >-
+    Trajet international ! Veuillez vérifier les points frontières sur les pages
+    des pays :
+  loading: Recherche de connexions…
+  noResults: Aucune connexion trouvée.
+  openGitHubIssue: Ouvrir un ticket GitHub
+  operatorBaseUrl: /fr
+  operatorNotInFipGuide: Opérateur absent du FIP Guide
+  platform: Voie
+  reservationPartiallyRequired: Réservation partiellement obligatoire
+  reservationRequired: Réservation obligatoire
+  search: Rechercher
+  swap: Échanger l'origine et la destination
+  to: Vers
+  toPlaceholder: ex. Vienne Hbf
+  transfer: correspondance(s)
+  viewInFipGuide: Voir dans le FIP Guide
+  walk: À pied
 satellite:
   content: >-
     Pour éviter des frais supplémentaires lors d'appels à l'étranger, vous

@@ -20,6 +20,7 @@
     "@fontsource/roboto": "^5.2.9",
     "@fontsource/sansita": "^5.2.8",
     "@material-symbols/svg-700": "^0.43.0",
+    "@motis-project/motis-client": "^2.10.2",
     "@panzoom/panzoom": "^4.6.1",
     "pagefind": "^1.5.2"
   },

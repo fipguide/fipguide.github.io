@@ -209,6 +209,14 @@ Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Perso
 
 ## Tarifliche Besonderheiten
 
+### Dreiländerzug (Liège – Maastricht – Heerlen – Aachen)
+
+Seit Juni 2024 betreibt Arriva den Dreiländerzug zwischen Aachen (Deutschland), Heerlen (Niederlande), Maastricht (Niederlande) und Liège-Guillemins (Belgien). Auf dem Abschnitt zwischen Liège-Guillemins und Maastricht wird der Zug im Auftrag der SNCB (belgischer Abschnitt) und der NS (niederländischer Abschnitt bis Maastricht) betrieben. SNCB- und NS-Tickets, einschließlich FIP, bleiben auf diesem Abschnitt gültig.[^8]
+
+{{% highlight important %}}
+FIP ist zwischen Liège-Guillemins und Maastricht gültig. Jenseits von Maastricht in Richtung Heerlen und Aachen wird der Zug von Arriva betrieben und FIP ist auf diesem Abschnitt nicht gültig.
+{{% /highlight %}}
+
 ### Flughafen Brüssel Zaventem
 
 Auf Verbindungen von und zum Flughafen Brüssel Zaventem muss für den FIP Freifahrtschein ein Zuschlag gezahlt werden. Dieser beträgt aktuell 7,10 Euro (vgl. [Info der SNCB](https://www.belgiantrain.be/de/tickets-and-railcards/airports/brussels-airport)) und muss auch gezahlt werden, wenn der Hinweise _No Supplement Necessary_ angegeben ist. [^1] Bei FIP 50 / FIP 75 Tickets ist dieser bereits im Preis inbegriffen, sofern das Ticket nicht am Fahrkartenautomaten erworben wurde. [^2]
@@ -238,3 +246,5 @@ Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere 
 [^6]: [Rail Delivery Group -- Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)
 
 [^7]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470491831987998771)
+
+[^8]: [Arriva Dreiländerzug](https://www.arriva.nl/over-je-reis/met-de-trein/de-drielandentrein/)

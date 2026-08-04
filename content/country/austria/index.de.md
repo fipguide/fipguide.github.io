@@ -3,6 +3,7 @@ draft: false
 title: "Österreich"
 country: "austria"
 params:
+  iso_code: AT
   operators_without_fip:
     - Achenseebahn
     - '[CAT (City Airport Train) Wien](/operator/oebb#wien-flughafen-city-airport-train-cat "CAT")'

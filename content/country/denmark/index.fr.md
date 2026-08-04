@@ -3,6 +3,7 @@ draft: false
 title: "Danemark"
 country: "denmark"
 params:
+  iso_code: DK
   operators_without_fip:
     - GoCollective (anciennement Arriva Danmark)
     - Lokaltog

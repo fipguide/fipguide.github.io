@@ -3,6 +3,7 @@ draft: false
 title: "Netherlands"
 country: "netherlands"
 params:
+  iso_code: NL
   operators_without_fip:
     - Arriva Nederland
     - Breng
@@ -20,7 +21,7 @@ In the Netherlands, FIP 50 Tickets and FIP Coupons can be used on a large part o
 
 Additionally, international [Eurostar](/operator/eurostar "Eurostar") trains operate, which can be used at a discount with special FIP Global Fares. These trains are listed as train category `EST` in journey planners.
 
-Other operators such as Arriva Nederland or the cross-border `RE` trains Arnhem - Düsseldorf, Venlo - Hamm, and Maastricht - Aachen unfortunately do not accept FIP. All buses (except rail replacement services), trams, and metros are also excluded.
+Other operators such as Arriva Nederland or the cross-border `RE` trains Arnhem - Düsseldorf and Venlo - Hamm unfortunately do not accept FIP. On the Three-Country Train (Maastricht – Heerlen – Aachen), FIP is only valid on the section between Maastricht and Liège-Guillemins (operated on behalf of NS and SNCB), but not between Maastricht and Aachen. All buses (except rail replacement services), trams, and metros are also excluded.
 
 {{< identify-operator sources="ns-website,db-website" />}}
 
@@ -64,6 +65,14 @@ On the `RE` routes Hamm - Venlo and Düsseldorf - Arnhem, the Deutschlandticket 
 From Belgium, cross-border regional trains (including the `IC` here) can be used, but an additional FIP Ticket from SNCB is required. There are also long-distance trains (`ECD` and `EC`), where an additional supplement may be required when traveling on the Rotterdam - Schiphol axis.
 
 With the Eurostar (formerly Thalys), you can also reach the SNCB network from the Netherlands. Here, a special FIP Ticket from Eurostar is required for the entire route (including within the Netherlands). ([see Eurostar](/operator/eurostar "Eurostar"))
+
+#### Three-Country Train (Liège – Maastricht – Heerlen – Aachen)
+
+Since June 2024, Arriva operates the Three-Country Train between Aachen (Germany), Heerlen (Netherlands), Maastricht (Netherlands), and Liège-Guillemins (Belgium). On the section between Maastricht and Liège-Guillemins, the train is operated on behalf of NS (Dutch section) and SNCB (Belgian section). NS and SNCB tickets, including FIP, remain valid on this section.
+
+{{% highlight important %}}
+FIP is valid between Maastricht and Liège-Guillemins. Between Maastricht and Aachen (via Heerlen), the train is operated by Arriva and FIP is not valid.
+{{% /highlight %}}
 
 ### United Kingdom
 

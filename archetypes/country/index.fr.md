@@ -3,8 +3,9 @@ draft: false
 title: "{{ .File.ContentBaseName | title }}" # Change le nom par le nom du pays français
 country: "{{ .File.ContentBaseName }}"
 params:
+  iso_code: # Code ISO 3166-1 alpha-2, p.ex. DE
   operators_without_fip:
-    -  # Listez ici les opérateurs ne participant pas au FIP
+    -  # Nom de l'opérateur
 ---
 
 <!-- Supprimez ce message si la page est complète -->

@@ -225,6 +225,47 @@ related-countries: Verwandte Länder
 related-news: Verwandte News
 related-operators: Verwandte Betreiber
 reportError: Melde ein Fehler
+routePlanner:
+  arrival: Ankunft
+  borderPoint: 'Grenzpunkt:'
+  copyToClipboard: In die Zwischenablage kopieren
+  debugHint: >-
+    Die Information ist nicht korrekt oder es fehlen Informationen? Bitte melde
+    uns den Fehler und hänge die folgenden Informationen an:
+  debugTitle: Debug-Informationen
+  departure: Abfahrt
+  departureTime: Abfahrtszeit
+  duration: Dauer
+  errorGeneric: Ein Fehler ist aufgetreten. Bitte versuche es erneut.
+  experimental: >-
+    Der Routenplaner ist noch experimentell. Er enthält noch Fehler, daher
+    brauchen wir eure Hilfe. Wenn ihr fehlerhafte Informationen findet, meldet
+    diese bitte über das ICON_BUG_REPORT-Symbol für jeden Abschnitt im
+    Routenergebnis. Die Routenauskunft basiert auf der [Transitous
+    API](https://transitous.org/). Bitte prüfe die Informationen vor einer Fahrt
+    unbedingt auf den entsprechenden Betreiberseiten im FIP Guide.
+  fipAccepted: FIP akzeptiert
+  fipNotAccepted: FIP nicht akzeptiert
+  fipPartial: FIP teilweise akzeptiert
+  fipUnknown: FIP-Status unbekannt
+  from: Von
+  fromPlaceholder: z. B. Brüssel-Midi
+  internationalJourney: 'Internationale Fahrt! Bitte prüfe die Grenzpunkte auf den Länderseiten:'
+  loading: Verbindungen werden gesucht…
+  noResults: Keine Verbindungen gefunden.
+  openGitHubIssue: GitHub-Issue öffnen
+  operatorBaseUrl: /de
+  operatorNotInFipGuide: Betreiber nicht im FIP Guide
+  platform: Gleis
+  reservationPartiallyRequired: Reservierung teilweise erforderlich
+  reservationRequired: Reservierung erforderlich
+  search: Suchen
+  swap: Abfahrts- und Ankunftsort tauschen
+  to: Nach
+  toPlaceholder: z. B. Wien Hbf
+  transfer: Umstieg(e)
+  viewInFipGuide: Im FIP Guide ansehen
+  walk: Fußweg
 satellite:
   content: >-
     Um zusätzliche Kosten bei Anrufen ins Ausland zu vermeiden, kann die App

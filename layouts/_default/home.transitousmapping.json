@@ -1,0 +1,72 @@
+{{- $operators := where (where site.Pages "Type" "operator") "IsPage" true -}}
+{{- $result := slice -}}
+{{- range $operators -}}
+  {{- $page := . -}}
+  {{- with .Resources.GetMatch "transitous.yaml" -}}
+    {{- $mapping := . | transform.Unmarshal -}}
+    {{- $trainCategories := $page.Store.Get "train_categories" | default slice -}}
+    {{- $entries := slice -}}
+    {{- range $mapping -}}
+      {{- $priority := .priority | default 0 -}}
+      {{- $entry := dict "query" .query "priority" $priority -}}
+      {{- with .message -}}
+        {{- $msg := index . $page.Language.Lang -}}
+        {{- if $msg -}}
+          {{- $entry = merge $entry (dict "message" ($msg | $page.RenderString)) -}}
+        {{- end -}}
+      {{- end -}}
+      {{- if .category -}}
+        {{- $entry = merge $entry (dict "category" .category) -}}
+        {{- $catId := .category -}}
+        {{- range $trainCategories -}}
+          {{- if eq .id $catId -}}
+            {{- $entry = merge $entry (dict "fipAccepted" .fip_accepted "reservationRequired" .reservation_required) -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+      {{- if isset . "fip_accepted" -}}
+        {{- $entry = merge $entry (dict "fipAccepted" .fip_accepted) -}}
+      {{- end -}}
+      {{- if isset . "reservation_required" -}}
+        {{- $entry = merge $entry (dict "reservationRequired" .reservation_required) -}}
+      {{- end -}}
+      {{- if isset . "border_point" -}}
+        {{- $entry = merge $entry (dict "borderPoint" .border_point) -}}
+      {{- end -}}
+      {{- if isset . "disable_border_warning" -}}
+        {{- $entry = merge $entry (dict "disableBorderWarning" .disable_border_warning) -}}
+      {{- end -}}
+      {{- $entries = $entries | append $entry -}}
+    {{- end -}}
+    {{- $entries = sort $entries "priority" "desc" -}}
+    {{- $op := dict "operator" $page.File.ContentBaseName "mapping" $entries -}}
+    {{- $result = $result | append $op -}}
+  {{- end -}}
+{{- end -}}
+{{- $noFipEntries := slice -}}
+{{- $countries := where (where site.Pages "Type" "country") "IsPage" true -}}
+{{- range $countries -}}
+  {{- $countryPage := . -}}
+  {{- $countrySlug := .File.ContentBaseName -}}
+  {{- with .Resources.GetMatch "transitous.yaml" -}}
+    {{- $entries := . | transform.Unmarshal -}}
+    {{- range $entries -}}
+      {{- if .query -}}
+        {{- $priority := .priority | default 0 -}}
+        {{- $noFipEntry := dict "query" .query "fipAccepted" false "country" $countrySlug "priority" $priority -}}
+        {{- with .message -}}
+          {{- $msg := index . $countryPage.Language.Lang -}}
+          {{- if $msg -}}
+            {{- $noFipEntry = merge $noFipEntry (dict "message" ($msg | $countryPage.RenderString)) -}}
+          {{- end -}}
+        {{- end -}}
+        {{- $noFipEntries = $noFipEntries | append $noFipEntry -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if $noFipEntries -}}
+  {{- $noFipEntries = sort $noFipEntries "priority" "desc" -}}
+  {{- $result = $result | append (dict "operator" "no-fip" "mapping" $noFipEntries) -}}
+{{- end -}}
+{{- $result | jsonify (dict "indent" "  ") -}}

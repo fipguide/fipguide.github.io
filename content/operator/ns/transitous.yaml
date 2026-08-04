@@ -1,0 +1,65 @@
+- query: (agencyId == "IFF:ARRIVA" && routeShortName == "Sneltrein RE18" || routeId.startsWith("de-DELFI_de:nrw:re18")) && !fromName.includes("Heerlen") && !fromName.includes("Aachen") && !fromName.includes("Herzogenrath") && !fromName.includes("Eygelshoven") && !fromName.includes("Landgraaf") && !toName.includes("Heerlen") && !toName.includes("Aachen") && !toName.includes("Herzogenrath") && !toName.includes("Eygelshoven") && !toName.includes("Landgraaf")
+  fip_accepted: true
+  priority: 3
+  message:
+    de: >-
+      FIP ist auf dem Abschnitt Liège-Guillemins – Maastricht des
+      [Dreiländerzugs (RE18)](/country/belgium/#dreiländerzug-liège--maastricht--heerlen--aachen)
+      gültig. Der Zug wird hier im Auftrag von NS und SNCB betrieben.
+    en: >-
+      FIP is valid on the Liège-Guillemins – Maastricht section of the
+      [Three-Country Train (RE18)](/country/belgium/#three-country-train-liège--maastricht--heerlen--aachen).
+      The train is operated on behalf of NS and SNCB on this section.
+    fr: >-
+      Le FIP est valable sur le tronçon Liège-Guillemins – Maastricht du
+      [Train des Trois Pays (RE18)](/country/belgium/#train-des-trois-pays-liège--maastricht--heerlen--aix-la-chapelle).
+      Le train est exploité pour le compte de la NS et de la SNCB sur ce
+      tronçon.
+- query: (agencyId == "IFF:ARRIVA" && routeShortName == "Sneltrein RE18" || routeId.startsWith("de-DELFI_de:nrw:re18")) && !fromName.includes("Liège") && !fromName.includes("Bressoux") && !fromName.includes("Visé") && !fromName.includes("Eijsden") && !fromName.includes("Maastricht Randwyck") && !toName.includes("Liège") && !toName.includes("Bressoux") && !toName.includes("Visé") && !toName.includes("Eijsden") && !toName.includes("Maastricht Randwyck")
+  fip_accepted: false
+  priority: 3
+  message:
+    de: >-
+      FIP ist auf dem Abschnitt Maastricht – Aachen des
+      [Dreiländerzugs (RE18)](/country/netherlands/#dreiländerzug-liège--maastricht--heerlen--aachen)
+      nicht gültig. Der Zug wird hier von Arriva betrieben.
+    en: >-
+      FIP is not valid on the Maastricht – Aachen section of the
+      [Three-Country Train (RE18)](/country/netherlands/#three-country-train-liège--maastricht--heerlen--aachen).
+      The train is operated by Arriva on this section.
+    fr: >-
+      Le FIP n'est pas valable sur le tronçon Maastricht – Aix-la-Chapelle du
+      [Train des Trois Pays (RE18)](/country/netherlands/#train-des-trois-pays-liège--maastricht--heerlen--aix-la-chapelle).
+      Le train est exploité par Arriva sur ce tronçon.
+- query: agencyId == "IFF:ARRIVA" && routeShortName == "Sneltrein RE18" || routeId.startsWith("de-DELFI_de:nrw:re18")
+  fip_accepted: "partially"
+  priority: 2
+  message:
+    de: >-
+      FIP ist zwischen Liège-Guillemins und Maastricht gültig. Über Maastricht
+      hinaus Richtung Heerlen und Aachen wird der Zug von Arriva betrieben und
+      FIP ist auf diesem Abschnitt nicht gültig.
+      [Mehr Informationen](/country/netherlands/#dreiländerzug-liège--maastricht--heerlen--aachen)
+    en: >-
+      FIP is valid between Liège-Guillemins and Maastricht. Beyond Maastricht
+      towards Heerlen and Aachen, the train is operated by Arriva and FIP is not
+      valid on this section.
+      [More information](/country/netherlands/#three-country-train-liège--maastricht--heerlen--aachen)
+    fr: >-
+      Le FIP est valable entre Liège-Guillemins et Maastricht. Au-delà de
+      Maastricht vers Heerlen et Aix-la-Chapelle, le train est exploité par
+      Arriva et le FIP n'est pas valable sur ce tronçon.
+      [Plus d'informations](/country/netherlands/#train-des-trois-pays-liège--maastricht--heerlen--aix-la-chapelle)
+- query: agencyId == "IFF:NS_INT" && routeShortName == "ICE" && ((fromCountry == "DE" && toCountry == "NL") || (fromCountry == "NL" && toCountry == "DE")) && new Date(startTime) >= new Date("2026-06-26T00:00:00+02:00") && new Date(startTime) < new Date("2026-08-17T00:00:00+02:00")
+  category: ice
+  reservation_required: true
+  border_point: "Emmerich (Gr), Bad Bentheim (Gr)"
+  priority: 1
+  message:
+    en: "Temporary reservation requirement for cross-border journeys to/from Germany: 26.06 – 16.08.2026."
+    de: "Temporäre Reservierungspflicht bei grenzüberschreitenden Fahrten von/nach Deutschland: 26.06. – 16.08.2026."
+    fr: "Obligation de réservation temporaire pour les trajets transfrontaliers vers/depuis l’Allemagne: 26.06 – 16.08.2026."
+- query: agencyId == "IFF:NS_INT" && routeShortName == "ICE" && ((fromCountry == "DE" && toCountry == "NL") || (fromCountry == "NL" && toCountry == "DE"))
+  category: ice
+  reservation_required: false
+  border_point: "Emmerich (Gr), Bad Bentheim (Gr)"

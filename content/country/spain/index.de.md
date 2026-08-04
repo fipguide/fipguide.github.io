@@ -3,6 +3,7 @@ draft: false
 title: "Spanien"
 country: "spain"
 params:
+  iso_code: ES
   operators_without_fip:
     - Iryo
     - '[OUIGO](/operator/sncf#Fernverkehr "OUIGO")'

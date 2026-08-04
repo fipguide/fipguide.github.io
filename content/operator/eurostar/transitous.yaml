@@ -1,0 +1,16 @@
+- query: agencyId == "EUROSTAR_CHANNEL"
+  category: eurostar-blue
+  disable_border_warning: true
+  message:
+    en: "Global fare applies. Please check that this is not a Eurostar Snow service, as these are not covered by FIP."
+    de: "Globalpreis gilt. Bitte prüfe, dass es sich nicht um einen Eurostar Snow Service handelt, da diese nicht von FIP abgedeckt sind."
+    fr: "Le tarif global s'applique. Veuillez vérifier qu'il ne s'agit pas d'un service Eurostar Snow, car ceux-ci ne sont pas couverts par le FIP."
+- query: agencyId == "EUROSTAR_CONTINENTAL"
+  category: eurostar-red
+  disable_border_warning: true
+- query: agencyName == "NS Int" && routeShortName == "Eurostar"
+  category: eurostar-red
+  disable_border_warning: true
+- query: agencyName == "SNCF" && routeShortName == "THA"
+  category: eurostar-red
+  disable_border_warning: true

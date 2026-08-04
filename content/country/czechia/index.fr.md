@@ -3,6 +3,7 @@ draft: false
 title: "Tchéquie"
 country: "czechia"
 params:
+  iso_code: CZ
   operators_without_fip:
     - ARRIVA vlaky s. r. o.
     - AŽD Praha s.r.o.

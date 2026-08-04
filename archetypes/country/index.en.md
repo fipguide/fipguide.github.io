@@ -3,8 +3,9 @@ draft: false
 title: "{{ .File.ContentBaseName | title }}" # Change the name to the English country name
 country: "{{ .File.ContentBaseName }}"
 params:
+  iso_code: # ISO 3166-1 alpha-2 code, e.g. DE
   operators_without_fip:
-    -  # List operators without FIP here
+    -  # Operator name
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->

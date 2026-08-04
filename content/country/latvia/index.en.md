@@ -3,8 +3,9 @@ draft: false
 title: "Latvia"
 country: "latvia"
 params:
+  iso_code: LV
   operators_without_fip:
-    - "Latvijas dzelzceļš (LDz)"
+    - Latvijas dzelzceļš (LDz)
 ---
 
 ## FIP Information
