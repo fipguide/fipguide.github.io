@@ -42,6 +42,68 @@ client.setConfig({
 const DEBOUNCE_MS = 300;
 const MIN_QUERY_LEN = 2;
 
+const EUROPEAN_COUNTRY_CODES = new Set([
+  "AD",
+  "AL",
+  "AT",
+  "AX",
+  "BA",
+  "BE",
+  "BG",
+  "BY",
+  "CH",
+  "CY",
+  "CZ",
+  "DE",
+  "DK",
+  "EE",
+  "ES",
+  "FI",
+  "FO",
+  "FR",
+  "GB",
+  "GG",
+  "GI",
+  "GR",
+  "HR",
+  "HU",
+  "IE",
+  "IM",
+  "IS",
+  "IT",
+  "JE",
+  "LI",
+  "LT",
+  "LU",
+  "LV",
+  "MC",
+  "MD",
+  "ME",
+  "MK",
+  "MT",
+  "NL",
+  "NO",
+  "PL",
+  "PT",
+  "RO",
+  "RS",
+  "RU",
+  "SE",
+  "SI",
+  "SJ",
+  "SK",
+  "SM",
+  "UA",
+  "VA",
+  "XK",
+]);
+
+function isBusOnlyStop(match) {
+  const modes = match.modes;
+  if (!Array.isArray(modes) || modes.length === 0) return false;
+  return modes.every((mode) => mode === "BUS" || mode === "COACH");
+}
+
 let fromPlace = null;
 let toPlace = null;
 
@@ -610,7 +672,14 @@ function setupAutocomplete(inputId, suggestionsId, onSelect) {
     debounce = setTimeout(async () => {
       try {
         const res = await geocode({ query: { text: q, numResults: 20 } });
-        showSuggestions((res.data || []).filter((r) => r.type === "STOP"));
+        showSuggestions(
+          (res.data || []).filter(
+            (r) =>
+              r.type === "STOP" &&
+              EUROPEAN_COUNTRY_CODES.has(r.country) &&
+              !isBusOnlyStop(r),
+          ),
+        );
       } catch {
         hideSuggestions();
       }
