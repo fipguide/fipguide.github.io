@@ -378,6 +378,15 @@
     }
   }
 
+  &__border-point {
+    display: block;
+    margin-top: 0.2rem;
+
+    strong {
+      font-weight: 600;
+    }
+  }
+
   &__fip-info {
     display: inline-flex;
     align-items: center;

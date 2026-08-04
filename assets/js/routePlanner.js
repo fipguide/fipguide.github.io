@@ -135,6 +135,7 @@ function matchLeg(leg) {
         matchedQuery: entry.query,
         country: entry.country || null,
         message: entry.message || null,
+        borderPoint: entry.borderPoint || null,
       };
     }
   }
@@ -185,6 +186,7 @@ function getFipStatus(leg) {
     reservationRequired,
     country,
     message,
+    borderPoint,
   } = match;
   const isNoFip = operatorSlug === "no-fip";
   const operatorUrl = isNoFip ? null : `/${cfg.lang}/operator/${operatorSlug}/`;
@@ -204,6 +206,7 @@ function getFipStatus(leg) {
       operatorSlug,
       reservationRequired,
       message,
+      borderPoint,
       debug,
     };
   }
@@ -215,6 +218,7 @@ function getFipStatus(leg) {
       operatorSlug,
       reservationRequired,
       message,
+      borderPoint,
       debug,
     };
   }
@@ -226,6 +230,7 @@ function getFipStatus(leg) {
       operatorSlug,
       reservationRequired,
       message,
+      borderPoint,
       debug,
     };
   }
@@ -236,6 +241,7 @@ function getFipStatus(leg) {
     operatorSlug,
     reservationRequired,
     message,
+    borderPoint,
     debug,
   };
 }
@@ -256,7 +262,7 @@ function formatDuration(seconds) {
 let fipDebugCounter = 0;
 let legWarningCounter = 0;
 
-function renderInternationalWarning(fromCode, toCode) {
+function renderInternationalWarning(fromCode, toCode, borderPoint) {
   const cfg = window.routePlannerConfig;
   if (!fromCode || !toCode || fromCode === toCode) return "";
 
@@ -269,7 +275,10 @@ function renderInternationalWarning(fromCode, toCode) {
     .filter(Boolean);
 
   if (countries.length === 0) return "";
-  return `<div class="o-route-planner__international-warning">${cfg.labels.internationalJourney} ${countries.join(", ")}</div>`;
+  const borderPointHtml = borderPoint
+    ? ` <span class="o-route-planner__border-point"><strong>${cfg.labels.borderPoint}</strong> ${borderPoint}</span>`
+    : "";
+  return `<div class="o-route-planner__international-warning">${cfg.labels.internationalJourney} ${countries.join(", ")}${borderPointHtml}</div>`;
 }
 
 function renderFipBadge(fipStatus, dialogId) {
@@ -399,7 +408,12 @@ function renderLeg(leg) {
     ([fromCode, toCode]) => {
       setTimeout(() => {
         const el = document.getElementById(`leg-warning-${warningId}`);
-        if (el) el.outerHTML = renderInternationalWarning(fromCode, toCode);
+        if (el)
+          el.outerHTML = renderInternationalWarning(
+            fromCode,
+            toCode,
+            fipStatus.borderPoint,
+          );
         const dialog = document.getElementById(dialogId);
         if (dialog) {
           const update = (key, val) => {

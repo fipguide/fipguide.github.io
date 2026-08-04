@@ -226,6 +226,7 @@ related-operators: Verwandte Betreiber
 reportError: Melde ein Fehler
 routePlanner:
   arrival: Ankunft
+  borderPoint: 'Grenzpunkt:'
   copyToClipboard: In die Zwischenablage kopieren
   debugHint: >-
     Die Information ist nicht korrekt oder es fehlen Informationen? Bitte melde

@@ -30,6 +30,9 @@
       {{- if isset . "reservation_required" -}}
         {{- $entry = merge $entry (dict "reservationRequired" .reservation_required) -}}
       {{- end -}}
+      {{- if isset . "border_point" -}}
+        {{- $entry = merge $entry (dict "borderPoint" .border_point) -}}
+      {{- end -}}
       {{- $entries = $entries | append $entry -}}
     {{- end -}}
     {{- $entries = sort $entries "priority" "desc" -}}

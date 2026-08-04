@@ -228,6 +228,7 @@ related:
 reportError: Signaler une erreur
 routePlanner:
   arrival: Arrivée
+  borderPoint: 'Point frontière :'
   copyToClipboard: Copier dans le presse-papiers
   debugHint: >-
     Cette information est incorrecte ou incomplète ? Merci de nous signaler

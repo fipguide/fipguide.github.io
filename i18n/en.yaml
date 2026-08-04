@@ -219,6 +219,7 @@ related:
 reportError: Report an error
 routePlanner:
   arrival: Arrival
+  borderPoint: 'Border Point:'
   copyToClipboard: Copy to clipboard
   debugHint: >-
     Is this information incorrect or missing? Please report the error to us and
