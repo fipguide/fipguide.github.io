@@ -78,6 +78,7 @@ function evalQuery(query, leg) {
         leg.to?.lon &&
         countryCache.get(`${leg.to.lat},${leg.to.lon}`)) ||
       "";
+    const startTime = leg.scheduledStartTime || null;
     return Function(
       "agencyId",
       "agencyName",
@@ -92,6 +93,7 @@ function evalQuery(query, leg) {
       "toName",
       "fromCountry",
       "toCountry",
+      "startTime",
       `"use strict"; return (${query});`,
     )(
       agencyId,
@@ -107,6 +109,7 @@ function evalQuery(query, leg) {
       toName,
       fromCountry,
       toCountry,
+      startTime,
     );
   } catch {
     return false;
