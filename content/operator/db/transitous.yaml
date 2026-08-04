@@ -1,6 +1,7 @@
 - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("ICE") || agencyId == "IFF:NS_INT" && routeShortName == "ICE"
   category: ice
   reservation_required: false
+  priority: -1
 - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("ICE") && ((fromCountry == "DE" && toCountry == "FR") || (fromCountry == "FR" && toCountry == "DE"))
   category: ice
   reservation_required: true
@@ -19,6 +20,10 @@
     en: "Temporary reservation requirement for cross-border journeys to/from Denmark: 26.06 – 16.08.2026."
     de: "Temporäre Reservierungspflicht bei grenzüberschreitenden Fahrten von/nach Dänemark: 26.06. – 16.08.2026."
     fr: "Obligation de réservation temporaire pour les trajets transfrontaliers vers/depuis le Danemark: 26.06 – 16.08.2026."
+- query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("ICE") && ((fromCountry == "DE" && toCountry == "DK") || (fromCountry == "DK" && toCountry == "DE"))
+  category: ice
+  reservation_required: false
+  border_point: "Flensburg (Gr)"
 - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("ICE") && ((fromCountry == "DE" && toCountry == "BE") || (fromCountry == "BE" && toCountry == "DE")) && new Date(startTime) >= new Date("2026-06-26T00:00:00+02:00") && new Date(startTime) < new Date("2026-08-17T00:00:00+02:00")
   category: ice
   reservation_required: true
@@ -28,6 +33,10 @@
     en: "Temporary reservation requirement for cross-border journeys to/from Belgium: 26.06 – 16.08.2026."
     de: "Temporäre Reservierungspflicht bei grenzüberschreitenden Fahrten von/nach Belgien: 26.06. – 16.08.2026."
     fr: "Obligation de réservation temporaire pour les trajets transfrontaliers vers/depuis la Belgique: 26.06 – 16.08.2026."
+- query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("ICE") && ((fromCountry == "DE" && toCountry == "BE") || (fromCountry == "BE" && toCountry == "DE"))
+  category: ice
+  reservation_required: false
+  border_point: "Aachen Süd (Gr)"
 - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("ICE") && ((fromCountry == "DE" && toCountry == "NL") || (fromCountry == "NL" && toCountry == "DE")) && new Date(startTime) >= new Date("2026-06-26T00:00:00+02:00") && new Date(startTime) < new Date("2026-09-01T00:00:00+02:00")
   category: ice
   reservation_required: true
@@ -37,6 +46,10 @@
     en: "Temporary reservation requirement for cross-border journeys to/from the Netherlands: 26.06 – 31.08.2026."
     de: "Temporäre Reservierungspflicht bei grenzüberschreitenden Fahrten von/nach Niederlande: 26.06. – 31.08.2026."
     fr: "Obligation de réservation temporaire pour les trajets transfrontaliers vers/depuis les Pays-Bas: 26.06 – 31.08.2026."
+- query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("ICE") && ((fromCountry == "DE" && toCountry == "NL") || (fromCountry == "NL" && toCountry == "DE"))
+  category: ice
+  reservation_required: false
+  border_point: "Emmerich (Gr), Bad Bentheim (Gr)"
 - query: agencyName == "DB Fernverkehr AG" && displayName.startsWith("TGV")
   category: tgv
 - query: agencyName == "DB Fernverkehr AG" && (displayName.startsWith("RJ") || displayName.startsWith("RJX"))
