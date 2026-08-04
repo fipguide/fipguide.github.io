@@ -2,10 +2,18 @@
   margin-top: 1rem;
 
   &__loading {
-    padding: 1rem 1.2rem;
-    border-radius: var(--border-radius-m);
-    background: var(--bg-neutral);
-    color: var(--color-body);
+    margin-bottom: 1.2rem;
+  }
+
+  &__loading-content {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-weight: 500;
+  }
+
+  &__loading-content .a-icon {
+    font-size: 1.2rem;
   }
 
   .m-text-highlight {

@@ -1,24 +1,15 @@
 {{- $lang := .Page.Language.Lang -}}
 {{- $base := .Site.Params.taxationRemoteBaseURL | default "" -}}
 {{- $warning := T "taxation.intranet-only-warning" -}}
-{{- $headingYear := "" -}}
-{{- range where .Site.RegularPages "Type" "operator" -}}
-  {{- if eq $headingYear "" -}}
-    {{- $taxationRes := .Resources.Get "taxation.yaml" -}}
-    {{- if $taxationRes -}}
-      {{- $taxation := $taxationRes | transform.Unmarshal -}}
-      {{- with $taxation.year -}}
-        {{- $headingYear = printf "%v" . -}}
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}}
+{{- $headingYear := T "taxation.year" -}}
 {{- $i18nTaxation := dict
   "first-class" (T "taxation.first-class")
   "second-class" (T "taxation.second-class")
   "no-first-class" (T "taxation.no-first-class")
   "add-operator" (T "taxation.add-operator")
   "add-national" (T "taxation.add-national")
+  "national-employee-checkbox" (T "taxation.national-employee-checkbox")
+  "national-employee-warning" (T "taxation.national-employee-warning")
   "add-other" (T "taxation.add-other")
   "remove" (T "taxation.remove")
   "increase" (T "taxation.increase")
@@ -47,7 +38,7 @@
   "category-national" (T "taxation.category-national")
   "sum" (T "taxation.sum")
   "reset" (T "taxation.reset")
-  "calculator-description" (T "taxation.calculator-description")
+  "calculator-description" (printf "%s" (T "taxation.calculator-description" | markdownify))
 -}}
 {{- $i18nPayload := dict
   "taxation" $i18nTaxation
@@ -69,7 +60,11 @@
   <h2 id="calculator">
     {{ T "taxation.calculator" (dict "Year" $headingYear) }}
   </h2>
-  <div class="o-taxation-embed__loading">Loading...</div>
+  <div class="o-taxation-embed__loading m-text-highlight m-text-highlight--tip">
+    <div class="o-taxation-embed__loading-content">
+      {{ partial "icon" "pending" }}<span>Loading...</span>
+    </div>
+  </div>
   <template data-taxation-remote-warning-template>
     {{ partial "highlight" (dict
       "Type" "important"
@@ -88,6 +83,7 @@
     );
     var warningHtml = warningTemplate ? warningTemplate.innerHTML : "";
     var headingHtml = '<h2 id="calculator">{{ T "taxation.calculator" (dict "Year" $headingYear) }}</h2>';
+    var loadingHtml = '<div class="o-taxation-embed__loading m-text-highlight m-text-highlight--tip"><div class="o-taxation-embed__loading-content">{{ partial "icon" "pending" }}<span>Loading...</span></div></div>';
 
     function normalizeBaseUrl(rawUrl) {
       var trimmed = String(rawUrl || "").trim();
@@ -101,6 +97,12 @@
       if (warningHtml) {
         root.insertAdjacentHTML("beforeend", warningHtml);
       }
+    }
+
+    function renderLoading() {
+      root.innerHTML = "";
+      root.insertAdjacentHTML("beforeend", headingHtml);
+      root.insertAdjacentHTML("beforeend", loadingHtml);
     }
 
     function loadModule(src, id) {
@@ -195,6 +197,8 @@
         root.innerHTML = "";
         return;
       }
+
+      renderLoading();
 
       try {
         var checkResponse = await fetch(baseUrl + "data/index.json", {

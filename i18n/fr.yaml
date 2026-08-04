@@ -183,22 +183,29 @@ taxation:
   add-operator: Ajouter un opérateur
   add-other: Ajouter un avantage imposable
   calculator: Calculateur d’imposition {{ .Year }}
-  calculator-description: >-
+  calculator-description: >
     Le calculateur fiscal vous permet de déterminer la valeur imposable de vos
+
     avantages de voyage.
 
+
     1. Sélectionnez le nombre de personnes pour lesquelles vous souhaitez
-       calculer des coupons internationaux.
+    calculer des coupons internationaux.
+
     2. Sélectionnez les coupons et le nombre de champs nécessaires (la même
-       classe et la même quantité sont prises en compte pour chaque personne,
-       dans la mesure du possible).
+    classe et la même quantité sont prises en compte pour chaque personne, dans
+    la mesure du possible).
+
     3. Ajoutez les réductions nationales et, si nécessaire, d’autres avantages
        imposables.
 
     Le total imposable est ensuite calculé.
 
+
     Dans la section [Planification et optimisation](#planning-optimization),
+
     vous pouvez réduire la charge fiscale en répartissant les montants sur
+
     plusieurs mois.
   category-international: Coupons FIP internationaux
   category-national: Réductions nationales
@@ -211,6 +218,28 @@ taxation:
   first-class: 1re classe
   general-heading: Général
   increase: Augmenter
+  info:
+    db: |
+      Les Coupons FIP pour les employés en Allemagne sont considérés comme une
+      _réduction non monétaire_ assujettie à l’article 8 de la Loi de l’impôt
+      sur le revenu allemand (EStG). Les Coupons FIP sont donc assujettis à
+      l’impôt sur le revenu et aux cotisations de sécurité sociale.
+
+      La valeur évaluée varie selon la longueur du réseau qui peut être couverte
+      avec le coupon respectif et est mise à jour annuellement. Une liste des
+      montants actuels est disponible sur le marché des voyages DB ou le portail
+      des employés DB.
+
+      Chaque mois, tous les avantages imposables sont additionnés (y compris les
+      autres avantages non monétaires tels que les réductions FIP de voyage
+      nationales). Si la somme dépasse un certain seuil (50 € en 2025), le
+      montant entier (pas seulement ce qui dépasse le seuil, mais tout) est
+      ajouté au revenu imposable (généralement le salaire brut). En conséquence,
+      les impôts et les cotisations sociales sont plus élevés ce mois-là.
+
+      Les Coupons FIP et les réductions FIP de voyage nationales des ayants
+      droit sont comptabilisés auprès de l’employé. Aucune réduction non
+      monétaire n’est calculée pour les billets FIP 50.
   intranet-only-warning: >-
     Le calculateur d’imposition n’est accessible que depuis l’intranet de la
     Deutsche Bahn.
@@ -229,9 +258,11 @@ taxation:
   person-one: Personne
   person-other: Personnes
   planning: Planification et optimisation
-  planning-description: >-
+  planning-description: |
     En mode Planification et optimisation, « Optimiser » répartit vos coupons de
-    manière optimale sur les mois. Si vous avez besoin d’un coupon dans un mois
+    manière optimale sur les mois.
+
+    Si vous avez besoin d’un coupon dans un mois
     précis, déplacez-le par glisser-déposer. Il reste alors affecté à ce mois
     jusqu’à ce que vous le déverrouilliez. La fonction « Optimiser » tient
     compte de ces affectations fixes et ajuste la répartition des coupons
@@ -258,6 +289,7 @@ taxation:
     imposition supplémentaire ne s’applique.
   unassigned: Non attribué
   unlock: Supprimer l’attribution
+  year: '2026'
 teamMembers:
   lennart:
     name: Lennart Rommeiß

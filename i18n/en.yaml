@@ -176,19 +176,26 @@ taxation:
   add-operator: Add operator
   add-other: Add taxable benefit
   calculator: Tax Calculator {{ .Year }}
-  calculator-description: >-
+  calculator-description: >
     The tax calculator helps you determine the taxable non-cash benefit value of
+
     your travel benefits.
 
-    1. Select the number of persons for whom you want to calculate
-       international coupons.
+
+    1. Select the number of persons for whom you want to calculate international
+    coupons.
+
     2. Select the coupons and the number of fields you need (the same class and
-       quantity are applied to each person, where possible).
+    quantity are applied to each person, where possible).
+
     3. Add national discounts and any additional taxable non-cash benefits.
+
 
     The total taxable amount is then calculated.
 
+
     In [Planning & Optimization](#planning-optimization), you can reduce your
+
     tax impact by distributing amounts across multiple months.
   category-international: International FIP Coupons
   category-national: National Discounts
@@ -201,6 +208,27 @@ taxation:
   first-class: 1st Class
   general-heading: General
   increase: Increase
+  info:
+    db: |
+      FIP Coupons for employees in Germany are considered _non-monetary
+      compensation_ subject to § 8 of the German Income Tax Act (EStG). FIP
+      Coupons are therefore subject to income tax and social security
+      contributions.
+
+      The assessed value differs depending on the network length that can be
+      covered with the respective coupon and is updated annually. A list of the
+      current amounts is available in the DB Reisemarkt or DB employee portal.
+
+      Each month, all taxable benefits are added together (including other
+      non-monetary benefits such as national FIP discounts). If the sum exceeds
+      a certain threshold (€50 in 2025), the entire amount (not just what
+      exceeds the threshold, but everything) is added to taxable income (usually
+      gross salary). Accordingly, taxes and social contributions are higher that
+      month.
+
+      FIP Coupons and national travel discounts of dependents are counted toward
+      the employee. No non-monetary compensation is calculated for FIP 50
+      tickets.
   intranet-only-warning: The tax calculator is only accessible from Deutsche Bahn’s intranet.
   lock: Set assignment
   missing-info: We currently do not have information on taxation.
@@ -216,9 +244,11 @@ taxation:
   person-one: Person
   person-other: Persons
   planning: Planning & Optimization
-  planning-description: >-
+  planning-description: |
     In Planning & Optimization mode, “Optimize” distributes your coupons across
-    months in an optimal way. If you need a specific coupon in a specific month,
+    months in an optimal way.
+
+    If you need a specific coupon in a specific month,
     move it via drag and drop. It stays fixed in that month until you unlock it.
     “Optimize” respects these fixed assignments and adjusts all remaining
     coupons accordingly. Individual coupons that exceed the threshold on their
@@ -242,6 +272,7 @@ taxation:
     applies.
   unassigned: Unassigned
   unlock: Remove assignment
+  year: '2026'
 teamMembers:
   lennart:
     name: Lennart Rommeiß
