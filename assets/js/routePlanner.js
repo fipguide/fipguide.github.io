@@ -198,6 +198,7 @@ function matchLeg(leg) {
         country: entry.country || null,
         message: entry.message || null,
         borderPoint: entry.borderPoint || null,
+        disableBorderWarning: entry.disableBorderWarning ?? false,
       };
     }
   }
@@ -249,6 +250,7 @@ function getFipStatus(leg) {
     country,
     message,
     borderPoint,
+    disableBorderWarning,
   } = match;
   const isNoFip = operatorSlug === "no-fip";
   const operatorUrl = isNoFip ? null : `/${cfg.lang}/operator/${operatorSlug}/`;
@@ -269,6 +271,7 @@ function getFipStatus(leg) {
       reservationRequired,
       message,
       borderPoint,
+      disableBorderWarning,
       debug,
     };
   }
@@ -281,6 +284,7 @@ function getFipStatus(leg) {
       reservationRequired,
       message,
       borderPoint,
+      disableBorderWarning,
       debug,
     };
   }
@@ -293,6 +297,7 @@ function getFipStatus(leg) {
       reservationRequired,
       message,
       borderPoint,
+      disableBorderWarning,
       debug,
     };
   }
@@ -304,6 +309,7 @@ function getFipStatus(leg) {
     reservationRequired,
     message,
     borderPoint,
+    disableBorderWarning,
     debug,
   };
 }
@@ -324,9 +330,9 @@ function formatDuration(seconds) {
 let fipDebugCounter = 0;
 let legWarningCounter = 0;
 
-function renderInternationalWarning(fromCode, toCode, borderPoint) {
+function renderInternationalWarning(fromCode, toCode, borderPoint, disabled) {
   const cfg = window.routePlannerConfig;
-  if (!fromCode || !toCode || fromCode === toCode) return "";
+  if (disabled || !fromCode || !toCode || fromCode === toCode) return "";
 
   const countries = [...new Set([fromCode, toCode])]
     .map((code) => {
@@ -475,6 +481,7 @@ function renderLeg(leg) {
             fromCode,
             toCode,
             fipStatus.borderPoint,
+            fipStatus.disableBorderWarning,
           );
         const dialog = document.getElementById(dialogId);
         if (dialog) {

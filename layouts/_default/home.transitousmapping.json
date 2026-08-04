@@ -33,6 +33,9 @@
       {{- if isset . "border_point" -}}
         {{- $entry = merge $entry (dict "borderPoint" .border_point) -}}
       {{- end -}}
+      {{- if isset . "disable_border_warning" -}}
+        {{- $entry = merge $entry (dict "disableBorderWarning" .disable_border_warning) -}}
+      {{- end -}}
       {{- $entries = $entries | append $entry -}}
     {{- end -}}
     {{- $entries = sort $entries "priority" "desc" -}}
