@@ -1,6 +1,6 @@
 const snackbar = document.getElementById("snackbar");
-const snackbarHome = snackbar.parentNode;
-const snackbarNextSibling = snackbar.nextSibling;
+const snackbarHome = snackbar ? snackbar.parentNode : null;
+const snackbarNextSibling = snackbar ? snackbar.nextSibling : null;
 
 function initAnchorlinkEventListener() {
   const anchorLinks = document.querySelectorAll(".a-anchorlink__link");
@@ -33,6 +33,8 @@ function initSnackbarCloseListener() {
 }
 
 export function showSnackbar() {
+  if (!snackbar) return;
+
   const openDialog = document.querySelector("dialog[open]");
   if (openDialog && snackbar.parentNode !== openDialog) {
     openDialog.append(snackbar);
@@ -48,6 +50,8 @@ export function showSnackbar() {
 }
 
 export function closeSnackbar() {
+  if (!snackbar) return;
+
   snackbar.setAttribute("aria-hidden", "true");
   snackbar.classList.remove("a-snackbar--show");
   if (snackbar.hidePopover && snackbar.matches(":popover-open")) {

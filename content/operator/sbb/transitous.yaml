@@ -1,4 +1,0 @@
-- query: agencyName == "SBB"
-- query: agencyName == "CFF"
-- query: agencyName == "FFS"
-- query: agencyName == "SBB CFF FFS"
