@@ -1,10 +1,10 @@
 backend:
   name: github
-  repo: MoritzWeber0/fipguide.github.io
+  repo: fipguide/fipguide.github.io
   branch: main
   auth_scope: repo
   open_authoring: true
-  site_domain: fipguide-test.netlify.app
+  site_domain: fipguide.netlify.app
 publish_mode: editorial_workflow
 logo:
   src: /images/logo.svg
