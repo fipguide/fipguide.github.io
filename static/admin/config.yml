@@ -85,6 +85,8 @@ collections:
           - "dialog"
           - "float-image"
           - "wip"
+          - "update"
+          - "columns"
 
   - name: "country"
     label: "Countries"
@@ -119,6 +121,7 @@ collections:
           - "float-image"
           - "wip"
           - "identify-operator"
+          - "columns"
 
   - name: "operator"
     label: "Operators"
@@ -167,6 +170,7 @@ collections:
           - "wip"
           - "fip-validity-comparison"
           - "icon"
+          - "columns"
 
   - name: "booking"
     label: "Booking Platforms"
@@ -221,6 +225,12 @@ collections:
             default: false
             required: false
             i18n: duplicate
+          - label: "FIP 75"
+            name: fip_75
+            widget: boolean
+            default: false
+            required: false
+            i18n: duplicate
           - label: "Reservations"
             name: reservations
             widget: boolean
@@ -236,10 +246,17 @@ collections:
             widget: string
             required: false
             i18n: duplicate
+          - label: "Fee"
+            name: fee
+            widget: string
+            required: false
+            i18n: duplicate
+            hint: 'Fee for booking, e.g. "€ 5" or "5 %".'
           - label: "Type"
             name: type
             widget: select
-            options: [website, onsite, phone, email, socialmedia, machine]
+            options:
+              [website, online, onsite, phone, email, socialmedia, machine]
             i18n: duplicate
       - label: "Body"
         name: "body"
@@ -255,6 +272,7 @@ collections:
           - "dialog"
           - "float-image"
           - "wip"
+          - "columns"
 
   - name: "general"
     label: "General Pages"
@@ -289,6 +307,7 @@ collections:
           - "dialog"
           - "float-image"
           - "wip"
+          - "columns"
 
   - name: "faq"
     label: "FAQ"
@@ -323,6 +342,7 @@ collections:
           - "dialog"
           - "float-image"
           - "wip"
+          - "columns"
 
   - name: "identify-operator"
     label: "Identify Operator"
@@ -362,3 +382,4 @@ collections:
           - "dialog"
           - "float-image"
           - "wip"
+          - "columns"

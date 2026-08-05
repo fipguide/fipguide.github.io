@@ -319,8 +319,14 @@
     {
       name: "fip_accepted",
       label: "FIP accepted",
-      widget: "boolean",
-      default: true,
+      widget: "select",
+      options: [
+        { label: "No", value: "false" },
+        { label: "Yes", value: "true" },
+        { label: "Partially", value: "partially" },
+        { label: "Unknown", value: "unknown" },
+      ],
+      default: "true",
       param: { bare: true, required: true },
     },
     {
@@ -380,7 +386,7 @@
         id: String(p.id || ""),
         title: String(p.title || ""),
         type: String(p.type || "regional"),
-        fip_accepted: p.fip_accepted !== false,
+        fip_accepted: String(p.fip_accepted ?? true),
         reservation_required: String(p.reservation_required || "false"),
         reservation_possible: String(p.reservation_possible || "false"),
         route_overview_url: String(p.route_overview_url || ""),
@@ -799,6 +805,94 @@
       return {};
     },
     toBlock: makeToBlock("wip", { bracket: "<", fields: [], bodyMode: "none" }),
+  });
+
+  var updateFields = [
+    {
+      name: "date",
+      label: "Date",
+      widget: "datetime",
+      date_format: "YYYY-MM-DD",
+      time_format: false,
+      param: { required: true },
+    },
+    {
+      name: "body",
+      label: "Content",
+      widget: "markdown",
+      editor_components: ["button", "float-image", "highlight", "image"],
+    },
+  ];
+
+  CMS.registerEditorComponent({
+    id: "update",
+    label: "Update",
+    fields: updateFields,
+    pattern: shortcodePattern("update"),
+    fromBlock: function (match) {
+      var p = parseHugoParams(match[1]);
+      return { date: String(p.date || ""), body: match[2].trim() };
+    },
+    toBlock: makeToBlock("update", {
+      fields: updateFields,
+      bodyMode: "required",
+      bodySeparator: "\n",
+    }),
+  });
+
+  var columnFields = [
+    {
+      name: "width",
+      label: "Width (CSS)",
+      widget: "string",
+      param: { required: true },
+    },
+    {
+      name: "body",
+      label: "Content",
+      widget: "markdown",
+      editor_components: ["button", "float-image", "highlight", "image"],
+    },
+  ];
+
+  CMS.registerEditorComponent({
+    id: "column",
+    label: "Column",
+    fields: columnFields,
+    pattern: shortcodePattern("column"),
+    fromBlock: function (match) {
+      var p = parseHugoParams(match[1]);
+      return { width: String(p.width || ""), body: match[2].trim() };
+    },
+    toBlock: makeToBlock("column", {
+      fields: columnFields,
+      bodyMode: "required",
+      bodySeparator: "\n",
+    }),
+  });
+
+  var columnsFields = [
+    {
+      name: "body",
+      label: "Content",
+      widget: "markdown",
+      editor_components: ["column"],
+    },
+  ];
+
+  CMS.registerEditorComponent({
+    id: "columns",
+    label: "Columns",
+    fields: columnsFields,
+    pattern: shortcodePattern("columns"),
+    fromBlock: function (match) {
+      return { body: match[2].trim() };
+    },
+    toBlock: makeToBlock("columns", {
+      fields: columnsFields,
+      bodyMode: "required",
+      bodySeparator: "\n",
+    }),
   });
 
   var iconFields = [
