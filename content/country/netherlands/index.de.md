@@ -67,7 +67,7 @@ Mit dem Eurostar (ehemals Thalys) kann ebenfalls von den Niederlanden aus das Ne
 
 #### Dreiländerzug (Liège – Maastricht – Heerlen – Aachen)
 
-Seit Juni 2024 betreibt Arriva den Dreiländerzug zwischen Aachen (Deutschland), Heerlen (Niederlande), Maastricht (Niederlande) und Liège-Guillemins (Belgien). Auf dem Abschnitt zwischen Maastricht und Liège-Guillemins wird der Zug im Auftrag der NS (niederländischer Abschnitt) und der SNCB (belgischer Abschnitt) betrieben. NS- und SNCB-Tickets, einschließlich FIP, bleiben auf diesem Abschnitt gültig.
+Seit Juni 2024 betreibt Arriva den Dreiländerzug RE18 zwischen Aachen (Deutschland), Heerlen (Niederlande), Maastricht (Niederlande) und Liège-Guillemins (Belgien). Auf dem Abschnitt zwischen Maastricht und Liège-Guillemins wird der Zug im Auftrag der NS (niederländischer Abschnitt) und der SNCB (belgischer Abschnitt) betrieben. NS- und SNCB-Tickets, einschließlich FIP, sind auf diesem Abschnitt gültig.
 
 {{% highlight important %}}
 FIP ist zwischen Maastricht und Liège-Guillemins gültig. Zwischen Maastricht und Aachen (über Heerlen) wird der Zug von Arriva betrieben und FIP ist nicht gültig.

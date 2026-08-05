@@ -67,7 +67,7 @@ L’Eurostar (anciennement Thalys) permet aussi de rejoindre la Belgique depuis 
 
 #### Train des Trois Pays (Liège – Maastricht – Heerlen – Aix-la-Chapelle)
 
-Depuis juin 2024, Arriva exploite le Train des Trois Pays entre Aix-la-Chapelle (Allemagne), Heerlen (Pays-Bas), Maastricht (Pays-Bas) et Liège-Guillemins (Belgique). Sur la section entre Maastricht et Liège-Guillemins, le train est exploité pour le compte de la NS (section néerlandaise) et de la SNCB (section belge). Les billets NS et SNCB, y compris les titres FIP, restent valables sur cette section.
+Depuis juin 2024, Arriva exploite le Train des Trois Pays RE18 entre Aix-la-Chapelle (Allemagne), Heerlen (Pays-Bas), Maastricht (Pays-Bas) et Liège-Guillemins (Belgique). Sur la section entre Maastricht et Liège-Guillemins, le train est exploité pour le compte de la NS (section néerlandaise) et de la SNCB (section belge). Les billets NS et SNCB, y compris les titres FIP, sont valables sur cette section.
 
 {{% highlight important %}}
 Le FIP est valable entre Maastricht et Liège-Guillemins. Entre Maastricht et Aix-la-Chapelle (via Heerlen), le train est exploité par Arriva et le FIP n'est pas valable.

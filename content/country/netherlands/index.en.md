@@ -67,7 +67,7 @@ With the Eurostar (formerly Thalys), you can also reach the SNCB network from th
 
 #### Three-Country Train (Liège – Maastricht – Heerlen – Aachen)
 
-Since June 2024, Arriva operates the Three-Country Train between Aachen (Germany), Heerlen (Netherlands), Maastricht (Netherlands), and Liège-Guillemins (Belgium). On the section between Maastricht and Liège-Guillemins, the train is operated on behalf of NS (Dutch section) and SNCB (Belgian section). NS and SNCB tickets, including FIP, remain valid on this section.
+Since June 2024, Arriva operates the Three-Country Train RE18 between Aachen (Germany), Heerlen (Netherlands), Maastricht (Netherlands), and Liège-Guillemins (Belgium). On the section between Maastricht and Liège-Guillemins, the train is operated on behalf of NS (Dutch section) and SNCB (Belgian section). NS and SNCB tickets, including FIP, are valid on this section.
 
 {{% highlight important %}}
 FIP is valid between Maastricht and Liège-Guillemins. Between Maastricht and Aachen (via Heerlen), the train is operated by Arriva and FIP is not valid.
