@@ -290,6 +290,40 @@ collections:
           - "float-image"
           - "wip"
 
+  - name: "faq"
+    label: "FAQ"
+    label_singular: "FAQ Entry"
+    folder: "content/general/faq"
+    path: "{{slug}}/_index"
+    publish: false
+    create: true
+    delete: false
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Weight"
+        name: "weight"
+        widget: "number"
+        required: false
+        i18n: duplicate
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          - "image"
+          - "highlight"
+          - "expander"
+          - "button"
+          - "dialog"
+          - "float-image"
+          - "wip"
+
   - name: "identify-operator"
     label: "Identify Operator"
     label_singular: "Identify Operator"
@@ -316,40 +350,6 @@ collections:
             widget: string
             required: false
             i18n: duplicate
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
-        i18n: true
-        editor_components:
-          - "image"
-          - "highlight"
-          - "expander"
-          - "button"
-          - "dialog"
-          - "float-image"
-          - "wip"
-
-  - name: "faq"
-    label: "FAQ"
-    label_singular: "FAQ Entry"
-    folder: "content/general/faq"
-    path: "{{slug}}/_index"
-    publish: false
-    create: true
-    delete: false
-    i18n: true
-    editor:
-      preview: false
-    fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-        i18n: true
-      - label: "Weight"
-        name: "weight"
-        widget: "number"
-        required: false
-        i18n: duplicate
       - label: "Body"
         name: "body"
         widget: "markdown"
