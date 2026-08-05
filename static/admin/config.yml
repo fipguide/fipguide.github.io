@@ -33,10 +33,6 @@ collections:
     editor:
       preview: false
     fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-        i18n: true
       - label: "Publish Date"
         name: "date"
         widget: "datetime"
@@ -46,11 +42,37 @@ collections:
         widget: "string"
         i18n: duplicate
         required: false
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
       - label: "Description"
         name: "description"
         widget: "string"
         required: false
         i18n: true
+      - label: "Countries"
+        name: "country"
+        widget: "relation"
+        collection: "country"
+        search_fields: ["title"]
+        value_field: "country"
+        display_fields: ["title"]
+        multiple: true
+        required: false
+        i18n: duplicate
+        hint: "List of countries this news article is about."
+      - label: "Operators"
+        name: "operator"
+        widget: "relation"
+        collection: "operator"
+        search_fields: ["title"]
+        value_field: "operator"
+        display_fields: ["title"]
+        multiple: true
+        required: false
+        i18n: duplicate
+        hint: "List of operators this news article is about."
       - label: "Body"
         name: "body"
         widget: "markdown"
@@ -113,11 +135,6 @@ collections:
         name: "title"
         widget: "string"
         i18n: true
-      - label: "Operator"
-        name: "operator"
-        widget: "string"
-        i18n: duplicate
-        hint: A unique identifier of the operator (slug).
       - label: "Countries"
         name: "country"
         widget: "relation"
@@ -128,6 +145,11 @@ collections:
         multiple: true
         i18n: duplicate
         hint: "List of countries the operator operates in."
+      - label: "Operator"
+        name: "operator"
+        widget: "string"
+        i18n: duplicate
+        hint: A unique identifier of the operator (slug).
       - label: "Body"
         name: "body"
         widget: "markdown"
@@ -171,11 +193,22 @@ collections:
         widget: object
         i18n: true
         fields:
-          - label: "Type"
-            name: type
-            widget: select
-            options: [website, onsite, phone, email, socialmedia, machine]
-            i18n: duplicate
+          - name: classes
+            label: "Classes"
+            widget: object
+            required: false
+            i18n: true
+            fields:
+              - label: "First Class"
+                name: first
+                widget: string
+                required: false
+                i18n: duplicate
+              - label: "Second Class"
+                name: second
+                widget: string
+                required: false
+                i18n: duplicate
           - label: "FIP 50"
             name: fip_50
             widget: boolean
@@ -202,22 +235,11 @@ collections:
             widget: string
             required: false
             i18n: duplicate
-          - name: classes
-            label: "Classes"
-            widget: object
-            required: false
-            i18n: true
-            fields:
-              - label: "First Class"
-                name: first
-                widget: string
-                required: false
-                i18n: duplicate
-              - label: "Second Class"
-                name: second
-                widget: string
-                required: false
-                i18n: duplicate
+          - label: "Type"
+            name: type
+            widget: select
+            options: [website, onsite, phone, email, socialmedia, machine]
+            i18n: duplicate
       - label: "Body"
         name: "body"
         widget: "markdown"
