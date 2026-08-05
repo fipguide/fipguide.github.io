@@ -313,7 +313,7 @@ collections:
     label: "FAQ"
     label_singular: "FAQ Entry"
     folder: "content/general/faq"
-    path: "{{slug}}/_index"
+    path: "{{slug}}/index"
     publish: false
     create: true
     delete: false
