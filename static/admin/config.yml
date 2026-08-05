@@ -166,6 +166,7 @@ collections:
           - "float-image"
           - "wip"
           - "fip-validity-comparison"
+          - "icon"
 
   - name: "booking"
     label: "Booking Platforms"
