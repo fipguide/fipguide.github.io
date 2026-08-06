@@ -895,28 +895,6 @@
     }),
   });
 
-  var iconFields = [
-    {
-      name: "name",
-      label: "Icon name",
-      widget: "string",
-      hint: "Material Symbols Rounded icon name (e.g. bedtime, arrow_range). Browse available icons at https://fonts.google.com/icons?icon.style=Rounded",
-      param: { positional: true, quote: true, required: true },
-    },
-  ];
-
-  CMS.registerEditorComponent({
-    id: "icon",
-    label: "Icon",
-    fields: iconFields,
-    pattern: selfClosingPattern("icon"),
-    fromBlock: function (match) {
-      var nameMatch = match[1].match(/"([^"]*)"/);
-      return { name: nameMatch ? nameMatch[1] : "" };
-    },
-    toBlock: makeToBlock("icon", { fields: iconFields, bodyMode: "none" }),
-  });
-
   CMS.registerEditorComponent({
     id: "fip-validity-comparison",
     label: "FIP Validity Comparison",

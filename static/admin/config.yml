@@ -169,7 +169,6 @@ collections:
           - "float-image"
           - "wip"
           - "fip-validity-comparison"
-          - "icon"
           - "columns"
 
   - name: "booking"
