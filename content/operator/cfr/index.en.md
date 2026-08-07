@@ -34,7 +34,7 @@ The train categories are partially used by other operators in Romania as well. F
     type="highspeed"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 National long-distance trains with few intermediate stops and comparatively higher comfort. They mainly run from Bucharest in various directions across the country.
@@ -57,7 +57,7 @@ A seat reservation is mandatory. If the train is fully booked, a standing reserv
     type="highspeed"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Comparatively fast trains connecting major cities with few intermediate stops. Some also run cross-border, particularly to Hungary.
@@ -80,7 +80,7 @@ A seat reservation is mandatory. If the train is fully booked, a standing reserv
     type="highspeed"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Mostly international trains running overnight. They are also partially listed as `D` in the journey planners of other providers.

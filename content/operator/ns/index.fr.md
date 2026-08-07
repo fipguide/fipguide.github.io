@@ -72,7 +72,7 @@ En 2026, ce sera le cas du 26 juin au 16 août.
 
 Train international avec supplément entre Lelystad, Amsterdam et Bruxelles, avec arrêts à Almere, Schiphol, Rotterdam et Anvers.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Pour un trajet exclusivement national sur le tronçon entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) de 3,20 € est requis pour les Billets FIP 50.
 
 Si le Billet FIP 50 comprend également un tronçon international (embarquement ou débarquement de l’`ECD` en dehors des Pays-Bas), aucun supplément n’est requis pour les Billets FIP 50, même si le tronçon Rotterdam - Schiphol est emprunté avec l’`ECD`.
@@ -91,7 +91,7 @@ Exemples de billets sans supplément requis :
 Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-supplement), via l’application NS ou sur place au guichet ou au distributeur. Il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
 
 Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tarif réduit de 1,92 € (40 % de réduction) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
-{{% /highlight %}}
+{{< /highlight >}}
 
 ![Réseau Eurocity (Direct)](eurocity-map.fr.svg)
 
@@ -125,13 +125,13 @@ Train international entre Rotterdam et Bruxelles avec plusieurs arrêts intermé
 
 Train rapide, partiellement avec supplément, entre Lelystad ou Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal et Breda.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Pour les trajets sur le tronçon entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) de 3,20 € est requis pour les Billets FIP 50.
 
 Ce supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-supplement), via l’application NS ou sur place au guichet ou au distributeur. Il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
 
 Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tarif réduit de 1,92 € (40 % de réduction) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
-{{% /highlight %}}
+{{< /highlight >}}
 
 ![Réseau Intercity Direct, Spag85, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg)](intercity-direct-map.webp)
 
@@ -191,11 +191,11 @@ Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares 
 
 Trains régionaux avec le branding R-net rouge-gris sur la ligne d’Alphen aan den Rijn à Gouda.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 R-net (Randstadnet) est un concept de transport dans la région métropolitaine de la Randstad, exploité par plusieurs opérateurs avec un branding uniforme rouge-gris des véhicules. Il comprend des trains, métros, tramways et bus. Avec le FIP, seule la liaison R-net d’Alphen aan den Rijn à Gouda, exploitée par NS, peut être utilisée. [^6] Toutes les autres liaisons R-net, en particulier la ligne Geldermalsen - Dordrecht (Qbuzz Stoptrein), ne peuvent pas être utilisées avec le FIP.
 
 Dans la recherche d’itinéraire de la NS, les liaisons sont indiquées comme `R-net NS Sprinter`. Ne pas confondre avec le `R-net Qbuzz Stoptrein`, qui ne peut pas être utilisé avec le FIP. Dans d’autres systèmes d’information, par exemple celui de la DB, la liaison peut éventuellement être indiquée seulement comme `RE` de l’opérateur « R-net ». Ici, une distinction avec le R-net Qbuzz Stoptrein n’est possible que sur la base de la ligne !
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

@@ -36,7 +36,7 @@ Dans la recherche d’horaires en ligne de SŽ, les liaisons transfrontalières 
     type="highspeed"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Trains nationaux grandes lignes exploités avec le type de train [SŽ 310 “Pendolino”](https://potniski.sz.si/en/train/emg-310-316-pendolino/). Ces trains utilisent la technologie pendulaire, offrent des temps de trajet plus courts et peu d’arrêts intermédiaires. En semaine, un petit bistrot propose également des snacks et des boissons. La ligne est principalement exploitée entre Ljubljana et Maribor.
@@ -104,7 +104,7 @@ Aucune réservation n’est obligatoire, mais un supplément de 1,50 € s’app
     type="sleeper"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Trains de nuit internationaux vers la Croatie, l’Autriche et l’Allemagne. Les trains proposent des voitures-couchettes et des voitures-lits ainsi que des voitures assises, et sont exploités à l’étranger en coopération avec d’autres compagnies ferroviaires.

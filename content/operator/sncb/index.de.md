@@ -75,9 +75,9 @@ Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle
 
 Internationaler Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Für Fahrten innerhalb der Niederlande gelten besondere Regelungen, siehe [NS ECD](/operator/ns#ecd)
-{{% /highlight %}}
+{{< /highlight >}}
 
 ![Eurocity (Direct) Netz](eurocity-map.de.svg)
 

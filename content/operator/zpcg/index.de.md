@@ -50,7 +50,7 @@ Bei Vorlage des FIP Ausweises wird ein Rabatt von 50 % auf die [regulären Ticke
     type="sleeper"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Zwischen Montenegro und Serbien betreibt die ŽPCG in den Sommermonaten Tagzüge sowie ganzjährig Nachtzüge mit Sitz-, Liege- und Schlafwagen sowie (teilweise) Speisewagen.

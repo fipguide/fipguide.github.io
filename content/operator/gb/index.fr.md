@@ -579,9 +579,9 @@ Les services suivants n’acceptent pas le FIP : [^1]
 
 Le métro londonien est exploité par TfL et n’accepte pas les réductions FIP.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Avec les Billets FIP 50 / FIP 75 National Rail nécessitant un transfert entre gares londoniennes, le métro peut être utilisé exclusivement pour la liaison entre ces gares. L’interruption du trajet dans le métro n’est pas autorisée. Les billets valables pour ce transfert sont marqués ✠ (croix de Malte) ou † (poignard). [^1]
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

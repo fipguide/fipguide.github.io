@@ -48,7 +48,7 @@ Reservations are mandatory on all `TGV`, almost all `IC` trains, and some region
     type="highspeed"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
     route_overview_url="https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf"
 %}}
 
@@ -79,7 +79,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
     type="highspeed"
     fip_accepted=false
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 OUIGO (Grande Vitesse) is SNCF's low-cost high-speed train connecting numerous cities in France and some international destinations. There are also OUIGO Classique trains composed of conventional coaching stock.
@@ -96,7 +96,7 @@ SNCF also operates `TGV` trains under the inOui brand, which are valid with FIP.
     type="highspeed"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 International high-speed trains operated by SNCF in cooperation with Deutsche Bahn, running between France (Paris Est, Strasbourg) and Germany (Karlsruhe, Mannheim, Frankfurt am Main, Erfurt, Halle (Saale) and Berlin or Stuttgart and Munich). In July and August, there are also [direct trains between Frankfurt (Main) and Bordeaux on Saturdays](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux).
@@ -147,7 +147,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
     type="sleeper"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 SNCF night trains within France. International Nightjet connections ended in December 2025.
@@ -338,7 +338,7 @@ Some `TGV` trains run from Paris to Freiburg and are operated entirely by SNCF, 
     type="highspeed"
     fip_accepted=partially
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 International `TGV` services from France to Italy, Spain, or Belgium are reservation-required throughout and FIP Coupons are not valid. Instead, FIP Global Fares can be purchased, which can be expensive (up to €130).
@@ -351,7 +351,7 @@ International `TGV` services from France to Italy, Spain, or Belgium are reserva
     type="highspeed"
     fip_accepted=partially
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Cross-border `TGV` connections from France to Luxembourg require reservations for the entire journey, and FIP Coupons are not valid. Instead, FIP Global Fares can be purchased.

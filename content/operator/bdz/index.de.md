@@ -36,7 +36,7 @@ Die Zugkategorien werden bei der BDŽ wie unten beschrieben in der Reiseauskunft
     type="highspeed"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Internationale Züge, die zwischen Bukarest in Rumänien nach Sofia oder Varna verkehren. Diese Züge verkehren nur in dem Sommerhalbjahr direkt, ansonsten ist ein Umstieg in Ruse nötig. Sie werden in der Verbindungsauskunft bei anderen Anbietern auch teilweise als `IR` gekennzeichnet.

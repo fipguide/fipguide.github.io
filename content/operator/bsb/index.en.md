@@ -51,9 +51,9 @@ On the following routes, cars can be transported:
 
 Some ships offer a restaurant or snacks and drinks.
 
-{{% highlight important %}}
+{{< highlight important >}}
 FIP discounts are not accepted on the SBS ferry between Altnau-Hagnau and Immenstaad.[^3]
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

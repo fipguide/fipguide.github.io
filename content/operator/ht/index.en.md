@@ -73,7 +73,7 @@ Tourist services such as the Pelion Train are also shown as `REG` in the journey
     type="bus"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Buses operated by Hellenic Train accept FIP benefits.[^1]
@@ -95,9 +95,9 @@ Hellenic Train operates three tourist or historic train services on which FIP is
 - Rack railway "Odontotos" from Diakopto (Διακοπτό) to Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/attraction-rails)
 - Katakolo (Κατάκολο) – Olympia (Αρχαία Ολυμπία) (https://www.hellenictrain.gr/en/katakolo-olympia)
 
-{{% highlight info %}}
+{{< highlight tip >}}
 According to experience reports, the rack railway between Diakopto and Kalavryta can be used with an FIP Coupon and a free reservation obtainable on site. We are currently unable to verify usability with FIP 50, as services have been temporarily suspended.[^3]
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

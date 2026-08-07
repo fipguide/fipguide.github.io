@@ -51,9 +51,9 @@ Sur les itinéraires suivants, il est possible d’embarquer des voitures :
 
 Certains navires disposent d’un restaurant ou proposent des snacks et des boissons.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Les réductions FIP ne sont pas acceptées sur le ferry SBS entre Altnau-Hagnau et Immenstaad.[^3]
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

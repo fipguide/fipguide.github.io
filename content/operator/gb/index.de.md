@@ -577,9 +577,9 @@ Folgende Verkehrsmittel akzeptieren kein FIP: [^1]
 
 Die London Underground wird von TfL betrieben und akzeptiert keine FIP Vergünstigungen.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Bei FIP 50 / FIP 75 National Rail Tickets, die einen Umstieg zwischen Londoner Bahnhöfen erfordern, darf die London Underground ausschließlich für die Verbindung zwischen diesen Bahnhöfen genutzt werden. Die Unterbrechung der Fahrt in der London Underground ist hierbei nicht gestattet. Tickets, die in der London Underground für diesen Transfer verwendet werden können, sind mit ✠ (Malteserkreuz) oder † (Dolch) gekennzeichnet. [^1]
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

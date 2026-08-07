@@ -36,7 +36,7 @@ Cross-border connections are sometimes only shown up to the border in the SŽ on
     type="highspeed"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 National long-distance trains are operated with the [SŽ 310 “Pendolino”](https://potniski.sz.si/en/train/emg-310-316-pendolino/) train type. These trains feature tilting technology, shorter travel times and few intermediate stops. On weekdays, a small bistro also serves snacks and drinks. The route is mainly operated between the country’s two largest cities, Ljubljana and Maribor.
@@ -104,7 +104,7 @@ No reservation is mandatory, but a surcharge of €1.50 applies to FIP reduced t
     type="sleeper"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 International night trains to Croatia, Austria and Germany. The trains offer sleeper and couchette cars as well as seating cars, and are operated abroad in cooperation with other railways.

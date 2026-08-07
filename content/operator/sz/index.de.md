@@ -36,7 +36,7 @@ Außerdem werden in der Onlineauskunft der SŽ grenzüberschreitende Verbindunge
     type="highspeed"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Nationale Fernzüge, die mit dem Zugtyp [SŽ 310 “Pendolino”](https://potniski.sz.si/en/train/emg-310-316-pendolino/) gefahren werden. Dieser zeichnet sich durch verwendete Neigetechnik, kürzere Reisezeiten und wenige Zwischenhalte aus. Unter der Woche werden in einem kleinen Bistro auch Snacks und Getränke angeboten. Meist wird die Route zwischen den beiden größten Städten Ljubljana nach Maribor bedient.
@@ -104,7 +104,7 @@ Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets 
     type="sleeper"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Internationale Nachtzüge nach Kroatien, Österreich und Deutschland. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben.

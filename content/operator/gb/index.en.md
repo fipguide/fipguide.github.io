@@ -575,9 +575,9 @@ The following services do not accept FIP: [^1]
 
 The London Underground is operated by TfL and does not accept FIP discounts.
 
-{{% highlight important %}}
+{{< highlight important >}}
 With FIP 50 / FIP 75 National Rail Tickets requiring a transfer between London stations, the Underground may be used exclusively for the connection between these stations. Break of journey in the Underground is not permitted. Tickets valid for this transfer are marked with ✠ (Maltese cross) or † (dagger). [^1]
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

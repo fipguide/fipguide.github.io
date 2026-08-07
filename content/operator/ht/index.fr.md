@@ -73,7 +73,7 @@ Les services touristiques comme le Pelion Train sont également indiqués comme 
     type="bus"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Les bus exploités par Hellenic Train acceptent les avantages FIP.[^1]
@@ -95,9 +95,9 @@ Hellenic Train exploite trois liaisons ferroviaires touristiques ou historiques 
 - Chemin de fer à crémaillère « Odontotos » de Diakopto (Διακοπτό) à Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/attraction-rails)
 - Katakolo (Κατάκολο) – Olympie (Αρχαία Ολυμπία) (https://www.hellenictrain.gr/en/katakolo-olympia)
 
-{{% highlight info %}}
+{{< highlight tip >}}
 Selon des retours d’expérience, le chemin de fer à crémaillère entre Diakopto et Kalavryta peut être utilisé avec un Coupon FIP et une réservation gratuite disponible sur place. Nous ne sommes actuellement pas en mesure de vérifier l’utilisation avec le FIP 50, car l’exploitation a été temporairement suspendue.[^3]
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

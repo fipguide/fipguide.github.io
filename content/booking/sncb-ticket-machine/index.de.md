@@ -17,9 +17,9 @@ Auf dem Hauptbildschirm des Fahrkartenautomaten "SNCB Staff Ticket"[^2] auswähl
 
 Zu beachten: Tickets zum Flughafen Brüssel Zaventem, die am Fahrkartenautomaten erworben werden, enthalten den Flughafenzuschlag nicht. Der Zuschlag muss als separates Zusatzprodukt erworben werden. [^1]
 
-{{% highlight important %}}
+{{< highlight important >}}
 Bei Ticketkauf am Automaten werden Tickets mit dem Tarifcode C01 ausgestellt. Diese richten sich eigentlich an SNCB Personal. Die richtigen Ticketcodes wären C99 für FIP50 und C00 für FIP75. Der Unterschied zwischen C01 und C99 ist der Flughafenzuschlag, der bei C01 nicht erhoben wird und deshalb separat gelöst werden muss.[^3] Nach unseren Informationen können die Automatentickets mit Tarifcode C01 auch für FIP50 verwendet werden, eine offizielle Garantie gibt es jedoch nicht.[^1]
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}
 
 [^1]: [FIP Guide Community: Confirmation that FIP tickets can be used](https://discord.com/channels/1250522473188032512/1510952481532678176/1511320669118529708)

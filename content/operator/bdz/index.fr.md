@@ -36,7 +36,7 @@ Les catégories de trains sont affichées dans les horaires BDŽ comme décrit c
     type="highspeed"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Trains internationaux reliant Bucarest (Roumanie) à Sofia ou Varna. Ces trains ne circulent directement qu’en été ; sinon, une correspondance à Ruse est nécessaire. Dans d’autres horaires, ils peuvent aussi être indiqués comme `IR`.
@@ -115,7 +115,7 @@ Trains régionaux en trafic intérieur desservant la plupart des gares, circulan
     type="sleeper"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Trains circulant de nuit et nécessitant une réservation.

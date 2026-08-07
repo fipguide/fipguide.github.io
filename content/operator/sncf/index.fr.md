@@ -48,7 +48,7 @@ La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC
     type="highspeed"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
     route_overview_url="https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf"
 %}}
 
@@ -79,7 +79,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
     type="highspeed"
     fip_accepted=false
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 OUIGO (Grande Vitesse) est le service grande vitesse low-cost de la SNCF, reliant de nombreuses villes en France et quelques destinations internationales. Il existe également des OUIGO Classique composés de matériel conventionnel.
@@ -96,7 +96,7 @@ La SNCF exploite aussi des `TGV` sous la marque inOui, qui sont valables avec le
     type="highspeed"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Trains à grande vitesse internationaux exploités par la SNCF en coopération avec la Deutsche Bahn, entre la France (Paris Est, Strasbourg) et l’Allemagne (Karlsruhe, Mannheim, Francfort-sur-le-Main, Erfurt, Halle-sur-Saale et Berlin ou Stuttgart et Munich). En juillet et août, il existe également des [trains directs entre Francfort (Main) et Bordeaux les samedis](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux).
@@ -149,7 +149,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
     type="sleeper"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Trains de nuit SNCF en France. Les liaisons internationales Nightjet ont été supprimées en décembre 2025.
@@ -339,7 +339,7 @@ Quelques trains `TGV` circulent de Paris à Fribourg-en-Brisgau et sont entière
     type="highspeed"
     fip_accepted=partially
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Les trains TGV internationaux de la France vers l’Italie, l’Espagne ou la Belgique sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP, qui peuvent être très chers (jusqu’à 130 €).
@@ -352,7 +352,7 @@ Les trains TGV internationaux de la France vers l’Italie, l’Espagne ou la Be
     type="highspeed"
     fip_accepted=partially
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Les trains TGV internationaux entre la France et le Luxembourg sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP.

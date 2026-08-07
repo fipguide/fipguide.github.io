@@ -34,7 +34,7 @@ Les catégories de trains sont en partie également utilisées par d’autres op
     type="highspeed"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Trains nationaux longue distance avec peu d’arrêts intermédiaires et un confort comparativement plus élevé. Ils circulent principalement au départ de Bucarest dans les différentes directions du pays.
@@ -57,7 +57,7 @@ Une réservation de place assise est obligatoire. Si le train est complet, une r
     type="highspeed"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Trains relativement rapides reliant les grandes villes du pays avec peu d’arrêts intermédiaires. Certains circulent également en transfrontalier, notamment vers la Hongrie.
@@ -80,7 +80,7 @@ Une réservation de place assise est obligatoire. Si le train est complet, une r
     type="highspeed"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Trains principalement internationaux circulant de nuit. Ils sont aussi parfois référencés comme `D` dans les recherches de correspondances d’autres fournisseurs.

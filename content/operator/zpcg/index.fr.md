@@ -50,7 +50,7 @@ Sur présentation de la Carte FIP, une réduction de 50 % est accordée sur les 
     type="sleeper"
     fip_accepted=true
     reservation_required=true
-    reservation_possible=false
+    reservation_possible=true
 %}}
 
 Entre le Monténégro et la Serbie, ŽPCG exploite des trains de jour pendant les mois d’été ainsi que des trains de nuit toute l’année avec voitures assises, voitures-couchettes et voitures-lits, ainsi que (partiellement) des voitures-restaurants.
