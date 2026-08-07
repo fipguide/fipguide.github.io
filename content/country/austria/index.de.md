@@ -1,11 +1,12 @@
 ---
 draft: false
-title: "Österreich"
-country: "austria"
+title: Österreich
+country: austria
 params:
   operators_without_fip:
     - Achenseebahn
-    - '[CAT (City Airport Train) Wien](/operator/oebb#wien-flughafen-city-airport-train-cat "CAT")'
+    - '[CAT (City Airport Train)
+      Wien](/operator/oebb#wien-flughafen-city-airport-train-cat "CAT")'
     - Graz–Köflacher Bahn (GKB)
     - Montafonerbahn
     - NÖVOG
@@ -17,7 +18,6 @@ params:
     - Wiener Lokalbahn (Badner Bahn)
     - Zillertalbahn
 ---
-
 ## FIP Nutzung
 
 In Österreich können Züge der [Österreichischen Bundesbahnen (ÖBB)](/operator/oebb "ÖBB") mit FIP Tickets genutzt werden. Ebenfalls parallel zur ÖBB unterwegs im Fernverkehr sind die Unternehmen Westbahn und RegioJet, diese können nicht mit FIP-Fahrscheinen genutzt werden. Diese werden in der Verbindungsaufkunft mit `IC` bzw. `WB` (nicht zu verwechseln mit `IC` der ÖBB) abgekürzt.

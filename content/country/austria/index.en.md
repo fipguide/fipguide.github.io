@@ -1,11 +1,12 @@
 ---
 draft: false
-title: "Austria"
-country: "austria"
+title: Austria
+country: austria
 params:
   operators_without_fip:
     - Achenseebahn
-    - '[CAT (City Airport Train) Vienna](/operator/oebb#vienna-airport-city-airport-train-cat "CAT")'
+    - '[CAT (City Airport Train)
+      Vienna](/operator/oebb#vienna-airport-city-airport-train-cat "CAT")'
     - Graz–Köflacher Bahn (GKB)
     - Montafonerbahn
     - NÖVOG
@@ -17,10 +18,9 @@ params:
     - Wiener Lokalbahn (Badner Bahn)
     - Zillertalbahn
 ---
-
 ## FIP Information
 
-In Austria, trains of the [Austrian Federal Railways (ÖBB)](/operator/oebb "ÖBB") can be used with FIP Tickets. Westbahn and RegioJet also operate long-distance services alongside ÖBB, but cannot be used with FIP Tickets. In journey planners, these are abbreviated as `IC` or `WB` (not to be confused with ÖBB's `IC`).
+In Austria, trains of the [Austrian Federal Railways (ÖBB)](/operator/oebb "ÖBB") can be used with FIP Tickets. Westbahn and RegioJet also operate long-distance services alongside ÖBB, but cannot be used with FIP Tickets. In journey planners, these are abbreviated as `IC` or `WB` (not to be confused with ÖBB's `IC`). daksdjasd
 
 There are also other regional operators of local trains that do not accept FIP Tickets. These use the same train categories as ÖBB: `RE`, `REX`, and `S`. If in doubt, check the operator via their website or [Bahn.de](https://int.bahn.de/en).
 
