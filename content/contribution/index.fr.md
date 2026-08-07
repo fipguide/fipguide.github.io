@@ -124,7 +124,7 @@ Via _Check for Preview_, il est possible de vérifier si la preview a déjà ét
 
 ## Contribution GitHub
 
-Le FIP Guide utilise le générateur de sites statiques [_Hugo_](https://gohugo.io/) pour créer le site web. La page peut être modifiée directement dans [GitHub]() via l’IDE web ou votre environnement de développement local. Vous trouverez plus d’informations et d’aide dans le [wiki GitHub](https://github.com/fipguide/fipguide.github.io/wiki) et le [guide de contribution](https://github.com/fipguide/fipguide.github.io/blob/main/CONTRIBUTING.md).
+Le FIP Guide utilise le générateur de sites statiques [_Hugo_](https://gohugo.io/) pour créer le site web. La page peut être modifiée directement dans [GitHub](https://github.com/fipguide/fipguide.github.io/) via l’IDE web ou votre environnement de développement local. Vous trouverez plus d’informations et d’aide dans le [wiki GitHub](https://github.com/fipguide/fipguide.github.io/wiki) et le [guide de contribution](https://github.com/fipguide/fipguide.github.io/blob/main/CONTRIBUTING.md).
 
 ## Assistance
 
