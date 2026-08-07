@@ -34,8 +34,8 @@ When booking, you must first select a connection via the journey planner. Then, 
 {.o-section--columns-flex}
 {{% /booking-section %}}
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 For short distances on Le Frecce, the standard fare may be cheaper than FIP reduced tickets.
 
 Additionally, supplements for Le Frecce and other long-distance trains can sometimes be more expensive than a FIP 50 Ticket.
-{{% /highlight %}}
+{{< /highlight >}}

@@ -263,7 +263,7 @@ collections:
         i18n: true
         editor_components:
           - "image"
-          - "highlight"
+          - "highlight-raw"
           - "expander"
           - "booking-section"
           - "button"

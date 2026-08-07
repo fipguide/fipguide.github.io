@@ -18,9 +18,9 @@ aliases:
 
 ## Billets FIP 50
 
-{{% highlight inofficial %}}
+{{< highlight inofficial >}}
 La DSB ne peut probablement vendre des Billets FIP 50 pour le Danemark seulement dans les guichets internationaux. Ceux-ci se trouvent dans les gares principales d’Aarhus, Copenhague et Odense. Nous ne savons pas si des Billets FIP 50 étrangers peuvent également y être vendus.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

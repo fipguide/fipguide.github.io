@@ -36,7 +36,7 @@ Die angezeigten Preise für die Premier Class enthalten die Preisdifferenz zwisc
 
 Reservierungen für FIP Freifahrtscheine der 1. Klasse können nicht online über Irish Rail gebucht werden.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 In Irland wird grundsätzlich der Name der Passagiere an den Reservierungsanzeigen in den Zügen angezeigt. Wenn das nicht gewünscht wird, kann bei der Buchung angegeben werden, dass stattdessen die Ticketnummer angezeigt wird.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}

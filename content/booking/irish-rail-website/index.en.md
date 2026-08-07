@@ -36,7 +36,7 @@ The prices displayed for Premier Class include the price difference between 1st 
 
 Reservations for 1st class FIP Coupons cannot be booked online via Irish Rail.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 In Ireland, the names of passengers are generally displayed on the reservation indicators in the trains. If this is not desired, the booking can indicate that the ticket number should be displayed instead.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}

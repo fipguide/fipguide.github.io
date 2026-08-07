@@ -18,9 +18,9 @@ aliases:
 
 ## FIP 50 Fahrkarten
 
-{{% highlight inofficial %}}
+{{< highlight inofficial >}}
 Die DSB kann vermutlich nur an internationalen Ticketschaltern FIP 50 Tickets für Dänemark verkaufen. Diese sind in den Hauptbahnhöfen von Aarhus, Kopenhagen und Odense. Ob an diesen auch ausländische FIP 50 Tickets verkauft werden können, ist uns nicht bekannt.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

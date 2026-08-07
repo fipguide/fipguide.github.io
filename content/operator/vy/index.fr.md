@@ -74,12 +74,12 @@ Les réservations sont obligatoires sur les lignes F4, F5, F6 et F7 :
 | PlusNight {{< icon "bedtime" >}}                                                                  | 500 kr (F5, F6) <br> 680 kr (F4)                 | 0 kr                 |
 | Sleeper {{< icon "bedtime" >}} <br><small>La réservation est valable pour deux personnes.</small> | 1000 kr (F5) <br> 1250 kr (F6) <br> 1350 kr (F4) | 0 kr                 |
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 **Train de nuit : séjour, douche et petit-déjeuner**
 
 Les compagnies ferroviaires coopèrent avec des hôtels locaux.
 Avec un billet pour le train de nuit, il est possible de passer le temps jusqu’au départ dans le hall de l’hôtel. Après l’arrivée du train, il est possible de prendre un petit-déjeuner et/ou une douche à l’hôtel avec un bon rapport qualité-prix.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -101,9 +101,9 @@ Le Regionekspress relie des localités et des villes avec des arrêts dans les p
 - RE20 : Oslo S – Halden – (Göteborg – Malmö)
 - RE30 : Oslo S – Nittedal – Jaren/Gjøvik (ligne de Gjøvik)
 
-{{% highlight important %}}
+{{< highlight important >}}
 Sur le RE20, le FIP n’est reconnu qu’entre Oslo S et Halden, mais pas pour le trajet transfrontalier.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -182,9 +182,9 @@ Les trains marqués d’un X ne s’arrêtent pas dans toutes les gares (par exe
 
 Flytoget est l’express aéroportuaire entre Oslo Airport et Oslo S. Les Réductions FIP ne peuvent pas y être utilisées.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 En alternative, les lignes de trains régionaux R10, R11 et R12 peuvent être utilisées avec FIP pour se rendre à l’aéroport. Plus d’informations dans la section [Aéroport d’Oslo](#aéroport-doslo).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

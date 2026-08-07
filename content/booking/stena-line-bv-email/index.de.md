@@ -25,9 +25,9 @@ In der Mail sind folgende Daten anzugeben:
 Von Stena Line erhält man in der Regel zwei Antwortmails. In der ersten Mail wird die Buchungsanfrage bestätigt. In der zweiten Mail erhält man eine Bezahloption über pay per link. Hier sind dann die Kreditkartendaten zu hinterlegen.
 Nach Bezahlung bekommst du eine Mail mit der Resevierungsbestätigung, die auch als Ticket gilt - die FIP Fahrkarten sind natürlich mitzuführen.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Die Bezahlung über pay per link ist nur am selben Tag möglich, an dem die entsprechende Mail zur Zahlungsaufforderung erhalten wurde. Der Link verliert um Mitternacht seine Gültigkeit. Sollte dem so sein, ist erneut Kontakt zu Stena Line aufzunehmen.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% booking-section "fip_50" %}}
 
@@ -42,7 +42,7 @@ FIP 50 Tickets können gebucht werden.
 
 Kabinenreservierungen sind erhältlich und bei Übernachtfahrten obligatorisch.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Für Reservierungen ist außerdem die Nummer des Stena Line BV FIP Freifahrtscheins erforderlich, der bei der Fahrt genutzt werden soll. Eine Buchung ist daher erst möglich, sobald der FIP Freifahrtschein vorliegt.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}

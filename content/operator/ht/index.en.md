@@ -39,12 +39,12 @@ These trains connect Athens (Αθήνα) and Thessaloniki (Θεσσαλονίκ�
 
 Reservations must be obtained in advance. They can be purchased online or on site.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 IC trains are frequently sold out a few days in advance. It is advisable to arrange a reservation in good time.
 
 Tip for travellers with an FIP Coupon:
 Since individual reservations are not available online, first book an FIP 50 Ticket. This can be cancelled free of charge. On site, you can check whether reservations are still available. If so, cancel the FIP 50 Ticket; otherwise, travel with the FIP 50 Ticket.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -61,9 +61,9 @@ Regional trains connect cities and regions outside the main axis.
 
 Some trains are referred to as Proastiakos or Suburban Railway, which is comparable to an S-Bahn. In the journey planner, these services also appear as regional trains `REG`.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Tourist services such as the Pelion Train are also shown as `REG` in the journey planner, but FIP is not valid on these.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

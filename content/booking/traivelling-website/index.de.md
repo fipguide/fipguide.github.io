@@ -57,7 +57,7 @@ In Schritt 3 suchst du nach den Verbindungen. Die Ermäßigungskarte wird automa
 Nach Auswahl der Verbindung prüfe unbedingt, ob als Tarif "FIP Leisure" hinterlegt ist. Ist das nicht der Fall, handelt es sich um einen öffentlichen Tarif mit den entsprechenden Stornierungsbedingungen.
 {{% /float-image %}}
 
-{{% highlight "important" %}}
+{{< highlight "important" >}}
 Wenn die Reise in Deutschland startet oder endet, wird keine Buchungsgebühr erhoben. In allen anderen Fällen wird eine Buchungsgebühr von 8 % erhoben.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}

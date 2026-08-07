@@ -109,23 +109,6 @@ Trains régionaux en trafic intérieur desservant la plupart des gares, circulan
 
 {{% /train-category %}}
 
-{{% train-category
-    id="night-train"
-    title="Train de nuit"
-    type="sleeper"
-    fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
-%}}
-
-Trains circulant de nuit et nécessitant une réservation.
-
-{{% highlight important %}}
-Les prix de réservation pour les couchettes ou voitures-lits sont plus élevés que pour les réservations classiques.
-{{% /highlight %}}
-
-{{% /train-category %}}
-
 ## Achat de billets et réservations
 
 ### En gare

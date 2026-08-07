@@ -62,9 +62,9 @@ Il existe trois classes de voitures :
 
 Pour les Railjet vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](#conditions-tarifaires-spéciales).
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `RJ` est aussi l’abréviation de RegioJet, où les Billets FIP ne sont pas valables.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -79,9 +79,9 @@ Pour les Railjet vers l’Italie, un supplément est à payer à partir de la fr
 
 La plupart des trains `IC` sur les axes principaux ont été progressivement remplacés par les Railjet. Les `IC` circulent encore sur des lignes secondaires comme Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Vienne – Gmunden – Stainach-Irdning, ainsi qu’en complément des Railjet sur la liaison Vienne–Lienz (Tyrol oriental). Il existe aussi des trains `IC` et `ICE` sur certaines liaisons internationales vers l’Allemagne en coopération avec la Deutsche Bahn, la section autrichienne étant exploitée par ÖBB.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Certains trains Regiojet sont désignés comme `IC` en Autriche, mais les Billets FIP n’y sont pas valables.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Réservations
 
@@ -128,9 +128,9 @@ Pour les Eurocity vers l’Italie, un supplément est à payer à partir de la f
 
 Trains de nuit ÖBB vers plusieurs pays européens. Wagons couchettes, wagons-lits et places assises, exploités à l’étranger en coopération avec d’autres compagnies.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Les Coupons FIP nationaux pour les employés de la Deutsche Bahn ne sont pas acceptés en Allemagne. Si une partie du trajet Nightjet est en Allemagne (départ, arrivée ou transit), les employés DB doivent acheter un billet au Tarif Global FIP pour l’ensemble du trajet. Pour les trajets hors Allemagne avec Coupon FIP, une réservation/supplément pour les couchettes ou wagons-lits est nécessaire.
-{{% /highlight %}}
+{{< /highlight >}}
 
 **Tarif Global FIP :** oui \
 _Astuce :_ Pour les trajets Allemagne–Italie, utiliser les Coupons FIP nationaux jusqu’à Salzbourg puis prendre le Nightjet pour éviter le Tarif Global FIP.
@@ -169,9 +169,9 @@ Les trains `D` sont principalement utilisés comme trains de renfort lors des p�
 
 Train régional rapide avec moins d’arrêts et matériel moderne.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Certains Regionalexpress sont exploités par des compagnies privées où les Billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -186,11 +186,11 @@ Certains Regionalexpress sont exploités par des compagnies privées où les Bil
 
 Train régional avec arrêts dans la plupart des gares.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Certains trains régionaux sont exploités par des compagnies privées où les Billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
 
 La désignation `R` est aussi utilisée dans les horaires ÖBB pour des trains touristiques où les Billets FIP ne sont pas valables. Ceux-ci sont signalés par une note « tarif spécial ».
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -205,7 +205,7 @@ La désignation `R` est aussi utilisée dans les horaires ÖBB pour des trains t
 
 Train régional au moins toutes les heures, arrêt à toutes les gares. Comparable à un S-Bahn.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Certaines Schnellbahn sont exploitées par des compagnies privées où les Billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
 
 Exemples :
@@ -214,7 +214,7 @@ Exemples :
 - S-Bahn Salzbourg : S1 Salzburg – Lamprechtshausen, S11 Salzburg – Ostermiething (Salzburger Lokalbahn)
 - S-Bahn Styrie : S11 Graz – Übelbach (Steiermarkbahn)
 - S6, S61 Graz – Wies-Eibiswald, S7 Graz – Köflach (Graz-Köflacher Eisenbahn)
-  {{% /highlight %}}
+  {{< /highlight >}}
 
 {{% /train-category %}}
 

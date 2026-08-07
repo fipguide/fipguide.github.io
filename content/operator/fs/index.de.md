@@ -45,9 +45,9 @@ Im Fernverkehr besteht eine Reservierungspflicht inkl. Aufschlägen.
 
 Höchste italienische Zuggattung im Fernverkehr mit Hochgeschwindigkeitszügen. Zusätzlich wird der Frecciarossa 1000 als Zug mit besonders hoher Geschwindigkeit und Service im Fahrplan gekennzeichnet.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Züge des privaten Anbieters Italo werden auch als AV gekennzeichnet, können jedoch nicht mit FIP genutzt werden.
-{{% /highlight %}}
+{{< /highlight >}}
 
 Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
@@ -68,9 +68,9 @@ Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit F
 
 Hochgeschwindigkeitszüge mit Neigetechnik.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Züge des privaten Anbieters Italo werden auch als AV gekennzeichnet, können jedoch nicht mit FIP genutzt werden.
-{{% /highlight %}}
+{{< /highlight >}}
 
 Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
@@ -189,9 +189,9 @@ Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifa
 
 Internationale Nachtzüge nach Deutschland, Österreich und in die Schweiz.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeitende der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis erforderlich.
-{{% /highlight %}}
+{{< /highlight >}}
 
 _Tipp:_ Für Fahrten von Deutschland nach Italien die nationalen Freifahrten bis Salzburg nutzen und dort in den Nightjet steigen, um den FIP Globalpreis zu vermeiden.
 
@@ -214,9 +214,9 @@ Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit F
 
 Schnelle Regionalzüge mit Halt an den wichtigsten Stationen.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr)
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -231,9 +231,9 @@ Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen sie
 
 Regionalzüge mit Halt an den meisten Stationen.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen siehe [Zugbindung im Nahverkehr](#zugbindung-im-nahverkehr)
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -248,9 +248,9 @@ Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen sie
 
 S-Bahnsysteme im Großraum Neapel `M` und Großraum Turin `sfm`.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 U-Bahnen sind teilweise auch mit `M` gekennzeichnet und können nicht mit FIP genutzt werden.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

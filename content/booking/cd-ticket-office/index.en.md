@@ -18,9 +18,9 @@ params:
 
 At ČD ticket offices, FIP 50 Tickets can be purchased for travel within Czechia and to other European countries.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 ČD can also sell tickets to Border Points and not only to actual stations. This is particularly helpful for journeys to other countries for which a FIP Coupon is available.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

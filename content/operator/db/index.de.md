@@ -130,14 +130,14 @@ Einige [Nightjet](#nj)-Verbindungen werden mit `IC`-Sitzwagen geführt. Diese Si
 
 Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen München und Zürich. Seit Dezember 2025 wird die Zugkategorie auch für weitere Verkehre zwischen der Schweiz und Deutschland sowie Zügen auf der Route Hamburg – Kopenhagen genutzt.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Die Züge Richtung Italien sind ab der italienischen Grenze aufschlags- und reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([siehe Anreise Italien](/country/switzerland#italien "Anreise Italien")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
 
 **Aufschlag/Reservierung Italien:**
 
 - 1\. Klasse: 13 €
 - 2\. Klasse: 11 €
-  {{% /highlight %}}
+  {{< /highlight >}}
 
 #### Reservierungen
 
@@ -174,9 +174,9 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Tschechien gab es i
 
 Nachtzüge der ÖBB in Kooperation mit der DB in verschiedene europäische Länder. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Nationale Freifahrten für Mitarbeiter der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis erforderlich.
-{{% /highlight %}}
+{{< /highlight >}}
 
 **FIP Globalpreis:** ja \
 _Tipp:_ Für Fahrten von Deutschland nach Italien, die nationalen Freifahrten bis Salzburg nutzen und dort in den Nightjet steigen, um den FIP Globalpreis zu vermeiden.
@@ -210,9 +210,9 @@ Eine Orientierung bieten [Übersichtskarten](https://www.schienennahverkehr.de/v
 
 Regionalexpresszüge verbinden Orte und Städte mit Halten an den wichtigsten Stationen. Teilweise verkehren die Züge auch überregional über längere Strecken.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die Züge der Kategorie `RE` werden oftmals auch von anderen Betreibern betrieben.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -227,9 +227,9 @@ Die Züge der Kategorie `RE` werden oftmals auch von anderen Betreibern betriebe
 
 Regionalbahnzüge verbinden Orte und Städte mit Halten an fast allen Stationen.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die Züge der Kategorie `RB` werden oftmals auch von anderen Betreibern betrieben.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -244,9 +244,9 @@ Die Züge der Kategorie `RB` werden oftmals auch von anderen Betreibern betriebe
 
 Nahverkehrszüge in großen Städten und Metropolregionen mit Halt an allen Stationen.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die Züge der Kategorie `S` werden oftmals auch von anderen Betreibern betrieben.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

@@ -102,11 +102,11 @@ Une réservation est recommandée pour les trajets transfrontaliers et général
 
 Trains régionaux desservant toutes les gares hors du réseau S-tog de Copenhague.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 D’autres opérateurs utilisent aussi la catégorie `R` — vérifiez toujours que le train est bien exploité par DSB. \
 Les trains marqués `RA` ne sont pas exploités par DSB et ne sont donc pas inclus dans FIP. \
 Les trains marqués `RE` sont généralement exploités par DSB.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

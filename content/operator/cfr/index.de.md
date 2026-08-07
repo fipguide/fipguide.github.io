@@ -39,9 +39,9 @@ Die Zugkategorien werden teilweise auch von anderen Betreibern in Rumänien genu
 
 Nationale Fernverkehrszüge mit wenige Zwischenhalten und einem vergleichsweise höherem Komfort. Sie fahren hauptsächlich von Bukarest aus in die verschiedenen Richtungen des Landes.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die `IC` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
@@ -62,9 +62,9 @@ Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die R
 
 Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Teilweise verkehren sie auch grenzüberschreitend, insbesondere nach Ungarn.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die `IR` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
@@ -87,9 +87,9 @@ Meist internationale Züge, die über Nacht verkehren. Sie werden in der Verbind
 
 Bei den Zügen sind meist auch Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die `IRN` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
@@ -114,9 +114,9 @@ Internationale Züge nach Bulgarien, Moldau und der Ukraine verkehren ohne eigen
 
 Bei den Zügen sind oft auch Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
@@ -139,9 +139,9 @@ Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [P
 
 Regionalzüge, die auch kleinere Orte mit anbinden. Dabei haben die verschiedenen Züge auf einer Strecke oft kein festes Halteschema, d. h. die kleineren Halte werden nur von manchen `R` Zügen angefahren.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die `R` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 

@@ -75,9 +75,9 @@ Contrairement à d’autres pays, il ne s’agit pas de véritables trains longu
 
 Train international entre Lelystad, Amsterdam et Bruxelles avec arrêts à Almere, Schiphol, Rotterdam et Anvers.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Pour les trajets aux Pays-Bas, des règles spéciales s’appliquent, voir [NS ECD](/operator/ns#ecd)
-{{% /highlight %}}
+{{< /highlight >}}
 
 ![Réseau Eurocity (Direct)](eurocity-map.fr.svg)
 

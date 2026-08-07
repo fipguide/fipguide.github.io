@@ -33,8 +33,8 @@ Auf dem Startbildschirm des Automaten "Buy your tickets / Special Discounts" wä
 {.o-section--columns-flex}
 {{% /booking-section %}}
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Bei Kurzstrecken im Le Frecce kann der Normaltarif güstiger als FIP reduzierte Tickets sein.
 
 Zusätzlich können Aufschläge für Le Frecce und sonstige Fernzüge teilweise teurer sein als ein FIP 50 Ticket.
-{{% /highlight %}}
+{{< /highlight >}}

@@ -179,9 +179,9 @@ Different prices for international connections. [More information](https://www.i
 
 Regional train connections stopping at most stations, operated by Polregio. These trains do not have 1st class.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Regional trains in Poland are sometimes also operated by railway companies other than Polregio. These sometimes have their own FIP discounts. [See Poland](/country/poland "Poland")
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

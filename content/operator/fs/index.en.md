@@ -45,9 +45,9 @@ Reservations (with surcharges) are mandatory on long-distance trains.
 
 Highest Italian train category for long-distance high-speed trains. Frecciarossa 1000 is marked for higher speed and service.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Trains of the private operator Italo are also marked as AV but cannot be used with FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
@@ -68,9 +68,9 @@ The variable reservation price always includes a surcharge when using a FIP Coup
 
 High-speed tilting trains.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Trains of the private operator Italo are also marked as AV but cannot be used with FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
@@ -189,9 +189,9 @@ The reservation price always includes a surcharge when using a FIP Coupon.
 
 International night trains to Germany, Austria, and Switzerland.
 
-{{% highlight important %}}
+{{< highlight important >}}
 National free travel for Deutsche Bahn staff is not recognized in Germany. If any part of the Nightjet journey is in Germany, DB staff must buy a ticket at the FIP global fare for the entire route. For journeys outside Germany with a FIP Coupon, a reservation/supplement is required.
-{{% /highlight %}}
+{{< /highlight >}}
 
 _Tip:_ For trips from Germany to Italy, use national free travel to Salzburg and board the Nightjet there to avoid the FIP global fare.
 
@@ -214,9 +214,9 @@ The variable reservation price always includes a surcharge when using a FIP Coup
 
 Fast regional trains stopping at main stations.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Tickets for regional trains may be train-bound. See [Train binding in regional trains](#train-binding-in-regional-trains)
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -231,9 +231,9 @@ Tickets for regional trains may be train-bound. See [Train binding in regional t
 
 Regional trains stopping at most stations.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Tickets for regional trains may be train-bound. See [Train binding in regional trains](#train-binding-in-regional-trains)
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -248,9 +248,9 @@ Tickets for regional trains may be train-bound. See [Train binding in regional t
 
 Suburban rail systems in Naples (`M`) and Turin (`sfm`).
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Metro lines are sometimes also marked as `M` and cannot be used with FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

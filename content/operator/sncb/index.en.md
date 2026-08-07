@@ -75,9 +75,9 @@ Unlike in other countries, these are not real long-distance trains, but rather f
 
 International train between Lelystad, Amsterdam and Brussels with stops in Almere, Schiphol, Rotterdam and Antwerp.
 
-{{% highlight important %}}
+{{< highlight important >}}
 For journeys within the Netherlands, special regulations apply, see [NS ECD](/operator/ns#ecd)
-{{% /highlight %}}
+{{< /highlight >}}
 
 ![Eurocity (Direct) Network](eurocity-map.en.svg)
 

@@ -108,12 +108,12 @@ The [network](https://www.cp.pt/info/documents/d/cp/ligacao-cp-metro-lisboa-baix
 - Cascais Line
 - Sado Line
 
-{{% highlight important %}}
+{{< highlight important >}}
 Access to the Sintra Line and Cascais Line is via ticket gates.
 
 - Passengers with reduced tickets must purchase a Viva Viagem ticket for €0.50 to pass the gate.
 - Passengers holding an FIP Coupon must press the assistance button at the gate (between 06:00 and 22:00). Staff will grant access.
-  {{% /highlight %}}
+  {{< /highlight >}}
 
 **Porto:** \
 The [network](https://www.cp.pt/info/documents/d/cp/mapa-comboios-urbanos-porto) includes five lines:

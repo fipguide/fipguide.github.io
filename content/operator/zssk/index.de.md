@@ -80,9 +80,9 @@ Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erb
 
 Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich oder Ungarn. Sie verkehren oft mit wenigen Halten und im Vergleich relativ hoher Durchschnittsgeschwindigkeit. Die `RJ` Züge sind Railjet-Züge der Österreichischen Bundesbahn, die auf slowakischem Abschnitt auch mit ZSSK-Freifahrtscheinen genutzt werden können.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `RJ` ist gleichzeitig auch die Abkürzung für RegioJet, dort gelten keinerlei FIP-Farscheine.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 

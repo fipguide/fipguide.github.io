@@ -39,9 +39,9 @@ The train categories are partially used by other operators in Romania as well. F
 
 National long-distance trains with few intermediate stops and comparatively higher comfort. They mainly run from Bucharest in various directions across the country.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `IC` trains are partially operated by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
@@ -62,9 +62,9 @@ A seat reservation is mandatory. If the train is fully booked, a standing reserv
 
 Comparatively fast trains connecting major cities with few intermediate stops. Some also run cross-border, particularly to Hungary.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `IR` trains are partially operated by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
@@ -87,9 +87,9 @@ Mostly international trains running overnight. They are also partially listed as
 
 These trains usually include couchette or sleeper cars, which can be used with a corresponding reservation.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `IRN` trains are partially operated by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
@@ -114,9 +114,9 @@ International trains to Bulgaria, Moldova and Ukraine run without a specific tra
 
 These trains often include couchette or sleeper cars, which can be used with a corresponding reservation.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 These trains are partially operated by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
@@ -139,9 +139,9 @@ For couchette and sleeper cars, the following prices apply on national routes: [
 
 Regional trains that also serve smaller towns. The various trains on a route often do not have a fixed stopping pattern, meaning smaller stops are only served by some `R` trains.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `R` trains are partially operated by other operators in Romania as well. For FIP usage, it is important to verify that the operator is CFR Călători.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 

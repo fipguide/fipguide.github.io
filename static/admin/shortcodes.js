@@ -176,6 +176,22 @@
     }),
   });
 
+  CMS.registerEditorComponent({
+    id: "highlight-raw",
+    label: "Highlight",
+    fields: highlightFields,
+    pattern: shortcodePattern("highlight"),
+    fromBlock: function (match) {
+      return { type: match[1].trim(), body: match[2].trim() };
+    },
+    toBlock: makeToBlock("highlight", {
+      bracket: "<",
+      fields: highlightFields,
+      bodyMode: "required",
+      bodySeparator: "\n",
+    }),
+  });
+
   var expanderFields = [
     {
       name: "title",
@@ -195,7 +211,7 @@
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: ["button", "float-image", "highlight-raw", "image"],
     },
   ];
 
@@ -371,7 +387,7 @@
       name: "body",
       label: "Description",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: ["button", "float-image", "highlight-raw", "image"],
     },
   ];
 
@@ -508,7 +524,7 @@
       label: "Additional info",
       widget: "markdown",
       required: false,
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: ["button", "float-image", "image"],
     },
   ];
 
@@ -554,7 +570,7 @@
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: ["button", "float-image", "highlight-raw", "image"],
     },
   ];
 
@@ -672,7 +688,7 @@
       label: "Additional info",
       widget: "markdown",
       required: false,
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: ["button", "float-image", "image"],
     },
   ];
 

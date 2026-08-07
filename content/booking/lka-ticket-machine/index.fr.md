@@ -17,9 +17,9 @@ Dans certaines gares en Pologne, des distributeurs de billets sont disponibles q
 
 Des Billets FIP 50 à tarif réduit peuvent être achetés aux distributeurs de billets. Si possible, la réduction « FIP (50%) » doit être sélectionnée. Si celle-ci n’est pas disponible, la réduction « UMOWA (ulga 50%) » doit être sélectionnée.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Par le passé, « UMOWA » n’était pas toujours l’option correcte pour les billets FIP. En cas de doute, demandez sur place si c’est bien le tarif correct pour les billets FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 ## Réservations
 
