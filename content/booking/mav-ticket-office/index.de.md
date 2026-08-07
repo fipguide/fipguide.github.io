@@ -1,14 +1,14 @@
 ---
 draft: false
-title: "MÁV Ticketschalter"
-description: "Buchungsinformationen für die MÁV Ticketschalter."
+title: MÁV Ticketschalter
+description: Buchungsinformationen für die MÁV Ticketschalter.
 params:
   classes:
-    first: "990 HUF"
-    second: "990 HUF"
+    first: 990 HUF
+    second: 990 HUF
   fip_50: true
   reservations: true
-  type: "onsite"
+  type: onsite
 ---
 
 An Ticketschaltern der MÁV wird zwischen nationalen und internationalen Ticketschaltern unterschieden. In der Regel spricht das Personal an den internationalen Ticketschaltern Fremdsprachen wie Englisch oder Deutsch.

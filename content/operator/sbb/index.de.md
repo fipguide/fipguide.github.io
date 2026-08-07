@@ -1,9 +1,8 @@
 ---
 draft: false
-title: "SBB CFF FFS"
+title: SBB CFF FFS
 country:
-  - "switzerland"
-
+  - switzerland
 aliases:
   - /booking/sbb-ticket-machine
   - /booking/sbb-ticket-office
@@ -22,6 +21,7 @@ Die SBB stellt eine [Übersichtskarte ihrer Strecken](https://www.raildeliverygr
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SBB ohne Einschränkung gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -36,7 +36,9 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SBB ohne Einsc
     reservation_required=false
     reservation_possible=true
 %}}
+
 Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Zürich, Bern oder Interlaken. Wegen Verspätungen in Deutschland enden diese Züge teilweise außerplanmäßig in Basel und werden dann innerhalb der Schweiz durch einen Ersatzzug ersetzt.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -47,11 +49,13 @@ Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Z
     reservation_required=partially
     reservation_possible=true
 %}}
+
 Hochgeschwindigkeitszüge aus Frankreich nach Zürich über Basel.
 
 #### Reservierungen
 
 Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren reservierungspflichtig.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -62,6 +66,7 @@ Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren rese
     reservation_required=partially
     reservation_possible=true
 %}}
+
 Internationale Züge Richtung Deutschland und Italien.
 
 #### Reservierungen
@@ -81,6 +86,7 @@ Für den italienischen Abschnitt sind eine Reservierung und ein Zuschlag erforde
     reservation_required=false
     reservation_possible=true
 %}}
+
 Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen.
 
 Einige [Nightjet](#nj)-Verbindungen werden mit `IC`-Sitzwagen geführt. Diese Sitzwagen können ohne Reservierung genutzt werden. Die `IC`-Verbindung wird in den Auskunftsmedien zusätzlich zum Nightjet dargestellt.
@@ -95,6 +101,7 @@ Einige [Nightjet](#nj)-Verbindungen werden mit `IC`-Sitzwagen geführt. Diese Si
     reservation_required=partially
     reservation_possible=true
 %}}
+
 Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb.
 
 Einige Nightjet-Verbindungen werden mit [Intercity](#ic)-Sitzwagen geführt. Diese Sitzwagen können ohne Reservierung genutzt werden. Die `IC`-Verbindung wird in den Auskunftsmedien zusätzlich zum Nightjet dargestellt.
@@ -102,6 +109,7 @@ Einige Nightjet-Verbindungen werden mit [Intercity](#ic)-Sitzwagen geführt. Die
 #### Reservierungen
 
 Eine Reservierung ist erforderlich, außer in Sitzwagen bei Intercity, Eurocity und Regionalzügen.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -113,6 +121,7 @@ Eine Reservierung ist erforderlich, außer in Sitzwagen bei Intercity, Eurocity 
     reservation_possible=true
     additional_information_url="https://www.sbb.ch/de/freizeit-ferien/zuege-schiffe/panoramareisen/gotthard-panorama-express.html"
 %}}
+
 Panoramazüge der SBB über die Gotthardbergstrecke von Mitte April bis Mitte Oktober. Beworben wird eine Fahrt in Kombination mit dem Schiff der Schifffahrtsgesellschaft des Vierwaldstättersee (SGV), dort gelten die Fahrvergünstigungen SP, siehe [Schweizer Privatbahnen - SGV](/operator/sp#sgv). Für Reisende auf der Gesamtstrecke mit Zug und Schiff zwischen Lugano und Luzern (und umgekehrt) wird ein kostenloser Gepäcktransport angeboten.
 
 #### Reservierungen
@@ -122,6 +131,7 @@ Eine besondere Reservierung für 24 CHF ist erforderlich.
 {{% highlight important %}}
 Die Züge führen nur Wagen der 1. Klasse. Zu einem Freifahrschein der 2. Klasse ist daher ein Klassenübergang notwendig. Mit einem FIP-Ausweis der 2. Klasse gibt es keine Ermäßigung.
 {{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -132,7 +142,9 @@ Die Züge führen nur Wagen der 1. Klasse. Zu einem Freifahrschein der 2. Klasse
     reservation_required=false
     reservation_possible=true
 %}}
+
 Nationale Züge mit Halten in größeren Städten.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -141,8 +153,11 @@ Nationale Züge mit Halten in größeren Städten.
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -150,17 +165,21 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
 
 ### Online
 
-{{% booking id="sbb-website"/%}}
+{{% booking id="sbb-website" /%}}
 
-{{% booking id="db-website"/%}}
+{{% booking id="db-website" /%}}
 
 {{% booking id="db-website-fip-db"
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz, mit Ticketanteil nur für den schweizerischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
@@ -176,7 +195,10 @@ Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mai
 
 ### Telefon
 
-{{% booking id="oebb-phone" subtitle="Nightjet Buchung" fip_50=nil /%}}
+{{% booking id="oebb-phone"
+    subtitle="Nightjet Buchung"
+    fip_50=nil
+/%}}
 
 {{% booking id="db-phone-fip-db"
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz, mit Ticketanteil nur für den schweizerischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
@@ -186,11 +208,11 @@ Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mai
 
 ### Vor Ort
 
-{{% booking id="sbb-ticket-office"/%}}
+{{% booking id="sbb-ticket-office" /%}}
 
-{{% booking id="sbb-ticket-machine"/%}}
+{{% booking id="sbb-ticket-machine" /%}}
 
-{{% booking id="db-ticket-office"/%}}
+{{% booking id="db-ticket-office" /%}}
 
 ### Im Zug
 

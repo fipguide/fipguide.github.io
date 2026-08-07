@@ -1,13 +1,13 @@
 ---
 draft: false
-title: "Stena Line BV Téléphone"
-description: "Informations de réservation pour la réservation par téléphone chez Stena Line BV"
+title: Stena Line BV Téléphone
+description: Informations de réservation pour la réservation par téléphone chez
+  Stena Line BV
 params:
   fip_50: true
   fip_global_fare: nil
   reservations: true
-  type: "phone"
-
+  type: phone
 aliases:
   - stena-line-phone
 ---
@@ -31,7 +31,6 @@ Les informations suivantes doivent être préparées:
 ## Billet FIP 50
 
 Les billets FIP 50 peuvent être réservés.
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -43,7 +42,6 @@ Les réservations de cabine sont disponibles et obligatoires pour les traversée
 {{% highlight important %}}
 Pour les réservations, le numéro du Coupon FIP Stena Line BV qui doit être utilisé pour le voyage est également requis. Une réservation n’est donc possible que lorsque le Coupon FIP est disponible.
 {{% /highlight %}}
-
 {{% /booking-section %}}
 
 {{% satellite /%}}

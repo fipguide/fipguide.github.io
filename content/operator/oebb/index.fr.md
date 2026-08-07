@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "ÖBB"
+title: ÖBB
 country:
-  - "austria"
-  - "liechtenstein"
-operator: "oebb"
-
+  - austria
+  - liechtenstein
+operator: oebb
 aliases:
   - obb
   - /booking/oebb-phone
@@ -27,6 +26,7 @@ Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les coupons et Billets FIP 50 sont valables sur les trains ÖBB. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP des deux pays sont nécessaires.
@@ -223,9 +223,12 @@ Exemples :
     title="ÖBB Postbus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=false
 %}}
+
 Les Billets FIP ne sont pas valables sur ÖBB Postbus. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+
 {{% /train-category %}}
 
 ## Catégories de classes
@@ -249,7 +252,8 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."%}}
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."
+%}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
 
@@ -261,24 +265,33 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 
 ### Par téléphone
 
-{{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" /%}}
+{{% booking id="oebb-phone"
+    subtitle="Incl. réservation Nightjet"
+/%}}
 
 {{% booking id="db-phone-fip-db"
-    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."%}}
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et l’Autriche, avec part de billet uniquement pour la section autrichienne. Réservé aux employés de la Deutsche Bahn."
+%}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
 
 ### En gare
 
-{{% booking id="oebb-ticket-office" subtitle="Incl. réservation Nightjet" /%}}
+{{% booking id="oebb-ticket-office"
+    subtitle="Incl. réservation Nightjet"
+/%}}
 
 {{% booking id="oebb-ticket-machine" /%}}
 
-{{% booking id="db-ticket-office" subtitle="Incl. réservation Nightjet" %}}
+{{% booking id="db-ticket-office"
+    subtitle="Incl. réservation Nightjet"
+%}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
 
-{{% booking id="sz-ticket-office" subtitle="Pour les trains transfrontaliers entre la Slovénie et l’Autriche" /%}}
+{{% booking id="sz-ticket-office"
+    subtitle="Pour les trains transfrontaliers entre la Slovénie et l’Autriche"
+/%}}
 
 ### À bord du train
 

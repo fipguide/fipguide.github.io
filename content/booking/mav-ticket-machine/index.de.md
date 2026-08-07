@@ -1,14 +1,14 @@
 ---
 draft: false
-title: "MÁV Fahrkartenautomat"
-description: "Buchungsinformationen für die MÁV Fahrkartenautomaten."
+title: MÁV Fahrkartenautomat
+description: Buchungsinformationen für die MÁV Fahrkartenautomaten.
 params:
   classes:
-    first: "990 HUF"
-    second: "990 HUF"
+    first: 990 HUF
+    second: 990 HUF
   fip_50: true
   reservations: true
-  type: "machine"
+  type: machine
 ---
 
 Fahrkartenautomaten der MÁV gibt es an vielen größeren Bahnhöfen. Hier werden FIP 50 Tickets und Reservierungen für die MÁV und GySEV verkauft.

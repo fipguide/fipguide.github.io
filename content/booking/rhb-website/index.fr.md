@@ -1,16 +1,15 @@
 ---
 draft: false
-title: "Site Web RhB"
-description: "Informations sur la réservation de Billets FIP via le site web des RhB."
-
+title: Site Web RhB
+description: Informations sur la réservation de Billets FIP via le site web des RhB.
 params:
   classes:
-    first: "5 CHF"
-    second: "5 CHF"
+    first: 5 CHF
+    second: 5 CHF
   fip_50: true
   reservations: true
-  booking_link: "https://tickets.rhb.ch/en/routing"
-  type: "website"
+  booking_link: https://tickets.rhb.ch/en/routing
+  type: website
 ---
 
 {{% booking-section "fip_50" %}}
@@ -22,7 +21,6 @@ Sur le site web de RhB, des Billets FIP 50 peuvent être achetés avec la réduc
 {{% highlight important %}}
 En particulier dans les zones urbaines, un Billet avec réduction Demi-tarif peut également comprendre des sections d'exploitants de transports qui n'acceptent pas les FIP (par exemple des tramways ou des bus). Ces sections ne peuvent pas être utilisées avec les FIP et le Billet acheté n'y est pas valable sans un abonnement Demi-tarif.
 {{% /highlight %}}
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

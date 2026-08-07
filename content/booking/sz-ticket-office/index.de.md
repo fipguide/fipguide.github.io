@@ -1,15 +1,15 @@
 ---
 draft: false
-title: "SŽ Ticketschalter"
-description: "Buchungsinformationen für die SŽ Ticketschalter."
+title: SŽ Ticketschalter
+description: Buchungsinformationen für die SŽ Ticketschalter.
 params:
   classes:
-    first: "1,50 €"
-    second: "1,50 €"
+    first: 1,50 €
+    second: 1,50 €
   fip_50: true
   reservations: true
-  additional_info_link: "https://potniski.sz.si/en/tickets/purchase-tickets-sz-and-ijpp/ticket-sales-outlets/"
-  type: "onsite"
+  additional_info_link: https://potniski.sz.si/en/tickets/purchase-tickets-sz-and-ijpp/ticket-sales-outlets/
+  type: onsite
 ---
 
 Fahrkartenschalter der SŽ sind mittlerweile nur noch an größeren Bahnhöfen zu finden.

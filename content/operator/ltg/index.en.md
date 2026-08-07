@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "LTG-Link"
+title: LTG-Link
 country:
-  - "lithuania"
-  - "latvia"
-operator: "ltg"
-
+  - lithuania
+  - latvia
+operator: ltg
 aliases:
   - /booking/ltg-website
 ---
@@ -23,6 +22,7 @@ LTG-Link publishes an [overview of the route network](https://ltglink.lt/en/rout
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 {{% highlight important %}}

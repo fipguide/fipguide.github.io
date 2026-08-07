@@ -1,5 +1,5 @@
 ---
-title: "Gilt FIP auch in Bussen?"
+title: Gilt FIP auch in Bussen?
 weight: 18
 ---
 

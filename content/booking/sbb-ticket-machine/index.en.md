@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "SBB Ticket Machine"
-description: "Booking information for FIP Tickets at SBB ticket machines"
-
+title: SBB Ticket Machine
+description: Booking information for FIP Tickets at SBB ticket machines
 params:
   fip_50: true
-  additional_info_link: "https://www.sbb.ch/en/travel-information/stations/services-ticket-machine/sbb-ticket-machine.html"
-  type: "machine"
-
+  additional_info_link: https://www.sbb.ch/en/travel-information/stations/services-ticket-machine/sbb-ticket-machine.html
+  type: machine
 aliases:
   - sbb_ticket_machine
 ---
@@ -21,7 +19,6 @@ At SBB ticket machines, FIP 50 Tickets can be purchased with the "50% Half Fare"
 {{% highlight important %}}
 In urban areas, a ticket with Half Fare discount may also include transport operated by companies that do not accept FIP (e.g., trams or buses). These sections cannot be used with FIP, and the purchased ticket is not valid there without a Half Fare subscription.
 {{% /highlight %}}
-
 {{% /booking-section %}}
 
 [^1]: [SBB Community](https://community.sbb.ch/d/2251-kann-man-als-fip-beg%C3%BCnstigter-tickets-weiterhin-online-mittels-halbtax-kaufen)

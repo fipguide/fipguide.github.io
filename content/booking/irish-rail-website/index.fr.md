@@ -1,16 +1,16 @@
 ---
 draft: false
-title: "Site Web Irish Rail"
-description: "Informations de réservation pour le site web Irish Rail."
+title: Site Web Irish Rail
+description: Informations de réservation pour le site web Irish Rail.
 params:
   classes:
     first: "-"
-    second: "0 € / 2,50 €"
+    second: 0 € / 2,50 €
   fip_50: false
   fip_75: false
   reservations: true
-  booking_link: "https://www.irishrail.ie/en-ie/"
-  type: "website"
+  booking_link: https://www.irishrail.ie/en-ie/
+  type: website
 ---
 
 {{% booking-section "reservations" %}}
@@ -22,14 +22,12 @@ Les réservations pour la 2e classe peuvent être achetées en ligne. Pour ce fa
 ![Ouvrir les options passager](./reservation-step-1.png)
 
 {{% float-image
-  src="reservation-step-2.png"
-  alt="Sélection Free Travel Pass"
-  width="50%"
-  position="left"
+    src="reservation-step-2.png"
+    alt="Sélection Free Travel Pass"
+    width="50%"
+    position="left"
 %}}
-
 Ensuite, la sélection « Adults » peut être désactivée et l’option « Free Travel Pass » sélectionnée.
-
 {{% /float-image %}}
 
 Les réservations pour la 2e classe sont délivrées gratuitement. Seules quelques liaisons très fréquentées donnent lieu à des frais de réservation de 2,50 €.
@@ -41,5 +39,4 @@ Les réservations pour les Coupons FIP de 1re classe ne peuvent pas être effect
 {{% highlight tip %}}
 En Irlande, le nom des passagers est en principe affiché sur les afficheurs de réservations dans les trains. Si cela n’est pas souhaité, il est possible d’indiquer lors de la réservation que le numéro de billet soit affiché à la place.
 {{% /highlight %}}
-
 {{% /booking-section %}}

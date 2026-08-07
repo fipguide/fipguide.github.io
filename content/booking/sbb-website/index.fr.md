@@ -1,18 +1,17 @@
 ---
 draft: false
-title: "Site Web CFF"
-description: "Informations sur la réservation de Billets FIP via le site web et l'application des CFF."
-
+title: Site Web CFF
+description: Informations sur la réservation de Billets FIP via le site web et
+  l'application des CFF.
 params:
   classes:
-    first: "5 CHF"
-    second: "5 CHF"
+    first: 5 CHF
+    second: 5 CHF
   fip_50: true
   reservations: true
-  booking_link: "https://www.sbb.ch/fr"
-  additional_info_link: "https://www.sbb.ch/fr/offres/reservation-de-places"
-  type: "online"
-
+  booking_link: https://www.sbb.ch/fr
+  additional_info_link: https://www.sbb.ch/fr/offres/reservation-de-places
+  type: online
 aliases:
   - sbb_website
 ---
@@ -28,7 +27,6 @@ Sur le site des CFF et dans l'application, les Billets FIP 50 peuvent être ache
 {{% highlight important %}}
 Dans les zones urbaines, un billet avec réduction demi-tarif peut inclure des transports exploités par des compagnies non participantes au FIP (par exemple : trams ou bus). Ces sections ne sont pas valables avec un Billet FIP, sauf si vous avez un abonnement demi-tarif.
 {{% /highlight %}}
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

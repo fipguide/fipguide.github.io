@@ -1,18 +1,17 @@
 ---
 draft: false
-title: "DB Website FIP (DB Mitarbeitende)"
-description: "Buchungsinformationen für FIP Fahrscheine für DB Mitarbeitende für deutsche Nachbarländer"
-
+title: DB Website FIP (DB Mitarbeitende)
+description: Buchungsinformationen für FIP Fahrscheine für DB Mitarbeitende für
+  deutsche Nachbarländer
 params:
   classes:
-    first: "6,90 €"
-    second: "5,50 €"
+    first: 6,90 €
+    second: 5,50 €
   fip_50: true
   reservations: true
-  booking_link: "https://www.db-reisemarkt.de/reisemarkt/bahnangebote/ausland/FIP-Angebot-13034692"
-  additional_info_link: "https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung"
-  type: "website"
-
+  booking_link: https://www.db-reisemarkt.de/reisemarkt/bahnangebote/ausland/FIP-Angebot-13034692
+  additional_info_link: https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung
+  type: website
 aliases:
   - db_website_fip_db
 ---
@@ -40,7 +39,6 @@ FIP 50 Fahrkarten können für die folgenden Länder erworben werden:
 - Belgien
 - Frankreich
 {.o-section--columns-3}
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

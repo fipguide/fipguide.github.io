@@ -1,17 +1,16 @@
 ---
 draft: false
-title: "ZOU! Ticket Office"
-description: "Booking information for ZOU ! ticket offices."
-
+title: ZOU! Ticket Office
+description: Booking information for ZOU ! ticket offices.
 params:
   classes:
-    first: "€ 2 / € 16"
-    second: "€ 2 / € 11"
+    first: € 2 / € 16
+    second: € 2 / € 11
   fip_50: true
   fip_75: true
   reservations: true
-  additional_info_link: "https://itineraires-zou.maregionsud.fr/fr/plan?poi=PointOfSale"
-  type: "onsite"
+  additional_info_link: https://itineraires-zou.maregionsud.fr/fr/plan?poi=PointOfSale
+  type: onsite
 ---
 
 ZOU! is the brand of the fare network in the PACA region (Provence-Alpes-Côte d’Azur) in southeastern France. Tickets and reservations with the FIP discount can be purchased at ZOU! ticket counters.[^1] The terms and conditions should correspond to those at SNCF ticket counters.

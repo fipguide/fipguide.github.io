@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "MÁV"
+title: MÁV
 country:
-  - "hungary"
-operator: "mav"
+  - hungary
+operator: mav
 ---
 
 Die MÁV (Magyar Államvasutak, ungarische Staatsbahnen) ist die wichtigste Bahngesellschaft in [Ungarn](/country/hungary) und betreibt den Großteil des Fern- und Regionalverkehrs.
@@ -19,6 +19,7 @@ Einen Überblick über die angebotenen Verkehre bieten die [Streckennetzkarte vo
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der MÁV gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -35,6 +36,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der MÁV gültig. 
     reservation_required=partially
     reservation_possible=true
 %}}
+
 Internationale Fernverkehrszüge in Kooperation mit ÖBB und weiteren Partnerbahnen, z. B. auf der Achse Wien – Budapest und Prag – Bratislava – Budapest. Es ist eine Economy Class (2. Klasse), First Class (1. Klasse) sowie Business Class vorhanden. Es wird ein [Speisewagen der ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/bordservice) bzw. [Speisewagen der ČD](https://www.cd.cz/en/dalsi-sluzby/jidelni-vozy-a-obcerstveni-ve-vlaku/-27986/) mitgeführt.
 
 Die Business Class ist für nationale Fahrten in Ungarn nicht verfügbar. Bei internationalen Fahrten kann die Business Class mit einem FIP Freifahrtschein oder FIP 50 Ticket der 1. Klasse genutzt werden. Es ist ein Aufschlag von 22 € zu zahlen.
@@ -57,6 +59,7 @@ Im Inlandsverkehr ist die Sitzplatzreservierung verpflichtend, im internationale
     reservation_required=true
     reservation_possible=true
 %}}
+
 Nationale Schnellzüge mit Reisezugwagen der zweiten Klasse, teilweise auch mit Wagen der ersten Klasse und der Premiumklasse 1+. Teilweise werden [Restaurant-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) und/oder [Bistro-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-bistro-cars) mitgeführt.
 
 {{% highlight confusion %}}
@@ -83,6 +86,7 @@ Eine Reservierung ist verpflichtend.
     reservation_required=partially
     reservation_possible=true
 %}}
+
 EuroCity sind internationale Schnellzüge auf den Routen zwischen Budapest und Bratislava, Prag, Berlin oder Warschau. Die meisten Züge bestehen aus Wagen der Tschechischen Bahn, während der Zug von/nach Berlin aus ungarischen Wagen und der Zug von/nach Warschau aus polnischen Wagen gebildet wird.
 Teilweise wird ein [Restaurant-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) mitgeführt.
 
@@ -101,11 +105,13 @@ Im Inlandsverkehr ist die Sitzplatzreservierung verpflichtend, im internationale
     reservation_possible=true
     additional_information_url="https://www.mavcsoport.hu/en/mav-szemelyszallitas/international-travels/travel-night-trains"
 %}}
+
 Nachtzüge in Kooperation mit Partnerbahnen, welche entweder in Budapest starten/enden oder über die Hauptstadt verkehren (z. B. der `EN` zwischen Wien und Bukarest). Die Züge bestehen in der Regel aus Schlaf-, Liege- und Sitzwagen. Teilweise werden Restaurant-/Bistro-Wagen mitgeführt.
 
 #### Reservierungen
 
 Reservierungen sind verpflichtend.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -116,7 +122,9 @@ Reservierungen sind verpflichtend.
     reservation_required=false
     reservation_possible=false
 %}}
+
 InterRegio-Verbindungen sind Schnellzüge im Inlandsverkehr und bilden den Grundtakt außerhalb der internationalen Korridore. Meistens wird nur eine zweite Klasse angeboten.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -127,6 +135,7 @@ InterRegio-Verbindungen sind Schnellzüge im Inlandsverkehr und bilden den Grund
     reservation_required=true
     reservation_possible=true
 %}}
+
 Schnellzüge, die meist nur an Wochenenden und in den Ferien fahren. Es kommen verschiedene Wagentypen zum Einsatz und die meisten Züge haben eine 2. und 1. Klasse.
 
 In Verbindungsauskunftsystemen außerhalb der MÁV werden die Züge ggf. mit einer anderen Zugkategorie angegeben.
@@ -145,6 +154,7 @@ Eine Reservierung ist verpflichtend.
     reservation_required=false
     reservation_possible=false
 %}}
+
 Schnellzüge, die auf vielen Haupststrecken zum Einsatz kommen – in erster Linie dort, wo keine InterCity verkehren. Die Züge halten in mittelgroßen und größeren Städten.
 Zum Einsatz kommen meist ältere, aber modernisierte Abteilwagen.
 
@@ -162,11 +172,13 @@ In Verbindungsauskunftsystemen außerhalb der MÁV werden die Züge ggf. als `IC
     reservation_required=false
     reservation_possible=false
 %}}
+
 Klassische Regionalzüge, die an allen Unterwegsbahnhöfen halten.
 
 {{% highlight confusion %}}
 `SZ` Züge in Ungarn werden teilweise auch von [GySEV](/operator/gysev#sz) betrieben.
 {{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -177,6 +189,7 @@ Klassische Regionalzüge, die an allen Unterwegsbahnhöfen halten.
     reservation_required=false
     reservation_possible=false
 %}}
+
 Schnellzüge, welche sowohl den Nahverkehr als auch den Fernverkehr bedienen. Sie halten daher in manchen Streckenabschnitten fast überall, während sie bspw. in der Nähe von Budapest nur an den wichtigsten Bahnhöfen halten.
 
 Die S-Bahn-Züge in der Region Budapest werden ebenfalls mit `S` abgekürzt, wobei diese immer von einer Liniennummer gefolgt sind.
@@ -191,7 +204,9 @@ Die S-Bahn-Züge in der Region Budapest werden ebenfalls mit `S` abgekürzt, wob
     reservation_required=false
     reservation_possible=false
 %}}
+
 Regionalzüge auf der Strecke Győr – Hegyeshalom – Bruck an der Leitha (– Wien).
+
 {{% /train-category %}}
 
 {{% train-category
@@ -202,7 +217,9 @@ Regionalzüge auf der Strecke Győr – Hegyeshalom – Bruck an der Leitha (–
     reservation_required=false
     reservation_possible=false
 %}}
+
 Als BHÉV oder kurz HÉV werden die Linien bezeichnet, welche Budapest mit den Vororten im Umland verbindet. Man erkennt sie am Buchstaben H, gefolgt von der Liniennummer (H5 – H9).
+
 {{% /train-category %}}
 
 ### S-Bahn Budapest
@@ -215,9 +232,11 @@ Als BHÉV oder kurz HÉV werden die Linien bezeichnet, welche Budapest mit den V
     reservation_required=false
     reservation_possible=false
 %}}
+
 S-Züge gehören zur S-Bahn Budapest und sind die langsamsten Züge. Man erkennt sie am Buchstaben S, gefolgt von der Liniennummer.
 
 Die Schnellzüge _Sebesvonat_ der MÁV werden ebenfalls mit `S` abgekürzt, wobei diese nicht von einer Liniennummer gefolgt werden.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -228,7 +247,9 @@ Die Schnellzüge _Sebesvonat_ der MÁV werden ebenfalls mit `S` abgekürzt, wobe
     reservation_required=false
     reservation_possible=false
 %}}
+
 G-Züge gehören zur S-Bahn Budapest und sind beschleunigte Züge, d. h. sie halten nicht an allen Bahnhöfen. Man erkennt sie am Buchstaben G, gefolgt von der Liniennummer.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -239,6 +260,7 @@ G-Züge gehören zur S-Bahn Budapest und sind beschleunigte Züge, d. h. sie hal
     reservation_required=false
     reservation_possible=false
 %}}
+
 Z-Züge gehören zur S-Bahn Budapest und sind Zonenzüge, d. h. sie halten im Stadtgebiet von Budapest nur an den wichtigsten Stationen und danach an ausgewählten größeren Vorortstationen. Man erkennt sie am Buchstaben Z, gefolgt von der Liniennummer.
 
 {{% /train-category %}}
@@ -264,6 +286,8 @@ Der TramTrain zwischen Szeged und Hódmezővásárhely ist mit FIP nutzbar.[^1] 
     title="Balatonfenyves Schmalspurbahn"
     type="regional"
     fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.mavcsoport.hu/mav-szemelyszallitas/szolgaltatasok/balatonfenyvesi-kisvasut"
 %}}
 
@@ -276,6 +300,8 @@ Die Schmalspurbahn von Balatonfenyves nach Somogyszentpál und Csisztafürdő am
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 FIP-Fahrkarten sind in MÁV-Bussen nicht gültig. In Bussen des Schienenersatzverkehrs gelten FIP-Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]

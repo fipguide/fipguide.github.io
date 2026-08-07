@@ -1,14 +1,12 @@
 ---
 draft: false
-title: "NS Ticket Office"
-description: "Booking information for NS ticket offices."
-
+title: NS Ticket Office
+description: Booking information for NS ticket offices.
 params:
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.ns.nl/en/travel-information/facilities/ov-service-and-tickets-shops.html"
-  type: "onsite"
-
+  additional_info_link: https://www.ns.nl/en/travel-information/facilities/ov-service-and-tickets-shops.html
+  type: onsite
 aliases:
   - ns_ticket_office
 ---
@@ -50,7 +48,6 @@ FIP 50 Tickets for the Netherlands can be purchased at NS ticket counters. As of
 - Zaandam
 - Zwolle
 {.o-section--columns-3}
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

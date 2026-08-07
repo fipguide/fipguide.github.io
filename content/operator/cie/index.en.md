@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "CIE"
+title: CIE
 country:
-  - "ireland"
-operator: "cie"
-
+  - ireland
+operator: cie
 aliases:
   - /booking/irish-rail-ticket-office
   - /booking/irish-rail-website
@@ -23,6 +22,7 @@ On its website, Irish Rail provides an [overview map of the routes](https://www.
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 ## Train Categories and Reservations
@@ -82,6 +82,7 @@ DART (Dublin Area Rapid Transit) is a suburban rail network connecting Dublin's 
     title="Bus Éireann"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -94,6 +95,7 @@ FIP is not valid on Bus Éireann bus services.
     title="Dublin Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=false
 %}}
 

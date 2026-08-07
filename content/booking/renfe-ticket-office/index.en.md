@@ -1,14 +1,12 @@
 ---
 draft: false
-title: "Renfe Ticket Office"
-description: "Booking information for the Renfe ticket offices."
-
+title: Renfe Ticket Office
+description: Booking information for the Renfe ticket offices.
 params:
   fip_50: true
   fip_global_fare: true
-  additional_info_link: "https://www.renfe.com/es/en/viajar/informacion-util/-donde-comprar-"
-  type: "onsite"
-
+  additional_info_link: https://www.renfe.com/es/en/viajar/informacion-util/-donde-comprar-
+  type: onsite
 aliases:
   - renfe_ticket_office
 ---

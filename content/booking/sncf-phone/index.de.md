@@ -1,17 +1,16 @@
 ---
 draft: false
-title: "SNCF Telefon"
-description: "Buchungsinformationen für die SNCF Hotline."
-
+title: SNCF Telefon
+description: Buchungsinformationen für die SNCF Hotline.
 params:
   classes:
-    first: "2 € / 16 €"
-    second: "2 € / 11 €"
+    first: 2 € / 16 €
+    second: 2 € / 11 €
   fip_50: true
   fip_75: true
   reservations: true
-  additional_info_link: "https://www.sncf-voyageurs.com/en/contact-us/our-contact-points/by-phone/"
-  type: "phone"
+  additional_info_link: https://www.sncf-voyageurs.com/en/contact-us/our-contact-points/by-phone/
+  type: phone
 ---
 
 Buchungen per Telefon sind über die SNCF Hotline möglich:
@@ -54,8 +53,7 @@ Wenn das Personal am Telefon unsicher ist, welchen Tarifcode es verwenden soll, 
 - Aktive Mitarbeitende und deren Angehörige (außer GB National Rail), Personen im Ruhestand — CF54 : Upgrade mit FIP 50 Ticket auf die 1. Klasse + obligatorische Reservierung in Zügen.
 - Aktive Mitarbeitende und deren Angehörige (nur GB National Rail) — CF77 : FIP 75 Ticket (75% Rabatt) + obligatorische Reservierung in Zügen.
 - Aktive Mitarbeitende und deren Angehörige (nur GB National Rail) — CF78 : Upgrade mit FIP 75 Ticket auf die 1. Klasse + obligatorische Reservierung in Zügen.
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
@@ -67,8 +65,7 @@ Wenn das Personal am Telefon unsicher ist, welchen Tarifcode es verwenden soll, 
 
 - FIP Freifahrtschein — CF70: Nur Reservierungskauf.
 - FIP Freifahrtschein — CF71: Upgrade der FIP Freifahrtschein-Reservierung auf die 1. Klasse.
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 {{% satellite /%}}
 

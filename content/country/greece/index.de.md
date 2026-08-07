@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Griechenland"
-country: "greece"
+title: Griechenland
+country: greece
 params:
   operators_without_fip:
     - STASY (Urban Rail Transport S.A.)
@@ -38,6 +38,7 @@ Die Qualität der Züge variiert: Während moderne elektrische Triebzüge auf de
 | [Italien](/country/italy) ([Attica](/operator/attica)) | Patras (Πάτρα) [>Ancona, >Bari] |
 
 [>] = In Richtung (z. B. Patras [> Ancona] = Patras ist der Grenzpunkt in Richtung Ancona)
+
 {{% /expander %}}
 
 ### Nordmazedonien

@@ -1,5 +1,5 @@
 ---
-title: "Wie viele Felder kann ich bei FIP Freifahrtscheinen beantragen?"
+title: Wie viele Felder kann ich bei FIP Freifahrtscheinen beantragen?
 weight: 10
 ---
 

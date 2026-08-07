@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "Distributeurs de billets ŁKA"
-description: "Informations de réservation pour les distributeurs de billets ŁKA."
-
+title: Distributeurs de billets ŁKA
+description: Informations de réservation pour les distributeurs de billets ŁKA.
 params:
   fip_50: true
   reservations: true
-  additional_info_link: "https://lka.lodzkie.pl/biletomaty/"
-  type: "machine"
+  additional_info_link: https://lka.lodzkie.pl/biletomaty/
+  type: machine
 ---
 
 Dans certaines gares en Pologne, des distributeurs de billets sont disponibles qui vendent également des billets pour ŁKA. De plus, on les trouve également directement dans les trains sur certaines lignes.

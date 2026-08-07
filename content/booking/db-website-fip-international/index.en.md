@@ -1,18 +1,16 @@
 ---
 draft: false
-title: "DB Website FIP (International)"
-description: "Booking information for FIP Tickets with a section in Germany."
-
+title: DB Website FIP (International)
+description: Booking information for FIP Tickets with a section in Germany.
 params:
   classes:
-    first: "€ 6,90"
-    second: "€ 5,50"
+    first: € 6,90
+    second: € 5,50
   fip_50: true
   reservations: true
-  booking_link: "https://int.bahn.de/en/buchung/start?KL=2&ET=FIP_SONSTIGE"
-  additional_info_link: "https://int.bahn.de/en/offers/additional-services/seat-reservation"
-  type: "website"
-
+  booking_link: https://int.bahn.de/en/buchung/start?KL=2&ET=FIP_SONSTIGE
+  additional_info_link: https://int.bahn.de/en/offers/additional-services/seat-reservation
+  type: website
 aliases:
   - db_website_fip_international
 ---
@@ -48,7 +46,6 @@ FIP 50 Tickets can be purchased for the following countries, as long as a sectio
 {.o-section--columns-3}
 
 ![ticket selection](ticket-selection.webp)
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "Stena Line BV E-Mail"
-description: "Buchungsinformationen für die Buchung per E-Mail bei Stena Line BV"
+title: Stena Line BV E-Mail
+description: Buchungsinformationen für die Buchung per E-Mail bei Stena Line BV
 params:
   fip_50: true
   fip_global_fare: nil
   reservations: true
-  type: "email"
-
+  type: email
 aliases:
   - stena-line-email
 ---
@@ -35,7 +34,6 @@ Die Bezahlung über pay per link ist nur am selben Tag möglich, an dem die ents
 ## FIP 50 Fahrkarten
 
 FIP 50 Tickets können gebucht werden.
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -47,5 +45,4 @@ Kabinenreservierungen sind erhältlich und bei Übernachtfahrten obligatorisch.
 {{% highlight important %}}
 Für Reservierungen ist außerdem die Nummer des Stena Line BV FIP Freifahrtscheins erforderlich, der bei der Fahrt genutzt werden soll. Eine Buchung ist daher erst möglich, sobald der FIP Freifahrtschein vorliegt.
 {{% /highlight %}}
-
 {{% /booking-section %}}

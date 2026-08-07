@@ -1,5 +1,5 @@
 ---
-title: "Gilt FIP im Schienenersatzverkehr?"
+title: Gilt FIP im Schienenersatzverkehr?
 weight: 17
 ---
 

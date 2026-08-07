@@ -1,8 +1,9 @@
 ---
-date: "2026-04-09"
+date: 2026-04-09
 draft: false
 title: "Belgien: SNCB beendet Ticketverkauf im Zug ab 1. Juli 2026"
-description: "Ab dem 1. Juli 2026 werden bei der SNCB keine Tickets mehr im Zug verkauft. Das betrifft auch den Kauf von FIP reduzierten Tickets."
+description: Ab dem 1. Juli 2026 werden bei der SNCB keine Tickets mehr im Zug
+  verkauft. Das betrifft auch den Kauf von FIP reduzierten Tickets.
 country:
   - belgium
 operator:

@@ -1,17 +1,16 @@
 ---
 draft: false
-title: "National Rail Ticketschalter"
-description: "Buchungsinformationen für die National Rail Ticketschalter."
-
+title: National Rail Ticketschalter
+description: Buchungsinformationen für die National Rail Ticketschalter.
 params:
   classes:
-    first: "kostenlos"
-    second: "kostenlos"
+    first: kostenlos
+    second: kostenlos
   fip_50: true
   fip_75: true
   reservations: true
-  additional_info_link: "https://www.nationalrail.co.uk/stations/"
-  type: "onsite"
+  additional_info_link: https://www.nationalrail.co.uk/stations/
+  type: onsite
 ---
 
 Die Ticketschalter in Großbritannien werden in der Regel vom jeweiligen Bahnbetreiber des Bahnhofs betrieben. Dennoch verkaufen die verschiedenen Betreiber auch Fahrkarten und Reservierungen für die Züge anderer Bahngesellschaften im Land.

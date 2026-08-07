@@ -1,18 +1,16 @@
 ---
 draft: false
-title: "SBB Website / App"
-description: "Booking information for FIP Tickets at SBB Website and App."
-
+title: SBB Website / App
+description: Booking information for FIP Tickets at SBB Website and App.
 params:
   classes:
-    first: "CHF 5"
-    second: "CHF 5"
+    first: CHF 5
+    second: CHF 5
   fip_50: true
   reservations: true
-  booking_link: "https://www.sbb.ch/en"
-  additional_info_link: "https://www.sbb.ch/en/offers/seat-reservations"
-  type: "online"
-
+  booking_link: https://www.sbb.ch/en
+  additional_info_link: https://www.sbb.ch/en/offers/seat-reservations
+  type: online
 aliases:
   - sbb_website
 ---
@@ -28,7 +26,6 @@ On the SBB website and app, FIP 50 Tickets can be purchased with the "50% Half F
 {{% highlight important %}}
 In urban areas, a ticket with Half Fare discount may also include transport operated by companies that do not accept FIP (e.g., trams or buses). These sections cannot be used with FIP, and the purchased ticket is not valid there without a Half Fare subscription.
 {{% /highlight %}}
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

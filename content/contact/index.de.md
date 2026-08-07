@@ -1,6 +1,7 @@
 ---
-title: "Kontakt"
-description: "Kontaktiere das Team hinter dem FIP Guide – wir sind für Fragen und Anmerkungen erreichbar und freuen uns auf deinen Inhaltsbeitrag."
+title: Kontakt
+description: Kontaktiere das Team hinter dem FIP Guide – wir sind für Fragen und
+  Anmerkungen erreichbar und freuen uns auf deinen Inhaltsbeitrag.
 ---
 
 ## FIP Guide Community

@@ -1,13 +1,13 @@
 ---
 draft: false
-title: "Translink Ticket Office"
-description: "Booking information for the Translink Ticket Office."
+title: Translink Ticket Office
+description: Booking information for the Translink Ticket Office.
 params:
   fip_50: true
   fip_75: true
   reservations: true
-  additional_info_link: "https://www.translink.co.uk/using-translink/station-finder"
-  type: "onsite"
+  additional_info_link: https://www.translink.co.uk/using-translink/station-finder
+  type: onsite
 ---
 
 Stations with ticket offices can be found using the [Translink station finder](https://www.translink.co.uk/using-translink/station-finder). The relevant ticket offices are referred to as "customer information desk".
@@ -17,5 +17,4 @@ Stations with ticket offices can be found using the [Translink station finder](h
 ## FIP 50 Tickets
 
 FIP 50 Tickets can be purchased at Translink ticket offices.
-
 {{% /booking-section %}}

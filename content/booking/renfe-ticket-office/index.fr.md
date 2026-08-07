@@ -1,14 +1,12 @@
 ---
 draft: false
-title: "Guichet Renfe"
-description: "Informations de réservation aux guichets de la Renfe."
-
+title: Guichet Renfe
+description: Informations de réservation aux guichets de la Renfe.
 params:
   fip_50: true
   fip_global_fare: true
-  additional_info_link: "https://www.renfe.com/es/fr/voyager/informacion-util/-donde-comprar-"
-  type: "onsite"
-
+  additional_info_link: https://www.renfe.com/es/fr/voyager/informacion-util/-donde-comprar-
+  type: onsite
 aliases:
   - renfe_ticket_office
 ---

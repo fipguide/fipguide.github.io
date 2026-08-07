@@ -1,11 +1,11 @@
 ---
 draft: false
-title: "Attica E-Mail"
-description: "Informations de réservation pour la réservation par e-mail auprès d’Attica."
+title: Attica E-Mail
+description: Informations de réservation pour la réservation par e-mail auprès d’Attica.
 params:
   fip_50: true
   reservations: false
-  type: "email"
+  type: email
 ---
 
 Les Billets FIP 50 peuvent être commandés par e-mail.
