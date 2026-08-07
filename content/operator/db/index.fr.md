@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "DB"
+title: DB
 country:
-  - "germany"
-operator: "db"
-
+  - germany
+operator: db
 aliases:
   - /booking/db-ticket-office
   - /booking/db-website
@@ -116,6 +115,7 @@ Pour les Railjets à destination de l’Italie, un supplément est requis à par
 Les trains Intercity complètent le réseau ICE. Ils circulent à une vitesse inférieure à celle des ICE, relient de nombreuses villes et desservent aussi de nombreuses régions de vacances.
 
 Certains [services Nightjet](#nj) utilisent des voitures Intercity (IC). Ces voitures peuvent être utilisées sans réservation. Le service IC est affiché dans les systèmes d’information en plus du service Nightjet.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -136,8 +136,7 @@ Les trains vers l’Italie sont soumis à supplément et réservation obligatoir
 
 - 1ʳᵉ classe : 13€
 - 2ᵉ classe : 11€
-
-{{% /highlight %}}
+  {{% /highlight %}}
 
 #### Réservations
 
@@ -268,6 +267,8 @@ Train express local entre Berlin Hauptbahnhof et l’aéroport Willy Brandt (BER
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Les réductions FIP ne sont pas valables dans les bus. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.[^1]
@@ -286,7 +287,11 @@ Les réductions FIP ne sont pas valables dans les bus. Dans les bus de remplacem
 
 ### Par téléphone
 
-{{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" classes.first="6,90 €" classes.second="5,50 €" %}}
+{{% booking id="oebb-phone"
+    subtitle="Incl. réservation Nightjet"
+    classes.first="6,90 €"
+    classes.second="5,50 €"
+%}}
 Les réservations pour les trajets intérieurs allemands coûtent 5,50 € (2e classe) ou 6,90 € (1re classe). Les connexions transfrontalières coûtent 3 €.
 {{% highlight inofficial %}}
 Actuellement, aucun Billet FIP 50 pour les trajets domestiques en Allemagne ne peut être vendu via la hotline ÖBB. Cependant, les réservations transfrontalières de Billets FIP 50 restent possibles (voir [Retours de la communauté Discord FIP sur la hotline ÖBB](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
@@ -295,7 +300,9 @@ Actuellement, aucun Billet FIP 50 pour les trajets domestiques en Allemagne ne p
 
 ### En gare
 
-{{% booking id="db-ticket-office" subtitle="Incl. réservation Nightjet" %}}
+{{% booking id="db-ticket-office"
+    subtitle="Incl. réservation Nightjet"
+%}}
 La réservation de trains directs sans correspondance est moins chère via l’ÖBB.
 {{% /booking %}}
 
@@ -361,10 +368,12 @@ Pour s’orienter, il est aussi possible de vérifier dans DB Navigator ou sur l
 {{% /highlight %}}
 
 {{% expander "Exemple de réseaux de transport sur Bahn.de" info %}}
+
 Dans l’exemple suivant, la connexion choisie se trouve dans le réseau de transport _VRS_ :
 
 ![Recherche de connexion VRS](search_vrs.webp)
 ![Sélection de billet VRS](ticket_vrs.fr.webp)
+
 {{% /expander %}}
 
 ### Distinction tarifaire entre trains longue distance et trains locaux

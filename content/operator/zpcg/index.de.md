@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "ŽPCG"
+title: ŽPCG
 country:
-  - "montenegro"
-operator: "zpcg"
+  - montenegro
+operator: zpcg
 ---
 
 ŽPCG (Željeznički prevoz Crne Gore, Жељезнички превоз Црне Горе) ist der nationale Personenverkehrsbetreiber in Montenegro.
@@ -28,7 +28,9 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ŽPCG gültig.
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Die ŽPCG betreibt Regionalzüge im Binnenverkehr, welche ausschließlich die zweite Klasse führen.
 Die Züge haben keine Linienbezeichnungen, sondern führen ausschließlich eine Zugnummer.
 
@@ -47,6 +49,7 @@ Bei Vorlage des FIP Ausweises wird ein Rabatt von 50 % auf die [regulären Ticke
     type="sleeper"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
 
 Zwischen Montenegro und Serbien betreibt die ŽPCG in den Sommermonaten Tagzüge sowie ganzjährig Nachtzüge mit Sitz-, Liege- und Schlafwagen sowie (teilweise) Speisewagen.
@@ -68,6 +71,7 @@ Für Liege-/Schlafwagenreservierungen fällt eine zusätzliche Servicegebühr vo
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=nil
 %}}
 
@@ -85,8 +89,7 @@ Offizielle Informationen zu diesem Vorgehen liegen uns jedoch nicht vor.
 
 ### Telefon
 
-{{% booking
-    id="sv-phone"
+{{% booking id="sv-phone"
     subtitle="Reservierung von internationalen Fahrten zwischen Serbien und Montenegro"
 /%}}
 

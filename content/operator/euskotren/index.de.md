@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "Euskotren"
+title: Euskotren
 country:
-  - "spain"
-operator: "euskotren"
-
+  - spain
+operator: euskotren
 aliases:
   - /booking/euskotren-ticket-office
 ---
@@ -24,17 +23,15 @@ Im Norden [Spaniens](/country/spain "Spaniens") betreibt Euskotren ein Netz der 
 {{< fip-validity type="additional" status="valid" text="Spezielles 'Euskotren FIP Ticket' (für Inhaber & Angehörige)" disable_dialog=true >}}
 
 {{% float-image
-  src="euskotren_fip_ticket.webp"
-  alt="Euskotren FIP Ticket"
-  caption="Euskotren FIP Ticket"
-  width="30%"
-  position="left"
+    src="euskotren_fip_ticket.webp"
+    alt="Euskotren FIP Ticket"
+    caption="Euskotren FIP Ticket"
+    width="30%"
+    position="left"
 %}}
-
 Das Personal vor Ort in den Euskotren Kundenzentren stellt dir gegen Vorlage des FIP-Ausweises ein spezielles "Euskotren FIP-Ticket" aus.
 Das Ticket wird auch für Angehörige mit eigenem FIP-Ausweis ausgestellt. Es ist inklusive des Ausstellungstages für 7 Tage gültig und du kannst es für das gesamte Euskotren-Netz mit Ausnahme von Regionalbuslinien und der Museumsbahn nutzen.
 Du nutzt das "Euskotren FIP Ticket", um die Bahnsteinbarrieren zu passieren. Nach Ablauf kannst du das Ticket mehrfach pro Jahr neu ausstellen lassen. Die sonst übliche Limitierung bei FIP Freifahrtscheinen wendet Euskotren nicht an.
-
 {{% /float-image %}}
 
 {{% highlight tip %}}
@@ -46,11 +43,12 @@ Einige Zugbetreiber stellen auch Freifahrtscheine für Euskotren aus. Nach unser
 Bei Euskotren sind grundsätzlich keine Reservierungen möglich.
 
 {{% train-category
-  id="meter-gauge"
-  title="Meterspur-Bahn"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+    id="meter-gauge"
+    title="Meterspur-Bahn"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Euskotren betreibt Züge auf der elektrifizierten Meterspur-Bahn in den Provinzen Bizkaia und Gipuzkoa. Die "Euskotren FIP Tickets" gelten auf allen Linien, einschließlich der Linie bis zum TGV-Bahnhof Hendaye in Frankreich.
@@ -58,11 +56,12 @@ Euskotren betreibt Züge auf der elektrifizierten Meterspur-Bahn in den Provinze
 {{% /train-category %}}
 
 {{% train-category
-  id="tram"
-  title="Straßenbahnen"
-  type="tram"
-  fip_accepted=true
-  reservation_possible=false
+    id="tram"
+    title="Straßenbahnen"
+    type="tram"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Die "Euskotren FIP Tickets" gelten sowohl bei der Straßenbahn in Bilbao als auch in Vitoria-Gasteiz.
@@ -72,27 +71,29 @@ Gemäß dem Guide der Rail Delivery Group muss das Ticket bei der Nutzung der St
 {{% /train-category %}}
 
 {{% train-category
-  id="subway"
-  title="U-Bahnlinie L3 in Bilbao"
-  type="subway"
-  fip_accepted=true
-  reservation_possible=false
+    id="subway"
+    title="U-Bahnlinie L3 in Bilbao"
+    type="subway"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 In Bilbao gibt es ein U-Bahn-Netz mit drei Linien. Auf der Linie L3 erkennt das Euskotren die "Euskotren FIP Tickets" an.
 
-{{< highlight important >}}
+{{% highlight important %}}
 Auf allen anderen Linien (L1 und L2) im Metronetz von Bilbao erkennt die Metro Bilbao FIP nicht an. Nur die Linie L3 betreibt Euskotren.[^3]
-{{< /highlight >}}
+{{% /highlight %}}
 
 {{% /train-category %}}
 
 {{% train-category
-  id="funicular"
-  title="Standseilbahn \"Funicular de Larreineta\""
-  type="funicular"
-  fip_accepted=true
-  reservation_possible=false
+    id="funicular"
+    title="Standseilbahn \"Funicular de Larreineta\""
+    type="funicular"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Euskotren betreibt die historische Standseilbahn zwischen Trapagaran und Larreineta und verbindet damit die Bergsiedlungen oberhalb von Trapagaran mit dem Tal.
@@ -104,12 +105,16 @@ Wenn du kein "Euskotren FIP Ticket" hast, stellt das Personal an den Stationen b
 {{% /train-category %}}
 
 {{% train-category
-  id="bus"
-  title="Bus"
-  type="bus"
-  fip_accepted=false
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 FIP Fahrkarten gelten nicht in den Regionalbuslinien von Euskotren. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
 {{% /train-category %}}
 
 ## Klassenkategorien

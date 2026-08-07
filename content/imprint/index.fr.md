@@ -1,6 +1,6 @@
 ---
-title: "Mentions légales"
-description: "Informations légales et coordonnées du site FIP Guide."
+title: Mentions légales
+description: Informations légales et coordonnées du site FIP Guide.
 ---
 
 **Lennart Rommeiß** \

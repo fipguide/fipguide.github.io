@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "BSB"
+title: BSB
 country:
-  - "austria"
-  - "germany"
-  - "switzerland"
-operator: "bsb"
-
+  - austria
+  - germany
+  - switzerland
+operator: bsb
 aliases:
   - /booking/bsb-ticket-office
 ---
@@ -33,12 +32,13 @@ Hierbei gelten FIP Ermäßigungen bei den folgenden Betreibern:
 ## Kategorien und Reservierungen
 
 {{% train-category
-  id="ferry"
-  title="Fähre"
-  type="ship"
-  fip_accepted=partially
-  reservation_possible=false
-  route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
+    id="ferry"
+    title="Fähre"
+    type="ship"
+    fip_accepted=partially
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
 %}}
 
 Fähren auf dem Bodensee.
@@ -50,9 +50,9 @@ Auf den folgenden Strecken können Autos mitgeführt werden:
 
 Auf einigen Schiffen gibt es ein Restaurant bzw. Snacks und Getränke.
 
-{{< highlight important >}}
+{{% highlight important %}}
 Auf der SBS Fähre zwischen Altnau-Hagnau und Immenstaad werden FIP Ermäßigungen nicht anerkannt.[^3]
-{{< /highlight >}}
+{{% /highlight %}}
 
 {{% /train-category %}}
 
@@ -64,8 +64,7 @@ Es gibt eine einheitliche Klasse, die sowohl mit FIP-Ausweisen der 1. und 2. Kla
 
 ### Vor Ort
 
-{{% booking id="bsb-ticket-office" %}}
-{{% /booking %}}
+{{% booking id="bsb-ticket-office" /%}}
 
 ### Auf der Fähre
 

@@ -1,18 +1,16 @@
 ---
 draft: false
-title: "DB Website FIP (International)"
-description: "Buchungsinformationen für FIP Fahrscheine mit Teilabschnitt in Deutschland."
-
+title: DB Website FIP (International)
+description: Buchungsinformationen für FIP Fahrscheine mit Teilabschnitt in Deutschland.
 params:
   classes:
-    first: "6,90 €"
-    second: "5,50 €"
+    first: 6,90 €
+    second: 5,50 €
   fip_50: true
   reservations: true
-  booking_link: "https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE"
-  additional_info_link: "https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung"
-  type: "website"
-
+  booking_link: https://www.bahn.de/buchung/start?KL=2&ET=FIP_SONSTIGE
+  additional_info_link: https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung
+  type: website
 aliases:
   - db_website_fip_international
 ---
@@ -48,7 +46,6 @@ FIP 50 Fahrkarten können für die folgenden Länder erworben werden, solange ei
 {.o-section--columns-3}
 
 ![Ticketauswahl](ticket-selection.webp)
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

@@ -1,14 +1,14 @@
 ---
 draft: false
-title: "Guichet MÁV"
-description: "Informations de réservation pour le guichet MÁV."
+title: Guichet MÁV
+description: Informations de réservation pour le guichet MÁV.
 params:
   classes:
-    first: "990 HUF"
-    second: "990 HUF"
+    first: 990 HUF
+    second: 990 HUF
   fip_50: true
   reservations: true
-  type: "onsite"
+  type: onsite
 ---
 
 Aux guichets MÁV, une distinction est faite entre les guichets nationaux et internationaux. En règle générale, le personnel des guichets internationaux parle des langues étrangères telles que l’anglais ou l’allemand.

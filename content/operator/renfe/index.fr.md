@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "Renfe"
+title: Renfe
 country:
-  - "spain"
-  - "france"
-operator: "renfe"
-
+  - spain
+  - france
+operator: renfe
 aliases:
   - /booking/renfe-ticket-office
 ---
@@ -227,7 +226,7 @@ Non disponible – il faut se rendre au guichet Renfe.
 
 {{% booking id="db-ticket-office"
     fip_global_fare=true
-    reservations="nil"
+    reservations=nil
 %}}
 
 #### Tarif Global FIP

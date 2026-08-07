@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "SŽ"
+title: SŽ
 country:
-  - "slovenia"
-operator: "sz"
+  - slovenia
+operator: sz
 ---
 
 Die Slovenske železnice (SŽ) ist die staatliche Eisenbahngesellschaft von [Slowenien](/country/slovenia "Slowenien") und betreibt einen Großteil der Verbindungen im Personenverkehr auf dem slowenischen Schienennetz.
@@ -35,6 +35,7 @@ Außerdem werden in der Onlineauskunft der SŽ grenzüberschreitende Verbindunge
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
 
 Nationale Fernzüge, die mit dem Zugtyp [SŽ 310 “Pendolino”](https://potniski.sz.si/en/train/emg-310-316-pendolino/) gefahren werden. Dieser zeichnet sich durch verwendete Neigetechnik, kürzere Reisezeiten und wenige Zwischenhalte aus. Unter der Woche werden in einem kleinen Bistro auch Snacks und Getränke angeboten. Meist wird die Route zwischen den beiden größten Städten Ljubljana nach Maribor bedient.
@@ -42,6 +43,7 @@ Nationale Fernzüge, die mit dem Zugtyp [SŽ 310 “Pendolino”](https://potnis
 #### Reservierung
 
 Beim `ICS` ist eine Reservierung sowie ein Aufschlag für die Zugkategorie verpflichtend zu erwerben. Der Aufschlag kostet aktuell 3 € und muss sowohl bei FIP rabattierten Tickets als auch bei der Nutzung von Freifahrtscheinen gezahlt werden.[^1]
+
 {{% /train-category %}}
 
 {{% train-category
@@ -52,11 +54,13 @@ Beim `ICS` ist eine Reservierung sowie ein Aufschlag für die Zugkategorie verpf
     reservation_required=false
     reservation_possible=true
 %}}
+
 Fernverkehrszüge, die mit wenigen Zwischenhalten größere Städte miteinander verbinden. Meistens verkehren sie nur innerhalb Sloweniens; die internationalen Züge nach Budapest über Österreich werden jedoch ebenfalls, zumindest auf Teilabschnitten, als `IC` bezeichnet.
 
 #### Reservierung
 
 Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets ein Aufschlag von aktuell 1,50 € fällig. Bei Nutzung von Freifahrtscheinen muss dieser nicht gezahlt werden.[^1]
+
 {{% /train-category %}}
 
 {{% train-category
@@ -67,11 +71,13 @@ Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets 
     reservation_required=false
     reservation_possible=true
 %}}
+
 Vergleichsweise schnelle internationale Fernzüge, die Slowenien mit Österreich oder Kroatien verbinden.
 
 #### Reservierung
 
 Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets ein Aufschlag von aktuell 1,50 € fällig. Bei Nutzung von Freifahrtscheinen muss dieser nicht gezahlt werden.[^1]
+
 {{% /train-category %}}
 
 {{% train-category
@@ -82,11 +88,13 @@ Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets 
     reservation_required=false
     reservation_possible=true
 %}}
+
 Internationale Züge, die zwischen Slowenien und Österreich, Ungarn oder Kroatien verkehren. Sie verkehren mit wenigen Zwischenhalten.
 
 #### Reservierung
 
 Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets ein Aufschlag von aktuell 1,50 € fällig, wenn nur innerhalb Sloweniens gefahren wird.[^2] Bei Nutzung von Freifahrtscheinen muss dieser nicht gezahlt werden.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -95,6 +103,7 @@ Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets 
     type="sleeper"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
 
 Internationale Nachtzüge nach Kroatien, Österreich und Deutschland. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben.
@@ -106,6 +115,7 @@ Für EuroNight-Züge können Reservierungen/Aufpreise für Schlaf- und Liegewage
 **Kosten:** abhängig von Strecke und Auslastung sowie Wagenkategorie.
 
 Bei Fahrten ausschließlich im Inlandsverkehr von Slowenien wird ein Aufschlag von 1,50 € für FIP rabattierte Tickets fällig.[^2] Bei Nutzung von Freifahrtscheinen muss dieser nicht gezahlt werden.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -113,9 +123,12 @@ Bei Fahrten ausschließlich im Inlandsverkehr von Slowenien wird ein Aufschlag v
     title="Lokalni potniški vlaki (LP oder LPV)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
+
 Nationale Regionalzüge, die meist auch an kleineren Bahnhöfen halten.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -123,9 +136,12 @@ Nationale Regionalzüge, die meist auch an kleineren Bahnhöfen halten.
     title="Regionalni (RG)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
+
 Nationale Regionalzüge, genauso wie [LP/LPV](#lpv).
+
 {{% /train-category %}}
 
 {{% train-category
@@ -133,9 +149,12 @@ Nationale Regionalzüge, genauso wie [LP/LPV](#lpv).
     title="Maloobmejnia (MO)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
+
 Regionalzüge, die grenzüberschreitend verkehren.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -143,8 +162,12 @@ Regionalzüge, die grenzüberschreitend verkehren.
     title="Avtovlak (AVT)"
     type="highspeed"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Autozüge, die durch den längsten Eisenbahntunnel Sloweniens (Bohinj Tunnel) verkehren. FIP ist hier nicht gültig.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -152,8 +175,12 @@ Autozüge, die durch den längsten Eisenbahntunnel Sloweniens (Bohinj Tunnel) ve
     title="Busse"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Busse der SŽ. FIP ist hier nicht gültig, außer es handelt sich um einen Schienenersatzverkehr.
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf

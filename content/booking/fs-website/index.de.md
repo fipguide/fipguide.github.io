@@ -1,17 +1,16 @@
 ---
 draft: false
-title: "Trenitalia Website"
-description: "Buchungsinformationen für die Trenitalia Website."
-
+title: Trenitalia Website
+description: Buchungsinformationen für die Trenitalia Website.
 params:
   fip_50: false
   reservations: true
   classes:
-    first: "3 € / 25 €"
-    second: "3 € / 25 €"
-  booking_link: "https://www.trenitalia.com/de.html"
-  additional_info_link: "https://www.trenitalia.com/en/information/customer-service-offices.html"
-  type: "website"
+    first: 3 € / 25 €
+    second: 3 € / 25 €
+  booking_link: https://www.trenitalia.com/de.html
+  additional_info_link: https://www.trenitalia.com/en/information/customer-service-offices.html
+  type: website
 ---
 
 {{% booking-section "reservations" %}}
@@ -33,7 +32,6 @@ Bei der Buchung muss über die Verbindungsauskunft erst eine Verbindung ausgewä
 ![Mehr Angebote anzeigen](reservation_1.webp)
 ![Tarif wählen](reservation_2.webp)
 {.o-section--columns-flex}
-
 {{% /booking-section %}}
 
 {{% highlight tip %}}

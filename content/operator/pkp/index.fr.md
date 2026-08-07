@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "PKP"
+title: PKP
 country:
-  - "poland"
-operator: "pkp"
-
+  - poland
+operator: pkp
 aliases:
   - /booking/pkp-ticket-machine
   - /booking/pkp-ticket-office
@@ -213,8 +212,12 @@ Trains interrégionaux exploités par Polregio et équipés d’un confort supé
     title="Bus Varsovie Modlin"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Les Billets FIP ne sont pas valables dans les bus KM entre Modlin et l’aéroport de Varsovie Modlin.
+
 {{% /train-category %}}
 
 ## Achat de billets et réservations

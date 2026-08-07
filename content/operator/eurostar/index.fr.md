@@ -1,14 +1,13 @@
 ---
 draft: false
-title: "Eurostar"
+title: Eurostar
 country:
-  - "belgium"
-  - "germany"
-  - "netherlands"
-  - "united-kingdom"
-  - "france"
-operator: "eurostar"
-
+  - belgium
+  - germany
+  - netherlands
+  - united-kingdom
+  - france
+operator: eurostar
 aliases:
   - /booking/eurostar-phone
   - /booking/eurostar-ticket-office
@@ -130,7 +129,10 @@ Mais la gestion du billet (annulation, échange, rebooking) est possible via le 
     fip_global_fare=true
 /%}}
 
-{{% booking id="internationalrail-email" fip_50=nil fip_75=nil /%}}
+{{% booking id="internationalrail-email"
+    fip_50=nil
+    fip_75=nil
+/%}}
 
 ### Par téléphone
 

@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "LTG-Link"
+title: LTG-Link
 country:
-  - "lithuania"
-  - "latvia"
-operator: "ltg"
-
+  - lithuania
+  - latvia
+operator: ltg
 aliases:
   - /booking/ltg-website
 ---

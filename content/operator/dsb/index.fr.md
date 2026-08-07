@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "DSB"
+title: DSB
 country:
-  - "denmark"
-operator: "dsb"
-
+  - denmark
+operator: dsb
 aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
@@ -96,6 +95,7 @@ Une réservation est recommandée pour les trajets transfrontaliers et général
     title="Train régional (R / RE)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -114,6 +114,7 @@ Les trains marqués `RE` sont généralement exploités par DSB.
     title="S-tog (S)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 

@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "Vy Group"
+title: Vy Group
 country:
-  - "norway"
-operator: "vy"
-
+  - norway
+operator: vy
 aliases:
   - /booking/entur-chat
   - /booking/entur-phone
@@ -185,6 +184,7 @@ Flytoget est l’express aéroportuaire entre Oslo Airport et Oslo S. Les Réduc
 {{% highlight tip %}}
 En alternative, les lignes de trains régionaux R10, R11 et R12 peuvent être utilisées avec FIP pour se rendre à l’aéroport. Plus d’informations dans la section [Aéroport d’Oslo](#aéroport-doslo).
 {{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -254,9 +254,7 @@ Pour la réservation en voiture assise, couchette ou voiture-lits, un frais de r
 ### En gare
 
 {{% booking id="entur-ticket-office" /%}}
-{{% booking id="db-ticket-office"
-    classes=nil
-/%}}
+{{% booking id="db-ticket-office" /%}}
 
 Les Réductions FIP ne peuvent pas être achetées aux distributeurs de billets.
 

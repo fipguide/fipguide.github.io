@@ -1,17 +1,16 @@
 ---
 draft: false
-title: "ÖBB Website"
-description: "Buchungsinformationen für die ÖBB Website."
+title: ÖBB Website
+description: Buchungsinformationen für die ÖBB Website.
 params:
   classes:
-    first: "3 €"
-    second: "3 €"
+    first: 3 €
+    second: 3 €
   fip_50: false
   reservations: true
-  booking_link: "https://shop.oebbtickets.at/de/ticket"
-  additional_info_link: "https://www.oebb.at/de/reiseplanung-services/vor-ihrer-reise/reservierung-sitzplatz"
-  type: "website"
-
+  booking_link: https://shop.oebbtickets.at/de/ticket
+  additional_info_link: https://www.oebb.at/de/reiseplanung-services/vor-ihrer-reise/reservierung-sitzplatz
+  type: website
 aliases:
   - obb-website
   - obb_website

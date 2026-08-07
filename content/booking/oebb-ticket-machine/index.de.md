@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "ÖBB Fahrkartenautomat"
-description: "Buchungsinformationen für die ÖBB Fahrkartenautomaten."
-
+title: ÖBB Fahrkartenautomat
+description: Buchungsinformationen für die ÖBB Fahrkartenautomaten.
 params:
   fip_50: true
-  additional_info_link: "https://www.oebb.at/de/reiseplanung-services/am-bahnhof/ticketautomat"
-  type: "machine"
-
+  additional_info_link: https://www.oebb.at/de/reiseplanung-services/am-bahnhof/ticketautomat
+  type: machine
 aliases:
   - obb-ticket-machine
   - obb_ticket_machine

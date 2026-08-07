@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "KMŁ"
+title: KMŁ
 country:
-  - "poland"
-operator: "kml"
-
+  - poland
+operator: kml
 aliases:
   - /booking/kml-ticket-office
 ---
@@ -41,7 +40,7 @@ Da die KMŁ erst seit dem 01.04.2026 FIP-Mitglied ist sind die Buchungsmöglichk
 
 ### Vor Ort
 
-{{% booking id="kml-ticket-office"/%}}
+{{% booking id="kml-ticket-office" /%}}
 
 ### Im Zug
 

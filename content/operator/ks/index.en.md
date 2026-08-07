@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "KŚ"
+title: KŚ
 country:
-  - "poland"
-operator: "ks"
-
+  - poland
+operator: ks
 aliases:
   - /booking/ks-ticket-machine
   - /booking/ks-ticket-office
@@ -42,41 +41,42 @@ FIP tickets are generally not valid on KŚ buses. On rail replacement buses, FIP
 ### Online
 
 {{% booking id="ks-website"
-        subtitle="For domestic connections"
-%}}
-{{% /booking %}}
+    subtitle="For domestic connections"
+/%}}
 
 {{% booking id="koleo-website"
-        reservations=nil
-        subtitle="For domestic connections"
+    subtitle="For domestic connections"
+    reservations=nil
 %}}
 FIP 50 Tickets can only be sold for domestic connections.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-        reservations=nil
-        subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+    subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+    reservations=nil
 /%}}
 
 {{% booking id="db-website-fip-international"
-        reservations=nil
-        subtitle="Cross-border FIP 50 Tickets between Germany and Poland for the entire journey (not valid in the country of issue of the FIP Card)"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Poland for the entire journey (not valid in the country of issue of the FIP Card)"
+    reservations=nil
 /%}}
 
 ### Telephone
 
 {{% booking id="db-phone-fip-db"
-        reservations=nil
-        subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+    subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+    reservations=nil
 /%}}
 
 ### On-Site
 
-{{% booking id="ks-ticket-machine"/%}}
+{{% booking id="ks-ticket-machine" /%}}
 
-{{% booking id="ks-ticket-office"/%}}
+{{% booking id="ks-ticket-office" /%}}
 
-{{% booking id="db-ticket-office" reservations=nil /%}}
+{{% booking id="db-ticket-office"
+    reservations=nil
+/%}}
 
 ### On the Train
 

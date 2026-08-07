@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "SNCB / NMBS"
+title: SNCB / NMBS
 country:
-  - "belgium"
-operator: "sncb"
-
+  - belgium
+operator: sncb
 aliases:
   - /booking/sncb-phone
   - /booking/sncb-ticket-office

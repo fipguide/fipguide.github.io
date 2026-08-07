@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "GySEV / Raaberbahn"
+title: GySEV / Raaberbahn
 country:
-  - "austria"
-  - "hungary"
-operator: "gysev"
-
+  - austria
+  - hungary
+operator: gysev
 aliases:
   - /booking/mav-ticket-machine
   - /booking/mav-ticket-office
@@ -65,6 +64,7 @@ Reservations are only mandatory between Győr and Budapest. For journeys between
     title="Regionalexpress (REX)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -81,6 +81,7 @@ Regionalexpress trains are sometimes also operated by ÖBB where GySEV FIP Ticke
     title="Regionalzug (R)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -97,6 +98,7 @@ Regional trains are sometimes also operated by ÖBB where GySEV FIP Tickets are 
     title="Személyvonat (Sz)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -113,8 +115,12 @@ Személyvonat trains are sometimes also operated by [MÁV](/operator/mav#sz) whe
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 FIP discounts are not valid on GySEV bus connections. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
@@ -125,7 +131,9 @@ FIP discounts are not valid on GySEV bus connections. On rail replacement buses,
 
 ### Telephone
 
-{{% booking id="oebb-phone" reservations=nil /%}}
+{{% booking id="oebb-phone"
+    reservations=nil
+/%}}
 
 ### On-Site
 
@@ -133,7 +141,9 @@ FIP discounts are not valid on GySEV bus connections. On rail replacement buses,
 
 {{% booking id="mav-ticket-machine" /%}}
 
-{{% booking id="oebb-ticket-office" reservations=nil /%}}
+{{% booking id="oebb-ticket-office"
+    reservations=nil
+/%}}
 
 ### On the Train
 

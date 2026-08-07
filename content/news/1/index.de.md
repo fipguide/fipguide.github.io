@@ -1,9 +1,10 @@
 ---
-date: "2025-01-01"
+date: 2025-01-01
 draft: false
-author: "Lennart"
+author: Lennart
 title: "Neues FIP Mitglied: LTG Link (Litauen)"
-description: "Seit 1. Januar 2024 ist LTG Link (Litauen) Teil des FIP-Programms. Bahnmitarbeitende profitieren von neuen Vergünstigungen im Baltikum."
+description: Seit 1. Januar 2024 ist LTG Link (Litauen) Teil des FIP-Programms.
+  Bahnmitarbeitende profitieren von neuen Vergünstigungen im Baltikum.
 country:
   - lithuania
 operator:

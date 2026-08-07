@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "ÖBB"
+title: ÖBB
 country:
-  - "austria"
-  - "liechtenstein"
-operator: "oebb"
-
+  - austria
+  - liechtenstein
+operator: oebb
 aliases:
   - obb
   - /booking/oebb-phone
@@ -223,9 +222,12 @@ Dazu gehören unter anderem:
     title="ÖBB Postbus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=false
 %}}
+
 FIP Fahrkarten sind im ÖBB Postbus nicht gültig. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -252,7 +254,9 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 
 ### Telefon
 
-{{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" /%}}
+{{% booking id="oebb-phone"
+    subtitle="Inkl. Nightjet Buchung"
+/%}}
 
 {{% booking id="db-phone-fip-db"
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Österreich, mit Ticketanteil nur für den österreichischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
@@ -262,15 +266,21 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 
 ### Vor Ort
 
-{{% booking id="oebb-ticket-office" subtitle="Inkl. Nightjet Buchung" /%}}
+{{% booking id="oebb-ticket-office"
+    subtitle="Inkl. Nightjet Buchung"
+/%}}
 
 {{% booking id="oebb-ticket-machine" /%}}
 
-{{% booking id="db-ticket-office" subtitle="Inkl. Nightjet Buchung" %}}
+{{% booking id="db-ticket-office"
+    subtitle="Inkl. Nightjet Buchung"
+%}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
 
-{{% booking id="sz-ticket-office" subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Österreich" /%}}
+{{% booking id="sz-ticket-office"
+    subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Österreich"
+/%}}
 
 ### Im Zug
 

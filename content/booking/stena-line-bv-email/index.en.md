@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "Stena Line Email"
-description: "Booking information for booking by email with Stena Line BV"
+title: Stena Line Email
+description: Booking information for booking by email with Stena Line BV
 params:
   fip_50: true
   fip_global_fare: nil
   reservations: true
-  type: "email"
-
+  type: email
 aliases:
   - stena-line-email
 ---
@@ -35,7 +34,6 @@ Payment via pay per link is only possible on the same day that the corresponding
 ## FIP 50 Tickets
 
 FIP 50 Tickets can be booked.
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -47,5 +45,4 @@ Cabin reservations are available and mandatory for overnight journeys.
 {{% highlight important %}}
 For reservations, the number of the Stena Line BV FIP Coupon to be used for the journey is also required. Booking is therefore only possible once the FIP Coupon is available.
 {{% /highlight %}}
-
 {{% /booking-section %}}

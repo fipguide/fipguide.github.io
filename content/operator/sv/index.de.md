@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "SV"
+title: SV
 country:
-  - "serbia"
-operator: "sv"
+  - serbia
+operator: sv
 ---
 
 Srbija Voz (Србија Воз) ist die staatliche Eisenbahngesellschaft in Serbien und betreibt den Großteil des Personenverkehrs im Land.
@@ -65,6 +65,7 @@ Die [Kosten für Liege- und Schlafwagenreservierungen](https://zpcg.me/en/red-vo
 Für Liege- oder Schlafwagenreservierungen fällt eine zusätzliche Servicegebühr von 10 % an.[^3]
 
 Reservierungen können [via Telefon](#telefon) vorgenommen werden.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -123,6 +124,7 @@ Auf einigen Verbindungen sind Reservierungen verpflichtend, auf anderen Verbindu
     title="BG:VOZ"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -135,6 +137,7 @@ Als BG:VOZ betreibt die SV im Ballungsraum Belgrad zwei Linien ähnlich zu einer
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=nil
 %}}
 
@@ -148,8 +151,7 @@ Aktuell ist jedoch ein Shuttle Bus zwischen Novi Sad und Petrovaradin kostenlos 
 
 ### Telefon
 
-{{% booking
-    id="sv-phone"
+{{% booking id="sv-phone"
     subtitle="Reservierung von internationalen Fahrten zwischen Serbien und Montenegro"
 /%}}
 

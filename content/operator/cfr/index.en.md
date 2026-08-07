@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "CFR Călători"
+title: CFR Călători
 country:
-  - "romania"
-operator: "cfr"
-
+  - romania
+operator: cfr
 aliases:
   - /booking/cfr-ticket-office
 ---
@@ -34,7 +33,9 @@ The train categories are partially used by other operators in Romania as well. F
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
+
 National long-distance trains with few intermediate stops and comparatively higher comfort. They mainly run from Bucharest in various directions across the country.
 
 {{% highlight confusion %}}
@@ -46,6 +47,7 @@ National long-distance trains with few intermediate stops and comparatively high
 A seat reservation is mandatory. If the train is fully booked, a standing reservation can be purchased.
 
 **Reservation cost:** RON 6.5
+
 {{% /train-category %}}
 
 {{% train-category
@@ -54,7 +56,9 @@ A seat reservation is mandatory. If the train is fully booked, a standing reserv
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
+
 Comparatively fast trains connecting major cities with few intermediate stops. Some also run cross-border, particularly to Hungary.
 
 {{% highlight confusion %}}
@@ -66,6 +70,7 @@ Comparatively fast trains connecting major cities with few intermediate stops. S
 A seat reservation is mandatory. If the train is fully booked, a standing reservation can be purchased.
 
 **Reservation cost:** RON 6.5 for national routes
+
 {{% /train-category %}}
 
 {{% train-category
@@ -74,7 +79,9 @@ A seat reservation is mandatory. If the train is fully booked, a standing reserv
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
+
 Mostly international trains running overnight. They are also partially listed as `D` in the journey planners of other providers.
 
 These trains usually include couchette or sleeper cars, which can be used with a corresponding reservation.
@@ -90,6 +97,7 @@ A reservation is mandatory, either for a seat, couchette or sleeper berth. If th
 **Reservation cost:** RON 6.5 for seat and standing reservations on national routes
 
 For couchette and sleeper cars, the following prices apply on national routes: [Price list for couchette and sleeper cars](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
+
 {{% /train-category %}}
 
 {{% train-category
@@ -98,7 +106,9 @@ For couchette and sleeper cars, the following prices apply on national routes: [
     type="highspeed"
     fip_accepted=true
     reservation_required=partially
+    reservation_possible=false
 %}}
+
 International trains to Bulgaria, Moldova and Ukraine run without a specific train category and only have a train number.
 
 These trains often include couchette or sleeper cars, which can be used with a corresponding reservation.
@@ -114,6 +124,7 @@ A reservation is often mandatory (indicated by an _R_ in the journey planner). I
 **Reservation cost:** RON 6.5 for seat and standing reservations on national routes
 
 For couchette and sleeper cars, the following prices apply on national routes: [Price list for couchette and sleeper cars](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
+
 {{% /train-category %}}
 
 {{% train-category
@@ -122,7 +133,9 @@ For couchette and sleeper cars, the following prices apply on national routes: [
     type="regional"
     fip_accepted=true
     reservation_required=partially
+    reservation_possible=false
 %}}
+
 Regional trains that also serve smaller towns. The various trains on a route often do not have a fixed stopping pattern, meaning smaller stops are only served by some `R` trains.
 
 {{% highlight confusion %}}
@@ -134,6 +147,7 @@ Regional trains that also serve smaller towns. The various trains on a route oft
 A reservation is required for some trains, indicated by an _R_.
 
 **Reservation cost:** RON 4.5
+
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
@@ -148,7 +162,9 @@ A reservation is required for some trains, indicated by an _R_.
 
 {{% booking id="cfr-ticket-office" /%}}
 
-{{% booking id="db-ticket-office" subtitle="For the Vienna – Bucharest night train and InterCity trains" %}}
+{{% booking id="db-ticket-office"
+    subtitle="For the Vienna – Bucharest night train and InterCity trains"
+%}}
 At DB Ticket Offices, FIP 50 Tickets and reservations for the Vienna – Bucharest night train can be purchased. Bookings can be made 90 days in advance. Reservations are available for InterCity trains.
 {{% /booking %}}
 

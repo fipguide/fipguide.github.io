@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "KD"
+title: KD
 country:
-  - "poland"
-operator: "kd"
-
+  - poland
+operator: kd
 aliases:
   - /booking/kd-ticket-machine
   - /booking/kd-ticket-office
@@ -39,8 +38,12 @@ Die KD unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben me
     title="Bus"
     type="bus"
     fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Auf allen Buslinien der KD ist FIP gültig. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -54,36 +57,38 @@ FIP 50 Tickets sind für nationale Verbindungen und internationale Verbindungen 
 {{% /booking %}}
 
 {{% booking id="koleo-website"
-    reservations=nil
     subtitle="Für nationale Verbindungen"
+    reservations=nil
 %}}
 FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-    reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+    reservations=nil
 /%}}
 
 {{% booking id="db-website-fip-international"
-    reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+    reservations=nil
 /%}}
 
 ### Telefon
 
 {{% booking id="db-phone-fip-db"
-    reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+    reservations=nil
 /%}}
 
 ### Vor Ort
 
-{{% booking id="kd-ticket-office"/%}}
+{{% booking id="kd-ticket-office" /%}}
 
-{{% booking id="kd-ticket-machine"/%}}
+{{% booking id="kd-ticket-machine" /%}}
 
-{{% booking id="db-ticket-office" reservations=nil /%}}
+{{% booking id="db-ticket-office"
+    reservations=nil
+/%}}
 
 ### Im Zug
 

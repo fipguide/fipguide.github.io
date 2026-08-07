@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "Trenitalia"
+title: Trenitalia
 country:
-  - "italy"
-operator: "trenitalia"
-
+  - italy
+operator: trenitalia
 aliases:
   - /booking/fs-ticket-machine
   - /booking/fs-ticket-office
@@ -35,12 +34,12 @@ Im Fernverkehr besteht eine Reservierungspflicht inkl. Aufschlägen.
 ### Le Frecce
 
 {{% train-category
-  id="fr-av"
-  title="Frecciarossa (FR AV)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=true
-  reservation_possible=true
+    id="fr-av"
+    title="Frecciarossa (FR AV)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 Höchste italienische Zuggattung im Fernverkehr mit Hochgeschwindigkeitszügen. Zusätzlich wird der Frecciarossa 1000 als Zug mit besonders hoher Geschwindigkeit und Service im Fahrplan gekennzeichnet.
@@ -58,12 +57,12 @@ Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit F
 {{% /train-category %}}
 
 {{% train-category
-  id="fa-av"
-  title="Frecciargento (FA AV)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=true
-  reservation_possible=true
+    id="fa-av"
+    title="Frecciargento (FA AV)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 Hochgeschwindigkeitszüge mit Neigetechnik.
@@ -81,12 +80,12 @@ Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit F
 {{% /train-category %}}
 
 {{% train-category
-  id="fb"
-  title="Frecciabianca (FB)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=true
-  reservation_possible=true
+    id="fb"
+    title="Frecciabianca (FB)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 Schnellzug abseits von Hochgeschwindigkeitsstrecken.
@@ -100,12 +99,12 @@ Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit F
 {{% /train-category %}}
 
 {{% train-category
-  id="fl"
-  title="FrecciaLink (FL)"
-  type="bus"
-  fip_accepted=false
-  reservation_required=false
-  reservation_possible=false
+    id="fl"
+    title="FrecciaLink (FL)"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Anschlussbusse für Hochgeschwindigkeitszüge.
@@ -115,12 +114,12 @@ Anschlussbusse für Hochgeschwindigkeitszüge.
 ### Sonstiger Fernverkehr
 
 {{% train-category
-  id="ic"
-  title="InterCity (IC)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=true
-  reservation_possible=true
+    id="ic"
+    title="InterCity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 Schnellzug meist abseits von Hochgeschwindigkeitsstrecken.
@@ -133,12 +132,12 @@ Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifa
 {{% /train-category %}}
 
 {{% train-category
-  id="icn"
-  title="InterCity Notte (ICN)"
-  type="sleeper"
-  fip_accepted=true
-  reservation_required=true
-  reservation_possible=true
+    id="icn"
+    title="InterCity Notte (ICN)"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 Nationaler Nachtzug mit Schlaf-, Liege- und Sitzwagen.
@@ -153,12 +152,12 @@ Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifa
 ### Internationaler Fernverkehr
 
 {{% train-category
-  id="ec"
-  title="Eurocity (EC) / Railjet (RJ) / Railjet Xpress (RJX)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=true
-  reservation_possible=true
+    id="ec"
+    title="Eurocity (EC) / Railjet (RJ) / Railjet Xpress (RJX)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 Internationale Schnellzüge nach Deutschland, Österreich und in die Schweiz.
@@ -179,12 +178,12 @@ Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifa
 {{% /train-category %}}
 
 {{% train-category
-  id="nj"
-  title="Nightjet (NJ) / Euronight (EN)"
-  type="sleeper"
-  fip_accepted=true
-  reservation_required=true
-  reservation_possible=true
+    id="nj"
+    title="Nightjet (NJ) / Euronight (EN)"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 Internationale Nachtzüge nach Deutschland, Österreich und in die Schweiz.
@@ -204,12 +203,12 @@ Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit F
 ### Nahverkehr
 
 {{% train-category
-  id="rv"
-  title="Regionale Veloce (RV)"
-  type="regional"
-  fip_accepted=true
-  reservation_required=false
-  reservation_possible=false
+    id="rv"
+    title="Regionale Veloce (RV)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Schnelle Regionalzüge mit Halt an den wichtigsten Stationen.
@@ -221,12 +220,12 @@ Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen sie
 {{% /train-category %}}
 
 {{% train-category
-  id="r"
-  title="Regionale (R / REG)"
-  type="regional"
-  fip_accepted=true
-  reservation_required=false
-  reservation_possible=false
+    id="r"
+    title="Regionale (R / REG)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Regionalzüge mit Halt an den meisten Stationen.
@@ -238,12 +237,12 @@ Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen sie
 {{% /train-category %}}
 
 {{% train-category
-  id="m"
-  title="Metropolitano (M) / Servizio Ferroviario Metropolitano (sfm)"
-  type="regional"
-  fip_accepted=true
-  reservation_required=false
-  reservation_possible=false
+    id="m"
+    title="Metropolitano (M) / Servizio Ferroviario Metropolitano (sfm)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 S-Bahnsysteme im Großraum Neapel `M` und Großraum Turin `sfm`.
@@ -255,12 +254,16 @@ U-Bahnen sind teilweise auch mit `M` gekennzeichnet und können nicht mit FIP ge
 {{% /train-category %}}
 
 {{% train-category
-  id="bus"
-  title="Bus"
-  type="bus"
-  fip_accepted=false
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Busse sind von FIP-Rabatten ausgeschlossen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
 {{% /train-category %}}
 
 ## Klassenkategorien
@@ -297,7 +300,7 @@ Für den `ECE` Frankfurt – Mailand bzw. die `EC` im Brennerverkehr zwischen M�
 ### Telefon
 
 {{% booking id="db-phone-fip-db"
-subtitle="Nur ECE Züge von Mailand nach Deutschland bzw. EC Züge im Brennerverkehr zwischen Italien und Deutschland. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen bzw. österreischischen und italienischen Abschnitt, für Mitarbeitende der Deutschen Bahn"
+    subtitle="Nur ECE Züge von Mailand nach Deutschland bzw. EC Züge im Brennerverkehr zwischen Italien und Deutschland. Grenzüberschreitende FIP 50 Tickets, mit Ticketanteil nur für den schweizerischen bzw. österreischischen und italienischen Abschnitt, für Mitarbeitende der Deutschen Bahn"
 %}}
 Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden. Für die `EC` im Brennerverkehr zwischen München und Italien kann dies ebenfalls gemacht werden. Beide haben jeweils keine Gültigkeit im deutschen Abschnitt.
 {{% /booking %}}
@@ -309,9 +312,9 @@ Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mai
 {{% booking id="fs-ticket-office" /%}}
 
 {{% booking id="db-ticket-office"
-  classes.first="3 € / 25 €"
-  classes.second="3 € / 25 €"
-  subtitle="Zusätzliche günstigere Optionen für grenzüberschreitende Züge zwischen der Schweiz und Italien"
+    subtitle="Zusätzliche günstigere Optionen für grenzüberschreitende Züge zwischen der Schweiz und Italien"
+    classes.first="3 € / 25 €"
+    classes.second="3 € / 25 €"
 %}}
 {{% highlight inofficial %}}
 Zur Zeit bekommen wir vermehrt das Feedback, dass die Buchung von FIP Tickets und Reservierungen an DB Ticketschaltern nicht möglich ist. Die Buchung ist nur über das alte Verkaufssystem möglich. Soweit möglich können Mitarbeitende im DB Reisezentrum auf dieses wechseln (siehe [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1498379195708084395)). Es ist nicht bekannt, ob die Einschränkungen vorübergehend oder dauerhaft sind. Bei Problemen während der Buchung, empfehlen wir den Kauf von FIP 50 Tickets und Reservierungen direkt an Trenitalia Ticketschaltern.
@@ -319,7 +322,9 @@ Zur Zeit bekommen wir vermehrt das Feedback, dass die Buchung von FIP Tickets un
 Der Aufpreis bzw. Preis für die Reservierung für die grenzüberschreitenden `EC`/`ECE` Züge zwischen der Schweiz und Italien kostet im DB Reisezentrum nur 10 € (2. Klasse) bzw. 13 € (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
 {{% /booking %}}
 
-{{% booking id="sz-ticket-office" subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Italien" /%}}
+{{% booking id="sz-ticket-office"
+    subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Italien"
+/%}}
 
 ### Im Zug
 
@@ -370,23 +375,24 @@ Im italienischen Nahverkehr (`R`/`RV`) besteht teilweise eine Zugbindung. Dies b
 Bei Regionalzügen wird in zuggebunden (_prenotabile_) und nicht zuggebunden (_non prenotabile_) unterschieden. Die zuggebundenen Züge dürfen nur mit Tickets die explizit für diesen Zug ausgestellt wurden genutzt werden.
 
 {{% expander "Erkennung von zuggebundenen Tickets" info %}}
+
 **Zuggebunden:** \
 Tickets für zuggebundene Züge gelten ausschließlich für den auf dem Ticket angegebenen Zug. Die zuggebundenen Züge sind erkennbar an:
 
 {{% float-image
-  src="prenotabile_2.webp"
-  alt="FS Prenotabile Ticket"
-  width="60%"
-  position="right"
+    src="prenotabile_2.webp"
+    alt="FS Prenotabile Ticket"
+    width="60%"
+    position="right"
 %}}
 Der Bemerkung "prenotabile" in den Zuginformationen:
 {{% /float-image %}}
 
 {{% float-image
-  src="prenotabile_1.webp"
-  alt="FS Prenotabile Ticket"
-  width="60%"
-  position="right"
+    src="prenotabile_1.webp"
+    alt="FS Prenotabile Ticket"
+    width="60%"
+    position="right"
 %}}
 Der Ticketbezeichnung "Prenotazione - Ordinaria":
 {{% /float-image %}}
@@ -395,19 +401,19 @@ Der Ticketbezeichnung "Prenotazione - Ordinaria":
 Tickets, die für nicht zuggebundene Züge gekauft werden, sind in dem gebuchten Zug und und allen anderen nicht zuggebundenen Zügen auf der Strecke gültig, jedoch nicht in zugebundenen Zügen.
 
 {{% float-image
-  src="ordinaria_2.webp"
-  alt="FS Ordinaria Ticket"
-  width="60%"
-  position="right"
+    src="ordinaria_2.webp"
+    alt="FS Ordinaria Ticket"
+    width="60%"
+    position="right"
 %}}
 Der Bemerkung "non prenotabile" in den Zuginformationen:
 {{% /float-image %}}
 
 {{% float-image
-  src="ordinaria_1.webp"
-  alt="FS Ordinaria Ticket"
-  width="60%"
-  position="right"
+    src="ordinaria_1.webp"
+    alt="FS Ordinaria Ticket"
+    width="60%"
+    position="right"
 %}}
 Der Ticketbezeichung "Ordinaria":
 {{% /float-image %}}

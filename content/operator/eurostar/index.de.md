@@ -1,14 +1,13 @@
 ---
 draft: false
-title: "Eurostar"
+title: Eurostar
 country:
-  - "belgium"
-  - "germany"
-  - "netherlands"
-  - "united-kingdom"
-  - "france"
-operator: "eurostar"
-
+  - belgium
+  - germany
+  - netherlands
+  - united-kingdom
+  - france
+operator: eurostar
 aliases:
   - /booking/eurostar-phone
   - /booking/eurostar-ticket-office
@@ -130,14 +129,18 @@ Das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets ist über die Euro
     fip_global_fare=true
 /%}}
 
-{{% booking id="internationalrail-email" fip_50=nil fip_75=nil /%}}
+{{% booking id="internationalrail-email"
+    fip_50=nil
+    fip_75=nil
+/%}}
 
 ### Telefon
 
 {{% booking id="eurostar-phone"
     subtitle="Nur Eurostar Red"
 %}}
-Die Buchung von FIP Tickets von/nach London (Eurostar Blue) ist über die Hotline nicht möglich. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.{{% /booking %}}
+Die Buchung von FIP Tickets von/nach London (Eurostar Blue) ist über die Hotline nicht möglich. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.
+{{% /booking %}}
 
 {{% booking id="cfl-phone"
     fip_global_fare=true

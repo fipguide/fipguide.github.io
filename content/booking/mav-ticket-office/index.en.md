@@ -1,14 +1,14 @@
 ---
 draft: false
-title: "MÁV Ticket Office"
-description: "Booking information for MÁV ticket office."
+title: MÁV Ticket Office
+description: Booking information for MÁV ticket office.
 params:
   classes:
-    first: "HUF 990"
-    second: "HUF 990"
+    first: HUF 990
+    second: HUF 990
   fip_50: true
   reservations: true
-  type: "onsite"
+  type: onsite
 ---
 
 At MÁV ticket offices, a distinction is made between national and international ticket offices. As a rule, staff at international ticket offices speak foreign languages such as English or German.

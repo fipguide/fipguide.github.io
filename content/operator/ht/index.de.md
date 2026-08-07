@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "Hellenic Train"
+title: Hellenic Train
 country:
-  - "greece"
-operator: "ht"
-
+  - greece
+operator: ht
 aliases:
   - /booking/ht-ticket-office
   - /booking/ht-website
@@ -54,6 +53,7 @@ Da online keine einzelnen Reservierungen verfügbar sind, buche zunächst ein FI
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
 
 Regionalzüge verbinden Städte und Regionen außerhalb der Hauptachse.
@@ -72,6 +72,7 @@ Touristische Verbindungen wie der Pelion-Train werden in der Verbindung ebenfall
     type="bus"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
 
 Von Hellenic Train betriebene Busse erkennen FIP-Vergünstigungen an.[^1]
@@ -83,6 +84,8 @@ Von Hellenic Train betriebene Busse erkennen FIP-Vergünstigungen an.[^1]
     title="Touristische und historische Züge"
     type="regional"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Hellenic Train betreibt drei touristische bzw. historische Zugverbindungen, auf welchen allerdings kein FIP anerkannt wird.[^1]
@@ -91,9 +94,9 @@ Hellenic Train betreibt drei touristische bzw. historische Zugverbindungen, auf 
 - Zahnradbahn "Odontotos" von Diakopto (Διακοπτό) nach Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/attraction-rails)
 - Katakolo (Κατάκολο) – Olympia (Αρχαία Ολυμπία) (https://www.hellenictrain.gr/en/katakolo-olympia)
 
-{{< highlight info >}}
+{{% highlight info %}}
 Laut Erfahrungsberichten kann die Zahnradbahn zwischen Diakopto und Kalavryta mit FIP Freifahrtschein und vor Ort erhältlicher, kostenfreier Reservierung genutzt werden. Die Nutzbarkeit mit FIP 50 können wir derzeit nicht validieren, da der Betrieb vorerst eingestellt wurde.[^3]
-{{< /highlight >}}
+{{% /highlight %}}
 
 {{% /train-category %}}
 
@@ -107,15 +110,15 @@ Laut Erfahrungsberichten kann die Zahnradbahn zwischen Diakopto und Kalavryta mi
 ### Online
 
 {{% booking id="ht-website"
-    fip_global_fare=nil
     fip_50=true
+    fip_global_fare=nil
 /%}}
 
 ### Vor Ort
 
 {{% booking id="ht-ticket-office"
-    fip_global_fare=nil
     fip_50=true
+    fip_global_fare=nil
 /%}}
 
 ### Im Zug

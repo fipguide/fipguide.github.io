@@ -1,5 +1,5 @@
 ---
-title: "Where can I get discounted tickets with the FIP Card?"
+title: Where can I get discounted tickets with the FIP Card?
 weight: 7
 ---
 

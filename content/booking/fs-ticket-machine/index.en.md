@@ -1,15 +1,14 @@
 ---
 draft: false
-title: "Trenitalia Ticket Machine"
-description: "Booking information for Trenitalia ticket machines."
-
+title: Trenitalia Ticket Machine
+description: Booking information for Trenitalia ticket machines.
 params:
   fip_50: false
   reservations: true
   classes:
-    first: "3 € / 25 €"
-    second: "3 € / 25 €"
-  type: "machine"
+    first: 3 € / 25 €
+    second: 3 € / 25 €
+  type: machine
 ---
 
 {{% booking-section "reservations" %}}
@@ -32,7 +31,6 @@ On the machine's start screen, select "Buy your tickets / Special Discounts". Th
 ![Select fare](machine_2.webp)
 ![Select Diritto Ammissione Non FS](machine_3.webp)
 {.o-section--columns-flex}
-
 {{% /booking-section %}}
 
 {{% highlight tip %}}

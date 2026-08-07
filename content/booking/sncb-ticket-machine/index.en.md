@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "SNCB Ticket Machine"
-description: "Booking information for SNCB ticket machines."
-
+title: SNCB Ticket Machine
+description: Booking information for SNCB ticket machines.
 params:
   fip_50: true
   fip_75: false
   reservations: false
-  type: "machine"
+  type: machine
 ---
 
 {{% booking-section "fip_50" %}}
@@ -18,9 +17,9 @@ Select "SNCB Staff Ticket"[^2] on the main screen of the ticket machine. This gi
 
 Note that tickets to Brussels Zaventem Airport purchased at the ticket machine do not include the airport supplement. The supplement must be purchased separately as an add-on product. [^1]
 
-{{< highlight important >}}
+{{% highlight important %}}
 When purchasing tickets at the machine, tickets with tariff code C01 are issued. These are actually intended for SNCB staff. The correct ticket codes would be C99 for FIP50 and C00 for FIP75. The difference between C01 and C99 is the airport supplement, which is not charged for C01 and therefore must be purchased separately.[^3] According to our information, tickets from the machine with tariff code C01 can also be used for FIP50, however there is no official guarantee.[^1]
-{{< /highlight >}}
+{{% /highlight %}}
 {{% /booking-section %}}
 
 [^1]: [FIP Guide Community: Confirmation that FIP tickets can be used](https://discord.com/channels/1250522473188032512/1510952481532678176/1511320669118529708)

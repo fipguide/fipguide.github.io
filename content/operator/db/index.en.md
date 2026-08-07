@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "DB"
+title: DB
 country:
-  - "germany"
-operator: "db"
-
+  - germany
+operator: db
 aliases:
   - /booking/db-ticket-office
   - /booking/db-website
@@ -116,6 +115,7 @@ For Railjets to Italy, a surcharge is required from the Italian border onward (s
 Intercity trains are an important addition to the ICE network. They run at lower speeds than ICE trains, connect many cities, and also serve many holiday and vacation regions.
 
 Some [Nightjet](#nj) services are operated using `IC` coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -136,8 +136,7 @@ Trains to Italy require a surcharge and reservation from the Italian border. It 
 
 - 1st class: € 13
 - 2nd class: € 11
-
-{{% /highlight %}}
+  {{% /highlight %}}
 
 #### Reservations
 
@@ -268,6 +267,8 @@ Local express train between Berlin Central Station and Berlin Willy Brandt Airpo
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 FIP discounts do not apply on buses. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
@@ -286,7 +287,11 @@ FIP discounts do not apply on buses. On rail replacement buses, FIP discounts ap
 
 ### Telephone
 
-{{% booking id="oebb-phone" subtitle="Including Nightjet booking" classes.first="€ 6,90" classes.second="€ 5,50" %}}
+{{% booking id="oebb-phone"
+    subtitle="Including Nightjet booking"
+    classes.first="€ 6,90"
+    classes.second="€ 5,50"
+%}}
 Reservations for domestic German connections cost € 5.50 (2nd class) or € 6.90 (1st class). Cross-border connections cost € 3.
 {{% highlight inofficial %}}
 Currently, no FIP 50 Tickets for domestic travel within Germany can be sold via the ÖBB hotline. However, cross-border bookings of FIP 50 Tickets are still possible (see [Discord FIP Community ÖBB Hotline Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
@@ -295,7 +300,9 @@ Currently, no FIP 50 Tickets for domestic travel within Germany can be sold via 
 
 ### On-Site
 
-{{% booking id="db-ticket-office" subtitle="Including Nightjet booking" %}}
+{{% booking id="db-ticket-office"
+    subtitle="Including Nightjet booking"
+%}}
 Reservation for individual trains without transfer is cheaper via ÖBB.
 {{% /booking %}}
 
@@ -361,10 +368,12 @@ As a rough guide, you can also check in DB Navigator or on the [DB website](http
 {{% /highlight %}}
 
 {{% expander "Example for Transport Associations on Bahn.de" info %}}
+
 In the following example, the selected connection is within the transport association _VRS_:
 
 ![Connection search VRS](search_vrs.webp)
 ![Ticket selection VRS](ticket_vrs.en.webp)
+
 {{% /expander %}}
 
 ### Tariff Distinction between Local and Long-Distance Transport

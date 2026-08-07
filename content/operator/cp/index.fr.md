@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "CP"
+title: CP
 country:
-  - "portugal"
-operator: "cp"
-
+  - portugal
+operator: cp
 aliases:
   - /booking/cp-ticket-office
 ---
@@ -31,12 +30,12 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les services de la CP. P
 Les réservations ne sont obligatoires que sur les services longue distance (`AP` et `IC`).
 
 {{% train-category
-  id="alfa-pendular"
-  title="Alfa Pendular (AP)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_possible=true
-  reservation_required=true
+    id="alfa-pendular"
+    title="Alfa Pendular (AP)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 Trains rapides pendulaires (Pendolino) circulant sur l’axe principal Braga, Porto, Lisbonne et Faro avec peu d’arrêts. Les trains offrent un bon confort, Wi‑Fi, prises électriques à chaque siège et un service cafétéria/bar.
@@ -48,12 +47,12 @@ Les Coupons FIP (quelle que soit la classe du titre) ne sont valables qu’en se
 {{% /train-category %}}
 
 {{% train-category
-  id="intercidades"
-  title="Intercidades (IC)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_possible=true
-  reservation_required=true
+    id="intercidades"
+    title="Intercidades (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 Trains rapides nationaux composés de voitures tractées circulant sur les principales relations. Ils offrent Wi‑Fi, prises électriques à certains sièges de 1re classe et un service bistrot.
@@ -63,11 +62,12 @@ Trains rapides nationaux composés de voitures tractées circulant sur les princ
 {{% /train-category %}}
 
 {{% train-category
-  id="interregional"
-  title="Serviço InterRegional (IR)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+    id="interregional"
+    title="Serviço InterRegional (IR)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Trains régionaux sur de plus longues distances avec peu d’arrêts.
@@ -75,11 +75,12 @@ Trains régionaux sur de plus longues distances avec peu d’arrêts.
 {{% /train-category %}}
 
 {{% train-category
-  id="regional"
-  title="Serviço Regional (R)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+    id="regional"
+    title="Serviço Regional (R)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Trains régionaux avec de nombreux arrêts.
@@ -87,11 +88,12 @@ Trains régionaux avec de nombreux arrêts.
 {{% /train-category %}}
 
 {{% train-category
-  id="urbanos"
-  title="Comboios Urbanos (U)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+    id="urbanos"
+    title="Comboios Urbanos (U)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Trains de banlieue desservant les réseaux urbains de Lisbonne, Porto et Coimbra (similaires aux S‑trains). Les Coupons FIP sont valables sans restriction.
@@ -126,12 +128,12 @@ Ligne entre Coimbra et Figueira da Foz.
 {{% /train-category %}}
 
 {{% train-category
-  id="celta"
-  title="Celta: Porto – Vigo"
-  type="regional"
-  fip_accepted=partially
-  reservation_possible=true
-  reservation_required=true
+    id="celta"
+    title="Celta: Porto – Vigo"
+    type="regional"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 Le Celta est un train international en coopération entre la CP et Renfe entre Porto et Vigo. Les Coupons FIP ne sont pas reconnus.
@@ -170,19 +172,15 @@ Les passagers titulaires d’un billet de réduction FIP acheté au Portugal ne 
 Sur le site de Zugpost, il y a un [récit de voyage intéressant sur les chemins de fer portugais (uniquement en allemand)](https://zugpost.org/stippvisite-portugal).
 
 {{% highlight tip %}}
-
 Lors d’un voyage au Portugal, nous recommandons la visite du Musée national du chemin de fer à Entroncamento. Les visiteurs arrivant en train bénéficient d’une réduction de 50 % sur le prix d’entrée. [^2]
 
 [Plus d’informations sur le musée](https://www.fmnf.pt/fr)
-
 {{% /highlight %}}
 
 {{% highlight tip %}}
-
 La CP propose régulièrement des trajets avec le "Presidential Train" — un train historique et luxueux qui a transporté des chefs d’État pendant plus d’un siècle et constitue un élément important du patrimoine ferroviaire portugais.
 
 [Plus d’informations sur le Presidential Train](https://comboiopresidencial.pt/en/)
-
 {{% /highlight %}}
 
 ## Sources

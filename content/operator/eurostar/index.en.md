@@ -1,14 +1,13 @@
 ---
 draft: false
-title: "Eurostar"
+title: Eurostar
 country:
-  - "belgium"
-  - "germany"
-  - "netherlands"
-  - "united-kingdom"
-  - "france"
-operator: "eurostar"
-
+  - belgium
+  - germany
+  - netherlands
+  - united-kingdom
+  - france
+operator: eurostar
 aliases:
   - /booking/eurostar-phone
   - /booking/eurostar-ticket-office
@@ -81,12 +80,12 @@ High-speed train between Belgium, Germany, France, and the Netherlands.
 {{% /train-category %}}
 
 {{% train-category
-id="eurostar-snow"
-title="Eurostar Snow: Amsterdam / Brussels – French Alps"
-type="highspeed"
-fip_accepted=false
-reservation_required=true
-reservation_possible=true
+    id="eurostar-snow"
+    title="Eurostar Snow: Amsterdam / Brussels – French Alps"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 High-speed train from Amsterdam and Brussels to the French Alps.
@@ -130,7 +129,10 @@ Checking in, rebooking, canceling, and upgrading tickets is possible via the Eur
     fip_global_fare=true
 /%}}
 
-{{% booking id="internationalrail-email" fip_50=nil fip_75=nil /%}}
+{{% booking id="internationalrail-email"
+    fip_50=nil
+    fip_75=nil
+/%}}
 
 ### Telephone
 

@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "ŁKA"
+title: ŁKA
 country:
-  - "poland"
-operator: "lka"
-
+  - poland
+operator: lka
 aliases:
   - /booking/lka-ticket-machine
   - /booking/lka-ticket-office
@@ -68,8 +67,12 @@ Alle Züge der ŁKA, die nicht auf der Sprinterstrecke zwischen Łódz und Warsc
     title="Bus"
     type="bus"
     fip_accepted=unknown
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Über die Gültigkeit von FIP-Fahrkarten in den von der ŁKA betriebenen Bussen ist uns aktuell nichts bekannt. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -87,9 +90,9 @@ Reservierungen für die `ŁS` Züge können beim Ticketkauf direkt kostenfrei mi
 
 ### Vor Ort
 
-{{% booking id="lka-ticket-machine"/%}}
+{{% booking id="lka-ticket-machine" /%}}
 
-{{% booking id="lka-ticket-office"/%}}
+{{% booking id="lka-ticket-office" /%}}
 
 ### Im Zug
 

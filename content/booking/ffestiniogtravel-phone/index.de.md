@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Ffestiniog Travel Telefon"
-description: "Buchungsinformationen für die Hotline von Ffestiniog Travel."
+title: Ffestiniog Travel Telefon
+description: Buchungsinformationen für die Hotline von Ffestiniog Travel.
 params:
   fee: 12 % p. P. (min. 5 £, max. 60 £)
   fip_50: true
   fip_global_fare: true
-  type: "phone"
+  type: phone
 ---
 
 Ffestiniog Travel hat direkten Zugriff auf die Buchungssysteme vieler Bahnbetreiber und kann Tickets für viele Züge in Europa anbieten.[^1]
@@ -25,7 +25,6 @@ Um Tickets telefonisch buchen zu können, muss initial ein Foto des FIP-Ausweise
 ## FIP Globalpreis
 
 Über die Hotline von Ffestiniog Travel können FIP Globalpreistickets für Eurostar erworben werden.
-
 {{% /booking-section %}}
 
 {{% satellite /%}}

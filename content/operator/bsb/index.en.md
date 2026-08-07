@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "BSB"
+title: BSB
 country:
-  - "austria"
-  - "germany"
-  - "switzerland"
-operator: "bsb"
-
+  - austria
+  - germany
+  - switzerland
+operator: bsb
 aliases:
   - /booking/bsb-ticket-office
 ---
@@ -33,12 +32,13 @@ FIP discounts apply with the following operators:
 ## Train Categories and Reservations
 
 {{% train-category
-  id="ferry"
-  title="Fähre"
-  type="ship"
-  fip_accepted=partially
-  reservation_possible=false
-  route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
+    id="ferry"
+    title="Fähre"
+    type="ship"
+    fip_accepted=partially
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
 %}}
 
 Ferries on Lake Constance.
@@ -50,9 +50,9 @@ On the following routes, cars can be transported:
 
 Some ships offer a restaurant or snacks and drinks.
 
-{{< highlight important >}}
+{{% highlight important %}}
 FIP discounts are not accepted on the SBS ferry between Altnau-Hagnau and Immenstaad.[^3]
-{{< /highlight >}}
+{{% /highlight %}}
 
 {{% /train-category %}}
 
@@ -64,8 +64,7 @@ There is a single class, which can be used with FIP Cards of both 1st and 2nd cl
 
 ### On-Site
 
-{{% booking id="bsb-ticket-office" %}}
-{{% /booking %}}
+{{% booking id="bsb-ticket-office" /%}}
 
 ### On the Ferry
 

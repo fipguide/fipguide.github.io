@@ -1,16 +1,15 @@
 ---
 draft: false
-title: "ČD Ticketschalter"
-description: "Buchungsinformationen für die České dráhy."
-
+title: ČD Ticketschalter
+description: Buchungsinformationen für die České dráhy.
 params:
   classes:
-    first: "35 CZK"
-    second: "35 CZK"
+    first: 35 CZK
+    second: 35 CZK
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.cd.cz/en/typy-jizdenek/jak-koupit-jizdenku/-28750/"
-  type: "onsite"
+  additional_info_link: https://www.cd.cz/en/typy-jizdenek/jak-koupit-jizdenku/-28750/
+  type: onsite
 ---
 
 {{% booking-section "fip_50" %}}
@@ -22,7 +21,6 @@ An ČD Ticketschaltern können FIP 50 Fahrkarten für Reisen innerhalb Tschechie
 {{% highlight tip %}}
 Die ČD kann auch Tickets zu Grenzpunkten und nicht nur echten Bahnhöfen verkaufen. Das ist besonders hilfreich für Fahrten in andere Länder für die ein Freifahrtschein vorliegt.
 {{% /highlight %}}
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -30,5 +28,4 @@ Die ČD kann auch Tickets zu Grenzpunkten und nicht nur echten Bahnhöfen verkau
 ## Reservierungen
 
 Die České dráhy verkauft an ihren Ticketschaltern Reservierungen für Tschechien und einige andere europäische Länder. Dabei können auch Reservierungen von bestimmten Sitzplätzen vorgenommen werden.
-
 {{% /booking-section %}}

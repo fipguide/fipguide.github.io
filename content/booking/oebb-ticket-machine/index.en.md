@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "ÖBB Ticket Machine"
-description: "Booking information for ÖBB ticket machines."
-
+title: ÖBB Ticket Machine
+description: Booking information for ÖBB ticket machines.
 params:
   fip_50: true
-  additional_info_link: "https://www.oebb.at/en/reiseplanung-services/am-bahnhof/ticketautomat"
-  type: "machine"
-
+  additional_info_link: https://www.oebb.at/en/reiseplanung-services/am-bahnhof/ticketautomat
+  type: machine
 aliases:
   - obb-ticket-machine
   - obb_ticket_machine

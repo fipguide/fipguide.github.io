@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "KD"
+title: KD
 country:
-  - "poland"
-operator: "kd"
-
+  - poland
+operator: kd
 aliases:
   - /booking/kd-ticket-machine
   - /booking/kd-ticket-office
@@ -39,8 +38,12 @@ KD does not distinguish different train categories. Its trains usually have a li
     title="Bus"
     type="bus"
     fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 FIP is valid on all KD bus routes. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
@@ -54,35 +57,37 @@ FIP 50 Tickets are available for domestic and international connections. For int
 {{% /booking %}}
 
 {{% booking id="koleo-website"
-    reservations=nil
     subtitle="For domestic connections"
+    reservations=nil
 %}}
 FIP 50 Tickets can only be sold for domestic journeys.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-    reservations=nil
     subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with a ticket section only for the Polish segment. Available only for Deutsche Bahn staff."
+    reservations=nil
 /%}}
 
 {{% booking id="db-website-fip-international"
-    reservations=nil
     subtitle="Cross-border FIP 50 Tickets between Germany and Poland for the entire route (not valid in the FIP Card’s issuing country)"
+    reservations=nil
 /%}}
 
 ### On-Site
 
-{{% booking id="kd-ticket-office"/%}}
+{{% booking id="kd-ticket-office" /%}}
 
-{{% booking id="kd-ticket-machine"/%}}
+{{% booking id="kd-ticket-machine" /%}}
 
-{{% booking id="db-ticket-office" reservations=nil /%}}
+{{% booking id="db-ticket-office"
+    reservations=nil
+/%}}
 
 ### Telephone
 
 {{% booking id="db-phone-fip-db"
-    reservations=nil
     subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with a ticket section only for the Polish segment. Available only for Deutsche Bahn staff."
+    reservations=nil
 /%}}
 
 ### On the Train

@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "CFR Călători"
+title: CFR Călători
 country:
-  - "romania"
-operator: "cfr"
-
+  - romania
+operator: cfr
 aliases:
   - /booking/cfr-ticket-office
 ---
@@ -34,7 +33,9 @@ Les catégories de trains sont en partie également utilisées par d’autres op
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
+
 Trains nationaux longue distance avec peu d’arrêts intermédiaires et un confort comparativement plus élevé. Ils circulent principalement au départ de Bucarest dans les différentes directions du pays.
 
 {{% highlight confusion %}}
@@ -46,6 +47,7 @@ Les trains `IC` sont en partie également exploités par d’autres opérateurs 
 Une réservation de place assise est obligatoire. Si le train est complet, une réservation pour une place debout peut être achetée.
 
 **Coût de la réservation :** 6,5 RON
+
 {{% /train-category %}}
 
 {{% train-category
@@ -54,7 +56,9 @@ Une réservation de place assise est obligatoire. Si le train est complet, une r
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
+
 Trains relativement rapides reliant les grandes villes du pays avec peu d’arrêts intermédiaires. Certains circulent également en transfrontalier, notamment vers la Hongrie.
 
 {{% highlight confusion %}}
@@ -66,6 +70,7 @@ Les trains `IR` sont en partie également exploités par d’autres opérateurs 
 Une réservation de place assise est obligatoire. Si le train est complet, une réservation pour une place debout peut être achetée.
 
 **Coût de la réservation :** 6,5 RON pour les relations nationales
+
 {{% /train-category %}}
 
 {{% train-category
@@ -74,7 +79,9 @@ Une réservation de place assise est obligatoire. Si le train est complet, une r
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
+
 Trains principalement internationaux circulant de nuit. Ils sont aussi parfois référencés comme `D` dans les recherches de correspondances d’autres fournisseurs.
 
 Ces trains comprennent généralement des voitures-couchettes ou voitures-lits, qui peuvent être utilisées avec une réservation correspondante.
@@ -90,6 +97,7 @@ Une réservation est obligatoire, soit pour une place assise, en couchette ou en
 **Coût de la réservation :** 6,5 RON pour les places assises et debout sur les relations nationales
 
 Pour les voitures-couchettes et voitures-lits, les tarifs suivants s’appliquent sur les relations nationales : [Grille tarifaire pour les voitures-couchettes et voitures-lits](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
+
 {{% /train-category %}}
 
 {{% train-category
@@ -98,7 +106,9 @@ Pour les voitures-couchettes et voitures-lits, les tarifs suivants s’appliquen
     type="highspeed"
     fip_accepted=true
     reservation_required=partially
+    reservation_possible=false
 %}}
+
 Les trains internationaux vers la Bulgarie, la Moldavie et l’Ukraine circulent sans catégorie de train spécifique et n’ont qu’un numéro de train.
 
 Ces trains comprennent souvent des voitures-couchettes ou voitures-lits, qui peuvent être utilisées avec une réservation correspondante.
@@ -114,6 +124,7 @@ Une réservation est souvent obligatoire (reconnaissable par un _R_ dans la rech
 **Coût de la réservation :** 6,5 RON pour les places assises et debout sur les relations nationales
 
 Pour les voitures-couchettes et voitures-lits, les tarifs suivants s’appliquent sur les relations nationales : [Grille tarifaire pour les voitures-couchettes et voitures-lits](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
+
 {{% /train-category %}}
 
 {{% train-category
@@ -122,7 +133,9 @@ Pour les voitures-couchettes et voitures-lits, les tarifs suivants s’appliquen
     type="regional"
     fip_accepted=true
     reservation_required=partially
+    reservation_possible=false
 %}}
+
 Trains régionaux desservant également les petites localités. Les différents trains sur une même ligne n’ont souvent pas de schéma d’arrêt fixe, ce qui signifie que les petits arrêts ne sont desservis que par certains trains `R`.
 
 {{% highlight confusion %}}
@@ -134,6 +147,7 @@ Les trains `R` sont en partie également exploités par d’autres opérateurs e
 Une réservation est nécessaire pour certains trains, indiqués par un _R_.
 
 **Coût de la réservation :** 4,5 RON
+
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -148,7 +162,9 @@ Une réservation est nécessaire pour certains trains, indiqués par un _R_.
 
 {{% booking id="cfr-ticket-office" /%}}
 
-{{% booking id="db-ticket-office" subtitle="Pour le train de nuit Vienne – Bucarest et les InterCity" %}}
+{{% booking id="db-ticket-office"
+    subtitle="Pour le train de nuit Vienne – Bucarest et les InterCity"
+%}}
 Au guichet DB, des Billets FIP 50 et des réservations pour le train de nuit Vienne – Bucarest peuvent être achetés. Les réservations peuvent être effectuées 90 jours à l’avance. Des réservations sont disponibles pour les InterCity.
 {{% /booking %}}
 

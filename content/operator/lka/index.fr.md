@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "ŁKA"
+title: ŁKA
 country:
-  - "poland"
-operator: "lka"
-
+  - poland
+operator: lka
 aliases:
   - /booking/lka-ticket-machine
   - /booking/lka-ticket-office
@@ -68,8 +67,12 @@ Tous les trains ŁKA qui ne circulent pas sur la ligne Sprinter entre Łódź et
     title="Bus"
     type="bus"
     fip_accepted=unknown
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Nous ne disposons actuellement d’aucune information sur la validité des Billets FIP dans les autobus exploités par ŁKA. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -87,9 +90,9 @@ Les réservations pour les trains `ŁS` peuvent être réservées gratuitement d
 
 ### En gare
 
-{{% booking id="lka-ticket-machine"/%}}
+{{% booking id="lka-ticket-machine" /%}}
 
-{{% booking id="lka-ticket-office"/%}}
+{{% booking id="lka-ticket-office" /%}}
 
 ### À bord du train
 

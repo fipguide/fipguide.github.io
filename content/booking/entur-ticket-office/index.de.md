@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Entur Ticketschalter"
-description: "Buchungsinformationen für die Entur Ticketschalter."
+title: Entur Ticketschalter
+description: Buchungsinformationen für die Entur Ticketschalter.
 params:
   fip_50: true
   reservations: true
-  additional_info_link: "https://om.entur.no/betjente-stasjoner"
-  type: "onsite"
+  additional_info_link: https://om.entur.no/betjente-stasjoner
+  type: onsite
 ---
 
 An den folgenden fünf Bahnhöfen in Norwegen gibt es einen Ticketschalter, an dem FIP 50 Fahrkarten und Reservierungen erworben werden können:

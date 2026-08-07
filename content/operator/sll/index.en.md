@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "Stena Line Limited"
+title: Stena Line Limited
 country:
-  - "ireland"
-  - "united-kingdom"
-operator: "sll"
-
+  - ireland
+  - united-kingdom
+operator: sll
 aliases:
   - /booking/stena-line-limited-email
   - /booking/stena-line-limited-phone
@@ -28,9 +27,10 @@ The service between Harwich ([United Kingdom](/country/united-kingdom)) and Hoek
 ## Ship Categories and Reservations
 
 {{% float-image
-  src="stena_line_limited_route_map.svg"
-  width="40%"
-  position="right"
+    src="stena_line_limited_route_map.svg"
+    alt="Stena Line Limited route map"
+    width="40%"
+    position="right"
 %}}
 Ferry services on the Irish Sea do not differentiate between categories. Depending on the route, different ships with varying amenities are used.
 
@@ -60,47 +60,39 @@ With a FIP Coupon, the fare is free of charge.
 {{% expander "Find costs online" info %}}
 
 {{% float-image
-  src="determine_costs_1.webp"
-  alt="Step 1"
-  width="40%"
-  position="right"
+    src="determine_costs_1.webp"
+    alt="Step 1"
+    width="40%"
+    position="right"
 %}}
-
 The costs can be viewed on the Stena Line website before booking. To do this, first visit the [Stena Line website (UK)](https://www.stenaline.co.uk/). If you want prices in Euro, select the appropriate language at the bottom of the homepage.
-
 {{% /float-image %}}
 
 {{% float-image
-  src="determine_costs_2.webp"
-  alt="Step 2"
-  width="40%"
-  position="right"
+    src="determine_costs_2.webp"
+    alt="Step 2"
+    width="40%"
+    position="right"
 %}}
-
 In the next step, you need to switch to the old booking system. The new booking system does not show a detailed cost breakdown.
-
 {{% /float-image %}}
 
 {{% float-image
-  src="determine_costs_3.webp"
-  alt="Step 3"
-  width="40%"
-  position="right"
+    src="determine_costs_3.webp"
+    alt="Step 3"
+    width="40%"
+    position="right"
 %}}
-
 Then you can proceed through the booking steps. When choosing the fare, you can select Flexi or Economy.
-
 {{% /float-image %}}
 
 {{% float-image
-  src="determine_costs_4.webp"
-  alt="Step 4"
-  width="40%"
-  position="right"
+    src="determine_costs_4.webp"
+    alt="Step 4"
+    width="40%"
+    position="right"
 %}}
-
 After selecting all desired additional options and cabins, you will receive a cost breakdown in the sidebar. With a FIP Coupon, the travel costs (listed as Economy or Flexi) are set to 0, while the remaining amount stays the same. Therefore, the travel costs can simply be subtracted to determine the costs with a FIP Coupon.
-
 {{% /float-image %}}
 
 Port fees and environmental charges are added to the fare according to the following information (as of 09.05.2026): [^2]

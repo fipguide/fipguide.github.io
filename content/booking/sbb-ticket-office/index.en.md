@@ -1,17 +1,15 @@
 ---
 draft: false
-title: "SBB Ticket Office"
-description: "Booking information for SBB ticket offices."
-
+title: SBB Ticket Office
+description: Booking information for SBB ticket offices.
 params:
   classes:
-    first: "5 CHF"
-    second: "5 CHF"
+    first: 5 CHF
+    second: 5 CHF
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.sbb.ch/en/travel-information/stations/services-station.html"
-  type: "onsite"
-
+  additional_info_link: https://www.sbb.ch/en/travel-information/stations/services-station.html
+  type: onsite
 aliases:
   - sbb_ticket_office
 ---
@@ -21,7 +19,6 @@ aliases:
 ## FIP 50 Tickets
 
 FIP 50 Tickets for travel within Switzerland and to many European countries can be purchased at SBB ticket offices.
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -29,7 +26,6 @@ FIP 50 Tickets for travel within Switzerland and to many European countries can 
 ## Reservations
 
 Reservations can be made for Switzerland as well as for most trains throughout Europe.
-
 {{% /booking-section %}}
 
 To avoid waiting times, a personal consultation appointment can be booked online in advance: [Book appointment](https://www.sbb.ch/en/help-and-contact/products-services/additional-services/other-sbb-services/consultation-appointment-travel-centre.html)

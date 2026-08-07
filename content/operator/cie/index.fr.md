@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "CIE"
+title: CIE
 country:
-  - "ireland"
-operator: "cie"
-
+  - ireland
+operator: cie
 aliases:
   - /booking/irish-rail-ticket-office
   - /booking/irish-rail-website
@@ -82,6 +81,7 @@ Le DART (Dublin Area Rapid Transit) est un réseau ferroviaire de banlieue relia
     title="Bus Éireann"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -94,6 +94,7 @@ Le FIP n’est pas valable sur les liaisons en bus de Bus Éireann.
     title="Dublin Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=false
 %}}
 

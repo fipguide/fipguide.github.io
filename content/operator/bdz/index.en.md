@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "BDŽ"
+title: BDŽ
 country:
-  - "bulgaria"
-operator: "bdz"
-
+  - bulgaria
+operator: bdz
 aliases:
   - /booking/bdz-ticket-office
 ---
@@ -36,7 +35,9 @@ Train categories are shown in BDŽ journey planners as described below. In other
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
+
 International trains running between Bucharest in Romania and Sofia or Varna. These trains run directly only in the summer; otherwise, a change in Ruse is required. In other planners, they may also be shown as `IR`.
 
 Some overnight trains also include couchette or sleeper cars, which can be used with a corresponding reservation.
@@ -44,6 +45,7 @@ Some overnight trains also include couchette or sleeper cars, which can be used 
 #### Reservations
 
 A seat reservation is mandatory in both classes.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -52,12 +54,15 @@ A seat reservation is mandatory in both classes.
     type="highspeed"
     fip_accepted=true
     reservation_required=partially
+    reservation_possible=false
 %}}
+
 Relatively fast trains connecting major cities with few stops. They often use more modern rolling stock, e.g., former DB IC coaches. Overnight trains may include couchette or sleeper cars, which require a reservation.
 
 #### Reservations
 
 A reservation is required for some trains (marked with _R_).
+
 {{% /train-category %}}
 
 {{% train-category
@@ -66,12 +71,15 @@ A reservation is required for some trains (marked with _R_).
     type="highspeed"
     fip_accepted=true
     reservation_required=partially
+    reservation_possible=false
 %}}
+
 National trains connecting cities with few stops.
 
 #### Reservations
 
 A reservation is required for some trains (marked with _R_).
+
 {{% /train-category %}}
 
 {{% train-category
@@ -82,7 +90,9 @@ A reservation is required for some trains (marked with _R_).
     reservation_required=false
     reservation_possible=true
 %}}
+
 Regional trains in domestic traffic, usually with many stops and not very fast. Only 2nd class coaches are available.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -91,8 +101,11 @@ Regional trains in domestic traffic, usually with many stops and not very fast. 
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Regional trains in domestic traffic stopping at most stations, often running more frequently than other trains.
+
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase

@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "SŽ"
+title: SŽ
 country:
-  - "slovenia"
-operator: "sz"
+  - slovenia
+operator: sz
 ---
 
 Les Slovenske železnice (SŽ) sont la compagnie ferroviaire nationale de [Slovénie](/country/slovenia "Slovénie") et exploitent la majorité des services de voyageurs sur le réseau ferroviaire slovène.
@@ -35,6 +35,7 @@ Dans la recherche d’horaires en ligne de SŽ, les liaisons transfrontalières 
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
 
 Trains nationaux grandes lignes exploités avec le type de train [SŽ 310 “Pendolino”](https://potniski.sz.si/en/train/emg-310-316-pendolino/). Ces trains utilisent la technologie pendulaire, offrent des temps de trajet plus courts et peu d’arrêts intermédiaires. En semaine, un petit bistrot propose également des snacks et des boissons. La ligne est principalement exploitée entre Ljubljana et Maribor.
@@ -42,6 +43,7 @@ Trains nationaux grandes lignes exploités avec le type de train [SŽ 310 “Pen
 #### Réservation
 
 Sur les trains `ICS`, une réservation et un supplément sont obligatoires. Le supplément coûte actuellement 3 € et doit être payé pour les Billets FIP réduits comme pour les Coupons FIP.[^1]
+
 {{% /train-category %}}
 
 {{% train-category
@@ -58,6 +60,7 @@ Trains grandes lignes avec peu d’arrêts intermédiaires qui relient les grand
 #### Réservation
 
 Aucune réservation n’est obligatoire, mais un supplément de 1,50 € s’applique aux Billets FIP réduits. Lors de l’utilisation de Coupons FIP, ce supplément n’est pas dû.[^1]
+
 {{% /train-category %}}
 
 {{% train-category
@@ -74,6 +77,7 @@ Trains internationaux relativement rapides qui relient la Slovénie à l’Autri
 #### Réservation
 
 Aucune réservation n’est obligatoire, mais un supplément de 1,50 € s’applique aux Billets FIP réduits. Lors de l’utilisation de Coupons FIP, ce supplément n’est pas dû.[^1]
+
 {{% /train-category %}}
 
 {{% train-category
@@ -90,6 +94,7 @@ Trains internationaux qui circulent entre la Slovénie et l’Autriche, la Hongr
 #### Réservation
 
 Aucune réservation n’est obligatoire, mais un supplément de 1,50 € s’applique aux Billets FIP réduits lorsque le trajet se déroule uniquement en Slovénie.[^2] Lors de l’utilisation de Coupons FIP, ce supplément n’est pas dû.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -98,6 +103,7 @@ Aucune réservation n’est obligatoire, mais un supplément de 1,50 € s’app
     type="sleeper"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
 
 Trains de nuit internationaux vers la Croatie, l’Autriche et l’Allemagne. Les trains proposent des voitures-couchettes et des voitures-lits ainsi que des voitures assises, et sont exploités à l’étranger en coopération avec d’autres compagnies ferroviaires.
@@ -109,6 +115,7 @@ Des réservations / suppléments pour les voitures-couchettes et les voitures-li
 **Coût :** dépend du trajet, du taux de remplissage et de la catégorie de voiture.
 
 Pour les voyages entièrement en Slovénie, un supplément de 1,50 € s’applique aux Billets FIP réduits.[^2] Lors de l’utilisation de Coupons FIP, ce supplément n’est pas dû.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -116,10 +123,12 @@ Pour les voyages entièrement en Slovénie, un supplément de 1,50 € s’appli
     title="Lokalni potniški vlaki (LP ou LPV)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Trains régionaux nationaux qui desservent généralement aussi les petites gares.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -127,10 +136,12 @@ Trains régionaux nationaux qui desservent généralement aussi les petites gare
     title="Regionalni (RG)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Trains régionaux nationaux, similaires à [LP/LPV](#lpv).
+
 {{% /train-category %}}
 
 {{% train-category
@@ -138,10 +149,12 @@ Trains régionaux nationaux, similaires à [LP/LPV](#lpv).
     title="Maloobmejnia (MO)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Trains régionaux qui circulent en correspondance transfrontalière.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -149,9 +162,12 @@ Trains régionaux qui circulent en correspondance transfrontalière.
     title="Avtovlak (AVT)"
     type="highspeed"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Trains automobiles qui traversent le plus long tunnel ferroviaire de Slovénie (tunnel de Bohinj). FIP n’est pas valable ici.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -159,9 +175,12 @@ Trains automobiles qui traversent le plus long tunnel ferroviaire de Slovénie (
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Bus SŽ. FIP n’est pas valable, sauf s’il s’agit d’un service de remplacement ferroviaire.
+
 {{% /train-category %}}
 
 ## Achat de billets et de réservations

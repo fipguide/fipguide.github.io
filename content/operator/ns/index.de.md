@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "NS"
+title: NS
 country:
-  - "netherlands"
-operator: "ns"
-
+  - netherlands
+operator: ns
 aliases:
   - /booking/ns-phone
   - /booking/ns-ticket-office
@@ -44,6 +43,7 @@ Zuschläge müssen teilweise für Eurocity Direct und Intercity Direct Züge gez
     reservation_possible=true
     additional_information_url="https://www.nsinternational.com/en/trains/ice"
 %}}
+
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in den Niederlanden von der NS übernommen werden. Sie verkehren zwischen Amsterdam und Deutschland (Köln / Frankfurt am Main bzw. Hannover / Berlin), können jedoch auch innerhalb der Niederlande zwischen Amsterdam und Arnhem bzw. Hengelo mit FIP Freifahrtschein ohne Aufschlag genutzt werden. Bei FIP 50 Tickets ist jedoch ein Zuschlag erforderlich.
 
 {{% highlight important %}}
@@ -56,6 +56,7 @@ Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in
 
 Bei grenzüberschreitenden Reisen zur Hochsaison ist eine Reservierung erforderlich.
 Im Jahr 2026 ist dies vom 26.06. bis 16.08. der Fall.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -64,11 +65,13 @@ Im Jahr 2026 ist dies vom 26.06. bis 16.08. der Fall.
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
+
 Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen.
 
-{{< highlight important >}}
+{{% highlight important %}}
 Beim einer ausschließlich nationale Fahrt auf dem Abschnitt zwischen Rotterdam und Schiphol ist bei FIP 50 Tickets ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3,20 € zu entrichten.
 
 Beinhaltet das FIP 50 Ticket auch einen internationalen Abschnitt (bei Ein- oder Ausstieg in den `ECD` außerhalb der Niederlande), muss kein Zuschlag für FIP 50 Tickets erworben werden, selbst wenn man dabei den Abschnitt Rotterdam - Schiphol mit dem `ECD` befährt.
@@ -87,7 +90,7 @@ Beispieltickets ohne Zuschlagspflicht:
 Der Zuschlag kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
 
 Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,92 € (40 % Rabatt) erwerben. [^1] [^2] [^3] [^4]
-{{< /highlight >}}
+{{% /highlight %}}
 
 ![Eurocity (Direct) Netz](eurocity-map.de.svg)
 
@@ -99,11 +102,14 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
+
 Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten.
 
 ![Eurocity (Direct) Netz](eurocity-map.de.svg)
+
 {{% /train-category %}}
 
 {{% train-category
@@ -112,17 +118,19 @@ Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.ns.nl/en/travel-information/special-routes/intercity-direct.html"
 %}}
+
 Teilweise zuschlagspflichtiger Schnellzug zwischen Lelystad oder Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal und Breda.
 
-{{< highlight important >}}
+{{% highlight important %}}
 Bei Fahrten auf dem Abschnitt zwischen Rotterdam und Schiphol ist für FIP 50 Tickets ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3,20 € zu entrichten.
 
 Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
 
 Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,92 € (40 % Rabatt) erwerben. [^1] [^2] [^3] [^4]
-{{< /highlight >}}
+{{% /highlight %}}
 
 ![Intercity Direct Netz, Spag85, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg)](intercity-direct-map.webp)
 
@@ -134,8 +142,11 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -144,12 +155,15 @@ Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Regionalzüge mit mehr Halten als beim Intercity, aber trotzdem nur an wichtigeren Stationen.
 
 {{% highlight confusion %}}
 Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo – Hamm (Deutschland), Maastricht – Aachen (Deutschland) und Arnhem – Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
 {{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -158,8 +172,11 @@ Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Ver
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -168,14 +185,16 @@ Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Regionalzüge mit rot-grauem R-net Branding auf der Strecke von von Alphen aan den Rijn nach Gouda.
 
-{{< highlight confusion >}}
+{{% highlight confusion %}}
 R-net (Randstadnet) ist ein Verkehrskonzept in der Metropolregion Randstad, welches von mehreren Betreibern in einheitlichem rot-grauem Fahrzeug-Branding betrieben wird. Es umfasst Züge, U-Bahnen, Straßenbahnen und Busse. Mit FIP ist ausschließlich die R-net Verbindung von Alphen aan den Rijn nach Gouda nutzbar, die von der NS betrieben wird. [^6] Alle anderen R-net Verbindungen, insbesondere die Linie Geldermalsen - Dordrecht (Qbuzz Stoptrein), sind mit FIP nicht nutzbar.
 
 In der Verbindungsauskunft der NS werden die Verbindungen als `R-net NS Sprinter` gekennzeichnet. Nicht zu verwechseln mit dem `R-net Qbuzz Stoptrein`, der nicht mit FIP genutzt werden darf. In anderen Auskunftsmedien, z. B. der DB, wird die Verbindung gegebenenfalls nur als `RE` des Betreibers "R-net" angegeben. Hier ist eine Unterscheidung zum R-net Qbuzz Stoptrein nur anhand der Linie möglich!
-{{< /highlight >}}
+{{% /highlight %}}
 
 {{% /train-category %}}
 

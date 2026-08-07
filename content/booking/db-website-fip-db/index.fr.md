@@ -1,18 +1,17 @@
 ---
 draft: false
-title: "Site Web FIP DB (employés DB)"
-description: "Informations de réservation pour les Billets FIP à destination des pays frontaliers pour les employés de la Deutsche Bahn."
-
+title: Site Web FIP DB (employés DB)
+description: Informations de réservation pour les Billets FIP à destination des
+  pays frontaliers pour les employés de la Deutsche Bahn.
 params:
   classes:
-    first: "6,90 €"
-    second: "5,50 €"
+    first: 6,90 €
+    second: 5,50 €
   fip_50: true
   reservations: true
-  booking_link: "https://www.db-reisemarkt.de/reisemarkt/bahnangebote/ausland/FIP-Angebot-13034692"
-  additional_info_link: "https://int.bahn.de/fr/offres/reservation-de-places-assises"
-  type: "website"
-
+  booking_link: https://www.db-reisemarkt.de/reisemarkt/bahnangebote/ausland/FIP-Angebot-13034692
+  additional_info_link: https://int.bahn.de/fr/offres/reservation-de-places-assises
+  type: website
 aliases:
   - db_website_fip_db
 ---
@@ -40,7 +39,6 @@ Les Billets FIP 50 peuvent être achetés pour les pays suivants :
 - Belgique
 - France
 {.o-section--columns-3}
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

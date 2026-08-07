@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Ungarn"
-country: "hungary"
+title: Ungarn
+country: hungary
 params:
   operators_without_fip:
     - RegioJet

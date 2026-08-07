@@ -1,17 +1,15 @@
 ---
 draft: false
-title: "DSB Ticket Office"
-description: "Booking information for DSB ticket offices."
-
+title: DSB Ticket Office
+description: Booking information for DSB ticket offices.
 params:
   classes:
-    first: "DKK 30"
-    second: "DKK 30"
+    first: DKK 30
+    second: DKK 30
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.dsb.dk/en/train-ticket-to-europe/"
-  type: "onsite"
-
+  additional_info_link: https://www.dsb.dk/en/train-ticket-to-europe/
+  type: onsite
 aliases:
   - dsb_ticket_office
 ---
@@ -46,5 +44,4 @@ International reservations can be issued at the international ticket counters at
 - Sweden
 - Switzerland
 {.o-section--columns-3}
-
 {{% /booking-section %}}

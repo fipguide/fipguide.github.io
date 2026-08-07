@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "MÁV"
+title: MÁV
 country:
-  - "hungary"
-operator: "mav"
+  - hungary
+operator: mav
 ---
 
 MÁV (Magyar Államvasutak, Chemins de fer d'État hongrois) est la principale compagnie ferroviaire en [Hongrie](/country/hungary) et exploite la majorité du trafic longue distance et régional.
@@ -35,6 +35,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les connexions MÁV. Pou
     reservation_required=partially
     reservation_possible=true
 %}}
+
 Trains internationaux longue distance en coopération avec ÖBB et d'autres chemins de fer partenaires, par exemple sur l'axe Vienne – Budapest et Prague – Bratislava – Budapest. La classe Économique (2e classe), la Première Classe (1ère classe) et la Classe Affaires sont disponibles. Une [voiture restaurant d'ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/bordservice) ou [voiture restaurant de ČD](https://www.cd.cz/en/dalsi-sluzby/jidelni-vozy-a-obcerstveni-ve-vlaku/-27986/) est transportée.
 
 La classe affaires n'est pas disponible pour les vols intérieurs en Hongrie. Pour les vols internationaux, elle peut être réservée avec un coupon FIP 1re classe ou un billet FIP 50 ; un supplément de 22 € est appliqué.
@@ -57,6 +58,7 @@ Les réservations de places sont obligatoires pour le trafic intérieur, faculta
     reservation_required=true
     reservation_possible=true
 %}}
+
 Trains rapides nationaux avec voitures de voyageurs de 2e classe, certaines aussi avec voitures de 1ère classe et classe premium 1+. Occasionnellement, des [voitures restaurant](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) et/ou des [voitures bistro](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-bistro-cars) sont transportées.
 
 {{% highlight confusion %}}
@@ -83,6 +85,7 @@ Une réservation est obligatoire.
     reservation_required=partially
     reservation_possible=true
 %}}
+
 Les trains EuroCity sont des trains rapides internationaux sur les routes entre Budapest et Bratislava, Prague, Berlin ou Varsovie. La plupart des trains sont composés de voitures des Chemins de fer tchèques, tandis que le train vers/de Berlin est formé de voitures hongroises et le train vers/de Varsovie de voitures polonaises.
 Parfois, une [voiture restaurant](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) est transportée.
 
@@ -101,11 +104,13 @@ Les réservations de places sont obligatoires pour le trafic intérieur, faculta
     reservation_possible=true
     additional_information_url="https://www.mavcsoport.hu/en/mav-szemelyszallitas/international-travels/travel-night-trains"
 %}}
+
 Trains de nuit en coopération avec les chemins de fer partenaires, qui commencent/se terminent soit à Budapest, soit passent par la capitale (par exemple le `EN` entre Vienne et Bucarest). Les trains se composent généralement de voitures-lits, couchettes et sièges. Occasionnellement, des voitures restaurant/bistro sont transportées.
 
 #### Réservations
 
 Les réservations sont obligatoires.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -116,7 +121,9 @@ Les réservations sont obligatoires.
     reservation_required=false
     reservation_possible=false
 %}}
+
 Les connexions InterRegio sont des trains rapides dans le trafic intérieur et forment le programme de base en dehors des corridors internationaux. Généralement, seule la 2e classe est proposée.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -127,6 +134,7 @@ Les connexions InterRegio sont des trains rapides dans le trafic intérieur et f
     reservation_required=true
     reservation_possible=true
 %}}
+
 Trains express qui ne circulent généralement que les week-ends et pendant les vacances. Divers types de voitures sont utilisés et la plupart des trains ont 2e et 1ère classe.
 
 Dans les systèmes d'information de connexion en dehors de MÁV, les trains peuvent être répertoriés avec une catégorie de train différente.
@@ -145,6 +153,7 @@ Une réservation est obligatoire.
     reservation_required=false
     reservation_possible=false
 %}}
+
 Les trains rapides utilisés sur de nombreuses lignes principales – principalement où aucun train InterCity n'opère. Les trains s'arrêtent dans les villes de taille moyenne et plus grande.
 Généralement, des voitures compartiment plus anciennes, mais modernisées, sont utilisées.
 
@@ -162,11 +171,13 @@ Dans les systèmes d'information de connexion en dehors de MÁV, les trains peuv
     reservation_required=false
     reservation_possible=false
 %}}
+
 Trains régionaux classiques qui s'arrêtent à toutes les gares intermédiaires.
 
 {{% highlight confusion %}}
 Les trains `SZ` en Hongrie sont parfois aussi exploités par [GySEV](/operator/gysev#sz).
 {{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -177,6 +188,7 @@ Les trains `SZ` en Hongrie sont parfois aussi exploités par [GySEV](/operator/g
     reservation_required=false
     reservation_possible=false
 %}}
+
 Trains rapides qui desservent à la fois le trafic régional et longue distance. Ils s'arrêtent donc dans certains tronçons de ligne presque partout, tandis que par exemple près de Budapest, ils ne s' arrêtent qu'aux gares les plus importantes.
 
 Les trains du S-Bahn dans la région de Budapest sont également abrégés en `S`, bien que ceux-ci soient toujours suivis d'un numéro de ligne.
@@ -191,7 +203,9 @@ Les trains du S-Bahn dans la région de Budapest sont également abrégés en `S
     reservation_required=false
     reservation_possible=false
 %}}
+
 Trains régionaux sur la ligne Győr – Hegyeshalom – Bruck an der Leitha (– Vienne).
+
 {{% /train-category %}}
 
 {{% train-category
@@ -202,7 +216,9 @@ Trains régionaux sur la ligne Győr – Hegyeshalom – Bruck an der Leitha (�
     reservation_required=false
     reservation_possible=false
 %}}
+
 Les lignes BHÉV ou courtes lignes HÉV relient Budapest avec les banlieues de la région environnante. Ils sont identifiés par la lettre H suivie du numéro de ligne (H5 – H9).
+
 {{% /train-category %}}
 
 ### S-Bahn de Budapest
@@ -215,9 +231,11 @@ Les lignes BHÉV ou courtes lignes HÉV relient Budapest avec les banlieues de l
     reservation_required=false
     reservation_possible=false
 %}}
+
 Les trains S font partie du S-Bahn de Budapest et sont les trains les plus lents. Ils sont identifiés par la lettre S suivie du numéro de ligne.
 
 Les trains express _Sebesvonat_ de MÁV sont également abrégés en `S`, mais ceux-ci ne sont pas suivis d'un numéro de ligne.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -228,7 +246,9 @@ Les trains express _Sebesvonat_ de MÁV sont également abrégés en `S`, mais c
     reservation_required=false
     reservation_possible=false
 %}}
+
 Les trains G font partie du S-Bahn de Budapest et sont des trains accélérés, c'est-à-dire qu'ils ne s'arrêtent pas à toutes les gares. Ils sont identifiés par la lettre G suivie du numéro de ligne.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -239,6 +259,7 @@ Les trains G font partie du S-Bahn de Budapest et sont des trains accélérés, 
     reservation_required=false
     reservation_possible=false
 %}}
+
 Les trains Z font partie du S-Bahn de Budapest et sont des trains de zone, c'est-à-dire qu'ils ne s'arrêtent qu'aux gares les plus importantes de la zone urbaine de Budapest, puis aux gares de banlieue principales sélectionnées. Ils sont identifiés par la lettre Z suivie du numéro de ligne.
 
 {{% /train-category %}}
@@ -264,6 +285,8 @@ Le TramTrain entre Szeged et Hódmezővásárhely peut être utilisé avec FIP.[
     title="Chemin de fer à voie étroite de Balatonfenyves"
     type="regional"
     fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.mavcsoport.hu/mav-szemelyszallitas/szolgaltatasok/balatonfenyvesi-kisvasut"
 %}}
 
@@ -276,6 +299,8 @@ Le chemin de fer à voie étroite de Balatonfenyves à Somogyszentpál et Csiszt
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Les billets FIP ne sont pas valables sur les bus MÁV. Sur les bus en service de substitution ferroviaire, les avantages FIP s'appliquent s'ils remplacent un train sur lequel FIP aurait été valable.[^1]

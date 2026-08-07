@@ -1,17 +1,15 @@
 ---
 draft: false
-title: "Téléphone ÖBB"
-description: "Informations de réservation via la hotline ÖBB."
-
+title: Téléphone ÖBB
+description: Informations de réservation via la hotline ÖBB.
 params:
   classes:
-    first: "3,50 €"
-    second: "3,50 €"
+    first: 3,50 €
+    second: 3,50 €
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.oebb.at/en/reiseplanung-services/kundenservice/callcenter"
-  type: "phone"
-
+  additional_info_link: https://www.oebb.at/en/reiseplanung-services/kundenservice/callcenter
+  type: phone
 aliases:
   - obb-phone
   - obb_phone
@@ -46,5 +44,4 @@ Les réservations de sièges ÖBB peuvent être annulées :
 
 - De 180 à 15 jours avant le départ : remboursement de 100 % du prix de la réservation
 - De 14 à 1 jour avant le départ : remboursement de 50 % du prix de la réservation
-
-{{% /booking-section %}}
+  {{% /booking-section %}}

@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "CFR Călători"
+title: CFR Călători
 country:
-  - "romania"
-operator: "cfr"
-
+  - romania
+operator: cfr
 aliases:
   - /booking/cfr-ticket-office
 ---
@@ -34,7 +33,9 @@ Die Zugkategorien werden teilweise auch von anderen Betreibern in Rumänien genu
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
+
 Nationale Fernverkehrszüge mit wenige Zwischenhalten und einem vergleichsweise höherem Komfort. Sie fahren hauptsächlich von Bukarest aus in die verschiedenen Richtungen des Landes.
 
 {{% highlight confusion %}}
@@ -46,6 +47,7 @@ Die `IC` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieb
 Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
 **Kosten für Reservierung:** 6,5 RON
+
 {{% /train-category %}}
 
 {{% train-category
@@ -54,7 +56,9 @@ Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die R
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
+
 Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Teilweise verkehren sie auch grenzüberschreitend, insbesondere nach Ungarn.
 
 {{% highlight confusion %}}
@@ -66,6 +70,7 @@ Die `IR` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieb
 Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
 **Kosten für Reservierung:** 6,5 RON bei nationalen Relationen
+
 {{% /train-category %}}
 
 {{% train-category
@@ -74,7 +79,9 @@ Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die R
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
+
 Meist internationale Züge, die über Nacht verkehren. Sie werden in der Verbindungsauskunft bei anderen Anbietern auch teilweise als `D` gekennzeichnet.
 
 Bei den Zügen sind meist auch Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
@@ -90,6 +97,7 @@ Eine Reservierung ist verpflichtend, entweder für einen Sitz-, Liege- oder Schl
 **Kosten für Reservierung:** 6,5 RON für Sitz- und Stehplätze auf nationalen Relationen
 
 Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [Preisliste Liege- und Schlafwagen](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
+
 {{% /train-category %}}
 
 {{% train-category
@@ -98,7 +106,9 @@ Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [P
     type="highspeed"
     fip_accepted=true
     reservation_required=partially
+    reservation_possible=false
 %}}
+
 Internationale Züge nach Bulgarien, Moldau und der Ukraine verkehren ohne eigene Zugkategorie und haben lediglich eine Zugnummer.
 
 Bei den Zügen sind oft auch Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
@@ -114,6 +124,7 @@ Eine Reservierung ist oft verpflichtend (erkennbar an einem _R_ in der Verbindun
 **Kosten für Reservierung:** 6,5 RON für Sitz- und Stehplätze auf nationalen Relationen
 
 Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [Preisliste Liege- und Schlafwagen](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
+
 {{% /train-category %}}
 
 {{% train-category
@@ -122,7 +133,9 @@ Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [P
     type="regional"
     fip_accepted=true
     reservation_required=partially
+    reservation_possible=false
 %}}
+
 Regionalzüge, die auch kleinere Orte mit anbinden. Dabei haben die verschiedenen Züge auf einer Strecke oft kein festes Halteschema, d. h. die kleineren Halte werden nur von manchen `R` Zügen angefahren.
 
 {{% highlight confusion %}}
@@ -134,6 +147,7 @@ Die `R` Züge werden teilweise auch von anderen Betreibern in Rumänien betriebe
 Eine Reservierung ist für einige Züge erforderlich, diese sind mit _R_ gekennzeichnet.
 
 **Kosten für Reservierung:** 4,5 RON
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -148,7 +162,9 @@ Eine Reservierung ist für einige Züge erforderlich, diese sind mit _R_ gekennz
 
 {{% booking id="cfr-ticket-office" /%}}
 
-{{% booking id="db-ticket-office" subtitle="Für den Nachtzug Wien – Bukarest und InterCitys" %}}
+{{% booking id="db-ticket-office"
+    subtitle="Für den Nachtzug Wien – Bukarest und InterCitys"
+%}}
 Im DB Reisezentrum können FIP 50 Tickets und Reservierungen für den Nachtzug Wien – Bukarest erworben werden. Die Buchung ist 90 Tage im Voraus möglich. Für InterCitys sind Reservierungen erhältlich.
 {{% /booking %}}
 

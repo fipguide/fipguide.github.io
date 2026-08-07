@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "Hellenic Train"
+title: Hellenic Train
 country:
-  - "greece"
-operator: "ht"
-
+  - greece
+operator: ht
 aliases:
   - /booking/ht-ticket-office
   - /booking/ht-website
@@ -54,6 +53,7 @@ Since individual reservations are not available online, first book an FIP 50 Tic
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
 
 Regional trains connect cities and regions outside the main axis.
@@ -72,6 +72,7 @@ Tourist services such as the Pelion Train are also shown as `REG` in the journey
     type="bus"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
 
 Buses operated by Hellenic Train accept FIP benefits.[^1]
@@ -83,6 +84,8 @@ Buses operated by Hellenic Train accept FIP benefits.[^1]
     title="Tourist and historic trains"
     type="regional"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Hellenic Train operates three tourist or historic train services on which FIP is not accepted.[^1]
@@ -91,9 +94,9 @@ Hellenic Train operates three tourist or historic train services on which FIP is
 - Rack railway "Odontotos" from Diakopto (Διακοπτό) to Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/attraction-rails)
 - Katakolo (Κατάκολο) – Olympia (Αρχαία Ολυμπία) (https://www.hellenictrain.gr/en/katakolo-olympia)
 
-{{< highlight info >}}
+{{% highlight info %}}
 According to experience reports, the rack railway between Diakopto and Kalavryta can be used with an FIP Coupon and a free reservation obtainable on site. We are currently unable to verify usability with FIP 50, as services have been temporarily suspended.[^3]
-{{< /highlight >}}
+{{% /highlight %}}
 
 {{% /train-category %}}
 
@@ -107,15 +110,15 @@ According to experience reports, the rack railway between Diakopto and Kalavryta
 ### Online
 
 {{% booking id="ht-website"
-    fip_global_fare=nil
     fip_50=true
+    fip_global_fare=nil
 /%}}
 
 ### On-Site
 
 {{% booking id="ht-ticket-office"
-    fip_global_fare=nil
     fip_50=true
+    fip_global_fare=nil
 /%}}
 
 ### On the Train

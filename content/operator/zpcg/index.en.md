@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "ŽPCG"
+title: ŽPCG
 country:
-  - "montenegro"
-operator: "zpcg"
+  - montenegro
+operator: zpcg
 ---
 
 ŽPCG (Željeznički prevoz Crne Gore, Жељезнички превоз Црне Горе) is the national passenger transport operator in Montenegro.
@@ -28,7 +28,9 @@ FIP Coupons and FIP 50 Tickets are valid on ŽPCG services. For cross-border jou
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 The ŽPCG operates regional trains in domestic traffic, which are second class only.
 The trains do not have line designations and only carry a train number.
 
@@ -47,6 +49,7 @@ Upon presentation of the FIP Card, a 50% discount is granted on [regular ticket 
     type="sleeper"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=false
 %}}
 
 Between Montenegro and Serbia, ŽPCG operates daytime trains in the summer months as well as year-round night trains with seated, couchette and sleeping cars and (partly) dining cars.
@@ -68,6 +71,7 @@ An additional 10% service fee applies for couchette/sleeping car reservations.[^
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=nil
 %}}
 
@@ -85,8 +89,7 @@ However, we do not have official information on this procedure.
 
 ### Telephone
 
-{{% booking
-    id="sv-phone"
+{{% booking id="sv-phone"
     subtitle="Reservation of international trips between Serbia and Montenegro"
 /%}}
 

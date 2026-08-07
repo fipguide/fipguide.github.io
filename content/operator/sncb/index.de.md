@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "SNCB / NMBS"
+title: SNCB / NMBS
 country:
-  - "belgium"
-operator: "sncb"
-
+  - belgium
+operator: sncb
 aliases:
   - /booking/sncb-phone
   - /booking/sncb-ticket-office
@@ -69,13 +68,15 @@ Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
+
 Internationaler Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen.
 
-{{< highlight important >}}
+{{% highlight important %}}
 Für Fahrten innerhalb der Niederlande gelten besondere Regelungen, siehe [NS ECD](/operator/ns#ecd)
-{{< /highlight >}}
+{{% /highlight %}}
 
 ![Eurocity (Direct) Netz](eurocity-map.de.svg)
 

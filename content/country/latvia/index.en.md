@@ -1,10 +1,10 @@
 ---
 draft: false
-title: "Latvia"
-country: "latvia"
+title: Latvia
+country: latvia
 params:
   operators_without_fip:
-    - "Latvijas dzelzceļš (LDz)"
+    - Latvijas dzelzceļš (LDz)
 ---
 
 ## FIP Information

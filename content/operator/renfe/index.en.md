@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "Renfe"
+title: Renfe
 country:
-  - "spain"
-  - "france"
-operator: "renfe"
-
+  - spain
+  - france
+operator: renfe
 aliases:
   - /booking/renfe-ticket-office
 ---
@@ -227,7 +226,7 @@ It seems to be not possible to book FIP-Tickets by telephone with Renfe. The hot
 
 {{% booking id="db-ticket-office"
     fip_global_fare=true
-    reservations="nil"
+    reservations=nil
 %}}
 
 #### FIP Global Fare

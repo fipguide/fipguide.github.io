@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "ZSSK / ZSR"
+title: ZSSK / ZSR
 country:
-  - "slovakia"
-operator: "zssk"
+  - slovakia
+operator: zssk
 aliases:
   - zsr
   - /booking/zssk-ticket-office
@@ -162,6 +162,8 @@ Reservations are required only in 1st class.
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Buses are excluded from FIP discounts. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
