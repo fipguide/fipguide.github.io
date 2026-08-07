@@ -172,43 +172,6 @@ _anchors:
         <hr>
         **Unique dans les 45 mois** après le départ à la retraite: 1 coupon
         </small>
-
-taxation:
-  de: Pro Bestellung und Person wird der Sachbezug von € 39,42 in der 2.Klasse und € 62,69 in der 1.Klasse verrechnet.
-  en: For each order and person, a taxable benefit of €39.42 in 2nd class and €62.69 in 1st class is charged.
-  fr: Pour chaque commande et par personne, un avantage imposable de 39,42 € en 2e classe et de 62,69 € en 1re classe est facturé.
-
-national-discounts:
-  de: Informationen zu nationalen Fahrvergünstigungen sind [hier](https://bcc.oebb.at/de/pensionsservice/at-fahrbeguenstigung/inland) zu finden.
-  en: Information on national travel discounts can be found [here](https://bcc.oebb.at/de/pensionsservice/at-fahrbeguenstigung/inland).
-  fr: Les informations sur les réductions nationales peuvent être consultées [ici](https://bcc.oebb.at/de/pensionsservice/at-fahrbeguenstigung/inland).
-
-general:
-  fip-coupon:
-    de: >
-      Informationen über den FIP Freifahrtscheinanspruch sowie die Beantragung
-      für Ruheständler sind auf der Website des ÖBB Pensionsservice
-      [verfügbar](https://bcc.oebb.at/de/pensionsservice/at-fahrbeguenstigung/ausland/ermaessigung-im-ausland).
-
-      Die Beantragung muss mind. drei Wochen vor dem Gültigkeitsbeginn des FIP
-      Freifahrtscheins erfolgen.
-    en: >
-      Information about FIP Coupon entitlement and the application process for
-      retirees is
-      [available](https://bcc.oebb.at/de/pensionsservice/at-fahrbeguenstigung/ausland/ermaessigung-im-ausland)
-      on the ÖBB pension service website.
-
-      The application must be submitted at least three weeks before the start
-      of validity of the FIP Coupon.
-    fr: >
-      Les informations sur le droit au Coupon FIP ainsi que sur la procédure de
-      demande pour les retraités sont
-      [disponibles](https://bcc.oebb.at/de/pensionsservice/at-fahrbeguenstigung/ausland/ermaessigung-im-ausland)
-      sur le site du service de pension ÖBB.
-
-      La demande doit être soumise au moins trois semaines avant le début de
-      validité du Coupon FIP.
-
 attica:
   fip-coupon:
     retired: *coupon-not-available

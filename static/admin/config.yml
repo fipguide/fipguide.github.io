@@ -168,7 +168,37 @@ collections:
           - "dialog"
           - "float-image"
           - "wip"
-          - "fip-validity-comparison"
+          - "columns"
+
+  - name: "application"
+    label: "FIP Application"
+    label_singular: "FIP Application"
+    folder: "content/application"
+    path: "{{slug}}/index"
+    publish: false
+    create: true
+    delete: false
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          - "image"
+          - "highlight"
+          - "expander"
+          - "fip-validity-table"
+          - "button"
+          - "dialog"
+          - "float-image"
+          - "wip"
           - "columns"
 
   - name: "booking"
