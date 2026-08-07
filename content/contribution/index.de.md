@@ -27,6 +27,10 @@ Um dich im FIP Guide CMS anzumelden, benötigst du einen kostenlosen [Github](ht
 Im CMS kann sich mit diesem Github Account angemeldet werden. Während der Anmeldung muss die Nutzung mit "Authorize" bestätigt werden.
 {{% /float-image %}}
 
+{{% highlight important %}}
+Bei der erstmaligen Anmeldung wird gefragt, ob ein sogenannter _Fork_ erstellt werden soll. Dadurch wird automatisch eine eigene Kopie der Seite erstellt. Dies ist notwendig, damit Änderungen im CMS gespeichert werden können. Bitte bestätige dies mit "Create Fork".
+{{% /highlight %}}
+
 ### Seiten öffnen
 
 Auf der <a href="https://www.fipguide.org/admin">Startseite</a> des FIP Guide CMS kann im linken Menü die Seitenkategorie ausgewählt werden und anschließend in der Mitte die gewünschte Seite geöffnet oder eine neue Seite erstellt werden.

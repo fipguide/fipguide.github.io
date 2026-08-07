@@ -27,6 +27,10 @@ To log in to the FIP Guide CMS, you need a free [GitHub](https://github.com/) ac
 You can log in to the CMS with this GitHub account. During the login, the use must be confirmed with "Authorize".
 {{% /float-image %}}
 
+{{% highlight important %}}
+When you log in for the first time, you will be asked whether a so-called _Fork_ should be created. This automatically creates your own copy of the page. This is necessary so that changes can be saved in the CMS. Please confirm this with "Create Fork".
+{{% /highlight %}}
+
 ### Open Pages
 
 On the <a href="https://www.fipguide.org/admin">homepage</a> of the FIP Guide CMS, the page category can be selected in the left menu and then the desired page can be opened in the center or a new page can be created.

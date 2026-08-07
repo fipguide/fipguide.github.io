@@ -27,6 +27,10 @@ Pour vous connecter au CMS du FIP Guide, vous avez besoin d’un compte [GitHub]
 Il est possible de se connecter au CMS avec ce compte GitHub. Pendant la connexion, l’utilisation doit être confirmée avec « Authorize ».
 {{% /float-image %}}
 
+{{% highlight important %}}
+Lors de la première connexion, il vous sera demandé si un _Fork_ doit être créé. Cela crée automatiquement votre propre copie de la page. Cela est nécessaire pour que les modifications puissent être enregistrées dans le CMS. Veuillez confirmer cela avec « Create Fork ».
+{{% /highlight %}}
+
 ### Ouvrir des pages
 
 Sur la <a href="https://www.fipguide.org/admin">page d’accueil</a> du CMS du FIP Guide, la catégorie de page peut être sélectionnée dans le menu de gauche, puis la page souhaitée peut être ouverte au centre ou une nouvelle page peut être créée.
