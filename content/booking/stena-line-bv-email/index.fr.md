@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "Stena Line BV e-Mail"
-description: "Informations relatives à la réservation par e-mail auprès de Stena Line BV"
+title: Stena Line BV e-Mail
+description: Informations relatives à la réservation par e-mail auprès de Stena Line BV
 params:
   fip_50: true
   fip_global_fare: nil
   reservations: true
-  type: "email"
-
+  type: email
 aliases:
   - stena-line-email
 ---
@@ -35,7 +34,6 @@ Le paiement via pay per link n’est possible que le jour même où l’e-mail c
 ## Billets FIP 50
 
 Les billets FIP 50 peuvent être réservés.
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -47,5 +45,4 @@ Les réservations de cabine sont disponibles et obligatoires pour les traversée
 {{% highlight important %}}
 Pour les réservations, le numéro du Coupon FIP Stena Line BV qui doit être utilisé pour le voyage est également requis. Une réservation n’est donc possible que lorsque le Coupon FIP est disponible.
 {{% /highlight %}}
-
 {{% /booking-section %}}

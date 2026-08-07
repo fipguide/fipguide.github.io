@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Ffestiniog Travel E-Mail"
-description: "Buchungsinformationen für die Buchung per E-Mail bei Ffestiniog Travel."
+title: Ffestiniog Travel E-Mail
+description: Buchungsinformationen für die Buchung per E-Mail bei Ffestiniog Travel.
 params:
   fee: 12 % p. P. (min. 5 £, max. 60 £)
   fip_50: true
   fip_global_fare: true
-  type: "email"
+  type: email
 ---
 
 Ffestiniog Travel hat direkten Zugriff auf die Buchungssysteme vieler Bahnbetreiber und kann Tickets für viele Züge in Europa anbieten.[^1]
@@ -23,7 +23,6 @@ Auf Anfrage erstellen die Mitarbeitenden das passende Angebot für die Reise:
 ## FIP Globalpreis
 
 Über Ffestiniog Travel können Eurostar-Tickets erworben werden.
-
 {{% /booking-section %}}
 
 [^1]: [Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)

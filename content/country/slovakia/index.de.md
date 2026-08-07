@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Slowakei"
-country: "slovakia"
+title: Slowakei
+country: slovakia
 params:
   operators_without_fip:
     - RegioJet

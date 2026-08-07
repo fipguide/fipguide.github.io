@@ -1,11 +1,11 @@
 ---
 draft: false
-title: "Attica E-Mail"
-description: "Buchungsinformationen für die Buchung per E-Mail bei Attica."
+title: Attica E-Mail
+description: Buchungsinformationen für die Buchung per E-Mail bei Attica.
 params:
   fip_50: true
   reservations: false
-  type: "email"
+  type: email
 ---
 
 FIP 50 Tickets können per E-Mail bestellt werden.

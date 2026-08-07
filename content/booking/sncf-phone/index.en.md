@@ -1,17 +1,16 @@
 ---
 draft: false
-title: "SNCF Telephone"
-description: "Booking information for the SNCF hotline."
-
+title: SNCF Telephone
+description: Booking information for the SNCF hotline.
 params:
   classes:
-    first: "€ 2 / € 16"
-    second: "€ 2 / € 11"
+    first: € 2 / € 16
+    second: € 2 / € 11
   fip_50: true
   fip_75: true
   reservations: true
-  additional_info_link: "https://www.sncf-voyageurs.com/en/contact-us/our-contact-points/by-phone/"
-  type: "phone"
+  additional_info_link: https://www.sncf-voyageurs.com/en/contact-us/our-contact-points/by-phone/
+  type: phone
 ---
 
 Bookings by phone are possible via the SNCF hotline:
@@ -54,8 +53,7 @@ If the staff on the phone is unsure which fare code to use, you can refer them t
 - active employees and their dependents (except GB National Rail), retirees — CF54: Upgrade with FIP 50 Ticket to 1st class + mandatory reservation on trains.
 - active employees and their dependents (GB National Rail only) — CF77: FIP 75 Ticket (75% discount) + mandatory reservation on trains.
 - active employees and their dependents (GB National Rail only) — CF78: Upgrade with FIP 75 Ticket to 1st class + mandatory reservation on trains.
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
@@ -67,8 +65,7 @@ If the staff on the phone is unsure which fare code to use, you can refer them t
 
 - FIP Coupon — CF70: Reservation purchase only.
 - FIP Coupon — CF71: Upgrade the FIP Coupon reservation to 1st class.
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 {{% satellite /%}}
 

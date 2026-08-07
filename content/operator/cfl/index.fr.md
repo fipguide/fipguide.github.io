@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "CFL"
+title: CFL
 country:
-  - "luxembourg"
-operator: "cfl"
-
+  - luxembourg
+operator: cfl
 aliases:
   - /booking/cfl-phone
   - /booking/cfl-ticket-office
@@ -21,6 +20,7 @@ La CFL (Société nationale des chemins de fer luxembourgeois) est la compagnie 
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 {{< highlight important >}}
@@ -31,11 +31,12 @@ Les agents de [SNCB / NMBS](/operator/sncb) et de [NS](/operator/ns) peuvent obt
 ## Catégories de trains et réservations
 
 {{% train-category
-  id="intercity"
-  title="InterCity (IC)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_possible=false
+    id="intercity"
+    title="InterCity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Les trains InterCity relient Luxembourg à Liège et Bruxelles en Belgique.
@@ -43,11 +44,12 @@ Les trains InterCity relient Luxembourg à Liège et Bruxelles en Belgique.
 {{% /train-category %}}
 
 {{% train-category
-  id="regionalexpress"
-  title="Regionalexpress (RE)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+    id="regionalexpress"
+    title="Regionalexpress (RE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Trains avec arrêt dans certaines gares.
@@ -55,11 +57,12 @@ Trains avec arrêt dans certaines gares.
 {{% /train-category %}}
 
 {{% train-category
-  id="regionalbahn"
-  title="Regionalbahn (RB)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+    id="regionalbahn"
+    title="Regionalbahn (RB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Trains avec arrêt dans toutes les gares.
@@ -67,10 +70,12 @@ Trains avec arrêt dans toutes les gares.
 {{% /train-category %}}
 
 {{% train-category
-  id="bus"
-  title="Bus"
-  type="bus"
-  fip_accepted=false
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 La CFL exploite également des lignes de bus interurbaines. Celles-ci n’acceptent pas le FIP, mais grâce à la gratuité des transports publics, aucun billet n’est requis.
@@ -78,11 +83,12 @@ La CFL exploite également des lignes de bus interurbaines. Celles-ci n’accept
 {{% /train-category %}}
 
 {{% train-category
-  id="standseilbahn"
-  title="Funiculaire Pfaffenthal-Kirchberg"
-  type="funicular"
-  fip_accepted=true
-  reservation_possible=false
+    id="standseilbahn"
+    title="Funiculaire Pfaffenthal-Kirchberg"
+    type="funicular"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Le funiculaire relie la halte ferroviaire Pfaffenthal-Kirchberg à la plateforme de correspondance sur le plateau du Kirchberg.
@@ -113,12 +119,10 @@ Aux [Guichets CFL](#en-gare), les billets de première classe sont disponibles a
 ### Par téléphone
 
 {{% booking id="cfl-phone"
-    fip_global_fare=nil
     fip_50=true
+    fip_global_fare=nil
 %}}
-
 En raison des frais de réservation, il peut être avantageux d’acheter un billet de première classe régulier via l’application CFL ou un distributeur automatique.
-
 {{% /booking %}}
 
 ### En gare

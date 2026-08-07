@@ -1,5 +1,5 @@
 ---
-title: "Quelles règles s’appliquent aux Coupons FIP ?"
+title: Quelles règles s’appliquent aux Coupons FIP ?
 weight: 8
 ---
 

@@ -1,8 +1,9 @@
 ---
-date: "2025-11-12"
+date: 2025-11-12
 draft: false
 title: "Now Available: FIP Guide Community"
-description: "The FIP Guide Community now offers a place to exchange ideas and ask questions about FIP."
+description: The FIP Guide Community now offers a place to exchange ideas and
+  ask questions about FIP.
 ---
 
 Our FIP Guide Community is now open to everyone interested! In the community, you can ask questions about using FIP tickets, exchange ideas with others, and benefit from the experiences of the community. Whether you are looking for travel planning tips, need information about border points, or want to stay updated on current changes – this is the right place for you.

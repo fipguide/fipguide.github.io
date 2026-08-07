@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "Vy Group"
+title: Vy Group
 country:
-  - "norway"
-operator: "vy"
-
+  - norway
+operator: vy
 aliases:
   - /booking/entur-chat
   - /booking/entur-phone
@@ -30,6 +29,7 @@ Online ist das [Streckennetz der Vy](https://www.vy.no/files/eyx1eny7/vyno-produ
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP-Vergünstigungen werden von den drei Betreibern Vy, SJ Nord und Go-Ahead Nordic anerkannt.
@@ -185,6 +185,7 @@ Flytoget ist der Flughafenexpress zwischen Oslo Airport und Oslo S. FIP-Vergüns
 {{% highlight tip %}}
 Alternativ können jedoch die Regionalzuglinien R10, R11 und R12 für die Fahrt zum Flughafen mit FIP genutzt werden. Weitere Informationen im Abschnitt [Oslo Airport](#oslo-airport)
 {{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -254,9 +255,7 @@ Für die Reservierung im Sitz-, Liege- oder Schlafwagen ist unabhängig von der 
 ### Vor Ort
 
 {{% booking id="entur-ticket-office" /%}}
-{{% booking id="db-ticket-office"
-    classes=nil
-/%}}
+{{% booking id="db-ticket-office" /%}}
 
 An Ticketautomaten können FIP Vergünstigungen nicht erworben werden.
 

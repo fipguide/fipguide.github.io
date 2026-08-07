@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Dänemark"
-country: "denmark"
+title: Dänemark
+country: denmark
 params:
   operators_without_fip:
     - GoCollective (ehemals Arriva Danmark)

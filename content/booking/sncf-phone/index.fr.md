@@ -1,17 +1,16 @@
 ---
 draft: false
-title: "Téléphone SNCF"
-description: "Informations de réservation pour la hotline SNCF."
-
+title: Téléphone SNCF
+description: Informations de réservation pour la hotline SNCF.
 params:
   classes:
-    first: "2 € / 16 €"
-    second: "2 € / 11 €"
+    first: 2 € / 16 €
+    second: 2 € / 11 €
   fip_50: true
   fip_75: true
   reservations: true
-  additional_info_link: "https://www.sncf-voyageurs.com/fr/contactez-nous/nos-points-de-contact/par-telephone/"
-  type: "phone"
+  additional_info_link: https://www.sncf-voyageurs.com/fr/contactez-nous/nos-points-de-contact/par-telephone/
+  type: phone
 ---
 
 Les réservations par téléphone sont possibles via la hotline SNCF :
@@ -54,8 +53,7 @@ Si le personnel au telephone ne sait pas quel code tarifaire utiliser, il est po
 - les agents actifs et leurs ayants droit (sauf GB National Rail), personnes retraitées — CF54 : Surclassement avec billet FIP 50 en 1re classe + réservation obligatoire dans les trains.
 - les agents actifs et leurs ayants droit (GB National Rail uniquement) — CF77 : Billet FIP 75 (réduction de 75 %) + réservation obligatoire dans les trains.
 - les agents actifs et leurs ayants droit (GB National Rail uniquement) — CF78 : Surclassement avec billet FIP 75 en 1re classe + réservation obligatoire dans les trains.
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
@@ -67,8 +65,7 @@ Si le personnel au telephone ne sait pas quel code tarifaire utiliser, il est po
 
 - Coupon FIP — CF70 : Achat de réservation uniquement.
 - Coupon FIP — CF71 : Surclassement de la réservation Coupon FIP en 1re classe.
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 {{% satellite /%}}
 

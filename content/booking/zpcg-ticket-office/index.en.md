@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "ŽPCG Ticket Office"
-description: "Booking information for ŽPCG ticket offices."
-
+title: ŽPCG Ticket Office
+description: Booking information for ŽPCG ticket offices.
 params:
   fip_50: true
   reservations: true
-  additional_info_link: "https://zpcg.me/en/lokalni-prevoz/prodajna-mjesta"
-  type: "onsite"
+  additional_info_link: https://zpcg.me/en/lokalni-prevoz/prodajna-mjesta
+  type: onsite
 ---
 
 At the stations Podgorica, Sutomore, Bar, Bijelo Polje and Nikšić, ŽPCG operates ticket offices where FIP tickets and reservations for national and international passenger transport can be purchased. Further information on ticket office locations is available on the [ŽPCG website](https://zpcg.me/en/lokalni-prevoz/prodajna-mjesta).
@@ -17,7 +16,6 @@ At the stations Podgorica, Sutomore, Bar, Bijelo Polje and Nikšić, ŽPCG opera
 ## FIP 50 Tickets
 
 FIP 50 Tickets can be purchased at ŽPCG ticket offices.
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -25,5 +23,4 @@ FIP 50 Tickets can be purchased at ŽPCG ticket offices.
 ## Reservations
 
 Reservations can be purchased at ŽPCG ticket offices.
-
 {{% /booking-section %}}

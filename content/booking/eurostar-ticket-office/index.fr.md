@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "Guichet Eurostar"
-description: "Informations sur la réservation aux guichets Eurostar."
-
+title: Guichet Eurostar
+description: Informations sur la réservation aux guichets Eurostar.
 params:
   fip_global_fare: true
-  type: "onsite"
+  type: onsite
 ---
 
 ## Tarif Global FIP

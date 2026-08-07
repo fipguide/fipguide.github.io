@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "ŁKA"
+title: ŁKA
 country:
-  - "poland"
-operator: "lka"
-
+  - poland
+operator: lka
 aliases:
   - /booking/lka-ticket-machine
   - /booking/lka-ticket-office
@@ -23,6 +22,7 @@ On its website, ŁKA provides a [route map overview](https://lka.lodzkie.pl/kole
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid with ŁKA.
@@ -68,8 +68,12 @@ All ŁKA trains that do not operate on the Sprinter route between Łódź and Wa
     title="Bus"
     type="bus"
     fip_accepted=unknown
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 We currently have no information about the validity of FIP tickets on buses operated by ŁKA. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
@@ -87,9 +91,9 @@ Reservations for `ŁS` trains can be booked free of charge directly when purchas
 
 ### On-Site
 
-{{% booking id="lka-ticket-machine"/%}}
+{{% booking id="lka-ticket-machine" /%}}
 
-{{% booking id="lka-ticket-office"/%}}
+{{% booking id="lka-ticket-office" /%}}
 
 ### On the Train
 

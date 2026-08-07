@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Norwegen"
-country: "norway"
+title: Norwegen
+country: norway
 params:
   operators_without_fip:
     - Arctic Train
@@ -18,8 +18,7 @@ Im Rahmen von Ausschreibungsverfahren des norwegischen Ministerium für Verkehr 
 Auf dem FIP-Ausweis und den FIP Freifahrtscheinen ist **Vy Group AS** abgedruckt, gefahren werden kann aber mit den Zügen der Betreiber Vy Tog, SJ Nord und Go-Ahead Nordic.
 Details sind auf der [Betreiberseite](/operator/vy) nachzulesen.
 
-{{< identify-operator sources="entur-website,db-website" >}}
-{{< /identify-operator >}}
+{{< identify-operator sources="entur-website,db-website" />}}
 
 ## Wissenswertes
 

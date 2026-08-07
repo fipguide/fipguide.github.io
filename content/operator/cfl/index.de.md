@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "CFL"
+title: CFL
 country:
-  - "luxembourg"
-operator: "cfl"
-
+  - luxembourg
+operator: cfl
 aliases:
   - /booking/cfl-phone
   - /booking/cfl-ticket-office
@@ -21,6 +20,7 @@ Die CFL (Société nationale des chemins de fer luxembourgeois) ist die luxembur
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 {{< highlight important >}}
@@ -32,11 +32,12 @@ Mitarbeitende der [SNCB / NMBS](/operator/sncb) und [NS](/operator/ns) können e
 ## Zugkategorien und Reservierungen
 
 {{% train-category
-  id="intercity"
-  title="InterCity (IC)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_possible=false
+    id="intercity"
+    title="InterCity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 InterCity-Züge verbinden Luxemburg mit Liège und Brüssel in Belgien.
@@ -44,11 +45,12 @@ InterCity-Züge verbinden Luxemburg mit Liège und Brüssel in Belgien.
 {{% /train-category %}}
 
 {{% train-category
-  id="regionalexpress"
-  title="Regionalexpress (RE)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+    id="regionalexpress"
+    title="Regionalexpress (RE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Züge mit Halt an manchen Stationen.
@@ -56,11 +58,12 @@ Züge mit Halt an manchen Stationen.
 {{% /train-category %}}
 
 {{% train-category
-  id="regionalbahn"
-  title="Regionalbahn (RB)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+    id="regionalbahn"
+    title="Regionalbahn (RB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Züge mit Halt an allen Stationen.
@@ -68,10 +71,12 @@ Züge mit Halt an allen Stationen.
 {{% /train-category %}}
 
 {{% train-category
-  id="bus"
-  title="Bus"
-  type="bus"
-  fip_accepted=false
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Die CFL betreibt auch überregionale Buslinien. Diese akzeptieren zwar kein FIP, durch den kostenlosen öffentlichen Nahverkehr ist jedoch kein Fahrschein erforderlich.
@@ -79,11 +84,12 @@ Die CFL betreibt auch überregionale Buslinien. Diese akzeptieren zwar kein FIP,
 {{% /train-category %}}
 
 {{% train-category
-  id="standseilbahn"
-  title="Standseilbahn Pfaffenthal-Kirchberg"
-  type="funicular"
-  fip_accepted=true
-  reservation_possible=false
+    id="standseilbahn"
+    title="Standseilbahn Pfaffenthal-Kirchberg"
+    type="funicular"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Die Standseilbahn verbindet die Bahnhaltestelle Pfaffenthal-Kirchberg mit der Umsteigeplattform auf dem Kirchberg-Plateau.
@@ -114,12 +120,10 @@ An [CFL-Ticketschaltern](#vor-ort) sind die erste Klasse Tickets bei Vorlage des
 ### Telefon
 
 {{% booking id="cfl-phone"
-    fip_global_fare=nil
     fip_50=true
+    fip_global_fare=nil
 %}}
-
 Aufgrund der anfallenden Buchungsgebühr lohnt sich ggf. der Kauf einer regulären erste Klasse Fahrkarte via CFL-App oder Fahrkartenautomat.
-
 {{% /booking %}}
 
 ### Vor Ort

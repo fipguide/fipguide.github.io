@@ -1,14 +1,12 @@
 ---
 draft: false
-title: "Renfe Ticketschalter"
-description: "Buchungsinformationen für die Renfe Ticketschalter."
-
+title: Renfe Ticketschalter
+description: Buchungsinformationen für die Renfe Ticketschalter.
 params:
   fip_50: true
   fip_global_fare: true
-  additional_info_link: "https://www.renfe.com/es/en/viajar/informacion-util/-donde-comprar-"
-  type: "onsite"
-
+  additional_info_link: https://www.renfe.com/es/en/viajar/informacion-util/-donde-comprar-
+  type: onsite
 aliases:
   - renfe_ticket_office
 ---

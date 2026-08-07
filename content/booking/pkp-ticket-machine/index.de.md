@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "PKP Intercity Fahrkartenautomat"
-description: "Buchungsinformationen für die PKP Intercity Fahrkartenautomaten."
-
+title: PKP Intercity Fahrkartenautomat
+description: Buchungsinformationen für die PKP Intercity Fahrkartenautomaten.
 params:
   fip_50: true
-  additional_info_link: "https://www.intercity.pl/de/site/fur-fahrgast/informacje/bilety/nowe-biletomaty/informacje-ogolne-de.html"
-  type: "onsite"
+  additional_info_link: https://www.intercity.pl/de/site/fur-fahrgast/informacje/bilety/nowe-biletomaty/informacje-ogolne-de.html
+  type: onsite
 ---
 
 In größeren Städten gibt es teilweise PKP Intercity Fahrkartenautomaten.

@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "Stena Line BV Telefon"
-description: "Buchungsinformationen für die Buchung per Telefon bei Stena Line BV"
+title: Stena Line BV Telefon
+description: Buchungsinformationen für die Buchung per Telefon bei Stena Line BV
 params:
   fip_50: true
   fip_global_fare: nil
   reservations: true
-  type: "phone"
-
+  type: phone
 aliases:
   - stena-line-phone
 ---
@@ -31,7 +30,6 @@ Die folgenden Daten sollten bereitgehalten werden:
 ## FIP 50 Fahrkarten
 
 FIP 50 Tickets können gebucht werden.
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -43,7 +41,6 @@ Kabinenreservierungen sind erhältlich und bei Übernachtfahrten obligatorisch.
 {{% highlight important %}}
 Für Reservierungen ist außerdem die Nummer des Stena Line BV FIP Freifahrtscheins erforderlich, der bei der Fahrt genutzt werden soll. Eine Buchung ist daher erst möglich, sobal der FIP Freifahrtschein vorliegt.
 {{% /highlight %}}
-
 {{% /booking-section %}}
 
 {{% satellite /%}}

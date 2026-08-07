@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "ZSSK / ŽSR"
+title: ZSSK / ŽSR
 country:
-  - "slovakia"
-operator: "zssk"
-
+  - slovakia
+operator: zssk
 aliases:
   - zsr
   - /booking/zssk-ticket-office
@@ -23,6 +22,7 @@ Die ŽSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ZSSK mit der Einschränkung, dass einzelne (oder bei der 1. Klasse alle) Züge reservierungspflichtig sind, gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -163,6 +163,8 @@ Reservierungspflicht nur in der 1. Klasse.
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Busse sind von FIP-Rabatten ausgeschlossen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]

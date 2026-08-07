@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Slovenia"
-country: "slovenia"
+title: Slovenia
+country: slovenia
 params:
   operators_without_fip:
     - Optima Express
@@ -26,12 +26,14 @@ The most scenic railway line in the country is the Bohinj Railway from Jesenice 
 ## Arrival and Border Points
 
 {{% expander "Border Points" border %}}
-| Country | Border Points |
-| --- | --- |
-| [Italy](/country/italy) ([FS](/operator/fs)) | Nova Gorica (fr), Villa Opicina (fr) (Slovenian: Opčine, Triestine: Opcina) |
-| Croatia (HŽ) | Buzet (Gr), Čakovec (Gr), Dobova (Gr), Kumrovec (Gr), Metlika (Gr), Mursko Središće (Gr), Rogatec (Gr), Šapjane (Gr) |
-| [Austria](/country/austria) ([ÖBB](/operator/oebb)) | Bleiburg (Gr) (Slovenian: Pliberk), Jesenice (Gr) (German: Assling), Spielfeld (Gr) (Slovenian: Špilje) |
-| Hungary (MÁV, [GySEV](/operator/gysev)) | Hodoš (Gr) (also called Őrihodos) |
+
+| Country                                             | Border Points                                                                                                        |
+| --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| [Italy](/country/italy) ([FS](/operator/fs))        | Nova Gorica (fr), Villa Opicina (fr) (Slovenian: Opčine, Triestine: Opcina)                                          |
+| Croatia (HŽ)                                        | Buzet (Gr), Čakovec (Gr), Dobova (Gr), Kumrovec (Gr), Metlika (Gr), Mursko Središće (Gr), Rogatec (Gr), Šapjane (Gr) |
+| [Austria](/country/austria) ([ÖBB](/operator/oebb)) | Bleiburg (Gr) (Slovenian: Pliberk), Jesenice (Gr) (German: Assling), Spielfeld (Gr) (Slovenian: Špilje)              |
+| Hungary (MÁV, [GySEV](/operator/gysev))             | Hodoš (Gr) (also called Őrihodos)                                                                                    |
+
 {{% /expander %}}
 
 ### Italy

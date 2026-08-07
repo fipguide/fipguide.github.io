@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "Koleo Website"
-description: "Buchungsinformationen für die Koleo Website."
-
+title: Koleo Website
+description: Buchungsinformationen für die Koleo Website.
 params:
   fip_50: true
   reservations: false
-  booking_link: "https://koleo.pl/de/"
-  type: "website"
+  booking_link: https://koleo.pl/de/
+  type: website
 ---
 
 {{% booking-section "fip_50" %}}

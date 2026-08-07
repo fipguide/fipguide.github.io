@@ -1,18 +1,16 @@
 ---
 draft: false
-title: "SBB Website / App"
-description: "Buchungsinformationen für FIP Fahrscheine bei der SBB."
-
+title: SBB Website / App
+description: Buchungsinformationen für FIP Fahrscheine bei der SBB.
 params:
   classes:
-    first: "5 CHF"
-    second: "5 CHF"
+    first: 5 CHF
+    second: 5 CHF
   fip_50: true
   reservations: true
-  booking_link: "https://www.sbb.ch/"
-  additional_info_link: "https://www.sbb.ch/de/billette-angebote/billette/streckenbillette-schweiz/sitzplatzreservierung.html"
-  type: "online"
-
+  booking_link: https://www.sbb.ch/
+  additional_info_link: https://www.sbb.ch/de/billette-angebote/billette/streckenbillette-schweiz/sitzplatzreservierung.html
+  type: online
 aliases:
   - sbb_website
 ---
@@ -28,7 +26,6 @@ Bei der SBB dürfen für FIP 50 Tickets online mit "50% Halbtax" Rabatt gekauft 
 {{% highlight important %}}
 Unter anderem in städtischen Gebieten kann eine Fahrkarte mit Halbtax Rabatt auch Verkehrsmittel von Betreibern enthalten, die kein FIP akzeptieren (z. B. Straßenbahnen oder Busse). Diese Abschnitte können mit FIP nicht genutzt werden und das erworbene Ticket ist dort ohne Halbtax-Abo nicht gültig.
 {{% /highlight %}}
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

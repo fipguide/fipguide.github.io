@@ -1,11 +1,11 @@
 ---
 draft: false
-title: "Attica Telefon"
-description: "Buchungsinformationen für die Attica Hotline."
+title: Attica Telefon
+description: Buchungsinformationen für die Attica Hotline.
 params:
   fip_50: true
   reservations: false
-  type: "phone"
+  type: phone
 ---
 
 Attica bietet eine Buchungshotline, über die FIP 50 Fahrkarten erworben werden können. FIP muss ausdrücklich erwähnt werden.

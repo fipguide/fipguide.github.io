@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "GySEV / Raaberbahn"
+title: GySEV / Raaberbahn
 country:
-  - "austria"
-  - "hungary"
-operator: "gysev"
-
+  - austria
+  - hungary
+operator: gysev
 aliases:
   - /booking/mav-ticket-machine
   - /booking/mav-ticket-office
@@ -23,6 +22,7 @@ La Raab-Oedenburg-Ebenfurter Eisenbahn AG (en hongrois Győr-Sopron-Ebenfurti Va
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 {{% highlight important %}}
@@ -65,6 +65,7 @@ Les réservations ne sont obligatoires qu’entre Győr et Budapest. Pour les tr
     title="Regionalexpress (REX)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -81,6 +82,7 @@ Certains trains Regionalexpress sont également exploités par les ÖBB où les 
     title="Regionalzug (R)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -97,6 +99,7 @@ Certains trains régionaux sont également exploités par les ÖBB où les Bille
     title="Személyvonat (Sz)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -113,8 +116,12 @@ Certains trains Személyvonat sont également exploités par [MÁV](/operator/ma
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Les réductions FIP ne sont pas valables sur les liaisons d’autobus GySEV. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -125,7 +132,9 @@ Les réductions FIP ne sont pas valables sur les liaisons d’autobus GySEV. Dan
 
 ### Par téléphone
 
-{{% booking id="oebb-phone" reservations=nil /%}}
+{{% booking id="oebb-phone"
+    reservations=nil
+/%}}
 
 ### En gare
 
@@ -133,7 +142,9 @@ Les réductions FIP ne sont pas valables sur les liaisons d’autobus GySEV. Dan
 
 {{% booking id="mav-ticket-machine" /%}}
 
-{{% booking id="oebb-ticket-office" reservations=nil /%}}
+{{% booking id="oebb-ticket-office"
+    reservations=nil
+/%}}
 
 ### À bord du train
 

@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "Koleje Dolnośląskie Fahrkartenautomat"
-description: "Buchungsinformationen für die Koleje Dolnośląskie Fahrkartenautomaten."
-
+title: Koleje Dolnośląskie Fahrkartenautomat
+description: Buchungsinformationen für die Koleje Dolnośląskie Fahrkartenautomaten.
 params:
   fip_50: true
-  additional_info_link: "https://kolejedolnoslaskie.pl/informacje-o-kanalach-sprzedazy/stacjonarne-automaty-biletowe/"
-  type: "machine"
+  additional_info_link: https://kolejedolnoslaskie.pl/informacje-o-kanalach-sprzedazy/stacjonarne-automaty-biletowe/
+  type: machine
 ---
 
 An einigen Bahnhöfen gibt es Koleje Dolnośląskie Fahrkartenautomaten. Auf der Website der KD sind alle Bahnhöfe mit Fahrkartenautomaten aufgelistet.

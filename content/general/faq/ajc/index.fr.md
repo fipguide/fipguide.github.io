@@ -1,5 +1,6 @@
 ---
-title: "Comment AJC (Agreement on Journey Continuation) m'aide-t-il si je rate ma correspondance ?"
+title: Comment AJC (Agreement on Journey Continuation) m'aide-t-il si je rate ma
+  correspondance ?
 weight: 19
 ---
 

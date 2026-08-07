@@ -1,6 +1,5 @@
 ---
-title: "Identify operator"
-
+title: Identify operator
 cascade:
   - build:
       list: false

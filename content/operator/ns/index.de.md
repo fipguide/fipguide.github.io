@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "NS"
+title: NS
 country:
-  - "netherlands"
-operator: "ns"
-
+  - netherlands
+operator: ns
 aliases:
   - /booking/ns-phone
   - /booking/ns-ticket-office
@@ -23,6 +22,7 @@ Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der [Ni
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der NS gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -44,6 +44,7 @@ Zuschläge müssen teilweise für Eurocity Direct und Intercity Direct Züge gez
     reservation_possible=true
     additional_information_url="https://www.nsinternational.com/en/trains/ice"
 %}}
+
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in den Niederlanden von der NS übernommen werden. Sie verkehren zwischen Amsterdam und Deutschland (Köln / Frankfurt am Main bzw. Hannover / Berlin), können jedoch auch innerhalb der Niederlande zwischen Amsterdam und Arnhem bzw. Hengelo mit FIP Freifahrtschein ohne Aufschlag genutzt werden. Bei FIP 50 Tickets ist jedoch ein Zuschlag erforderlich.
 
 {{% highlight important %}}
@@ -56,6 +57,7 @@ Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in
 
 Bei grenzüberschreitenden Reisen zur Hochsaison ist eine Reservierung erforderlich.
 Im Jahr 2026 ist dies vom 26.06. bis 16.08. der Fall.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -64,8 +66,10 @@ Im Jahr 2026 ist dies vom 26.06. bis 16.08. der Fall.
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
+
 Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen.
 
 {{< highlight important >}}
@@ -99,11 +103,14 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
+
 Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten.
 
 ![Eurocity (Direct) Netz](eurocity-map.de.svg)
+
 {{% /train-category %}}
 
 {{% train-category
@@ -112,8 +119,10 @@ Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.ns.nl/en/travel-information/special-routes/intercity-direct.html"
 %}}
+
 Teilweise zuschlagspflichtiger Schnellzug zwischen Lelystad oder Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal und Breda.
 
 {{< highlight important >}}
@@ -134,8 +143,11 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -144,12 +156,15 @@ Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Regionalzüge mit mehr Halten als beim Intercity, aber trotzdem nur an wichtigeren Stationen.
 
 {{% highlight confusion %}}
 Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo – Hamm (Deutschland), Maastricht – Aachen (Deutschland) und Arnhem – Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
 {{% /highlight %}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -158,8 +173,11 @@ Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Ver
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -168,7 +186,9 @@ Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Regionalzüge mit rot-grauem R-net Branding auf der Strecke von von Alphen aan den Rijn nach Gouda.
 
 {{< highlight confusion >}}

@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "ZSSK / ZSR"
+title: ZSSK / ZSR
 country:
-  - "slovakia"
-operator: "zssk"
+  - slovakia
+operator: zssk
 aliases:
   - zsr
   - /booking/zssk-ticket-office
@@ -22,6 +22,7 @@ La ŽSR (Železnice Slovenskej republiky) et son exploitant ferroviaire ZSSK (Ž
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les trains ZSSK, mais certaines restrictions s’appliquent : une réservation est nécessaire dans certains trains, notamment tous en 1ʳᵉ classe. Pour les trajets internationaux, un Billet FIP 50 continu ou les Coupons FIP des deux pays sont requis.
@@ -86,6 +87,7 @@ Trains transfrontaliers entre la Slovaquie et la République tchèque, l’Autri
 #### Réservations
 
 Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -119,6 +121,7 @@ Type de train InterRégional avec moins d’arrêts qu’un train régional, mai
 #### Réservations
 
 Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -160,6 +163,8 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Les bus sont exclus des réductions FIP. Dans les bus de remplacement ferroviaire, les réductions FIP s'appliquent lorsqu’ils remplacent un train sur lequel le FIP aurait été valable.[^1]

@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "ÖBB"
+title: ÖBB
 country:
-  - "austria"
-  - "liechtenstein"
-operator: "oebb"
-
+  - austria
+  - liechtenstein
+operator: oebb
 aliases:
   - obb
   - /booking/oebb-phone
@@ -27,6 +26,7 @@ aliases:
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on ÖBB services. For cross-border journeys, either a through FIP 50 Ticket or FIP Coupons for both countries are required.
@@ -44,12 +44,12 @@ Cost: \
 ### Long-Distance
 
 {{% train-category
-        id="rj"
-        title="Railjet (RJ) / Railjet Xpress (RJX)"
-        type="highspeed"
-        fip_accepted=true
-        reservation_required=false
-        reservation_possible=true
+    id="rj"
+    title="Railjet (RJ) / Railjet Xpress (RJX)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
 %}}
 
 National and international high-speed trains of ÖBB’s highest category. They run regularly between Austria’s major cities and to Germany, Italy, Czech Republic, Hungary, Slovakia, and Switzerland. Trains have 3 classes and a bistro. Railjets with fewer stops are marketed as Railjet Xpress.
@@ -69,18 +69,19 @@ For Railjets to Italy, a supplement is payable from the Italian border. See [Spe
 {{% /train-category %}}
 
 {{% train-category
-        id="ic"
-        title="Intercity (IC) / Intercity-Express (ICE)"
-        type="highspeed"
-        fip_accepted=true
-        reservation_required=partially
-        reservation_possible=true
+    id="ic"
+    title="Intercity (IC) / Intercity-Express (ICE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
 %}}
 
 Most `IC` trains on main routes have gradually been replaced by Railjets. `IC` trains still operate on secondary routes such as Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Vienna – Gmunden – Stainach-Irdning, and as supplements to Railjets on Vienna–Lienz (East Tyrol). There are also `IC` and `ICE` trains on some international routes to Germany in cooperation with Deutsche Bahn, with the Austrian section operated by ÖBB.
 
 {{% highlight confusion %}}
-Some Regiojet trains within Austria are labeled as `IC`; FIP Tickets are not valid on these trains.{{% /highlight %}}
+Some Regiojet trains within Austria are labeled as `IC`; FIP Tickets are not valid on these trains.
+{{% /highlight %}}
 
 #### Reservations
 
@@ -89,12 +90,12 @@ Reservation is mandatory sometimes in high season (summer) on international rout
 {{% /train-category %}}
 
 {{% train-category
-        id="ir"
-        title="InterRegio (IR)"
-        type="highspeed"
-        fip_accepted=true
-        reservation_required=false
-        reservation_possible=true
+    id="ir"
+    title="InterRegio (IR)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
 %}}
 
 From August 2025, InterRegio `IR` will be introduced as a new long-distance category on secondary routes, largely replacing previous `IC` services. Examples include Graz – Unzmarkt or Graz – Linz. The aim is to connect places to long-distance services that previously had few or no direct connections. Trains run every two or four hours.
@@ -102,12 +103,12 @@ From August 2025, InterRegio `IR` will be introduced as a new long-distance cate
 {{% /train-category %}}
 
 {{% train-category
-        id="ec"
-        title="Eurocity (EC)"
-        type="highspeed"
-        fip_accepted=true
-        reservation_required=false
-        reservation_possible=true
+    id="ec"
+    title="Eurocity (EC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
 %}}
 
 International trains to neighboring countries operated by ÖBB in cooperation with other railways. Some of these services are also labeled as `IC`.
@@ -117,12 +118,12 @@ For Eurocity trains to Italy, a supplement is payable from the Italian border. S
 {{% /train-category %}}
 
 {{% train-category
-        id="nj"
-        title="Nightjet (NJ) / EuroNight (EN)"
-        type="sleeper"
-        fip_accepted=true
-        reservation_required=true
-        reservation_possible=true
+    id="nj"
+    title="Nightjet (NJ) / EuroNight (EN)"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 ÖBB night trains to various European countries. They offer sleeper, couchette, and seating cars and are operated abroad in cooperation with other railways.
@@ -143,12 +144,12 @@ For Nightjet trains, reservations/surcharges for sleeper and couchette cars can 
 {{% /train-category %}}
 
 {{% train-category
-        id="d"
-        title="D-Zug (D)"
-        type="highspeed"
-        fip_accepted=true
-        reservation_required=false
-        reservation_possible=true
+    id="d"
+    title="D-Zug (D)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
 %}}
 
 `D` trains are mainly used as relief trains during peak times (e.g., Fridays and Sundays), usually only offer 2nd class, and provide no special comfort as they use older rolling stock.
@@ -158,12 +159,12 @@ For Nightjet trains, reservations/surcharges for sleeper and couchette cars can 
 ### Local Services
 
 {{% train-category
-        id="rex"
-        title="Regionalexpress (REX) / Cityjet Xpress (CJX)"
-        type="regional"
-        fip_accepted=true
-        reservation_required=false
-        reservation_possible=false
+    id="rex"
+    title="Regionalexpress (REX) / Cityjet Xpress (CJX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Fast local train with fewer stops and modern rolling stock.
@@ -175,12 +176,12 @@ Regionalexpress trains are sometimes operated by other private railways where Ö
 {{% /train-category %}}
 
 {{% train-category
-        id="r"
-        title="Regionalzug (R)"
-        type="regional"
-        fip_accepted=true
-        reservation_required=false
-        reservation_possible=false
+    id="r"
+    title="Regionalzug (R)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Local train stopping at most stations.
@@ -194,12 +195,12 @@ The designation `R` Regionalzug is also used in ÖBB’s journey planner for pur
 {{% /train-category %}}
 
 {{% train-category
-        id="s"
-        title="Schnellbahn (S)"
-        type="regional"
-        fip_accepted=true
-        reservation_required=false
-        reservation_possible=false
+    id="s"
+    title="Schnellbahn (S)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Local train at least hourly, stopping at all stations. Comparable to an S-Bahn.
@@ -218,13 +219,16 @@ Including:
 {{% /train-category %}}
 
 {{% train-category
-        id="oebb-postbus"
-        title="ÖBB Postbus"
-        type="bus"
-        fip_accepted=false
-        reservation_possible=false
+    id="oebb-postbus"
+    title="ÖBB Postbus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 FIP Tickets are not valid on ÖBB Postbus. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
 {{% /train-category %}}
 
 ## Class Categories
@@ -261,25 +265,33 @@ Reservations for direct trains are cheaper via ÖBB.
 
 ### Telephone
 
-{{% booking id="oebb-phone" subtitle="Incl. Nightjet Booking" /%}}
+{{% booking id="oebb-phone"
+    subtitle="Incl. Nightjet Booking"
+/%}}
 
 {{% booking id="db-phone-fip-db"
-        subtitle="Cross-border FIP 50 Tickets between Germany and Austria, with ticket portion only for the Austrian section. For employees of Deutsche Bahn only."
+    subtitle="Cross-border FIP 50 Tickets between Germany and Austria, with ticket portion only for the Austrian section. For employees of Deutsche Bahn only."
 %}}
 Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
 
 ### On-Site
 
-{{% booking id="oebb-ticket-office" subtitle="Incl. Nightjet Booking" /%}}
+{{% booking id="oebb-ticket-office"
+    subtitle="Incl. Nightjet Booking"
+/%}}
 
 {{% booking id="oebb-ticket-machine" /%}}
 
-{{% booking id="db-ticket-office" subtitle="Incl. Nightjet Booking" %}}
+{{% booking id="db-ticket-office"
+    subtitle="Incl. Nightjet Booking"
+%}}
 Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
 
-{{% booking id="sz-ticket-office" subtitle="For cross-border trains between Slovenia and Austria" /%}}
+{{% booking id="sz-ticket-office"
+    subtitle="For cross-border trains between Slovenia and Austria"
+/%}}
 
 ### On the Train
 

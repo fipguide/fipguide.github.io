@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "Distributeurs de billets CFF"
-description: "Informations sur l’achat de Billets FIP aux distributeurs de tickets des CFF"
-
+title: Distributeurs de billets CFF
+description: Informations sur l’achat de Billets FIP aux distributeurs de tickets des CFF
 params:
   fip_50: true
-  additional_info_link: "https://www.sbb.ch/fr/informations-voyages/gares/services-distributeurs-billets/distributeur-de-billets.html"
-  type: "machine"
-
+  additional_info_link: https://www.sbb.ch/fr/informations-voyages/gares/services-distributeurs-billets/distributeur-de-billets.html
+  type: machine
 aliases:
   - sbb_ticket_machine
 ---
@@ -21,7 +19,6 @@ Aux distributeurs automatiques des CFF, les Billets FIP 50 peuvent être acheté
 {{% highlight important %}}
 Dans les zones urbaines, un billet avec réduction demi-tarif peut inclure des trajets opérés par des entreprises ne participant pas au FIP (ex. : trams ou bus). Ces parties ne peuvent pas être utilisées avec un Billet FIP, et le billet n’est pas valable pour ces sections sans abonnement demi-tarif.
 {{% /highlight %}}
-
 {{% /booking-section %}}
 
 [^1]: [SBB Community](https://community.sbb.ch/d/2251-kann-man-als-fip-beg%C3%BCnstigter-tickets-weiterhin-online-mittels-halbtax-kaufen)

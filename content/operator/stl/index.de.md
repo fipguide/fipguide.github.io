@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "Stena Line BV"
+title: Stena Line BV
 country:
-  - "netherlands"
-  - "united-kingdom"
-operator: "stl"
-
+  - netherlands
+  - united-kingdom
+operator: stl
 aliases:
   - /booking/stena-line-bv-email
   - /booking/stena-line-bv-phone
@@ -25,17 +24,20 @@ Die Fährverbindungen auf der irischen See werden als eigenständiger FIP-Betrei
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Schiffskategorien und Reservierungen
 
 {{% train-category
-  title="Fähre (Tagfahrt)"
-  type="ship"
-  fip_accepted=true
-  reservation_possible=true
-  reservation_required=false
+    id="day"
+    title="Fähre (Tagfahrt)"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
 %}}
+
 Pro Richtung verkehrt eine Fähre:
 
 - Hoek van Holland nach Harwich: 14:15 – 19:45, 6:30h (Stena Britannica)
@@ -51,15 +53,18 @@ An Bord gibt es eine Vielzahl an Services:
 - Deck Bar mit Ausblick
 
 Eine Kabine kann optional dazugebucht werden.
+
 {{% /train-category %}}
 
 {{% train-category
-  title="Fähre (Nachtfahrt)"
-  type="ship"
-  fip_accepted=true
-  reservation_possible=true
-  reservation_required=true
+    id="night"
+    title="Fähre (Nachtfahrt)"
+    type="ship"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
+
 Pro Richtung verkehrt eine Fähre:
 
 - Hoek van Holland nach Harwich: 22:00 – 06:30 Uhr, 9:30h (Stena Hollandica)
@@ -75,6 +80,7 @@ An Bord gibt es eine Vielzahl an Services:
 - Deck Bar mit Ausblick
 
 Die Reservierung einer Kabine ist obligatorisch.[^2]
+
 {{% /train-category %}}
 
 ## Klassenkategorien
@@ -94,49 +100,41 @@ Im Allgemeinen ist die Überfahrt über Nacht teurer als die Überfahrt am Tag. 
 {{% expander "Kosten online herausfinden" info %}}
 
 {{% float-image
-  src="determine_costs_1.webp"
-  alt="Step 1"
-  width="40%"
-  position="right"
+    src="determine_costs_1.webp"
+    alt="Step 1"
+    width="40%"
+    position="right"
 %}}
-
 Die anfallenden Kosten für Tag- und Nachtfahrten können bereits vor der Buchung über die Website von Stena Line eingesehen werden. Hierzu muss zunächst die [Website der Stena Line (UK)](https://www.stenaline.co.uk/) aufgerufen werden. Wenn die Preise in Euro gewünscht sind, kann unten auf der Startseite eine entsprechende Sprache gewählt werden.
-
 {{% /float-image %}}
 
 {{% float-image
-  src="determine_costs_2.webp"
-  alt="Step 2"
-  width="40%"
-  position="right"
+    src="determine_costs_2.webp"
+    alt="Step 2"
+    width="40%"
+    position="right"
 %}}
-
 Im nächsten Schritt musst du zur alten Buchung wechseln. Bei der neuen Buchung werden die Kosten nicht aufgeschlüsselt angezeigt.
-
 {{% /float-image %}}
 
 {{% float-image
-  src="determine_costs_3.webp"
-  alt="Step 3"
-  width="40%"
-  position="right"
+    src="determine_costs_3.webp"
+    alt="Step 3"
+    width="40%"
+    position="right"
 %}}
-
 Anschließend können die Buchungsschritte durchlaufen werden. Bei der Wahl des Tarifs kann Flexi oder Economy ausgewählt werden.
-
 {{% /float-image %}}
 
 {{% float-image
-  src="determine_costs_4.webp"
-  alt="Step 4"
-  width="40%"
-  position="right"
+    src="determine_costs_4.webp"
+    alt="Step 4"
+    width="40%"
+    position="right"
 %}}
-
 Nachdem du alle gewünschten Zusatzoptionen und Kabinen ausgewählt hast, erhältst du in der Seitenleiste eine Kostenaufschlüsselung. Mit FIP Freifahrtschein werden die Fahrtkosten (angegeben als Economy oder Flexi) auf 0 gesetzt, der Restbetrag bleibt bestehen. Daher können die Fahrtkosten einfach abgezogen werden, um die Kosten mit FIP Freifahrtschein zu ermitteln.
 
 Stand 22.12.2025 betragen die Hafengebühren 3 £ / 3 € und die Umweltgebühren 10,30 £ / 12 € pro Person und Fahrt. Hinzu kommen die Kabinenkosten sowie andere Zusatzoptionen, die zum vollen Preis berechnet werden.
-
 {{% /float-image %}}
 
 {{% /expander %}}
