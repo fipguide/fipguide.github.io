@@ -3,17 +3,14 @@ title: "{{ .File.ContentBaseName | upper }}"
 ---
 
 <!--
-  Diese Seite enthält die ausstellerspezifischen Informationen für die Seite
-  content/general/fip-validity. Ihr Inhalt wird als Ganzes pro Aussteller über
-  das fip-validity-content Shortcode eingebunden und daher nicht als
-  eigenständige Seite gerendert (siehe cascade in content/application/_index.de.md).
-  Entferne Abschnitte, die auf diesen Aussteller nicht zutreffen.
+  Diese Seite enthält die ausstellerspezifischen Informationen für die Ausstellung von FIP.
+  Grundsätzlich können alle Informationen ergänzt werden, die nur Besitzer von FIP Ausweisen eines bestimmten Ausstellers betreffen.
 -->
 
 ## Gültigkeitsdauer des FIP Ausweises
 
 <!--
-  Für welchen Zeitraum ist der FIP Ausweis dieses Ausstellers gültig?
+  Für welche Periode ist der FIP Ausweis gültig?
 -->
 
 ## Versteuerung
@@ -28,24 +25,18 @@ title: "{{ .File.ContentBaseName | upper }}"
   Welche nationalen (nicht-FIP) Vergünstigungen können Mitarbeitende dieses Ausstellers für Fahrten ins Ausland nutzen?
 -->
 
-## Übergreifendes
-
-### FIP Freifahrtschein
+## FIP Freifahrtschein
 
 <!--
   Wie und wann können Mitarbeitende dieses Ausstellers FIP Freifahrtscheine beantragen?
 -->
 
-### FIP Ermäßigtes Ticket
+{{< fip-validity-table type="fip-coupon" >}}
+
+## FIP Ermäßigtes Ticket
 
 <!--
   Wie und wann können Mitarbeitende dieses Ausstellers FIP Ermäßigte Tickets (FIP 50 / FIP 75) beantragen?
 -->
-
-## FIP Freifahrtschein
-
-{{< fip-validity-table type="fip-coupon" >}}
-
-## FIP Ermäßigtes Ticket
 
 {{< fip-validity-table type="fip-reduced-ticket" >}}
