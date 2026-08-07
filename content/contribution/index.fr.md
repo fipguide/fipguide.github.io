@@ -6,11 +6,11 @@ type: "general/generalinformation"
 
 Le _FIP Guide_ est un projet open source et communautaire. Si vous souhaitez mettre à jour ou ajouter des informations, vous pouvez le faire de manière autonome. Afin de garantir l’exactitude des informations, toutes les modifications sont vérifiées par l’équipe du FIP Guide avant d’être publiées.
 
-Les pages peuvent être modifiées directement dans le FIP Guide via le [système de gestion de contenu (CMS)](https://www.fipguide.org/admin). Vous trouverez plus d’informations à ce sujet dans la section [Modifier directement](#modifier-directement). Si vous avez déjà des connaissances techniques, vous pouvez effectuer les modifications directement via GitHub, plus d’informations à ce sujet sous [Contribution GitHub](#contribution-github).
+Les pages peuvent être modifiées directement dans le FIP Guide via le <a href="https://www.fipguide.org/admin">système de gestion de contenu (CMS)</a>. Vous trouverez plus d’informations à ce sujet dans la section [Modifier directement](#modifier-directement). Si vous avez déjà des connaissances techniques, vous pouvez effectuer les modifications directement via GitHub, plus d’informations à ce sujet sous [Contribution GitHub](#contribution-github).
 
 ## Modifier directement
 
-Via le système de gestion de contenu (CMS), vous pouvez modifier directement le contenu des pages. Il est accessible à l’adresse [https://www.fipguide.org/admin](https://www.fipguide.org/admin).
+Via le système de gestion de contenu (CMS), vous pouvez modifier directement le contenu des pages. Il est accessible à l’adresse <a href="https://www.fipguide.org/admin">https://www.fipguide.org/admin</a>.
 
 Veuillez tenir compte des points suivants lors de la modification :
 
@@ -29,7 +29,7 @@ Il est possible de se connecter au CMS avec ce compte GitHub. Pendant la connexi
 
 ### Ouvrir des pages
 
-Sur la [page d’accueil](https://www.fipguide.org/admin) du CMS du FIP Guide, la catégorie de page peut être sélectionnée dans le menu de gauche, puis la page souhaitée peut être ouverte au centre ou une nouvelle page peut être créée.
+Sur la <a href="https://www.fipguide.org/admin">page d’accueil</a> du CMS du FIP Guide, la catégorie de page peut être sélectionnée dans le menu de gauche, puis la page souhaitée peut être ouverte au centre ou une nouvelle page peut être créée.
 
 ![Page d’accueil du CMS du FIP Guide](startpage.webp)
 

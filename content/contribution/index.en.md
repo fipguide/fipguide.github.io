@@ -6,11 +6,11 @@ type: "general/generalinformation"
 
 The _FIP Guide_ is an open-source and community project. If you would like to update or add information, you can do this independently. To ensure the accuracy of the information, all changes are reviewed by the FIP Guide team before they are published.
 
-Pages can be adjusted directly in the FIP Guide via the [Content Management System (CMS)](https://www.fipguide.org/admin). More about this in the section [Direct Editing](#direct-editing). If you already have technical background knowledge, you can make changes directly via GitHub, more about this under [GitHub Contribution](#github-contribution).
+Pages can be adjusted directly in the FIP Guide via the <a href="https://www.fipguide.org/admin">Content Management System (CMS)</a>. More about this in the section [Direct Editing](#direct-editing). If you already have technical background knowledge, you can make changes directly via GitHub, more about this under [GitHub Contribution](#github-contribution).
 
 ## Direct Editing
 
-You can edit the content of the pages directly via the Content Management System (CMS). It is available at [https://www.fipguide.org/admin](https://www.fipguide.org/admin).
+You can edit the content of the pages directly via the Content Management System (CMS). It is available at <a href="https://www.fipguide.org/admin">https://www.fipguide.org/admin</a>.
 
 Please note the following points when editing:
 
@@ -29,7 +29,7 @@ You can log in to the CMS with this GitHub account. During the login, the use mu
 
 ### Open Pages
 
-On the [homepage](https://www.fipguide.org/admin) of the FIP Guide CMS, the page category can be selected in the left menu and then the desired page can be opened in the center or a new page can be created.
+On the <a href="https://www.fipguide.org/admin">homepage</a> of the FIP Guide CMS, the page category can be selected in the left menu and then the desired page can be opened in the center or a new page can be created.
 
 ![FIP Guide CMS homepage](startpage.webp)
 

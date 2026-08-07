@@ -6,11 +6,11 @@ type: "general/generalinformation"
 
 Der _FIP Guide_ ist ein Open-Source und ein Community-Projekt. Wenn du Informationen aktualisieren oder hinzufügen möchtest, kannst du dies selbständig tun. Um die Richtigkeit der Informationen sicherzustellen, werden alle Änderungen vom FIP Guide Team überprüft, bevor sie veröffentlicht werden.
 
-Seiten können direkt im FIP Guide, über das [Content-Management-System (CMS)](https://www.fipguide.org/admin) angepasst werden. Mehr dazu im Abschnitt [Direkt Bearbeiten](#direkt-bearbeiten). Wenn du schon technisches Hintergrundwissen hast, kannst du Änderungen direkt über Github vornehmen, mehr dazu unter [Github Contribution](#github-contribution).
+Seiten können direkt im FIP Guide, über das <a href="https://www.fipguide.org/admin">Content-Management-System (CMS)</a> angepasst werden. Mehr dazu im Abschnitt [Direkt Bearbeiten](#direkt-bearbeiten). Wenn du schon technisches Hintergrundwissen hast, kannst du Änderungen direkt über Github vornehmen, mehr dazu unter [Github Contribution](#github-contribution).
 
 ## Direkte Bearbeitung
 
-Über das Content-Management-System (CMS) kannst du direkt die Inhalte der Seiten bearbeiten. Diese ist unter [https://www.fipguide.org/admin](https://www.fipguide.org/admin) erreichbar.
+Über das Content-Management-System (CMS) kannst du direkt die Inhalte der Seiten bearbeiten. Diese ist unter <a href="https://www.fipguide.org/admin">https://www.fipguide.org/admin</a> erreichbar.
 
 Bitte beachte folgende Punkte bei der Bearbeitung:
 
@@ -29,7 +29,7 @@ Im CMS kann sich mit diesem Github Account angemeldet werden. Während der Anmel
 
 ### Seiten öffnen
 
-Auf der [Startseite](https://www.fipguide.org/admin) des FIP Guide CMS kann im linken Menü die Seitenkategorie ausgewählt werden und anschließend in der Mitte die gewünschte Seite geöffnet oder eine neue Seite erstellt werden.
+Auf der <a href="https://www.fipguide.org/admin">Startseite</a> des FIP Guide CMS kann im linken Menü die Seitenkategorie ausgewählt werden und anschließend in der Mitte die gewünschte Seite geöffnet oder eine neue Seite erstellt werden.
 
 ![FIP Guide CMS Startseite](startpage.webp)
 
