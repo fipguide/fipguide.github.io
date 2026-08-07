@@ -1,0 +1,384 @@
+backend:
+  name: github
+  repo: fipguide/fipguide.github.io
+  branch: main
+  auth_scope: repo
+  open_authoring: true
+  site_domain: fipguide.netlify.app
+publish_mode: editorial_workflow
+logo:
+  src: /images/logo.svg
+  show_in_header: true
+media_folder: assets/images
+public_folder: /images
+issue_reports:
+  url: https://github.com/fipguide/fipguide.github.io/issues/new
+display_url: https://fipguide.org/
+
+i18n:
+  structure: multiple_files
+  locales: [en, de, fr]
+  default_locale: en
+
+collections:
+  - name: "news"
+    label: "News"
+    label_singular: "News Article"
+    folder: "content/news"
+    path: "{{slug}}/index"
+    publish: false
+    create: true
+    delete: false
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+        i18n: duplicate
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        i18n: duplicate
+        required: false
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        required: false
+        i18n: true
+      - label: "Countries"
+        name: "country"
+        widget: "relation"
+        collection: "country"
+        search_fields: ["title"]
+        value_field: "country"
+        display_fields: ["title"]
+        multiple: true
+        required: false
+        i18n: duplicate
+        hint: "List of countries this news article is about."
+      - label: "Operators"
+        name: "operator"
+        widget: "relation"
+        collection: "operator"
+        search_fields: ["title"]
+        value_field: "operator"
+        display_fields: ["title"]
+        multiple: true
+        required: false
+        i18n: duplicate
+        hint: "List of operators this news article is about."
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          - "image"
+          - "highlight"
+          - "expander"
+          - "button"
+          - "dialog"
+          - "float-image"
+          - "wip"
+          - "update"
+          - "columns"
+
+  - name: "country"
+    label: "Countries"
+    label_singular: "Country"
+    folder: "content/country"
+    path: "{{slug}}/index"
+    create: false
+    publish: false
+    delete: false
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Country"
+        name: "country"
+        widget: "string"
+        i18n: duplicate
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          - "image"
+          - "highlight"
+          - "expander"
+          - "button"
+          - "dialog"
+          - "float-image"
+          - "wip"
+          - "identify-operator"
+          - "columns"
+
+  - name: "operator"
+    label: "Operators"
+    label_singular: "Operator"
+    folder: "content/operator"
+    path: "{{slug}}/index"
+    publish: false
+    delete: false
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Countries"
+        name: "country"
+        widget: "relation"
+        collection: "country"
+        search_fields: ["title"]
+        value_field: "country"
+        display_fields: ["title"]
+        multiple: true
+        i18n: duplicate
+        hint: "List of countries the operator operates in."
+      - label: "Operator"
+        name: "operator"
+        widget: "string"
+        i18n: duplicate
+        hint: A unique identifier of the operator (slug).
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          - "image"
+          - "highlight"
+          - "expander"
+          - "fip-validity"
+          - "train-category"
+          - "booking"
+          - "button"
+          - "dialog"
+          - "float-image"
+          - "wip"
+          - "fip-validity-comparison"
+          - "columns"
+
+  - name: "booking"
+    label: "Booking Platforms"
+    label_singular: "Booking Platform"
+    folder: "content/booking"
+    path: "{{slug}}/index"
+    publish: false
+    create: true
+    delete: false
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        required: false
+        i18n: true
+      - name: params
+        label: "Parameters"
+        widget: object
+        i18n: true
+        fields:
+          - name: classes
+            label: "Classes"
+            widget: object
+            required: false
+            i18n: true
+            fields:
+              - label: "First Class"
+                name: first
+                widget: string
+                required: false
+                i18n: duplicate
+              - label: "Second Class"
+                name: second
+                widget: string
+                required: false
+                i18n: duplicate
+          - label: "FIP 50"
+            name: fip_50
+            widget: boolean
+            default: false
+            i18n: duplicate
+          - label: "FIP Global Fare"
+            name: fip_global_fare
+            widget: boolean
+            default: false
+            required: false
+            i18n: duplicate
+          - label: "FIP 75"
+            name: fip_75
+            widget: boolean
+            default: false
+            required: false
+            i18n: duplicate
+          - label: "Reservations"
+            name: reservations
+            widget: boolean
+            default: false
+            i18n: duplicate
+          - label: "Booking Link"
+            name: booking_link
+            widget: string
+            required: false
+            i18n: duplicate
+          - label: "Additional Info Link"
+            name: additional_info_link
+            widget: string
+            required: false
+            i18n: duplicate
+          - label: "Fee"
+            name: fee
+            widget: string
+            required: false
+            i18n: duplicate
+            hint: 'Fee for booking, e.g. "€ 5" or "5 %".'
+          - label: "Type"
+            name: type
+            widget: select
+            options:
+              [website, online, onsite, phone, email, socialmedia, machine]
+            i18n: duplicate
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          - "image"
+          - "highlight"
+          - "expander"
+          - "booking-section"
+          - "button"
+          - "satellite"
+          - "dialog"
+          - "float-image"
+          - "wip"
+          - "columns"
+
+  - name: "general"
+    label: "General Pages"
+    label_singular: "General Page"
+    folder: "content/general"
+    path: "{{slug}}/index"
+    create: false
+    publish: false
+    delete: false
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Description"
+        name: "description"
+        widget: "string"
+        required: false
+        i18n: true
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          - "image"
+          - "highlight"
+          - "expander"
+          - "button"
+          - "dialog"
+          - "float-image"
+          - "wip"
+          - "columns"
+
+  - name: "faq"
+    label: "FAQ"
+    label_singular: "FAQ Entry"
+    folder: "content/general/faq"
+    path: "{{slug}}/index"
+    publish: false
+    create: true
+    delete: false
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - label: "Weight"
+        name: "weight"
+        widget: "number"
+        required: false
+        i18n: duplicate
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          - "image"
+          - "highlight"
+          - "expander"
+          - "button"
+          - "dialog"
+          - "float-image"
+          - "wip"
+          - "columns"
+
+  - name: "identify-operator"
+    label: "Identify Operator"
+    label_singular: "Identify Operator"
+    folder: "content/identify-operator"
+    path: "{{slug}}/index"
+    publish: false
+    create: true
+    delete: false
+    i18n: true
+    editor:
+      preview: false
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        i18n: true
+      - name: params
+        label: "Parameters"
+        widget: object
+        i18n: true
+        fields:
+          - label: "URL"
+            name: url
+            widget: string
+            required: false
+            i18n: duplicate
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+        editor_components:
+          - "image"
+          - "highlight"
+          - "expander"
+          - "button"
+          - "dialog"
+          - "float-image"
+          - "wip"
+          - "columns"
