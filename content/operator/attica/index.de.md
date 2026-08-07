@@ -21,6 +21,7 @@ Die Attica Group ist ein großer griechischer Fähranbieter und Betreiber mehrer
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" disable_dialog=true >}}
 
 ## Schiffskategorien und Reservierungen

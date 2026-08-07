@@ -22,6 +22,7 @@ LTG-Link publie en ligne une [vue d’ensemble du réseau](https://ltglink.lt/en
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 {{% highlight important %}}

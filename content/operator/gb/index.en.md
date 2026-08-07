@@ -23,6 +23,7 @@ There are many different railway companies in [Great Britain](/country/united-ki
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 FIP Coupons and FIP 50 / FIP 75 Tickets are valid with all listed railway companies, see [Train Categories and Reservations](#train-categories-and-reservations).
@@ -501,7 +502,7 @@ It can be used as guidance; however, individual offers should be verified via BR
 On some routes, trains from different operators run. Different Anytime and Off-Peak Tickets are sold for these routes. These tickets are only valid on the respective operator's trains or on all operators on the route (_Any Route_). [BR Fares](https://www.brfares.com/) provides an overview of available tickets per route. Advance Tickets are always tied to a specific train.
 
 {{% highlight tip %}}
-Through the [_Seatfrog_](https://seatfrog.com/) app, upgrades to First Class can be purchased for FIP 50 / FIP 75 Tickets and FIP Coupons in Second Class. [^5]
+Through the _[Seatfrog](https://seatfrog.com/)_ app, upgrades to First Class can be purchased for FIP 50 / FIP 75 Tickets and FIP Coupons in Second Class. [^5]
 {{% /highlight %}}
 
 ### Online

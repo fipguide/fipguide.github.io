@@ -22,6 +22,7 @@ Deutsche Bahn (DB) is the largest railway company in [Germany](/country/germany 
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
@@ -378,7 +379,7 @@ In the following example, the selected connection is within the transport associ
 
 ### Tariff Distinction between Local and Long-Distance Transport
 
-With FIP 50 Tickets, you can flexibly use trains on the same route. However, you must pay attention to the train categories, as DB distinguishes between tickets for different train categories (so-called [_product classes_](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)). Tickets (including FIP 50 Tickets) are only valid in the same or lower product classes. The product class is indicated on the ticket (e.g., _ICE Fahrkarte_ or _IC/EC Fahrkarte_) and is based on the highest train category on the booked connection.
+With FIP 50 Tickets, you can flexibly use trains on the same route. However, you must pay attention to the train categories, as DB distinguishes between tickets for different train categories (so-called _[product classes](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)_). Tickets (including FIP 50 Tickets) are only valid in the same or lower product classes. The product class is indicated on the ticket (e.g., _ICE Fahrkarte_ or _IC/EC Fahrkarte_) and is based on the highest train category on the booked connection.
 
 The following product classes exist:
 

@@ -29,6 +29,7 @@ Le [réseau de Vy](https://www.vy.no/files/eyx1eny7/vyno-production/1e6de6b67ae9
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Réductions FIP sont reconnues par les trois opérateurs Vy, SJ Nord et Go-Ahead Nordic.

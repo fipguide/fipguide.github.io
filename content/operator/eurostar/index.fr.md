@@ -27,7 +27,9 @@ Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. �
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="invalid" subtitle="FIP 50 / FIP 75" disable_dialog=true >}}
+
 {{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 Les billets à Tarif Global FIP peuvent être achetés à prix fixe. Tous les billets sont spécifiques à un train, en raison de la réservation obligatoire. Il est toutefois possible de modifier ou annuler les Billets FIP via le [site Eurostar](https://www.eurostar.com/). Les Billets FIP ne peuvent pas être combinés dans un trajet continu avec correspondance. [^1]

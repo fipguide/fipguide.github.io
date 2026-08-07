@@ -23,6 +23,7 @@ Au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), il existe de nombreuses
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 Les Coupons FIP et Billets FIP 50 / FIP 75 sont valables auprès de toutes les compagnies listées, voir [Catégories de trains et réservations](#catégories-de-trains-et-réservations).
@@ -505,7 +506,7 @@ FOSW ROVER 8 IN 15 DAYS est plus cher avec FIP 75.
 Sur certaines lignes, des trains de différents opérateurs circulent. Différents billets Anytime et Off-Peak sont vendus pour ces lignes. Ces billets ne sont valables que dans les trains de l’opérateur concerné ou auprès de tous les opérateurs sur la ligne (_Any Route_). [BR Fares](https://www.brfares.com/) donne un aperçu des billets disponibles par ligne. Les billets Advance sont toujours liés à un train précis.
 
 {{% highlight tip %}}
-Via l’application [_Seatfrog_](https://seatfrog.com/), il est possible d’acheter des surclassements en première classe pour les Billets FIP 50 / FIP 75 et Coupons FIP de 2ᵉ classe. [^5]
+Via l’application _[Seatfrog](https://seatfrog.com/)_, il est possible d’acheter des surclassements en première classe pour les Billets FIP 50 / FIP 75 et Coupons FIP de 2ᵉ classe. [^5]
 {{% /highlight %}}
 
 ### En ligne

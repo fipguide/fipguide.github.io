@@ -19,6 +19,7 @@ The Societatea Natională de Transport Feroviar de Călători "CFR Călători" S
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on CFR Călători services. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.

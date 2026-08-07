@@ -23,6 +23,7 @@ In [Großbritannien](/country/united-kingdom "Großbritannien") gibt es viele ve
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 FIP Freifahrtscheine und FIP 50 / FIP 75 Tickets gelten in allen aufgeführten Bahnunternehmen, siehe [Zugkategorien und Reservierungen](#zugkategorien-und-reservierungen).
@@ -502,7 +503,7 @@ Sie kann als Orientierung genutzt werden, individuelle Angebote sollten jedoch �
 Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen Strecken werden unterschiedliche Anytime und Off-Peak Tickets verkauft. Diese Tickets sind nur in den Zügen des jeweiligen Betreibers gültig oder bei allen Betreibern auf der Strecke (_Any Route_). [BR Fares](https://www.brfares.com/) gibt einen Überblick über die verfügbaren Tickets pro Strecke. Advance Tickets sind stets an eine konkrete Zugverbindung gebunden.
 
 {{% highlight tip %}}
-Über die App [_Seatfrog_](https://seatfrog.com/) können für FIP 50 / FIP 75 Tickets und Freifahrtscheine der 2. Klasse Upgrades für die 1. Klasse erworben werden. [^5]
+Über die App _[Seatfrog](https://seatfrog.com/)_ können für FIP 50 / FIP 75 Tickets und Freifahrtscheine der 2. Klasse Upgrades für die 1. Klasse erworben werden. [^5]
 {{% /highlight %}}
 
 ### Online

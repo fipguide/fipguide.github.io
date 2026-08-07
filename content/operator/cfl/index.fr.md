@@ -20,6 +20,7 @@ La CFL (Société nationale des chemins de fer luxembourgeois) est la compagnie 
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 {{% highlight important %}}

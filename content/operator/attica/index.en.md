@@ -21,6 +21,7 @@ The Attica Group is a major Greek ferry operator running several brands, includi
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" disable_dialog=true >}}
 
 ## Ship Categories and Reservations

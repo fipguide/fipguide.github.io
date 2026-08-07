@@ -22,6 +22,7 @@ Les services de ferry entre Harwich ([Royaume-Uni](/country/united-kingdom)) et 
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Catégories de navires et réservations
