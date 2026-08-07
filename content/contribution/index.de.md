@@ -10,7 +10,7 @@ Seiten können direkt im FIP Guide, über das [Content-Management-System (CMS)](
 
 ## Direkte Bearbeitung
 
-Über das Content-Management-System (CMS) kannst du direkt die Inhalte der Seiten bearbeiten. Diese ist unter [fipguide.org/admin](https://www.fipguide.org/admin) erreichbar.
+Über das Content-Management-System (CMS) kannst du direkt die Inhalte der Seiten bearbeiten. Diese ist unter [test](https://www.fipguide.org/admin) erreichbar.
 
 Bitte beachte folgende Punkte bei der Bearbeitung:
 
