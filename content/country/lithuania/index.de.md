@@ -1,10 +1,10 @@
 ---
 draft: false
-title: "Litauen"
-country: "lithuania"
+title: Litauen
+country: lithuania
 params:
   operators_without_fip:
-    - "Aukštaitijos siaurasis geležinkelis (Museumsbahn)"
+    - Aukštaitijos siaurasis geležinkelis (Museumsbahn)
 ---
 
 ## FIP Nutzung

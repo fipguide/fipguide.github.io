@@ -1,15 +1,14 @@
 ---
 draft: false
-title: "Trenitalia Fahrkartenautomat"
-description: "Buchungsinformationen für die Trenitalia Fahrkartenautomaten."
-
+title: Trenitalia Fahrkartenautomat
+description: Buchungsinformationen für die Trenitalia Fahrkartenautomaten.
 params:
   fip_50: false
   reservations: true
   classes:
-    first: "3 € / 25 €"
-    second: "3 € / 25 €"
-  type: "machine"
+    first: 3 € / 25 €
+    second: 3 € / 25 €
+  type: machine
 ---
 
 {{% booking-section "reservations" %}}
@@ -32,11 +31,10 @@ Auf dem Startbildschirm des Automaten "Buy your tickets / Special Discounts" wä
 ![Tarif wählen](machine_2.webp)
 ![Diritto Ammissione Non FS wählen](machine_3.webp)
 {.o-section--columns-flex}
-
 {{% /booking-section %}}
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Bei Kurzstrecken im Le Frecce kann der Normaltarif güstiger als FIP reduzierte Tickets sein.
 
 Zusätzlich können Aufschläge für Le Frecce und sonstige Fernzüge teilweise teurer sein als ein FIP 50 Ticket.
-{{% /highlight %}}
+{{< /highlight >}}

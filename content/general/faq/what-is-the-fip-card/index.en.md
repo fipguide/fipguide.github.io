@@ -1,5 +1,5 @@
 ---
-title: "What is the FIP Card?"
+title: What is the FIP Card?
 weight: 4
 ---
 

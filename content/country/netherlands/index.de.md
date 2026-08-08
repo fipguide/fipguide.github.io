@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Niederlande"
-country: "netherlands"
+title: Niederlande
+country: netherlands
 params:
   operators_without_fip:
     - Arriva Nederland

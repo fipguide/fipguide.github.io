@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Spain"
-country: "spain"
+title: Spain
+country: spain
 params:
   operators_without_fip:
     - Iryo

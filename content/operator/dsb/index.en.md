@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "DSB"
+title: DSB
 country:
-  - "denmark"
-operator: "dsb"
-
+  - denmark
+operator: dsb
 aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
@@ -21,6 +20,7 @@ The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/cou
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on DSB connections. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries must be available.
@@ -96,16 +96,17 @@ A reservation is recommended for cross-border journeys and usually mandatory in 
     title="Regional Train (R / RE)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Regional trains provide local connections between various locations. Outside the S-train network in Copenhagen, they stop at all stations and are therefore slower.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Trains from other operators are also displayed as `R`, so always check beforehand if the operator is DSB. \
 Trains marked as `RA` are not operated by DSB and therefore not included in FIP. \
 Trains marked as `RE` are usually DSB operated trains.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -114,6 +115,7 @@ Trains marked as `RE` are usually DSB operated trains.
     title="S-tog (S)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 

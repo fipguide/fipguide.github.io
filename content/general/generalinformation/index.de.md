@@ -1,9 +1,12 @@
 ---
-title: "Übergreifende Infos"
-description: "Übergreifende Informationen zu FIP, FIP Ausweis (Internationale Ermäßigungskarte für Eisenbahnpersonal) sowie der Nutzung Internationaler Fahrvergünstigungen wie FIP 50 und FIP Freifahrtscheinen (Auslandsfreifahrten)."
+title: Übergreifende Infos
+description: Übergreifende Informationen zu FIP, FIP Ausweis (Internationale
+  Ermäßigungskarte für Eisenbahnpersonal) sowie der Nutzung Internationaler
+  Fahrvergünstigungen wie FIP 50 und FIP Freifahrtscheinen
+  (Auslandsfreifahrten).
 toc: true
 aliases:
-  - "/generalinformation/"
+  - /generalinformation/
 ---
 
 ## Allgemein
@@ -65,11 +68,13 @@ Offiziell muss der _FIP Ausweis_ bei der Nutzung von _FIP Freifahrtscheinen_ im 
 {{% /highlight %}}
 
 {{% expander "Beispiel für die Nutzung eines FIP Freifahrtscheins" info %}}
+
 Ich möchte als Mitarbeitender bei einer europäischen Bahngesellschaft (z. B. Deutsche Bahn) an insgesamt acht Tagen mit verschiedenen Zügen innerhalb von Österreich fahren. Dafür muss ich einen FIP Freifahrtschein für die Österreichische Bundesbahn (ÖBB) mit vier Feldern (4 Felder = bis zu 8 Tage Freifahrten bei dem Betreiber) bestellen.
 
 Der FIP Freifahrtschein hat eine Gültigkeit von drei Monaten, ich darf nur in dieser Zeit reisen (Beispiel-Gültigkeit: 10.02.2026–09.05.2026). Ich reise am 01.03.2026 in das Land ein und trage vor der Fahrt im ersten in Österreich genutzten Zug den 01.03.2026 im ersten Feld ein. Damit kann ich nun die Züge der ÖBB am 01.03. und 02.03.2026 nutzen (Ausnahmen und spezielle Regelungen sind auf der jeweiligen [Betreiberseite](/operator "Betreiberseite") zu finden).
 
 Am 03.03.2026 fahre ich nicht mit dem Zug, dafür wieder am 04.03. Also trage ich den 04.03.2026 im zweiten Feld ein, damit kann ich auch noch am 05.03. fahren. So geht es weiter, bis ich alle vier Felder verbraucht habe. Das letzte Feld nutze ich beispielsweise am 10.03.2026 und fahre damit am 11.03.2026 wieder aus Österreich zurück.
+
 {{% /expander %}}
 
 {{% highlight tip %}}
@@ -95,9 +100,11 @@ Da FIP 50 Tickets nur flexible Tickets rabattieren, können sie teurer als regul
 {{% /highlight %}}
 
 {{% expander "Beispiel für die Nutzung eines FIP 50 Tickets" info %}}
+
 Ich bin FIP-Berechtigter bei der Deutschen Bahn und möchte am 01.03.2026 von Frankfurt am Main nach Amsterdam fahren. Dafür buche ich mir im DB Reisezentrum (in dem Fall wäre es auch online über eine spezielle Seite der DB möglich) ein FIP 50 Ticket von Frankfurt Hbf nach Amsterdam Centraal. Wenn die Fahrkarte nicht mit einer Reservierung verbunden ist, ist sie flexibel auf jeder Verbindung des gleichen Betreibers und gleicher Zugkategorie (z. B. ICE) an dem Tag gültig. Dieses Ticket ist jedoch nur für den niederländischen Teilabschnitt gültig, da im Land des eigenen Betreibers das Ticket keine Gültigkeit hat. Ich brauche also dazu noch ein Ticket für den deutschen Teilabschnitt, zum Beispiel eine Fahrvergünstigung für DB-Mitarbeitende.
 
 Anders sieht es beispielsweise aus, wenn ich ein Ticket von Wien nach Budapest buche, hier bekomme ich ein auf der ganzen Strecke gültiges FIP 50 Ticket.
+
 {{% /expander %}}
 
 ### FIP Globalpreise
@@ -132,19 +139,23 @@ Während ein FIP Freifahrtschein immer für nur genau eine Bahngesellschaft ausg
 Welche Grenzbahnhöfe und Grenztarifpunkte zwischen zwei Ländern bzw. Bahngesellschaften bestehen, sind im FIP Guide auf der jeweiligen Länderseite aufgeführt.
 
 {{% expander "Beispiel für den Umgang mit Grenzbahnhöfen" info %}}
+
 Ich bin FIP-Berechtigter bei der Deutschen Bahn und möchte am 01.03.2026 von Frankfurt am Main nach Wien fahren. Ich habe die Möglichkeit, entweder einen FIP Freifahrtschein für die ÖBB zu bestellen oder ein FIP 50 Ticket von Frankfurt Hbf nach Wien Hbf zu buchen. Beide gelten nur für den österreichischen Abschnitt, da ich in Deutschland kein FIP nutzen kann. Üblicherweise erfolgt die Fahrt hier über Passau Hbf, welcher Grenzbahnhof für Deutschland und Österreich ist.
 
 Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf und Passau Hbf, z. B. ein regulär gekauftes Ticket oder eine Fahrvergünstigung für DB Mitarbeitende innerhalb Deutschlands. Ab Passau Hbf gilt sowohl der ÖBB Freifahrtschein als auch das FIP 50 Ticket.
 
 ![Beispiel Grafik Grenzbahnhof](borderstation.de.svg)
+
 {{% /expander %}}
 
 {{% expander "Beispiel für den Umgang mit Grenzpunkten" info %}}
+
 Ich bin FIP-Berechtigter bei der Deutschen Bahn und möchte am 01.03.2026 von Frankfurt am Main nach Kopenhagen fahren. Ich habe die Möglichkeit, entweder einen FIP Freifahrtschein für die DSB zu bestellen oder ein FIP 50 Ticket von Frankfurt Hbf nach Kobenhavn H zu buchen. Beide gelten nur für den dänischen Abschnitt, da ich in Deutschland kein FIP nutzen kann. Üblicherweise erfolgt die Fahrt hier über die Grenze Padborg (Gr), was nur ein virtueller Grenzpunkt zwischen Flensburg und Padborg ist, jedoch kein echter Bahnhof.
 
 Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf und diesem Grenzpunkt, z. B. ein regulär gekauftes Ticket bis zum ersten dänischen Bahnhof Padborg oder eine Fahrvergünstigung für DB Mitarbeitende innerhalb Deutschlands, die bis zur Grenze gültig sein muss. Ein Ticket beispielsweise bis zum letzten Bahnhof in Deutschland (Schleswig), an dem der Zug hält, oder bis Flensburg reicht nicht aus. Ab dem Grenzpunkt gilt dann sowohl der DSB Freifahrtschein als auch das FIP 50 Ticket.
 
 ![Beispiel Grafik Grenzpunkt](borderpoint.de.svg)
+
 {{% /expander %}}
 
 ## Versteuerung

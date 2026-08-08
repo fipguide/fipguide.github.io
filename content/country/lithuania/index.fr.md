@@ -1,10 +1,10 @@
 ---
 draft: false
-title: "Lituanie"
-country: "lithuania"
+title: Lituanie
+country: lithuania
 params:
   operators_without_fip:
-    - "Aukštaitijos siaurasis geležinkelis (chemin de fer musée)"
+    - Aukštaitijos siaurasis geležinkelis (chemin de fer musée)
 ---
 
 ## Informations FIP

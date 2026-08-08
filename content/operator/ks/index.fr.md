@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "KŚ"
+title: KŚ
 country:
-  - "poland"
-operator: "ks"
-
+  - poland
+operator: ks
 aliases:
   - /booking/ks-ticket-machine
   - /booking/ks-ticket-office
@@ -25,6 +24,7 @@ Sur son site Web KŚ propose une [carte d’aperçu des lignes](https://www.kole
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valides chez KŚ.
@@ -42,41 +42,42 @@ Les Billets FIP ne sont généralement pas valables dans les bus KŚ. Dans les b
 ### En ligne
 
 {{% booking id="ks-website"
-        subtitle="Pour les connexions nationales"
-%}}
-{{% /booking %}}
+    subtitle="Pour les connexions nationales"
+/%}}
 
 {{% booking id="koleo-website"
-        reservations=nil
-        subtitle="Pour les connexions nationales"
+    subtitle="Pour les connexions nationales"
+    reservations=nil
 %}}
 Les Billets FIP 50 ne peuvent être vendus que pour les connexions nationales.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-        reservations=nil
-        subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, avec portion de billet uniquement pour la section polonaise. Réservé aux employés de la Deutsche Bahn."
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, avec portion de billet uniquement pour la section polonaise. Réservé aux employés de la Deutsche Bahn."
+    reservations=nil
 /%}}
 
 {{% booking id="db-website-fip-international"
-        reservations=nil
-        subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne pour l’ensemble du trajet (non valide dans le pays d’émission de la Carte FIP)"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne pour l’ensemble du trajet (non valide dans le pays d’émission de la Carte FIP)"
+    reservations=nil
 /%}}
 
 ### Par téléphone
 
 {{% booking id="db-phone-fip-db"
-        reservations=nil
-        subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, avec portion de billet uniquement pour la section polonaise. Réservé aux employés de la Deutsche Bahn."
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, avec portion de billet uniquement pour la section polonaise. Réservé aux employés de la Deutsche Bahn."
+    reservations=nil
 /%}}
 
 ### En gare
 
-{{% booking id="ks-ticket-machine"/%}}
+{{% booking id="ks-ticket-machine" /%}}
 
-{{% booking id="ks-ticket-office"/%}}
+{{% booking id="ks-ticket-office" /%}}
 
-{{% booking id="db-ticket-office" reservations=nil /%}}
+{{% booking id="db-ticket-office"
+    reservations=nil
+/%}}
 
 ### À bord du train
 

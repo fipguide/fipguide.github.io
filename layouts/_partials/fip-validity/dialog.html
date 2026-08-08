@@ -8,14 +8,17 @@
   {{- if eq .File.ContentBaseName $currentSlug -}}
     {{- continue -}}
   {{- end -}}
+  {{- $appPage := .GetPage (printf "/application/%s" .File.ContentBaseName) -}}
   {{- $entry := false -}}
-  {{- with .Resources.Get "validity.yaml" -}}
-    {{- $validity := . | transform.Unmarshal -}}
-    {{- $entry = index (index $validity $currentSlug) $type -}}
+  {{- with $appPage -}}
+    {{- with .Resources.Get "validity.yaml" -}}
+      {{- $validity := . | transform.Unmarshal -}}
+      {{- $entry = index (index $validity $currentSlug) $type -}}
+    {{- end -}}
   {{- end -}}
   {{- if $entry -}}
-    {{- $issuers = $issuers | append (dict "page" . "entry" $entry) -}}
-    {{- $issuerPages = $issuerPages | append . -}}
+    {{- $issuers = $issuers | append (dict "page" $appPage "entry" $entry) -}}
+    {{- $issuerPages = $issuerPages | append $appPage -}}
   {{- end -}}
 {{- end -}}
 
@@ -33,18 +36,7 @@
 {{- range $issuers -}}
   {{- $slug := .page.File.ContentBaseName -}}
   {{- $entry := .entry -}}
-  {{- $general := index ((.page.Resources.Get "validity.yaml") | transform.Unmarshal) "general" -}}
-  {{- $generalType := index $general $type -}}
-  {{- $generalText := "" -}}
-  {{- if $generalType -}}
-    {{- $generalText = index $generalType $lang -}}
-  {{- end -}}
   <div data-fip-issuer="{{ $slug }}" hidden>
-    {{- if $generalText -}}
-      <div class="o-fip-validity__general">
-        {{ $generalText | $.page.RenderString }}
-      </div>
-    {{- end -}}
     <div class="o-fip-validity__cards">
       {{- $fields := slice "active" "active-relatives" "retired" "retired-relatives" "widows" -}}
       {{- range $fields -}}

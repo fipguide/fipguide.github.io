@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Guichet Euskotren"
+title: Guichet Euskotren
 params:
   fip_50: nil
   fip_global_fare: nil
   reservations: nil
-  type: "onsite"
-  additional_info_link: "https://www.euskotren.eus/en/customer-service/offices-and-opening-hours"
+  type: onsite
+  additional_info_link: https://www.euskotren.eus/en/customer-service/offices-and-opening-hours
 ---
 
 Sur présentation de la Carte FIP, un billet valable 7 jours est délivré dans les points de vente suivants.

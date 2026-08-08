@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "Koleje Dolnośląskie Ticket Machine"
-description: "Booking information for the Koleje Dolnośląskie ticket machines."
-
+title: Koleje Dolnośląskie Ticket Machine
+description: Booking information for the Koleje Dolnośląskie ticket machines.
 params:
   fip_50: true
-  additional_info_link: "https://kolejedolnoslaskie.pl/informacje-o-kanalach-sprzedazy/stacjonarne-automaty-biletowe/"
-  type: "machine"
+  additional_info_link: https://kolejedolnoslaskie.pl/informacje-o-kanalach-sprzedazy/stacjonarne-automaty-biletowe/
+  type: machine
 ---
 
 At some stations, Koleje Dolnośląskie ticket machines are available. All stations with ticket machines are listed on the KD website.

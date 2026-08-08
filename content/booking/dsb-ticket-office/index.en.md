@@ -1,17 +1,15 @@
 ---
 draft: false
-title: "DSB Ticket Office"
-description: "Booking information for DSB ticket offices."
-
+title: DSB Ticket Office
+description: Booking information for DSB ticket offices.
 params:
   classes:
-    first: "DKK 30"
-    second: "DKK 30"
+    first: DKK 30
+    second: DKK 30
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.dsb.dk/en/train-ticket-to-europe/"
-  type: "onsite"
-
+  additional_info_link: https://www.dsb.dk/en/train-ticket-to-europe/
+  type: onsite
 aliases:
   - dsb_ticket_office
 ---
@@ -20,9 +18,9 @@ aliases:
 
 ## FIP 50 Tickets
 
-{{% highlight inofficial %}}
+{{< highlight inofficial >}}
 DSB can probably only sell FIP 50 Tickets for Denmark at international ticket counters. These are located at the main stations in Aarhus, Copenhagen, and Odense. We do not know whether foreign FIP 50 Tickets can also be sold at these counters.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -46,5 +44,4 @@ International reservations can be issued at the international ticket counters at
 - Sweden
 - Switzerland
 {.o-section--columns-3}
-
 {{% /booking-section %}}

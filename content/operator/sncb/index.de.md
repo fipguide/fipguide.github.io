@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "SNCB / NMBS"
+title: SNCB / NMBS
 country:
-  - "belgium"
-operator: "sncb"
-
+  - belgium
+operator: sncb
 aliases:
   - /booking/sncb-phone
   - /booking/sncb-ticket-office
@@ -23,6 +22,7 @@ Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Ma
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 FIP Freifahrtscheine und FIP 50 / FIP 75 Tickets sind auf Verbindungen der SNCB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 / FIP 75 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -69,8 +69,10 @@ Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
+
 Internationaler Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen.
 
 {{< highlight important >}}

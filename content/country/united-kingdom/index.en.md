@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "United Kingdom"
-country: "united-kingdom"
+title: United Kingdom
+country: united-kingdom
 params:
   operators_without_fip:
     - Blackpool Tramway
@@ -18,7 +18,8 @@ params:
     - London Trams (formerly Croydon Tramlink)
     - Transport for Greater Manchester
     - Tyne and Wear Metro
-    - Wightlink ferry (Portsmouth Harbour to Ryde Pier Head station on the Isle of Wight)
+    - Wightlink ferry (Portsmouth Harbour to Ryde Pier Head station on the Isle
+      of Wight)
 ---
 
 <!-- The UK is a bit different. There are no train categories, but many operators, so you have to check where FIP is valid. It makes sense to list other operators without FIP, even if they are often trams and subways. Otherwise, it's hard for users to understand why FIP is valid on the Elizabeth Line but not on other Underground lines. -->
@@ -73,7 +74,7 @@ From Calais, there is also the LeShuttle Motorail train through the Eurotunnel, 
 
 ### Ireland
 
-From Dublin and Rosslare, Irish Ferries and Stena Line Limited ferries operate to Holyhead and Fishguard in Wales. Ferry connections from [Stena Line Limited](/operator/sll) can be used at a discount with Stena Line FIP Coupons or FIP 50 Tickets.
+From Dublin, Irish Ferries and [Stena Line Limited](/operator/sll) operate ferries to Holyhead in Wales. From Rosslare, Irish Ferries operates ferries to Pembroke in Wales and [Stena Line Limited](/operator/sll) operates ferries to Fishguard in Wales. Ferry connections from [Stena Line Limited](/operator/sll) can be used at a discount with Stena Line FIP Coupons or FIP 50 Tickets.
 
 {{% highlight tip %}}
 Stena Line Limited and Irish Ferries offer tickets that allow combined train and ferry travel at a reduced price. No additional FIP discount is available on these tickets.

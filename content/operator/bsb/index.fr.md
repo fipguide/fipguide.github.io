@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "BSB"
+title: BSB
 country:
-  - "austria"
-  - "germany"
-  - "switzerland"
-operator: "bsb"
-
+  - austria
+  - germany
+  - switzerland
+operator: bsb
 aliases:
   - /booking/bsb-ticket-office
 ---
@@ -28,17 +27,19 @@ Les remises FIP sont valables auprès des opérateurs suivants :
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Catégories de trains et réservations
 
 {{% train-category
-  id="ferry"
-  title="Fähre"
-  type="ship"
-  fip_accepted=partially
-  reservation_possible=false
-  route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
+    id="ferry"
+    title="Fähre"
+    type="ship"
+    fip_accepted=partially
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
 %}}
 
 Ferries sur le lac de Constance.
@@ -64,8 +65,7 @@ Il existe une classe unique, accessible avec les Cartes FIP de 1ère et 2ème cl
 
 ### En gare
 
-{{% booking id="bsb-ticket-office" %}}
-{{% /booking %}}
+{{% booking id="bsb-ticket-office" /%}}
 
 ### À bord du ferry
 

@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "CFL Telefon"
-description: "Buchungsinformationen für die CFL Hotline."
-
+title: CFL Telefon
+description: Buchungsinformationen für die CFL Hotline.
 params:
-  additional_info_link: "https://blogcfl.lu/de/cfl-gruppe/352-2489-2489-haben-sie-fragen-wenden-sie-sich-an-uns-unter-dieser-nummer"
-  type: "phone"
+  additional_info_link: https://blogcfl.lu/de/cfl-gruppe/352-2489-2489-haben-sie-fragen-wenden-sie-sich-an-uns-unter-dieser-nummer
+  type: phone
   fee: 5 €
-
 aliases:
   - cfl_phone
 ---

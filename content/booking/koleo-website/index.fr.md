@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "Site Web Koleo"
-description: "Informations de réservation pour le site web Koleo."
-
+title: Site Web Koleo
+description: Informations de réservation pour le site web Koleo.
 params:
   fip_50: true
   reservations: false
-  booking_link: "https://koleo.pl/en/"
-  type: "website"
+  booking_link: https://koleo.pl/en/
+  type: website
 ---
 
 {{% booking-section "fip_50" %}}
@@ -26,7 +25,7 @@ Ensuite, sous _Mon Compte / Moje konto_ à _Réduction / Zniżka_, ajouter la r�
 
 Par la suite, le prix réduit est affiché directement dans la recherche de connexion.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Il est recommandé de vérifier à nouveau le prix en état non connecté avant l’achat pour savoir si le prix FIP 50 a effectivement été calculé. Avec certaines compagnies ferroviaires, il y a eu des calculs de prix incorrects dans le passé sans la réduction FIP 50.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}

@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "Distributeurs de billets Koleje Śląskie"
-description: "Informations de réservation pour les distributeurs de billets Koleje Śląskie."
-
+title: Distributeurs de billets Koleje Śląskie
+description: Informations de réservation pour les distributeurs de billets Koleje Śląskie.
 params:
   fip_50: true
-  additional_info_link: "https://www.kolejeslaskie.pl/kup_bilet/na-dworcu/"
-  type: "machine"
+  additional_info_link: https://www.kolejeslaskie.pl/kup_bilet/na-dworcu/
+  type: machine
 ---
 
 Des distributeurs de billets Koleje Śląskie sont disponibles dans certaines gares.

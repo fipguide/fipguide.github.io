@@ -1,15 +1,15 @@
 ---
 draft: false
-title: "Guichet SŽ"
-description: "Informations de réservation pour les guichets SŽ."
+title: Guichet SŽ
+description: Informations de réservation pour les guichets SŽ.
 params:
   classes:
-    first: "1,50 €"
-    second: "1,50 €"
+    first: 1,50 €
+    second: 1,50 €
   fip_50: true
   reservations: true
-  additional_info_link: "https://potniski.sz.si/en/tickets/purchase-tickets-sz-and-ijpp/ticket-sales-outlets/"
-  type: "onsite"
+  additional_info_link: https://potniski.sz.si/en/tickets/purchase-tickets-sz-and-ijpp/ticket-sales-outlets/
+  type: onsite
 ---
 
 Les guichets SŽ ne se trouvent désormais que dans les gares les plus importantes.

@@ -1,7 +1,6 @@
 ---
-title: "Overview of operators"
-description: "Overview of the operators providing FIP benefits."
-
+title: Overview of operators
+description: Overview of the operators providing FIP benefits.
 aliases:
   - /booking
 ---

@@ -1,17 +1,15 @@
 ---
 draft: false
-title: "ÖBB Telephone"
-description: "Booking information for the ÖBB hotline."
-
+title: ÖBB Telephone
+description: Booking information for the ÖBB hotline.
 params:
   classes:
-    first: "€ 3.50"
-    second: "€ 3.50"
+    first: € 3.50
+    second: € 3.50
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.oebb.at/en/reiseplanung-services/kundenservice/callcenter"
-  type: "phone"
-
+  additional_info_link: https://www.oebb.at/en/reiseplanung-services/kundenservice/callcenter
+  type: phone
 aliases:
   - obb-phone
   - obb_phone
@@ -35,7 +33,6 @@ Since Satellite [blocks](https://help.satellite.me/mit-satellite-telefonieren/te
 FIP 50 Tickets can be purchased for travel within Austria and many European countries.
 
 Tickets are cheaper if purchased in advance (1 day before travel or 15 days before travel).
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -48,5 +45,4 @@ The reservation price is charged per journey. This means for connections with a 
 
 - 180 days to 15 days before departure: 100% refund of the reservation price
 - 14 days to 1 day before departure: 50% refund of the reservation price
-
-{{% /booking-section %}}
+  {{% /booking-section %}}

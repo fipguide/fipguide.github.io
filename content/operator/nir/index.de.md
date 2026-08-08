@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "NIR"
+title: NIR
 country:
-  - "united-kingdom"
-operator: "nir"
-
+  - united-kingdom
+operator: nir
 aliases:
   - /booking/translink-ticket-office
   - /booking/translink-whatsapp
@@ -19,6 +18,7 @@ Northern Ireland Railways (NIR) ist die staatliche Bahngesellschaft in Nordirlan
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 ## Zugkategorien und Reservierungen
@@ -28,6 +28,7 @@ Northern Ireland Railways (NIR) ist die staatliche Bahngesellschaft in Nordirlan
     title="Regionalzüge"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
     route_overview_url="https://en.wikipedia.org/wiki/NI_Railways#/media/File:NIRailways_Map.png"
 %}}
@@ -41,6 +42,7 @@ NIR betreibt verschiedene Regionalzugverbindungen ausgehend von Belfast. Die Reg
     title="Intercity (Enterprise)"
     type="highspeed"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=true
 %}}
 

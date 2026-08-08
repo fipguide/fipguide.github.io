@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Bulgaria"
-country: "bulgaria"
+title: Bulgaria
+country: bulgaria
 params:
   operators_without_fip:
     - Optima Express

@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "ČD"
+title: ČD
 country:
-  - "czechia"
-operator: "cd"
-
+  - czechia
+operator: cd
 aliases:
   - /booking/cd-ticket-office
   - /booking/cd-website
@@ -22,6 +21,7 @@ Die České dráhy (ČD) ist die staatliche Eisenbahngesellschaft der [Tschechis
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ČD gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -45,19 +45,21 @@ Sitzplatzreservierungen sind nur in SuperCity `SC` und einigen `IC` Zügen verpf
     reservation_possible=true
     additional_information_url="https://www.cd.cz/en/nase-vlaky/supercity/pendolino/-27274/"
 %}}
+
 Die SuperCity Züge bieten die schnellsten Verbindungen auf der Strecke Prag – Pardubice – Olomouc – Ostrava. Zweimal täglich verkehren Züge ab Ostrava weiter in die Slowakei. Sie halten nur an den wichtigsten Bahnhöfen und bieten sehr komfortables Reisen in der 1. und 2. Klasse. Die modernen Neigetechnikzüge vom Typ „Pendolino“ verfügen über ein Bistro und bieten einen hohen Servicestandard. Fahrräder, Kinderwagen und anderes Sperrgepäck können mitgenommen werden.
 
 In der 1. Klasse erhalten Fahrgäste eine kleine Erfrischung, in der 2. Klasse gibt es eine Flasche Wasser. In beiden Klassen stehen außerdem Tageszeitungen gratis zur Verfügung. Während der Fahrt steht ein Bord-Entertainment- und Informationsportal zur Verfügung, über das man Speisen und Getränke direkt an den Platz bestellen, Bücher lesen, Musik hören, Spiele spielen oder Filme schauen kann.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzielle Verbindungen](#čd-kommerzielle-verbindungen-zuschlagspflichtig)).
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
 Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
 
 Die Preise für die Reservierung sind variabel (siehe [reservierungspflichtige Züge](#züge-mit-reservierungspflicht)).
+
 {{% /train-category %}}
 
 {{% train-category
@@ -69,6 +71,7 @@ Die Preise für die Reservierung sind variabel (siehe [reservierungspflichtige Z
     reservation_possible=true
     additional_information_url="https://www.cd.cz/en/nase-vlaky/railjet/railjet/-27275/"
 %}}
+
 Die Railjet-Züge verbinden Brno und Prag schnell und komfortabel und bieten zudem eine Direktverbindung über Břeclav nach Wien und Graz. Sie halten nur an den wichtigsten Bahnhöfen. Auch die internationalen ComfortJet-Züge zwischen Prag und Deutschland bzw. Dänemark fallen unter diese Kategorie.
 
 Es gibt meist drei Wagenklassen:
@@ -79,13 +82,14 @@ Es gibt meist drei Wagenklassen:
 
 Die Züge verfügen über modernes Wagenmaterial im Stil der ÖBB-Railjets, allerdings mit blauer Außengestaltung. Fahrräder, Kinderwagen und anderes Sperrgepäck können mitgenommen werden. Speisen und Getränke sind im Bordrestaurant oder per Am-Platz-Service erhältlich. In der 1. Klasse erhalten Fahrgäste kostenlos eine Flasche Wasser und eine Tageszeitung, in der Business Class zusätzlich ein Begrüßungsgetränk sowie einen Gutschein im Wert von 50 CZK für das Restaurantangebot (nur innerhalb Tschechiens). Für Kinder gibt es ein eigenes Kinderkino mit speziellen Programmen.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Nicht zu verwechseln mit Zügen von RegioJet, die teilweise ebenfalls mit `RJ` gekennzeichnet sind. Dieser private Betreiber akzeptiert keine FIP Fahrscheine.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
 Sitzplatzreservierungen sind möglich, in der Business Class sogar verpflichtend.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -97,11 +101,13 @@ Sitzplatzreservierungen sind möglich, in der Business Class sogar verpflichtend
     reservation_possible=true
     additional_information_url="https://www.cd.cz/en/nase-vlaky/ec-ic/armpee/-27279/"
 %}}
+
 Internationale Fernverkehrszüge im Taktverkehr mit hohem Komfort. Die klimatisierten Wagen stammen von verschiedenen Bahnverwaltungen und verfügen oft über einen Speisewagen, der sich internationaler Beliebtheit erfreut.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzielle Verbindungen](#čd-kommerzielle-verbindungen-zuschlagspflichtig)).
-{{% /highlight %}}
+{{< /highlight >}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -113,15 +119,17 @@ Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzie
     reservation_possible=true
     additional_information_url="https://www.cd.cz/en/nase-vlaky/ec-ic/armpee/-27279/"
 %}}
+
 Fernverkehrszüge mit hohem Komfort und Halten nur an wichtigeren Bahnhöfen. Teilweise sind sie mit einem Bordrestaurant oder einer Minibar ausgestattet.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzielle Verbindungen](#čd-kommerzielle-verbindungen-zuschlagspflichtig)).
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
 Eine Reservierung ist für einige Züge erforderlich (siehe [reservierungspflichtige Züge](#züge-mit-reservierungspflicht)).
+
 {{% /train-category %}}
 
 {{% train-category
@@ -133,7 +141,9 @@ Eine Reservierung ist für einige Züge erforderlich (siehe [reservierungspflich
     reservation_possible=true
     additional_information_url="https://www.cd.cz/en/nase-vlaky/rychlik/interpanter/-27301/"
 %}}
+
 Schnellzüge im innertschechischen Verkehr sowie zwischen Praha und Žilina oder Košice. Sie verfügen meist über modernisiertes Wagenmaterial und Zuggastronomie.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -142,13 +152,16 @@ Schnellzüge im innertschechischen Verkehr sowie zwischen Praha und Žilina oder
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.cd.cz/en/nase-vlaky/rychlik/interpanter/-27301/"
 %}}
+
 Schnellzüge im Regional- und Fernverkehr mit häufigeren Halten als Express-Züge. Sie verwenden teilweise älteres Wagenmaterial und verbinden u. a. Prag mit Urlaubsgebieten im Riesen- und Isergebirge sowie Kurorten in Mähren und Westböhmen.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzielle Verbindungen](#čd-kommerzielle-verbindungen-zuschlagspflichtig)).
-{{% /highlight %}}
+{{< /highlight >}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -157,17 +170,20 @@ Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzie
     type="regional"
     fip_accepted=partially
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.cd.cz/en/nase-vlaky/regionalni-vlak-cd/regiopanter/-27532/"
 %}}
+
 Eilzüge im Nahverkehr, die häufig nur über die 2. Klasse verfügen.
 
-{{% highlight important %}}
+{{< highlight important >}}
 In einigen Regionen (z.B. um Pilsen und Brno) gelten keine FIP Vergünstigungen (siehe [Verbindungen der ČD ohne FIP](#verbindungen-der-čd-ohne-fip)).
-{{% /highlight %}}
+{{< /highlight >}}
 
-{{% highlight important %}}
+{{< highlight important >}}
 Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzielle Verbindungen](#čd-kommerzielle-verbindungen-zuschlagspflichtig)).
-{{% /highlight %}}
+{{< /highlight >}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -176,17 +192,20 @@ Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzie
     type="regional"
     fip_accepted=partially
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.cd.cz/en/nase-vlaky/regionalni-vlak-cd/regiopanter/-27532/"
 %}}
+
 Nahverkehrszüge mit Halt an allen Bahnhöfen, die häufig nur über die 2. Klasse verfügen.
 
-{{% highlight important %}}
+{{< highlight important >}}
 In einigen Regionen (z.B. um Pilsen und Brno) gelten keine FIP Vergünstigungen (siehe [Verbindungen der ČD ohne FIP](#verbindungen-der-čd-ohne-fip)).
-{{% /highlight %}}
+{{< /highlight >}}
 
-{{% highlight important %}}
+{{< highlight important >}}
 Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzielle Verbindungen](#čd-kommerzielle-verbindungen-zuschlagspflichtig)).
-{{% /highlight %}}
+{{< /highlight >}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -198,17 +217,19 @@ Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzie
     reservation_possible=true
     route_overview_url="https://www.cd.cz/en/nase-vlaky/nocni-vlaky/-27543/"
 %}}
+
 Nachtzüge verbinden Tschechien mit Deutschland, Östereich, Polen, der Schweiz, der Slowakei und Ungarn. Die Züge bieten Schlaf-, Liege- und Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben.
 
 Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen gebucht werden. Dafür ist ein FIP Freifahrtschein für die Länder/Bahngesellschaften erforderlich, die auf der Reise durchfahren werden. Wenn kein FIP Freifahrtschein genutzt wird, kann ein Ticket zum FIP Globalpreis für die gesamte Strecke erworben werden.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis für Schlaf- und Liegewagen erforderlich. Die einzige Ausnahme besteht, wenn auf dem deutschen Abschnitt der Zug zusätzlich als IC oder EC verkehrt, dann dieser Teil mit Freifahrten der DB nutzbar.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
 Abhängig von Strecke und Auslastung sowie Wagenkategorie.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -219,6 +240,7 @@ Abhängig von Strecke und Auslastung sowie Wagenkategorie.
     reservation_required=true
     reservation_possible=true
 %}}
+
 FIP Freifahrtscheine gelten nicht in Bussen, die von der ČD betrieben werden. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 Für einige Busverbindungen sind vergünstigte FIP Tickets verfügbar:
@@ -229,6 +251,7 @@ Für einige Busverbindungen sind vergünstigte FIP Tickets verfügbar:
 Auf anderen Busverbindungen gelten keine FIP Ermäßigungen.
 
 Ein Ticket (Reservierung verpflichtend) muss spätestens 15 Minuten vor Abfahrt erworben werden. Ticket mit FIP Rabatt sind an ČD Ticketschalter erhältlich. Tickets ohne Rabatt können auch an Fahrkartenautomaten oder im ČD-eShop gekauft werden.
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -248,7 +271,7 @@ Ein Ticket (Reservierung verpflichtend) muss spätestens 15 Minuten vor Abfahrt 
 ### Telefon
 
 {{% booking id="db-phone-fip-db"
-subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien, mit Ticketanteil nur für den tschechischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Tschechien, mit Ticketanteil nur für den tschechischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
 /%}}
 
 ### Vor Ort
@@ -295,74 +318,73 @@ Betroffene Verbindungen im Detail:
 [Vollständige Liste 2026 – Fernzüge ansehen](dialog:commercial-supplement-long-distance)
 
 {{% dialog
-  id="commercial-supplement-long-distance"
-  title="ČD kommerzielle Verbindungen 2026 – Fernzüge"
+    id="commercial-supplement-long-distance"
+    title="ČD kommerzielle Verbindungen 2026 – Fernzüge"
 %}}
-
-| Zugnummer   | Zugname           | Von                    | Nach                 |
+| Zugnummer | Zugname | Von | Nach |
 | ----------- | ----------------- | ---------------------- | -------------------- |
-| EC 112      | Silesia           | Ostrava hl.n.          | Praha hl.n.          |
-| EC 113      | Silesia           | Praha hl.n.            | Ostrava hl.n.        |
-| EC 114      | Cracovia          | Ostrava hl.n.          | Praha hl.n.          |
-| EC 115      | Cracovia          | Praha hl.n.            | Ostrava hl.n.        |
-| EC 116      | Silesia           | Ostrava hl.n.          | Praha hl.n.          |
-| EC 117      | Silesia           | Praha hl.n.            | Ostrava hl.n.        |
-| EC 140      | Ostravan          | Ostrava hl.n.          | Praha hl.n.          |
-| EC 141      | Ostravan          | Praha hl.n.            | Ostrava hl.n.        |
-| EC 142      | Ostravan          | Ostrava hl.n.          | Praha hl.n.          |
-| EC 143      | Ostravan          | Praha hl.n.            | Ostrava hl.n.        |
-| EC 144      | Ostravan          | Ostrava hl.n.          | Praha hl.n.          |
-| EC 145      | Ostravan          | Praha hl.n.            | Ostrava hl.n.        |
-| IC 212      | Comenius          | Petrovice u K.st.hr.   | Bohumín              |
-| IC 213      | Comenius          | Bohumín                | Petrovice u K.st.hr. |
-| IC 216      | Olza              | Petrovice u K.st.hr.   | Bohumín              |
-| IC 217      | Olza              | Bohumín                | Petrovice u K.st.hr. |
-| SC 240      | Pendolino Košičan | Mosty u Jabl.st.hr.    | Praha hl.n.          |
-| SC 241      | Pendolino Košičan | Praha hl.n.            | Mosty u Jabl.st.hr.  |
-| EC 298      | Lanžhot           | st.hr.                 | Praha hl.n.          |
-| EC 299      |                   | Praha hl.n.            | Lanžhot st.hr.       |
-| IC 302      |                   | Bohumín                | Bohumín st.hr.       |
-| IC 303      |                   | Bohumín st.hr.         | Bohumín              |
-| IC 306      |                   | Bohumín                | Bohumín st.hr.       |
-| IC 307      |                   | Bohumín st.hr.         | Bohumín              |
-| R 402       | Wydmy             | Bohumín st.hr.         | Bohumín              |
-| R 403       | Wydmy             | Bohumín                | Bohumín st.hr.       |
-| EN 406      | Chopin            | Břeclav st.hr.         | Bohumín st.hr.       |
-| EN 407      | Chopin            | Bohumín                | Břeclav st.hr.       |
-| EN 416      | Carpatia          | Bohumín                | Bohumín st.hr.       |
-| EN 417      | Carpatia          | Bohumín                | Bohumín              |
-| EN 442      | Slovakia          | Mosty u Jabl.st.hr.    | Praha-Michle auto.   |
-| EN 443      | Slovakia          | Praha-Michle auto.     | Mosty u Jabl.st.hr.  |
-| NJ 456      | nightjet          | Břeclav st.hr.         | Děčín st.hr.         |
-| NJ 457      | nightjet          | Děčín st.hr.           | Břeclav st.hr.       |
-| SC 500      | Pendolino         | Ostrava hl.n.          | Praha hl.n.          |
-| SC 502      | Opavan            | Opava východ           | Praha hl.n.          |
-| SC 503      | Pendolino         | Praha hl.n.            | Ostrava hl.n.        |
-| SC 504      | Pendolino         | Ostrava hl.n.          | Praha hl.n.          |
-| SC 505      | Pendolino         | Praha hl.n.            | Ostrava hl.n.        |
-| SC 506      | Pendolino         | Ostrava hl.n.          | Praha hl.n.          |
-| SC 507      | Pendolino         | Praha hl.n.            | Ostrava hl.n.        |
-| SC 510      | Pendolino         | Bohumín                | Praha hl.n.          |
-| SC 511      | Pendolino         | Praha hl.n.            | Bohumín              |
-| IC 512      | Ostravan          | Bohumín                | Praha hl.n.          |
-| SC 513      | Opavan            | Praha hl.n.            | Opava východ         |
-| IC 515      | Ostravan          | Praha hl.n.            | Bohumín              |
-| SC 516      | Pendolino         | Bohumín                | Praha hl.n.          |
-| SC 517      | Pendolino         | Praha hl.n.            | Bohumín              |
-| IC 546 \*   | Ostravan          | Bohumín                | Ostrava hl.n.        |
-| IC 546      |                   | Ostravan Ostrava hl.n. | Praha hl.n.          |
-| IC 547      | Ostravan          | Praha hl.n.            | Ostrava hl.n.        |
-| IC 547 \*\* | Ostravan          | Ostrava hl.n.          | Bohumín              |
-| IC 548      | Ostravan          | Bohumín                | Praha hl.n.          |
-| IC 549      | Ostravan          | Praha hl.n.            | Bohumín              |
-| IC 594      |                   | Břeclav                | Praha hl.n.          |
-| IC 597      |                   | Praha hl.n.            | Břeclav              |
-| R 642       | Dny NATO          | Mošnov, Ostr.Airport   | Olomouc hl.n.        |
-| R 643       | Dny NATO          | Olomouc hl.n.          | Mošnov, Ostr.Airport |
-| IC 644      | Dny NATO          | Mošnov, Ostr.Airport   | Praha hl.n.          |
-| IC 645      | Dny NATO          | Praha hl.n.            | Mošnov, Ostr.Airport |
-| R 646       | Dny NATO          | Mošnov, Ostr.Airport   | Brno hl.n.           |
-| R 647       | Dny NATO          | Brno hl.n.             | Mošnov, Ostr.Airport |
+| EC 112 | Silesia | Ostrava hl.n. | Praha hl.n. |
+| EC 113 | Silesia | Praha hl.n. | Ostrava hl.n. |
+| EC 114 | Cracovia | Ostrava hl.n. | Praha hl.n. |
+| EC 115 | Cracovia | Praha hl.n. | Ostrava hl.n. |
+| EC 116 | Silesia | Ostrava hl.n. | Praha hl.n. |
+| EC 117 | Silesia | Praha hl.n. | Ostrava hl.n. |
+| EC 140 | Ostravan | Ostrava hl.n. | Praha hl.n. |
+| EC 141 | Ostravan | Praha hl.n. | Ostrava hl.n. |
+| EC 142 | Ostravan | Ostrava hl.n. | Praha hl.n. |
+| EC 143 | Ostravan | Praha hl.n. | Ostrava hl.n. |
+| EC 144 | Ostravan | Ostrava hl.n. | Praha hl.n. |
+| EC 145 | Ostravan | Praha hl.n. | Ostrava hl.n. |
+| IC 212 | Comenius | Petrovice u K.st.hr. | Bohumín |
+| IC 213 | Comenius | Bohumín | Petrovice u K.st.hr. |
+| IC 216 | Olza | Petrovice u K.st.hr. | Bohumín |
+| IC 217 | Olza | Bohumín | Petrovice u K.st.hr. |
+| SC 240 | Pendolino Košičan | Mosty u Jabl.st.hr. | Praha hl.n. |
+| SC 241 | Pendolino Košičan | Praha hl.n. | Mosty u Jabl.st.hr. |
+| EC 298 | Lanžhot | st.hr. | Praha hl.n. |
+| EC 299 | | Praha hl.n. | Lanžhot st.hr. |
+| IC 302 | | Bohumín | Bohumín st.hr. |
+| IC 303 | | Bohumín st.hr. | Bohumín |
+| IC 306 | | Bohumín | Bohumín st.hr. |
+| IC 307 | | Bohumín st.hr. | Bohumín |
+| R 402 | Wydmy | Bohumín st.hr. | Bohumín |
+| R 403 | Wydmy | Bohumín | Bohumín st.hr. |
+| EN 406 | Chopin | Břeclav st.hr. | Bohumín st.hr. |
+| EN 407 | Chopin | Bohumín | Břeclav st.hr. |
+| EN 416 | Carpatia | Bohumín | Bohumín st.hr. |
+| EN 417 | Carpatia | Bohumín | Bohumín |
+| EN 442 | Slovakia | Mosty u Jabl.st.hr. | Praha-Michle auto. |
+| EN 443 | Slovakia | Praha-Michle auto. | Mosty u Jabl.st.hr. |
+| NJ 456 | nightjet | Břeclav st.hr. | Děčín st.hr. |
+| NJ 457 | nightjet | Děčín st.hr. | Břeclav st.hr. |
+| SC 500 | Pendolino | Ostrava hl.n. | Praha hl.n. |
+| SC 502 | Opavan | Opava východ | Praha hl.n. |
+| SC 503 | Pendolino | Praha hl.n. | Ostrava hl.n. |
+| SC 504 | Pendolino | Ostrava hl.n. | Praha hl.n. |
+| SC 505 | Pendolino | Praha hl.n. | Ostrava hl.n. |
+| SC 506 | Pendolino | Ostrava hl.n. | Praha hl.n. |
+| SC 507 | Pendolino | Praha hl.n. | Ostrava hl.n. |
+| SC 510 | Pendolino | Bohumín | Praha hl.n. |
+| SC 511 | Pendolino | Praha hl.n. | Bohumín |
+| IC 512 | Ostravan | Bohumín | Praha hl.n. |
+| SC 513 | Opavan | Praha hl.n. | Opava východ |
+| IC 515 | Ostravan | Praha hl.n. | Bohumín |
+| SC 516 | Pendolino | Bohumín | Praha hl.n. |
+| SC 517 | Pendolino | Praha hl.n. | Bohumín |
+| IC 546 \* | Ostravan | Bohumín | Ostrava hl.n. |
+| IC 546 | | Ostravan Ostrava hl.n. | Praha hl.n. |
+| IC 547 | Ostravan | Praha hl.n. | Ostrava hl.n. |
+| IC 547 \*\* | Ostravan | Ostrava hl.n. | Bohumín |
+| IC 548 | Ostravan | Bohumín | Praha hl.n. |
+| IC 549 | Ostravan | Praha hl.n. | Bohumín |
+| IC 594 | | Břeclav | Praha hl.n. |
+| IC 597 | | Praha hl.n. | Břeclav |
+| R 642 | Dny NATO | Mošnov, Ostr.Airport | Olomouc hl.n. |
+| R 643 | Dny NATO | Olomouc hl.n. | Mošnov, Ostr.Airport |
+| IC 644 | Dny NATO | Mošnov, Ostr.Airport | Praha hl.n. |
+| IC 645 | Dny NATO | Praha hl.n. | Mošnov, Ostr.Airport |
+| R 646 | Dny NATO | Mošnov, Ostr.Airport | Brno hl.n. |
+| R 647 | Dny NATO | Brno hl.n. | Mošnov, Ostr.Airport |
 
 \* IC 546: Kommerzieller Zugverkehr an Sonntagen und am 27.12., 4.4., 2.5., 9.5.; ausgenommen 24.12., 3.4., 1.5, 8.5., 28.10., 17.11. \
 \*\* IC 547: Kommerzieller Zugverkehr an Samstagen und am 24. – 26., 31.12., 3. – 5.4., 1., 8.5., 5.7., 27.9.
@@ -466,15 +488,14 @@ Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Sei
 [Vollständige Liste 2026 – Regionalzüge ansehen](dialog:commercial-supplement-short-distance)
 
 {{% dialog
-  id="commercial-supplement-short-distance"
-  title="ČD kommerzielle Verbindungen 2026 – Regionalzüge"
+    id="commercial-supplement-short-distance"
+    title="ČD kommerzielle Verbindungen 2026 – Regionalzüge"
 %}}
-
-| Linie   | Region                               | Strecke  | Streckenabschnitt und Züge                                                                                                                                                                                                                                                                         |
+| Linie | Region | Strecke | Streckenabschnitt und Züge |
 | ------- | ------------------------------------ | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| P2      | Středočeský (Mittelböhmen)           | 170      | Beroun – Kařez (nur in `Os`)                                                                                                                                                                                                                                                                       |
-| P1 West | Karlovarský (Karlsbad)               | 178, 140 | Chodová Planá – Cheb – Karlovy Vary (in `Sp`)                                                                                                                                                                                                                                                      |
-| S6      | Moravskoslezský (Mährisch-Schlesien) | 323      | Ostrava hl. n. – Frenštát pod Radhoštěm město in `Os`: 3100 (nur Mo – Fr), 3101, 3103 – 3104 (nur Sa – So), 3105 (nur Mo – FR), 3106 – 3133 (nur Sa – So), 3134, 3135, 3136 (nur Mo – Fr), 3137 (nur Sa – So), 3138, 3140 (nur So), 3141, 3142 (nur Sa – So), 3150, 3152 – 3161, 3163 – 3165, 3168 |
+| P2 | Středočeský (Mittelböhmen) | 170 | Beroun – Kařez (nur in `Os`) |
+| P1 West | Karlovarský (Karlsbad) | 178, 140 | Chodová Planá – Cheb – Karlovy Vary (in `Sp`) |
+| S6 | Moravskoslezský (Mährisch-Schlesien) | 323 | Ostrava hl. n. – Frenštát pod Radhoštěm město in `Os`: 3100 (nur Mo – Fr), 3101, 3103 – 3104 (nur Sa – So), 3105 (nur Mo – FR), 3106 – 3133 (nur Sa – So), 3134, 3135, 3136 (nur Mo – Fr), 3137 (nur Sa – So), 3138, 3140 (nur So), 3141, 3142 (nur Sa – So), 3150, 3152 – 3161, 3163 – 3165, 3168 |
 
 Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 17)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf#page=17)
 
@@ -495,14 +516,13 @@ Bedeutungen der Streckennummern sind im [ČD Streckennetz](https://www.spravazel
     id="commercial-supplement-border-crossings"
     title="ČD kommerzielle Verbindungen 2026 – Grenzübergänge"
 %}}
-
-| Typ | Zugnummer(n)               | Streckenabschnitt          |
+| Typ | Zugnummer(n) | Streckenabschnitt |
 | --- | -------------------------- | -------------------------- |
-| Os  | 20980 – 20990              | Vojtanov – Vojtanov Gr.    |
-| Os  | 2206 – 2291                | Znojmo – Unterretzbach Gr. |
-| Os  | 2960 – 2969                | Bohumín – Bohumín Gr.      |
-| Os  | 2300 – 2379; 22300 – 22379 | Břeclav – Břeclav Gr.      |
-| Os  | 320 – 326; 2102 – 2192     | České Velenice – Gmünd Gr. |
+| Os | 20980 – 20990 | Vojtanov – Vojtanov Gr. |
+| Os | 2206 – 2291 | Znojmo – Unterretzbach Gr. |
+| Os | 2960 – 2969 | Bohumín – Bohumín Gr. |
+| Os | 2300 – 2379; 22300 – 22379 | Břeclav – Břeclav Gr. |
+| Os | 320 – 326; 2102 – 2192 | České Velenice – Gmünd Gr. |
 
 Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 15)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf)
 
@@ -546,16 +566,15 @@ FIP Vergünstigungen sind in Regionalzügen in Süd-Mähren (Brno) nicht gültig
     id="no-fip-south-moravia"
     title="ČD Verbindungen ohne FIP 2026 – Süd-Mähren (Brno)"
 %}}
-
-| Linie | Strecke  | Streckenabschnitt und Züge                                                           |
+| Linie | Strecke | Streckenabschnitt und Züge |
 | ----- | -------- | ------------------------------------------------------------------------------------ |
-| S3    | 250, 251 | Křižanov – Brno hl. n. – Hustopeče u Brna; Hrušovany u Brna – Židlochovice — in `Os` |
-| R13   | 251, 252 | Brno hl. n. – Šakvice – Břeclav — in `Sp`: 818, 834–836, 1787–1788, 14671–14674      |
-| S51   | 252      | Šakvice – Břeclav — in `Os`                                                          |
-| S2    | 260      | Letovice – Brno hl. n. – Holubice — in `Sp` und `Os`                                 |
-| S2    | 300      | Holubice – Vyškov na Moravě — in `Os`: 4000, 4037, 4060, 4702, 4755                  |
-| R13   | 330      | Břeclav – Hodonín — in `Sp`: 818, 834–836, 1789                                      |
-| S9    | 330      | Břeclav – Hodonín — in `Os`: 4250–4252, 4255–4264, 4669                              |
+| S3 | 250, 251 | Křižanov – Brno hl. n. – Hustopeče u Brna; Hrušovany u Brna – Židlochovice — in `Os` |
+| R13 | 251, 252 | Brno hl. n. – Šakvice – Břeclav — in `Sp`: 818, 834–836, 1787–1788, 14671–14674 |
+| S51 | 252 | Šakvice – Břeclav — in `Os` |
+| S2 | 260 | Letovice – Brno hl. n. – Holubice — in `Sp` und `Os` |
+| S2 | 300 | Holubice – Vyškov na Moravě — in `Os`: 4000, 4037, 4060, 4702, 4755 |
+| R13 | 330 | Břeclav – Hodonín — in `Sp`: 818, 834–836, 1789 |
+| S9 | 330 | Břeclav – Hodonín — in `Os`: 4250–4252, 4255–4264, 4669 |
 
 FIP Vergünstigungen gelten nur im angegebenen Abschnitt nicht.
 
@@ -665,7 +684,6 @@ FIP Vergünstigungen sind in Regionalzügen der Linien P1 West und P2 im Raum Pi
 FIP Vergünstigungen gelten nur im angegebenen Abschnitt nicht.
 
 Die Liste wird auch von der ČD bereitgestellt: [ČD kommerzielle Zuge 2026 (Seite 18)](https://www.fvc.cz/prilohy/prolongace-2026-vcetne-priloh.pdf#page=18)
-
 {{% /dialog %}}
 
 ### Seilbahnen

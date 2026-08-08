@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "SNCB Ticket Machine"
-description: "Booking information for SNCB ticket machines."
-
+title: SNCB Ticket Machine
+description: Booking information for SNCB ticket machines.
 params:
   fip_50: true
   fip_75: false
   reservations: false
-  type: "machine"
+  type: machine
 ---
 
 {{% booking-section "fip_50" %}}

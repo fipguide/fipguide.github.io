@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "SV"
+title: SV
 country:
-  - "serbia"
-operator: "sv"
+  - serbia
+operator: sv
 ---
 
 Srbija Voz (Србија Воз) est la compagnie ferroviaire nationale de Serbie et exploite la majeure partie du trafic voyageurs dans le pays.
@@ -16,6 +16,7 @@ Srbija Voz (Србија Воз) est la compagnie ferroviaire nationale de Serbi
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les relations de SV. Pour les trajets transfrontaliers, il faut disposer soit d’un billet FIP à tarif réduit direct, soit de Coupons FIP des deux pays.
@@ -65,6 +66,7 @@ Les [coûts des réservations en voiture-couchettes et en voiture-lits](https://
 Pour les réservations en voiture-couchettes ou en voiture-lits, des frais de service supplémentaires de 10 % s’appliquent.[^3]
 
 Les réservations peuvent être effectuées [par téléphone](#par-téléphone).
+
 {{% /train-category %}}
 
 {{% train-category
@@ -123,6 +125,7 @@ Sur certaines relations, les réservations sont obligatoires ; sur d’autres re
     title="BG:VOZ"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -135,6 +138,7 @@ Sous la marque BG:VOZ, SV exploite deux lignes dans l’agglomération de Belgra
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=nil
 %}}
 
@@ -148,8 +152,7 @@ Actuellement, un bus navette entre Novi Sad et Petrovaradin peut toutefois être
 
 ### Par téléphone
 
-{{% booking
-    id="sv-phone"
+{{% booking id="sv-phone"
     subtitle="Réservation de voyages internationaux entre la Serbie et le Monténégro"
 /%}}
 

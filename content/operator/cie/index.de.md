@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "CIE"
+title: CIE
 country:
-  - "ireland"
-operator: "cie"
-
+  - ireland
+operator: cie
 aliases:
   - /booking/irish-rail-ticket-office
   - /booking/irish-rail-website
@@ -23,6 +22,7 @@ Auf ihrer Website bietet Irish Rail eine [Übersichtskarte der Strecken](https:/
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 ## Zugkategorien und Reservierungen
@@ -39,9 +39,9 @@ Auf ihrer Website bietet Irish Rail eine [Übersichtskarte der Strecken](https:/
 
 InterCity-Züge verbinden die wichtigsten Städte Irlands, darunter Dublin, Cork, Galway und Limerick. FIP wird auf allen InterCity-Verbindungen akzeptiert. Zudem wird der Enterprise Service zwischen Dublin und Belfast von InterCity-Zügen bedient. Mehr Informationen zum Enterprise sind auf der [Irland-Seite](/country/ireland#vereinigtes-königreich) zu finden.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Die First Class zwischen Dublin und Cork darf nicht mit FIP genutzt werden. Mehr Informationen zu den Klassenkategorien sind [weiter unten](#klassenkategorien) zu finden.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
@@ -82,6 +82,7 @@ DART (Dublin Area Rapid Transit) ist ein Vorortbahnnetz, das die Vororte von Dub
     title="Bus Éireann"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -94,6 +95,7 @@ FIP ist auf Busverbindungen von Bus Éireann nicht gültig.
     title="Dublin Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=false
 %}}
 

@@ -1,15 +1,15 @@
 ---
 draft: false
-title: "CFR Călători Ticketschalter"
-description: "Buchungsinformationen für die CFR Călători Ticketschalter."
+title: CFR Călători Ticketschalter
+description: Buchungsinformationen für die CFR Călători Ticketschalter.
 params:
   classes:
-    first: "6,5 RON / 4,5 RON"
-    second: "6,5 RON / 4,5 RON"
+    first: 6,5 RON / 4,5 RON
+    second: 6,5 RON / 4,5 RON
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.cfrcalatori.ro/en/services-major-railstations/"
-  type: "onsite"
+  additional_info_link: https://www.cfrcalatori.ro/en/services-major-railstations/
+  type: onsite
 ---
 
 {{% booking-section "fip_50" %}}

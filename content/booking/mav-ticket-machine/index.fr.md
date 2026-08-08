@@ -1,14 +1,14 @@
 ---
 draft: false
-title: "Distributeur de billets MÁV"
-description: "Informations de réservation pour les distributeurs de billets MÁV."
+title: Distributeur de billets MÁV
+description: Informations de réservation pour les distributeurs de billets MÁV.
 params:
   classes:
-    first: "990 HUF"
-    second: "990 HUF"
+    first: 990 HUF
+    second: 990 HUF
   fip_50: true
   reservations: true
-  type: "machine"
+  type: machine
 ---
 
 Les distributeurs de billets MÁV sont disponibles dans de nombreuses gares principales. Les Billets FIP 50 et les réservations pour MÁV et GySEV y sont vendus.

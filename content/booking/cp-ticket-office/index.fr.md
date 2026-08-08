@@ -1,18 +1,16 @@
 ---
 draft: false
-title: "Guichet CP"
-description: "Informations de réservation aux guichets CP."
+title: Guichet CP
+description: Informations de réservation aux guichets CP.
 params:
   classes:
-    # Définissez les classes et les tarifs correspondants aux réservations.
-    # Assurez-vous que chaque classe existe sous `booking.classes` dans i18n.
-    first: "5,00 €"
-    second: "5,00 €"
-  fip_50: true # Indique si les Billets FIP 50 peuvent être réservés via cette plateforme
-  fip_global_fare: true # Indique si les Billets FIP Global Fare peuvent être réservés via cette plateforme
-  reservations: true # Indique si des réservations peuvent être effectuées via cette plateforme
-  additional_info_link: "https://www.cp.pt/info/en/w/ticket-offices" # Ajoutez un lien vers des informations supplémentaires
-  type: "onsite" # Types acceptés : website, onsite, phone, email et machine
+    first: 5,00 €
+    second: 5,00 €
+  fip_50: true
+  fip_global_fare: true
+  reservations: true
+  additional_info_link: https://www.cp.pt/info/en/w/ticket-offices
+  type: onsite
 ---
 
 {{% booking-section "fip_50" %}}
