@@ -34,7 +34,7 @@ module:
     - source: "node_modules/decap-cms/dist"
       target: "static/admin/decap-cms"
   hugoVersion:
-    min: "0.160.1"
+    min: "0.164.0"
 
 related:
   includeNewer: true
