@@ -15,9 +15,9 @@ params:
 
 Les Billets FIP 50 peuvent être achetés aux guichets Trenitalia.
 
-{{% highlight inofficial %}}
+{{< highlight inofficial >}}
 Parfois, les guichets délivrent des billets à des tarifs différents, ce qui peut entraîner des variations de prix. Cependant, aucun problème de contrôle des billets à bord n’a été signalé jusqu’à présent.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -40,8 +40,8 @@ Tarifs différents pour les trains longue distance vers la Suisse/Autriche : par
 {{% /float-image %}}
 {{% /booking-section %}}
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Pour les trajets courts en Le Frecce et autres trains longue distance, le tarif normal est parfois moins cher que les Billets FIP à tarif réduit.
 
 De plus, les suppléments pour Le Frecce et autres trains longue distance peuvent parfois être plus chers qu’un Billet FIP 50.
-{{% /highlight %}}
+{{< /highlight >}}

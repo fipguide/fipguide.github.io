@@ -128,9 +128,9 @@ SBB Panoramic trains via the classic Gotthard route running mid-April to mid-Oct
 
 A special reservation for 24 CHF is required.
 
-{{% highlight important %}}
+{{< highlight important >}}
 These trains are 1st class only. With a 2nd class coupon a 1st class upgrade is necessary. With a 2nd class FIP card there is no discount.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

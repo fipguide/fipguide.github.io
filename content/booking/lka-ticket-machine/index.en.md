@@ -17,9 +17,9 @@ At some stations in Poland, ticket machines are available that also sell tickets
 
 Discounted FIP 50 Tickets can be purchased at the ticket machines. If possible, the discount "FIP (50%)" should be selected. If this is not available, the discount "UMOWA (ulga 50%)" should be selected.
 
-{{% highlight important %}}
+{{< highlight important >}}
 In the past, "UMOWA" was not always the correct option for FIP tickets. If in doubt, ask on-site whether this is indeed the correct fare for FIP tickets.
-{{% /highlight %}}
+{{< /highlight >}}
 
 ## Reservations
 

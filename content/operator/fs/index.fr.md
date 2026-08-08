@@ -45,9 +45,9 @@ La réservation (avec supplément) est obligatoire dans les trains longue distan
 
 Catégorie la plus élevée pour les trains à grande vitesse longue distance. Le Frecciarossa 1000 est signalé pour sa vitesse et son service supérieurs.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Les trains du transporteur privé Italo sont aussi marqués AV mais ne sont pas accessibles avec FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
@@ -68,9 +68,9 @@ Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
 
 Trains à grande vitesse à pendulation.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Les trains du transporteur privé Italo sont aussi marqués AV mais ne sont pas accessibles avec FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
@@ -191,9 +191,9 @@ Le prix de la réservation inclut toujours un supplément lors de l’utilisatio
 
 Trains de nuit internationaux vers l’Allemagne, l’Autriche et la Suisse.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Les voyages gratuits nationaux pour les employés de la Deutsche Bahn ne sont pas reconnus en Allemagne. Si une partie du trajet Nightjet est en Allemagne, les employés DB doivent acheter un billet au Tarif Global FIP pour tout le trajet. Pour les trajets hors Allemagne avec un Coupon FIP, une réservation/supplément est nécessaire.
-{{% /highlight %}}
+{{< /highlight >}}
 
 _Astuce :_ Pour les trajets Allemagne–Italie, utilisez le voyage gratuit national jusqu’à Salzbourg puis prenez le Nightjet pour éviter le Tarif Global FIP.
 
@@ -216,9 +216,9 @@ Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
 
 Trains régionaux rapides desservant les principales gares.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Les billets pour les trains régionaux peuvent être liés à un train spécifique. Voir [Billets liés à un train dans les trains régionaux](#billets-liés-à-un-train-dans-les-trains-régionaux)
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -233,9 +233,9 @@ Les billets pour les trains régionaux peuvent être liés à un train spécifiq
 
 Trains régionaux desservant la plupart des gares.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Les billets pour les trains régionaux peuvent être liés à un train spécifique. Voir [Billets liés à un train dans les trains régionaux](#billets-liés-à-un-train-dans-les-trains-régionaux)
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -250,9 +250,9 @@ Les billets pour les trains régionaux peuvent être liés à un train spécifiq
 
 Réseaux suburbains à Naples (`M`) et Turin (`sfm`).
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Les lignes de métro sont parfois aussi marquées `M` et ne sont pas accessibles avec FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

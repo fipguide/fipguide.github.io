@@ -47,11 +47,11 @@ Zuschläge müssen teilweise für Eurocity Direct und Intercity Direct Züge gez
 
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in den Niederlanden von der NS übernommen werden. Sie verkehren zwischen Amsterdam und Deutschland (Köln / Frankfurt am Main bzw. Hannover / Berlin), können jedoch auch innerhalb der Niederlande zwischen Amsterdam und Arnhem bzw. Hengelo mit FIP Freifahrtschein ohne Aufschlag genutzt werden. Bei FIP 50 Tickets ist jedoch ein Zuschlag erforderlich.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Bei der Nutzung von FIP 50 Tickets im niederländischen Binnenverkehr muss ein [ICE Aufschlag](https://www.ns.nl/en/tickets/ice-supplement) in Höhe von 3 € pro Fahrt gezahlt werden. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich.
 
 Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
@@ -161,9 +161,9 @@ Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle
 
 Regionalzüge mit mehr Halten als beim Intercity, aber trotzdem nur an wichtigeren Stationen.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo – Hamm (Deutschland), Maastricht – Aachen (Deutschland) und Arnhem – Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

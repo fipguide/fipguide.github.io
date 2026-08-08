@@ -47,11 +47,11 @@ Un supplément est partiellement nécessaire pour les trains Eurocity Direct et 
 
 Trains à grande vitesse de la Deutsche Bahn, exploités aux Pays-Bas par NS. Ils circulent entre Amsterdam et l’Allemagne (Cologne / Francfort-sur-le-Main ou Hanovre / Berlin), mais peuvent également être utilisés à l’intérieur des Pays-Bas entre Amsterdam et Arnhem ou Hengelo avec un Coupon FIP sans supplément. Avec un Billet FIP 50, un supplément est toutefois requis.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Lors de l’utilisation de Billets FIP 50 pour des trajets nationaux aux Pays-Bas, un [supplément ICE](https://www.ns.nl/en/tickets/ice-supplement) de 3 € par trajet doit être payé. Aucun supplément n’est requis avec un Coupon FIP.
 
 Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/ice-supplement), via l’application NS ou sur place au guichet ou au distributeur. Sur place, il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Réservations
 
@@ -161,9 +161,9 @@ Contrairement à d’autres pays, il ne s’agit pas de véritables trains longu
 
 Trains régionaux avec plus d’arrêts que les Intercity, mais uniquement dans les gares principales.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les liaisons Venlo – Hamm (Allemagne), Maastricht – Aix-la-Chapelle (Allemagne) et Arnhem – Düsseldorf (Allemagne), ainsi que d’autres liaisons RE, ne sont pas exploités par NS et ne sont pas accessibles avec FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

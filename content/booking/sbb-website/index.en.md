@@ -23,9 +23,9 @@ SBB also offers an [app](https://www.sbb.ch/en/travel-information/apps/sbb-mobil
 
 On the SBB website and app, FIP 50 Tickets can be purchased with the "50% Half Fare" discount, provided they are not a saver ticket, saver day pass, or a special ticket.[^1] This option is actually intended for passengers with a Half Fare subscription (SBB discount card), but is also accepted as a straightforward solution for FIP 50 Tickets. The Half Fare price is usually preselected by default on the SBB website and app.
 
-{{% highlight important %}}
+{{< highlight important >}}
 In urban areas, a ticket with Half Fare discount may also include transport operated by companies that do not accept FIP (e.g., trams or buses). These sections cannot be used with FIP, and the purchased ticket is not valid there without a Half Fare subscription.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

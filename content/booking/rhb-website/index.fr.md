@@ -18,9 +18,9 @@ params:
 
 Sur le site web de RhB, des Billets FIP 50 peuvent être achetés avec la réduction « 50% Demi-tarif », à condition qu'il ne s'agisse pas d'un Billet d'épargne, d'une Carte journalière d'épargne ou d'un Billet spécial.[^1] Cette option est en principe destinée aux voyageurs disposant d'un abonnement Demi-tarif (carte de réduction des CFF), mais elle est aussi acceptée comme solution simple pour les Billets FIP 50. Le tarif Demi-tarif doit être sélectionné lors de la saisie des voyageurs dans le processus de réservation.
 
-{{% highlight important %}}
+{{< highlight important >}}
 En particulier dans les zones urbaines, un Billet avec réduction Demi-tarif peut également comprendre des sections d'exploitants de transports qui n'acceptent pas les FIP (par exemple des tramways ou des bus). Ces sections ne peuvent pas être utilisées avec les FIP et le Billet acheté n'y est pas valable sans un abonnement Demi-tarif.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

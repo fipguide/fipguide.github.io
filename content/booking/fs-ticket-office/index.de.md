@@ -15,9 +15,9 @@ params:
 
 An Trenitalia Fahrkartenschaltern können FIP 50 Fahrkarten erworben werden.
 
-{{% highlight inofficial %}}
+{{< highlight inofficial >}}
 Teilweise werden an Ticketschaltern Tickets zu unterschiedlichen Tarifen ausgestellt, daher können sich die Preise unterscheiden. Daraus resultierende Probleme bei der Ticketkontrolle im Zug sind uns bisher aber nicht bekannt.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -40,8 +40,8 @@ Abweichende Preise für den Fernverkehr Richtung Schweiz/Österreich: z. B. 20�
 {{% /float-image %}}
 {{% /booking-section %}}
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Bei Kurzstrecken im Le Frecce und sonstigen Fernzügen ist der Normaltarif güstiger als FIP reduzierte Tickets.
 
 Zusätzlich können Aufschläge für Le Frecce und sonstige Fernzüge teilweise teurer sein als ein FIP 50 Ticket.
-{{% /highlight %}}
+{{< /highlight >}}

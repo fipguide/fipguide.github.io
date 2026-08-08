@@ -39,12 +39,12 @@ Diese Züge verbinden Athen (Αθήνα) und Thessaloniki (Θεσσαλονίκ�
 
 Reservierungen sind vorab zwingend zu erwerben. Sie können online oder vor Ort gekauft werden.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Die IC-Züge sind häufiger einige Tage vorher ausgebucht. Es empfiehlt sich, sich rechtzeitig um eine Reservierung zu kümmern.
 
 Trick für Reisende mit FIP Freifahrtschein:
 Da online keine einzelnen Reservierungen verfügbar sind, buche zunächst ein FIP 50 Ticket. Dieses ist kostenfrei stornierbar. Vor Ort kannst du prüfen, ob noch Reservierungen verfügbar sind. Falls ja, storniere das FIP 50 Ticket, sonst fahre mit dem FIP 50 Ticket.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -61,9 +61,9 @@ Regionalzüge verbinden Städte und Regionen außerhalb der Hauptachse.
 
 Teilweise werden die Züge als Proastiakos oder Suburban Railway bezeichnet, was vergleichbar mit einer S-Bahn ist. In der Verbindungsauskunft erscheinen diese Verbindungen allerdings ebenfalls als Regionalzüge `REG`.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Touristische Verbindungen wie der Pelion-Train werden in der Verbindung ebenfalls als `REG` gekennzeichnet, allerdings gilt hier kein FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

@@ -362,7 +362,7 @@ collections:
           {{% /booking-section %}}
         editor_components:
           - "image"
-          - "highlight"
+          - "highlight-raw"
           - "expander"
           - "booking-section"
           - "button"

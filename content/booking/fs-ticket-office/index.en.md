@@ -15,9 +15,9 @@ params:
 
 FIP 50 Tickets can be purchased at Trenitalia ticket offices.
 
-{{% highlight inofficial %}}
+{{< highlight inofficial >}}
 Sometimes tickets at ticket offices are issued at different rates, so prices may vary. However, we are not aware of any resulting problems during ticket inspection on board.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -40,8 +40,8 @@ Different prices for long-distance trains to Switzerland/Austria: e.g. €20 Chi
 {{% /float-image %}}
 {{% /booking-section %}}
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 For short journeys on Le Frecce and other long-distance trains, the regular fare is cheaper than FIP reduced tickets.
 
 Additionally, supplements for Le Frecce and other long-distance trains can sometimes be more expensive than a FIP 50 Ticket.
-{{% /highlight %}}
+{{< /highlight >}}

@@ -130,14 +130,14 @@ Some [Nightjet](#nj) services are operated using `IC` coaches. These coaches may
 
 An international express train between Frankfurt and Milan as well as between Munich and Zurich. Since December 2025, the train category is also used for further services between Switzerland and Germany and trains on the Hamburg – Copenhagen route.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Trains to Italy require a surcharge and reservation from the Italian border. It is cheaper to travel to Italy by changing trains in Chiasso ([see Arrival Italy](/country/switzerland#italien "Arrival Italy")). The surcharge can be purchased at DB or SBB ticket offices or on the train.
 
 **Surcharge/Reservation Italy:**
 
 - 1st class: € 13
 - 2nd class: € 11
-  {{% /highlight %}}
+  {{< /highlight >}}
 
 #### Reservations
 
@@ -174,9 +174,9 @@ In the past, there was a reservation requirement for cross-border journeys in su
 
 Night trains of ÖBB in cooperation with DB to various European countries. The trains offer sleeper, couchette, and seating cars and are operated abroad in cooperation with other railway companies.
 
-{{% highlight important %}}
+{{< highlight important >}}
 National free travel for DB employees is not recognized in Germany. If part of the Nightjet journey is in Germany (start, end, or transit), DB employees must purchase a ticket at the FIP Global Fare for the entire route. For journeys outside Germany with FIP Coupon, a reservation/surcharge is required.
-{{% /highlight %}}
+{{< /highlight >}}
 
 **FIP Global Fare:** yes \
 _Tip:_ For journeys from Germany to Italy, use national free travel to Salzburg and board the Nightjet there to avoid the FIP Global Fare.
@@ -210,9 +210,9 @@ Local trains are often operated by other companies that do not accept FIP. In th
 
 Regional express trains connect towns and cities with stops at the main stations. Sometimes the trains also run long-distance routes.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Trains of the `RE` category are often operated by other companies.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -227,9 +227,9 @@ Trains of the `RE` category are often operated by other companies.
 
 Regional trains connect towns and cities with stops at almost all stations.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Trains of the `RB` category are often operated by other companies.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -244,9 +244,9 @@ Trains of the `RB` category are often operated by other companies.
 
 Local trains in large cities and metropolitan regions with stops at all stations.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Trains of the `S` category are often operated by other companies.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

@@ -150,9 +150,9 @@ Ferrovie Autolinee Regionali Ticinesi (FART) exploite, outre quelques lignes d�
 
 Bien que la Centovallibahn mène en Italie, les billets FIP de SP sont valables sur l’ensemble de la ligne, car la section italienne est exploitée par la SSIF, également membre SP du FIP.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Dans certains trains, un supplément de panorama de 1,50 € doit être payé. Les liaisons de train concernées ne sont visibles que [en ligne sur le site de Centovalli](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) et non via le service d’information sur les connexions. Le supplément peut être acheté [en ligne](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) ou sur place dans le train.
-{{% /highlight %}}
+{{< /highlight >}}
 
 FART exploite également deux petits téléphériques. Il n’est pas connu si le FIP est reconnu sur ceux-ci.
 
@@ -251,9 +251,9 @@ Aucune réduction FIP n’est accordée sur les lignes suivantes :
 - Funiculaire Mürren – Allmendhubel (SMA)
 - Téléphérique Stechelberg – Mürren – Schilthorn (LSMS)
 
-{{% highlight inofficial %}}
+{{< highlight inofficial >}}
 Il nous a été signalé que le transport d'équipements de sports d'hiver (ski, snowboard) sur les Jungfraubahn n'est pas possible lors de l'utilisation du FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -503,9 +503,9 @@ Pour le Glacier Express, des réservations payantes doivent être achetées à l
 
 La Schweizerische Südostbahn (SOB) exploite des services réguliers à la fois sur ses propres lignes et sur certaines lignes de la CFF. En coopération avec la CFF, les trains régionaux connus tels que le Voralpen-Express/Treno Gottardo, l’Alpenrhein-Express et l’Aare Linth sont également exploités par la SOB.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Il est à noter que les Coupons FIP ne sont pas valables sur les lignes où la SOB opère en coopération avec la CFF, par exemple entre Bâle CFF et Arth-Goldau. Sur ces itinéraires, seuls les Coupons FIP de la CFF sont valables. En revanche, les billets FIP 50 sont possibles.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Lignes sans coopération CFF (Coupon FIP SP requis)
 
@@ -531,9 +531,9 @@ La Società Subalpina di Imprese Ferroviarie exploite la section italienne de la
 
 Les billets FIP SP sont valables sur l’ensemble de la ligne, y compris la section suisse, car celle-ci est exploitée par la FART, également membre de SP.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Dans certains trains, un supplément de panorama de 1,50 € doit être payé. Les liaisons de train concernées ne sont visibles que [en ligne sur le site de Centovalli](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) et non via le service d’information sur les connexions. Le supplément peut être acheté [en ligne](https://www.vigezzinacentovalli.com/fr/informations/trains-avec-supplement/) ou sur place dans le train.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Réservations
 

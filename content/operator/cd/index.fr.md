@@ -50,9 +50,9 @@ Les trains SuperCity offrent les liaisons les plus rapides sur la ligne Prague �
 
 En 1ère classe, les passagers reçoivent une petite collation ; en 2ᵉ classe, une bouteille d’eau. Des journaux gratuits sont disponibles dans les deux classes. Pendant le trajet, un portail d’information et de divertissement à bord permet de commander des repas et boissons à la place, lire, écouter de la musique, jouer ou regarder des films.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Les trains nécessitent un supplément sur certaines liaisons (voir [Liaisons commerciales ČD](#liaisons-commerciales-čd-supplément-obligatoire)).
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Réservations
 
@@ -82,9 +82,9 @@ Il existe généralement trois classes :
 
 Les trains disposent de matériel moderne de type ÖBB Railjet, mais avec une livrée bleue. Les vélos, poussettes et bagages encombrants sont acceptés. Restauration disponible au wagon-restaurant ou service à la place. En 1ère classe, une bouteille d’eau et un journal sont offerts ; en Business, une boisson de bienvenue et un bon de 50 CZK pour le restaurant (valable uniquement en Tchéquie). Un cinéma pour enfants est disponible.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 À ne pas confondre avec les trains RegioJet, parfois aussi notés `RJ`, qui n’acceptent pas les Billets FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Réservations
 
@@ -104,9 +104,9 @@ La réservation de siège est possible, et obligatoire en Business Class.
 
 Trains internationaux longue distance avec un haut niveau de confort et des horaires cadencés. Les voitures climatisées proviennent de différentes compagnies et incluent souvent un wagon-restaurant.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Les trains nécessitent un supplément sur certaines liaisons (voir [Liaisons commerciales ČD](#liaisons-commerciales-čd-supplément-obligatoire)).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -122,9 +122,9 @@ Les trains nécessitent un supplément sur certaines liaisons (voir [Liaisons co
 
 Trains longue distance confortables, ne s’arrêtant qu’aux principales gares. Certains sont équipés d’un wagon-restaurant ou d’un minibar.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Les trains nécessitent un supplément sur certaines liaisons (voir [Liaisons commerciales ČD](#liaisons-commerciales-čd-supplément-obligatoire)).
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Réservations
 
@@ -158,9 +158,9 @@ Trains rapides en trafic intérieur et entre Prague et Žilina ou Košice. Ils d
 
 Trains rapides en trafic régional et longue distance, avec plus d’arrêts que les trains Express. Ils utilisent parfois du matériel plus ancien et relient Prague à des régions touristiques ou thermales.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Les trains nécessitent un supplément sur certaines liaisons (voir [Liaisons commerciales ČD](#liaisons-commerciales-čd-supplément-obligatoire)).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -176,13 +176,13 @@ Les trains nécessitent un supplément sur certaines liaisons (voir [Liaisons co
 
 Trains semi-rapides en trafic local, souvent uniquement en 2ᵉ classe.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Dans certaines régions (par ex. autour de Pilsen et Brno), les avantages FIP ne sont pas valables (voir [Services ČD sans FIP](#services-čd-sans-fip)).
-{{% /highlight %}}
+{{< /highlight >}}
 
-{{% highlight important %}}
+{{< highlight important >}}
 Les trains nécessitent un supplément sur certaines liaisons (voir [Liaisons commerciales ČD](#liaisons-commerciales-čd-supplément-obligatoire)).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -198,13 +198,13 @@ Les trains nécessitent un supplément sur certaines liaisons (voir [Liaisons co
 
 Trains locaux desservant toutes les gares, souvent uniquement en 2ᵉ classe.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Dans certaines régions (par ex. autour de Pilsen et Brno), les avantages FIP ne sont pas valables (voir [Services ČD sans FIP](#services-čd-sans-fip)).
-{{% /highlight %}}
+{{< /highlight >}}
 
-{{% highlight important %}}
+{{< highlight important >}}
 Les trains nécessitent un supplément sur certaines liaisons (voir [Liaisons commerciales ČD](#liaisons-commerciales-čd-supplément-obligatoire)).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -222,9 +222,9 @@ Les trains de nuit relient la Tchéquie à l’Allemagne, l’Autriche, la Polog
 
 Pour les Nightjet, les réservations/suppléments pour voitures-lits et couchettes sont obligatoires. Un Coupon FIP pour chaque pays/compagnie traversé est nécessaire. Sans Coupon FIP, un billet au Tarif Global FIP pour tout le trajet peut être acheté.
 
-{{% highlight important %}}
+{{< highlight important >}}
 La gratuité nationale pour les employés de la Deutsche Bahn n’est pas reconnue en Allemagne. Si une partie du trajet Nightjet se trouve en Allemagne (départ, arrivée ou transit), les employés DB doivent acheter un billet au Tarif Global FIP pour tout le trajet. Pour les trajets hors Allemagne avec un Coupon FIP, une réservation/supplément pour voitures-lits/couchettes est nécessaire. Exception : si le train circule aussi comme IC ou EC en Allemagne, ce tronçon peut être utilisé avec la gratuité DB.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Réservations
 

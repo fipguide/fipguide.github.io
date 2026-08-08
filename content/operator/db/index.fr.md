@@ -130,14 +130,14 @@ Certains [services Nightjet](#nj) utilisent des voitures Intercity (IC). Ces voi
 
 Train express international entre Francfort et Milan ainsi qu’entre Munich et Zurich. Depuis décembre 2025, la catégorie est aussi utilisée pour d’autres liaisons entre la Suisse et l’Allemagne ainsi que sur de trains sur la route Hambourg – Copenhague.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Les trains vers l’Italie sont soumis à supplément et réservation obligatoire à partir de la frontière italienne. Il est plus avantageux de voyager vers l’Italie avec un changement à Chiasso ([voir Arrivée Italie](/country/switzerland#italien "Arrivée Italie")). Le supplément peut être acheté au guichet DB ou SBB ou à bord.
 
 **Supplément/Réservation Italie :**
 
 - 1ʳᵉ classe : 13€
 - 2ᵉ classe : 11€
-  {{% /highlight %}}
+  {{< /highlight >}}
 
 #### Réservations
 
@@ -174,9 +174,9 @@ Pour les trajets transfrontaliers en été vers la République tchèque, une obl
 
 Trains de nuit de l’ÖBB en coopération avec la DB vers différents pays européens. Les trains proposent des voitures-lits, couchettes et places assises et sont exploités à l’étranger avec d’autres compagnies.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Les trajets nationaux gratuits pour les employés de la Deutsche Bahn ne sont pas reconnus en Allemagne. Si une partie du trajet Nightjet est en Allemagne (départ, arrivée ou transit), les employés de la DB doivent acheter un billet au Tarif Global FIP pour tout le trajet. Pour les trajets hors d’Allemagne avec FIP Coupon, une réservation/supplément est nécessaire.
-{{% /highlight %}}
+{{< /highlight >}}
 
 **Tarif Global FIP :** oui \
 _Astuce :_ Pour les trajets Allemagne - Italie, utiliser les trajets nationaux gratuits jusqu’à Salzbourg puis prendre le Nightjet pour éviter le Tarif Global FIP.
@@ -210,9 +210,9 @@ Une orientation est fournie par les [cartes d’aperçu](https://www.schienennah
 
 Les trains Regionalexpress relient des villes avec des arrêts dans les principales gares. Certains circulent aussi sur de longues distances.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Les trains de la catégorie `RE` sont souvent exploités par d’autres opérateurs.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -227,9 +227,9 @@ Les trains de la catégorie `RE` sont souvent exploités par d’autres opérate
 
 Les trains Regionalbahn relient des villes avec des arrêts dans presque toutes les gares.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Les trains de la catégorie `RB` sont souvent exploités par d’autres opérateurs.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -244,9 +244,9 @@ Les trains de la catégorie `RB` sont souvent exploités par d’autres opérate
 
 Trains de proximité dans les grandes villes et régions métropolitaines avec arrêt à toutes les gares.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Les trains de la catégorie `S` sont souvent exploités par d’autres opérateurs.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

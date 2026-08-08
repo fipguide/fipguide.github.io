@@ -150,9 +150,9 @@ Die Ferrovie autolinee regionali ticinesi (FART) betreibt neben einigen Buslinie
 
 Auch wenn die Centovallibahn nach Italien führt, sind FIP-Tickets der SP auf der kompletten Strecke gültig, da der italienische Abschnitt von der SSIF, ebenfalls SP FIP-Mitglied, betrieben wird.
 
-{{% highlight important %}}
+{{< highlight important >}}
 In einigen Zügen ist ein Panoramaaufschlag in Höhe von 1,50 € zu zahlen. Die betroffenen Zugverbindungen sind nur [Online auf der Centovalli Website](https://www.vigezzinacentovalli.com/de/informationen/zuege-mit-zuschlag/) und nicht über die Verbindungsauskunft einsehbar. Der Zuschlag kann [online](https://www.vigezzinacentovalli.com/de/informationen/zuege-mit-zuschlag/) oder vor Ort im Zug erworben werden.
-{{% /highlight %}}
+{{< /highlight >}}
 
 Außerdem werden von FART zwei Kleinseilbahnen betrieben. Bei diesen ist nicht bekannt, ob hier FIP anerkannt wird.
 
@@ -251,9 +251,9 @@ Auf folgenden Routen werden keine FIP Vergünstigungen gewährt:
 - Seilbahn Mürren – Allmendhubel (SMA)
 - Luftseilbahn Stechelberg – Mürren – Schilthorn (LSMS)
 
-{{% highlight inofficial %}}
+{{< highlight inofficial >}}
 Uns wurde berichtet, dass die Mitnahme von Wintersportausrüstung (Ski, Snowboard) bei den Jungfraubahnen bei der Nutzung von FIP nicht möglich ist.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -503,9 +503,9 @@ Eine Reservierung ist erforderlich für den Glacier Express, siehe [eigener Absc
 
 Die Schweizerische Südostbahn betreibt Linienverkehr sowohl auf eigenen als auch einigen Strecken der SBB. In Kooperation mit der SBB werden auch die überregional bekannten Züge Voralpen-Express/Treno Gottardo, Alpenrhein-Express und der Aare Linth durch die SOB betrieben.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Bei FIP-Vergünstigungen ist zu beachten, dass die Freifahrtscheine für SP nicht auf Strecken gelten, auf denen die SOB in Kooperation mit der SBB verkehrt, so zum Beispiel zwischen Basel SBB und Arth-Goldau. Auf diesen Routen gelten stattdessen nur FIP Freifahrtscheine der SBB. Durchgehende FIP 50 Tickets sind dagegen möglich.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Strecken ohne SBB Kooperation (Freifahrtschein SP erforderlich)
 
@@ -531,9 +531,9 @@ Die Società Subalpina di Imprese Ferroviarie betreibt den italienischen Abschni
 
 FIP-Tickets der SP sind auf der kompletten Strecke gültig, auch auf dem Schweizer Abschnitt, da dieser durch die FART betrieben wird, die ebenfalls Teil von SP ist.
 
-{{% highlight important %}}
+{{< highlight important >}}
 In einigen Zügen ist ein Panoramaaufschlag in Höhe von 1,50 € zu zahlen. Die betroffenen Zugverbindungen sind nur [Online auf der Centovalli Website](https://www.vigezzinacentovalli.com/de/informationen/zuege-mit-zuschlag/) und nicht über die Verbindungsauskunft einsehbar. Der Zuschlag kann [online](https://www.vigezzinacentovalli.com/de/informationen/zuege-mit-zuschlag/) oder vor Ort im Zug erworben werden.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 

@@ -102,11 +102,11 @@ Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in 
 
 Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie halten außerhalb des S-Bahn-Netzes in Kopenhagen an allen Stationen und sind daher eher langsam.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Auch Züge von anderen Anbietern werden als `R` angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist. \
 Züge, die als `RA` gekennzeichnet sind, werden nicht von der DSB betrieben und sind daher nicht mit FIP nutzbar. \
 Züge, die als `RE` gekennzeichnet sind, werden in der Regel von der DSB betrieben.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
