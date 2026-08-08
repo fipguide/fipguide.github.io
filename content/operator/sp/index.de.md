@@ -7,6 +7,7 @@ country:
   - italy
 operator: sp
 ---
+
 In der [Schweiz](/country/switzerland "Schweiz") gibt es neben der Staatsbahn [SBB CFF FFS](/operator/sbb "SBB CFF FFS") und der kleineren BLS auch noch einen Zusammenschluss vieler verschiedener Eisenbahnverkehrsunternehmen, die als _Schweizer Privatbahnen_ zusammengefasst werden. Darunter sind sowohl reguläre Züge im Schweizer Streckennetz, als auch eher touristische Verkehre. Neben Zügen sind hier auch einige Schiffe, Seilbahnen oder Busse zu finden.
 
 ## Zusammenfassung
