@@ -1,8 +1,9 @@
 ---
-date: "2026-08-08"
+date: 2026-08-08
 draft: false
 title: "Modifier soi-même le FIP Guide rapidement et facilement"
-description: "Désormais, les informations peuvent être modifiées rapidement et facilement directement sur le site web sans connaissances préalables."
+description: Désormais, les informations peuvent être modifiées rapidement et
+  facilement directement sur le site web sans connaissances préalables.
 ---
 
 Désormais, les informations peuvent être modifiées rapidement et facilement directement sur le site web sans connaissances techniques préalables. Si vous trouvez une erreur sur une page ou si vous souhaitez mettre à jour des informations, vous pouvez le faire directement sur le site web du FIP Guide. La seule condition requise est un compte GitHub gratuit.
