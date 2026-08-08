@@ -162,9 +162,10 @@ Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle
 Regionalzüge mit mehr Halten als beim Intercity, aber trotzdem nur an wichtigeren Stationen.
 
 {{< highlight confusion >}}
-Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo – Hamm (Deutschland), Maastricht – Aachen (Deutschland) und Arnhem – Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
-{{< /highlight >}}
+Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo – Hamm (Deutschland) und Arnhem – Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
 
+Eine Ausnahme gilt für den Dreiländerzug (Liège-Guillemins – Maastricht – Heerlen – Aachen): Zwischen Maastricht und Liège-Guillemins wird der Zug im Auftrag der NS und SNCB betrieben, NS/SNCB-Tickets einschließlich FIP bleiben gültig. Zwischen Maastricht und Aachen (über Heerlen) wird der Zug von Arriva betrieben und FIP ist nicht gültig.
+{{< /highlight >}}
 {{% /train-category %}}
 
 {{% train-category

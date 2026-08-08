@@ -162,9 +162,10 @@ Unlike in other countries, these are not true long-distance trains, but rather f
 Regional trains with more stops than Intercity, but still only at important stations.
 
 {{< highlight confusion >}}
-Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo – Hamm (Germany), Maastricht – Aachen (Germany), and Arnhem – Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP.
-{{< /highlight >}}
+Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo – Hamm (Germany) and Arnhem – Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP.
 
+An exception applies to the Three-Country Train (Liège-Guillemins – Maastricht – Heerlen – Aachen): between Maastricht and Liège-Guillemins, the train is operated on behalf of NS and SNCB, and NS/SNCB tickets including FIP remain valid. Between Maastricht and Aachen (via Heerlen), the train is operated by Arriva and FIP is not valid.
+{{< /highlight >}}
 {{% /train-category %}}
 
 {{% train-category

@@ -47,6 +47,14 @@ Depuis les Pays-Bas, il est possible d’utiliser les trains régionaux transfro
 
 L’Eurostar (anciennement Thalys) peut également être utilisé depuis les Pays-Bas pour rejoindre le réseau SNCB. Dans ce cas, un Billet FIP spécial Eurostar est nécessaire pour l’ensemble du trajet, y compris en Belgique. ([voir Eurostar](/operator/eurostar "Eurostar"))
 
+#### Train des Trois Pays (Liège – Maastricht – Heerlen – Aix-la-Chapelle)
+
+Depuis juin 2024, Arriva exploite le Train des Trois Pays RE18 entre Aix-la-Chapelle (Allemagne), Heerlen (Pays-Bas), Maastricht (Pays-Bas) et Liège-Guillemins (Belgique). Sur la section entre Liège-Guillemins et Maastricht, le train est exploité pour le compte de la SNCB (section belge) et de la NS (section néerlandaise jusqu’à Maastricht). Les billets SNCB et NS, y compris les titres FIP, sont valables sur cette section.[^4]
+
+{{% highlight important %}}
+Le FIP est valable entre Liège-Guillemins et Maastricht. Au-delà de Maastricht en direction de Heerlen et Aix-la-Chapelle, le train est exploité par Arriva et le FIP n’est pas valable sur cette section.
+{{% /highlight %}}
+
 ### Allemagne
 
 #### Grande vitesse
@@ -88,3 +96,5 @@ Par ailleurs, plusieurs liaisons régionales `TER` existent entre la France et l
 [^2]: [DB Presse : ICE vers l’aéroport de Bruxelles](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Der-ICE-faehrt-zum-Flughafen-Bruessel-neue-Kooperation-von-DB-und-Brussels-Airlines-13703430)
 
 [^3]: [Communauté FIP Guide - Retour d’information](https://discord.com/channels/1250522473188032512/1480609147828441108/1480609147828441108)
+
+[^4]: [Arriva Train des Trois Pays](https://www.arriva.nl/over-je-reis/met-de-trein/de-drielandentrein/)

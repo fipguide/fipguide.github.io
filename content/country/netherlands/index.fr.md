@@ -20,7 +20,7 @@ Aux Pays-Bas, les Billets FIP 50 et les Coupons FIP peuvent être utilisés sur 
 
 Des trains internationaux [Eurostar](/operator/eurostar "Eurostar") circulent également, accessibles avec des billets spéciaux FIP à tarif global. Ces trains apparaissent sous la catégorie `EST` dans les horaires.
 
-D’autres opérateurs, comme Arriva Nederland, ou les trains régionaux transfrontaliers `RE` (Arnhem – Düsseldorf, Venlo – Hamm, Maastricht – Aix-la-Chapelle) n’acceptent pas les Billets FIP. Tous les bus (sauf remplacement rail), trams et métros sont également exclus.
+D’autres opérateurs, comme Arriva Nederland, ou les trains régionaux transfrontaliers `RE` (Arnhem – Düsseldorf, Venlo – Hamm) n’acceptent pas les Billets FIP. Sur le Train des Trois Pays (Maastricht – Heerlen – Aix-la-Chapelle), le FIP est uniquement valable sur la section entre Maastricht et Liège-Guillemins (exploitée pour le compte de la NS et de la SNCB), mais pas entre Maastricht et Aix-la-Chapelle. Tous les bus (sauf remplacement rail), trams et métros sont également exclus.
 
 {{< identify-operator sources="ns-website,db-website" />}}
 
@@ -64,6 +64,14 @@ Sur les lignes `RE` Hamm – Venlo et Düsseldorf – Arnhem, le Deutschlandtick
 Depuis la Belgique, les trains régionaux transfrontaliers (y compris les `IC`) sont utilisables, avec un Billet FIP SNCB pour la partie belge. Les trains grandes lignes (`ECD` et `EC`) exigent parfois un supplément, notamment sur l’axe Rotterdam – Schiphol.
 
 L’Eurostar (anciennement Thalys) permet aussi de rejoindre la Belgique depuis les Pays-Bas. Un Billet FIP spécial Eurostar est alors requis pour tout le trajet, y compris la partie néerlandaise. ([voir Eurostar](/operator/eurostar "Eurostar"))
+
+#### Train des Trois Pays (Liège – Maastricht – Heerlen – Aix-la-Chapelle)
+
+Depuis juin 2024, Arriva exploite le Train des Trois Pays RE18 entre Aix-la-Chapelle (Allemagne), Heerlen (Pays-Bas), Maastricht (Pays-Bas) et Liège-Guillemins (Belgique). Sur la section entre Maastricht et Liège-Guillemins, le train est exploité pour le compte de la NS (section néerlandaise) et de la SNCB (section belge). Les billets NS et SNCB, y compris les titres FIP, sont valables sur cette section.
+
+{{% highlight important %}}
+Le FIP est valable entre Maastricht et Liège-Guillemins. Entre Maastricht et Aix-la-Chapelle (via Heerlen), le train est exploité par Arriva et le FIP n'est pas valable.
+{{% /highlight %}}
 
 ### Royaume-Uni
 

@@ -47,6 +47,14 @@ From the Netherlands, cross-border regional trains (including the `IC`) can be u
 
 The Eurostar (formerly Thalys) can also be used from the Netherlands to reach the SNCB network. Here, a special FIP Ticket from Eurostar is required for the entire section, including within Belgium. ([see Eurostar](/operator/eurostar "Eurostar"))
 
+#### Three-Country Train (Liège – Maastricht – Heerlen – Aachen)
+
+Since June 2024, Arriva operates the Three-Country Train RE18 between Aachen (Germany), Heerlen (Netherlands), Maastricht (Netherlands), and Liège-Guillemins (Belgium). On the section between Liège-Guillemins and Maastricht, the train is operated on behalf of SNCB (Belgian section) and NS (Dutch section up to Maastricht). SNCB and NS tickets, including FIP, are valid on this section.[^4]
+
+{{% highlight important %}}
+FIP is valid between Liège-Guillemins and Maastricht. Beyond Maastricht towards Heerlen and Aachen, the train is operated by Arriva and FIP is not valid on this section.
+{{% /highlight %}}
+
 ### Germany
 
 #### Long-distance
@@ -88,3 +96,5 @@ There are also various `TER` regional train connections from France to Belgium t
 [^2]: [DB Press: ICE to Brussels Airport](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Der-ICE-faehrt-zum-Flughafen-Bruessel-neue-Kooperation-von-DB-und-Brussels-Airlines-13703430)
 
 [^3]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1480609147828441108/1480609147828441108)
+
+[^4]: [Arriva Three-Country Train](https://www.arriva.nl/over-je-reis/met-de-trein/de-drielandentrein/)
