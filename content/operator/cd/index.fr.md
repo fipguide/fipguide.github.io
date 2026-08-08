@@ -294,10 +294,10 @@ Pour un aperçu de la validité, la carte de vue d’ensemble peut être consult
 
 {{% columns %}}
 {{% column width="50%" %}}
-![[Carte de validité FIP vue d’ensemble (vue complète)](/fr/operator/cd/cd-fip-map-overview-26.webp) pour la Tchéquie (© Petr Duda)](cd-fip-map-overview-26.webp)
+![[Carte de validité FIP vue d’ensemble (vue complète)](/en/operator/cd/cd-fip-map-overview-26.webp) pour la Tchéquie (© Petr Duda)](cd-fip-map-overview-26.webp)
 {{% /column %}}
 {{% column width="50%" %}}
-![[Carte de validité FIP détaillée (vue complète)](/fr/operator/cd/cd-fip-map-detail-26.webp) pour la Tchéquie (© Petr Duda)](cd-fip-map-detail-26.webp)
+![[Carte de validité FIP détaillée (vue complète)](/en/operator/cd/cd-fip-map-detail-26.webp) pour la Tchéquie (© Petr Duda)](cd-fip-map-detail-26.webp)
 {{% /column %}}
 {{% /columns %}}
 
