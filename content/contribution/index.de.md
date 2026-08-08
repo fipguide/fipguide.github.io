@@ -4,9 +4,9 @@ title: "Beitragen"
 type: "general/generalinformation"
 ---
 
-Der _FIP Guide_ ist ein Open-Source und ein Community-Projekt. Wenn du Informationen aktualisieren oder hinzufügen möchtest, kannst du dies selbständig tun. Um die Richtigkeit der Informationen sicherzustellen, werden alle Änderungen vom FIP Guide Team überprüft, bevor sie veröffentlicht werden.
+Der _FIP Guide_ ist ein Open-Source und Community-Projekt. Wenn du Informationen aktualisieren oder hinzufügen möchtest, kannst du dies selbständig tun. Um die Richtigkeit der Informationen sicherzustellen, werden alle Änderungen vom FIP Guide Team überprüft, bevor sie veröffentlicht werden.
 
-Seiten können direkt im FIP Guide, über das <a href="https://www.fipguide.org/admin">Content-Management-System (CMS)</a> angepasst werden. Mehr dazu im Abschnitt [Direkt Bearbeiten](#direkt-bearbeiten). Wenn du schon technisches Hintergrundwissen hast, kannst du Änderungen direkt über Github vornehmen, mehr dazu unter [Github Contribution](#github-contribution).
+Seiten können direkt im FIP Guide über das <a href="https://www.fipguide.org/admin">Content-Management-System (CMS)</a> angepasst werden. Mehr dazu im Abschnitt [Direkte Bearbeitung](#direkte-bearbeitung). Wenn du schon technisches Hintergrundwissen hast, kannst du Änderungen direkt über GitHub vornehmen, mehr dazu unter [GitHub Contribution](#github-contribution).
 
 ## Direkte Bearbeitung
 
@@ -22,9 +22,9 @@ Bitte beachte folgende Punkte bei der Bearbeitung:
   width="30%"
   position="left"
 %}}
-Um dich im FIP Guide CMS anzumelden, benötigst du einen kostenlosen [Github](https://github.com/) Account. GitHub gehört zu Microsoft und ist eine Plattform zur Collaboration in Open-Source-Projekten. Den Github Account kannst du einfach auf der [Github Website](https://github.com/) erstellen.
+Um dich im FIP Guide CMS anzumelden, benötigst du einen kostenlosen [GitHub](https://github.com/) Account. GitHub gehört zu Microsoft und ist eine Plattform zur Kollaboration in Open-Source-Projekten. Den GitHub Account kannst du einfach auf der [GitHub Website](https://github.com/) erstellen.
 
-Im CMS kann sich mit diesem Github Account angemeldet werden. Während der Anmeldung muss die Nutzung mit "Authorize" bestätigt werden.
+Im CMS kann sich mit diesem GitHub Account angemeldet werden. Während der Anmeldung muss die Nutzung mit "Authorize" bestätigt werden.
 {{% /float-image %}}
 
 {{% highlight important %}}
@@ -33,7 +33,7 @@ Bei der erstmaligen Anmeldung wird gefragt, ob ein sogenannter _Fork_ erstellt w
 
 ### Seiten öffnen
 
-Auf der <a href="https://www.fipguide.org/admin">Startseite</a> des FIP Guide CMS kann im linken Menü die Seitenkategorie ausgewählt werden und anschließend in der Mitte die gewünschte Seite geöffnet oder eine neue Seite erstellt werden.
+Auf der <a href="https://www.fipguide.org/admin">Startseite</a> des FIP Guide CMS kann im linken Menü die Seitenkategorie ausgewählt und anschließend in der Mitte die gewünschte Seite geöffnet oder eine neue Seite erstellt werden.
 
 ![FIP Guide CMS Startseite](startpage.webp)
 
@@ -60,7 +60,7 @@ In der Bearbeitungsansicht kann die entsprechende Seite aktualisiert werden. Der
 {{% /float-image %}}
 
 {{% highlight tip %}}
-Wenn du möchtest kannst selbstständig alle Sprachen der Seite aktualisieren. Das ist jedoch nicht unbedingt notwendig. Du kannst auch Informationen nur in einer Sprache aktualisiere. Das FIP Guide Team wird die Änderungen überprüfen und anschließend die Informationen in allen Sprachen aktualisieren.
+Wenn du möchtest, kannst du selbstständig alle Sprachen der Seite aktualisieren. Das ist jedoch nicht unbedingt notwendig. Du kannst auch Informationen nur in einer Sprache aktualisieren. Das FIP Guide Team wird die Änderungen überprüfen und anschließend die Informationen in allen Sprachen aktualisieren.
 {{% /highlight %}}
 
 {{% float-image
@@ -80,7 +80,7 @@ Wenn du möchtest kannst selbstständig alle Sprachen der Seite aktualisieren. D
   width="50%"
   position="right"
 %}}
-Wenn du deine Arbeiten unterbrechen und speichern möchtest, kannst du dies über den _Save_ Button tun. Die Änderungen werden dann im CMS gespeichert damit du sie später weiter bearbeiten kannst, jedoch noch nicht veröffentlicht.
+Wenn du deine Arbeiten unterbrechen und speichern möchtest, kannst du dies über den _Save_ Button tun. Die Änderungen werden dann im CMS gespeichert, damit du sie später weiter bearbeiten kannst, jedoch noch nicht veröffentlicht.
 {{% /float-image %}}
 
 {{% float-image
@@ -89,10 +89,10 @@ Wenn du deine Arbeiten unterbrechen und speichern möchtest, kannst du dies übe
   width="40%"
   position="left"
 %}}
-Wenn du deine Änderungen veröffentlichen möchtest, kannst du den Status der Seite auf _Review_ setzen. Das FIP Guide Team wird die Änderungen überprüfen und anschließend veröffentlichen. Solange die Änderungen nicht veröffentlich wurden, können die Seiten jederzeit bearbeitet werden.
+Wenn du deine Änderungen veröffentlichen möchtest, kannst du den Status der Seite auf _Review_ setzen. Das FIP Guide Team wird die Änderungen überprüfen und anschließend veröffentlichen. Solange die Änderungen nicht veröffentlicht wurden, können die Seiten jederzeit bearbeitet werden.
 {{% /float-image %}}
 
-Jede Änderung die im Status _Review_ gesetzt wurde, ist auf Github sichtbar: [FIP Guide Github Änderung (Pull Requests)](https://github.com/fipguide/fipguide.github.io/pulls). Hier ist auch deine Änderung sichtbar und es können Kommentare zur Änderung hinterlassen werden. Das FIP Guide Team prüft die Änderungen und stellt bei Bedarf über die Kommentarfunktion Rückfragen.
+Jede Änderung, die in den Status _Review_ gesetzt wurde, ist auf GitHub sichtbar: [FIP Guide GitHub Änderungen (Pull Requests)](https://github.com/fipguide/fipguide.github.io/pulls). Hier ist auch deine Anpassung sichtbar und es können Kommentare zur Änderung hinterlassen werden. Das FIP Guide Team prüft die Änderungen und stellt bei Bedarf über die Kommentarfunktion Rückfragen.
 
 ### Arbeit fortsetzen / Überblick über Änderungen
 
@@ -104,9 +104,9 @@ Jede Änderung die im Status _Review_ gesetzt wurde, ist auf Github sichtbar: [F
 %}}
 Wenn du deine Arbeit an einer Seite gespeichert hast und fortsetzen willst oder einen Überblick über den Status all deiner Änderungen haben möchtest, kannst du dies über den Menüpunkt _Workflow_ tun.
 
-- **Draft:** Änderungen an denen noch gearbeitet wird, die noch nicht bereit zum Review sind.
-- **Review:** Änderungen die vom FIP Guide Team überprüft werden.
-- **Ready:** Änderungen die vom FIP Guide Team überprüft wurden und in Kürze veröffentlicht werden.
+- **Draft:** Änderungen, an denen noch gearbeitet wird und noch nicht bereit zum Review sind.
+- **Review:** Änderungen, die vom FIP Guide Team überprüft werden.
+- **Ready:** Änderungen, die vom FIP Guide Team überprüft wurden und in Kürze veröffentlicht werden.
   {{% /float-image %}}
 
 ### Preview
@@ -126,10 +126,10 @@ Das Erzeugen der Preview kann 5-10 Minuten in Anspruch nehmen!
 
 Über _Check for Preview_ kann geprüft werden, ob die Preview bereits erzeugt wurde. Die Preview wird bei jeder Anpassung neu erzeugt, bleibt aber bestehen, wenn die Änderungen zu einem späteren Zeitpunkt fortgesetzt werden.
 
-## Github Contribution
+## GitHub Contribution
 
-Der FIP Guide nutzt den Static Website Generator [_Hugo_](https://gohugo.io/) zum Erstellen der Website. Die Seite kann direkt in [Github](https://github.com/fipguide/fipguide.github.io/) über die Web-IDE oder deine lokale Entwicklungsumgebung bearbeitet werden. Weitere Informationen und Hilfe sind im [Github Wiki](https://github.com/fipguide/fipguide.github.io/wiki) und [Contribution-Guide](https://github.com/fipguide/fipguide.github.io/blob/main/CONTRIBUTING.md) verfügbar.
+Der FIP Guide nutzt den Static Website Generator [_Hugo_](https://gohugo.io/) zum Erstellen der Website. Die Seite kann direkt in [GitHub](https://github.com/fipguide/fipguide.github.io/) über die Web-IDE oder deine lokale Entwicklungsumgebung bearbeitet werden. Weitere Informationen und Hilfe sind im [GitHub Wiki](https://github.com/fipguide/fipguide.github.io/wiki) und [Contribution-Guide](https://github.com/fipguide/fipguide.github.io/blob/main/CONTRIBUTING.md) verfügbar.
 
 ## Unterstützung
 
-Wenn du Hilfe bei der Bearbeitung benötigst kannst du dich jederzeit per Mail oder oder über die FIP Guide Community bei uns melden. Weite Informationen dazu findest du auf der [Kontakt-Seite](/contact)
+Wenn du Hilfe bei der Bearbeitung benötigst, kannst du dich jederzeit per Mail oder über die FIP Guide Community bei uns melden. Weitere Informationen dazu findest du auf der [Kontakt-Seite](/contact).
