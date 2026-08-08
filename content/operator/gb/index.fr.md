@@ -127,9 +127,9 @@ La Elizabeth Line propose des liaisons suburbaines continues d’est en ouest à
 
 Il n’y a pas de guichets entre Abbey Wood et Canary Wharf où les Billets FIP 50 peuvent être achetés.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Certaines stations de la Elizabeth Line sont aussi desservies par le métro londonien. Les portiques de ces stations sont souvent surveillés par du personnel TfL. Pour éviter toute confusion, il convient de préciser l’utilisation de la Elizabeth Line lors de la présentation du Coupon FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -206,9 +206,9 @@ GWR exploite aussi un train de nuit de Londres à Penzance – le Night Riviera 
 
 La réservation pour ce train ne peut pas se faire en ligne.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Réservation obligatoire pour le Night Riviera Sleeper.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -494,9 +494,9 @@ Elle peut servir d’orientation ; toutefois, les offres individuelles doivent �
 | THAMES ROVER 7 DAYS         | TR7        | I367 | 60.50  | X      |
 | Waterside Wander Ranger     | WRR        | I437 | 6.75   | X      |
 
-{{% highlight important %}}
+{{< highlight important >}}
 FOSW ROVER 8 IN 15 DAYS est plus cher avec FIP 75.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /expander %}}
 

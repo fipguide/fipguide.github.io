@@ -39,12 +39,12 @@ Ces trains relient Athènes (Αθήνα) et Thessalonique (Θεσσαλονίκ�
 
 Les réservations doivent être obtenues à l’avance. Elles peuvent être achetées en ligne ou en gare.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Les trains IC sont souvent complets quelques jours à l’avance. Il est conseillé de s’occuper de la réservation suffisamment tôt.
 
 Astuce pour les voyageurs avec un Coupon FIP :
 Comme les réservations individuelles ne sont pas disponibles en ligne, réservez d’abord un Billet FIP 50. Celui-ci peut être annulé gratuitement. Sur place, vous pouvez vérifier si des réservations sont encore disponibles. Si oui, annulez le Billet FIP 50 ; sinon, voyagez avec le Billet FIP 50.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -61,9 +61,9 @@ Les trains régionaux relient les villes et régions en dehors de l’axe princi
 
 Certains trains sont désignés sous le nom de Proastiakos ou Suburban Railway, ce qui est comparable à un S-Bahn. Dans le planificateur de voyage, ces services apparaissent également comme trains régionaux `REG`.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Les services touristiques comme le Pelion Train sont également indiqués comme `REG` dans le planificateur de voyage, mais le FIP n’y est pas valable.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

@@ -57,7 +57,7 @@ In step 3, search for connections. The discount card is automatically taken into
 After selecting the connection, make sure that "FIP Leisure" is listed as the fare. If this is not the case, it is a public fare with the corresponding cancellation conditions.
 {{% /float-image %}}
 
-{{% highlight "important" %}}
+{{< highlight "important" >}}
 If the journey starts or ends in Germany, no booking fee is charged. In all other cases, a booking fee of 8 % is charged.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}

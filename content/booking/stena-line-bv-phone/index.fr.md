@@ -39,9 +39,9 @@ Les billets FIP 50 peuvent être réservés.
 
 Les réservations de cabine sont disponibles et obligatoires pour les traversées de nuit.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Pour les réservations, le numéro du Coupon FIP Stena Line BV qui doit être utilisé pour le voyage est également requis. Une réservation n’est donc possible que lorsque le Coupon FIP est disponible.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% satellite /%}}

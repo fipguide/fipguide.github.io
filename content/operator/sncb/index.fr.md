@@ -75,9 +75,9 @@ Contrairement à d’autres pays, il ne s’agit pas de véritables trains longu
 
 Train international entre Lelystad, Amsterdam et Bruxelles avec arrêts à Almere, Schiphol, Rotterdam et Anvers.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Pour les trajets aux Pays-Bas, des règles spéciales s’appliquent, voir [NS ECD](/operator/ns#ecd)
-{{% /highlight %}}
+{{< /highlight >}}
 
 ![Réseau Eurocity (Direct)](eurocity-map.fr.svg)
 
@@ -211,6 +211,14 @@ Jusqu’à quatre enfants de moins de 12 ans voyagent gratuitement lorsqu’ils 
 
 ## Conditions tarifaires spéciales
 
+### Train des Trois Pays (Liège – Maastricht – Heerlen – Aix-la-Chapelle)
+
+Depuis juin 2024, Arriva exploite le Train des Trois Pays entre Aix-la-Chapelle (Allemagne), Heerlen (Pays-Bas), Maastricht (Pays-Bas) et Liège-Guillemins (Belgique). Sur la section entre Liège-Guillemins et Maastricht, le train est exploité pour le compte de la SNCB (section belge) et de la NS (section néerlandaise jusqu'à Maastricht). Les billets SNCB et NS, y compris les titres FIP, restent valables sur cette section.[^8]
+
+{{% highlight important %}}
+Le FIP est valable entre Liège-Guillemins et Maastricht. Au-delà de Maastricht en direction de Heerlen et Aix-la-Chapelle, le train est exploité par Arriva et le FIP n'est pas valable sur cette section.
+{{% /highlight %}}
+
 ### Aéroport de Bruxelles-Zaventem
 
 Un supplément de 7,10 € est requis pour les trajets à destination ou en provenance de l’aéroport, même avec un Coupon FIP, même si le message _"Pas de supplément requis"_ figure sur le billet. [^1] Ce supplément est inclus dans le prix d’un Billet FIP 50 / FIP 75, sauf si le billet a été acheté à un distributeur automatique. [^2] [Plus d’infos sur le supplément SNCB](https://www.belgiantrain.be/fr/tickets-and-railcards/airports/brussels-airport)
@@ -240,3 +248,5 @@ Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus
 [^6]: [Rail Delivery Group -- Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)
 
 [^7]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470491831987998771)
+
+[^8]: [Arriva Train des Trois Pays](https://www.arriva.nl/over-je-reis/met-de-trein/de-drielandentrein/)

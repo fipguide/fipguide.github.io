@@ -127,9 +127,9 @@ Die Elizabeth Line bietet durchgehende S-Bahn-Verbindungen von Ost- nach West-Lo
 
 Es gibt keine Ticketschalter zwischen Abbey Wood und Canary Wharf, bei denen FIP 50 Tickets erworben werden können.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Von den Stationen der Elizabeth Line verkehren teilweise auch Linien der London Underground. Die Ticketschranken sind an diesen Stationen oftmals mit TfL-Personal besetzt. Um Verwirrungen vorzubeugen, sollte beim Vorzeigen des Freifahrtscheins die Nutzung der Elizabeth Line erwähnt werden.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -206,9 +206,9 @@ GWR betreibt auch einen Nachtzug von London nach Penzance – den reservierungsp
 
 Eine Reservierung für den Zug kann nicht online vorgenommen werden.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Im Night Riviera Sleeper besteht Reservierungspflicht.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

@@ -60,7 +60,7 @@ Le prix du billet régulier est alors réduit de 50 %.
 Pour les services nécessitant une réservation, une réservation est ajoutée gratuitement. Le siège peut optionnellement être choisi en sélectionnant l’option « Choose seat ».
 {{% /float-image %}}
 
-{{% highlight inofficial %}}
+{{< highlight inofficial >}}
 Lors de l'achat d'un billet via l'application Hellenic Train, le message suivant peut s'afficher :
 
 _« L'achat a bien été effectué, mais une erreur s'est produite lors de l'envoi de l'e-mail. Vous pouvez récupérer votre billet en accédant à votre compte client ou, si vous avez effectué l'achat sans vous connecter, via la fonction « Récupérer le billet » en utilisant votre numéro de réservation (PNR)/code de billet et votre adresse e-mail, ou votre PNR et votre code de confirmation (CP). »_
@@ -70,7 +70,7 @@ Cette erreur se produit que l'utilisateur soit connecté ou non ; dans les deux
 Pour résoudre ce problème, un outil non officiel permet d'afficher les informations du billet. Il est disponible sur GitHub à l'adresse suivante :
 
 https://github.com/MartinLangbecker/bookmarklets/tree/main/hellenic_train
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

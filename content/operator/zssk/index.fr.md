@@ -80,9 +80,9 @@ Trains longue distance transfrontaliers exploités commercialement par ZSSK et C
 
 Trains transfrontaliers entre la Slovaquie et la République tchèque, l’Autriche ou la Hongrie. Ils circulent souvent avec peu d’arrêts et une vitesse moyenne relativement élevée. Les trains `RJ` sont des Railjet des chemins de fer autrichiens, utilisables avec les coupons ZSSK sur la section slovaque.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `RJ` est aussi l’abréviation de RegioJet, où les Billets FIP ne sont pas valables.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Réservations
 

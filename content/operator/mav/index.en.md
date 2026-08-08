@@ -41,9 +41,9 @@ International long-distance trains in cooperation with ÖBB and other partner ra
 
 Business Class is not available for domestic journeys within Hungary. For international journeys, Business Class can be used with a 1st-class FIP Coupon pass or FIP 50 ticket; a supplement of € 22 applies.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `RJ` can also stand for RegioJet. FIP tickets for MÁV are not valid on RegioJet trains.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
@@ -62,9 +62,9 @@ Seat reservations are mandatory for domestic traffic, optional for international
 
 National express trains with 2nd class passenger cars, some also with 1st class and premium class 1+ cars. Occasionally [restaurant cars](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) and/or [bistro cars](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-bistro-cars) are carried.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `IC` trains in Hungary are sometimes also operated by [GySEV](/operator/gysev#ic).
-{{% /highlight %}}
+{{< /highlight >}}
 
 There are sometimes up to three car classes:
 
@@ -175,9 +175,9 @@ In connection information systems outside of MÁV, the trains may be listed as `
 
 Classic regional trains that stop at all intermediate stations.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `SZ` trains in Hungary are sometimes also operated by [GySEV](/operator/gysev#sz).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

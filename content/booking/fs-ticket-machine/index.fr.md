@@ -33,8 +33,8 @@ Sur l’écran d’accueil du distributeur, sélectionnez "Buy your tickets / Sp
 {.o-section--columns-flex}
 {{% /booking-section %}}
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Pour les courtes distances sur Le Frecce, le tarif normal peut être moins cher que les Billets FIP réduits.
 
 De plus, les suppléments pour Le Frecce et autres trains longue distance peuvent parfois être plus chers qu’un Billet FIP 50.
-{{% /highlight %}}
+{{< /highlight >}}

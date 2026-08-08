@@ -50,9 +50,9 @@ SuperCity trains offer the fastest connections on the Prague – Pardubice – O
 
 In 1st class, passengers receive a small refreshment; in 2nd class, a bottle of water. Free newspapers are available in both classes. During the journey, an on-board entertainment and information portal is available, allowing passengers to order food and drinks to their seat, read books, listen to music, play games, or watch movies.
 
-{{% highlight important %}}
+{{< highlight important >}}
 The trains require a surcharge on some services (see [ČD commercial services](#čd-commercial-services-surcharge-required)).
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
@@ -82,9 +82,9 @@ There are usually three classes:
 
 The trains feature modern rolling stock in the ÖBB Railjet style, but with blue exterior. Bicycles, prams, and other bulky luggage can be taken on board. Food and drinks are available in the restaurant car or via at-seat service. In 1st class, passengers receive a free bottle of water and a newspaper; in Business Class, additionally a welcome drink and a 50 CZK voucher for the restaurant (within Czechia only). For children, there is a dedicated children's cinema.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Not to be confused with RegioJet trains, which are sometimes also marked as `RJ`. This private operator does not accept FIP Tickets.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
@@ -104,9 +104,9 @@ Seat reservations are possible, and mandatory in Business Class.
 
 International long-distance trains with high comfort and regular-interval service. The air-conditioned coaches come from various railway companies and often include a popular restaurant car.
 
-{{% highlight important %}}
+{{< highlight important >}}
 The trains require a surcharge on some services (see [ČD commercial services](#čd-commercial-services-surcharge-required)).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -122,9 +122,9 @@ The trains require a surcharge on some services (see [ČD commercial services](#
 
 Long-distance trains with high comfort, stopping only at major stations. Some are equipped with a restaurant car or minibar.
 
-{{% highlight important %}}
+{{< highlight important >}}
 The trains require a surcharge on some services (see [ČD commercial services](#čd-commercial-services-surcharge-required)).
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
@@ -158,9 +158,9 @@ Fast trains in domestic traffic and between Prague and Žilina or Košice. They 
 
 Fast trains in regional and long-distance traffic with more frequent stops than Express trains. They sometimes use older rolling stock and connect Prague with holiday regions in the Giant and Jizera Mountains as well as spa towns in Moravia and West Bohemia.
 
-{{% highlight important %}}
+{{< highlight important >}}
 The trains require a surcharge on some services (see [ČD commercial services](#čd-commercial-services-surcharge-required)).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -176,13 +176,13 @@ The trains require a surcharge on some services (see [ČD commercial services](#
 
 Semi-fast trains in local traffic, often only with 2nd class.
 
-{{% highlight important %}}
+{{< highlight important >}}
 In some regions (e.g. around Pilsen and Brno), FIP benefits are not valid (see [ČD services without FIP](#čd-services-without-fip)).
-{{% /highlight %}}
+{{< /highlight >}}
 
-{{% highlight important %}}
+{{< highlight important >}}
 The trains require a surcharge on some services (see [ČD commercial services](#čd-commercial-services-surcharge-required)).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -198,13 +198,13 @@ The trains require a surcharge on some services (see [ČD commercial services](#
 
 Local trains stopping at all stations, often only with 2nd class.
 
-{{% highlight important %}}
+{{< highlight important >}}
 In some regions (e.g. around Pilsen and Brno), FIP benefits are not valid (see [ČD services without FIP](#čd-services-without-fip)).
-{{% /highlight %}}
+{{< /highlight >}}
 
-{{% highlight important %}}
+{{< highlight important >}}
 The trains require a surcharge on some services (see [ČD commercial services](#čd-commercial-services-surcharge-required)).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -222,9 +222,9 @@ Night trains connect Czechia with Germany, Austria, Poland, Switzerland, Slovaki
 
 For Nightjet trains, reservations/supplements for sleeping and couchette cars can be booked. For this, an FIP Coupon for the countries/railways being travelled through is required. If no FIP Coupon is used, a ticket at the FIP Global Fare for the entire route can be purchased.
 
-{{% highlight important %}}
+{{< highlight important >}}
 National free travel for Deutsche Bahn employees is not recognized in Germany. If any part of the Nightjet journey is in Germany (start, end, or transit), DB employees must purchase a ticket at the FIP Global Fare for the entire route. For journeys outside Germany with an FIP Coupon, a reservation/supplement for sleeping and couchette cars is required. The only exception is if the train also operates as an IC or EC on the German section, then this part can be used with DB free travel.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 

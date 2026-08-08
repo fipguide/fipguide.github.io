@@ -150,9 +150,9 @@ The Ferrovie Autolinee Regionali Ticinesi (FART) operates, in addition to severa
 
 Even though the Centovallibahn leads to Italy, FIP tickets from SP are valid for the entire route, as the Italian section is operated by SSIF, which is also a member of SP FIP.
 
-{{% highlight important %}}
+{{< highlight important >}}
 In some trains, a panorama surcharge of €1.50 must be paid. The affected train connections can only be viewed [online on the Centovalli website](https://www.vigezzinacentovalli.com/en/information/trains-with-supplement/) and not through the connection information. The surcharge can be purchased [online](https://www.vigezzinacentovalli.com/en/information/trains-with-supplement/) or on-site in the train.
-{{% /highlight %}}
+{{< /highlight >}}
 
 Additionally, FART operates two small cable cars. It is not known whether FIP is accepted here.
 
@@ -251,11 +251,11 @@ No FIP discounts are granted on the following routes:
 - Mürren – Allmendhubel funicular (SMA)
 - Stechelberg – Mürren – Schilthorn aerial cableway (LSMS)
 
-{{% highlight inofficial %}}
+{{< highlight inofficial >}}
 The use of Jungfrau railways with FIP is only intended for public local transport.
 
 We have been informed that FIP cannot be used when traveling with winter sports equipment. The background is that FIP should not be used as a ski pass. We are not aware of any official tariff regulations on this. FIP can be used for travel to and from the ski resort, provided the line is covered by FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -505,9 +505,9 @@ A reservation is required for the Glacier Express; see the [dedicated section](#
 
 The Schweizerische Südostbahn (SOB) operates scheduled services on both its own lines and some SBB routes. In cooperation with SBB, SOB also operates the internationally known trains Voralpen-Express/Treno Gottardo, Alpenrhein-Express, and the Aare Linth.
 
-{{% highlight important %}}
+{{< highlight important >}}
 When using FIP discounts, note that SP Coupons are not valid on routes where SOB operates in cooperation with SBB, for example between Basel SBB and Arth-Goldau. On these routes, only SBB FIP Coupons are valid instead. However, continuous FIP 50 Tickets are possible.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Routes without SBB cooperation (SP Coupon required)
 
@@ -533,9 +533,9 @@ Società Subalpina di Imprese Ferroviarie operates the Italian section of the Ce
 
 SP FIP tickets are valid on the entire route, including the Swiss section, as this is operated by FART, which is also part of SP.
 
-{{% highlight important %}}
+{{< highlight important >}}
 In some trains, a panorama surcharge of €1.50 must be paid. The affected train connections can only be viewed [online on the Centovalli website](https://www.vigezzinacentovalli.com/en/information/trains-with-supplement/) and not through the connection information. The surcharge can be purchased [online](https://www.vigezzinacentovalli.com/en/information/trains-with-supplement/) or on-site in the train.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 

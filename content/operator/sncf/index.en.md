@@ -54,13 +54,13 @@ Reservations are mandatory on all `TGV`, almost all `IC` trains, and some region
 
 The `TGV` inOui is SNCF Voyageurs's high-speed train, connecting many cities in France and international destinations (e.g. Munich, Frankfurt am Main, Barcelona, Luxembourg, Brussels, Milan). Additionally, `TGV` Lyria trains run from France to Switzerland (Basel, Zurich, Lausanne, Geneva).
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 SNCF also operates low-cost long-distance trains under the OUIGO brand, but these are not valid with FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
-{{% highlight important %}}
+{{< highlight important >}}
 Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
@@ -84,9 +84,9 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 
 OUIGO (Grande Vitesse) is SNCF's low-cost high-speed train connecting numerous cities in France and some international destinations. There are also OUIGO Classique trains composed of conventional coaching stock.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 SNCF also operates `TGV` trains under the inOui brand, which are valid with FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -101,9 +101,9 @@ SNCF also operates `TGV` trains under the inOui brand, which are valid with FIP.
 
 International high-speed trains operated by SNCF in cooperation with Deutsche Bahn, running between France (Paris Est, Strasbourg) and Germany (Karlsruhe, Mannheim, Frankfurt am Main, Erfurt, Halle (Saale) and Berlin or Stuttgart and Munich). In July and August, there are also [direct trains between Frankfurt (Main) and Bordeaux on Saturdays](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux).
 
-{{% highlight important %}}
+{{< highlight important >}}
 Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
@@ -172,9 +172,9 @@ Cost depends on route and occupancy.
 `TER` is SNCF's regional train, connecting various cities in France.
 Some lines from Paris require reservations, see [Reservation requirement in regional trains](#reservation-requirement-in-regional-trains).
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 On the Marseille – Nice route, Transdev operates the trains, so FIP is not accepted. However, on the Marseille – Toulon route, SNCF trains are also used, where FIP is accepted. Prior verification of the operator is essential here.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -189,9 +189,9 @@ On the Marseille – Nice route, Transdev operates the trains, so FIP is not acc
 
 RER is a suburban train operated by SNCF in Île de France (Greater Paris) and surrounding cities.
 
-{{% highlight important %}}
+{{< highlight important >}}
 FIP is only valid on certain RER lines, see [Trains in Greater Paris](#trains-in-greater-paris)
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

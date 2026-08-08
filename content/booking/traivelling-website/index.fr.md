@@ -57,7 +57,7 @@ Traivelling vend des Billets FIP pour Eurostar Blue et Eurostar Red sur son site
 Après avoir sélectionné la connexion, vérifiez impérativement que le tarif indiqué est « FIP Leisure ». Si ce n'est pas le cas, il s'agit d'un tarif public avec les conditions d'annulation correspondantes.
 {{% /float-image %}}
 
-{{% highlight "important" %}}
+{{< highlight "important" >}}
 Si le trajet commence ou se termine en Allemagne, aucun frais de réservation n'est appliqué. Dans tous les autres cas, des frais de réservation de 8 % sont facturés.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}

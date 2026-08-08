@@ -62,9 +62,9 @@ There are three classes:
 
 For Railjets to Italy, a supplement is payable from the Italian border. See [Special Tariff Conditions](#traffic-to-italy).
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `RJ` is also the abbreviation for RegioJet, where no FIP Tickets are valid.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -79,9 +79,9 @@ For Railjets to Italy, a supplement is payable from the Italian border. See [Spe
 
 Most `IC` trains on main routes have gradually been replaced by Railjets. `IC` trains still operate on secondary routes such as Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Vienna – Gmunden – Stainach-Irdning, and as supplements to Railjets on Vienna–Lienz (East Tyrol). There are also `IC` and `ICE` trains on some international routes to Germany in cooperation with Deutsche Bahn, with the Austrian section operated by ÖBB.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Some Regiojet trains within Austria are labeled as `IC`; FIP Tickets are not valid on these trains.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
@@ -128,9 +128,9 @@ For Eurocity trains to Italy, a supplement is payable from the Italian border. S
 
 ÖBB night trains to various European countries. They offer sleeper, couchette, and seating cars and are operated abroad in cooperation with other railways.
 
-{{% highlight important %}}
+{{< highlight important >}}
 National free travel for Deutsche Bahn staff is not recognized in Germany. If any part of the Nightjet journey is in Germany (start, end, or transit), DB staff must buy a ticket at the FIP Global Fare for the entire route. For journeys outside Germany with a FIP Coupon, a reservation/surcharge for sleeper/couchette cars is required.
-{{% /highlight %}}
+{{< /highlight >}}
 
 **FIP Global Fare:** yes \
 _Tip:_ For trips from Germany to Italy, use national free travel to Salzburg and board the Nightjet there to avoid the FIP Global Fare.
@@ -169,9 +169,9 @@ For Nightjet trains, reservations/surcharges for sleeper and couchette cars can 
 
 Fast local train with fewer stops and modern rolling stock.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Regionalexpress trains are sometimes operated by other private railways where ÖBB FIP Tickets are not accepted. If in doubt, check the operator via the provider’s website or [bahn.de](https://int.bahn.de/en).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -186,11 +186,11 @@ Regionalexpress trains are sometimes operated by other private railways where Ö
 
 Local train stopping at most stations.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Regional trains are sometimes operated by other private railways where ÖBB FIP Tickets are not accepted. If in doubt, check the operator via the provider’s website or [bahn.de](https://int.bahn.de/en).
 
 The designation `R` Regionalzug is also used in ÖBB’s journey planner for purely tourist services where FIP Tickets are not valid. These are marked with footnotes indicating “special fare.”
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -205,7 +205,7 @@ The designation `R` Regionalzug is also used in ÖBB’s journey planner for pur
 
 Local train at least hourly, stopping at all stations. Comparable to an S-Bahn.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 S-Bahn services are sometimes operated by other private railways where ÖBB FIP Tickets are not accepted. If in doubt, check the operator via the provider’s website or [bahn.de](https://int.bahn.de/en).
 
 Including:
@@ -214,7 +214,7 @@ Including:
 - S-Bahn Salzburg: S1 Salzburg – Lamprechtshausen, S11 Salzburg – Ostermiething (Salzburger Lokalbahn)
 - S-Bahn Styria: S11 Graz – Übelbach (Steiermarkbahn)
 - S6, S61 Graz – Wies-Eibiswald, S7 Graz – Köflach (Graz-Köflacher Eisenbahn)
-  {{% /highlight %}}
+  {{< /highlight >}}
 
 {{% /train-category %}}
 

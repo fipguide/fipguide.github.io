@@ -108,12 +108,12 @@ Das [Liniennetz](https://www.cp.pt/info/documents/d/cp/ligacao-cp-metro-lisboa-b
 - Cascais-Linie
 - Sado-Linie
 
-{{% highlight important %}}
+{{< highlight important >}}
 Der Zugang zur Sintra-Linie und Cascais-Linie erfolgt über Ticketschranken.
 
 - Fahrgäste mit ermäßigten Tickets müssen ein Viva Viagem-Ticket für 0,50€ kaufen, um die Ticketschranke passieren zu können.
 - Fahrgäste mit FIP Freifahrtschein müssen am Zugangspunkt (zwischen 6:00 und 22:00 Uhr) die Hilfe-Taste drücken. Der Anruf wird von einem Mitarbeitenden entgegengenommen, der den Zugang freigibt.
-  {{% /highlight %}}
+  {{< /highlight >}}
 
 **Porto:** \
 Das [Liniennetz](https://www.cp.pt/info/documents/d/cp/mapa-comboios-urbanos-porto) umfasst fünf Linien:

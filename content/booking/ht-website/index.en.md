@@ -60,7 +60,7 @@ The regular ticket price is then reduced by 50%.
 For services requiring a reservation, a reservation is added free of charge. Optionally, a seat can be selected by choosing the "Choose seat" option.
 {{% /float-image %}}
 
-{{% highlight inofficial %}}
+{{< highlight inofficial >}}
 When purchasing a ticket via the Hellenic Train app, the following message may appear:
 
 _“The purchase was completed successfully; however, an error occurred while sending the email. You can retrieve your ticket by accessing your customer area, or—if you made the purchase without logging in—by ​​using the ‘Retrieve Ticket’ function with your PNR/ticket code and email address, or your PNR and CP.”_
@@ -70,7 +70,7 @@ This error occurs regardless of whether the user is logged in or not—in either
 To resolve this issue, an unofficial tool is available that displays the ticket information. It can be found on GitHub at:
 
 https://github.com/MartinLangbecker/bookmarklets/tree/main/hellenic_train
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

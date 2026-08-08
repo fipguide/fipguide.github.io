@@ -39,9 +39,9 @@ On its website, Irish Rail provides an [overview map of the routes](https://www.
 
 InterCity trains connect the major cities of Ireland, including Dublin, Cork, Galway and Limerick. FIP is accepted on all InterCity services. The Enterprise Service between Dublin and Belfast is also operated by InterCity trains. More information about the Enterprise can be found on the [Ireland page](/country/ireland#united-kingdom).
 
-{{% highlight important %}}
+{{< highlight important >}}
 First Class between Dublin and Cork may not be used with FIP. More information about class categories can be found [below](#class-categories).
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 

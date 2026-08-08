@@ -41,9 +41,9 @@ Internationale Fernverkehrszüge in Kooperation mit ÖBB und weiteren Partnerbah
 
 Die Business Class ist für nationale Fahrten in Ungarn nicht verfügbar. Bei internationalen Fahrten kann die Business Class mit einem FIP Freifahrtschein oder FIP 50 Ticket der 1. Klasse genutzt werden. Es ist ein Aufschlag von 22 € zu zahlen.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `RJ` kann auch für RegioJet stehen. In RegioJet-Zügen gelten keine MÁV-FIP-Fahrkarten.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
@@ -62,9 +62,9 @@ Im Inlandsverkehr ist die Sitzplatzreservierung verpflichtend, im internationale
 
 Nationale Schnellzüge mit Reisezugwagen der zweiten Klasse, teilweise auch mit Wagen der ersten Klasse und der Premiumklasse 1+. Teilweise werden [Restaurant-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) und/oder [Bistro-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-bistro-cars) mitgeführt.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `IC` Züge in Ungarn werden teilweise auch von [GySEV](/operator/gysev#ic) betrieben.
-{{% /highlight %}}
+{{< /highlight >}}
 
 Es gibt teilweise bis zu drei Wagenklassen:
 
@@ -175,9 +175,9 @@ In Verbindungsauskunftsystemen außerhalb der MÁV werden die Züge ggf. als `IC
 
 Klassische Regionalzüge, die an allen Unterwegsbahnhöfen halten.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `SZ` Züge in Ungarn werden teilweise auch von [GySEV](/operator/gysev#sz) betrieben.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

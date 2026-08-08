@@ -127,9 +127,9 @@ The Elizabeth Line offers continuous suburban connections from east to west Lond
 
 There are no ticket counters between Abbey Wood and Canary Wharf where FIP 50 Tickets can be purchased.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Some Elizabeth Line stations are also served by London Underground lines. Ticket barriers at these stations are often staffed by TfL personnel. To avoid confusion, mention the use of the Elizabeth Line when showing your FIP Coupon.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -206,9 +206,9 @@ GWR also operates a night train from London to Penzance – the Night Riviera Sl
 
 Reservations for this train cannot be made online.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Reservations are required for the Night Riviera Sleeper.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 

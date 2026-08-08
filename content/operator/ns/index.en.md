@@ -47,11 +47,11 @@ Supplements must partly be paid for Eurocity Direct and Intercity Direct trains.
 
 High-speed trains of Deutsche Bahn, operated by NS in the Netherlands. They run between Amsterdam and Germany (Cologne / Frankfurt am Main or Hanover / Berlin), but can also be used within the Netherlands between Amsterdam and Arnhem or Hengelo with an FIP Coupon without a supplement. However, with FIP 50 Tickets, a supplement is required.
 
-{{% highlight important %}}
+{{< highlight important >}}
 When using FIP 50 Tickets for domestic travel within the Netherlands, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of € 3 per journey must be paid. No supplement is required with FIP Coupons.
 
 The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or at ticket machines/counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of € 1.50 is charged for a single-use ticket.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
@@ -161,10 +161,11 @@ Unlike in other countries, these are not true long-distance trains, but rather f
 
 Regional trains with more stops than Intercity, but still only at important stations.
 
-{{% highlight confusion %}}
-Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo – Hamm (Germany), Maastricht – Aachen (Germany), and Arnhem – Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP.
-{{% /highlight %}}
+{{< highlight confusion >}}
+Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo – Hamm (Germany) and Arnhem – Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP.
 
+An exception applies to the Three-Country Train (Liège-Guillemins – Maastricht – Heerlen – Aachen): between Maastricht and Liège-Guillemins, the train is operated on behalf of NS and SNCB, and NS/SNCB tickets including FIP remain valid. Between Maastricht and Aachen (via Heerlen), the train is operated by Arriva and FIP is not valid.
+{{< /highlight >}}
 {{% /train-category %}}
 
 {{% train-category
