@@ -16,21 +16,23 @@
     return new RegExp(
       "\\{\\{[%<] " +
         name +
-        "([\\s\\S]*?)[%>]\\}\\}([\\s\\S]*?)\\{\\{[%<] \\/" +
+        "(?![\\w-])([\\s\\S]*?)[%>]\\}\\}([\\s\\S]*?)\\{\\{[%<] \\/" +
         name +
         " [%>]\\}\\}",
     );
   }
 
   function selfClosingPattern(name) {
-    return new RegExp("\\{\\{[%<] " + name + "([\\s\\S]*?)[%>/]\\}\\}");
+    return new RegExp(
+      "\\{\\{[%<] " + name + "(?![\\w-])([\\s\\S]*?)[%>/]\\}\\}",
+    );
   }
 
   function dualFormPattern(name) {
     return new RegExp(
       "\\{\\{[%<] " +
         name +
-        "([\\s\\S]*?)(?:\\/[%>]\\}\\}|[%>]\\}\\}([\\s\\S]*?)\\{\\{[%<] \\/" +
+        "(?![\\w-])([\\s\\S]*?)(?:\\/[%>]\\}\\}|[%>]\\}\\}([\\s\\S]*?)\\{\\{[%<] \\/" +
         name +
         " [%>]\\}\\})",
     );
@@ -895,17 +897,28 @@
     }),
   });
 
-  CMS.registerEditorComponent({
-    id: "fip-validity-comparison",
-    label: "FIP Validity Comparison",
-    fields: [],
-    pattern: selfClosingPattern("fip-validity-comparison"),
-    fromBlock: function () {
-      return {};
+  var fipValidityTableFields = [
+    {
+      name: "type",
+      label: "Type",
+      widget: "select",
+      options: ["fip-coupon", "fip-reduced-ticket"],
+      param: { required: true },
     },
-    toBlock: makeToBlock("fip-validity-comparison", {
+  ];
+
+  CMS.registerEditorComponent({
+    id: "fip-validity-table",
+    label: "FIP Validity Table",
+    fields: fipValidityTableFields,
+    pattern: selfClosingPattern("fip-validity-table"),
+    fromBlock: function (match) {
+      var p = parseHugoParams(match[1]);
+      return { type: p.type || "fip-coupon" };
+    },
+    toBlock: makeToBlock("fip-validity-table", {
       bracket: "<",
-      fields: [],
+      fields: fipValidityTableFields,
       bodyMode: "none",
     }),
   });
