@@ -252,9 +252,9 @@ No FIP discounts are granted on the following routes:
 - Stechelberg – Mürren – Schilthorn aerial cableway (LSMS)
 
 {{% highlight inofficial %}}
-The use of the Jungfrau Railways with FIP is intended only for local public transportation.
+The use of Jungfrau railways with FIP is only intended for public local transport.
 
-It has been reported to us that the transport of winter sports equipment (skis, snowboards) on the Jungfrau Railways is not possible when using FIP.
+We have been informed that FIP cannot be used when traveling with winter sports equipment. The background is that FIP should not be used as a ski pass. We are not aware of any official tariff regulations on this. FIP can be used for travel to and from the ski resort, provided the line is covered by FIP.
 {{% /highlight %}}
 
 {{% /train-category %}}
