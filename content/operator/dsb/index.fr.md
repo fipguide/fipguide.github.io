@@ -27,7 +27,7 @@ Les Coupons FIP et Billets FIP 50 sont valables sur les trains DSB. Pour les tra
 
 ## Catégories de trains et réservations
 
-Au Danemark, les réservations sont possibles mais non obligatoires. En été, les trains transfrontaliers `ECE` et `RJ` Hambourg — Copenhague ne peuvent être empruntés que par les voyageurs à destination ou en provenance d'Allemagne ; la réservation de place est alors obligatoire. Si la réservation est effectuée à bord du train, un supplément de 50 DKK par réservation sera perçu.
+Au Danemark, les réservations sont possibles mais non obligatoires. Sur les trajets transfrontaliers avec l’Allemagne, notamment les `ECE` et `RAIL JET` Hambourg — Copenhague, la réservation est souvent obligatoire en été. Si la réservation est effectuée à bord du train, un supplément de 50 DKK par réservation sera perçu.
 
 {{% train-category
     id="intercity-lyn"

@@ -27,7 +27,7 @@ FIP Coupons and FIP 50 Tickets are valid on DSB connections. For cross-border jo
 
 ## Train Categories and Reservations
 
-Within Denmark, reservations are possible but not mandatory. In summer, the cross-border `ECE` und `RJ` trains Copenhagen – Hamburg may only be used by travellers to and from Germany, seat reservations are compulsory. If a reservation is bought on the train, an on-board surcharge of 50 DKK per reservation will be levied.
+Within Denmark, reservations are possible but not mandatory. For cross-border journeys to and from Germany, the `ECE` and `RAIL JET` trains Hamburg – Copenhagen are usually reservation-required during the summer. If a reservation is bought on the train, an on-board surcharge of 50 DKK per reservation will be levied.
 
 {{% train-category
     id="intercity-lyn"

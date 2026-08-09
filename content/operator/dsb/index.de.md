@@ -27,7 +27,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der DSB gültig. B
 
 ## Zugkategorien und Reservierungen
 
-Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. Im Sommer sind die grenzüberschreitenden `ECE` und `RJ` Züge Kopenhagen – Hamburg Reisenden von und nach Deutschland vorbehalten, es gilt eine Reservationspflicht. Wird eine Reservierung erst im Zug gekauft, wird ein Bordzuschlag von 50 DKK pro Reservierung erhoben.
+Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. Bei den grenzüberschreitenden Reisen von und nach Deutschland sind die `ECE` und `RAIL JET` Züge Hamburg – Kopenhagen im Normalfall im Sommer reservierungspflichtig. Wird eine Reservierung erst im Zug gekauft, wird ein Bordzuschlag von 50 DKK pro Reservierung erhoben.
 
 {{% train-category
     id="intercity-lyn"
