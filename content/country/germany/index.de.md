@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Deutschland"
-country: "germany"
+title: Deutschland
+country: germany
 params:
   operators_without_fip:
     - Abellio Rail Mitteldeutschland GmbH

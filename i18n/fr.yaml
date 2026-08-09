@@ -239,10 +239,14 @@ search:
 skipToContent: Aller au contenu
 support:
   text: >-
-    Souhaitez-vous partager vos connaissances sur la réglementation FIP ?
-    Visitez notre [dépôt GitHub](https://github.com/fipguide/fipguide.github.io)
-    pour contribuer au contenu. Vous pouvez également nous écrire via le
-    [formulaire de contact](/contact).
+    Vous souhaitez partager vos connaissances sur les réglementations FIP ?
+    Consultez la section [Contribuer](/contribution) pour mettre à jour et
+    compléter le contenu. Vous pouvez également nous [contacter](/contact).
+
+
+    Le Guide FIP est un projet Open Source. Les informations peuvent être
+    modifiées directement via notre [dépôt
+    GitHub](https://github.com/fipguide/fipguide.github.io).
 teamMembers:
   lennart:
     name: Lennart Rommeiß

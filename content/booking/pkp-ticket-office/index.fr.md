@@ -1,16 +1,15 @@
 ---
 draft: false
-title: "Guichet PKP Intercity"
-description: "Informations de réservation pour les guichets PKP Intercity."
-
+title: Guichet PKP Intercity
+description: Informations de réservation pour les guichets PKP Intercity.
 params:
   classes:
-    first: "3 PLN"
-    second: "3 PLN"
+    first: 3 PLN
+    second: 3 PLN
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/wyszukiwarka-kas-i-biletomatow.html"
-  type: "onsite"
+  additional_info_link: https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/wyszukiwarka-kas-i-biletomatow.html
+  type: onsite
 ---
 
 PKP Intercity exploite un vaste réseau de guichets même dans les petites gares. Linguistiquement, il est avantageux de parler un peu polonais ou d’avoir une application de traduction appropriée, car l’anglais (ou le français) n’est souvent pas très répandu.

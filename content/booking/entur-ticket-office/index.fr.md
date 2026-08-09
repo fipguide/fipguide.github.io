@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Guichet Entur"
-description: "Informations de réservation pour les guichets Entur."
+title: Guichet Entur
+description: Informations de réservation pour les guichets Entur.
 params:
   fip_50: true
   reservations: true
-  additional_info_link: "https://om.entur.no/betjente-stasjoner"
-  type: "onsite"
+  additional_info_link: https://om.entur.no/betjente-stasjoner
+  type: onsite
 ---
 
 Dans les cinq gares suivantes en Norvège, il existe un guichet où des Billets FIP 50 et des réservations peuvent être achetés :

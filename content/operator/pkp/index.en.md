@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "PKP"
+title: PKP
 country:
-  - "poland"
-operator: "pkp"
-
+  - poland
+operator: pkp
 aliases:
   - /booking/pkp-ticket-machine
   - /booking/pkp-ticket-office
@@ -23,6 +22,7 @@ The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together wit
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid with PKP. This includes:
@@ -179,9 +179,9 @@ Different prices for international connections. [More information](https://www.i
 
 Regional train connections stopping at most stations, operated by Polregio. These trains do not have 1st class.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Regional trains in Poland are sometimes also operated by railway companies other than Polregio. These sometimes have their own FIP discounts. [See Poland](/country/poland "Poland")
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -216,8 +216,12 @@ Interregional trains operated by Polregio and equipped with higher comfort than 
     title="Warsaw Modlin Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 FIP Tickets are not valid on KM buses between Modlin and Warsaw Modlin Airport.
+
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase

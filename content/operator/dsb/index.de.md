@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "DSB"
+title: DSB
 country:
-  - "denmark"
-operator: "dsb"
-
+  - denmark
+operator: dsb
 aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
@@ -21,6 +20,7 @@ Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in [Dänema
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der DSB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -96,16 +96,17 @@ Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in 
     title="Regionalzug (R / RE)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie halten außerhalb des S-Bahn-Netzes in Kopenhagen an allen Stationen und sind daher eher langsam.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Auch Züge von anderen Anbietern werden als `R` angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist. \
 Züge, die als `RA` gekennzeichnet sind, werden nicht von der DSB betrieben und sind daher nicht mit FIP nutzbar. \
 Züge, die als `RE` gekennzeichnet sind, werden in der Regel von der DSB betrieben.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -114,6 +115,7 @@ Züge, die als `RE` gekennzeichnet sind, werden in der Regel von der DSB betrieb
     title="S-tog (S)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -152,7 +154,7 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 ### Telefon
 
 {{% booking id="db-phone-fip-db"
-subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Dänemark, mit Ticketanteil nur für den dänischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Dänemark, mit Ticketanteil nur für den dänischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
 /%}}
 
 ### Vor Ort

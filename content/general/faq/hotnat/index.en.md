@@ -1,5 +1,6 @@
 ---
-title: "How does HOTNAT (Hop on the Next Available Train) help me if I miss my connecting train?"
+title: How does HOTNAT (Hop on the Next Available Train) help me if I miss my
+  connecting train?
 weight: 18
 ---
 

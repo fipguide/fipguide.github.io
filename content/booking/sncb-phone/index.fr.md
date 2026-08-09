@@ -1,14 +1,13 @@
 ---
 draft: false
-title: "Téléphone SNCB"
-description: "Informations de réservation pour la hotline SNCB."
-
+title: Téléphone SNCB
+description: Informations de réservation pour la hotline SNCB.
 params:
   fip_50: true
   fip_75: true
-  type: "phone"
-  fee: "0,30 € / minute + frais de service"
-  additional_info_link: "https://www.b-europe.com/FR/Contact/Contact-Center"
+  type: phone
+  fee: 0,30 € / minute + frais de service
+  additional_info_link: https://www.b-europe.com/FR/Contact/Contact-Center
 ---
 
 Les réservations par téléphone sont possibles via la hotline SNCB :
@@ -28,5 +27,4 @@ Lors de la réservation, il faut fournir des informations personnelles et une ad
 ## Billets FIP 50
 
 La SNCB vend des billets avec une réduction FIP de 50%.
-
 {{% /booking-section %}}

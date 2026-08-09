@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "Eurostar Ticket Office"
-description: "Booking information for the Eurostar ticket offices."
-
+title: Eurostar Ticket Office
+description: Booking information for the Eurostar ticket offices.
 params:
   fip_global_fare: true
-  type: "onsite"
+  type: onsite
 ---
 
 ## FIP Global Fare

@@ -1,10 +1,10 @@
 ---
 draft: false
-title: "Lithuania"
-country: "lithuania"
+title: Lithuania
+country: lithuania
 params:
   operators_without_fip:
-    - "Aukštaitijos siaurasis geležinkelis (heritage railway)"
+    - Aukštaitijos siaurasis geležinkelis (heritage railway)
 ---
 
 ## FIP Information

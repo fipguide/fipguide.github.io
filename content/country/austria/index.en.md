@@ -1,11 +1,12 @@
 ---
 draft: false
-title: "Austria"
-country: "austria"
+title: Austria
+country: austria
 params:
   operators_without_fip:
     - Achenseebahn
-    - '[CAT (City Airport Train) Vienna](/operator/oebb#vienna-airport-city-airport-train-cat "CAT")'
+    - '[CAT (City Airport Train)
+      Vienna](/operator/oebb#vienna-airport-city-airport-train-cat "CAT")'
     - Graz–Köflacher Bahn (GKB)
     - Montafonerbahn
     - NÖVOG

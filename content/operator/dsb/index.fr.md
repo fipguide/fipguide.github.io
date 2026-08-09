@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "DSB"
+title: DSB
 country:
-  - "denmark"
-operator: "dsb"
-
+  - denmark
+operator: dsb
 aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
@@ -21,13 +20,14 @@ La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du [Danemark](/
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les trains DSB. Pour les trajets transfrontaliers, un Billet FIP 50 couvrant l’ensemble du trajet ou des Coupons FIP valables dans les deux pays sont requis.
 
 ## Catégories de trains et réservations
 
-Au Danemark, les réservations sont possibles mais non obligatoires. En été, les trains transfrontaliers  `ECE` et `RJ` Hambourg — Copenhague ne peuvent être empruntés que par les voyageurs à destination ou en provenance d'Allemagne ; la réservation de place est alors obligatoire. Si la réservation est effectuée à bord du train, un supplément de 50 DKK par réservation sera perçu.
+Au Danemark, les réservations sont possibles mais non obligatoires. En été, les trains transfrontaliers `ECE` et `RJ` Hambourg — Copenhague ne peuvent être empruntés que par les voyageurs à destination ou en provenance d'Allemagne ; la réservation de place est alors obligatoire. Si la réservation est effectuée à bord du train, un supplément de 50 DKK par réservation sera perçu.
 
 {{% train-category
     id="intercity-lyn"
@@ -96,16 +96,17 @@ Une réservation est recommandée pour les trajets transfrontaliers et général
     title="Train régional (R / RE)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Trains régionaux desservant toutes les gares hors du réseau S-tog de Copenhague.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 D’autres opérateurs utilisent aussi la catégorie `R` — vérifiez toujours que le train est bien exploité par DSB. \
 Les trains marqués `RA` ne sont pas exploités par DSB et ne sont donc pas inclus dans FIP. \
 Les trains marqués `RE` sont généralement exploités par DSB.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -114,6 +115,7 @@ Les trains marqués `RE` sont généralement exploités par DSB.
     title="S-tog (S)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 

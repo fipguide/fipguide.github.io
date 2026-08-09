@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "NS"
+title: NS
 country:
-  - "netherlands"
-operator: "ns"
-
+  - netherlands
+operator: ns
 aliases:
   - /booking/ns-phone
   - /booking/ns-ticket-office
@@ -23,6 +22,7 @@ Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des [Pay
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les trains NS. Pour les trajets transfrontaliers, il faut un Billet FIP 50 continu ou des Coupons FIP valables dans les deux pays.
@@ -44,13 +44,14 @@ Un supplément est partiellement nécessaire pour les trains Eurocity Direct et 
     reservation_possible=true
     additional_information_url="https://www.nsinternational.com/en/trains/ice"
 %}}
+
 Trains à grande vitesse de la Deutsche Bahn, exploités aux Pays-Bas par NS. Ils circulent entre Amsterdam et l’Allemagne (Cologne / Francfort-sur-le-Main ou Hanovre / Berlin), mais peuvent également être utilisés à l’intérieur des Pays-Bas entre Amsterdam et Arnhem ou Hengelo avec un Coupon FIP sans supplément. Avec un Billet FIP 50, un supplément est toutefois requis.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Lors de l’utilisation de Billets FIP 50 pour des trajets nationaux aux Pays-Bas, un [supplément ICE](https://www.ns.nl/en/tickets/ice-supplement) de 3 € par trajet doit être payé. Aucun supplément n’est requis avec un Coupon FIP.
 
 Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/ice-supplement), via l’application NS ou sur place au guichet ou au distributeur. Sur place, il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Réservations
 
@@ -65,8 +66,10 @@ En 2026, ce sera le cas du 26 juin au 16 août.
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
+
 Train international avec supplément entre Lelystad, Amsterdam et Bruxelles, avec arrêts à Almere, Schiphol, Rotterdam et Anvers.
 
 {{< highlight important >}}
@@ -100,11 +103,14 @@ Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tar
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
+
 Train international entre Rotterdam et Bruxelles avec plusieurs arrêts intermédiaires.
 
 ![Réseau Eurocity (Direct)](eurocity-map.fr.svg)
+
 {{% /train-category %}}
 
 {{% train-category
@@ -113,8 +119,10 @@ Train international entre Rotterdam et Bruxelles avec plusieurs arrêts intermé
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.ns.nl/en/travel-information/special-routes/intercity-direct.html"
 %}}
+
 Train rapide, partiellement avec supplément, entre Lelystad ou Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal et Breda.
 
 {{< highlight important >}}
@@ -135,8 +143,11 @@ Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tar
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Contrairement à d’autres pays, il ne s’agit pas de véritables trains longue distance, mais plutôt de trains régionaux rapides avec peu d’arrêts.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -145,12 +156,16 @@ Contrairement à d’autres pays, il ne s’agit pas de véritables trains longu
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Trains régionaux avec plus d’arrêts que les Intercity, mais uniquement dans les gares principales.
 
-{{% highlight confusion %}}
-Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les liaisons Venlo – Hamm (Allemagne), Maastricht – Aix-la-Chapelle (Allemagne) et Arnhem – Düsseldorf (Allemagne), ainsi que d’autres liaisons RE, ne sont pas exploités par NS et ne sont pas accessibles avec FIP.
-{{% /highlight %}}
+{{< highlight confusion >}}
+Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les liaisons Venlo – Hamm (Allemagne) et Arnhem – Düsseldorf (Allemagne), ainsi que d’autres liaisons RE, ne sont pas exploités par NS et ne sont pas accessibles avec FIP.
+
+Une exception s’applique au Train des Trois Pays (Liège-Guillemins – Maastricht – Heerlen – Aix-la-Chapelle) : entre Maastricht et Liège-Guillemins, le train est exploité pour le compte de la NS et de la SNCB, et les billets NS/SNCB incluant le FIP restent valables. Entre Maastricht et Aix-la-Chapelle (via Heerlen), le train est exploité par Arriva et le FIP n’est pas valable.
+{{< /highlight >}}
 {{% /train-category %}}
 
 {{% train-category
@@ -159,8 +174,11 @@ Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les lia
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares du parcours.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -169,7 +187,9 @@ Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares 
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Trains régionaux avec le branding R-net rouge-gris sur la ligne d’Alphen aan den Rijn à Gouda.
 
 {{< highlight confusion >}}
@@ -187,7 +207,7 @@ Dans la recherche d’itinéraire de la NS, les liaisons sont indiquées comme `
 Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="sncb-website"
-  subtitle="Uniquement pour les trajets transfrontaliers à destination ou en provenance de la Belgique avec un Coupon FIP."
+    subtitle="Uniquement pour les trajets transfrontaliers à destination ou en provenance de la Belgique avec un Coupon FIP."
 /%}}
 
 {{% booking id="db-website"

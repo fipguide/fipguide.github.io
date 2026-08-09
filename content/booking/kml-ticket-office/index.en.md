@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "Koleje Małopolskie Ticket Office"
-description: "Booking information for the Koleje Małopolskie Ticket Office."
-
+title: Koleje Małopolskie Ticket Office
+description: Booking information for the Koleje Małopolskie Ticket Office.
 params:
   fip_50: true
-  additional_info_link: "https://kolejemalopolskie.com.pl/pl/dla-pasazera/gdzie-kupic-bilet-kolejowy"
-  type: "onsite"
+  additional_info_link: https://kolejemalopolskie.com.pl/pl/dla-pasazera/gdzie-kupic-bilet-kolejowy
+  type: onsite
 ---
 
 KMŁ operates a manageable network of ticket offices at the most important stations. In terms of language, it is helpful to speak some Polish or to have a suitable translation app, as English (or German) is often not widely spoken.

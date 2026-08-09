@@ -1,16 +1,16 @@
 ---
 draft: false
-title: "LNER Website / App"
-description: "Booking information for the LNER website and app."
+title: LNER Website / App
+description: Booking information for the LNER website and app.
 params:
   classes:
-    first: "free"
-    second: "free"
+    first: free
+    second: free
   fip_50: false
   fip_75: false
   reservations: true
-  booking_link: "https://www.lner.co.uk/"
-  type: "online"
+  booking_link: https://www.lner.co.uk/
+  type: online
 ---
 
 LNER also offers an [app](https://www.lner.co.uk/tickets/lner-app/) that can be used to book reservations.
@@ -30,5 +30,4 @@ After selecting _Reserve a seat_ and/or _Reserve a bike space_, the reservation 
 ## Reservations – Booking via the app
 
 After downloading the app, select _Reserve a seat_ on the main page. The booking process then follows the same steps as on the website.
-
 {{% /booking-section %}}

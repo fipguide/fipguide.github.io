@@ -43,7 +43,7 @@ operator: "{{ .File.ContentBaseName }}"
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
-{{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
+{{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 <!--
   Wo gelten FIP 50 Tickets/FIP Freifahrtscheine und gibt es Einschränkungen? Welches Ticket wird bei Einreise benötigt (z. B. durchgehendes FIP 50 Ticket oder FIP Freifahrtscheine beider Länder)
@@ -141,11 +141,11 @@ Hier können weitere wichtige Informationen ergänzt werden.
 
 {{% booking id="booking_id"
     subtitle="Hier kann ein Untertitel ergänzt werden, der in der Zusammenfassung des expanders angezeigt wird und nicht zu viel Platz einnehmen sollte."
-    reservations=nil
-    fip_50=false
-    fip_global_fare=true
     classes.first="€20"
     classes.second="€10"
+    fip_50=false
+    fip_global_fare=true
+    reservations=nil
 %}}
 
 <!-- Hier können zusätzliche landesspezifische Details zur Buchungsplattform ergänzt werden. -->

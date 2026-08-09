@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "SV"
+title: SV
 country:
-  - "serbia"
-operator: "sv"
+  - serbia
+operator: sv
 ---
 
 Srbija Voz (Србија Воз) is the state railway company in Serbia and operates the majority of passenger traffic in the country.
@@ -16,6 +16,7 @@ Srbija Voz (Србија Воз) is the state railway company in Serbia and oper
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on SV services. For cross-border travel, either a through FIP discounted ticket or FIP Coupons of both countries must be available.
@@ -65,6 +66,7 @@ The [costs for couchette and sleeper reservations](https://zpcg.me/en/red-voznje
 For couchette or sleeper reservations, an additional 10% service fee applies.[^3]
 
 Reservations can be made [by telephone](#telephone).
+
 {{% /train-category %}}
 
 {{% train-category
@@ -123,6 +125,7 @@ On some services, reservations are mandatory; on others, they can be purchased o
     title="BG:VOZ"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -135,6 +138,7 @@ As BG:VOZ, SV operates two lines in the Belgrade metropolitan area similar to an
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=nil
 %}}
 
@@ -148,8 +152,7 @@ Currently, however, a shuttle bus between Novi Sad and Petrovaradin can be used 
 
 ### Telephone
 
-{{% booking
-    id="sv-phone"
+{{% booking id="sv-phone"
     subtitle="Reservation of international trips between Serbia and Montenegro"
 /%}}
 

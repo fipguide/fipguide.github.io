@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Entur Ticket Office"
-description: "Booking information for Entur ticket offices."
+title: Entur Ticket Office
+description: Booking information for Entur ticket offices.
 params:
   fip_50: true
   reservations: true
-  additional_info_link: "https://om.entur.no/betjente-stasjoner"
-  type: "onsite"
+  additional_info_link: https://om.entur.no/betjente-stasjoner
+  type: onsite
 ---
 
 At the following five railway stations in Norway, there is a ticket office where FIP 50 Tickets and reservations can be purchased:

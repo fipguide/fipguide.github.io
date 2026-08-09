@@ -1,15 +1,13 @@
 ---
 draft: false
-title: "SNCB International Website"
-description: "Booking information for the SNCB website."
-
+title: SNCB International Website
+description: Booking information for the SNCB website.
 params:
   fip_50: false
   fip_75: false
   reservation: false
-  booking_link: "https://www.b-europe.com/EN/Booking/Tickets"
-  type: "website"
-
+  booking_link: https://www.b-europe.com/EN/Booking/Tickets
+  type: website
 aliases:
   - sncb_website
 ---

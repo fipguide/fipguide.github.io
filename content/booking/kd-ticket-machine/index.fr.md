@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Distributeurs de billets Koleje Dolnośląskie"
-description: "Informations de réservation pour les distributeurs de billets Koleje Dolnośląskie."
-
+title: Distributeurs de billets Koleje Dolnośląskie
+description: Informations de réservation pour les distributeurs de billets
+  Koleje Dolnośląskie.
 params:
   fip_50: true
-  additional_info_link: "https://kolejedolnoslaskie.pl/informacje-o-kanalach-sprzedazy/stacjonarne-automaty-biletowe/"
-  type: "machine"
+  additional_info_link: https://kolejedolnoslaskie.pl/informacje-o-kanalach-sprzedazy/stacjonarne-automaty-biletowe/
+  type: machine
 ---
 
 Dans certaines gares, des distributeurs de billets Koleje Dolnośląskie sont disponibles. Toutes les gares équipées de distributeurs de billets sont répertoriées sur le site Web de KD.

@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "Koleje Małopolskie Ticketschalter"
-description: "Buchungsinformationen für die Koleje Małopolskie Ticketschalter."
-
+title: Koleje Małopolskie Ticketschalter
+description: Buchungsinformationen für die Koleje Małopolskie Ticketschalter.
 params:
   fip_50: true
-  additional_info_link: "https://kolejemalopolskie.com.pl/pl/dla-pasazera/gdzie-kupic-bilet-kolejowy"
-  type: "onsite"
+  additional_info_link: https://kolejemalopolskie.com.pl/pl/dla-pasazera/gdzie-kupic-bilet-kolejowy
+  type: onsite
 ---
 
 Die KMŁ betreibt ein überschaubares Netz von Ticketschaltern an den wichtigsten Bahnhöfen. Sprachlich ist es von Vorteil, etwas polnisch zu sprechen oder die passende Übersetzer-App zu haben, da Englisch (oder auch Deutsch) oft nicht sehr verbreitet ist.

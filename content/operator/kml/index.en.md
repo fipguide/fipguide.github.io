@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "KMŁ"
+title: KMŁ
 country:
-  - "poland"
-operator: "kml"
-
+  - poland
+operator: kml
 aliases:
   - /booking/kml-ticket-office
 ---
@@ -21,6 +20,7 @@ On its website, KMŁ provides an [overview of the operated lines](https://koleje
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on KMŁ.
@@ -41,7 +41,7 @@ Since KMŁ has only been a FIP member since 01.04.2026, the booking options are 
 
 ### On-Site
 
-{{% booking id="kml-ticket-office"/%}}
+{{% booking id="kml-ticket-office" /%}}
 
 ### On the Train
 
