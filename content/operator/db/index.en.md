@@ -278,6 +278,8 @@ FIP discounts do not apply on buses. On rail replacement buses, FIP discounts ap
 
 ## Ticket and Reservation Purchase
 
+FIP 50 Tickets are considered _Flexpreis_ tickets and can therefore be cancelled free of charge until before the 1st day of validity of the ticket. After that, a fee applies. Reservations can only be cancelled to a limited extent shortly after purchase. Further information on cancellation is available on the [Deutsche Bahn website](https://int.bahn.de/en/booking-information/exchanges-refunds).
+
 ### Online
 
 {{% booking id="db-website" /%}}
