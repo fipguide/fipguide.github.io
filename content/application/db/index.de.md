@@ -12,7 +12,7 @@ FIP Freifahrtscheine von Mitarbeitenden in Deutschland gelten als _Geldwerter Vo
 
 Der angerechnete Wert unterscheidet sich je nach Streckennetzlänge die mit dem jeweiligen Freifahrtschein gefahren werden kann und wird jährlich aktualisiert. Eine Liste der genauen aktuellen Beträge ist im DB Reisemarkt oder DB Personalportal verfügbar.
 
-Monatlich werden alle Sachbezugswerte zusammengerechnet (auch andere geldwerte Vorteile wie nationale Freifahrten). Wenn die Summe einen gewissen Grenzwert übersteigt (50 € in 2025) wird der gesamte Betrag (nicht nur, was über dem Grenzwert liegt, sondern alles) auf das zu versteuernde Einkommen (üblicherweise das Bruttogehalt) aufgeschlagen. Dementsprechend höher fallen in diesem Monat dann Steuer- und Sozialabgaben aus.
+Monatlich werden alle Sachbezugswerte zusammengerechnet (auch andere geldwerte Vorteile wie nationale Freifahrten). Wenn die Summe einen gewissen Grenzwert übersteigt (50 € in 2026) wird der gesamte Betrag (nicht nur, was über dem Grenzwert liegt, sondern alles) auf das zu versteuernde Einkommen (üblicherweise das Bruttogehalt) aufgeschlagen. Dementsprechend höher fallen in diesem Monat dann Steuer- und Sozialabgaben aus.
 
 FIP Freifahrtscheine und nationale Fahrvergünstigungen von Angehörigen werden dem Mitarbeitenden angerechnet.
 
