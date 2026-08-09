@@ -12,7 +12,7 @@ FIP Coupons for employees in Germany are considered _non-monetary compensation_ 
 
 The assessed value differs depending on the network length that can be covered with the respective coupon and is updated annually. A list of the current amounts is available in the DB Reisemarkt or DB employee portal.
 
-Each month, all taxable benefits are added together (including other non-monetary benefits such as national FIP discounts). If the sum exceeds a certain threshold (€50 in 2025), the entire amount (not just what exceeds the threshold, but everything) is added to taxable income (usually gross salary). Accordingly, taxes and social contributions are higher that month.
+Each month, all taxable benefits are added together (including other non-monetary benefits such as national FIP discounts). If the sum exceeds a certain threshold (€50 in 2026), the entire amount (not just what exceeds the threshold, but everything) is added to taxable income (usually gross salary). Accordingly, taxes and social contributions are higher that month.
 
 FIP Coupons and national travel discounts of dependents are counted toward the employee.
 
