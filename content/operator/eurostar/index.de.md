@@ -108,6 +108,8 @@ Bei der Buchung kann teilweise in Pfund oder Euro bezahlt werden. In der Regel s
 
 Tickets werden ausschließlich als Online Tickets ausgegeben, weshalb für die Buchung zwangsläufig eine E-Mail-Adresse erforderlich ist.
 
+Der FIP-Ausweis sollte beim Boarding bereitgehalten werden.
+
 ### Online
 
 Das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets ist über die Eurostar Website möglich, mehr Informationen dazu unter [Umbuchungen & Stornierungen](#umbuchungen--stornierungen). Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.

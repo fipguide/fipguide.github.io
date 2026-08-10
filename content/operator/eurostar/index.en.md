@@ -108,6 +108,8 @@ When booking, payment can sometimes be made in pounds or euros. Generally, euro 
 
 Tickets are issued exclusively as online tickets, so an email address is required for booking.
 
+The FIP Card should be ready for inspection when boarding.
+
 ### Online
 
 Checking in, rebooking, canceling, and upgrading tickets is possible via the Eurostar website, more information under [Rebookings & Cancellations](#rebookings--cancellations). If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
