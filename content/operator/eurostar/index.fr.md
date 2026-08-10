@@ -202,7 +202,7 @@ Les enfants de moins de 12 ans doivent être accompagnés par un adulte. Les enf
 
 ### Modifications & Annulations
 
-Les Billets FIP peuvent être modifiés ou annulés gratuitement jusqu’à une heure avant le départ. Passé ce délai, toute modification ou annulation est impossible.
+Les Billets FIP peuvent être modifiés ou annulés gratuitement jusqu’à l’heure de départ prévue du train. Passé ce délai, toute modification ou annulation est impossible.
 
 En principe, il n’est possible de rebooker que sur d’autres trains disponibles disposant encore de contingents suffisants, voir aussi [Quotas de billets](#quotas-de-billets). Lors d’une modification, il est également possible de passer d’Eurostar Standard à Eurostar Plus en payant la différence. En revanche, un déclassement d’Eurostar Plus à Eurostar Standard ne donnera pas lieu à un remboursement de la différence.
 
