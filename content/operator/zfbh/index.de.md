@@ -39,7 +39,7 @@ Nationale und nach Kroatien verkehrende internationale Schnellzüge, die mit wen
 
 #### Reservierung
 
-Uns ist aktuell nicht bekannt, ob Reservierungen angeboten werden und ob diese verpflichtend sind. Da die Tickets jedoch nur personenbedient verkauft werden, besteht keine Gefahr hier versehentlich keine Reservierung zu haben. 
+Uns ist aktuell nicht bekannt, ob Reservierungen angeboten werden und ob diese verpflichtend sind. Da die Tickets jedoch nur personenbedient verkauft werden, besteht keine Gefahr hier versehentlich keine Reservierung zu haben.
 {{% /train-category %}}
 
 {{% train-category
@@ -66,7 +66,8 @@ Nationale FIP Tickets können nur im Zug erworben werden, wenn der Einstieg an e
 
 Kinder bis einschließlich 3 Jahren reisen kostenlos, wenn sie keinen extra Sitzplatz benötigen. Kinder unter 12 Jahre erhalten unabhängig von FIP 50 % Rabatt auf den regulären Fahrpreis.[^2] Eine Übersicht über alle Ermäßigungen außerhalb von FIP ist auf der [ŽFBH Website](https://www.zfbh.ba/en/putnicki-prijevoz/komercijalne-povlastice/#1499947770755-76ae7c80-fad0) zu finden.
 
-Für Reisende durch mehrere Balkanländer könnte sich der Balkan Flexipass preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
+{{% highlight tip %}}
+Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
 
 - Bosnien und Herzegowina (ŽFBH, ŽRS),
 - Bulgarien (BDŽ),
@@ -78,6 +79,7 @@ Für Reisende durch mehrere Balkanländer könnte sich der Balkan Flexipass prei
 - Türkei (TCDD).
 
 [Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Tarifliche Besonderheiten
 

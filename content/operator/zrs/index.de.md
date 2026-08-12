@@ -57,7 +57,8 @@ Es ist uns nicht bekannt, ob FIP-Tickets im Zug erworben werden können. Da es a
 
 Kinder bis einschließlich 3 Jahren reisen kostenlos, wenn sie keinen extra Sitzplatz benötigen. Kinder unter 12 Jahre erhalten unabhängig von FIP 50 % Rabatt auf den regulären Fahrpreis.[^1] Eine Übersicht über alle Ermäßigungen außerhalb von FIP ist auf der [ŽRS Website](https://www.zrs-rs.com/putnicki-saobracaj/opsti-uslovi) zu finden.
 
-Für Reisende durch mehrere Balkanländer könnte sich der Balkan Flexipass preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
+{{% highlight tip %}}
+Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
 
 - Bosnien und Herzegowina (ŽFBH, ŽRS),
 - Bulgarien (BDŽ),
@@ -69,6 +70,7 @@ Für Reisende durch mehrere Balkanländer könnte sich der Balkan Flexipass prei
 - Türkei (TCDD).
 
 [Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Empfehlungen
 
