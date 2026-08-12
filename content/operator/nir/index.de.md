@@ -92,6 +92,12 @@ Kinder unter 5 Jahren fahren kostenlos. Jugendliche unter 16 Jahren erhalten 50 
 
 Fahrtunterbrechungen sind nur erlaubt, um Anschlusszüge zu erreichen.[^1]
 
+## Empfehlungen
+
+{{% highlight tip %}}
+Auf dem eher kleinen Streckennetz bietet die NIR einen soliden Taktverkehr auf ihren Strecken mit etwas in die Jahre gekommenen Zügen an. Vor allem rund um Belfast bietet sie dabei einen S-Bahn-ähnlichen Vorortverkehr. Die etwa stündlich angebotene Verbindung zwischen Belfast und Londonderry und hier insbesondere der Abschnitt zwischen Coleraine und Londonderry ist sehr sehenswert, da sie direkt an der nördlichen Küste entlang führt.
+{{% /highlight %}}
+
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782285-northern-ireland.html)
