@@ -127,6 +127,19 @@ Wenn man die Reise an einem Bahnhof beginnt, an dem der Fahrkartenschalter unbes
 
 Bei öffentlichen Fahrpreisen reisen Kinder bis 4 Jahre kostenlos, Kinder bis 12 Jahren erhalten eine Ermäßigung von 50 % auf den Erwachsenenpreis. Ab 12 Jahren gilt der reguläre Erwachsenenfahrpreis.[^1]
 
+Für Reisende durch mehrere Balkanländer könnte sich der Balkan Flexipass preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
+
+- Bosnien und Herzegowina (ŽFBH, ŽRS),
+- Bulgarien (BDŽ),
+- Nordmazedonien (MŽ-Transport),
+- Griechenland (HT & Attica),
+- Montenegro (ŽPCG),
+- Rumänien (CFR Calatori & Regiotrans),
+- Serbien (SV),
+- Türkei (TCDD).
+
+[Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+
 ## Tarifliche Besonderheiten
 
 ### Fahrtunterbrechung

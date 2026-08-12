@@ -41,7 +41,7 @@ Il n’existe pas de liaison ferroviaire entre le Kosovo et le Monténégro.
 
 Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass peut être intéressant sur le plan tarifaire. Il permet des trajets illimités sur les réseaux ferroviaires de :
 
-- Bosnie-Herzégovine (ZFBH),
+- Bosnie-Herzégovine (ŽFBH),
 - Bulgarie (BDZ),
 - Macédoine du Nord (MŽ-Transport),
 - Grèce (HT & Attica),

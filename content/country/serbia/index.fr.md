@@ -35,7 +35,7 @@ Les trains en Serbie sont majoritairement plus anciens et moins modernes, à l�
 | [Bulgarie](/country/bulgaria) ([BDZ](/operator/bdz))       | Dimitrovgrad (fr)                                       |
 | Macédoine du Nord (ŽRSM)                                   | Tabanovci (fr) (serbe : Табановце ; albanais : Tabanoc) |
 | [Monténégro](/country/montenegro) ([ŽPCG](/operator/zpcg)) | Bijelo Polje (Gr)                                       |
-| Bosnie-Herzégovine (ZRS/ZFBH)                              | Savski Brežovljani, Zvornik                             |
+| Bosnie-Herzégovine (ZRS/ŽFBH)                              | Savski Brežovljani, Zvornik                             |
 | Croatie (HŽ)                                               | Erdut (Gr) (serbe : Ердут), Šid (Gr) (serbe : Шид)      |
 
 {{% /expander %}}

@@ -106,6 +106,19 @@ FIP-ermäßigte Fahrkarten können im Zug gekauft werden. Es fällt ein Aufpreis
 
 Bei öffentlichen Tarifen reisen Kinder bis 6 Jahre kostenlos. Kinder bis 14 Jahre erhalten 50 % Ermäßigung auf den Erwachsenentarif. Kinder ab 14 zahlen den Erwachsenenpreis.[^2]
 
+Für Reisende durch mehrere Balkanländer könnte sich der Balkan Flexipass preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
+
+- Bosnien und Herzegowina (ŽFBH, ŽRS),
+- Bulgarien (BDŽ),
+- Nordmazedonien (MŽ-Transport),
+- Griechenland (HT & Attica),
+- Montenegro (ŽPCG),
+- Rumänien (CFR Calatori & Regiotrans),
+- Serbien (SV),
+- Türkei (TCDD).
+
+[Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+
 ## Tarifliche Besonderheiten
 
 ### Schienenersatzverkehr

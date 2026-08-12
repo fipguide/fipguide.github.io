@@ -41,7 +41,7 @@ There is no rail connection between Kosovo and Montenegro.
 
 For travellers through several Balkan countries, the Balkan Flexipass could be worthwhile in terms of price. It enables unlimited travel on the rail networks of:
 
-- Bosnia and Herzegovina (ZFBH),
+- Bosnia and Herzegovina (ŽFBH),
 - Bulgaria (BDZ),
 - North Macedonia (MŽ-Transport),
 - Greece (HT & Attica),

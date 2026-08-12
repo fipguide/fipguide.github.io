@@ -41,7 +41,7 @@ Es gibt keine Schienenverbindung zwischen dem Kosovo und Montenegro.
 
 Für Reisende durch mehrere Balkanländer könnte sich der Balkan Flexipass preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
 
-- Bosnien und Herzegowina (ZFBH),
+- Bosnien und Herzegowina (ŽFBH, ŽRS),
 - Bulgarien (BDZ),
 - Nordmazedonien (MŽ-Transport),
 - Griechenland (HT & Attica),

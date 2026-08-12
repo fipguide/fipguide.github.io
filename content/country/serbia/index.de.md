@@ -35,7 +35,7 @@ Die Züge in Serbien sind abseits der Hauptstrecken meist eher älter und wenige
 | [Bulgarien](/country/bulgaria) ([BDZ](/operator/bdz))      | Dimitrovgrad (fr)                                        |
 | Nordmazedonien (ŽRSM)                                      | Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc) |
 | [Montenegro](/country/montenegro) ([ŽPCG](/operator/zpcg)) | Bijelo Polje (Gr)                                        |
-| Bosnien und Herzegowina (ZRS/ZFBH)                         | Savski Brežovljani, Zvornik                              |
+| [Bosnien und Herzegowina](/country/bosnia-and-herzegovina) ([ŽFBH](/operator/zfbh) / [ŽRS](/operator/zrs))                         | Zvornik                              |
 | Kroatien (HŽ)                                              | Erdut (Gr) (Serbisch: Ердут), Šid (Gr) (Serbisch: Шид)   |
 
 {{% /expander %}}
