@@ -6,7 +6,7 @@ country: "bosnia-and-herzegovina"
 
 ## FIP Nutzung
 
-In Bosnien und Herzegowina erfordert die Nutzung von FIP aufgrund der sehr wenigen Züge pro Tag eine gute Planung. Dafür gibt es bis auf einzelne privat organisierte Charterzüge nur Verbindungen, die alle mit FIP genutzt werden können. Aufgrund der politischen Struktur des Landes werden diese durch die Verkehrsunternehmen [Željeznice Republike Srpske (ŽRS)](/operator/zrs), die den Schienenverkehr in der Förderation Republika Srpska betreibt, sowie die [Željeznice Federacije Bosne i Hercegovine (ŽFBH)](/operator/zfbh) in der Förderation Bosnien und Herzegowina, aufgeteilt. 
+In Bosnien und Herzegowina erfordert die Nutzung von FIP aufgrund der sehr wenigen Züge pro Tag eine gute Planung. Dafür gibt es bis auf einzelne privat organisierte Charterzüge nur Verbindungen, die alle mit FIP genutzt werden können. Aufgrund der politischen Struktur des Landes werden diese durch die Verkehrsunternehmen [Željeznice Republike Srpske (ŽRS)](/operator/zrs), die den Schienenverkehr in der Förderation Republika Srpska betreibt, sowie die [Željeznice Federacije Bosne i Hercegovine (ŽFBH)](/operator/zfbh) in der Förderation Bosnien und Herzegowina, aufgeteilt.
 
 Anders als in allen anderen FIP-Ländern, wo meistens FIP ermäßigte Tickets und FIP Freifahrtscheine gleichermaßen zumindest für die direkten Mitarbeiter einer anderen Bahngesellschaft angeboten, ist dies bei der ŽFBH nicht üblich. Es muss also hier besonders geprüft werden, ob für das Unternehmen Freifahrtscheine bestellt oder nur FIP ermäßigte Tickets genutzt werden können.
 

@@ -28,15 +28,15 @@ Die Züge in Serbien sind abseits der Hauptstrecken meist eher älter und wenige
 
 {{% expander "Grenzpunkte" border %}}
 
-| Land                                                       | Grenzpunkte                                              |
-| ---------------------------------------------------------- | -------------------------------------------------------- |
-| Ungarn (MÁV)                                               | Röszke (Gr), Subotica (Gr)                               |
-| [Rumänien](/country/romania) ([CFR](/operator/cfr))        | Jimbolia (fr), Vršac (fr)                                |
-| [Bulgarien](/country/bulgaria) ([BDZ](/operator/bdz))      | Dimitrovgrad (fr)                                        |
-| Nordmazedonien (ŽRSM)                                      | Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc) |
-| [Montenegro](/country/montenegro) ([ŽPCG](/operator/zpcg)) | Bijelo Polje (Gr)                                        |
-| [Bosnien und Herzegowina](/country/bosnia-and-herzegovina) ([ŽFBH](/operator/zfbh) / [ŽRS](/operator/zrs))                         | Zvornik                              |
-| Kroatien (HŽ)                                              | Erdut (Gr) (Serbisch: Ердут), Šid (Gr) (Serbisch: Шид)   |
+| Land                                                                                                       | Grenzpunkte                                              |
+| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Ungarn (MÁV)                                                                                               | Röszke (Gr), Subotica (Gr)                               |
+| [Rumänien](/country/romania) ([CFR](/operator/cfr))                                                        | Jimbolia (fr), Vršac (fr)                                |
+| [Bulgarien](/country/bulgaria) ([BDZ](/operator/bdz))                                                      | Dimitrovgrad (fr)                                        |
+| Nordmazedonien (ŽRSM)                                                                                      | Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc) |
+| [Montenegro](/country/montenegro) ([ŽPCG](/operator/zpcg))                                                 | Bijelo Polje (Gr)                                        |
+| [Bosnien und Herzegowina](/country/bosnia-and-herzegovina) ([ŽFBH](/operator/zfbh) / [ŽRS](/operator/zrs)) | Zvornik                                                  |
+| Kroatien (HŽ)                                                                                              | Erdut (Gr) (Serbisch: Ердут), Šid (Gr) (Serbisch: Шид)   |
 
 {{% /expander %}}
 
