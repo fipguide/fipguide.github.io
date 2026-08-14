@@ -10,17 +10,17 @@ Die Željeznice Republike Srpske (ŽRS) ist das Eisenbahnverkehrsunternehmen der
 
 ## Zusammenfassung
 
-- FIP ermäßigte Tickets und FIP Freifahrtscheine werden akzeptiert.
+- FIP 50 / FIP 75 Tickets und FIP Freifahrtscheine werden akzeptiert.
 - Der Verkauf von FIP ermäßigten Tickets findet nur vor Ort statt.
 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
---- Merker: Für SV, ZFBH und SZ gibt es 75% FIP Rabatt ---
+<!-- Merker: Für SV, ZFBH und SZ gibt es 75% FIP Rabatt -->
 
-FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ŽRS gültig. Bei grenzüberschreitenden Fahrten (derzeit nicht angeboten) muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein. Bei Fahrten über die Entitätsgrenze (ebenfalls derzeit nicht vorhanden) wäre entweder ein durchgängiges FIP 50 Ticket oder ein FIP Freifahrtschein der ŽRS in Verbindung mit einem FIP 50 Ticket ab der Entitätsgrenze nötig.
+FIP Freifahrtscheine und FIP 50 / FIP 75 Tickets sind auf Verbindungen der ŽRS gültig. Bei grenzüberschreitenden Fahrten (derzeit nicht angeboten) muss entweder ein durchgängiges FIP 50 / FIP 75 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein. Bei Fahrten über die Entitätsgrenze (ebenfalls derzeit nicht vorhanden) wäre entweder ein durchgängiges FIP 50 / FIP 75 Ticket oder ein FIP Freifahrtschein der ŽRS in Verbindung mit einem FIP 50 / FIP 75 Ticket ab der Entitätsgrenze nötig.
 
 ## Zugkategorien und Reservierungen
 
@@ -71,6 +71,12 @@ Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preis
 
 [Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
 {{% /highlight %}}
+
+## Tarifliche Besonderheiten
+
+### Schienenersatzverkehr
+
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 

@@ -28,15 +28,15 @@ The trains in Serbia are mostly older and less modern, away from the main routes
 
 {{% expander "Border Points" border %}}
 
-| Country                                                    | Border Points                                          |
-| ---------------------------------------------------------- | ------------------------------------------------------ |
-| Hungary (MÁV)                                              | Röszke (Gr), Subotica (Gr)                             |
-| [Romania](/country/romania) ([CFR](/operator/cfr))         | Jimbolia (fr), Vršac (fr)                              |
-| [Bulgaria](/country/bulgaria) ([BDZ](/operator/bdz))       | Dimitrovgrad (fr)                                      |
-| North Macedonia (ŽRSM)                                     | Tabanovci (fr) (Serbian: Табановце; Albanian: Tabanoc) |
-| [Montenegro](/country/montenegro) ([ŽPCG](/operator/zpcg)) | Bijelo Polje (Gr)                                      |
-| Bosnia and Herzegovina (ZRS/ŽFBH)                          | Savski Brežovljani, Zvornik                            |
-| Croatia (HŽ)                                               | Erdut (Gr) (Serbian: Ердут), Šid (Gr) (Serbian: Шид)   |
+| Country                                                                                                   | Border Points                                          |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------- |
+| Hungary (MÁV)                                                                                             | Röszke (Gr), Subotica (Gr)                             |
+| [Romania](/country/romania) ([CFR](/operator/cfr))                                                        | Jimbolia (fr), Vršac (fr)                              |
+| [Bulgaria](/country/bulgaria) ([BDZ](/operator/bdz))                                                      | Dimitrovgrad (fr)                                      |
+| North Macedonia (ŽRSM)                                                                                    | Tabanovci (fr) (Serbian: Табановце; Albanian: Tabanoc) |
+| [Montenegro](/country/montenegro) ([ŽPCG](/operator/zpcg))                                                | Bijelo Polje (Gr)                                      |
+| [Bosnia and Herzegovina](/country/bosnia-and-herzegovina) ([ŽFBH](/operator/zfbh) / [ŽRS](/operator/zrs)) | Zvornik                                                | Savski Brežovljani, Zvornik |
+| Croatia (HŽ)                                                                                              | Erdut (Gr) (Serbian: Ердут), Šid (Gr) (Serbian: Шид)   |
 
 {{% /expander %}}
 

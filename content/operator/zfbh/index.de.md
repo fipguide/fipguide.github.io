@@ -91,9 +91,9 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 
 {{% highlight tip %}}
 Die ŽFBH betreibt nur sehr wenige Züge auf nur noch einzelnen Strecken der Entität Bosnien und Herzegowina. Ein Highlight ist sicherlich die Fahrt in den Talgo-Wagen auf der Strecke zwischen Sarajevo und Mostar, die zu den schönsten Bahnstrecken Europas gehört. Damit sind die zwei touristischsten Städte des Landes zumindest etwa drei mal am Tag per Bahn verbunden. Auch die Weiterfahrt ins kroatische Ploče bietet sich an, der Ort ist nur aus Bosnien und Herzegowina per Bahn erreichbar und nicht mit dem restlichen kroatischen Schiennenetz verbunden.
+{{% /highlight %}}
 
 Leider werden derzeit keine entitätsüberschreitenden Züge angeboten und auch die Taktung innerhalb der Entität Bosnien und Herzegowina ist sehr schlecht. Beispielsweise hat der Regionalzug zwischen Sarajevo und Zenica keinerlei Anschluss an den Regionalzug nach Maglaj.
-{{% /highlight %}}
 
 ## Quellen
 

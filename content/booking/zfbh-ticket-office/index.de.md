@@ -8,7 +8,7 @@ params:
   type: "onsite"
 ---
 
-Fahrkartenschalter der ŽFBH sind nur an den wichtigsten Bahnhöfen zu finden.
+Fahrkartenschalter der ŽFBH sind nur an den wichtigsten Bahnhöfen zu finden. Eine Liste der Fahrkartenschalter ist auf der [Website der ŽFBH](https://www.zfbh.ba/en/kontakt/) ganz unten verfügbar.
 
 {{% booking-section "fip_50" %}}
 
@@ -16,12 +16,16 @@ Fahrkartenschalter der ŽFBH sind nur an den wichtigsten Bahnhöfen zu finden.
 
 Am ŽFBH Ticketschalter können FIP 50 Fahrkarten für Reisen für von der ŽFBH betriebenen Zügen innerhalb von Bosnien und Herzegowina sowie für Fahrten ins kroatische Ploče erworben werden.
 
-Es ist jedoch zu beachten, dass FIP nicht immer bekannt ist und teilweise stattdessen Tickets mit anderen Ermäßigungen ausgestellt werden. Eine Garantie auf 50 % Rabatt auf den regulären Fahrpreis gibt es daher nicht.
+{{< highlight inofficial >}}
+FIP ist vor Ort nicht immer bekannt und teilweise werden Tickets mit anderen Ermäßigungen ausgestellt. [^1]
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
-## Reservierungen und Aufschläge
+## Reservierungen
 
 Uns ist aktuell nicht bekannt, ob Reservierungen angeboten werden.
 {{% /booking-section %}}
+
+[^1]: [FIP Guide Community – Bosnian FIP Coupons](https://discord.com/channels/1250522473188032512/1489819920299593859)
