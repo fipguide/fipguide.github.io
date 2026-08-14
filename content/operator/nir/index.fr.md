@@ -88,6 +88,12 @@ Les enfants jusqu’à 5 ans voyagent gratuitement. Les jeunes jusqu’à 16 ans
 
 Les interruptions de voyage ne sont autorisées que pour prendre des trains de correspondance.[^1]
 
+## Recommandations
+
+{{% highlight tip %}}
+Sur son réseau plutôt compact, la NIR propose un service cadencé fiable avec des trains quelque peu vieillissants. Elle offre notamment un service suburbain similaire à un réseau de S-Bahn autour de Belfast. La liaison proposée environ toutes les heures entre Belfast et Derry-Londonderry, et en particulier le tronçon entre Coleraine et Derry-Londonderry, vaut particulièrement le détour, car elle longe directement la côte nord.
+{{% /highlight %}}
+
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782285-northern-ireland.html)
