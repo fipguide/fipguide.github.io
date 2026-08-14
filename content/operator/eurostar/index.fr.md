@@ -108,6 +108,8 @@ Lors de la réservation, les prix en euros sont généralement plus avantageux q
 
 Les billets sont émis exclusivement sous forme numérique (email requis).
 
+La carte FIP doit être présentée lors de l'embarquement.
+
 ### En ligne
 
 Mais la gestion du billet (annulation, échange, rebooking) est possible via le site Eurostar, plus d’informations sous [Modifications & Annulations](#modifications--annulations). Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
