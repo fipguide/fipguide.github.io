@@ -1,17 +1,15 @@
 ---
 draft: false
-title: "Guichet ZSSK"
-description: "Informations de réservation aux guichets ZSSK."
-
+title: Guichet ZSSK
+description: Informations de réservation aux guichets ZSSK.
 params:
   classes:
-    first: "2 €"
-    second: "1 €"
+    first: 2 €
+    second: 1 €
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.zssk.sk/en/sales-points-and-reservations/"
-  type: "onsite"
-
+  additional_info_link: https://www.zssk.sk/en/sales-points-and-reservations/
+  type: onsite
 aliases:
   - zssk_ticket_office
 ---

@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "Stena Line BV"
+title: Stena Line BV
 country:
-  - "netherlands"
-  - "united-kingdom"
-operator: "stl"
-
+  - netherlands
+  - united-kingdom
+operator: stl
 aliases:
   - /booking/stena-line-bv-email
   - /booking/stena-line-bv-phone
@@ -25,17 +24,20 @@ The ferry connections on the Irish Sea are operated as a separate FIP operator, 
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Ship Categories and Reservations
 
 {{% train-category
-  title="Ferry (Day Service)"
-  type="ship"
-  fip_accepted=true
-  reservation_possible=true
-  reservation_required=false
+    id="day"
+    title="Ferry (Day Service)"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
 %}}
+
 One ferry operates in each direction:
 
 - Hoek van Holland to Harwich: 14:15 – 19:45, 6:30h (Stena Britannica)
@@ -51,15 +53,18 @@ On board you will find a variety of services:
 - deck bar with a view
 
 A cabin can be booked as an optional extra.
+
 {{% /train-category %}}
 
 {{% train-category
-  title="Ferry (Night Service)"
-  type="ship"
-  fip_accepted=true
-  reservation_possible=true
-  reservation_required=true
+    id="night"
+    title="Ferry (Night Service)"
+    type="ship"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
+
 One ferry operates in each direction:
 
 - Hoek van Holland to Harwich: 22:00 – 06:30, 9:30h (Stena Hollandica)
@@ -75,6 +80,7 @@ On board you will find a variety of services:
 - deck bar with a view
 
 Cabin reservation is mandatory.[^2]
+
 {{% /train-category %}}
 
 ## Class Categories
@@ -94,49 +100,41 @@ Generally, the overnight crossing is more expensive than the day crossing. This 
 {{% expander "Find costs online" info %}}
 
 {{% float-image
-  src="determine_costs_1.webp"
-  alt="Step 1"
-  width="40%"
-  position="right"
+    src="determine_costs_1.webp"
+    alt="Step 1"
+    width="40%"
+    position="right"
 %}}
-
 The costs for day and night crossings can be viewed on the Stena Line website before booking. To do this, first visit the [Stena Line website (UK)](https://www.stenaline.co.uk/). If you want prices in Euro, select the appropriate language at the bottom of the homepage.
-
 {{% /float-image %}}
 
 {{% float-image
-  src="determine_costs_2.webp"
-  alt="Step 2"
-  width="40%"
-  position="right"
+    src="determine_costs_2.webp"
+    alt="Step 2"
+    width="40%"
+    position="right"
 %}}
-
 In the next step, you need to switch to the old booking system. The new booking system does not show a detailed cost breakdown.
-
 {{% /float-image %}}
 
 {{% float-image
-  src="determine_costs_3.webp"
-  alt="Step 3"
-  width="40%"
-  position="right"
+    src="determine_costs_3.webp"
+    alt="Step 3"
+    width="40%"
+    position="right"
 %}}
-
 Then you can proceed through the booking steps. When choosing the fare, you can select Flexi or Economy.
-
 {{% /float-image %}}
 
 {{% float-image
-  src="determine_costs_4.webp"
-  alt="Step 4"
-  width="40%"
-  position="right"
+    src="determine_costs_4.webp"
+    alt="Step 4"
+    width="40%"
+    position="right"
 %}}
-
 After selecting all desired additional options and cabins, you will receive a cost breakdown in the sidebar. With a FIP Coupon, the travel costs (listed as Economy or Flexi) are set to 0, while the remaining amount stays the same. Therefore, the travel costs can simply be subtracted to determine the costs with a FIP Coupon.
 
 As of 22.12.2025, port fees are £ 3 / € 3 and environmental charges are £ 10.30 / € 12 per person per crossing. In addition, there are cabin costs and other additional options, which are charged at full price.
-
 {{% /float-image %}}
 
 {{% /expander %}}

@@ -1,17 +1,16 @@
 ---
 draft: false
-title: "National Rail Ticket Office"
-description: "Booking information for National Rail ticket offices."
-
+title: National Rail Ticket Office
+description: Booking information for National Rail ticket offices.
 params:
   classes:
-    first: "free"
-    second: "free"
+    first: free
+    second: free
   fip_50: true
   fip_75: true
   reservations: true
-  additional_info_link: "https://www.nationalrail.co.uk/stations/"
-  type: "onsite"
+  additional_info_link: https://www.nationalrail.co.uk/stations/
+  type: onsite
 ---
 
 Ticket offices in Great Britain are usually operated by the respective train company of the station. However, the different operators also sell tickets and reservations for trains of other railway companies in the country.

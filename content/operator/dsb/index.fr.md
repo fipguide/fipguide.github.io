@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "DSB"
+title: DSB
 country:
-  - "denmark"
-operator: "dsb"
-
+  - denmark
+operator: dsb
 aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
@@ -21,13 +20,14 @@ La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du [Danemark](/
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les trains DSB. Pour les trajets transfrontaliers, un Billet FIP 50 couvrant l’ensemble du trajet ou des Coupons FIP valables dans les deux pays sont requis.
 
 ## Catégories de trains et réservations
 
-Au Danemark, les réservations sont possibles mais non obligatoires. Sur les trajets transfrontaliers avec l’Allemagne, notamment les `ECE` Hambourg — Copenhague, la réservation est souvent obligatoire en été.
+Au Danemark, les réservations sont possibles mais non obligatoires. Sur les trajets transfrontaliers avec l’Allemagne, notamment les `ECE` et `RAIL JET` Hambourg — Copenhague, la réservation est souvent obligatoire en été. Si la réservation est effectuée à bord du train, un supplément de 50 DKK par réservation sera perçu.
 
 {{% train-category
     id="intercity-lyn"
@@ -96,16 +96,17 @@ Une réservation est recommandée pour les trajets transfrontaliers et général
     title="Train régional (R / RE)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Trains régionaux desservant toutes les gares hors du réseau S-tog de Copenhague.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 D’autres opérateurs utilisent aussi la catégorie `R` — vérifiez toujours que le train est bien exploité par DSB. \
 Les trains marqués `RA` ne sont pas exploités par DSB et ne sont donc pas inclus dans FIP. \
 Les trains marqués `RE` sont généralement exploités par DSB.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -114,6 +115,7 @@ Les trains marqués `RE` sont généralement exploités par DSB.
     title="S-tog (S)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -193,7 +195,7 @@ Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus
 ## Recommandations
 
 {{% highlight tip %}}
-La DSB offre un service fiable et confortable. La 1ʳᵉ classe est particulièrement avantageuse pour les voyageurs FIP : boissons chaudes, eau, snacks à volonté, parfois petit-déjeuner le matin, et accès aux salons DSB à Copenhague, Odense et Aarhus. Une boisson gratuite (café, thé, eau) est aussi offerte dans les magasins 7/11 de gare. [^2]
+La DSB offre un service fiable et confortable. La 1ʳᵉ classe est particulièrement avantageuse pour les voyageurs FIP : boissons chaudes, eau, snacks à volonté, petit-déjeuner le matin entre 5 h et 9 h 30, et accès aux salons DSB à Copenhague, Odense et Aarhus. Une boisson gratuite (café, thé, eau) est aussi offerte dans les magasins 7/11 de gare. [^2]
 {{% /highlight %}}
 
 ## Sources

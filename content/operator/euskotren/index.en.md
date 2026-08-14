@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "Euskotren"
+title: Euskotren
 country:
-  - "spain"
-operator: "euskotren"
-
+  - spain
+operator: euskotren
 aliases:
   - /booking/euskotren-ticket-office
 ---
@@ -20,21 +19,21 @@ In northern [Spain](/country/spain "Spain"), Euskotren operates a Basque railway
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="invalid" subtitle="FIP 50" disable_dialog=true >}}
+
 {{< fip-validity type="additional" status="valid" text="Special 'Euskotren FIP Ticket' (for holders & relatives)" disable_dialog=true >}}
 
 {{% float-image
-  src="euskotren_fip_ticket.webp"
-  alt="Euskotren FIP Ticket"
-  caption="Euskotren FIP Ticket"
-  width="30%"
-  position="left"
+    src="euskotren_fip_ticket.webp"
+    alt="Euskotren FIP Ticket"
+    caption="Euskotren FIP Ticket"
+    width="30%"
+    position="left"
 %}}
-
 The staff at Euskotren customer centers will issue you a special "Euskotren FIP Ticket" upon presentation of your FIP Card.
 The ticket is also issued for relatives with their own FIP Card. It is valid for 7 days including the day of issue and you can use it for the entire Euskotren network except for regional bus lines and the museum railway.
 You use the "Euskotren FIP Ticket" to pass through platform barriers. After expiry, you can have the ticket reissued multiple times per year. Euskotren does not apply the usual limitation for FIP Coupons.
-
 {{% /float-image %}}
 
 {{% highlight tip %}}
@@ -46,11 +45,12 @@ Some train operators also issue FIP Coupons for Euskotren. According to our info
 Reservations are generally not possible with Euskotren.
 
 {{% train-category
-  id="meter-gauge"
-  title="Meter-gauge Railway"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+    id="meter-gauge"
+    title="Meter-gauge Railway"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Euskotren operates trains on the electrified meter-gauge railway in the provinces of Bizkaia and Gipuzkoa. The "Euskotren FIP Tickets" are valid on all lines, including the line to the TGV station Hendaye in France.
@@ -58,11 +58,12 @@ Euskotren operates trains on the electrified meter-gauge railway in the province
 {{% /train-category %}}
 
 {{% train-category
-id="tram"
-title="Trams"
-type="tram"
-fip_accepted=true
-reservation_possible=false
+    id="tram"
+    title="Trams"
+    type="tram"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 The "Euskotren FIP Tickets" are valid on both the tram in Bilbao and in Vitoria-Gasteiz.
@@ -72,11 +73,12 @@ According to the Rail Delivery Group guide, the ticket must be validated when us
 {{% /train-category %}}
 
 {{% train-category
-  id="subway"
-  title="Metro Line L3 in Bilbao"
-  type="subway"
-  fip_accepted=true
-  reservation_possible=false
+    id="subway"
+    title="Metro Line L3 in Bilbao"
+    type="subway"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 In Bilbao there is a metro network with three lines. On line L3, Euskotren accepts the "Euskotren FIP Tickets".
@@ -88,11 +90,12 @@ On all other lines (L1 and L2) in Bilbao's metro network, Metro Bilbao does not 
 {{% /train-category %}}
 
 {{% train-category
-  id="funicular"
-  title="Funicular Railway \"Funicular de Larreineta\""
-  type="funicular"
-  fip_accepted=true
-  reservation_possible=false
+    id="funicular"
+    title="Funicular Railway \"Funicular de Larreineta\""
+    type="funicular"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Euskotren operates the historic funicular railway between Trapagaran and Larreineta, connecting the mountain settlements above Trapagaran with the valley.
@@ -104,12 +107,16 @@ If you don't have an "Euskotren FIP Ticket", the staff at the stations will issu
 {{% /train-category %}}
 
 {{% train-category
-  id="bus"
+    id="bus"
     title="Bus"
-  type="bus"
-  fip_accepted=false
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 FIP Tickets are not valid on Euskotren's regional bus lines. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
 {{% /train-category %}}
 
 ## Class Categories

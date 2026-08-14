@@ -1,14 +1,13 @@
 ---
 draft: false
-title: "Eurostar"
+title: Eurostar
 country:
-  - "belgium"
-  - "germany"
-  - "netherlands"
-  - "united-kingdom"
-  - "france"
-operator: "eurostar"
-
+  - belgium
+  - germany
+  - netherlands
+  - united-kingdom
+  - france
+operator: eurostar
 aliases:
   - /booking/eurostar-phone
   - /booking/eurostar-ticket-office
@@ -28,7 +27,9 @@ Eurostar is an operator of high-speed trains in Western Europe. Originally, only
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="invalid" subtitle="FIP 50 / FIP 75" disable_dialog=true >}}
+
 {{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. All tickets are train-specific due to the reservation requirement. However, rebooking to other trains or canceling FIP Tickets is possible via the [Eurostar website](https://www.eurostar.com/). Tickets can only be purchased separately and not as part of through tickets. [^1]
@@ -81,12 +82,12 @@ High-speed train between Belgium, Germany, France, and the Netherlands.
 {{% /train-category %}}
 
 {{% train-category
-id="eurostar-snow"
-title="Eurostar Snow: Amsterdam / Brussels – French Alps"
-type="highspeed"
-fip_accepted=false
-reservation_required=true
-reservation_possible=true
+    id="eurostar-snow"
+    title="Eurostar Snow: Amsterdam / Brussels – French Alps"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 High-speed train from Amsterdam and Brussels to the French Alps.
@@ -130,7 +131,10 @@ Checking in, rebooking, canceling, and upgrading tickets is possible via the Eur
     fip_global_fare=true
 /%}}
 
-{{% booking id="internationalrail-email" fip_50=nil fip_75=nil /%}}
+{{% booking id="internationalrail-email"
+    fip_50=nil
+    fip_75=nil
+/%}}
 
 ### Telephone
 

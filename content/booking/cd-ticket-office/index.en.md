@@ -1,15 +1,15 @@
 ---
 draft: false
-title: "ČD Ticket Office"
-description: "Booking information for České dráhy ticket offices."
+title: ČD Ticket Office
+description: Booking information for České dráhy ticket offices.
 params:
   classes:
-    first: "35 CZK"
-    second: "35 CZK"
+    first: 35 CZK
+    second: 35 CZK
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.cd.cz/en/typy-jizdenek/jak-koupit-jizdenku/-28750/"
-  type: "onsite"
+  additional_info_link: https://www.cd.cz/en/typy-jizdenek/jak-koupit-jizdenku/-28750/
+  type: onsite
 ---
 
 {{% booking-section "fip_50" %}}
@@ -18,10 +18,9 @@ params:
 
 At ČD ticket offices, FIP 50 Tickets can be purchased for travel within Czechia and to other European countries.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 ČD can also sell tickets to Border Points and not only to actual stations. This is particularly helpful for journeys to other countries for which a FIP Coupon is available.
-{{% /highlight %}}
-
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -29,5 +28,4 @@ At ČD ticket offices, FIP 50 Tickets can be purchased for travel within Czechia
 ## Reservations
 
 České dráhy sells reservations at its ticket offices for Czechia and some other European countries. It is also possible to reserve specific seats.
-
 {{% /booking-section %}}

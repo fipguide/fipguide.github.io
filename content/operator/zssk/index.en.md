@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "ZSSK / ZSR"
+title: ZSSK / ZSR
 country:
-  - "slovakia"
-operator: "zssk"
+  - slovakia
+operator: zssk
 aliases:
   - zsr
   - /booking/zssk-ticket-office
@@ -22,6 +22,7 @@ The ŽSR (Železnice Slovenskej republiky) and its associated train operator ZSS
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on ZSSK connections with the restriction that some (or all in 1st class) trains require reservations. For cross-border journeys, either a continuous FIP 50 ticket or FIP Coupons from both countries must be available.
@@ -79,9 +80,9 @@ Cross-border long-distance trains operated commercially by ZSSK and CD, usually 
 
 Cross-border trains between Slovakia and the Czech Republic, Austria, or Hungary. They often run with few stops and relatively high average speed. `RJ` trains are Railjet trains of the Austrian Federal Railways, which can also be used with ZSSK Coupons on the Slovak section.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `RJ` is also the abbreviation for RegioJet, where no FIP Tickets are valid.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
@@ -162,6 +163,8 @@ Reservations are required only in 1st class.
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Buses are excluded from FIP discounts. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]

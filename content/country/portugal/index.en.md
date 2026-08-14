@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Portugal"
-country: "portugal"
+title: Portugal
+country: portugal
 params:
   operators_without_fip:
     - Fertagus

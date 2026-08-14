@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Slowenien"
-country: "slovenia"
+title: Slowenien
+country: slovenia
 params:
   operators_without_fip:
     - Optima Express
@@ -26,12 +26,13 @@ Die schönste Bahnstrecke des Landes ist die Wocheinerbahn von Jesenice nach Nov
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
-| Land | Grenzpunkte |
-| --- | --- |
-| [Italien](/country/italy) ([FS](/operator/fs)) | Nova Gorica (fr), Villa-Opicina (fr) (Sloweenisch: Opčine, Triestisch: Opcina) |
-| Kroatien (HŽ) | Buzet (Gr), Čakovec (Gr), Dobova (Gr), Kumrovec (Gr), Metlika (Gr), Mursko Središće (Gr), Rogatec (Gr), Šapjane (Gr) |
-| [Österreich](/country/austria) ([ÖBB](/operator/oebb)) | Bleiburg (Gr) (Slowenisch: Pliberk), Jesenice (Gr) (Deutsch: Assling), Spielfeld (Gr) (Slowenisch: Špilje) |
-| Ungarn (MÁV, [GySEV](/operator/gysev)) | Hodoš (Gr) (auch Őrihodos genannt) |
+
+| Land                                                   | Grenzpunkte                                                                                                          |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| [Italien](/country/italy) ([FS](/operator/fs))         | Nova Gorica (fr), Villa-Opicina (fr) (Sloweenisch: Opčine, Triestisch: Opcina)                                       |
+| Kroatien (HŽ)                                          | Buzet (Gr), Čakovec (Gr), Dobova (Gr), Kumrovec (Gr), Metlika (Gr), Mursko Središće (Gr), Rogatec (Gr), Šapjane (Gr) |
+| [Österreich](/country/austria) ([ÖBB](/operator/oebb)) | Bleiburg (Gr) (Slowenisch: Pliberk), Jesenice (Gr) (Deutsch: Assling), Spielfeld (Gr) (Slowenisch: Špilje)           |
+| Ungarn (MÁV, [GySEV](/operator/gysev))                 | Hodoš (Gr) (auch Őrihodos genannt)                                                                                   |
 
 {{% /expander %}}
 

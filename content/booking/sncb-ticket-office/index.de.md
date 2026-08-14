@@ -1,15 +1,13 @@
 ---
 draft: false
-title: "SNCB Ticketschalter"
-description: "Buchungsinformationen für die SNCB Ticketschalter."
-
+title: SNCB Ticketschalter
+description: Buchungsinformationen für die SNCB Ticketschalter.
 params:
   fip_50: true
   fip_75: true
   reservations: true
-  additional_info_link: "https://www.belgiantrain.be/de/station-information/nmbs-stations/ticket-offices"
-  type: "onsite"
-
+  additional_info_link: https://www.belgiantrain.be/de/station-information/nmbs-stations/ticket-offices
+  type: onsite
 aliases:
   - sncb_ticket_office
 ---

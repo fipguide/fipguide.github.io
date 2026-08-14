@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "Stena Line Limited"
+title: Stena Line Limited
 country:
-  - "ireland"
-  - "united-kingdom"
-operator: "sll"
-
+  - ireland
+  - united-kingdom
+operator: sll
 aliases:
   - /booking/stena-line-limited-email
   - /booking/stena-line-limited-phone
@@ -23,12 +22,14 @@ Les services de ferry entre Harwich ([Royaume-Uni](/country/united-kingdom)) et 
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Catégories de navires et réservations
 
 {{% float-image
     src="stena_line_limited_route_map.svg"
+    alt="Carte des lignes Stena Line Limited"
     width="40%"
     position="right"
 %}}
@@ -57,48 +58,41 @@ FIP n’accorde qu’une remise sur le tarif, toutes les prestations supplément
 Avec un Coupon FIP, la traversée est gratuite.
 
 {{% expander "Vérifier les prix en ligne" info %}}
-{{% float-image
-src="determine_costs_1.webp"
-alt="Étape 1"
-width="40%"
-position="right"
-%}}
 
+{{% float-image
+    src="determine_costs_1.webp"
+    alt="Étape 1"
+    width="40%"
+    position="right"
+%}}
 Les coûts peuvent être consultés sur le site Web de Stena Line avant la réservation. Pour ce faire, visitez d’abord le [site Web de Stena Line (UK)](https://www.stenaline.co.uk/). Si vous souhaitez voir les prix en euros, sélectionnez la langue appropriée en bas de la page d’accueil.
-
 {{% /float-image %}}
 
 {{% float-image
-src="determine_costs_2.webp"
-alt="Étape 2"
-width="40%"
-position="right"
+    src="determine_costs_2.webp"
+    alt="Étape 2"
+    width="40%"
+    position="right"
 %}}
-
 À l’étape suivante, vous devez passer à l’ancien système de réservation. Le nouveau système de réservation n’affiche pas de détail des coûts.
-
 {{% /float-image %}}
 
 {{% float-image
-src="determine_costs_3.webp"
-alt="Étape 3"
-width="40%"
-position="right"
+    src="determine_costs_3.webp"
+    alt="Étape 3"
+    width="40%"
+    position="right"
 %}}
-
 Ensuite, vous pouvez suivre les étapes de réservation. Lors du choix du tarif, vous pouvez sélectionner Flexi ou Economy.
-
 {{% /float-image %}}
 
 {{% float-image
-src="determine_costs_4.webp"
-alt="Étape 4"
-width="40%"
-position="right"
+    src="determine_costs_4.webp"
+    alt="Étape 4"
+    width="40%"
+    position="right"
 %}}
-
 Après avoir sélectionné toutes les options supplémentaires et cabines souhaitées, vous recevrez un détail des coûts dans la barre latérale. Avec un Coupon FIP, les frais de traversée (indiqués comme Economy ou Flexi) sont fixés à 0, le montant restant demeure. Par conséquent, les frais de traversée peuvent simplement être soustraits pour déterminer le coût avec un Coupon FIP.
-
 {{% /float-image %}}
 
 Les taxes portuaires et les taxes environnementales sont ajoutées au tarif conformément aux informations suivantes (état au 09.05.2026) : [^2]
@@ -118,6 +112,7 @@ Les taxes portuaires et les taxes environnementales sont ajoutées au tarif conf
 ### Taxes environnementales
 
 Les taxes environnementales sont de 2,00 £ / 2,00 € pour les passagers, 3,00 £ / 3,00 € pour les véhicules et 1,00 £ / 1,00 € pour les enfants (4-15 ans).
+
 {{% /expander %}}
 
 ### Par téléphone

@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "CIE"
+title: CIE
 country:
-  - "ireland"
-operator: "cie"
-
+  - ireland
+operator: cie
 aliases:
   - /booking/irish-rail-ticket-office
   - /booking/irish-rail-website
@@ -23,6 +22,7 @@ On its website, Irish Rail provides an [overview map of the routes](https://www.
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 ## Train Categories and Reservations
@@ -39,9 +39,9 @@ On its website, Irish Rail provides an [overview map of the routes](https://www.
 
 InterCity trains connect the major cities of Ireland, including Dublin, Cork, Galway and Limerick. FIP is accepted on all InterCity services. The Enterprise Service between Dublin and Belfast is also operated by InterCity trains. More information about the Enterprise can be found on the [Ireland page](/country/ireland#united-kingdom).
 
-{{% highlight important %}}
+{{< highlight important >}}
 First Class between Dublin and Cork may not be used with FIP. More information about class categories can be found [below](#class-categories).
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
@@ -82,6 +82,7 @@ DART (Dublin Area Rapid Transit) is a suburban rail network connecting Dublin's 
     title="Bus Éireann"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -94,6 +95,7 @@ FIP is not valid on Bus Éireann bus services.
     title="Dublin Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=false
 %}}
 

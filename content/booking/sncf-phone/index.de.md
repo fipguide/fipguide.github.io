@@ -1,17 +1,16 @@
 ---
 draft: false
-title: "SNCF Telefon"
-description: "Buchungsinformationen für die SNCF Hotline."
-
+title: SNCF Telefon
+description: Buchungsinformationen für die SNCF Hotline.
 params:
   classes:
-    first: "2 € / 16 €"
-    second: "2 € / 11 €"
+    first: 2 € / 16 €
+    second: 2 € / 11 €
   fip_50: true
   fip_75: true
   reservations: true
-  additional_info_link: "https://www.sncf-voyageurs.com/en/contact-us/our-contact-points/by-phone/"
-  type: "phone"
+  additional_info_link: https://www.sncf-voyageurs.com/en/contact-us/our-contact-points/by-phone/
+  type: phone
 ---
 
 Buchungen per Telefon sind über die SNCF Hotline möglich:
@@ -32,7 +31,7 @@ Eine zusätzliche Buchungsgebühr fällt bei FIP Tickets nicht an.
 
 Sobald die Fahrkarten oder Reservierungen bestätigt sind, werden eine PNR (Buchungsbestätigung) sowie das eTicket per E-Mail versendet. Bei der Zugreise muss das eTicket zusammen mit dem FIP Freifahrtschein oder dem FIP Ausweis vorgelegt werden.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Um Wartezeiten zu vermeiden, kann auf der [Website der SNCF](https://www.tgvinoui.sncf/services/mieux-vous-accompagner/prise-de-rendez-vous) ein Rückruftermin vereinbart werden. Dabei kann der Name und die E-Mail-Adresse bereits vorab angegeben werden und muss nicht mehr am Telefon diktiert werden. Außerdem kann im Freitextfeld die gewünschte Verbindung angegeben und der FIP Ermäßigung angegeben werden.
 
 Der Rückrufservice funktioniert nur mit französischen Telefonnummern oder ausländischen Festnetznummern. Ausländische Mobilfunknummern funktionieren nicht.
@@ -40,7 +39,7 @@ Der Rückrufservice funktioniert nur mit französischen Telefonnummern oder ausl
 Die SNCF kennt die FIP Ermäßigungen teilweise auch unter den Namen: \
 _FIP cheminot étranger_ = 50% FIP Ermäßigung \
 _FIP permis (ayant droit SNCF)_ = 100% / FIP Freifahrtschein SNCF
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% booking-section "fip_50" %}}
 
@@ -54,8 +53,7 @@ Wenn das Personal am Telefon unsicher ist, welchen Tarifcode es verwenden soll, 
 - Aktive Mitarbeitende und deren Angehörige (außer GB National Rail), Personen im Ruhestand — CF54 : Upgrade mit FIP 50 Ticket auf die 1. Klasse + obligatorische Reservierung in Zügen.
 - Aktive Mitarbeitende und deren Angehörige (nur GB National Rail) — CF77 : FIP 75 Ticket (75% Rabatt) + obligatorische Reservierung in Zügen.
 - Aktive Mitarbeitende und deren Angehörige (nur GB National Rail) — CF78 : Upgrade mit FIP 75 Ticket auf die 1. Klasse + obligatorische Reservierung in Zügen.
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
@@ -67,8 +65,7 @@ Wenn das Personal am Telefon unsicher ist, welchen Tarifcode es verwenden soll, 
 
 - FIP Freifahrtschein — CF70: Nur Reservierungskauf.
 - FIP Freifahrtschein — CF71: Upgrade der FIP Freifahrtschein-Reservierung auf die 1. Klasse.
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 {{% satellite /%}}
 

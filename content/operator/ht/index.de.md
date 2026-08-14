@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "Hellenic Train"
+title: Hellenic Train
 country:
-  - "greece"
-operator: "ht"
-
+  - greece
+operator: ht
 aliases:
   - /booking/ht-ticket-office
   - /booking/ht-website
@@ -20,6 +19,7 @@ Die Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) bet
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Zugkategorien und Reservierungen
@@ -39,12 +39,12 @@ Diese Züge verbinden Athen (Αθήνα) und Thessaloniki (Θεσσαλονίκ�
 
 Reservierungen sind vorab zwingend zu erwerben. Sie können online oder vor Ort gekauft werden.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Die IC-Züge sind häufiger einige Tage vorher ausgebucht. Es empfiehlt sich, sich rechtzeitig um eine Reservierung zu kümmern.
 
 Trick für Reisende mit FIP Freifahrtschein:
 Da online keine einzelnen Reservierungen verfügbar sind, buche zunächst ein FIP 50 Ticket. Dieses ist kostenfrei stornierbar. Vor Ort kannst du prüfen, ob noch Reservierungen verfügbar sind. Falls ja, storniere das FIP 50 Ticket, sonst fahre mit dem FIP 50 Ticket.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -54,15 +54,16 @@ Da online keine einzelnen Reservierungen verfügbar sind, buche zunächst ein FI
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
 
 Regionalzüge verbinden Städte und Regionen außerhalb der Hauptachse.
 
 Teilweise werden die Züge als Proastiakos oder Suburban Railway bezeichnet, was vergleichbar mit einer S-Bahn ist. In der Verbindungsauskunft erscheinen diese Verbindungen allerdings ebenfalls als Regionalzüge `REG`.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Touristische Verbindungen wie der Pelion-Train werden in der Verbindung ebenfalls als `REG` gekennzeichnet, allerdings gilt hier kein FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -72,6 +73,7 @@ Touristische Verbindungen wie der Pelion-Train werden in der Verbindung ebenfall
     type="bus"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=true
 %}}
 
 Von Hellenic Train betriebene Busse erkennen FIP-Vergünstigungen an.[^1]
@@ -83,6 +85,8 @@ Von Hellenic Train betriebene Busse erkennen FIP-Vergünstigungen an.[^1]
     title="Touristische und historische Züge"
     type="regional"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Hellenic Train betreibt drei touristische bzw. historische Zugverbindungen, auf welchen allerdings kein FIP anerkannt wird.[^1]
@@ -91,7 +95,7 @@ Hellenic Train betreibt drei touristische bzw. historische Zugverbindungen, auf 
 - Zahnradbahn "Odontotos" von Diakopto (Διακοπτό) nach Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/attraction-rails)
 - Katakolo (Κατάκολο) – Olympia (Αρχαία Ολυμπία) (https://www.hellenictrain.gr/en/katakolo-olympia)
 
-{{< highlight info >}}
+{{< highlight tip >}}
 Laut Erfahrungsberichten kann die Zahnradbahn zwischen Diakopto und Kalavryta mit FIP Freifahrtschein und vor Ort erhältlicher, kostenfreier Reservierung genutzt werden. Die Nutzbarkeit mit FIP 50 können wir derzeit nicht validieren, da der Betrieb vorerst eingestellt wurde.[^3]
 {{< /highlight >}}
 
@@ -107,15 +111,15 @@ Laut Erfahrungsberichten kann die Zahnradbahn zwischen Diakopto und Kalavryta mi
 ### Online
 
 {{% booking id="ht-website"
-    fip_global_fare=nil
     fip_50=true
+    fip_global_fare=nil
 /%}}
 
 ### Vor Ort
 
 {{% booking id="ht-ticket-office"
-    fip_global_fare=nil
     fip_50=true
+    fip_global_fare=nil
 /%}}
 
 ### Im Zug

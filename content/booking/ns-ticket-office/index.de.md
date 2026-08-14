@@ -1,14 +1,12 @@
 ---
 draft: false
-title: "NS Ticketschalter"
-description: "Buchungsinformationen für die NS Ticketschalter."
-
+title: NS Ticketschalter
+description: Buchungsinformationen für die NS Ticketschalter.
 params:
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.ns.nl/en/travel-information/facilities/ov-service-and-tickets-shops.html"
-  type: "onsite"
-
+  additional_info_link: https://www.ns.nl/en/travel-information/facilities/ov-service-and-tickets-shops.html
+  type: onsite
 aliases:
   - ns_ticket_office
 ---
@@ -50,7 +48,6 @@ FIP 50 Tickets für die Niederlande können an NS Ticketschaltern erworben werde
 - Zaandam
 - Zwolle
 {.o-section--columns-3}
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

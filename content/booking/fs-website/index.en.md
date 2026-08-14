@@ -1,17 +1,16 @@
 ---
 draft: false
-title: "Trenitalia Website"
-description: "Booking information for the Trenitalia website."
-
+title: Trenitalia Website
+description: Booking information for the Trenitalia website.
 params:
   fip_50: false
   reservations: true
   classes:
-    first: "3 € / 25 €"
-    second: "3 € / 25 €"
-  booking_link: "https://www.trenitalia.com/en.html"
-  additional_info_link: "https://www.trenitalia.com/en/information/customer-service-offices.html"
-  type: "website"
+    first: 3 € / 25 €
+    second: 3 € / 25 €
+  booking_link: https://www.trenitalia.com/en.html
+  additional_info_link: https://www.trenitalia.com/en/information/customer-service-offices.html
+  type: website
 ---
 
 {{% booking-section "reservations" %}}
@@ -33,11 +32,10 @@ When booking, you must first select a connection via the journey planner. Then, 
 ![Show more offers](reservation_1.webp)
 ![Select fare](reservation_2.webp)
 {.o-section--columns-flex}
-
 {{% /booking-section %}}
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 For short distances on Le Frecce, the standard fare may be cheaper than FIP reduced tickets.
 
 Additionally, supplements for Le Frecce and other long-distance trains can sometimes be more expensive than a FIP 50 Ticket.
-{{% /highlight %}}
+{{< /highlight >}}

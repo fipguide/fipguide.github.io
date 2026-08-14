@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "Koleje Dolnośląskie Ticketschalter"
-description: "Buchungsinformationen für die Koleje Dolnośląskie Ticketschalter."
-
+title: Koleje Dolnośląskie Ticketschalter
+description: Buchungsinformationen für die Koleje Dolnośląskie Ticketschalter.
 params:
   fip_50: true
-  additional_info_link: "https://kolejedolnoslaskie.pl/informacje-o-kanalach-sprzedazy/kasy-biletowe/"
-  type: "onsite"
+  additional_info_link: https://kolejedolnoslaskie.pl/informacje-o-kanalach-sprzedazy/kasy-biletowe/
+  type: onsite
 ---
 
 Die KD betreibt ein umfängliches Netz von Ticketschaltern, auch an kleineren Bahnhöfen. Sprachlich ist es von Vorteil, etwas polnisch zu sprechen oder die passende Übersetzer-App zu haben, da Englisch (oder auch Deutsch) oft nicht sehr verbreitet ist.

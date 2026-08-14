@@ -1,5 +1,5 @@
 ---
-title: "Le FIP s’applique-t-il également aux ayants droit ?"
+title: Le FIP s’applique-t-il également aux ayants droit ?
 weight: 3
 ---
 

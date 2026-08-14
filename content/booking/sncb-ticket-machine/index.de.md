@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "SNCB Fahrkartenautomat"
-description: "Buchungsinformationen für die SNCB Fahrkartenautomaten."
-
+title: SNCB Fahrkartenautomat
+description: Buchungsinformationen für die SNCB Fahrkartenautomaten.
 params:
   fip_50: true
   fip_75: false
   reservations: false
-  type: "machine"
+  type: machine
 ---
 
 {{% booking-section "fip_50" %}}

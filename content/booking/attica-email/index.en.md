@@ -1,11 +1,11 @@
 ---
 draft: false
-title: "Attica Email"
-description: "Booking information for booking by email with Attica."
+title: Attica Email
+description: Booking information for booking by email with Attica.
 params:
   fip_50: true
   reservations: false
-  type: "email"
+  type: email
 ---
 
 FIP 50 Tickets can be ordered by email.
