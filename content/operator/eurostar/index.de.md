@@ -202,7 +202,7 @@ Kinder unter 12 Jahren müssen von einem Erwachsenen begleitet werden. Kinder zw
 
 ### Umbuchungen & Stornierungen
 
-FIP Tickets können bis eine Stunde vor Abfahrt umgebucht oder kostenfrei storniert werden. Danach ist eine Umbuchung oder Stornierung nicht mehr möglich.
+FIP Tickets können bis zur geplanten Abfahrtszeit des Zuges umgebucht oder kostenfrei storniert werden. Danach ist eine Umbuchung oder Stornierung nicht mehr möglich.
 
 Grundsätzlich kann nur auf andere verfügbare Züge umgebucht werden, bei denen noch entsprechende Kontingente vorhanden sind, siehe auch [Ticketkontingente](#ticketkontingente). Bei der Umbuchung ist auch das Upgrade von Eurostar Standard auf Eurostar Plus gegen Zahlung der Differenz möglich. Bei einem Downgrade von Eurostar Plus auf Eurostar Standard wird die Differenz jedoch nicht erstattet.
 

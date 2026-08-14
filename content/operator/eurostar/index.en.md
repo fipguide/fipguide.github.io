@@ -202,7 +202,7 @@ Children under 12 must be accompanied by an adult. Children aged 12–15 can tra
 
 ### Rebookings & Cancellations
 
-FIP Tickets can be rebooked or canceled free of charge up to one hour before departure. After that, rebooking or cancellation is no longer possible.
+FIP Tickets can be rebooked or canceled free of charge up to the scheduled departure time of the train. After that, rebooking or cancellation is no longer possible.
 
 In general, rebooking is only possible to other available trains with remaining quotas, see also [Ticket Quotas](#ticket-quotas). When rebooking, upgrading from Eurostar Standard to Eurostar Plus by paying the difference is also possible. However, a downgrade from Eurostar Plus to Eurostar Standard will not be refunded.
 
