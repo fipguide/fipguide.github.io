@@ -152,6 +152,10 @@ fipValidity:
 footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe
+gallery:
+  aria-label: Bildgalerie
+  next: Nächstes Bild
+  previous: Vorheriges Bild
 highlight:
   confusion: Verwechslungsgefahr
   important: Wichtige Information
