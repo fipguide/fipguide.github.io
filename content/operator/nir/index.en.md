@@ -24,6 +24,19 @@ Northern Ireland Railways (NIR) is the state railway company in Northern Ireland
 ## Train Categories and Reservations
 
 {{% train-category
+    id="enterprise"
+    title="Intercity (Enterprise)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+
+NIR operates the Enterprise Service between Dublin and Belfast together with [CIE](/operator/cie).
+
+{{% /train-category %}}
+
+{{% train-category
     id="regional-trains"
     title="Regional Trains"
     type="regional"
@@ -34,19 +47,6 @@ Northern Ireland Railways (NIR) is the state railway company in Northern Ireland
 %}}
 
 NIR operates various regional train services from Belfast. Regional trains cannot be reserved and can be used with FIP.
-
-{{% /train-category %}}
-
-{{% train-category
-    id="enterprise"
-    title="Intercity (Enterprise)"
-    type="highspeed"
-    fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
-%}}
-
-NIR operates the Enterprise Service between Dublin and Belfast together with [CIE](/operator/cie).
 
 {{% /train-category %}}
 
@@ -64,10 +64,6 @@ FIP 50 / FIP 75 Tickets cannot be purchased online.
 
 {{% booking id="irish-rail-website"
     subtitle="Reservations (2nd class) for the Enterprise Service (Dublin – Belfast)."
-/%}}
-
-{{% booking id="translink-whatsapp"
-    subtitle="Reservations (1st class) for the Enterprise Service (Dublin – Belfast)."
 /%}}
 
 ### On-Site

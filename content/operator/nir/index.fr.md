@@ -24,6 +24,19 @@ Northern Ireland Railways (NIR) est la compagnie ferroviaire nationale d’Irlan
 ## Catégories de trains et réservations
 
 {{% train-category
+    id="enterprise"
+    title="Intercity (Enterprise)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+
+NIR exploite le service Enterprise entre Dublin et Belfast conjointement avec [CIE](/operator/cie).
+
+{{% /train-category %}}
+
+{{% train-category
     id="regional-trains"
     title="Trains régionaux"
     type="regional"
@@ -34,19 +47,6 @@ Northern Ireland Railways (NIR) est la compagnie ferroviaire nationale d’Irlan
 %}}
 
 NIR exploite diverses liaisons de trains régionaux au départ de Belfast. Les trains régionaux ne sont pas réservables et peuvent être utilisés avec le FIP.
-
-{{% /train-category %}}
-
-{{% train-category
-    id="enterprise"
-    title="Intercity (Enterprise)"
-    type="highspeed"
-    fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
-%}}
-
-NIR exploite le service Enterprise entre Dublin et Belfast conjointement avec [CIE](/operator/cie).
 
 {{% /train-category %}}
 
@@ -64,10 +64,6 @@ Les Billets FIP 50 / FIP 75 ne peuvent pas être achetés en ligne.
 
 {{% booking id="irish-rail-website"
     subtitle="Réservations (2e classe) pour le service Enterprise (Dublin – Belfast)."
-/%}}
-
-{{% booking id="translink-whatsapp"
-    subtitle="Réservations (1re classe) pour le service Enterprise (Dublin – Belfast)."
 /%}}
 
 ### En gare
