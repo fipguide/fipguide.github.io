@@ -108,7 +108,7 @@ Le FIP n’est pas valable sur les liaisons en bus de Dublin Bus.
 ## Catégories de classes
 
 - **Second Class** : Classe standard, utilisable avec les Billets FIP 50 / FIP 75 et les Coupons FIP de première et deuxième classe.
-- **Premier Class** : Disponible sur le trajet Dublin – Tralee et la liaison Dublin – Cork. Elle peut être utilisée avec les Coupons FIP de 1re classe, et moyennant un supplément aussi avec les Coupons FIP de 2e classe. Les voyageurs reçoivent une boisson chaude gratuite. **Important** : Aux heures de pointe, la « First Class » remplace la Premier Class et ne peut pas être utilisée avec le FIP.
+- **Premier Class** : Disponible sur le trajet Dublin – Tralee et la liaison Dublin – Cork. Elle peut être utilisée avec les Coupons FIP de 1re classe, et moyennant un supplément aussi avec les Coupons FIP de 2e classe. **Important** : Aux heures de pointe, la « First Class » remplace la Premier Class et ne peut pas être utilisée avec le FIP.
 - **First Class** : Uniquement disponible entre Dublin et Cork aux heures de pointe, également appelée City Gold. La First Class offre un service à bord et des sièges à réglage électronique. Elle ne peut pas être utilisée avec le FIP.[^2] À partir de mars 2026, toutes les liaisons entre Dublin et Cork _à l’exception_ des suivantes sont assurées avec la First Class[^1] :
   - Liaisons Premier Class Dublin – Cork : 10h00 (lundi – samedi), 12h00 (lundi – vendredi) et 14h00 (lundi – vendredi)
   - Liaisons Premier Class Cork – Dublin : 13h25 (lundi – samedi), 14h25 (dimanche uniquement), 15h25 (lundi – vendredi) et 17h25 (lundi – jeudi et samedi)
