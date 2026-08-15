@@ -47,7 +47,7 @@ La First Class entre Dublin et Cork ne peut pas être utilisée avec le FIP. Plu
 
 Les réservations sont facultatives, mais sont délivrées gratuitement pour de nombreuses liaisons et sont donc recommandées en 2e classe.
 
-Les voyageurs de 1ʳᵉ classe sont accompagnés jusqu’à une place libre à bord du train. L’accès à la 1ʳᵉ classe n’est autorisé que lorsqu’une place assise est disponible.
+Les voyageurs de 1ʳᵉ classe (First Class / Premiere Class) sont accompagnés jusqu’à une place libre à bord du train. L’accès à la 1ʳᵉ classe n’est autorisé que lorsqu’une place assise est disponible.
 
 {{% /train-category %}}
 
