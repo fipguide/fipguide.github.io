@@ -53,6 +53,40 @@ Translations for map overlay labels are injected before loading `map.js`:
 - `layouts/_shortcodes/nighttrains-map.html` sets `window.map_i18n` using i18n keys
 - keys currently used: `nightTrains.back`, `dialog.close`, `nightTrains.runs`, `nightTrains.moreDetails`, `nightTrains.fipInformationButton`, `nightTrains.selectLine`
 
+### 4) FIP details moved from JSON to hidden Markdown content
+
+FIP detail data is no longer stored in `data/nighttrains/*/fip_details.json`.
+
+It now lives in hidden content pages under:
+
+- `content/nighttrain-details/<id>/index.de.md`
+- `content/nighttrain-details/<id>/index.en.md`
+- `content/nighttrain-details/<id>/index.fr.md`
+
+Each file uses frontmatter fields:
+
+- `id`
+- `title`
+- `source_route_ids`
+- `fip_global_fare`
+- `fip_coupon`
+- `fip_50`
+- `booking_options`
+
+The Markdown body is the description text rendered inside the expander.
+
+The section is explicitly hidden from output like booking pages:
+
+- `content/nighttrain-details/_index.de.md`
+- `content/nighttrain-details/_index.en.md`
+- `content/nighttrain-details/_index.fr.md`
+
+with cascade build settings:
+
+- `list: false`
+- `publishResources: false`
+- `render: never`
+
 ## Reproduction steps
 
 1. Refresh assets from source if needed:
@@ -70,6 +104,7 @@ Translations for map overlay labels are injected before loading `map.js`:
 - Map renders and zoom/pan works.
 - Single route tap opens route detail overlay.
 - Mobile taps near route clusters can open train list overlay (`.row.trainlist`).
-- Overlay detail button and route metadata are loaded from local JSON.
+- Overlay detail button and route metadata are loaded from local files.
 - Overlay shows "FIP Informations" when route ID is mapped.
 - Clicking "FIP Informations" scrolls to the correct expander and opens it.
+- FIP expanders are rendered from hidden markdown pages in `content/nighttrain-details/`.
