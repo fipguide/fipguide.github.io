@@ -8,7 +8,6 @@ aliases:
   - /booking/irish-rail-ticket-office
   - /booking/irish-rail-website
 ---
-
 Córas Iompair Éireann (CIE) is the state railway company of [Ireland](/country/ireland) and the parent company of Irish Rail (Iarnród Éireann). The subsidiary operates the majority of rail services in the Republic of Ireland, including the main routes between Dublin, Cork, Galway and Limerick, as well as regional connections in the Dublin and Cork areas.
 
 On its website, Irish Rail provides an [overview map of the routes](https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/ireland-rail-map).
@@ -46,6 +45,8 @@ First Class between Dublin and Cork may not be used with FIP. More information a
 #### Reservations
 
 Reservations are optional, but are issued free of charge for many services and are therefore recommended in 2nd class.
+
+First Class passengers are escorted to an available seat on board the train. Travel in First Class is only permitted when a seat is available
 
 {{% /train-category %}}
 
@@ -106,13 +107,13 @@ FIP is not valid on Dublin Bus bus services.
 ## Class Categories
 
 - **Second Class**: Standard class, usable with FIP 50 / FIP 75 Tickets and FIP Coupons of both first and second class.
-- **Premier Class**: Available on the Dublin – Tralee route and the Dublin – Cork connection. It can be used with 1st class FIP Coupons, and with a surcharge also with 2nd class FIP Coupons. **Important**: During peak hours, "First Class" is used instead of Premier Class, which cannot be used with FIP.
+- **Premier Class**: Available on the Dublin – Tralee route and the Dublin – Cork connection. It can be used with 1st class FIP Coupons, and with a surcharge also with 2nd class FIP Coupons. Passengers receive a complimentary hot beverage. **Important**: During peak hours, "First Class" is used instead of Premier Class, which cannot be used with FIP.
 - **First Class**: Only available between Dublin and Cork during peak hours, also known as City Gold. First Class offers an onboard service and electronically adjustable seats. It cannot be used with FIP.[^2] As of March 2026, all services between Dublin and Cork _except_ the following are operated with First Class[^1]:
+
   - Dublin – Cork Premier Class services: 10:00 (Monday – Saturday), 12:00 (Monday – Friday) and 14:00 (Monday – Friday)
   - Cork – Dublin Premier Class services: 13:25 (Monday – Saturday), 14:25 (Sunday only), 15:25 (Monday – Friday) and 17:25 (Monday – Thursday and Saturday)
 
-  An up-to-date list can be found [here](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel).
-
+  A current list and further information about the classes can be found [here](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel).
 - **Enterprise Plus**: First class on the Dublin – Belfast connection. Can be used with 1st class FIP Coupons, and with a surcharge also with 2nd class FIP Coupons.
 
 ## Ticket and Reservation Purchase
