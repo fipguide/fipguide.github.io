@@ -34,6 +34,8 @@ Northern Ireland Railways (NIR) est la compagnie ferroviaire nationale d’Irlan
 
 NIR exploite le service Enterprise entre Dublin et Belfast conjointement avec [CIE](/operator/cie).
 
+Les voyageurs de la classe _Enterprise Plus_ sont accompagnés jusqu’à une place libre à bord du train. L’accès à de la classe _Enterprise Plus_ n’est autorisé que lorsqu’une place assise est disponible.
+
 {{% /train-category %}}
 
 {{% train-category

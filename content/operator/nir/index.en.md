@@ -48,6 +48,8 @@ NIR operates the Enterprise Service between Dublin and Belfast together with [CI
 
 NIR operates various regional train services from Belfast. Regional trains cannot be reserved and can be used with FIP.
 
+_Enterprise Plus_ passengers are escorted to an available seat on board the train. Travel in _Enterprise Plus_ is only permitted when a seat is available.
+
 {{% /train-category %}}
 
 ## Class Categories
