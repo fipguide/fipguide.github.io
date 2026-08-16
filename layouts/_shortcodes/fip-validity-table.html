@@ -4,11 +4,12 @@
 {{- $excluded := slice "eurostar" "euskotren" -}}
 {{- $issuerSlug := $page.File.ContentBaseName -}}
 {{- $validity := $page.Resources.Get "validity.yaml" | transform.Unmarshal -}}
+{{- $groupsMap := partial "fip-validity/groups-map" $validity -}}
 {{- $entries := dict -}}
 {{- range where $page.Site.RegularPages "Type" "operator" -}}
   {{- $targetSlug := .File.ContentBaseName -}}
   {{- if and (ne $targetSlug $issuerSlug) (not (in $excluded $targetSlug)) -}}
-    {{- $entries = merge $entries (dict $targetSlug (index (index $validity $targetSlug) $type)) -}}
+    {{- $entries = merge $entries (dict $targetSlug (index (index (index $validity "operators") $targetSlug) $type)) -}}
   {{- end -}}
 {{- end -}}
-{{ partial "fip-validity/table" (dict "entries" $entries "lang" $lang "page" $page) }}
+{{ partial "fip-validity/table" (dict "entries" $entries "lang" $lang "page" $page "groups" $groupsMap) }}
