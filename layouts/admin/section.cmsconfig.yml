@@ -309,6 +309,7 @@ collections:
     create: true
     publish: false
     delete: false
+    hide: true
     editor:
       preview: false
     fields:
