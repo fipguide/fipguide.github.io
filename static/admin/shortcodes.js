@@ -12,13 +12,23 @@
     return result;
   }
 
-  function shortcodePattern(name) {
+  function shortcodePattern(name, bracket) {
+    var open = bracket || "[%<]";
+    var close = bracket === "%" ? "%" : bracket === "<" ? ">" : "[%>]";
     return new RegExp(
-      "\\{\\{[%<] " +
+      "\\{\\{" +
+        open +
+        " " +
         name +
-        "(?![\\w-])([\\s\\S]*?)[%>]\\}\\}([\\s\\S]*?)\\{\\{[%<] \\/" +
+        "(?![\\w-])([\\s\\S]*?)" +
+        close +
+        "\\}\\}([\\s\\S]*?)\\{\\{" +
+        open +
+        " \\/" +
         name +
-        " [%>]\\}\\}",
+        " " +
+        close +
+        "\\}\\}",
     );
   }
 
@@ -167,7 +177,7 @@
     id: "highlight",
     label: "Highlight",
     fields: highlightFields,
-    pattern: shortcodePattern("highlight"),
+    pattern: shortcodePattern("highlight", "%"),
     fromBlock: function (match) {
       return { type: match[1].trim(), body: match[2].trim() };
     },
@@ -182,7 +192,7 @@
     id: "highlight-raw",
     label: "Highlight",
     fields: highlightFields,
-    pattern: shortcodePattern("highlight"),
+    pattern: shortcodePattern("highlight", "<"),
     fromBlock: function (match) {
       return { type: match[1].trim(), body: match[2].trim() };
     },
