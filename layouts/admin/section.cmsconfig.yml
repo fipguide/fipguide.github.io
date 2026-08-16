@@ -1,9 +1,10 @@
+{{- if hugo.IsServer }}
 local_backend: true
-
+{{ end -}}
 backend:
   name: github
   repo: fipguide/fipguide.github.io
-  branch: main
+  branch: "{{ or (os.Getenv "FIPGUIDE_BRANCH") "main" }}"
   auth_scope: repo
   open_authoring: true
   site_domain: fipguide.netlify.app
