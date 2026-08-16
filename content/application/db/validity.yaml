@@ -1,143 +1,65 @@
-# This file shows the rules for FIP cards issued by DB.
 groups:
-- name: coupon-4fields
-  status: valid
-  text:
-    de: |
-      **1 Freifahrtschein**
-      <small>Mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig.</small>
-    en: |
-      **1 coupon**
-      <small>With 4 fields each per year. Each field is valid for two days.</small>
-    fr: |
-      **1 coupon**
-      <small>Avec 4 champs chacun par an. Chaque champ est valable deux jours.</small>
-- name: coupon-not-available
-  status: invalid
-  text:
-    de: Nicht verfügbar
-    en: Not available
-    fr: Non disponible
-- name: reduced-50
-  status: valid
-  text:
-    de: 50 % Rabatt
-    en: 50 % discount
-    fr: 50 % de réduction
-- name: coupon-crossing
-  status: valid
-  text:
-    de: |
-      **1 Freifahrtschein**
-      <small>Mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig.</small>
-    en: |
-      **1 coupon**
-      <small>With 2 fields each per year. Each field is valid for one crossing.</small>
-    fr: |
-      **1 coupon**
-      <small>Avec 2 champs chacun par an. Chaque champ est valable pour une traversée.</small>
-- name: coupon-former-1-onetime
-  status: valid
-  text:
-    de: |
-      **1 Freifahrtschein**
-      <small>Einmalig, innerhalb von 45 Monaten nach Austritt.</small>
-    en: |
-      **1 coupon**
-      <small>One-time, within 45 months after leaving.</small>
-    fr: |
-      **1 coupon**
-      <small>Unique, dans les 45 mois suivant le départ.</small>
+  - name: coupon-4fields
+    status: valid
+    text:
+      de: >
+        **1 Freifahrtschein**
+
+        <small>Mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig.</small>
+      en: >
+        **1 coupon**
+
+        <small>With 4 fields each per year. Each field is valid for two days.</small>
+      fr: >
+        **1 coupon**
+
+        <small>Avec 4 champs chacun par an. Chaque champ est valable deux jours.</small>
+    type: fip-coupon
+  - name: coupon-not-available
+    status: invalid
+    text:
+      de: Nicht verfügbar
+      en: Not available
+      fr: Non disponible
+    type: fip-coupon
+  - name: coupon-crossing
+    status: valid
+    text:
+      de: >
+        **1 Freifahrtschein**
+
+        <small>Mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig.</small>
+      en: >
+        **1 coupon**
+
+        <small>With 2 fields each per year. Each field is valid for one crossing.</small>
+      fr: >
+        **1 coupon**
+
+        <small>Avec 2 champs chacun par an. Chaque champ est valable pour une traversée.</small>
+    type: fip-coupon
+  - name: coupon-former-1-onetime
+    status: valid
+    text:
+      de: |
+        **1 Freifahrtschein**
+        <small>Einmalig, innerhalb von 45 Monaten nach Austritt.</small>
+      en: |
+        **1 coupon**
+        <small>One-time, within 45 months after leaving.</small>
+      fr: |
+        **1 coupon**
+        <small>Unique, dans les 45 mois suivant le départ.</small>
+    type: fip-coupon
+  - name: reduced-50
+    status: valid
+    text:
+      de: 50 % Rabatt
+      en: 50 % discount
+      fr: 50 % de réduction
+    type: fip-reduced-ticket
 operators:
-  sncf:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-not-available
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  stl:
-    fip-coupon:
-      active: coupon-crossing
-      active-relatives: coupon-crossing
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  pkp:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-4fields
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  sncb:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-4fields
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  gysev:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-4fields
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  ns:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-4fields
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  oebb:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-4fields
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  cp:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-4fields
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  fs:
+  bdz:
     fip-coupon:
       active: coupon-4fields
       active-relatives: coupon-4fields
@@ -159,84 +81,7 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
-  bdz:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-4fields
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  zssk:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-not-available
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  sp:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-not-available
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  sbb:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-not-available
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  renfe:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-not-available
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  kd:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-not-available
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  dsb:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-not-available
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  cfl:
+  bsb:
     fip-coupon:
       active: coupon-4fields
       active-relatives: coupon-not-available
@@ -258,29 +103,7 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
-  bsb:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-not-available
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  ltg:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-not-available
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  gb:
+  cfl:
     fip-coupon:
       active: coupon-4fields
       active-relatives: coupon-not-available
@@ -313,6 +136,61 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
+  cp:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-4fields
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
+  dsb:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-not-available
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
+  fs:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-4fields
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
+  gb:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-not-available
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
+  gysev:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-4fields
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
   ht:
     fip-coupon:
       active: coupon-4fields
@@ -325,6 +203,17 @@ operators:
       retired: reduced-50
       retired-relatives: reduced-50
   hz:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-not-available
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
+  kd:
     fip-coupon:
       active: coupon-4fields
       active-relatives: coupon-not-available
@@ -368,6 +257,17 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
+  ltg:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-not-available
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
   mav:
     fip-coupon:
       active: coupon-4fields
@@ -390,7 +290,106 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
+  ns:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-4fields
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
+  oebb:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-4fields
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
+  pkp:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-4fields
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
+  renfe:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-not-available
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
+  sbb:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-not-available
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
   sll:
+    fip-coupon:
+      active: coupon-crossing
+      active-relatives: coupon-crossing
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
+  sncb:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-4fields
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
+  sncf:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-not-available
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
+  sp:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-not-available
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
+  stl:
     fip-coupon:
       active: coupon-crossing
       active-relatives: coupon-crossing
@@ -467,6 +466,17 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
+  zrms:
+    fip-coupon:
+      active: coupon-4fields
+      active-relatives: coupon-4fields
+      retired: coupon-former-1-onetime
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
   zrs:
     fip-coupon:
       active: coupon-4fields
@@ -478,10 +488,10 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
-  zrms:
+  zssk:
     fip-coupon:
       active: coupon-4fields
-      active-relatives: coupon-4fields
+      active-relatives: coupon-not-available
       retired: coupon-former-1-onetime
       retired-relatives: coupon-not-available
     fip-reduced-ticket:

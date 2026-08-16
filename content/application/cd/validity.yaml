@@ -1,71 +1,83 @@
-# This file shows the rules for FIP cards issued by CD.
 groups:
-- name: coupon-not-available
-  status: invalid
-  text:
-    de: Nicht verfügbar
-    en: Not available
-    fr: Non disponible
-- name: coupon-1
-  status: valid
-  text:
-    de: |
-      **1 Freifahrtschein**
-      <small>Mit 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig.</small>
-    en: |
-      **1 coupon**
-      <small>With 4 fields per year. Each field is valid for two days.</small>
-    fr: |
-      **1 coupon**
-      <small>Avec 4 champs par an. Chaque champ est valable deux jours.</small>
-- name: coupon-2
-  status: valid
-  text:
-    de: |
-      **2 Freifahrtscheine**
-      <small>Mit 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig.</small>
-    en: |
-      **2 coupons**
-      <small>With 4 fields per year. Each field is valid for two days.</small>
-    fr: |
-      **2 coupons**
-      <small>Avec 4 champs par an. Chaque champ est valable deux jours.</small>
-- name: coupon-3
-  status: valid
-  text:
-    de: |
-      **3 Freifahrtscheine**
-      <small>Mit 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig.</small>
-    en: |
-      **3 coupons**
-      <small>With 4 fields per year. Each field is valid for two days.</small>
-    fr: |
-      **3 coupons**
-      <small>Avec 4 champs par an. Chaque champ est valable deux jours.</small>
-- name: coupon-crossing-1
-  status: valid
-  text:
-    de: |
-      **1 Freifahrtschein**
-      <small>Mit 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig.</small>
-    en: |
-      **1 coupon**
-      <small>With 2 fields per year. Each field is valid for one crossing.</small>
-    fr: |
-      **1 coupon**
-      <small>Avec 2 champs par an. Chaque champ est valable pour une traversée.</small>
-- name: coupon-zssk
-  status: valid
-  text:
-    de: |
-      **Unbegrenzt**
-      <small>Nur gültig mit einer „In Karta" in der ŽP-App.</small>
-    en: |
-      **Unlimited**
-      <small>Only valid with an "In Karta" in the ŽP app.</small>
-    fr: |
-      **Illimité**
-      <small>Valable uniquement avec une «In Karta» dans l'application ŽP.</small>
+  - name: coupon-not-available
+    status: invalid
+    text:
+      de: Nicht verfügbar
+      en: Not available
+      fr: Non disponible
+    type: fip-coupon
+  - name: coupon-1
+    status: valid
+    text:
+      de: |
+        **1 Freifahrtschein**
+        <small>Mit 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig.</small>
+      en: |
+        **1 coupon**
+        <small>With 4 fields per year. Each field is valid for two days.</small>
+      fr: >
+        **1 coupon**
+
+        <small>Avec 4 champs par an. Chaque champ est valable deux jours.</small>
+    type: fip-coupon
+  - name: coupon-2
+    status: valid
+    text:
+      de: |
+        **2 Freifahrtscheine**
+        <small>Mit 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig.</small>
+      en: |
+        **2 coupons**
+        <small>With 4 fields per year. Each field is valid for two days.</small>
+      fr: >
+        **2 coupons**
+
+        <small>Avec 4 champs par an. Chaque champ est valable deux jours.</small>
+    type: fip-coupon
+  - name: coupon-3
+    status: valid
+    text:
+      de: |
+        **3 Freifahrtscheine**
+        <small>Mit 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig.</small>
+      en: |
+        **3 coupons**
+        <small>With 4 fields per year. Each field is valid for two days.</small>
+      fr: >
+        **3 coupons**
+
+        <small>Avec 4 champs par an. Chaque champ est valable deux jours.</small>
+    type: fip-coupon
+  - name: coupon-crossing-1
+    status: valid
+    text:
+      de: >
+        **1 Freifahrtschein**
+
+        <small>Mit 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig.</small>
+      en: >
+        **1 coupon**
+
+        <small>With 2 fields per year. Each field is valid for one crossing.</small>
+      fr: >
+        **1 coupon**
+
+        <small>Avec 2 champs par an. Chaque champ est valable pour une traversée.</small>
+    type: fip-coupon
+  - name: coupon-zssk
+    status: valid
+    text:
+      de: |
+        **Unbegrenzt**
+        <small>Nur gültig mit einer „In Karta" in der ŽP-App.</small>
+      en: |
+        **Unlimited**
+        <small>Only valid with an "In Karta" in the ŽP app.</small>
+      fr: >
+        **Illimité**
+
+        <small>Valable uniquement avec une «In Karta» dans l'application ŽP.</small>
+    type: fip-coupon
 operators:
   attica:
     fip-coupon:
@@ -95,14 +107,14 @@ operators:
       retired: coupon-not-available
       retired-relatives: coupon-not-available
       widows: coupon-not-available
-  cfr:
+  cfl:
     fip-coupon:
       active: coupon-1
       active-relatives: coupon-1
       retired: coupon-1
       retired-relatives: coupon-1
       widows: coupon-1
-  cfl:
+  cfr:
     fip-coupon:
       active: coupon-1
       active-relatives: coupon-1
@@ -326,14 +338,14 @@ operators:
       retired: coupon-not-available
       retired-relatives: coupon-not-available
       widows: coupon-not-available
-  vy:
+  vr:
     fip-coupon:
       active: coupon-1
       active-relatives: coupon-not-available
       retired: coupon-not-available
       retired-relatives: coupon-not-available
       widows: coupon-not-available
-  vr:
+  vy:
     fip-coupon:
       active: coupon-1
       active-relatives: coupon-not-available

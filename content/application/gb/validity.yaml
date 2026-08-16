@@ -1,47 +1,51 @@
-# This file shows the rules for FIP cards issued by GB (National Rail).
 groups:
-- name: coupon-not-available
-  status: invalid
-  text:
-    de: Nicht verfügbar
-    en: Not available
-    fr: Non disponible
-- name: reduced-50
-  status: valid
-  text:
-    de: 50 % Rabatt
-    en: 50 % discount
-    fr: 50 % de réduction
-- name: reduced-75
-  status: valid
-  text:
-    de: 75 % Rabatt
-    en: 75 % discount
-    fr: 75 % de réduction
-- name: coupon-active-1
-  status: valid
-  text:
-    de: |
-      **1 Freifahrtschein**
-      <small>Pro Jahr.</small>
-    en: |
-      **1 coupon**
-      <small>Per year.</small>
-    fr: |
-      **1 coupon**
-      <small>Par an.</small>
-- name: coupon-active-2
-  status: valid
-  text:
-    de: |
-      **2 Freifahrtscheine**
-      <small>Pro Jahr.</small>
-    en: |
-      **2 coupons**
-      <small>Per year.</small>
-    fr: |
-      **2 coupons**
-      <small>Par an.</small>
+  - name: coupon-not-available
+    status: invalid
+    text:
+      de: Nicht verfügbar
+      en: Not available
+      fr: Non disponible
+    type: fip-coupon
+  - name: coupon-active-1
+    status: valid
+    text:
+      de: |
+        **1 Freifahrtschein**
+        <small>Pro Jahr.</small>
+      en: |
+        **1 coupon**
+        <small>Per year.</small>
+      fr: |
+        **1 coupon**
+        <small>Par an.</small>
+    type: fip-coupon
+  - name: coupon-active-2
+    status: valid
+    text:
+      de: |
+        **2 Freifahrtscheine**
+        <small>Pro Jahr.</small>
+      en: |
+        **2 coupons**
+        <small>Per year.</small>
+      fr: |
+        **2 coupons**
+        <small>Par an.</small>
+    type: fip-coupon
+  - name: reduced-50
+    status: valid
+    text:
+      de: 50 % Rabatt
+      en: 50 % discount
+      fr: 50 % de réduction
+    type: fip-reduced-ticket
+  - name: reduced-75
+    status: valid
+    text:
+      de: 75 % Rabatt
+      en: 75 % discount
+      fr: 75 % de réduction
+    type: fip-reduced-ticket
 operators:
   attica:
     fip-coupon:
@@ -103,18 +107,6 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
-  cfr:
-    fip-coupon:
-      active: coupon-active-1
-      active-relatives: coupon-not-available
-      retired: coupon-not-available
-      retired-relatives: coupon-not-available
-      widows: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
   cfl:
     fip-coupon:
       active: coupon-active-1
@@ -122,6 +114,18 @@ operators:
       retired: coupon-active-1
       retired-relatives: coupon-active-1
       widows: coupon-active-1
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
+  cfr:
+    fip-coupon:
+      active: coupon-active-1
+      active-relatives: coupon-not-available
+      retired: coupon-not-available
+      retired-relatives: coupon-not-available
+      widows: coupon-not-available
     fip-reduced-ticket:
       active: reduced-50
       active-relatives: reduced-50
@@ -235,6 +239,18 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
+  kml:
+    fip-coupon:
+      active: coupon-active-1
+      active-relatives: coupon-not-available
+      retired: coupon-not-available
+      retired-relatives: coupon-not-available
+      widows: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
   ks:
     fip-coupon:
       active: coupon-active-1
@@ -248,18 +264,6 @@ operators:
       retired: reduced-50
       retired-relatives: reduced-50
   kw:
-    fip-coupon:
-      active: coupon-active-1
-      active-relatives: coupon-not-available
-      retired: coupon-not-available
-      retired-relatives: coupon-not-available
-      widows: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  kml:
     fip-coupon:
       active: coupon-active-1
       active-relatives: coupon-not-available
@@ -499,7 +503,7 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
-  zrs:
+  zrms:
     fip-coupon:
       active: coupon-active-1
       active-relatives: coupon-not-available
@@ -511,7 +515,7 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
-  zrms:
+  zrs:
     fip-coupon:
       active: coupon-active-1
       active-relatives: coupon-not-available

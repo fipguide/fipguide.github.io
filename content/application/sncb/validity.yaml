@@ -1,83 +1,96 @@
-# This file shows the rules for FIP cards issued by SNCB.
 groups:
-- name: coupon-not-available
-  status: invalid
-  text:
-    de: Nicht verfügbar
-    en: Not available
-    fr: Non disponible
-- name: reduced-50
-  status: valid
-  text:
-    de: 50 % Rabatt
-    en: 50 % discount
-    fr: 50 % de réduction
-- name: reduced-75
-  status: valid
-  text:
-    de: 75 % Rabatt
-    en: 75 % discount
-    fr: 75 % de réduction
-- name: coupon-1
-  status: valid
-  text:
-    de: |
-      **1 Freifahrtschein**
-      <small>Pro Jahr.</small>
-    en: |
-      **1 coupon**
-      <small>Per year.</small>
-    fr: |
-      **1 coupon**
-      <small>Par an.</small>
-- name: coupon-2
-  status: valid
-  text:
-    de: |
-      **2 Freifahrtscheine**
-      <small>Pro Jahr.</small>
-    en: |
-      **2 coupons**
-      <small>Per year.</small>
-    fr: |
-      **2 coupons**
-      <small>Par an.</small>
-- name: coupon-sncf-nord
-  status: valid
-  text:
-    de: |
-      **4 / 8 Freifahrtscheine**
-      <small>Gesamtes Netz: 4 Freifahrtscheine pro Jahr. Région Nord: 8 Freifahrtscheine pro Jahr.</small>
-    en: |
-      **4 / 8 coupons**
-      <small>Whole network: 4 coupons per year. Région Nord: 8 coupons per year.</small>
-    fr: |
-      **4 / 8 coupons**
-      <small>Réseau entier : 4 coupons par an. Région Nord : 8 coupons par an.</small>
-- name: relatives-sncf-nord
-  status: valid
-  text:
-    de: |
-      **2 / 4 Freifahrtscheine**
-      <small>Gesamtes Netz: 2 Freifahrtscheine pro Jahr. Région Nord: 4 Freifahrtscheine pro Jahr.</small>
-    en: |
-      **2 / 4 coupons**
-      <small>Whole network: 2 coupons per year. Région Nord: 4 coupons per year.</small>
-    fr: |
-      **2 / 4 coupons**
-      <small>Réseau entier : 2 coupons par an. Région Nord : 4 coupons par an.</small>
-- name: relatives-sncf-retired
-  status: valid
-  text:
-    de: |
-      **1 Freifahrtschein**
-      <small>Pro Jahr (nur Kind).</small>
-    en: |
-      **1 coupon**
-      <small>Per year (child only).</small>
-    fr: |
-      **1 coupon**
-      <small>Par an (enfant uniquement).</small>
+  - name: coupon-not-available
+    status: invalid
+    text:
+      de: Nicht verfügbar
+      en: Not available
+      fr: Non disponible
+    type: fip-coupon
+  - name: coupon-1
+    status: valid
+    text:
+      de: |
+        **1 Freifahrtschein**
+        <small>Pro Jahr.</small>
+      en: |
+        **1 coupon**
+        <small>Per year.</small>
+      fr: |
+        **1 coupon**
+        <small>Par an.</small>
+    type: fip-coupon
+  - name: coupon-2
+    status: valid
+    text:
+      de: |
+        **2 Freifahrtscheine**
+        <small>Pro Jahr.</small>
+      en: |
+        **2 coupons**
+        <small>Per year.</small>
+      fr: |
+        **2 coupons**
+        <small>Par an.</small>
+    type: fip-coupon
+  - name: coupon-sncf-nord
+    status: valid
+    text:
+      de: >
+        **4 / 8 Freifahrtscheine**
+
+        <small>Gesamtes Netz: 4 Freifahrtscheine pro Jahr. Région Nord: 8 Freifahrtscheine pro Jahr.</small>
+      en: >
+        **4 / 8 coupons**
+
+        <small>Whole network: 4 coupons per year. Région Nord: 8 coupons per year.</small>
+      fr: >
+        **4 / 8 coupons**
+
+        <small>Réseau entier : 4 coupons par an. Région Nord : 8 coupons par an.</small>
+    type: fip-coupon
+  - name: relatives-sncf-nord
+    status: valid
+    text:
+      de: >
+        **2 / 4 Freifahrtscheine**
+
+        <small>Gesamtes Netz: 2 Freifahrtscheine pro Jahr. Région Nord: 4 Freifahrtscheine pro Jahr.</small>
+      en: >
+        **2 / 4 coupons**
+
+        <small>Whole network: 2 coupons per year. Région Nord: 4 coupons per year.</small>
+      fr: >
+        **2 / 4 coupons**
+
+        <small>Réseau entier : 2 coupons par an. Région Nord : 4 coupons par an.</small>
+    type: fip-coupon
+  - name: relatives-sncf-retired
+    status: valid
+    text:
+      de: |
+        **1 Freifahrtschein**
+        <small>Pro Jahr (nur Kind).</small>
+      en: |
+        **1 coupon**
+        <small>Per year (child only).</small>
+      fr: |
+        **1 coupon**
+        <small>Par an (enfant uniquement).</small>
+    type: fip-coupon
+  - name: reduced-50
+    status: valid
+    text:
+      de: 50 % Rabatt
+      en: 50 % discount
+      fr: 50 % de réduction
+    type: fip-reduced-ticket
+  - name: reduced-75
+    status: valid
+    text:
+      de: 75 % Rabatt
+      en: 75 % discount
+      fr: 75 % de réduction
+    type: fip-reduced-ticket
 operators:
   bdz:
     fip-coupon:
@@ -343,12 +356,34 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
+  sbb:
+    fip-coupon:
+      active: coupon-1
+      active-relatives: coupon-not-available
+      retired: coupon-not-available
+      retired-relatives: coupon-not-available
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
   sncf:
     fip-coupon:
       active: coupon-sncf-nord
       active-relatives: relatives-sncf-nord
       retired: coupon-not-available
       retired-relatives: relatives-sncf-retired
+    fip-reduced-ticket:
+      active: reduced-50
+      active-relatives: reduced-50
+      retired: reduced-50
+      retired-relatives: reduced-50
+  sp:
+    fip-coupon:
+      active: coupon-1
+      active-relatives: coupon-not-available
+      retired: coupon-not-available
+      retired-relatives: coupon-not-available
     fip-reduced-ticket:
       active: reduced-50
       active-relatives: reduced-50
@@ -371,28 +406,6 @@ operators:
       active-relatives: coupon-1
       retired: coupon-1
       retired-relatives: coupon-1
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  sbb:
-    fip-coupon:
-      active: coupon-1
-      active-relatives: coupon-not-available
-      retired: coupon-not-available
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
-  sp:
-    fip-coupon:
-      active: coupon-1
-      active-relatives: coupon-not-available
-      retired: coupon-not-available
-      retired-relatives: coupon-not-available
     fip-reduced-ticket:
       active: reduced-50
       active-relatives: reduced-50

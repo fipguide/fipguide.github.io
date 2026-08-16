@@ -921,6 +921,11 @@
       options: ["fip-coupon", "fip-reduced-ticket"],
       param: { required: true },
     },
+    {
+      name: "validity_data_link",
+      label: "FIP Validity Table",
+      widget: "fip-validity-link",
+    },
   ];
 
   CMS.registerEditorComponent({
