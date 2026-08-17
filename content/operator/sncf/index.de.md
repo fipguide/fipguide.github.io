@@ -202,7 +202,7 @@ FIP gilt nur eingeschränkt in `RER` Zügen, siehe [Züge im Großraum Paris](#z
     fip_accepted=true
     reservation_required=false
     reservation_possible=false
-    route_overview_url="https://www.lemanexpress.com/en/les-6-lignes-lex/"
+    route_overview_url="https://www.lemanexpress.com/de/die-6-lex-linien/"
 %}}
 
 Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF.
