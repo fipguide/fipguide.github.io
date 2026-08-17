@@ -447,6 +447,19 @@
       },
     },
     {
+      name: "booking_data_link",
+      label: "Booking Platform Link",
+      widget: "cms-edit-link",
+      get_value: function (props) {
+        return String(props.value || "")
+          .replace(/\/index$/, "")
+          .trim();
+      },
+      href: "#/collections/booking/entries/{value}/index",
+      label_template: "Edit the Booking Platform \u201c{value}\u201d \u2192",
+      empty_hint: "Select a booking platform above to edit it.",
+    },
+    {
       name: "subtitle",
       label: "Subtitle",
       widget: "string",
@@ -547,8 +560,10 @@
     pattern: dualFormPattern("booking"),
     fromBlock: function (match) {
       var p = parseHugoParams(match[1]);
+      var rawId = p.id ? String(p.id) : "";
       return {
-        id: p.id ? String(p.id) + "/index" : "",
+        id: rawId ? rawId + "/index" : "",
+        booking_data_link: rawId,
         subtitle: String(p.subtitle || ""),
         "classes.first": String(p["classes.first"] || ""),
         "classes.second": String(p["classes.second"] || ""),
@@ -934,7 +949,15 @@
     {
       name: "validity_data_link",
       label: "FIP Validity Table",
-      widget: "fip-validity-link",
+      widget: "cms-edit-link",
+      get_value: function (props) {
+        var slug = props.entry ? props.entry.get("slug") : null;
+        return slug ? String(slug).replace(/\/[^/]+$/, "") : "";
+      },
+      href: "#/collections/fip-validity/entries/{value}/validity",
+      label_template:
+        "Edit the FIP Validity Table for \u201c{value}\u201d \u2192",
+      empty_hint: "Save this page first to link its FIP Validity Table.",
     },
   ];
 

@@ -57,20 +57,24 @@
     FipValiditySelectPreview,
   );
 
-  function FipValidityLinkControl(props) {
-    var slug = props.entry ? props.entry.get("slug") : null;
-    var issuerSlug = slug ? slug.replace(/\/[^/]+$/, "") : null;
-    if (!issuerSlug) {
-      return h(
-        "p",
-        { className: "o-fip-validity-widget__info" },
-        "Save this page first to link its FIP Validity Table.",
-      );
+  function CmsEditLinkControl(props) {
+    var field = props.field;
+    var getValue = field.get("get_value");
+    var hrefTemplate = field.get("href");
+    var labelTemplate = field.get("label_template");
+    var emptyHint = field.get("empty_hint");
+
+    var value = String(getValue(props) || "");
+
+    if (!value) {
+      return h("p", { className: "o-cms-edit-link__info" }, emptyHint);
     }
-    var href = "#/collections/fip-validity/entries/" + issuerSlug + "/validity";
+
+    var href = hrefTemplate.replace(/\{value\}/g, value);
+    var label = labelTemplate.replace(/\{value\}/g, value);
     return h(
       "p",
-      { className: "o-fip-validity-widget__info" },
+      { className: "o-cms-edit-link__info" },
       h(
         "a",
         {
@@ -90,16 +94,12 @@
             window.location.reload();
           },
         },
-        "Edit the FIP Validity Table for \u201c" + issuerSlug + "\u201d \u2192",
+        label,
       ),
     );
   }
 
-  CMS.registerWidget(
-    "fip-validity-link",
-    FipValidityLinkControl,
-    FipValidityLinkControl,
-  );
+  CMS.registerWidget("cms-edit-link", CmsEditLinkControl, CmsEditLinkControl);
 
   CMS.registerEventListener({
     name: "preSave",

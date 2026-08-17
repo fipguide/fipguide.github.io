@@ -11,17 +11,17 @@
   margin-top: 16px !important;
 }
 
-.o-fip-validity-widget__info {
+.o-cms-edit-link__info {
   font-size: 0.85rem;
   color: #6b7280;
 }
 
-.o-fip-validity-widget__info a {
+.o-cms-edit-link__info a {
   color: #3a69c7;
   font-weight: 600;
   text-decoration: none;
 }
 
-.o-fip-validity-widget__info a:hover {
+.o-cms-edit-link__info a:hover {
   text-decoration: underline;
 }
