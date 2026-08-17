@@ -252,7 +252,9 @@ Auf folgenden Routen werden keine FIP Vergünstigungen gewährt:
 - Luftseilbahn Stechelberg – Mürren – Schilthorn (LSMS)
 
 {{< highlight inofficial >}}
-Uns wurde berichtet, dass die Mitnahme von Wintersportausrüstung (Ski, Snowboard) bei den Jungfraubahnen bei der Nutzung von FIP nicht möglich ist.
+Die Nutzung der Jungfraubahnen mit FIP ist nur als öffentlicher Nahverkehr vorgesehen.
+
+Uns wurde berichtet, dass eine Nutzung von FIP bei Reisen in Wintersportausrüstung nicht möglich ist. Hintergrund ist, dass FIP nicht als Skipass genutzt werden soll. Eine offizielle tarifliche Regelung ist uns hierzu nicht bekannt. Für An- und Abreisen ins Skigebiet kann FIP genutzt werden, sofern die Linie von FIP abgedeckt ist.
 {{< /highlight >}}
 
 {{% /train-category %}}
