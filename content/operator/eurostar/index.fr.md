@@ -108,6 +108,8 @@ Lors de la réservation, les prix en euros sont généralement plus avantageux q
 
 Les billets sont émis exclusivement sous forme numérique (email requis).
 
+La carte FIP doit être présentée lors de l'embarquement.
+
 ### En ligne
 
 Mais la gestion du billet (annulation, échange, rebooking) est possible via le site Eurostar, plus d’informations sous [Modifications & Annulations](#modifications--annulations). Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
@@ -202,7 +204,7 @@ Les enfants de moins de 12 ans doivent être accompagnés par un adulte. Les enf
 
 ### Modifications & Annulations
 
-Les Billets FIP peuvent être modifiés ou annulés gratuitement jusqu’à une heure avant le départ. Passé ce délai, toute modification ou annulation est impossible.
+Les Billets FIP peuvent être modifiés ou annulés gratuitement jusqu’à l’heure de départ prévue du train. Passé ce délai, toute modification ou annulation est impossible.
 
 En principe, il n’est possible de rebooker que sur d’autres trains disponibles disposant encore de contingents suffisants, voir aussi [Quotas de billets](#quotas-de-billets). Lors d’une modification, il est également possible de passer d’Eurostar Standard à Eurostar Plus en payant la différence. En revanche, un déclassement d’Eurostar Plus à Eurostar Standard ne donnera pas lieu à un remboursement de la différence.
 
