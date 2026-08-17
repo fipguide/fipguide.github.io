@@ -1,8 +1,7 @@
 {{- $params := .params -}}
-{{- $metaFields := .metaFields -}}
 {{- $emailTemplates := $params.email_templates -}}
 {{- $emailButtons := slice -}}
-{{- range $metaFields -}}
+{{- range .metaFields -}}
   {{- $template := and $emailTemplates (index $emailTemplates .key) -}}
   {{- $showEmailButton := and (eq $params.type "email") (eq .value true) $template $template.to $template.subject $template.body -}}
   {{- if $showEmailButton -}}

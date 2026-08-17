@@ -65,5 +65,5 @@
     {{- $content | safeHTML -}}
   </div>
   {{ partial "booking/links" (dict "page" .page "id" .id) }}
-  {{- partial "booking-links-email-templates" (dict "params" .page.Params "metaFields" $metaFields) -}}
+  {{- partial "booking/email-links" (dict "params" .page.Params "metaFields" $metaFields) -}}
 </div>
