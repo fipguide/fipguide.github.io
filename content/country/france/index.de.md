@@ -95,7 +95,7 @@ Aus der Schweiz verkehren von Zürich über Basel grenzüberschreitende TGV Züg
 
 Zusätzlich gibt es verschiedene, grenzüberschreitende Regionalzugverbindungen. In Basel ist der Bahnhof Basel SBB der Grenzbahnhof, ab welchem SNCF Freifahrtscheine für Züge z. B. `TER` Richtung Straßburg gelten.
 
-Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF.
+Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen [Léman Express](/operator/sncf#lex), betrieben von SBB und SNCF.
 
 `TER` Züge von Lyon nach Genf dürfen bis Genf mit SNCF Freifahrtschein genutzt werden.[^2]
 
@@ -110,12 +110,6 @@ Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza übe
 ### Monaco
 
 Tariflich gesehen gibt es keine Grenzpunkte zwischen den beiden Ländern, da Monaco Teil des französischen Eisenbahnnetzes ist. Die Eisenbahnstrecke durch Monaco kommt westlich von Cap-d’Ail und östlich von Roquebrune-Cap-Martin. Auf der Verbindung gelten FIP 50 Tickets und Freifahrtscheine der SNCF.
-
-[^1]: [Nutzerfeedback](https://github.com/fipguide/fipguide.github.io/issues/449)
-
-[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
-
-[^3]: [DB Mobidig - Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
 
 ### Spanien
 
@@ -132,3 +126,11 @@ Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese ware
 ### Andorra
 
 Zurzeit gibt es keine Schienenverbindung zwischen Andorra und Frankreich.
+
+## Quellen
+
+[^1]: [Nutzerfeedback](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
+
+[^3]: [DB Mobidig - Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)

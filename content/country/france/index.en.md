@@ -95,7 +95,7 @@ From Switzerland, cross-border TGV trains run from Zurich via Basel to France. I
 
 There are also various cross-border regional train connections. In Basel, the station Basel SBB is the border station from which SNCF FIP Coupons are valid for trains such as `TER` towards Strasbourg.
 
-In the Geneva area, cross-border regional trains operate under the name Léman Express, operated by SBB and SNCF.
+In the Geneva area, cross-border regional trains operate under the name [Léman Express](/operator/sncf#lex), operated by SBB and SNCF.
 
 `TER` trains from Lyon to Geneva can be used up to Geneva with an SNCF FIP Coupon.[^2]
 
@@ -110,12 +110,6 @@ SNCF cross-border regional trains can be used from Grasse/Cannes/Nice via Monaco
 ### Monaco
 
 There are no border points between the two countries for fare purposes, as Monaco is part of the French rail network. The railway line through Monaco runs west of Cap-d’Ail and east of Roquebrune-Cap-Martin. FIP 50 Tickets and SNCF FIP Coupons are valid on this route.
-
-[^1]: [User feedback](https://github.com/fipguide/fipguide.github.io/issues/449)
-
-[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
-
-[^3]: [DB Mobidig - Where my travel discount applies](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
 
 ### Spain
 
@@ -132,3 +126,11 @@ Overall, there are very few cross-border connections, which were much better dev
 ### Andorra
 
 There is currently no rail connection between Andorra and France.
+
+## Sources
+
+[^1]: [User feedback](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
+
+[^3]: [DB Mobidig - Where my travel discount applies](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)

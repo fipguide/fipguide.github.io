@@ -161,6 +161,24 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
 {{% /train-category %}}
 
 {{% train-category
+    id="lex"
+    title="Léman-Express (RL)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.lemanexpress.com/en/les-6-lignes-lex/"
+%}}
+
+Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF.
+
+In der Fahrplanauskunft der SNCF werden Verbindungen des Léman Express als `LEX` + Liniennummer (L1, L2, usw.) angezeigt. In der Fahrplanauskunft der SBB werden die Züge manchmal als `RL` angezeigt, teilweise auch als `TER`.
+
+Innerhalb Frankreichs und innerhalb der Schweiz gelten FIP Vergünstigungen wie gewohnt. Auf grenzüberschreitenden Fahrten gilt kein FIP, stattdessen müssen Normalpreistickets erworben werden. [^6]
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"

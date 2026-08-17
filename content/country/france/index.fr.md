@@ -93,7 +93,7 @@ Depuis la Suisse, des TGV transfrontaliers relient Zurich à Paris via Bâle. En
 
 Il existe aussi plusieurs liaisons régionales transfrontalières. À Bâle, la gare de Bâle SBB est la gare frontière à partir de laquelle les Coupons FIP SNCF sont valables pour les trains tels que `TER` en direction de Strasbourg.
 
-Dans la région de Genève, des trains régionaux transfrontaliers circulent sous le nom Léman Express, exploités par SBB et SNCF.
+Dans la région de Genève, des trains régionaux transfrontaliers circulent sous le nom [Léman Express](/operator/sncf#lexadd lex ), exploités par SBB et SNCF.
 
 Les trains régionaux `TER` de Lyon à Genève peuvent être utilisés jusqu’à Genève avec un Coupon FIP SNCF.[^2]
 
@@ -108,12 +108,6 @@ Des trains régionaux SNCF relient Grasse/Cannes/Nice à Monaco puis Ventimiglia
 ### Monaco
 
 Il n’y a pas de point-frontière tarifaire entre les deux pays, Monaco faisant partie du réseau ferroviaire français. La ligne traverse Monaco à l’ouest de Cap-d’Ail et à l’est de Roquebrune-Cap-Martin. Les Billets FIP 50 et les Coupons FIP SNCF sont valables sur cette liaison.
-
-[^1]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)
-
-[^2]: [Communauté FIP Guide - Retour d’information](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
-
-[^3]: [DB Mobidig - Où ma réduction de voyage s’applique](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
 
 ### Espagne
 
@@ -130,3 +124,11 @@ Au total, il existe très peu de liaisons transfrontalières, alors qu’il y en
 ### Andorre
 
 Il n’existe actuellement aucune liaison ferroviaire entre l’Andorre et la France.
+
+## Sources
+
+[^1]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^2]: [Communauté FIP Guide - Retour d’information](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
+
+[^3]: [DB Mobidig - Où ma réduction de voyage s’applique](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
