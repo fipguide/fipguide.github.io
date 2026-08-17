@@ -114,13 +114,6 @@ Der FIP-Ausweis sollte beim Boarding bereitgehalten werden.
 
 Das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets ist über die Eurostar Website möglich, mehr Informationen dazu unter [Umbuchungen & Stornierungen](#umbuchungen--stornierungen). Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
 
-{{% booking id="traivelling-website"
-    fip_50=nil
-    fip_75=nil
-    fip_global_fare=true
-    reservations=nil
-/%}}
-
 {{% booking id="railtourguide-website"
     fip_50=nil
     fip_75=nil
@@ -223,7 +216,7 @@ Die Prüfung verfügbarer Ticketkontingente ist über folgende Websites möglich
 - [Interrail Website](https://www.interrail.eu/de/book-reservations) \
   Nur zum Prüfen von Reservierungskontingenten. Gekaufte Reservierungen gelten nur mit Interrail-Ticket!
 - [Traivelling](https://traivelling.com/home) \
-  Mehr Informationen im [entsprechenden Buchungsabschnitt](#traivelling-website).
+  Traivelling hat die Möglichkeit, Tickets mit FIP zu buchen, kürzlich von ihrer Website entfernt.
 
 ### Anschlüsse
 

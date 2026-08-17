@@ -114,13 +114,6 @@ La carte FIP doit être présentée lors de l'embarquement.
 
 Mais la gestion du billet (annulation, échange, rebooking) est possible via le site Eurostar, plus d’informations sous [Modifications & Annulations](#modifications--annulations). Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
 
-{{% booking id="traivelling-website"
-    fip_50=nil
-    fip_75=nil
-    fip_global_fare=true
-    reservations=nil
-/%}}
-
 {{% booking id="railtourguide-website"
     fip_50=nil
     fip_75=nil
@@ -223,7 +216,7 @@ La vérification des contingents de billets disponibles est possible via les sit
 - [Site Interrail](https://www.interrail.eu/fr/book-reservations) \
    Uniquement pour vérifier les contingents de réservation. Les réservations achetées ne sont valables qu’avec un billet Interrail !
 - [Traivelling](https://traivelling.com/home) \
-   Plus d'informations dans la [section de réservation correspondante](#traivelling-website).
+   Traivelling a récemment supprimé de son site web la possibilité de réserver des billets avec FIP.
 
 ### Correspondances
 
