@@ -264,6 +264,19 @@ Nahverkehrsexpresszug zwischen Berlin Hauptbahnhof und dem Berliner Flughafen Wi
 {{% /train-category %}}
 
 {{% train-category
+    id="hbx"
+    title="Harz-Berlin-Express (HBX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Ausflugszug am Wochenende zwischen Berlin und Thale bzw. Goslar im Harz.
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"

@@ -264,6 +264,19 @@ Local express train between Berlin Central Station and Berlin Willy Brandt Airpo
 {{% /train-category %}}
 
 {{% train-category
+    id="hbx"
+    title="Harz-Berlin-Express (HBX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Weekend excursion train between Berlin and Thale or Goslar in the Harz.
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"

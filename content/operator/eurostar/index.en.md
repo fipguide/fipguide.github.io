@@ -108,6 +108,8 @@ When booking, payment can sometimes be made in pounds or euros. Generally, euro 
 
 Tickets are issued exclusively as online tickets, so an email address is required for booking.
 
+The FIP Card should be ready for inspection when boarding.
+
 ### Online
 
 Checking in, rebooking, canceling, and upgrading tickets is possible via the Eurostar website, more information under [Rebookings & Cancellations](#rebookings--cancellations). If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
@@ -202,7 +204,7 @@ Children under 12 must be accompanied by an adult. Children aged 12–15 can tra
 
 ### Rebookings & Cancellations
 
-FIP Tickets can be rebooked or canceled free of charge up to one hour before departure. After that, rebooking or cancellation is no longer possible.
+FIP Tickets can be rebooked or canceled free of charge up to the scheduled departure time of the train. After that, rebooking or cancellation is no longer possible.
 
 In general, rebooking is only possible to other available trains with remaining quotas, see also [Ticket Quotas](#ticket-quotas). When rebooking, upgrading from Eurostar Standard to Eurostar Plus by paying the difference is also possible. However, a downgrade from Eurostar Plus to Eurostar Standard will not be refunded.
 

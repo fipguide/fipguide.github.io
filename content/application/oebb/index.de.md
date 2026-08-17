@@ -4,7 +4,7 @@ title: "ÖBB"
 
 ## Versteuerung
 
-Pro Bestellung und Person wird der Sachbezug von € 39,42 in der 2.Klasse und € 62,69 in der 1.Klasse verrechnet.
+Pro Bestellung und Person wird der Sachbezug von 39,42 € in der 2. Klasse und 62,69 € in der 1. Klasse verrechnet.
 
 ## Nationale Vergünstigungen (kein FIP)
 
