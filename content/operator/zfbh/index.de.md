@@ -35,7 +35,7 @@ Die aktuell verkehrenden Züge und deren Einschränkungen auf bestimmte Verkehrs
     reservation_possible=unknown
 %}}
 
-Nationale und nach Kroatien verkehrende internationale Schnellzüge, die mit wenig Zwischenhalten vergleichsweise schnell innerhalb der Entität Bosnien und Herzegowina und ins kroatische Ploče verkehren. Auf der Verbindung zwischen Sarajevo - Mostar - Čapljina (- Ploče) kommen moderne Talgo-Wagen zum Einsatz, auf der anderen Strecke Sarajevo - Maglaj sind deutlich ältere Personenwagen möglich.
+Nationale und nach Kroatien verkehrende internationale Schnellzüge, die mit wenig Zwischenhalten vergleichsweise schnell innerhalb der Entität Bosnien und Herzegowina und ins kroatische Ploče verkehren. Auf der Verbindung zwischen Sarajevo – Mostar – Čapljina (– Ploče) kommen moderne Talgo-Wagen zum Einsatz, auf der anderen Strecke Sarajevo – Maglaj sind deutlich ältere Personenwagen möglich.
 
 #### Reservierung
 
@@ -90,7 +90,7 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 ## Empfehlungen
 
 {{% highlight tip %}}
-Die ŽFBH betreibt nur sehr wenige Züge auf nur noch einzelnen Strecken der Entität Bosnien und Herzegowina. Ein Highlight ist sicherlich die Fahrt in den Talgo-Wagen auf der Strecke zwischen Sarajevo und Mostar, die zu den schönsten Bahnstrecken Europas gehört. Damit sind die zwei touristischsten Städte des Landes zumindest etwa drei mal am Tag per Bahn verbunden. Auch die Weiterfahrt ins kroatische Ploče bietet sich an, der Ort ist nur aus Bosnien und Herzegowina per Bahn erreichbar und nicht mit dem restlichen kroatischen Schiennenetz verbunden.
+Die ŽFBH betreibt nur sehr wenige Züge auf nur noch einzelnen Strecken der Entität Bosnien und Herzegowina. Ein Highlight ist sicherlich die Fahrt in den Talgo-Wagen auf der Strecke zwischen Sarajevo und Mostar, die zu den schönsten Bahnstrecken Europas gehört. Damit sind die zwei touristischsten Städte des Landes zumindest etwa drei mal am Tag per Bahn verbunden. Auch die Weiterfahrt ins kroatische Ploče bietet sich an, da der Ort nur aus Bosnien und Herzegowina per Bahn erreichbar und nicht mit dem restlichen kroatischen Schiennenetz verbunden ist.
 {{% /highlight %}}
 
 Leider werden derzeit keine entitätsüberschreitenden Züge angeboten und auch die Taktung innerhalb der Entität Bosnien und Herzegowina ist sehr schlecht. Beispielsweise hat der Regionalzug zwischen Sarajevo und Zenica keinerlei Anschluss an den Regionalzug nach Maglaj.

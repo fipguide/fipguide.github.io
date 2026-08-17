@@ -6,11 +6,11 @@ country: "bosnia-and-herzegovina"
 
 ## FIP Nutzung
 
-In Bosnien und Herzegowina erfordert die Nutzung von FIP aufgrund der sehr wenigen Züge pro Tag eine gute Planung. Dafür gibt es bis auf einzelne privat organisierte Charterzüge nur Verbindungen, die mit FIP genutzt werden können. Aufgrund der politischen Struktur des Landes werden diese durch die Verkehrsunternehmen [Željeznice Republike Srpske (ŽRS)](/operator/zrs), die den Schienenverkehr in der Förderation Republika Srpska betreibt, sowie die [Željeznice Federacije Bosne i Hercegovine (ŽFBH)](/operator/zfbh) in der Förderation Bosnien und Herzegowina, aufgeteilt.
+In Bosnien und Herzegowina erfordert die Nutzung von FIP aufgrund der sehr wenigen Züge pro Tag eine gute Planung. Dafür gibt es bis auf einzelne privat organisierte Charterzüge nur Verbindungen, die mit FIP genutzt werden können. Aufgrund der politischen Struktur des Landes werden diese durch die Verkehrsunternehmen [Željeznice Republike Srpske (ŽRS)](/operator/zrs), die den Schienenverkehr in der Förderation Republika Srpska betreibt, sowie die [Željeznice Federacije Bosne i Hercegovine (ŽFBH)](/operator/zfbh) in der Förderation Bosnien und Herzegowina aufgeteilt.
 
 Während für ŽRS und ŽFBH FIP vergünstigte Tickets angeboten werden, sind FIP Freifahrtscheine nur für die ŽRS verfügbar.
 
-Die FIP ermäßigten Tickets können ausschließlich vor Ort erworben werden. Nicht immer ist FIP als Ermäßigung bekannt, daher wird ggf. ein Ticket mit einem anderen Rabatt stattdessen ausgestellt. Beim Kauf sind Sprachkenntnisse in der Landessprache hilfreich.
+Die FIP ermäßigten Tickets können ausschließlich vor Ort erworben werden. Nicht immer ist FIP als Ermäßigung bekannt, daher wird ggf. stattdessen ein Ticket mit einem anderen Rabatt ausgestellt. Beim Kauf sind Sprachkenntnisse in der Landessprache hilfreich.
 
 {{< identify-operator sources="zfbh-website,zrs-website,vagonweb" />}}
 
@@ -18,7 +18,7 @@ Die FIP ermäßigten Tickets können ausschließlich vor Ort erworben werden. Ni
 
 Das Schienennetz von Bosnien und Herzegowina umfasst insgesamt ungefähr 1.000 Kilometer, jedoch werden längst nicht mehr alle Strecken befahren. Beide Betreiber ŽRS und ŽFBH konzentrieren sich nur noch auf wenige Strecken und befahren auch diese mit nur sehr wenigen Zügen pro Tag. Eine genaue Planung für der Nutzung der Züge ist daher unbedingt erforderlich.
 
-Züge, die die Entitätsgrenzen des Landes durchqueren, werden im Regelfahrplan derzeit nicht angeboten. Internationale Verbindungen sind sehr beschränkt. So gibt es zwar Züge nach Kroatien, allerdings nur nach Ploče, was nicht mit dem restlichen kroatischen Schienennetz verbunden ist. Nach Serbien gibt es lediglich eine eher zufällige Verbindung, da der Bahnhof Štrpci an der innerserbischen Strecke von Belgrad nach Pirjepolje Teretna (teilweise weiter nach Montenegro) liegt und diese ganz kurz über bosnisches Gebiet führt.
+Züge, welche die Entitätsgrenzen des Landes durchqueren, werden im Regelfahrplan derzeit nicht angeboten. Internationale Verbindungen sind nur sehr beschränkt vorhanden. so gibt es zwar Züge nach Kroatien, allerdings nur nach Ploče, was nicht mit dem restlichen kroatischen Schienennetz verbunden ist. Nach Serbien gibt es lediglich eine eher zufällige Verbindung, da der Bahnhof Štrpci an der innerserbischen Strecke von Belgrad nach Pirjepolje Teretna (teilweise weiter nach Montenegro) liegt und diese ganz kurz über bosnisches Gebiet führt.
 
 Die Strecke zwischen Sarajevo und Mostar verbindet nicht nur die zwei touristischsten Städte des Landes miteinander, sondern gehört auch zu den sehenswertesten Strecken in ganz Europa.
 
