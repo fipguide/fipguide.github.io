@@ -264,6 +264,19 @@ Train express local entre Berlin Hauptbahnhof et l’aéroport Willy Brandt (BER
 {{% /train-category %}}
 
 {{% train-category
+    id="hbx"
+    title="Harz-Berlin-Express (HBX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Train d’excursion le week-end entre Berlin et Thale ou Goslar dans le Harz.
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"
