@@ -7,6 +7,73 @@ params:
   fip_global_fare: nil
   reservations: true
   type: email
+  email_templates:
+    fip_50:
+      to: "contact.nl@stenaline.com"
+      subject: "FIP 50 Ticket booking request"
+      body: |-
+        Hello,
+
+        I would like to book a FIP 50 Ticket.
+        Please find my details below:
+
+        Travel date: [Date du voyage]
+        Travel time: [Heure du voyage]
+        Departure port: [Port de départ]
+        Destination port: [Port de destination]
+        Cabin type: [Type de cabine (Standard, Superior or Deluxe)]
+        Passengers:
+          Passenger 1:
+            Name: [Nom (tel qu’il figure sur le passeport)]
+            Date of birth: [Date de naissance]
+            Passport number and expiry date: [Numéro du passeport et date d’expiration]
+          Passenger 2:
+            Name: [Nom (tel qu’il figure sur le passeport)]
+            Date of birth: [Date de naissance]
+            Passport number and expiry date: [Numéro du passeport et date d’expiration]
+          [... Ajouter ou supprimer des voyageurs si nécessaire]
+        Additional information: [Informations complémentaires]
+
+        Copy/copies of the FIP Card(s) (front and back) for all travelers are attached.
+
+        [Joindre la/les copie(s) des Cartes FIP (recto et verso) de tous les voyageurs]
+
+        Thank you in advance.
+        Kind regards,
+
+        [Votre nom]
+    reservations:
+      to: "contact.nl@stenaline.com"
+      subject: "Reservation booking request"
+      body: |-
+        Hello,
+
+        I would like to book a reservation.
+        Please find my details below:
+
+        Travel date: [Date du voyage]
+        Travel time: [Heure du voyage]
+        Departure port: [Port de départ]
+        Destination port: [Port de destination]
+        Cabin type: [Type de cabine (Standard, Superior or Deluxe)]
+        Passengers:
+          Passenger 1:
+            Name: [Nom (tel qu’il figure sur le passeport)]
+            Date of birth: [Date de naissance]
+            Passport number and expiry date: [Numéro du passeport et date d’expiration]
+          Passenger 2:
+            Name: [Nom (tel qu’il figure sur le passeport)]
+            Date of birth: [Date de naissance]
+            Passport number and expiry date: [Numéro du passeport et date d’expiration]
+          [... Ajouter ou supprimer des voyageurs si nécessaire]
+        FIP Coupon number(s): [Numéro(s) du/des Coupon(s) FIP Stena Line BV utilisé(s) pour le voyage]
+        Additional information: [Informations complémentaires]
+
+        Thank you in advance.
+        Kind regards,
+
+        [Votre nom]
+
 aliases:
   - stena-line-email
 ---

@@ -13,6 +13,7 @@ booking:
   not-bookable: non réservable
   reservation: Réservation
   reservation-costs: Frais de réservation
+  send-mail: Envoyer un e-mail
   visit-additional-information-website: Informations complémentaires
   visit-booking-website: Aller sur le site de réservation
 contact:
