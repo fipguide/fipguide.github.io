@@ -1,5 +1,5 @@
 ---
-title: "Wie lange ist ein Feld eines FIP Freifahrtscheins gültig?"
+title: Wie lange ist ein Feld eines FIP Freifahrtscheins gültig?
 weight: 13
 ---
 

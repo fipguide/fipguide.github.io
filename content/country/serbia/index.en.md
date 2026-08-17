@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Serbia"
-country: "serbia"
+title: Serbia
+country: serbia
 params:
   operators_without_fip:
     - Optima Express
@@ -13,8 +13,7 @@ In Serbia, trains of the state railway [Srbija Voz](/operator/sv "SV") can be us
 
 Kosovo is claimed by Serbia as part of the country, but only trains operated by Trainkos run there, for which FIP has no validity. Kosovo therefore cannot be travelled with FIP discounts.
 
-{{< identify-operator sources="sv-website,db-website,vagonweb" >}}
-{{< /identify-operator >}}
+{{< identify-operator sources="sv-website,db-website,vagonweb" />}}
 
 ## Interesting
 
@@ -30,7 +29,7 @@ The trains in Serbia are mostly older and less modern, away from the main routes
 
 | Country                                                    | Border Points                                          |
 | ---------------------------------------------------------- | ------------------------------------------------------ |
-| Hungary (MÁV)                                              | Röszke (Gr), Subotica (Gr)                             |
+| [Hungary](/country/hungary) ([MÁV](/operator/mav))         | Röszke (Gr), Subotica (Gr)                             |
 | [Romania](/country/romania) ([CFR](/operator/cfr))         | Jimbolia (fr), Vršac (fr)                              |
 | [Bulgaria](/country/bulgaria) ([BDZ](/operator/bdz))       | Dimitrovgrad (fr)                                      |
 | North Macedonia (ŽRSM)                                     | Tabanovci (fr) (Serbian: Табановце; Albanian: Tabanoc) |

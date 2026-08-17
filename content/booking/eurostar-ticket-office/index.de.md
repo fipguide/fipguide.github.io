@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "Eurostar Ticketschalter"
-description: "Buchungsinformationen für die Eurostar Ticketschalter."
-
+title: Eurostar Ticketschalter
+description: Buchungsinformationen für die Eurostar Ticketschalter.
 params:
   fip_global_fare: true
-  type: "onsite"
+  type: onsite
 ---
 
 ## FIP Globalpreis

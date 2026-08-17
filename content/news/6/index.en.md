@@ -1,8 +1,9 @@
 ---
-date: "2025-08-25"
+date: 2025-08-25
 draft: false
-title: "FIP Benefits Rigi-Bahnen (Switzerland)"
-description: "From 01.01.2025, FIP benefits are also valid on some routes of the Rigi-Bahnen in Switzerland."
+title: FIP Benefits Rigi-Bahnen (Switzerland)
+description: From 01.01.2025, FIP benefits are also valid on some routes of the
+  Rigi-Bahnen in Switzerland.
 country:
   - switzerland
 operator:

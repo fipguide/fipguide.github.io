@@ -1,14 +1,13 @@
 ---
 draft: false
-title: "Eurostar"
+title: Eurostar
 country:
-  - "belgium"
-  - "germany"
-  - "netherlands"
-  - "united-kingdom"
-  - "france"
-operator: "eurostar"
-
+  - belgium
+  - germany
+  - netherlands
+  - united-kingdom
+  - france
+operator: eurostar
 aliases:
   - /booking/eurostar-phone
   - /booking/eurostar-ticket-office
@@ -28,7 +27,9 @@ Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprü
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="invalid" subtitle="FIP 50 / FIP 75" disable_dialog=true >}}
+
 {{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 Der Erwerb von vergünstigten FIP Globalpreistickets zum Festpreis ist möglich. Sämtliche Tickets sind aufgrund der Reservierungspflicht in allen Zügen zuggebunden. Das Umbuchen auf andere Züge oder Stornieren von FIP Tickets ist dabei jedoch über die [Eurostar Website](https://www.eurostar.com/) möglich. Die Tickets können nur separat und nicht als Teil von durchgehenden Fahrkarten erworben werden. [^1]
@@ -107,6 +108,8 @@ Bei der Buchung kann teilweise in Pfund oder Euro bezahlt werden. In der Regel s
 
 Tickets werden ausschließlich als Online Tickets ausgegeben, weshalb für die Buchung zwangsläufig eine E-Mail-Adresse erforderlich ist.
 
+Der FIP-Ausweis sollte beim Boarding bereitgehalten werden.
+
 ### Online
 
 Das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets ist über die Eurostar Website möglich, mehr Informationen dazu unter [Umbuchungen & Stornierungen](#umbuchungen--stornierungen). Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
@@ -130,14 +133,18 @@ Das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets ist über die Euro
     fip_global_fare=true
 /%}}
 
-{{% booking id="internationalrail-email" fip_50=nil fip_75=nil /%}}
+{{% booking id="internationalrail-email"
+    fip_50=nil
+    fip_75=nil
+/%}}
 
 ### Telefon
 
 {{% booking id="eurostar-phone"
     subtitle="Nur Eurostar Red"
 %}}
-Die Buchung von FIP Tickets von/nach London (Eurostar Blue) ist über die Hotline nicht möglich. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.{{% /booking %}}
+Die Buchung von FIP Tickets von/nach London (Eurostar Blue) ist über die Hotline nicht möglich. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.
+{{% /booking %}}
 
 {{% booking id="cfl-phone"
     fip_global_fare=true
@@ -197,7 +204,7 @@ Kinder unter 12 Jahren müssen von einem Erwachsenen begleitet werden. Kinder zw
 
 ### Umbuchungen & Stornierungen
 
-FIP Tickets können bis eine Stunde vor Abfahrt umgebucht oder kostenfrei storniert werden. Danach ist eine Umbuchung oder Stornierung nicht mehr möglich.
+FIP Tickets können bis zur geplanten Abfahrtszeit des Zuges umgebucht oder kostenfrei storniert werden. Danach ist eine Umbuchung oder Stornierung nicht mehr möglich.
 
 Grundsätzlich kann nur auf andere verfügbare Züge umgebucht werden, bei denen noch entsprechende Kontingente vorhanden sind, siehe auch [Ticketkontingente](#ticketkontingente). Bei der Umbuchung ist auch das Upgrade von Eurostar Standard auf Eurostar Plus gegen Zahlung der Differenz möglich. Bei einem Downgrade von Eurostar Plus auf Eurostar Standard wird die Differenz jedoch nicht erstattet.
 

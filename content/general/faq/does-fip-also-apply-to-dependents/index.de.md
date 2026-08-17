@@ -1,5 +1,5 @@
 ---
-title: "Gilt FIP auch für Angehörige?"
+title: Gilt FIP auch für Angehörige?
 weight: 3
 ---
 

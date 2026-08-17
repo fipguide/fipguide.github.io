@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Stena Line Limited Telefon"
-description: "Buchungsinformationen für die Buchung per Telefon bei Stena Line Limited"
+title: Stena Line Limited Telefon
+description: Buchungsinformationen für die Buchung per Telefon bei Stena Line Limited
 params:
   fip_50: true
   fip_global_fare: nil
   reservations: true
-  type: "phone"
+  type: phone
 ---
 
 Ein individuelles Angebot kann via Telefon eingeholt und gebucht werden: [+44 3432 081801](tel:+443432081801)
@@ -20,7 +20,6 @@ Die Reisedaten, Reisepass und FIP Ausweis sollten bereitgehalten werden.
 ## FIP 50 Fahrkarten
 
 FIP 50 Tickets können gebucht werden.
-
 {{% /booking-section %}}
 
 {{% satellite /%}}

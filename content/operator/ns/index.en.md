@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "NS"
+title: NS
 country:
-  - "netherlands"
-operator: "ns"
-
+  - netherlands
+operator: ns
 aliases:
   - /booking/ns-phone
   - /booking/ns-ticket-office
@@ -23,6 +22,7 @@ Nederlandse Spoorwegen (NS) is the state railway company of the [Netherlands](/c
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on NS services. For cross-border journeys, either a continuous FIP 50 ticket or FIP Coupons for both countries are required.
@@ -44,13 +44,14 @@ Supplements must partly be paid for Eurocity Direct and Intercity Direct trains.
     reservation_possible=true
     additional_information_url="https://www.nsinternational.com/en/trains/ice"
 %}}
+
 High-speed trains of Deutsche Bahn, operated by NS in the Netherlands. They run between Amsterdam and Germany (Cologne / Frankfurt am Main or Hanover / Berlin), but can also be used within the Netherlands between Amsterdam and Arnhem or Hengelo with an FIP Coupon without a supplement. However, with FIP 50 Tickets, a supplement is required.
 
-{{% highlight important %}}
+{{< highlight important >}}
 When using FIP 50 Tickets for domestic travel within the Netherlands, an [ICE supplement](https://www.ns.nl/en/tickets/ice-supplement) of € 3 per journey must be paid. No supplement is required with FIP Coupons.
 
 The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supplement), in the NS app, or at ticket machines/counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of € 1.50 is charged for a single-use ticket.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
@@ -65,8 +66,10 @@ In 2026, this will be the case from June 26th to August 16th.
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
+
 International, supplement-required train between Lelystad, Amsterdam, and Brussels, stopping at Almere, Schiphol, Rotterdam, and Antwerp.
 
 {{< highlight important >}}
@@ -100,11 +103,14 @@ Holders of an OV-chipkaart can buy a discounted supplement for € 1.92 (40 % di
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
+
 International train between Rotterdam and Brussels with several intermediate stops.
 
 ![Eurocity (Direct) Network](eurocity-map.en.svg)
+
 {{% /train-category %}}
 
 {{% train-category
@@ -113,8 +119,10 @@ International train between Rotterdam and Brussels with several intermediate sto
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.ns.nl/en/travel-information/special-routes/intercity-direct.html"
 %}}
+
 Partly supplement-required fast train between Lelystad or Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal, and Breda.
 
 {{< highlight important >}}
@@ -135,8 +143,11 @@ Holders of an OV-chipkaart can buy a discounted supplement for € 1.92 (40 % di
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Unlike in other countries, these are not true long-distance trains, but rather fast regional trains with few stops.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -145,12 +156,16 @@ Unlike in other countries, these are not true long-distance trains, but rather f
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Regional trains with more stops than Intercity, but still only at important stations.
 
-{{% highlight confusion %}}
-Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo – Hamm (Germany), Maastricht – Aachen (Germany), and Arnhem – Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP.
-{{% /highlight %}}
+{{< highlight confusion >}}
+Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo – Hamm (Germany) and Arnhem – Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP.
+
+An exception applies to the Three-Country Train (Liège-Guillemins – Maastricht – Heerlen – Aachen): between Maastricht and Liège-Guillemins, the train is operated on behalf of NS and SNCB, and NS/SNCB tickets including FIP remain valid. Between Maastricht and Aachen (via Heerlen), the train is operated by Arriva and FIP is not valid.
+{{< /highlight >}}
 {{% /train-category %}}
 
 {{% train-category
@@ -159,8 +174,11 @@ Trains of the Sneltrein / Regional-Express `RE` category, including the connecti
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Regional trains for short connections, stopping at every station along the route.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -169,7 +187,9 @@ Regional trains for short connections, stopping at every station along the route
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Regional trains with red-grey R-net branding on the route from Alphen aan den Rijn to Gouda.
 
 {{< highlight confusion >}}

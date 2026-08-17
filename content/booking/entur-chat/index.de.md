@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Entur Chat"
-description: "Buchungsinformationen für den Entur Chat."
+title: Entur Chat
+description: Buchungsinformationen für den Entur Chat.
 params:
   fip_50: true
   reservations: true
-  booking_link: "https://om.entur.no/kontakt-oss"
-  type: "socialmedia"
+  booking_link: https://om.entur.no/kontakt-oss
+  type: socialmedia
 ---
 
 Über den Online-Chat können FIP 50 Fahrkarten und Reservierungen gebucht werden.

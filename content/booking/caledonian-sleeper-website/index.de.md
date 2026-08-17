@@ -1,14 +1,14 @@
 ---
 draft: false
-title: "Caledonian Sleeper Website"
-description: "Buchungsinformationen für die Caledonian Sleeper Website."
+title: Caledonian Sleeper Website
+description: Buchungsinformationen für die Caledonian Sleeper Website.
 params:
   fip_50: false
   fip_75: false
   reservations: true
-  booking_link: "https://www.sleeper.scot/"
-  additional_info_link: "https://www.sleeper.scot/help-support/room-supplements/"
-  type: "website"
+  booking_link: https://www.sleeper.scot/
+  additional_info_link: https://www.sleeper.scot/help-support/room-supplements/
+  type: website
 ---
 
 {{% booking-section "reservations" %}}

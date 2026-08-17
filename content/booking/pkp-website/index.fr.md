@@ -1,18 +1,19 @@
 ---
 draft: false
-title: "Site Web PKP Intercity "
-description: "Informations de réservation pour le site web PKP Intercity ."
-
+title: Site Web / Application PKP Intercity
+description: Informations de réservation pour le site web et l'application PKP Intercity.
 params:
   fip_50: true
   reservations: true
   classes:
-    first: "3 PLN"
-    second: "3 PLN"
-  booking_link: "https://ebilet.intercity.pl/"
-  additional_info_link: "https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/where-to-buy-the-ticket/przejazdy-z-fip-en.html"
-  type: "website"
+    first: 3 PLN
+    second: 3 PLN
+  booking_link: https://ebilet.intercity.pl/
+  additional_info_link: https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/where-to-buy-the-ticket/przejazdy-z-fip-en.html
+  type: online
 ---
+
+PKP Intercity propose également une [application](https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/ic-mobile-navigator.html) permettant de réserver des Billets FIP 50.
 
 {{% booking-section "fip_50" %}}
 
@@ -38,5 +39,4 @@ Ensuite, la connexion ou l’inscription à un compte utilisateur PKP Intercity 
 Lors de voyages avec un Coupon FIP, celui-ci doit être enregistré dans le compte client en indiquant le numéro du coupon et la période de validité afin que la réservation puisse être achetée :
 
 ![Enregistrement coupon PKP](pkp_reservation_ticket.webp)
-
 {{% /booking-section %}}

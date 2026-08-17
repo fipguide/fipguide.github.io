@@ -1,0 +1,14 @@
+{{- $page := .Page -}}
+{{- $type := .Get "type" -}}
+{{- $lang := $page.Language.Lang -}}
+{{- $excluded := slice "eurostar" "euskotren" -}}
+{{- $issuerSlug := $page.File.ContentBaseName -}}
+{{- $validity := $page.Resources.Get "validity.yaml" | transform.Unmarshal -}}
+{{- $entries := dict -}}
+{{- range where $page.Site.RegularPages "Type" "operator" -}}
+  {{- $targetSlug := .File.ContentBaseName -}}
+  {{- if and (ne $targetSlug $issuerSlug) (not (in $excluded $targetSlug)) -}}
+    {{- $entries = merge $entries (dict $targetSlug (index (index $validity $targetSlug) $type)) -}}
+  {{- end -}}
+{{- end -}}
+{{ partial "fip-validity/table" (dict "entries" $entries "lang" $lang "page" $page) }}

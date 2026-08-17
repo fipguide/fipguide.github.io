@@ -1,11 +1,11 @@
 ---
 draft: false
-title: "Téléphone Entur"
-description: "Informations de réservation pour la hotline Entur."
+title: Téléphone Entur
+description: Informations de réservation pour la hotline Entur.
 params:
   fip_50: true
   reservations: true
-  type: "phone"
+  type: phone
 ---
 
 Les Billets FIP 50 et les réservations peuvent être réservés via la hotline.

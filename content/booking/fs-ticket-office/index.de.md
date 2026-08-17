@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "Trenitalia Ticketschalter"
-description: "Buchungsinformationen für die Trenitalia Ticketschalter."
-
+title: Trenitalia Ticketschalter
+description: Buchungsinformationen für die Trenitalia Ticketschalter.
 params:
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.trenitalia.com/en/information/customer-service-offices.html"
-  type: "onsite"
+  additional_info_link: https://www.trenitalia.com/en/information/customer-service-offices.html
+  type: onsite
 ---
 
 {{% booking-section "fip_50" %}}
@@ -24,7 +23,7 @@ An Trenitalia Fahrkartenschaltern können FIP 50 Fahrkarten erworben werden. Gru
 
 Der Aufschlag _CAMBIO SERVIZIO_ für Fernverkehrszüge kann ausschließlich vor Ort an Trenitalia Ticketschaltern erworben werden.
 
-{{% highlight inofficial %}}
+{{< highlight inofficial >}}
 Teilweise wird der Aufschlag _DIRITTO AMMISSIONE_ verkauft. Dieser Aufschlag ist günstiger als _CAMBIO SERVIZIO_ und offiziell nur für Dienstfahrten gültig, uns sind jedoch keine Probleme bei der Ticketkontrolle bekannt, wenn diese Tickets für Privatreisen verwendet werden.
 
 **Preise für _DIRITTO AMMISSIONE_:**
@@ -36,8 +35,8 @@ InterCity Notte (ICN): 25 € (1./2. Klasse, Sitzwagen)
 
 {{% /booking-section %}}
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Bei Kurzstrecken im Le Frecce und sonstigen Fernzügen ist der Normaltarif güstiger als FIP reduzierte Tickets.
 
 Zusätzlich können Aufschläge für Le Frecce und sonstige Fernzüge teilweise teurer sein als ein FIP 50 Ticket.
-{{% /highlight %}}
+{{< /highlight >}}

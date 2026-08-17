@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "Distributeurs de billets ÖBB"
-description: "Informations de réservation via les distributeurs de tickets ÖBB."
-
+title: Distributeurs de billets ÖBB
+description: Informations de réservation via les distributeurs de tickets ÖBB.
 params:
   fip_50: true
-  additional_info_link: "https://www.oebb.at/en/reiseplanung-services/am-bahnhof/ticketautomat"
-  type: "machine"
-
+  additional_info_link: https://www.oebb.at/en/reiseplanung-services/am-bahnhof/ticketautomat
+  type: machine
 aliases:
   - obb-ticket-machine
   - obb_ticket_machine

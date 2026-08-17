@@ -43,7 +43,7 @@ operator: "{{ .File.ContentBaseName }}"
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
-{{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
+{{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 <!--
   Where are FIP 50 Tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?
@@ -141,11 +141,11 @@ Further important information can be added here.
 
 {{% booking id="booking_id"
     subtitle="This subtitle is displayed in the summary of the expander and should not take too much space."
-    reservations=nil
-    fip_50=false
-    fip_global_fare=true
     classes.first="€20"
     classes.second="€10"
+    fip_50=false
+    fip_global_fare=true
+    reservations=nil
 %}}
 
 <!-- This is an information text that can contain country specific information and is displayed in the expanded part. -->

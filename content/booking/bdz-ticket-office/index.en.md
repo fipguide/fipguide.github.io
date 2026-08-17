@@ -1,15 +1,15 @@
 ---
 draft: false
-title: "BDŽ Ticket Office"
-description: "Booking information for BDŽ ticket offices."
+title: BDŽ Ticket Office
+description: Booking information for BDŽ ticket offices.
 params:
   classes:
-    first: "€ 0.51"
-    second: "€ 0.51"
+    first: € 0.51
+    second: € 0.51
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.bdz.bg/en/a/stations"
-  type: "onsite"
+  additional_info_link: https://www.bdz.bg/en/a/stations
+  type: onsite
 ---
 
 {{% booking-section "fip_50" %}}

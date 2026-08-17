@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Norvège"
-country: "norway"
+title: Norvège
+country: norway
 params:
   operators_without_fip:
     - Arctic Train
@@ -18,8 +18,7 @@ Les lots de transport sont attribués dans le cadre de procédures d’appel d�
 Sur la Carte FIP et sur les Coupons FIP, seule la mention **Vy Group AS** est imprimée, mais il est possible de voyager à bord des trains des opérateurs Vy Tog, SJ Nord et Go-Ahead Nordic.
 Les détails peuvent être consultés sur la [page de l’opérateur](/operator/vy).
 
-{{< identify-operator sources="entur-website,db-website" >}}
-{{< /identify-operator >}}
+{{< identify-operator sources="entur-website,db-website" />}}
 
 ## Informations générales
 

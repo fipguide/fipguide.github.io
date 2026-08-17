@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Allemagne"
-country: "germany"
+title: Allemagne
+country: germany
 params:
   operators_without_fip:
     - Abellio Rail Mitteldeutschland GmbH
@@ -56,10 +56,6 @@ params:
     - RDC Autozug Sylt GmbH – AS
     - RDC Deutschland GmbH
     - REGIOBAHN
-    - Regionalverkehre Start Deutschland GmbH (Start Mitteldeutschland)
-    - Regionalverkehre Start Deutschland GmbH (Start Niedersachsen-Mitte)
-    - Regionalverkehre Start Deutschland GmbH (Start Taunus) – STN
-    - Regionalverkehre Start Deutschland GmbH (Start Unterelbe)
     - RegioTram – RT
     - Rhein-Neckar-Verkehr GmbH
     - RheinRuhrBahn (Transdev) – RRB
