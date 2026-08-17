@@ -252,7 +252,9 @@ Aucune réduction FIP n’est accordée sur les lignes suivantes :
 - Téléphérique Stechelberg – Mürren – Schilthorn (LSMS)
 
 {{< highlight inofficial >}}
-Il nous a été signalé que le transport d'équipements de sports d'hiver (ski, snowboard) sur les Jungfraubahn n'est pas possible lors de l'utilisation du FIP.
+L'utilisation des chemins de fer de la Jungfrau avec FIP est uniquement destinée au transport public régulier.
+
+On nous a signalé qu'il n'est pas possible d'utiliser le FIP pour les voyages en équipement de sports d'hiver. La raison en est que le FIP ne doit pas être utilisé comme forfait ski. Nous ne connaissons pas de règlement tarifaire officiel à ce sujet. Le FIP peut être utilisé pour les trajets aller et retour vers le domaine skiable, à condition que la ligne soit couverte par le FIP.
 {{< /highlight >}}
 
 {{% /train-category %}}
