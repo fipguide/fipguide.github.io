@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "Koleje Śląskie Ticket Office"
-description: "Booking information for Koleje Śląskie Ticket Office."
-
+title: Koleje Śląskie Ticket Office
+description: Booking information for Koleje Śląskie Ticket Office.
 params:
   fip_50: true
-  additional_info_link: "https://www.kolejeslaskie.pl/kup_bilet/na-dworcu/"
-  type: "onsite"
+  additional_info_link: https://www.kolejeslaskie.pl/kup_bilet/na-dworcu/
+  type: onsite
 ---
 
 KŚ operates an extensive network of ticket offices, including at smaller stations. It is advantageous to speak some Polish or have a suitable translator app, as English (or German) is often not widely spoken.

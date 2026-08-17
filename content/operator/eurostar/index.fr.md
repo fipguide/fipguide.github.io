@@ -1,14 +1,13 @@
 ---
 draft: false
-title: "Eurostar"
+title: Eurostar
 country:
-  - "belgium"
-  - "germany"
-  - "netherlands"
-  - "united-kingdom"
-  - "france"
-operator: "eurostar"
-
+  - belgium
+  - germany
+  - netherlands
+  - united-kingdom
+  - france
+operator: eurostar
 aliases:
   - /booking/eurostar-phone
   - /booking/eurostar-ticket-office
@@ -28,7 +27,9 @@ Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. �
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="invalid" subtitle="FIP 50 / FIP 75" disable_dialog=true >}}
+
 {{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 Les billets à Tarif Global FIP peuvent être achetés à prix fixe. Tous les billets sont spécifiques à un train, en raison de la réservation obligatoire. Il est toutefois possible de modifier ou annuler les Billets FIP via le [site Eurostar](https://www.eurostar.com/). Les Billets FIP ne peuvent pas être combinés dans un trajet continu avec correspondance. [^1]
@@ -107,6 +108,8 @@ Lors de la réservation, les prix en euros sont généralement plus avantageux q
 
 Les billets sont émis exclusivement sous forme numérique (email requis).
 
+La carte FIP doit être présentée lors de l'embarquement.
+
 ### En ligne
 
 Mais la gestion du billet (annulation, échange, rebooking) est possible via le site Eurostar, plus d’informations sous [Modifications & Annulations](#modifications--annulations). Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
@@ -130,7 +133,10 @@ Mais la gestion du billet (annulation, échange, rebooking) est possible via le 
     fip_global_fare=true
 /%}}
 
-{{% booking id="internationalrail-email" fip_50=nil fip_75=nil /%}}
+{{% booking id="internationalrail-email"
+    fip_50=nil
+    fip_75=nil
+/%}}
 
 ### Par téléphone
 
@@ -198,7 +204,7 @@ Les enfants de moins de 12 ans doivent être accompagnés par un adulte. Les enf
 
 ### Modifications & Annulations
 
-Les Billets FIP peuvent être modifiés ou annulés gratuitement jusqu’à une heure avant le départ. Passé ce délai, toute modification ou annulation est impossible.
+Les Billets FIP peuvent être modifiés ou annulés gratuitement jusqu’à l’heure de départ prévue du train. Passé ce délai, toute modification ou annulation est impossible.
 
 En principe, il n’est possible de rebooker que sur d’autres trains disponibles disposant encore de contingents suffisants, voir aussi [Quotas de billets](#quotas-de-billets). Lors d’une modification, il est également possible de passer d’Eurostar Standard à Eurostar Plus en payant la différence. En revanche, un déclassement d’Eurostar Plus à Eurostar Standard ne donnera pas lieu à un remboursement de la différence.
 

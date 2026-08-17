@@ -1,17 +1,15 @@
 ---
 draft: false
-title: "DSB Website"
-description: "Booking information for DSB Website."
-
+title: DSB Website
+description: Booking information for DSB Website.
 params:
   classes:
-    first: "DKK 30"
-    second: "DKK 30"
+    first: DKK 30
+    second: DKK 30
   fip_50: false
   reservations: true
-  booking_link: "https://www.dsb.dk/en/"
-  type: "website"
-
+  booking_link: https://www.dsb.dk/en/
+  type: website
 aliases:
   - dsb_website
 ---
@@ -23,5 +21,4 @@ aliases:
 The reservation price is charged per journey. This means that for connections with transfers, you only need to pay once for multiple trains.
 
 Through the DSB website, you can book seat reservations for domestic Danish train connections. When booking seats, you must enter "0" as the number of passengers and then specify the desired number of seat reservations.
-
 {{% /booking-section %}}

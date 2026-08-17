@@ -1,14 +1,14 @@
 ---
 draft: false
-title: "MÁV Ticket Machine"
-description: "Booking information for MÁV ticket machines."
+title: MÁV Ticket Machine
+description: Booking information for MÁV ticket machines.
 params:
   classes:
-    first: "HUF 990"
-    second: "HUF 990"
+    first: HUF 990
+    second: HUF 990
   fip_50: true
   reservations: true
-  type: "machine"
+  type: machine
 ---
 
 Ticket machines from MÁV are available at many major train stations. FIP 50 Tickets and reservations for MÁV and GySEV are sold here.

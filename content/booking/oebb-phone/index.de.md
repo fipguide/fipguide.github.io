@@ -1,17 +1,15 @@
 ---
 draft: false
-title: "ÖBB Telefon"
-description: "Buchungsinformationen für die ÖBB Hotline."
-
+title: ÖBB Telefon
+description: Buchungsinformationen für die ÖBB Hotline.
 params:
   classes:
-    first: "3,50 €"
-    second: "3,50 €"
+    first: 3,50 €
+    second: 3,50 €
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.oebb.at/de/reiseplanung-services/kundenservice/callcenter"
-  type: "phone"
-
+  additional_info_link: https://www.oebb.at/de/reiseplanung-services/kundenservice/callcenter
+  type: phone
 aliases:
   - obb_phone
   - obb-phone
@@ -35,7 +33,6 @@ Da Satellite den Rufnummernbereich +43517 [sperrt](https://help.satellite.me/mit
 FIP 50 Fahrkarten können für Reisen innerhalb Österreichs und in vielen europäischen Ländern erworben werden.
 
 Die Tickets sind im Vorverkauf günstiger (1 Tag vor der Fahrt oder 15 Tage vor der Fahrt).
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -48,5 +45,4 @@ Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Um
 
 - 180 Tage bis 15 Tage vor Abfahrt: 100% Erstattung des Reservierungspreises
 - 14 Tage bis 1 Tag vor Abfahrt: 50% Erstattung des Reservierungspreises
-
-{{% /booking-section %}}
+  {{% /booking-section %}}

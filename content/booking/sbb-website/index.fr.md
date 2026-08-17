@@ -1,32 +1,32 @@
 ---
 draft: false
-title: "Site Web CFF"
-description: "Informations sur la réservation de Billets FIP via le site web des CFF."
-
+title: Site Web CFF
+description: Informations sur la réservation de Billets FIP via le site web et
+  l'application des CFF.
 params:
   classes:
-    first: "5 CHF"
-    second: "5 CHF"
+    first: 5 CHF
+    second: 5 CHF
   fip_50: true
   reservations: true
-  booking_link: "https://www.sbb.ch/fr"
-  additional_info_link: "https://www.sbb.ch/fr/offres/reservation-de-places"
-  type: "website"
-
+  booking_link: https://www.sbb.ch/fr
+  additional_info_link: https://www.sbb.ch/fr/offres/reservation-de-places
+  type: online
 aliases:
   - sbb_website
 ---
+
+La CFF propose également une [application](https://www.sbb.ch/fr/informations-voyages/applis/mobile-cff.html) permettant de réserver des Billets FIP 50.
 
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50
 
-Sur le site des CFF, les Billets FIP 50 peuvent être achetés en sélectionnant la réduction « Demi-tarif 50 % », à condition qu’il ne s’agisse pas d’un billet dégriffé, d’un abonnement journalier dégriffé ou d’un billet spécial.[^1] Cette option est à l’origine prévue pour les détenteurs d’un abonnement demi-tarif, mais elle est également acceptée comme solution simple pour les Billets FIP 50. Le tarif demi-tarif est généralement présélectionné par défaut sur le site des CFF.
+Sur le site des CFF et dans l'application, les Billets FIP 50 peuvent être achetés en sélectionnant la réduction « Demi-tarif 50 % », à condition qu’il ne s’agisse pas d’un billet dégriffé, d’un abonnement journalier dégriffé ou d’un billet spécial.[^1] Cette option est à l’origine prévue pour les détenteurs d’un abonnement demi-tarif, mais elle est également acceptée comme solution simple pour les Billets FIP 50. Le tarif demi-tarif est généralement présélectionné par défaut sur le site des CFF et dans l'application.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Dans les zones urbaines, un billet avec réduction demi-tarif peut inclure des transports exploités par des compagnies non participantes au FIP (par exemple : trams ou bus). Ces sections ne sont pas valables avec un Billet FIP, sauf si vous avez un abonnement demi-tarif.
-{{% /highlight %}}
-
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

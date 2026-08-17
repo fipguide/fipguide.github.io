@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Stena Line Limited Telephone"
-description: "Booking information for booking by telephone with Stena Line Limited"
+title: Stena Line Limited Telephone
+description: Booking information for booking by telephone with Stena Line Limited
 params:
   fip_50: true
   fip_global_fare: nil
   reservations: true
-  type: "phone"
+  type: phone
 ---
 
 An individual offer can be requested and booked by telephone: [+44 3432 081801](tel:+443432081801)

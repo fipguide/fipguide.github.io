@@ -1,18 +1,17 @@
 ---
 draft: false
-title: "Site Web FIP DB (International)"
-description: "Informations de réservation pour les Billets FIP incluant une section en Allemagne."
-
+title: Site Web FIP DB (International)
+description: Informations de réservation pour les Billets FIP incluant une
+  section en Allemagne.
 params:
   classes:
-    first: "6,90 €"
-    second: "5,50 €"
+    first: 6,90 €
+    second: 5,50 €
   fip_50: true
   reservations: true
-  booking_link: "https://int.bahn.de/fr/buchung/start?KL=2&ET=FIP_SONSTIGE"
-  additional_info_link: "https://int.bahn.de/fr/offres/reservation-de-places-assises"
-  type: "website"
-
+  booking_link: https://int.bahn.de/fr/buchung/start?KL=2&ET=FIP_SONSTIGE
+  additional_info_link: https://int.bahn.de/fr/offres/reservation-de-places-assises
+  type: website
 aliases:
   - db_website_fip_international
 ---
@@ -48,7 +47,6 @@ Les Billets FIP 50 peuvent être achetés pour les pays suivants, à condition q
 {.o-section--columns-3}
 
 ![Sélection de billets](ticket-selection.webp)
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -62,6 +60,6 @@ Les réservations de sièges peuvent être effectuées via le site web de la Deu
 ![Réserver une place DB](db_reservation.webp)
 {{% /booking-section %}}
 
-{{% highlight "important" %}}
+{{< highlight "important" >}}
 Si une erreur survient lors de la réservation de trains nécessitant une réservation, il se peut que les réservations ne soient pas encore disponibles pour cette liaison. Veuillez respecter les dates limites de réservation et, le cas échéant, réessayer plus tard, vérifier la liaison sur le site web de l’opérateur ou utiliser d’autres méthodes de réservation.
-{{% /highlight %}}
+{{< /highlight >}}

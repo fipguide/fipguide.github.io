@@ -230,10 +230,13 @@ search:
 skipToContent: Skip to content
 support:
   text: >-
-    Would you like to share your knowledge about FIP regulations? Visit our
-    [GitHub Repository](https://github.com/fipguide/fipguide.github.io) to
-    contribute content. Alternatively, you can also write to us via the [contact
-    form](/contact).
+    Would you like to share your knowledge about FIP regulations? Check out the
+    [Contribute](/contribution) section to update and add content.
+    Alternatively, you can [contact](/contact) us.
+
+
+    The FIP Guide is an open-source project. Information can be edited directly
+    via our [GitHub Repository](https://github.com/fipguide/fipguide.github.io).
 teamMembers:
   lennart:
     name: Lennart Rommeiß

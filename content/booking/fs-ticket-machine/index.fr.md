@@ -1,15 +1,14 @@
 ---
 draft: false
-title: "Distributeurs de billets Trenitalia"
-description: "Informations de réservation pour les distributeurs de billets Trenitalia."
-
+title: Distributeurs de billets Trenitalia
+description: Informations de réservation pour les distributeurs de billets Trenitalia.
 params:
   fip_50: false
   reservations: true
   classes:
-    first: "3 € / 25 €"
-    second: "3 € / 25 €"
-  type: "machine"
+    first: 3 € / 25 €
+    second: 3 € / 25 €
+  type: machine
 ---
 
 {{% booking-section "reservations" %}}
@@ -32,11 +31,10 @@ Sur l’écran d’accueil du distributeur, sélectionnez "Buy your tickets / Sp
 ![Choisir le tarif](machine_2.webp)
 ![Choisir Diritto Ammissione Non FS](machine_3.webp)
 {.o-section--columns-flex}
-
 {{% /booking-section %}}
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Pour les courtes distances sur Le Frecce, le tarif normal peut être moins cher que les Billets FIP réduits.
 
 De plus, les suppléments pour Le Frecce et autres trains longue distance peuvent parfois être plus chers qu’un Billet FIP 50.
-{{% /highlight %}}
+{{< /highlight >}}

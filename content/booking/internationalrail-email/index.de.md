@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "International Rail Ltd. E-Mail"
-description: "Buchungsinformationen für die Buchung per E-Mail bei International Rail Ltd."
-
+title: International Rail Ltd. E-Mail
+description: Buchungsinformationen für die Buchung per E-Mail bei International Rail Ltd.
 params:
   fip_global_fare: true
   fip_50: true
   fip_75: true
-  type: "email"
+  type: email
   fee: 10 £
   email_templates:
     fip_global_fare:
@@ -86,8 +85,7 @@ aliases:
 - Anzahl der Fahrgäste
 - Reiseklasse (analog Berechtigung des FIP-Ausweises)
 - Foto des FIP Ausweises aller reisender Personen
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 {{% booking-section "fip_50" %}}
 
@@ -100,7 +98,6 @@ aliases:
 - Anzahl der Fahrgäste
 - Reiseklasse (analog Berechtigung des FIP-Ausweises)
 - Foto des FIP Ausweises aller reisender Personen
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 **Pro Buchung wird eine Buchungsgebühr von 10 £ erhoben.**

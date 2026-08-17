@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Euskotren Ticket Office"
+title: Euskotren Ticket Office
 params:
   fip_50: nil
   fip_global_fare: nil
   reservations: nil
-  type: "onsite"
-  additional_info_link: "https://www.euskotren.eus/en/customer-service/offices-and-opening-hours"
+  type: onsite
+  additional_info_link: https://www.euskotren.eus/en/customer-service/offices-and-opening-hours
 ---
 
 Upon presentation of the FIP Card, a ticket valid for 7 days is issued at the following outlets.

@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "DB"
+title: DB
 country:
-  - "germany"
-operator: "db"
-
+  - germany
+operator: db
 aliases:
   - /booking/db-ticket-office
   - /booking/db-website
@@ -23,6 +22,7 @@ Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in [Deutsch
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -130,14 +130,14 @@ Einige [Nightjet](#nj)-Verbindungen werden mit `IC`-Sitzwagen geführt. Diese Si
 
 Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen München und Zürich. Seit Dezember 2025 wird die Zugkategorie auch für weitere Verkehre zwischen der Schweiz und Deutschland sowie Zügen auf der Route Hamburg – Kopenhagen genutzt.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Die Züge Richtung Italien sind ab der italienischen Grenze aufschlags- und reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([siehe Anreise Italien](/country/switzerland#italien "Anreise Italien")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
 
 **Aufschlag/Reservierung Italien:**
 
 - 1\. Klasse: 13 €
 - 2\. Klasse: 11 €
-  {{% /highlight %}}
+  {{< /highlight >}}
 
 #### Reservierungen
 
@@ -174,9 +174,9 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Tschechien gab es i
 
 Nachtzüge der ÖBB in Kooperation mit der DB in verschiedene europäische Länder. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Nationale Freifahrten für Mitarbeiter der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis erforderlich.
-{{% /highlight %}}
+{{< /highlight >}}
 
 **FIP Globalpreis:** ja \
 _Tipp:_ Für Fahrten von Deutschland nach Italien, die nationalen Freifahrten bis Salzburg nutzen und dort in den Nightjet steigen, um den FIP Globalpreis zu vermeiden.
@@ -210,9 +210,9 @@ Eine Orientierung bieten [Übersichtskarten](https://www.schienennahverkehr.de/v
 
 Regionalexpresszüge verbinden Orte und Städte mit Halten an den wichtigsten Stationen. Teilweise verkehren die Züge auch überregional über längere Strecken.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die Züge der Kategorie `RE` werden oftmals auch von anderen Betreibern betrieben.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -227,9 +227,9 @@ Die Züge der Kategorie `RE` werden oftmals auch von anderen Betreibern betriebe
 
 Regionalbahnzüge verbinden Orte und Städte mit Halten an fast allen Stationen.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die Züge der Kategorie `RB` werden oftmals auch von anderen Betreibern betrieben.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -244,9 +244,9 @@ Die Züge der Kategorie `RB` werden oftmals auch von anderen Betreibern betriebe
 
 Nahverkehrszüge in großen Städten und Metropolregionen mit Halt an allen Stationen.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die Züge der Kategorie `S` werden oftmals auch von anderen Betreibern betrieben.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -264,10 +264,25 @@ Nahverkehrsexpresszug zwischen Berlin Hauptbahnhof und dem Berliner Flughafen Wi
 {{% /train-category %}}
 
 {{% train-category
-  id="bus"
-  title="Bus"
-  type="bus"
-  fip_accepted=false
+    id="hbx"
+    title="Harz-Berlin-Express (HBX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Ausflugszug am Wochenende zwischen Berlin und Thale bzw. Goslar im Harz.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]
@@ -275,6 +290,8 @@ FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehr
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
+
+FIP 50 Tickets gelten als _Flexpreis_ und sind daher bis vor den 1. Geltungstag des Tickets kostenlos stornierbar. Danach wird eine Gebühr fällig. Reservierungen sind nur eingeschränkt kurz nach Kauf stornierbar. Weitere Informationen zur Stornierung auf der [Website der Deutschen Bahn](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung).
 
 ### Online
 
@@ -286,7 +303,11 @@ FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehr
 
 ### Telefon
 
-{{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" classes.first="6,90 €" classes.second="5,50 €" %}}
+{{% booking id="oebb-phone"
+    subtitle="Inkl. Nightjet Buchung"
+    classes.first="6,90 €"
+    classes.second="5,50 €"
+%}}
 Reservierungen für innerdeutsche Verbindungen kosten 5,50 € (2. Klasse) bzw. 6,90 € (1. Klasse). Grenzüberschreitende Verbindungen kosten 3 €.
 {{% highlight inofficial %}}
 Zurzeit können temporär keine FIP 50 Tickets für nationale Fahrten innerhalb Deutschlands über die ÖBB Hotline verkauft werden. Grenzüberschreitende Buchungen von FIP 50 Tickets sind jedoch weiterhin möglich (siehe [Discord FIP Community ÖBB Hotline Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
@@ -295,7 +316,9 @@ Zurzeit können temporär keine FIP 50 Tickets für nationale Fahrten innerhalb 
 
 ### Vor Ort
 
-{{% booking id="db-ticket-office" subtitle="Inkl. Nightjet Buchung" %}}
+{{% booking id="db-ticket-office"
+    subtitle="Inkl. Nightjet Buchung"
+%}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
 
@@ -361,15 +384,17 @@ Als grobe Orientierung kann auch im DB Navigator oder der [Website der DB](https
 {{% /highlight %}}
 
 {{% expander "Beispiel für Verkehrsverbünde auf Bahn.de" info %}}
+
 In folgendem Beispiel liegt die gewählte Verbindung im Verkehrsverbund _VRS_:
 
 ![Verbindungssuche VRS](search_vrs.webp)
 ![Ticketauswahl VRS](ticket_vrs.de.webp)
+
 {{% /expander %}}
 
 ### Tarifliche Unterscheidung zwischen Nah- und Fernverkehr
 
-Bei FIP 50 Tickets können flexibel Züge auf der gleichen Strecke genutzt werden. Dabei muss aber auf die Zugkategorien geachten werden, da bei der DB wird zwischen Fahrkarten für verschiedene Zugkategorien unterschieden (sogenannte [_Produktklassen_](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)) wird. Fahrkarten (auch FIP 50 Tickets) gelten nur in der gleichen und niedriegen Produktklassen. Die Produktklasse ist auf Fahrkarten vermerkt (z.B. _ICE Fahrkarte_ oder _IC/EC Fahrkarte_) und richtet sich nach der höchsten Zugkategorie auf der gebuchten Verbindung.
+Bei FIP 50 Tickets können flexibel Züge auf der gleichen Strecke genutzt werden. Dabei muss aber auf die Zugkategorien geachten werden, da bei der DB wird zwischen Fahrkarten für verschiedene Zugkategorien unterschieden (sogenannte _[Produktklassen](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)_) wird. Fahrkarten (auch FIP 50 Tickets) gelten nur in der gleichen und niedriegen Produktklassen. Die Produktklasse ist auf Fahrkarten vermerkt (z.B. _ICE Fahrkarte_ oder _IC/EC Fahrkarte_) und richtet sich nach der höchsten Zugkategorie auf der gebuchten Verbindung.
 
 Es gibt folgende Produktklassen:
 
@@ -394,7 +419,7 @@ Im Rahmen eines Probebetriebs bei der S-Bahn Mitteldeutschland im Zeitraum vom 1
 
 ### Regionalverkehre Start GmbH
 
-Die Regionalverkehre Start GmbH ist eine Tochtergesellschaft der DB Regio AG, akzeptiert allerdings keine FIP Vergünstigungen.
+Am 01.08.2026 wurde die Regionalverkehre Start GmbH in die DB Regio AG integriert. Ab diesem Zeitpunkt werden FIP-Vergünstigungen auf den Verbindungen akzeptiert, auch wenn die Fahrzeuge noch die alte Beklebung haben sollten.
 
 ### Anschlüsse
 

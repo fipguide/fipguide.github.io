@@ -1,14 +1,13 @@
 ---
 draft: false
-title: "Eurostar"
+title: Eurostar
 country:
-  - "belgium"
-  - "germany"
-  - "netherlands"
-  - "united-kingdom"
-  - "france"
-operator: "eurostar"
-
+  - belgium
+  - germany
+  - netherlands
+  - united-kingdom
+  - france
+operator: eurostar
 aliases:
   - /booking/eurostar-phone
   - /booking/eurostar-ticket-office
@@ -28,7 +27,9 @@ Eurostar is an operator of high-speed trains in Western Europe. Originally, only
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="invalid" subtitle="FIP 50 / FIP 75" disable_dialog=true >}}
+
 {{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. All tickets are train-specific due to the reservation requirement. However, rebooking to other trains or canceling FIP Tickets is possible via the [Eurostar website](https://www.eurostar.com/). Tickets can only be purchased separately and not as part of through tickets. [^1]
@@ -81,12 +82,12 @@ High-speed train between Belgium, Germany, France, and the Netherlands.
 {{% /train-category %}}
 
 {{% train-category
-id="eurostar-snow"
-title="Eurostar Snow: Amsterdam / Brussels – French Alps"
-type="highspeed"
-fip_accepted=false
-reservation_required=true
-reservation_possible=true
+    id="eurostar-snow"
+    title="Eurostar Snow: Amsterdam / Brussels – French Alps"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 High-speed train from Amsterdam and Brussels to the French Alps.
@@ -106,6 +107,8 @@ When booking, payment can sometimes be made in pounds or euros. Generally, euro 
 ## Ticket and Reservation Purchase
 
 Tickets are issued exclusively as online tickets, so an email address is required for booking.
+
+The FIP Card should be ready for inspection when boarding.
 
 ### Online
 
@@ -130,7 +133,10 @@ Checking in, rebooking, canceling, and upgrading tickets is possible via the Eur
     fip_global_fare=true
 /%}}
 
-{{% booking id="internationalrail-email" fip_50=nil fip_75=nil /%}}
+{{% booking id="internationalrail-email"
+    fip_50=nil
+    fip_75=nil
+/%}}
 
 ### Telephone
 
@@ -198,7 +204,7 @@ Children under 12 must be accompanied by an adult. Children aged 12–15 can tra
 
 ### Rebookings & Cancellations
 
-FIP Tickets can be rebooked or canceled free of charge up to one hour before departure. After that, rebooking or cancellation is no longer possible.
+FIP Tickets can be rebooked or canceled free of charge up to the scheduled departure time of the train. After that, rebooking or cancellation is no longer possible.
 
 In general, rebooking is only possible to other available trains with remaining quotas, see also [Ticket Quotas](#ticket-quotas). When rebooking, upgrading from Eurostar Standard to Eurostar Plus by paying the difference is also possible. However, a downgrade from Eurostar Plus to Eurostar Standard will not be refunded.
 

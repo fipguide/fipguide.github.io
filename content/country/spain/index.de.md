@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Spanien"
-country: "spain"
+title: Spanien
+country: spain
 params:
   operators_without_fip:
     - Iryo
@@ -42,7 +42,7 @@ Zudem finden bei Fernverkehrsreisen Gepäckkontrollen an den Bahnhöfen statt, d
 
 Von Paris aus verkehren direkte `TGV` Züge der französischen SNCF nach Barcelona. Auch die Renfe verkehrt grenzüberschreitend zwischen Lyon und Barcelona sowie Marseille und Madrid.
 
-Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können, siehe [TGV-Züge nach Italien, Spanien und Belgien](/operator/sncf#tgv-italy-spain-belgium). Für die von Renfe betriebenen `AVE` Züge sind FIP Globalpreistickets für 25 € / 28 € verfügbar (Stand: Mai 2026), siehe [Renfe – AVE](/operator/renfe#ave "Renfe – AVE"). Diese Tickets sind bei Renfe Ticketschaltern in Spanien erhältlich. Bei der Anreise aus Frankreich können diese Tickets auch im Zug gekauft werden. Dazu muss das Zugpersonal aufgesucht werden, bei dem auch mit Karte bezahlt werden kann. [^1]
+Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können, siehe [TGV-Züge nach Italien, Spanien und Belgien](/operator/sncf#tgv-italy-spain-belgium). Für die von Renfe betriebenen `AVE` Züge sind FIP Globalpreistickets für 25 € / 28 € verfügbar (Stand: Mai 2026), siehe [Renfe – AVE](/operator/renfe#ave "Renfe – AVE"). Diese Tickets sind bei Renfe Ticketschaltern in Spanien erhältlich. Bei der Anreise aus Frankreich können diese Tickets auch im Zug gekauft werden. Dazu muss das Zugpersonal aufgesucht werden, bei dem auch mit Karte bezahlt werden kann. Auch wenn der Zug ausreserviert ist und keine Sitzplätze verfügbar sind, kann eine Mitfahrt in der Regel gewährleistet werden. [^1]
 
 Mit [Euskotren](/operator/euskotren) kann mit dem speziellen FIP Ticket ab Hendaye gefahren werden.
 

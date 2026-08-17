@@ -1,11 +1,11 @@
 ---
 draft: false
-title: "Agences de vente Attica"
-description: "Informations de réservation pour les agences de vente Attica."
+title: Agences de vente Attica
+description: Informations de réservation pour les agences de vente Attica.
 params:
   fip_50: true
   reservations: false
-  type: "onsite"
+  type: onsite
 ---
 
 Attica dispose d’un réseau mondial de bureaux propres et de Premium Sales Agents qui vendent des Billets FIP 50 :

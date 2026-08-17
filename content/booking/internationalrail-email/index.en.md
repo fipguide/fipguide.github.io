@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "International Rail Ltd. Email"
-description: "Booking information for booking by email with International Rail Ltd."
-
+title: International Rail Ltd. Email
+description: Booking information for booking by email with International Rail Ltd.
 params:
   fip_global_fare: true
   fip_50: true
   fip_75: true
-  type: "email"
+  type: email
   fee: £ 10
   email_templates:
     fip_global_fare:
@@ -85,8 +84,7 @@ FIP Global Fare tickets can be purchased via International Rail Ltd. To do so, s
 - Number of passengers
 - Class of travel (according to FIP Card entitlement)
 - Photo of the FIP Card for all traveling persons
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 {{% booking-section "fip_50" %}}
 
@@ -99,7 +97,6 @@ FIP 50 tickets can be purchased via International Rail Ltd. To do so, send an em
 - Number of passengers
 - Class of travel (according to FIP Card entitlement)
 - Photo of the FIP Card for all traveling persons
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 **A booking fee of £ 10 is charged per booking.**

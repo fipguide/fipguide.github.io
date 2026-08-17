@@ -1,17 +1,16 @@
 ---
 draft: false
-title: "Site Web DB"
-description: "Informations de réservation via le site web de la Deutsche Bahn."
+title: Site Web DB
+description: Informations de réservation via le site web de la Deutsche Bahn.
 params:
   classes:
-    first: "6,90 €"
-    second: "5,50 €"
+    first: 6,90 €
+    second: 5,50 €
   fip_50: false
   reservations: true
-  booking_link: "https://int.bahn.de/fr"
-  additional_info_link: "https://int.bahn.de/fr/offres/reservation-de-places-assises"
-  type: "website"
-
+  booking_link: https://int.bahn.de/fr
+  additional_info_link: https://int.bahn.de/fr/offres/reservation-de-places-assises
+  type: website
 aliases:
   - db_website
 ---
@@ -27,6 +26,6 @@ Les réservations de sièges peuvent être effectuées via le site web de la Deu
 ![Réserver une place DB](db_reservation.webp)
 {{% /booking-section %}}
 
-{{% highlight "important" %}}
+{{< highlight "important" >}}
 Si une erreur survient lors de la réservation de trains nécessitant une réservation, il se peut que les réservations ne soient pas encore disponibles pour cette liaison. Veuillez respecter les dates limites de réservation et, le cas échéant, réessayer plus tard, vérifier la liaison sur le site web de l’opérateur ou utiliser d’autres méthodes de réservation.
-{{% /highlight %}}
+{{< /highlight >}}

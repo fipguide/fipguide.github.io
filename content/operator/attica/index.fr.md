@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "Attica"
+title: Attica
 country:
-  - "greece"
-  - "italy"
-operator: "attica"
-
+  - greece
+  - italy
+operator: attica
 aliases:
   - /booking/attica-agents
   - /booking/attica-email
@@ -22,7 +21,8 @@ Le groupe Attica est un important opérateur grec de ferries exploitant plusieur
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
-{{< fip-validity type="fip-reduced-ticket" subtitle="FIP 50" status="valid" disable_dialog=true >}}
+
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" disable_dialog=true >}}
 
 ## Catégories de navires et réservations
 

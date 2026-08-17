@@ -1,5 +1,5 @@
 ---
-title: "Wie lange ist ein FIP Freifahrtschein gültig?"
+title: Wie lange ist ein FIP Freifahrtschein gültig?
 weight: 12
 ---
 

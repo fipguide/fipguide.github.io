@@ -1,15 +1,15 @@
 ---
 draft: false
-title: "Guichet CFR Călători"
-description: "Informations de réservation pour le Guichet CFR Călători."
+title: Guichet CFR Călători
+description: Informations de réservation pour le Guichet CFR Călători.
 params:
   classes:
-    first: "6,5 RON / 4,5 RON"
-    second: "6,5 RON / 4,5 RON"
+    first: 6,5 RON / 4,5 RON
+    second: 6,5 RON / 4,5 RON
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.cfrcalatori.ro/en/services-major-railstations/"
-  type: "onsite"
+  additional_info_link: https://www.cfrcalatori.ro/en/services-major-railstations/
+  type: onsite
 ---
 
 {{% booking-section "fip_50" %}}

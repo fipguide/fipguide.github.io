@@ -1,11 +1,11 @@
 ---
 draft: false
-title: "Attica Verkaufsagenturen"
-description: "Buchungsinformationen für die Attica Verkaufsagenturen."
+title: Attica Verkaufsagenturen
+description: Buchungsinformationen für die Attica Verkaufsagenturen.
 params:
   fip_50: true
   reservations: false
-  type: "onsite"
+  type: onsite
 ---
 
 Attica bietet ein weltweites Netzwerk an eigenen Büros und Premium Sales Agents an, welche FIP 50 Tickets verkaufen:
