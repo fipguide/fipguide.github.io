@@ -300,11 +300,11 @@ Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mai
 
 {{% booking id="fs-ticket-office" /%}}
 
-{{% booking id="sz-ticket-office" 
-  subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Italien" /%}}
+{{% booking id="sz-ticket-office"
+    subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Italien" /%}}
 
 {{% booking id="db-ticket-office"
-  subtitle="Zusätzliche günstigere Optionen für grenzüberschreitende Züge zwischen der Schweiz und Italien"
+    subtitle="Zusätzliche günstigere Optionen für grenzüberschreitende Züge zwischen der Schweiz und Italien"
 %}}
 {{% highlight inofficial %}}
 Zur Zeit bekommen wir vermehrt das Feedback, dass die Buchung von FIP Tickets und Reservierungen an DB Ticketschaltern nicht möglich ist. Die Buchung ist nur über das alte Verkaufssystem möglich. Soweit möglich können Mitarbeitende im DB Reisezentrum auf dieses wechseln (siehe [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1498379195708084395)). Es ist nicht bekannt, ob die Einschränkungen vorübergehend oder dauerhaft sind. Bei Problemen während der Buchung, empfehlen wir den Kauf von FIP 50 Tickets und Reservierungen direkt an Trenitalia Ticketschaltern.
