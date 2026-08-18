@@ -985,7 +985,7 @@ This special offer can be withdrawn by Pilatusbahn at any time.
 
 Brienz-Rothorn-Bahn is not a member of FIP, but currently still offers a 50% discount on tickets upon presentation of the FIP Card when purchased at a Brienz-Rothorn-Bahn ticket counter. [^3]
 
-This special offer can be withdrawn by Brienz-Rothorn-Bahn at any time. 
+This special offer can be withdrawn by Brienz-Rothorn-Bahn at any time.
 
 ## Recommendations
 
