@@ -53,7 +53,7 @@ Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-rés
 
 #### Réservations
 
-Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
+Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FIP. Il est disponible uniquement en gare aux guichets Trenitalia.
 
 {{% /train-category %}}
 
@@ -76,7 +76,7 @@ Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-rés
 
 #### Réservations
 
-Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
+Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FIP. Il est disponible uniquement en gare aux guichets Trenitalia.
 
 {{% /train-category %}}
 
@@ -95,7 +95,7 @@ Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-rés
 
 #### Réservations
 
-Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
+Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FIP. Il est disponible uniquement en gare aux guichets Trenitalia.
 
 {{% /train-category %}}
 
@@ -127,9 +127,7 @@ Trains rapides principalement hors lignes à grande vitesse.
 
 #### Réservations
 
-**Coût :** 3 € (1ère/2ᵉ classe)
-
-Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
+Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FIP. Il est disponible uniquement en gare aux guichets Trenitalia.
 
 {{% /train-category %}}
 
@@ -146,9 +144,7 @@ Train de nuit national avec voitures couchettes, lits et places assises.
 
 #### Réservations
 
-**Coût :** 25 € (1ère/2ᵉ classe, voiture assise)
-
-Le prix de la réservation inclut toujours un supplément avec un Coupon FIP. Pour les couchettes ou lits, un supplément supplémentaire s’applique.
+Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FIP. Il est disponible uniquement en gare aux guichets Trenitalia. Pour les couchettes ou lits, un supplément supplémentaire s’applique.
 
 {{% /train-category %}}
 
@@ -167,9 +163,7 @@ Trains rapides internationaux vers l’Allemagne, l’Autriche et la Suisse.
 
 #### Réservations
 
-**Coût de la réservation** : Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
-
-Tarifs différents pour le trafic du Brenner (supplément Brenner) :
+Tarifs différents pour le trafic du Brenner (supplément Brenner) :
 
 - 1ʳᵉ classe : 15 €
 - 2ᵉ classe : 10 €
@@ -282,12 +276,6 @@ Les trains Le Frecce longue distance ont des catégories de classes particulièr
 
 ### En ligne
 
-{{% booking id="fs-website" %}}
-{{% highlight inofficial %}}
-Nous recevons actuellement de nombreux retours indiquant que la réservation de billets FIP et de places sur le site Web FS n’est pas possible. Nous ne savons pas si ces restrictions sont temporaires ou permanentes. En cas de problèmes lors de la réservation, nous recommandons d’acheter les Billets FIP 50 et les réservations directement aux guichets Trenitalia.
-{{% /highlight %}}
-{{% /booking %}}
-
 {{% booking id="db-website-fip-db"
     subtitle="Uniquement trains ECE de Milan vers l’Allemagne ou EC sur la ligne du Brenner entre l’Italie et l’Allemagne. Billets FIP 50 transfrontaliers, avec part de billet uniquement pour la section suisse/autrichienne et italienne, réservé aux employés de la Deutsche Bahn."
 %}}
@@ -310,8 +298,6 @@ Pour le `ECE` Francfort – Milan, des Billets FIP 50 directs jusqu’à Milan p
 
 ### En gare
 
-{{% booking id="fs-ticket-machine" /%}}
-
 {{% booking id="fs-ticket-office" /%}}
 
 {{% booking id="sz-ticket-office"
@@ -319,13 +305,22 @@ Pour le `ECE` Francfort – Milan, des Billets FIP 50 directs jusqu’à Milan p
 /%}}
 
 {{% booking id="db-ticket-office"
-    classes.first="3 € / 25 €"
-    classes.second="3 € / 25 €"
+    subtitle="Options supplémentaires moins chères pour les trains transfrontaliers entre la Suisse et l’Italie"
 %}}
+{{< highlight inofficial >}}
+Nous recevons actuellement de nombreux retours indiquant que la réservation de billets FIP et de places aux guichets DB n'est pas possible. La réservation n'est possible qu'avec l'ancien système de vente. Lorsque cela est possible, le personnel du DB Reisezentrum peut basculer vers ce système (voir [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1498379195708084395)). Nous ne savons pas si ces restrictions sont temporaires ou permanentes. En cas de problèmes lors de la réservation, nous recommandons d'acheter les Billets FIP 50 et les réservations directement aux guichets Trenitalia.
+{{< /highlight >}}
+Le supplément ou le prix de la réservation pour les trains internationaux `EC`/`ECE` entre la Suisse et l'Italie coûte seulement 10 € (2ᵉ classe) ou 13 € (1ʳᵉ classe) au guichet DB Reisezentrum et inclut une réservation de siège (par exemple jusqu'à Francfort).
+
 {{% highlight inofficial %}}
-Nous recevons actuellement de nombreux retours indiquant que la réservation de billets FIP et de places aux guichets DB n’est pas possible. La réservation n’est possible qu’avec l’ancien système de vente. Lorsque cela est possible, le personnel du DB Reisezentrum peut basculer vers ce système (voir [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1498379195708084395)). Nous ne savons pas si ces restrictions sont temporaires ou permanentes. En cas de problèmes lors de la réservation, nous recommandons d’acheter les Billets FIP 50 et les réservations directement aux guichets Trenitalia.
+Les billets nationaux longue distance sont émis avec le supplément _DIRITTO AMMISSIONE_. Ce supplément est moins cher que le supplément _CAMBIO SERVIZIO_ et n'est officiellement valable que pour les voyages de service, mais nous ne sommes pas au courant de problèmes lors des contrôles de billets lors de l'utilisation de ces billets pour des voyages privés.
+
+**Tarifs pour _DIRITTO AMMISSIONE_ :**
+
+Le Frecce (FR, FA, FB) : 25 € (1ère/2ᵉ classe) \
+InterCity (IC) : 3 € (1ère/2ᵉ classe) \
+InterCity Notte (ICN) : 25 € (1ère/2ᵉ classe, voiture assise)
 {{% /highlight %}}
-Le supplément ou le prix de la réservation pour les trains internationaux `EC`/`ECE` entre la Suisse et l’Italie coûte seulement 10 € (2ᵉ classe) ou 13 € (1ʳᵉ classe) au guichet DB Reisezentrum et inclut une réservation de siège (par exemple jusqu’à Francfort).
 {{% /booking %}}
 
 ### À bord du train
