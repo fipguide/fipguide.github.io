@@ -161,6 +161,24 @@ Trains stopping at all stations. In metropolitan areas also called S-Bahn.
 {{% /train-category %}}
 
 {{% train-category
+    id="lex"
+    title="Léman-Express (RL)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.lemanexpress.com/en/les-6-lignes-lex/"
+%}}
+
+In the Geneva area, cross-border regional trains operate under the name Léman Express, run by SBB and SNCF.
+
+In the SNCF timetable information, Léman Express connections are displayed as `LEX` + line number (L1, L2, etc.). In the SBB timetable information, the trains are sometimes displayed as `RL`, and occasionally as `TER`.
+
+Within France and Switzerland, FIP discounts apply as usual. FIP discounts do not apply to cross-border journeys; instead, regular fare tickets must be purchased. [^3]
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"
@@ -270,3 +288,5 @@ The FIP Coupon is especially worthwhile for SBB CFF FFS, as you can travel a den
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)
+
+[^3]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
