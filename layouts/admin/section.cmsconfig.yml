@@ -6,6 +6,8 @@ backend:
   open_authoring: true
   site_domain: fipguide.netlify.app
 publish_mode: editorial_workflow
+output:
+  omit_empty_optional_fields: true
 logo:
   src: /images/logo.svg
   show_in_header: true
@@ -432,7 +434,6 @@ collections:
             name: email_templates
             widget: object
             required: false
-            collapsed: true
             i18n: true
             hint: "Email templates for each booking type. Only used when Type is 'email'."
             fields:
