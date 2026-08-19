@@ -12,7 +12,6 @@ aliases:
   - /booking/oebb-ticket-office
   - /booking/oebb-website
 ---
-
 Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale d’[Autriche](/country/austria "Autriche") et l’opérateur ferroviaire le plus important du pays. Elle assure la majorité des services voyageurs.
 
 ## Résumé
@@ -31,13 +30,13 @@ Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale
 
 Les coupons et Billets FIP 50 sont valables sur les trains ÖBB. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP des deux pays sont nécessaires.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Lors de l’utilisation d’un Coupon FIP, l’accès aux trains grandes lignes ÖBB en Autriche (`RJX`, `RJ`, `EC`, `ICE`, `IC`, `IR`, `D`) nécessite un supplément. Ce supplément peut être acheté à bord lors du contrôle des billets, ou bien aux guichets et distributeurs ÖBB. Il est valable pour un maximum de 2 jours, correspondant à la date du Coupon FIP. La réservation de siège n’est pas incluse dans le supplément et doit être achetée séparément. Avec un Billet FIP 50, aucun supplément n’est requis.
 
 Coût : \
 1ʳᵉ classe : 15 € \
 2ᵉ classe : 10 €
-{{% /highlight %}}
+{{< /highlight >}}
 
 ## Catégories de trains et réservations
 
@@ -301,10 +300,10 @@ L’achat de billets à bord du train est possible si vous contactez immédiatem
 
 Les enfants de moins de 6 ans voyagent gratuitement ; à partir de 6 ans, lors d’un voyage avec un Coupon FIP sur les trains grandes lignes, le [supplément](#validite-des-billets-fip) doit être payé pour chaque enfant.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 La carte ÖBB Vorteilscard Family à 21 € est vite rentabilisée avec enfants. \
 [Voir sur oebb.at](https://www.oebb.at/en/tickets-kundenkarten/kundenkarten/vorteilscard)
-{{% /highlight %}}
+{{< /highlight >}}
 
 ## Conditions tarifaires spéciales
 
@@ -336,9 +335,9 @@ Les Coupons FIP sont acceptés sur les trains locaux ÖBB de la ligne S-Bahn S7.
 
 Les guichets ÖBB et `CAT` se trouvent dans le Terminal 3.
 
-{{% highlight tip %}}
-Si vous voyagez avec des tickets de transport public viennois classiques (par exemple, Tickets simples, tickets 24 heures ou tickets 7 jours via l’application WienMobil) sur la S-Bahn, ils ne sont valables que jusqu’à la limite de la ville à Schwechat. Pour la section entre Schwechat et l’aéroport, un ticket supplémentaire doit être acheté au guichet ou au distributeur. Les tickets WienMobil au tarif standard ne sont valables sur le `CAT` ou les bus Vienna Airport Lines VAL qu’avec le supplément CAT ou VAL dans l’application.
-{{% /highlight %}}
+{{< highlight tip >}}
+Si vous voyagez avec des tickets de transport public viennois classiques (par exemple, Tickets simples, tickets 24 heures ou tickets 7 jours via l’application WienMobil) sur la S-Bahn, ils ne sont valables que jusqu’à la limite de la ville à Schwechat. Pour la section entre Schwechat et l’aéroport, un ticket supplémentaire doit être acheté au guichet ou au distributeur. Les tickets WienMobil au tarif standard ne sont valables sur le `CAT` ou le Vienna Airport Bus (VAB) qu’avec le supplément CAT ou VAB dans l’application.
+{{< /highlight >}}
 
 ### Trains auto
 
