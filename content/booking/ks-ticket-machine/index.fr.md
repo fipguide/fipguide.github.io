@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Distributeurs de billets Koleje Śląskie
 description: Informations de réservation pour les distributeurs de billets Koleje Śląskie.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ÖBB Ticket Office
 description: Booking information for the ÖBB ticket offices.
 params:

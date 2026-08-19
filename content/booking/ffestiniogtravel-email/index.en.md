@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Ffestiniog Travel Email
 description: Booking information for booking by email with Ffestiniog Travel.
 params:

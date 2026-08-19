@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Renfe Ticket Office
 description: Booking information for the Renfe ticket offices.
 params:

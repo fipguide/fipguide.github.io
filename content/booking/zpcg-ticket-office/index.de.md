@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ŽPCG Ticketschalter
 description: Buchungsinformationen für die ŽPCG Ticketschalter.
 params:

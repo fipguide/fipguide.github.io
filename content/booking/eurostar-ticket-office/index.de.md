@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Eurostar Ticketschalter
 description: Buchungsinformationen für die Eurostar Ticketschalter.
 params:

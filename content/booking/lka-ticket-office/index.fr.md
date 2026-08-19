@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet ŁKA
 description: Informations de réservation pour les guichets Łódzka Kolej Aglomeracyjna.
 params:

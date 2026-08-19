@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Poland
 country: poland
 params:

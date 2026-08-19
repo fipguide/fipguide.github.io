@@ -1,6 +1,5 @@
 ---
 date: 2026-08-08
-draft: false
 title: "FIP Guide schnell und einfach selbst bearbeiten"
 description: Ab sofort können Informationen schnell und einfach direkt auf der
   Website ohne Vorwissen bearbeitet werden.

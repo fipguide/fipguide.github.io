@@ -1,5 +1,4 @@
 ---
-draft: false
 title: CFL Ticket Office
 description: Booking information for CFL Ticket Offices at the station.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ÖBB Fahrkartenautomat
 description: Buchungsinformationen für die ÖBB Fahrkartenautomaten.
 params:

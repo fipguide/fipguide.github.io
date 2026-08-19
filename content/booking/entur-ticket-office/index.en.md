@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Entur Ticket Office
 description: Booking information for Entur ticket offices.
 params:

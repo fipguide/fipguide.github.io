@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SNCF Voyageurs
 country:
   - france

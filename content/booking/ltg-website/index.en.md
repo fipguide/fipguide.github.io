@@ -1,5 +1,4 @@
 ---
-draft: false
 title: LTG-Link Website
 description: Booking information for the LTG-Link booking website.
 params:

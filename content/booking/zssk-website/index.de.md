@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ZSSK Website
 description: Buchungsinformationen für die ZSSK Website.
 params:

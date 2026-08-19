@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Ffestiniog Travel Telefon
 description: Buchungsinformationen für die Hotline von Ffestiniog Travel.
 params:

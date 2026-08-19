@@ -1,6 +1,5 @@
 ---
 date: 2025-02-16
-draft: false
 author: Willy
 title: Cross-border FIP Tickets of SNCB
 description: SNCB now offers cross-border FIP Tickets online, making it easier

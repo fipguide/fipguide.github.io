@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Pays-Bas
 country: netherlands
 params:

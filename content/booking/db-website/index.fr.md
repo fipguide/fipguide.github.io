@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Site Web DB
 description: Informations de réservation via le site web de la Deutsche Bahn.
 params:

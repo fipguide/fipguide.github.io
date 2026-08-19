@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Roumanie
 country: romania
 params:

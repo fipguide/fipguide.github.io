@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Hotline DB FIP (employés DB)
 description: Informations de réservation pour les Billets FIP pour les employés
   DB à destination des pays voisins de l’Allemagne par téléphone.

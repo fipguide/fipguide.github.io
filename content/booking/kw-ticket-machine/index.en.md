@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Wielkopolskie Ticket Machine
 description: Booking information for the Koleje Wielkopolskie ticket machines.
 params:

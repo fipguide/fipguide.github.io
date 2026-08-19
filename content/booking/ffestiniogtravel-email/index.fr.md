@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Ffestiniog Travel e-mail
 description: Informations de réservation pour la réservation par e-mail auprès
   de Ffestiniog Travel.

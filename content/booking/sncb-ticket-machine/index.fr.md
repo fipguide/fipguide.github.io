@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Distributeurs de billets SNCB
 description: Informations de réservation pour les distributeurs de billets SNCB.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Eurostar Ticket Office
 description: Booking information for the Eurostar ticket offices.
 params:

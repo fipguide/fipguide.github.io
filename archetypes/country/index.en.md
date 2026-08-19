@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "{{ .File.ContentBaseName | title }}" # Change the name to the English country name
 country: "{{ .File.ContentBaseName }}"
 params:

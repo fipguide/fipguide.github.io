@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Attica Email
 description: Booking information for booking by email with Attica.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Stena Line BV Ticketschalter
 description: Buchungsinformationen für den Stena Line BV Ticketschalter.
 params:

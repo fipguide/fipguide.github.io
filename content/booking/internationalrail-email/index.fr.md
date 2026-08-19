@@ -1,5 +1,4 @@
 ---
-draft: false
 title: E-mail International Rail Ltd.
 description: Informations de réservation pour la réservation par e-mail auprès
   d’International Rail Ltd.

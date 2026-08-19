@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Transilien Ticketschalter
 description: Buchungsinformationen für die Transilien Ticketschalter.
 params:

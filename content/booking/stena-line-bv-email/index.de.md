@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Stena Line BV E-Mail
 description: Buchungsinformationen für die Buchung per E-Mail bei Stena Line BV
 params:

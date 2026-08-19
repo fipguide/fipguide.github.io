@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Lettland
 country: latvia
 params:

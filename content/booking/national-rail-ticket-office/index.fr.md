@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet National Rail
 description: Informations de réservation pour les guichets National Rail.
 params:

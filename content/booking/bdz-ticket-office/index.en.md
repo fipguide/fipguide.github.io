@@ -1,5 +1,4 @@
 ---
-draft: false
 title: BDŽ Ticket Office
 description: Booking information for BDŽ ticket offices.
 params:

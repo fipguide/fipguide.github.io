@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet Eurostar
 description: Informations sur la réservation aux guichets Eurostar.
 params:

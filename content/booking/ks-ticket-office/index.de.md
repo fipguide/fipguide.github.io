@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Śląskie Ticketschalter
 description: Buchungsinformationen für die Koleje Śląskie Ticketschalter.
 params:

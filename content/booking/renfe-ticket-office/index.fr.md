@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet Renfe
 description: Informations de réservation aux guichets de la Renfe.
 params:

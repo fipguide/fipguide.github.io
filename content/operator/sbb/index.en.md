@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SBB CFF FFS
 country:
   - switzerland

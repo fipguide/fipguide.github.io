@@ -1,6 +1,5 @@
 ---
 date: 2025-11-12
-draft: false
 title: "Now Available: FIP Guide Community"
 description: The FIP Guide Community now offers a place to exchange ideas and
   ask questions about FIP.

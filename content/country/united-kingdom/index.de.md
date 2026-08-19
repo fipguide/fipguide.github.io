@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Vereinigtes Königreich
 country: united-kingdom
 params:
