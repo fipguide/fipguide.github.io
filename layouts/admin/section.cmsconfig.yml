@@ -342,14 +342,17 @@ collections:
                 name: "de"
                 widget: "markdown"
                 minimal: true
+                editor_components: []
               - label: "English"
                 name: "en"
                 widget: "markdown"
                 minimal: true
+                editor_components: []
               - label: "Français"
                 name: "fr"
                 widget: "markdown"
                 minimal: true
+                editor_components: []
       - label: "Operators"
         name: "operators"
         widget: "object"
