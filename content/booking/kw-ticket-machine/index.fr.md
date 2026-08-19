@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Distributeurs de billets Koleje Wielkopolskie
 description: Informations de réservation pour les distributeurs de billets
   Koleje Wielkopolskie.

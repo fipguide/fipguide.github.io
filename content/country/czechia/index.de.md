@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Tschechien
 country: czechia
 params:

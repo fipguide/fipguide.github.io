@@ -1,5 +1,4 @@
 ---
-draft: false
 title: BLS
 country:
   - switzerland

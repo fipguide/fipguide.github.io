@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Translink Whatsapp
 description: Buchungsinformationen für den Translink WhatsApp Kundendienst.
 params:

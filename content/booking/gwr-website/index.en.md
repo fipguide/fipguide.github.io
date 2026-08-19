@@ -1,5 +1,4 @@
 ---
-draft: false
 title: GWR Website
 description: Booking information for the Great Western Railway (GWR) website.
 params:

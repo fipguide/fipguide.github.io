@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Attica Telefon
 description: Buchungsinformationen für die Attica Hotline.
 params:

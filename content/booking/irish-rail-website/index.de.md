@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Irish Rail Website
 description: Buchungsinformationen für die Irish Rail Website.
 params:

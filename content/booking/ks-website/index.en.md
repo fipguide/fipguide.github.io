@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Śląskie Website
 description: Booking information for the Koleje Śląskie website.
 params:

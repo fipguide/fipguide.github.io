@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet Transilien
 description: Informations de réservation pour les guichets Transilien.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Wielkopolskie Fahrkartenautomat
 description: Buchungsinformationen für die Koleje Wielkopolskie Fahrkartenautomaten.
 params:

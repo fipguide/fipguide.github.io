@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Belgien
 country: belgium
 params:

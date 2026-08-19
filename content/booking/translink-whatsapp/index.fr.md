@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Translink WhatsApp
 description: Informations de réservation pour le service client WhatsApp de Translink.
 params:

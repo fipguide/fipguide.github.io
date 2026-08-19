@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Caledonian Sleeper Website
 description: Booking information for the Caledonian Sleeper website.
 params:

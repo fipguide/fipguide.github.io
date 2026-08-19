@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Hellenic Train Ticket Office
 description: Booking information for Hellenic Train ticket offices.
 params:

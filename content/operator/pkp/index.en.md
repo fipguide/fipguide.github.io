@@ -1,5 +1,4 @@
 ---
-draft: false
 title: PKP
 country:
   - poland

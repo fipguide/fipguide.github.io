@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Traivelling Website
 description: Booking information for the Traivelling Website.
 params:

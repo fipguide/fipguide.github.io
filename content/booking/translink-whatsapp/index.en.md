@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Translink WhatsApp
 description: Booking information for the Translink WhatsApp customer service.
 params:

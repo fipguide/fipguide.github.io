@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet Hellenic Train
 description: Informations de réservation pour les guichets Hellenic Train.
 params:

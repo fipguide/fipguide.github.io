@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SBB Website / App
 description: Buchungsinformationen für FIP Fahrscheine bei der SBB.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet Translink
 description: Informations de réservation pour le guichet Translink.
 params:

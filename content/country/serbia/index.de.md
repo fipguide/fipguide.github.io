@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Serbien
 country: serbia
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "Beitragen"
 type: "general/generalinformation"
 ---

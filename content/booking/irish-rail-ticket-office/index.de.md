@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Irish Rail Ticketschalter
 description: Buchungsinformationen für den Irish Rail Ticketschalter.
 params:

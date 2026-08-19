@@ -1,6 +1,5 @@
 ---
 date: 2026-08-08
-draft: false
 title: "Modifier soi-même le FIP Guide rapidement et facilement"
 description: Désormais, les informations peuvent être modifiées rapidement et
   facilement directement sur le site web sans connaissances préalables.

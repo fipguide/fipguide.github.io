@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Dolnośląskie Ticketschalter
 description: Buchungsinformationen für die Koleje Dolnośląskie Ticketschalter.
 params:

@@ -1,6 +1,5 @@
 ---
 date: 2025-01-01
-draft: false
 author: Lennart
 title: "Nouveau membre FIP : LTG Link (Lituanie)"
 description: Depuis le 1er janvier 2024, LTG Link (Lituanie) rejoint le

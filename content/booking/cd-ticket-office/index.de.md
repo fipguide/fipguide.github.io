@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ČD Ticketschalter
 description: Buchungsinformationen für die České dráhy.
 params:

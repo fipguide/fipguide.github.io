@@ -1,6 +1,5 @@
 ---
 date: 2026-08-08
-draft: false
 title: "Edit the FIP Guide yourself quickly and easily"
 description: From now on, information can be edited quickly and easily directly
   on the website without prior knowledge.

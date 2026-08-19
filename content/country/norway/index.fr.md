@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Norvège
 country: norway
 params:

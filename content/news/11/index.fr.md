@@ -1,6 +1,5 @@
 ---
 date: 2026-06-17
-draft: false
 title: "Grande-Bretagne : plus de réduction FIP au Dartmouth Steam Railway"
 description: La Dartmouth Steam Railway and River Boat Company n’accorde plus de
   réduction FIP. Auparavant, une réduction de 75 % sur le tarif adulte normal

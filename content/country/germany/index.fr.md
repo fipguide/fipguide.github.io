@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Allemagne
 country: germany
 params:

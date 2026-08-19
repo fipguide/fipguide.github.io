@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Renfe Ticketschalter
 description: Buchungsinformationen für die Renfe Ticketschalter.
 params:

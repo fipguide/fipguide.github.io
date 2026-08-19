@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ZSSK Ticket Office
 description: Booking information for the ZSSK ticket offices.
 params:

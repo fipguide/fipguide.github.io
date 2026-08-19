@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Portugal
 country: portugal
 params:

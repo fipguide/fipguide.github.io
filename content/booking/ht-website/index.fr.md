@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Site Web / Application Hellenic Train
 description: Informations de réservation pour le site web / application Hellenic Train.
 params:

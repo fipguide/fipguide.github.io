@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SNCB International Website
 description: Booking information for the SNCB website.
 params:

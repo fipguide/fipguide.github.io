@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ÖBB
 country:
   - austria

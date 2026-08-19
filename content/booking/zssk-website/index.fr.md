@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Site Web ZSSK
 description: Informations sur la réservation via le site web ZSSK.
 params:

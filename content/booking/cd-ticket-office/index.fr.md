@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet ČD
 description: Informations de réservation pour les guichets České dráhy.
 params:
