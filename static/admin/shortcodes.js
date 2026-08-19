@@ -60,8 +60,9 @@
         out.push(spec.quote ? '"' + value + '"' : String(value));
         return;
       }
+      var paramName = spec.name || field.name;
       out.push(
-        field.name + "=" + (spec.bare ? String(value) : '"' + value + '"'),
+        paramName + "=" + (spec.bare ? String(value) : '"' + value + '"'),
       );
     });
     return out;
@@ -186,6 +187,9 @@
       bodyMode: "required",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   CMS.registerEditorComponent({
@@ -202,6 +206,9 @@
       bodyMode: "required",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var expanderFields = [
@@ -247,6 +254,9 @@
       bodyMode: "required",
       bodySeparator: "\n\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var fipValidityFields = [
@@ -313,6 +323,9 @@
       fields: fipValidityFields,
       bodyMode: "none",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var trainCategoryFields = [
@@ -428,6 +441,9 @@
       bodySeparator: "\n\n",
       multiline: true,
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var bookingFields = [
@@ -467,18 +483,18 @@
       param: {},
     },
     {
-      name: "classes.first",
+      name: "classes_first",
       label: "1st class reservation costs (overwrite)",
       widget: "string",
       required: false,
-      param: {},
+      param: { name: "classes.first" },
     },
     {
-      name: "classes.second",
+      name: "classes_second",
       label: "2nd class reservation costs (overwrite)",
       widget: "string",
       required: false,
-      param: {},
+      param: { name: "classes.second" },
     },
     {
       name: "fip_50",
@@ -565,8 +581,8 @@
         id: rawId ? rawId + "/index" : "",
         booking_data_link: rawId,
         subtitle: String(p.subtitle || ""),
-        "classes.first": String(p["classes.first"] || ""),
-        "classes.second": String(p["classes.second"] || ""),
+        classes_first: String(p["classes.first"] || ""),
+        classes_second: String(p["classes.second"] || ""),
         fip_50: String(p.fip_50 ?? ""),
         fip_75: String(p.fip_75 ?? ""),
         fip_global_fare: String(p.fip_global_fare ?? ""),
@@ -583,6 +599,9 @@
       firstInline: true,
       multilineThreshold: 1,
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var bookingSectionFields = [
@@ -618,6 +637,9 @@
       bodyMode: "required",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var buttonFields = [
@@ -652,6 +674,9 @@
       fields: buttonFields,
       bodyMode: "none",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var identifyOperatorFields = [
@@ -707,6 +732,9 @@
       bodyMode: "dual",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var satelliteFields = [
@@ -732,6 +760,9 @@
       bodyMode: "dual",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var dialogFields = [
@@ -774,6 +805,9 @@
       bodySeparator: "\n",
       multiline: true,
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var floatImageFields = [
@@ -837,6 +871,9 @@
       bodyMode: "optionalPaired",
       multiline: true,
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   CMS.registerEditorComponent({
@@ -848,6 +885,9 @@
       return {};
     },
     toBlock: makeToBlock("wip", { bracket: "<", fields: [], bodyMode: "none" }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var updateFields = [
@@ -881,6 +921,9 @@
       bodyMode: "required",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var columnFields = [
@@ -912,6 +955,9 @@
       bodyMode: "required",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var columnsFields = [
@@ -936,6 +982,9 @@
       bodyMode: "required",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var fipValidityTableFields = [
@@ -950,9 +999,11 @@
       name: "validity_data_link",
       label: "FIP Validity Table",
       widget: "cms-edit-link",
-      get_value: function (props) {
-        var slug = props.entry ? props.entry.get("slug") : null;
-        return slug ? String(slug).replace(/\/[^/]+$/, "") : "";
+      get_value: function () {
+        var match = window.location.hash.match(
+          /#\/collections\/application\/entries\/([^/]+)/,
+        );
+        return match ? match[1] : "";
       },
       href: "#/collections/fip-validity/entries/{value}/validity",
       label_template:
@@ -975,7 +1026,8 @@
       fields: fipValidityTableFields,
       bodyMode: "none",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
-
-  CMS.registerRemarkPlugin({ settings: { bullet: "-", emphasis: "_" } });
 })();

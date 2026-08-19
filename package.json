@@ -21,7 +21,7 @@
     "@fontsource/sansita": "^5.2.8",
     "@material-symbols/svg-700": "^0.44.12",
     "@panzoom/panzoom": "^4.6.2",
-    "decap-cms": "^3.14.0",
+    "@sveltia/cms": "^0.193.0",
     "pagefind": "^1.5.2"
   },
   "devDependencies": {
