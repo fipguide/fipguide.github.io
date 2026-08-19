@@ -10,6 +10,10 @@ params:
 
 Fahrkartenschalter der ŽFBH sind nur an den wichtigsten Bahnhöfen zu finden. Eine Liste der Fahrkartenschalter ist auf der [Website der ŽFBH](https://www.zfbh.ba/en/kontakt/) ganz unten verfügbar.
 
+{{< highlight inofficial >}}
+Es kann vorkommen, dass an einigen Ticketschaltern Fahrkarten nur mit Bargeld bezahlt werden können.
+{{< /highlight >}}
+
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Fahrkarten
