@@ -450,6 +450,98 @@ collections:
             options:
               [website, online, onsite, phone, email, socialmedia, machine]
             i18n: duplicate
+          - label: "Email Templates"
+            name: email_templates
+            widget: object
+            required: false
+            collapsed: true
+            i18n: true
+            hint: "Email templates for each booking type. Only used when Type is 'email'."
+            fields:
+              - label: "FIP 50"
+                name: fip_50
+                widget: object
+                required: false
+                i18n: true
+                fields:
+                  - label: "To"
+                    name: to
+                    widget: string
+                    required: false
+                    i18n: duplicate
+                  - label: "Subject"
+                    name: subject
+                    widget: string
+                    required: false
+                    i18n: duplicate
+                  - label: "Body"
+                    name: body
+                    widget: text
+                    required: false
+                    i18n: true
+              - label: "FIP 75"
+                name: fip_75
+                widget: object
+                required: false
+                i18n: true
+                fields:
+                  - label: "To"
+                    name: to
+                    widget: string
+                    required: false
+                    i18n: duplicate
+                  - label: "Subject"
+                    name: subject
+                    widget: string
+                    required: false
+                    i18n: duplicate
+                  - label: "Body"
+                    name: body
+                    widget: text
+                    required: false
+                    i18n: true
+              - label: "FIP Global Fare"
+                name: fip_global_fare
+                widget: object
+                required: false
+                i18n: true
+                fields:
+                  - label: "To"
+                    name: to
+                    widget: string
+                    required: false
+                    i18n: duplicate
+                  - label: "Subject"
+                    name: subject
+                    widget: string
+                    required: false
+                    i18n: duplicate
+                  - label: "Body"
+                    name: body
+                    widget: text
+                    required: false
+                    i18n: true
+              - label: "Reservations"
+                name: reservations
+                widget: object
+                required: false
+                i18n: true
+                fields:
+                  - label: "To"
+                    name: to
+                    widget: string
+                    required: false
+                    i18n: duplicate
+                  - label: "Subject"
+                    name: subject
+                    widget: string
+                    required: false
+                    i18n: duplicate
+                  - label: "Body"
+                    name: body
+                    widget: text
+                    required: false
+                    i18n: true
       - label: "Body"
         name: "body"
         widget: "markdown"

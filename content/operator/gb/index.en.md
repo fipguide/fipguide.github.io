@@ -499,6 +499,8 @@ It can be used as guidance; however, individual offers should be verified via BR
 - **Season Tickets and London Tickets:** \
   Unlimited travel between two stations for a set period or within specified London zones for a set period. FIP 50 / FIP 75 Discount is not available.
 
+Depending on the ticket type, different conditions apply to ticket cancellation. Information about this can be found on the [National Rail website](https://www.nationalrail.co.uk/tickets-railcards-and-offers/buying-a-ticket/changing-cancelling-and-getting-a-refund-for-tickets/).
+
 On some routes, trains from different operators run. Different Anytime and Off-Peak Tickets are sold for these routes. These tickets are only valid on the respective operator's trains or on all operators on the route (_Any Route_). [BR Fares](https://www.brfares.com/) provides an overview of available tickets per route. Advance Tickets are always tied to a specific train.
 
 {{% highlight tip %}}

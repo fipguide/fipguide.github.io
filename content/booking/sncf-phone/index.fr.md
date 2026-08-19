@@ -25,17 +25,13 @@ Dans le menu suivant, il faut appuyer sur 1. Un message informe ensuite que l’
 
 Un alphabet phonétique peut aider lors de la communication des noms et adresses.
 
-Le paiement s’effectue uniquement par carte bancaire (Visa, Eurocard ou American Express). Pour le paiement, on est redirigé vers un processus de paiement automatisé où il faut saisir le numéro de carte, la date de validité et le code de sécurité à l’aide du clavier. On est ensuite remis en relation avec l’agent, qui confirme que le paiement a été effectué avec succès.
+Le paiement s’effectue uniquement par carte bancaire. Pour le paiement, un lien est envoyé par e-mail ou SMS pendant l’appel téléphonique, sur lequel il faut saisir les coordonnées de la carte bancaire.
 
 Aucun frais de réservation supplémentaire n’est appliqué pour les Billets FIP.
 
 Une fois les billets ou réservations confirmés, une PNR (confirmation de réservation) ainsi que le eTicket sont envoyés par e-mail. Lors du voyage en train, il faut présenter le eTicket avec le Coupon FIP ou la Carte FIP.
 
 {{< highlight tip >}}
-Pour éviter les temps d’attente, il est possible de prendre un rendez-vous de rappel sur le [site web de la SNCF](https://www.tgvinoui.sncf/services/mieux-vous-accompagner/prise-de-rendez-vous). Le nom et l’adresse e-mail peuvent être indiqués à l’avance, il n’est donc plus nécessaire de les dicter au téléphone. Il est également possible d’indiquer la liaison souhaitée et la réduction FIP dans la case de texte libre.
-
-Le service de rappel ne fonctionne qu’avec des numéros de téléphone français ou des numéros fixes étrangers. Les numéros de portables étrangers ne fonctionnent pas.
-
 La SNCF connaît parfois les billets FIP sous les noms suivants : \
 _FIP cheminot étranger_ = 50 % de réduction FIP \
 _FIP permis (ayant droit SNCF)_ = 100 % / Coupon FIP SNCF

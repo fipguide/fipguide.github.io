@@ -25,17 +25,13 @@ Im nächsten Sprachmenü muss die 1 gedrückt werden. Anschließend wird darauf 
 
 Ein Buchstabieralphabet kann bei der Angabe von Namen und Adressen helfen.
 
-Die Bezahlung ist nur per Kreditkarte (Visa, Eurocard oder American Express) möglich. Für die Zahlung wird man an einen automatisierten Zahlungsvorgang weitergeleitet, auf dem die Kartennummer, das Gültigkeitsdatum und der Sicherheitscode per Ziffernfeld eingegeben werden müssen. Anschließend wird man wieder mit dem Mitarbeitenden verbunden, der die erfolgreiche Zahlung bestätigt.
+Die Bezahlung ist nur per Kreditkarte möglich. Für die Zahlung wird während des Telefonats per Mail oder SMS ein Link versendet, über den die Kreditkartendaten eingegeben werden müssen.
 
 Eine zusätzliche Buchungsgebühr fällt bei FIP Tickets nicht an.
 
 Sobald die Fahrkarten oder Reservierungen bestätigt sind, werden eine PNR (Buchungsbestätigung) sowie das eTicket per E-Mail versendet. Bei der Zugreise muss das eTicket zusammen mit dem FIP Freifahrtschein oder dem FIP Ausweis vorgelegt werden.
 
 {{< highlight tip >}}
-Um Wartezeiten zu vermeiden, kann auf der [Website der SNCF](https://www.tgvinoui.sncf/services/mieux-vous-accompagner/prise-de-rendez-vous) ein Rückruftermin vereinbart werden. Dabei kann der Name und die E-Mail-Adresse bereits vorab angegeben werden und muss nicht mehr am Telefon diktiert werden. Außerdem kann im Freitextfeld die gewünschte Verbindung angegeben und der FIP Ermäßigung angegeben werden.
-
-Der Rückrufservice funktioniert nur mit französischen Telefonnummern oder ausländischen Festnetznummern. Ausländische Mobilfunknummern funktionieren nicht.
-
 Die SNCF kennt die FIP Ermäßigungen teilweise auch unter den Namen: \
 _FIP cheminot étranger_ = 50% FIP Ermäßigung \
 _FIP permis (ayant droit SNCF)_ = 100% / FIP Freifahrtschein SNCF
