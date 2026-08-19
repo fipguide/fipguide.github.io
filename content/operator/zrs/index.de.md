@@ -81,7 +81,7 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 ## Empfehlungen
 
 {{% highlight tip %}}
-Die ŽRS betreibt nur sehr wenige Züge innerhalb der Entität Republika Srpska. Dabei ist Banja Luka, die Hauptstadt der Föderation, sowohl mit der Grenze zu Kroatien als auch der Entitätsgrenze verbunden. Grenz- und entitätsüberschreitende Züge werden derzeit nicht angeboten und die Taktung besteht aus ein bis zwei Zügen auf den Strecken. Das eingesetzte Wagenmaterial ist schon ziemlich in die Jahre gekommen.
+Die ŽRS betreibt nur sehr wenige Züge innerhalb der Entität Republika Srpska. Dabei ist Banja Luka, die Hauptstadt der Föderation, sowohl mit der Grenze zu Kroatien als auch der Entitätsgrenze verbunden. Grenz- und entitätsüberschreitende Züge werden derzeit nicht angeboten und die Taktung besteht aus jeweils ein bis zwei Zügen pro Tag auf den Strecken. Das eingesetzte Wagenmaterial ist schon ziemlich in die Jahre gekommen.
 {{% /highlight %}}
 
 ## Quellen
