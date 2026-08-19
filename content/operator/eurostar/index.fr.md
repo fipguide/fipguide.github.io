@@ -211,12 +211,7 @@ La modification, l’annulation et le passage à une classe supérieure sont pos
 Les Billets FIP sont soumis à quota. Il est conseillé de réserver tôt.
 {{% /highlight %}}
 
-La vérification des contingents de billets disponibles est possible via les sites suivants :
-
-- [Site Interrail](https://www.interrail.eu/fr/book-reservations) \
-   Uniquement pour vérifier les contingents de réservation. Les réservations achetées ne sont valables qu’avec un billet Interrail !
-- [Traivelling](https://traivelling.com/home) \
-   Traivelling a récemment supprimé de son site web la possibilité de réserver des billets avec FIP.
+La disponibilité des quotas de billets peut être vérifiée via le [site Interrail](https://www.interrail.eu/fr/book-reservations). Il ne peut être utilisé que pour vérifier les quotas de réservation. Les réservations achetées ne sont valables qu’avec un billet Interrail.
 
 ### Correspondances
 

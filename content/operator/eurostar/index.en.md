@@ -211,12 +211,7 @@ Rebooking, canceling, and upgrading tickets is possible using the booking refere
 All FIP fares are subject to quotas, so early booking is recommended.
 {{% /highlight %}}
 
-Checking available ticket quotas is possible via the following websites:
-
-- [Interrail Website](https://www.interrail.eu/en/book-reservations) \
-   Only for checking reservation quotas. Purchased reservations are only valid with an Interrail ticket!
-- [Traivelling](https://traivelling.com/home) \
-   Traivelling recently removed the ability to book tickets with FIP from their website.
+The availability of ticket quotas can be checked via the [Interrail Website](https://www.interrail.eu/en/book-reservations). It can only be used to check reservation quotas. Purchased reservations are only valid with an Interrail ticket.
 
 ### Connections
 

@@ -211,12 +211,7 @@ Das Umbuchen, Stornieren und Upgraden von Tickets ist mit der Buchungsnummer üb
 Alle FIP-Tarife unterliegen einer Kontingentierung, weshalb eine frühzeitige Buchung zu empfehlen ist.
 {{% /highlight %}}
 
-Die Prüfung verfügbarer Ticketkontingente ist über folgende Websites möglich:
-
-- [Interrail Website](https://www.interrail.eu/de/book-reservations) \
-  Nur zum Prüfen von Reservierungskontingenten. Gekaufte Reservierungen gelten nur mit Interrail-Ticket!
-- [Traivelling](https://traivelling.com/home) \
-  Traivelling hat die Möglichkeit, Tickets mit FIP zu buchen, kürzlich von ihrer Website entfernt.
+Die Prüfung verfügbarer Ticketkontingente ist über die [Interrail Website](https://www.interrail.eu/de/book-reservations) möglich. Sie kann nur zum Prüfen von Reservierungskontingenten genutzt werden. Gekaufte Reservierungen gelten nur mit Interrail-Ticket!
 
 ### Anschlüsse
 
