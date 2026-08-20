@@ -1,17 +1,17 @@
 ---
 draft: false
-title: "Hotline DB FIP (employés DB)"
-description: "Informations de réservation pour les Billets FIP pour les employés DB à destination des pays voisins de l’Allemagne par téléphone."
-
+title: Hotline DB FIP (employés DB)
+description: Informations de réservation pour les Billets FIP pour les employés
+  DB à destination des pays voisins de l’Allemagne par téléphone.
 params:
   classes:
-    first: "6,90 €"
-    second: "5,50 €"
+    first: 6,90 €
+    second: 5,50 €
   fip_50: true
   reservations: true
-  booking_link: "https://www.db-reisemarkt.de/reisemarkt/bahnangebote/ausland/FIP-Angebot-13034692"
-  additional_info_link: "https://int.bahn.de/fr/offres/reservation-de-places-assises"
-  type: "phone"
+  booking_link: https://www.db-reisemarkt.de/reisemarkt/bahnangebote/wissenswertes/ansprechpartner_db_ermaessigung-8140844
+  additional_info_link: https://int.bahn.de/fr/offres/reservation-de-places-assises
+  type: phone
 ---
 
 {{% booking-section "fip_50" %}}
@@ -35,7 +35,6 @@ Les Billets FIP 50 peuvent être achetés pour les pays suivants :
 - Belgique
 - France
 {.o-section--columns-3}
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -43,5 +42,4 @@ Les Billets FIP 50 peuvent être achetés pour les pays suivants :
 ## Réservations
 
 Le tarif de réservation est calculé par trajet. Cela signifie que pour une correspondance avec plusieurs trains, une seule réservation suffit.
-
 {{% /booking-section %}}

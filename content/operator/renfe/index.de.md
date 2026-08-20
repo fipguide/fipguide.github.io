@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "Renfe"
+title: Renfe
 country:
-  - "spain"
-  - "france"
-operator: "renfe"
-
+  - spain
+  - france
+operator: renfe
 aliases:
   - /booking/renfe-ticket-office
 ---
@@ -22,7 +21,9 @@ Renfe Operadora ist das staatliche Eisenbahnunternehmen in [Spanien](/country/sp
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" text="Außer reservierungspflichtige Züge" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" text="Außer reservierungspflichtige Züge" >}}
+
 {{< fip-validity type="fip-global-fare" status="valid" text="Für reservierungspflichtige Züge außer Avlo" disable_dialog=true >}}
 
 ## Zugkategorien und Reservierungen
@@ -227,7 +228,7 @@ Eine telefonische Buchung bei Renfe scheint nicht möglich zu sein. Bei der Hotl
 
 {{% booking id="db-ticket-office"
     fip_global_fare=true
-    reservations="nil"
+    reservations=nil
 %}}
 
 #### FIP Globalpreis
@@ -257,6 +258,10 @@ Bei FIP 50 und FIP Globalpreis Tickets darf die Reise zwischenzeitlich nicht unt
 ### Renfe Feve
 
 FIP Fahrvergünstigungen gelten auch auch auf dem Meterspurnetz der Renfe Feve (Ferrocarriles de Vía Estrecha) zwischen Ferrol und Bilbao in Nordspanien.
+
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ## Empfehlungen
 

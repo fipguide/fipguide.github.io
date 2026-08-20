@@ -14,4 +14,21 @@
       border: 0.1rem solid var(--tag-#{$name}-color);
     }
   }
+
+  &--newsUpdate {
+    background: var(--tag-newsUpdate-bg);
+    color: var(--tag-newsUpdate-color);
+    border: 0.1rem solid var(--tag-newsUpdate-color);
+    border-radius: var(--border-radius-l);
+    padding: 0.2rem 0.4rem;
+    font-size: 0.9em;
+
+    .a-tag__text {
+      text-box-trim: trim-both;
+    }
+  }
+
+  &__text {
+    align-self: center;
+  }
 }

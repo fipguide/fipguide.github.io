@@ -1,12 +1,13 @@
 ---
 draft: false
-title: "Stena Line Limited Téléphone"
-description: "Informations de réservation pour la réservation par téléphone chez Stena Line Limited"
+title: Stena Line Limited Téléphone
+description: Informations de réservation pour la réservation par téléphone chez
+  Stena Line Limited
 params:
   fip_50: true
   fip_global_fare: nil
   reservations: true
-  type: "phone"
+  type: phone
 ---
 
 Une offre individuelle peut être obtenue et réservée par téléphone : [+44 3432 081801](tel:+443432081801)
@@ -20,6 +21,14 @@ Les données du voyage, le passeport et la Carte FIP doivent être préparés.
 ## Billet FIP 50
 
 Les billets FIP 50 peuvent être réservés.
+
+## Réservations
+
+Les réservations de cabine sont disponibles en option.
+
+{{% highlight warning %}}
+Pour les réservations, le numéro du Coupon FIP Stena Line BV à utiliser pour le voyage est également requis. Une réservation n’est donc possible que lorsque le Coupon FIP est disponible.
+{{% /highlight %}}
 
 {{% /booking-section %}}
 

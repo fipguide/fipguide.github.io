@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Royaume-Uni"
-country: "united-kingdom"
+title: Royaume-Uni
+country: united-kingdom
 params:
   operators_without_fip:
     - Blackpool Tramway
@@ -18,7 +18,8 @@ params:
     - London Trams (anciennement Croydon Tramlink)
     - Transport for Greater Manchester
     - Tyne and Wear Metro
-    - Wightlink ferry (Portsmouth Harbour à Ryde Pier Head station sur l’île de Wight)
+    - Wightlink ferry (Portsmouth Harbour à Ryde Pier Head station sur l’île de
+      Wight)
 ---
 
 <!-- Le Royaume-Uni est un peu différent. Il n’y a pas de catégories de trains, mais de nombreux opérateurs, il faut donc vérifier où le FIP est valable. Il est donc utile de lister aussi les autres opérateurs sans FIP, même s’il s’agit souvent de tramways ou de métros. Sinon, il est difficile pour l’utilisateur de comprendre pourquoi le FIP est valable sur la Elizabeth Line mais pas sur d’autres lignes du métro. -->
@@ -73,7 +74,7 @@ Depuis Calais, il existe également le train auto LeShuttle via le tunnel sous l
 
 ### Irlande
 
-Depuis Dublin et Rosslare, des ferries Irish Ferries et Stena Line Limited relient Holyhead et Fishguard au Pays de Galles. Les liaisons par ferry de [Stena Line Limited](/operator/sll) sont accessibles à tarif réduit avec les Coupons FIP Stena Line Limited ou les billets FIP 50.
+Depuis Dublin, Irish Ferries et [Stena Line Limited](/operator/sll) relient Holyhead au Pays de Galles. Depuis Rosslare, Irish Ferries relie Pembroke au Pays de Galles et [Stena Line Limited](/operator/sll) relie Fishguard au Pays de Galles. Les liaisons par ferry de [Stena Line Limited](/operator/sll) sont accessibles à tarif réduit avec les Coupons FIP Stena Line Limited ou les billets FIP 50.
 
 {{% highlight tip %}}
 Stena Line Limited et Irish Ferries proposent des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.

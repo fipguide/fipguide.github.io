@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "ÖBB"
+title: ÖBB
 country:
-  - "austria"
-  - "liechtenstein"
-operator: "oebb"
-
+  - austria
+  - liechtenstein
+operator: oebb
 aliases:
   - obb
   - /booking/oebb-phone
@@ -27,6 +26,7 @@ Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ÖBB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -62,9 +62,9 @@ Nationale und internationale Schnellzüge der höchsten Kategorie der ÖBB. Die 
 
 Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahlen. Siehe [Tarifliche Besonderheiten](#verkehr-nach-italien).
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `RJ` ist gleichzeitig auch die Abkürzung für RegioJet, dort gelten keinerlei FIP-Farscheine.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -79,9 +79,9 @@ Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahle
 
 Die meisten `IC` Züge auf den Hauptstrecken wurden nach und nach durch Railjets ersetzt. `IC` Züge verkehren weiterhin auf Nebenstrecken wie Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Wien – Gmunden – Stainach-Irdning sowie ergänzend zu Railjets auf der Verbindung Wien–Lienz (Osttirol). Zudem gibt es `IC` Züge und `ICE` Züge auf einigen internationalen Strecken nach Deutschland in Zusammenarbeit mit der Deutschen Bahn, wobei der österreichische Abschnitt von der ÖBB betrieben wird.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Teilweise werden auch Regiojet Züge innerhalb von Österreich als `IC` gekennzeichnet, in diesen Züge sind FIP Tickets nicht gültig.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
@@ -128,9 +128,9 @@ Für Eurocitys nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahl
 
 Nachtzüge der ÖBB in verschiedene europäische Länder. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Nationale Freifahrten für Mitarbeitende der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis erforderlich.
-{{% /highlight %}}
+{{< /highlight >}}
 
 **FIP Globalpreis:** ja \
 _Tipp:_ Für Fahrten von Deutschland nach Italien, die nationalen Freifahrten bis Salzburg nutzen und dort in den Nightjet steigen, um den FIP Globalpreis zu vermeiden.
@@ -169,9 +169,9 @@ Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen
 
 Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Regionalexpress-Züge werden teilweise auch von anderen privaten Bahngesellschaften betrieben bei denen FIP Fahrtkarten der ÖBB nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -186,11 +186,11 @@ Regionalexpress-Züge werden teilweise auch von anderen privaten Bahngesellschaf
 
 Nahverkehrszug mit Halten an den meisten Stationen.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Regionalzüge werden teilweise auch von anderen privaten Bahngesellschaften betrieben bei denen FIP Fahrtkarten der ÖBB nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
 
 Die Bezeichnung `R` Regionalzug wird in der Fahrplanauskunft der ÖBB auch für rein touristische Verkehre verwendet, bei denen keine FIP Fahrkarten gültig sind. Diese sind mit Fußnoten mit dem Hinweis „Sondertarif“ gekennzeichnet.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -205,7 +205,7 @@ Die Bezeichnung `R` Regionalzug wird in der Fahrplanauskunft der ÖBB auch für 
 
 Nahverkehrszug mindestens im Stundentakt mit Halt an allen Stationen. Vergleichbar mit einer S-Bahn.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Schnellbahnen werden teilweise auch von anderen privaten Bahngesellschaften betrieben, bei denen FIP Fahrtkarten der ÖBB nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
 
 Dazu gehören unter anderem:
@@ -214,7 +214,7 @@ Dazu gehören unter anderem:
 - S-Bahn Salzburg: S1 Salzburg – Lamprechtshausen, S11 Salzburg – Ostermiething (Salzburger Lokalbahn)
 - S-Bahn Steiermark: S11 Graz – Übelbach (Steiermarkbahn)
 - S6, S61 Graz – Wies-Eibiswald, S7 Graz – Köflach (Graz-Köflacher Eisenbahn)
-  {{% /highlight %}}
+  {{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -223,9 +223,12 @@ Dazu gehören unter anderem:
     title="ÖBB Postbus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=false
 %}}
+
 FIP Fahrkarten sind im ÖBB Postbus nicht gültig. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -252,7 +255,9 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 
 ### Telefon
 
-{{% booking id="oebb-phone" subtitle="Inkl. Nightjet Buchung" /%}}
+{{% booking id="oebb-phone"
+    subtitle="Inkl. Nightjet Buchung"
+/%}}
 
 {{% booking id="db-phone-fip-db"
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Österreich, mit Ticketanteil nur für den österreichischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
@@ -262,15 +267,21 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 
 ### Vor Ort
 
-{{% booking id="oebb-ticket-office" subtitle="Inkl. Nightjet Buchung" /%}}
+{{% booking id="oebb-ticket-office"
+    subtitle="Inkl. Nightjet Buchung"
+/%}}
 
 {{% booking id="oebb-ticket-machine" /%}}
 
-{{% booking id="db-ticket-office" subtitle="Inkl. Nightjet Buchung" %}}
+{{% booking id="db-ticket-office"
+    subtitle="Inkl. Nightjet Buchung"
+%}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
 
-{{% booking id="sz-ticket-office" subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Österreich" /%}}
+{{% booking id="sz-ticket-office"
+    subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Österreich"
+/%}}
 
 ### Im Zug
 
@@ -340,6 +351,18 @@ Es findet abgesehen vom Zuschlag zum FIP Freifahrtschein keine Unterscheidung zw
 ### Fahrtunterbrechung
 
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich und erfordert keine zusätzlichen Formalitäten.
+
+### Anschlüsse
+
+#### HOTNAT
+
+Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
+
+Dieser Betreiber ist Teil von HOTNAT (Hop on the Next Available Train). [Weitere Informationen im FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ### Schienenersatzverkehr
 

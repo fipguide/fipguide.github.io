@@ -1,5 +1,9 @@
 .o-last-updated {
   font-size: 1.3rem;
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  flex-wrap: wrap;
 }
 
 .o-last-updated > .a-icon {

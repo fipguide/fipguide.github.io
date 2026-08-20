@@ -1,12 +1,15 @@
 ---
 draft: false
-title: "Frankreich"
-country: "france"
+title: Frankreich
+country: france
 params:
   operators_without_fip:
     - CFC (Chemins de fer de la Corse / Eisenbahnen auf Korsika)
-    - '[Frecciarossa (Trenitalia)](/operator/fs/#internationale-frecciarossa-züge-nach-paris "Frecciarossa (Trenitalia)")'
+    - '[Frecciarossa
+      (Trenitalia)](/operator/fs/#internationale-frecciarossa-züge-nach-paris
+      "Frecciarossa (Trenitalia)")'
     - Getlink (Eurotunnel LeShuttle)
+    - GoVolta
     - '[OUIGO](/operator/sncf#Fernverkehr "OUIGO")'
     - RATP
     - Transdev

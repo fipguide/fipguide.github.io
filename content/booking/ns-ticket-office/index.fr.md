@@ -1,14 +1,12 @@
 ---
 draft: false
-title: "Guichet NS"
-description: "Informations de réservation aux guichets de la NS."
-
+title: Guichet NS
+description: Informations de réservation aux guichets de la NS.
 params:
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.ns.nl/en/travel-information/facilities/ov-service-and-tickets-shops.html"
-  type: "onsite"
-
+  additional_info_link: https://www.ns.nl/en/travel-information/facilities/ov-service-and-tickets-shops.html
+  type: onsite
 aliases:
   - ns_ticket_office
 ---
@@ -50,7 +48,6 @@ Les Billets FIP 50 pour les Pays-Bas peuvent être achetés aux guichets NS. En 
 - Zaandam
 - Zwolle
 {.o-section--columns-3}
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}

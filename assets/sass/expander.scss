@@ -15,6 +15,10 @@
     padding: 0.6rem;
   }
 
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
+
   &:hover,
   &:focus {
     .o-expander__title-text {
@@ -37,6 +41,10 @@
 
     @media print {
       display: none;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      transition: none;
     }
   }
 
@@ -71,6 +79,29 @@ details[open] > .o-expander__summary {
 
   figure > figcaption {
     background-color: var(--bg-default);
+  }
+}
+
+.o-expander__actions {
+  margin-top: 1.5rem;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  align-items: center;
+
+  > .a-anchorlink__link {
+    margin-left: auto;
+  }
+
+  @media print {
+    > a {
+      flex-wrap: wrap;
+      font-weight: bold;
+
+      &::after {
+        font-weight: normal;
+      }
+    }
   }
 }
 

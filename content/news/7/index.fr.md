@@ -1,8 +1,9 @@
 ---
-date: "2025-11-12"
+date: 2025-11-12
 draft: false
 title: "Disponible dès maintenant : Communauté FIP Guide"
-description: "La communauté FIP Guide offre désormais un espace pour échanger et poser des questions sur le FIP."
+description: La communauté FIP Guide offre désormais un espace pour échanger et
+  poser des questions sur le FIP.
 ---
 
 La communauté FIP Guide est désormais ouverte à toutes les personnes intéressées ! Dans la communauté, vous pouvez poser des questions sur l’utilisation des billets FIP, échanger avec d’autres membres et bénéficier de l’expérience de la communauté. Que vous recherchiez des conseils pour la planification de votre voyage, des informations sur les points frontières ou que vous souhaitiez vous informer sur les dernières nouveautés – vous êtes au bon endroit.

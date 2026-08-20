@@ -1,5 +1,5 @@
 ---
-title: "Was ist der FIP-Ausweis?"
+title: Was ist der FIP-Ausweis?
 weight: 4
 ---
 

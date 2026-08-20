@@ -1,15 +1,15 @@
 ---
 draft: false
-title: "LTG-Link Website"
-description: "Booking information for the LTG-Link booking website."
+title: LTG-Link Website
+description: Booking information for the LTG-Link booking website.
 params:
   classes:
-    first: "free"
-    second: "free"
+    first: free
+    second: free
   fip_50: true
   reservations: true
-  booking_link: "https://ltglink.lt/en"
-  type: "website"
+  booking_link: https://ltglink.lt/en
+  type: website
 ---
 
 On the LTG-Link booking website, FIP 50 Tickets, reservations, and zero-fare tickets for LTG-Link connections in Lithuania and Latvia are sold. Booking is also possible via the LTG-Link app.

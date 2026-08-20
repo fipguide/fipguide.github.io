@@ -1,14 +1,13 @@
 ---
 draft: false
-title: "Eurostar"
+title: Eurostar
 country:
-  - "belgium"
-  - "germany"
-  - "netherlands"
-  - "united-kingdom"
-  - "france"
-operator: "eurostar"
-
+  - belgium
+  - germany
+  - netherlands
+  - united-kingdom
+  - france
+operator: eurostar
 aliases:
   - /booking/eurostar-phone
   - /booking/eurostar-ticket-office
@@ -28,7 +27,9 @@ Eurostar is an operator of high-speed trains in Western Europe. Originally, only
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="invalid" subtitle="FIP 50 / FIP 75" disable_dialog=true >}}
+
 {{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. All tickets are train-specific due to the reservation requirement. However, rebooking to other trains or canceling FIP Tickets is possible via the [Eurostar website](https://www.eurostar.com/). Tickets can only be purchased separately and not as part of through tickets. [^1]
@@ -81,12 +82,12 @@ High-speed train between Belgium, Germany, France, and the Netherlands.
 {{% /train-category %}}
 
 {{% train-category
-id="eurostar-snow"
-title="Eurostar Snow: Amsterdam / Brussels – French Alps"
-type="highspeed"
-fip_accepted=false
-reservation_required=true
-reservation_possible=true
+    id="eurostar-snow"
+    title="Eurostar Snow: Amsterdam / Brussels – French Alps"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 High-speed train from Amsterdam and Brussels to the French Alps.
@@ -107,9 +108,18 @@ When booking, payment can sometimes be made in pounds or euros. Generally, euro 
 
 Tickets are issued exclusively as online tickets, so an email address is required for booking.
 
+The FIP Card should be ready for inspection when boarding.
+
 ### Online
 
 Checking in, rebooking, canceling, and upgrading tickets is possible via the Eurostar website, more information under [Rebookings & Cancellations](#rebookings--cancellations). If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
+
+{{% booking id="traivelling-website"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+    reservations=nil
+/%}}
 
 {{% booking id="railtourguide-website"
     fip_50=nil
@@ -123,7 +133,10 @@ Checking in, rebooking, canceling, and upgrading tickets is possible via the Eur
     fip_global_fare=true
 /%}}
 
-{{% booking id="internationalrail-email" fip_50=nil fip_75=nil /%}}
+{{% booking id="internationalrail-email"
+    fip_50=nil
+    fip_75=nil
+/%}}
 
 ### Telephone
 
@@ -191,7 +204,7 @@ Children under 12 must be accompanied by an adult. Children aged 12–15 can tra
 
 ### Rebookings & Cancellations
 
-FIP Tickets can be rebooked or canceled free of charge up to one hour before departure. After that, rebooking or cancellation is no longer possible.
+FIP Tickets can be rebooked or canceled free of charge up to the scheduled departure time of the train. After that, rebooking or cancellation is no longer possible.
 
 In general, rebooking is only possible to other available trains with remaining quotas, see also [Ticket Quotas](#ticket-quotas). When rebooking, upgrading from Eurostar Standard to Eurostar Plus by paying the difference is also possible. However, a downgrade from Eurostar Plus to Eurostar Standard will not be refunded.
 
@@ -210,17 +223,13 @@ Checking available ticket quotas is possible via the following websites:
 - [Interrail Website](https://www.interrail.eu/en/book-reservations) \
    Only for checking reservation quotas. Purchased reservations are only valid with an Interrail ticket!
 - [Traivelling](https://traivelling.com/home) \
-   Select the _FIP 50%_ discount. Tickets are also sold here, but we cannot comment on the legitimacy of this offer.
+   More information in the [corresponding booking section](#traivelling-website).
 
 ### Connections
 
 #### HOTNAT (Transfer in Brussels, Cologne, Paris)
 
-Through tickets cannot be purchased for Eurostar. However, to ensure connections during transfers, [HOTNAT (Hop on the next available train)](https://www.railteam.eu/en/am-i-eligible-for-hotnat/) can be used.
-
-If a connection is missed due to delays or cancellations when transferring between two high-speed trains, the next available train of the same or a different Railteam operator can be taken. Rebooking to the next train has to be done at the service counter on-site.
-
-HOTNAT is only valid for transfers between high-speed trains of Railteam members (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) and at the stations Paris, Brussels, Cologne, Munich, Basel, and Zurich. Usage depends on train availability.
+Through tickets cannot be purchased for Eurostar. However, HOTNAT (Hop on the Next Available Train) can be used to protect connections during transfers. [More information in the FAQ.](/general/faq/#hotnat)
 
 #### London International CIV (Transfer in London)
 

@@ -1,5 +1,5 @@
 ---
-title: "Wo erhalte ich vergünstigte Tickets mit dem FIP Berechtigungsausweis?"
+title: Wo erhalte ich vergünstigte Tickets mit dem FIP Berechtigungsausweis?
 weight: 7
 ---
 

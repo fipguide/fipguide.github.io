@@ -1,4 +1,10 @@
-{{- $iconMapping := dict "website" "computer" "phone" "call" "onsite" "person" "email" "mail" "machine" "confirmation_number" "socialmedia" "add_reaction" -}}
+{{- $iconMapping := dict "website" "computer" "online" "devices" "phone" "call" "onsite" "person" "email" "mail" "machine" "confirmation_number" "socialmedia" "add_reaction" -}}
+{{- $metaFields := slice
+  (dict "key" "reservations" "value" .reservations "label" "booking.reservation")
+  (dict "key" "fip_50" "value" .fip_50 "label" "booking.fip-50")
+  (dict "key" "fip_75" "value" .fip_75 "label" "booking.fip-75")
+  (dict "key" "fip_global_fare" "value" .fip_global_fare "label" "booking.fip-global-fare")
+-}}
 <summary class="o-expander__summary">
   <div class="o-booking__header-content">
     <div class="o-booking__title-wrapper">
@@ -14,12 +20,6 @@
         </div>
       {{- end }}
       <div class="o-booking__meta" data-pagefind-ignore>
-        {{- $metaFields := slice
-          (dict "key" "reservations" "value" .reservations "label" "booking.reservation")
-          (dict "key" "fip_50" "value" .fip_50 "label" "booking.fip-50")
-          (dict "key" "fip_75" "value" .fip_75 "label" "booking.fip-75")
-          (dict "key" "fip_global_fare" "value" .fip_global_fare "label" "booking.fip-global-fare")
-        -}}
         {{- range $metaFields -}}
           {{- if ne .value "nil" -}}
             {{- if .value -}}
@@ -64,5 +64,5 @@
     {{- $content = partial "transformations/resolve-images" (dict "content" $content "page" .page) -}}
     {{- $content | safeHTML -}}
   </div>
-  {{ partial "booking/links" (dict "page" .page "id" .id) }}
+  {{ partial "booking/links" (dict "page" .page "id" .id "metaFields" $metaFields) }}
 </div>

@@ -1,11 +1,11 @@
 ---
 draft: false
-title: "Téléphone Attica"
-description: "Informations de réservation pour la ligne téléphonique Attica."
+title: Téléphone Attica
+description: Informations de réservation pour la ligne téléphonique Attica.
 params:
   fip_50: true
   reservations: false
-  type: "phone"
+  type: phone
 ---
 
 Attica propose une ligne de réservation téléphonique permettant d’acheter des Billets FIP 50. Le FIP doit être explicitement mentionné.

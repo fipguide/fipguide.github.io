@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Pologne"
-country: "poland"
+title: Pologne
+country: poland
 params:
   operators_without_fip:
     - Arriva

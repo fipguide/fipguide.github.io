@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "Stena Line BV Telephone"
-description: "Booking information for booking by telephone with Stena Line BV"
+title: Stena Line BV Telephone
+description: Booking information for booking by telephone with Stena Line BV
 params:
   fip_50: true
   fip_global_fare: nil
   reservations: true
-  type: "phone"
-
+  type: phone
 aliases:
   - stena-line-phone
 ---
@@ -31,7 +30,6 @@ The following details should be kept ready:
 ## FIP 50 Ticket
 
 FIP 50 Tickets can be booked.
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -40,10 +38,9 @@ FIP 50 Tickets can be booked.
 
 Cabin reservations are available and mandatory for overnight journeys.
 
-{{% highlight important %}}
+{{< highlight important >}}
 For reservations, the number of the Stena Line BV FIP Coupon to be used for the journey is also required. Booking is therefore only possible once the FIP Coupon is available.
-{{% /highlight %}}
-
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% satellite /%}}

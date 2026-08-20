@@ -1,4 +1,4 @@
-<div class="o-booking__links">
+<div class="o-expander__actions">
   {{- if .page.Params.booking_link -}}
     {{- partial "button"
       (dict
@@ -15,4 +15,6 @@
       )
     -}}
   {{- end -}}
+  {{- partial "booking/email-links" (dict "params" .page.Params "metaFields" .metaFields) -}}
+  {{- partial "anchorlink-button" .id -}}
 </div>

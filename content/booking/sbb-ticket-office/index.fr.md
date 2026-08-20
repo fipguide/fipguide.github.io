@@ -1,17 +1,15 @@
 ---
 draft: false
-title: "Guichet CFF"
-description: "Informations de réservation aux guichets des CFF."
-
+title: Guichet CFF
+description: Informations de réservation aux guichets des CFF.
 params:
   classes:
-    first: "5 CHF"
-    second: "5 CHF"
+    first: 5 CHF
+    second: 5 CHF
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.sbb.ch/fr/informations-voyages/gares/services-gare.html"
-  type: "onsite"
-
+  additional_info_link: https://www.sbb.ch/fr/informations-voyages/gares/services-gare.html
+  type: onsite
 aliases:
   - sbb_ticket_office
 ---

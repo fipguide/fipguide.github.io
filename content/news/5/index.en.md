@@ -1,8 +1,10 @@
 ---
-date: "2025-06-15"
+date: 2025-06-15
 draft: false
-title: "Discontinuity of DB Family Reservation"
-description: "Starting June 15, 2025, Deutsche Bahn will no longer offer family seat reservations. New prices and individual bookings now apply to all travelers."
+title: Discontinuity of DB Family Reservation
+description: Starting June 15, 2025, Deutsche Bahn will no longer offer family
+  seat reservations. New prices and individual bookings now apply to all
+  travelers.
 country:
   - germany
 operator:
@@ -17,5 +19,7 @@ Additionally, the prices for seat reservations will increase:
 2nd class: €5.90 (previously €5.50)
 
 Information about reservations can be found [here](/booking/db-website "DB Website Booking").
+
+## Sources
 
 [^1]: [Tagesschau](https://www.tagesschau.de/wirtschaft/verbraucher/bahn-familienreservierung-kritik-100.html)

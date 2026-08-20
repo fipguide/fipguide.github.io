@@ -1,18 +1,17 @@
 ---
 draft: false
-title: "DB Website FIP (DB Employees)"
-description: "Booking information for FIP Tickets for DB employees for neighboring countries of Germany"
-
+title: DB Website FIP (DB Employees)
+description: Booking information for FIP Tickets for DB employees for
+  neighboring countries of Germany
 params:
   classes:
-    first: "€ 6,90"
-    second: "€ 5,50"
+    first: € 6,90
+    second: € 5,50
   fip_50: true
   reservations: true
-  booking_link: "https://www.db-reisemarkt.de/reisemarkt/bahnangebote/ausland/FIP-Angebot-13034692"
-  additional_info_link: "https://int.bahn.de/en/offers/additional-services/seat-reservation"
-  type: "website"
-
+  booking_link: https://www.db-reisemarkt.de/reisemarkt/bahnangebote/ausland/FIP-Angebot-13034692
+  additional_info_link: https://int.bahn.de/en/offers/additional-services/seat-reservation
+  type: website
 aliases:
   - db_website_fip_db
 ---
@@ -40,7 +39,6 @@ FIP 50 Tickets can be purchased for the following countries:
 - Belgium
 - France
 {.o-section--columns-3}
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -54,6 +52,6 @@ Seat reservations can be purchased via the Deutsche Bahn website. To do so, sele
 ![Book DB reservation](db_reservation.webp)
 {{% /booking-section %}}
 
-{{% highlight "important" %}}
+{{< highlight "important" >}}
 If an error occurs while booking trains requiring reservations, it may be that reservations are not yet available for that connection. Please observe the relevant advance booking deadlines and, in this case, try again later, check the connection on the operator's website, or use other booking methods.
-{{% /highlight %}}
+{{< /highlight >}}

@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "ZSSK / ŽSR"
+title: ZSSK / ŽSR
 country:
-  - "slovakia"
-operator: "zssk"
-
+  - slovakia
+operator: zssk
 aliases:
   - zsr
   - /booking/zssk-ticket-office
@@ -23,6 +22,7 @@ Die ŽSR (Železnice Slovenskej republiky) sowie der dazugehörige Zugbetreiber 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ZSSK mit der Einschränkung, dass einzelne (oder bei der 1. Klasse alle) Züge reservierungspflichtig sind, gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -80,9 +80,9 @@ Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erb
 
 Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich oder Ungarn. Sie verkehren oft mit wenigen Halten und im Vergleich relativ hoher Durchschnittsgeschwindigkeit. Die `RJ` Züge sind Railjet-Züge der Österreichischen Bundesbahn, die auf slowakischem Abschnitt auch mit ZSSK-Freifahrtscheinen genutzt werden können.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `RJ` ist gleichzeitig auch die Abkürzung für RegioJet, dort gelten keinerlei FIP-Farscheine.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
@@ -163,6 +163,8 @@ Reservierungspflicht nur in der 1. Klasse.
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Busse sind von FIP-Rabatten ausgeschlossen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]
@@ -214,6 +216,10 @@ Studenten unter 26 Jahren und Senioren ab 62 Jahren aus der EU sowie internation
 ### Fahrtunterbrechung
 
 Eine Unterbrechung von einer Fahrt ist nur bei Distanzen von 101 km und mehr möglich.
+
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ### Schienenersatzverkehr
 

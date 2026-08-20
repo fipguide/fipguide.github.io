@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Ffestiniog Travel Téléphone"
-description: "Informations de réservation pour la hotline de Ffestiniog Travel."
+title: Ffestiniog Travel Téléphone
+description: Informations de réservation pour la hotline de Ffestiniog Travel.
 params:
   fee: 12 % p/p (min. 5 £, max. 60 £)
   fip_50: true
   fip_global_fare: true
-  type: "phone"
+  type: phone
 ---
 
 Ffestiniog Travel a un accès direct aux systèmes de réservation de nombreux opérateurs ferroviaires et peut proposer des billets pour de nombreux trains en Europe.[^1]

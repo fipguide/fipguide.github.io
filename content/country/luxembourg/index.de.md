@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Luxemburg"
-country: "luxembourg"
+title: Luxemburg
+country: luxembourg
 ---
 
 ## FIP Nutzung

@@ -1,10 +1,10 @@
 ---
 draft: false
-title: "GySEV / Raaberbahn"
+title: GySEV / Raaberbahn
 country:
-  - "austria"
-operator: "gysev"
-
+  - austria
+  - hungary
+operator: gysev
 aliases:
   - /booking/mav-ticket-machine
   - /booking/mav-ticket-office
@@ -22,6 +22,7 @@ La Raab-Oedenburg-Ebenfurter Eisenbahn AG (en hongrois Győr-Sopron-Ebenfurti Va
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 {{% highlight important %}}
@@ -49,9 +50,9 @@ Les lignes suivantes peuvent être utilisées avec le Coupon FIP GySEV en Autric
 
 GySEV exploite des trains Scarbantia `IC` entre Sopron et Budapest.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 En Hongrie, des trains InterCity de la compagnie ferroviaire d’État hongroise MÁV circulent également.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Réservations
 
@@ -64,14 +65,15 @@ Les réservations ne sont obligatoires qu’entre Győr et Budapest. Pour les tr
     title="Regionalexpress (REX)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Train régional rapide avec moins d’arrêts et matériel roulant moderne.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Certains trains Regionalexpress sont également exploités par les ÖBB où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -80,14 +82,15 @@ Certains trains Regionalexpress sont également exploités par les ÖBB où les 
     title="Regionalzug (R)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Train régional avec arrêts dans la plupart des gares.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Certains trains régionaux sont également exploités par les ÖBB où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -96,14 +99,15 @@ Certains trains régionaux sont également exploités par les ÖBB où les Bille
     title="Személyvonat (Sz)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Train régional avec arrêts dans la plupart des gares.
 
-{{% highlight confusion %}}
-Certains trains Személyvonat sont également exploités par MÁV où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
-{{% /highlight %}}
+{{< highlight confusion >}}
+Certains trains Személyvonat sont également exploités par [MÁV](/operator/mav#sz) où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -112,8 +116,12 @@ Certains trains Személyvonat sont également exploités par MÁV où les Billet
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Les réductions FIP ne sont pas valables sur les liaisons d’autobus GySEV. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -124,7 +132,9 @@ Les réductions FIP ne sont pas valables sur les liaisons d’autobus GySEV. Dan
 
 ### Par téléphone
 
-{{% booking id="oebb-phone" reservations=nil /%}}
+{{% booking id="oebb-phone"
+    reservations=nil
+/%}}
 
 ### En gare
 
@@ -132,7 +142,9 @@ Les réductions FIP ne sont pas valables sur les liaisons d’autobus GySEV. Dan
 
 {{% booking id="mav-ticket-machine" /%}}
 
-{{% booking id="oebb-ticket-office" reservations=nil /%}}
+{{% booking id="oebb-ticket-office"
+    reservations=nil
+/%}}
 
 ### À bord du train
 
@@ -155,6 +167,10 @@ Avec les tarifs publics, les enfants de moins de 6 ans voyagent gratuitement. Le
 ### Possibilité d’interrompre le trajet
 
 Pour un arrêt intermédiaire, le billet doit être composté à la gare où l’arrêt doit avoir lieu.
+
+### Correspondances - AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 
 ### Services de remplacement ferroviaire
 

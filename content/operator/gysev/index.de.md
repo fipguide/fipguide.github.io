@@ -1,10 +1,10 @@
 ---
 draft: false
-title: "GySEV / Raaberbahn"
+title: GySEV / Raaberbahn
 country:
-  - "austria"
-operator: "gysev"
-
+  - austria
+  - hungary
+operator: gysev
 aliases:
   - /booking/mav-ticket-machine
   - /booking/mav-ticket-office
@@ -22,6 +22,7 @@ Die Raab-Oedenburg-Ebenfurter Eisenbahn AG (ungarisch Győr-Sopron-Ebenfurti Vas
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 {{% highlight important %}}
@@ -49,9 +50,9 @@ Folgende Linien sind mit dem FIP Freifahrtschein der GySEV in Österreich in den
 
 Die GySEV betreibt Scarbantia `IC` Züge zwischen Sopron und Budapest.
 
-{{% highlight confusion %}}
-In Ungarn verkehren auch InterCity Züge der ungarischen Staatsbahn MÁV.
-{{% /highlight %}}
+{{< highlight confusion >}}
+In Ungarn verkehren auch InterCity Züge der ungarischen Staatsbahn [MÁV](/operator/mav#ic).
+{{< /highlight >}}
 
 #### Reservierungen
 
@@ -64,14 +65,15 @@ Reservierungen sind nur zwischen Győr und Budapest verpflichtend. Bei Fahrten z
     title="Regionalexpress (REX)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Regionalexpress-Züge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -80,14 +82,15 @@ Regionalexpress-Züge werden teilweise auch von der ÖBB betrieben, bei denen FI
     title="Regionalzug (R)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Nahverkehrszug mit Halten an den meisten Stationen.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Regionalzüge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -96,14 +99,15 @@ Regionalzüge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrka
     title="Személyvonat (Sz)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Nahverkehrszug mit Halten an den meisten Stationen.
 
-{{% highlight confusion %}}
-Személyvonat werden teilweise auch von der MÀV betrieben, bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
-{{% /highlight %}}
+{{< highlight confusion >}}
+Személyvonat werden teilweise auch von der [MÁV](/operator/mav#sz) betrieben, bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -112,8 +116,12 @@ Személyvonat werden teilweise auch von der MÀV betrieben, bei denen FIP Fahrtk
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 FIP Vergünstigungen sind nicht gültig auf Busverbindungen der GySEV. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -124,7 +132,9 @@ FIP Vergünstigungen sind nicht gültig auf Busverbindungen der GySEV. In Bussen
 
 ### Telefon
 
-{{% booking id="oebb-phone" reservations=nil /%}}
+{{% booking id="oebb-phone"
+    reservations=nil
+/%}}
 
 ### Vor Ort
 
@@ -132,7 +142,9 @@ FIP Vergünstigungen sind nicht gültig auf Busverbindungen der GySEV. In Bussen
 
 {{% booking id="mav-ticket-machine" /%}}
 
-{{% booking id="oebb-ticket-office" reservations=nil /%}}
+{{% booking id="oebb-ticket-office"
+    reservations=nil
+/%}}
 
 ### Im Zug
 
@@ -155,6 +167,10 @@ Bei öffentlichen Tarifen fahren Kinder bis 6 Jahren kostenlos. Kinder bis 15 Ja
 ### Fahrtunterbrechung
 
 Im Falle einer Fahrtunterbrechung muss das Ticket an dem Bahnhof, an dem die Unterbrechung erfolgt, abgestempelt werden.
+
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ### Schienenersatzverkehr
 

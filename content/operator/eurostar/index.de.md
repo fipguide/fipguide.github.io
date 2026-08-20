@@ -1,14 +1,13 @@
 ---
 draft: false
-title: "Eurostar"
+title: Eurostar
 country:
-  - "belgium"
-  - "germany"
-  - "netherlands"
-  - "united-kingdom"
-  - "france"
-operator: "eurostar"
-
+  - belgium
+  - germany
+  - netherlands
+  - united-kingdom
+  - france
+operator: eurostar
 aliases:
   - /booking/eurostar-phone
   - /booking/eurostar-ticket-office
@@ -28,7 +27,9 @@ Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprü
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="invalid" subtitle="FIP 50 / FIP 75" disable_dialog=true >}}
+
 {{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 Der Erwerb von vergünstigten FIP Globalpreistickets zum Festpreis ist möglich. Sämtliche Tickets sind aufgrund der Reservierungspflicht in allen Zügen zuggebunden. Das Umbuchen auf andere Züge oder Stornieren von FIP Tickets ist dabei jedoch über die [Eurostar Website](https://www.eurostar.com/) möglich. Die Tickets können nur separat und nicht als Teil von durchgehenden Fahrkarten erworben werden. [^1]
@@ -107,9 +108,18 @@ Bei der Buchung kann teilweise in Pfund oder Euro bezahlt werden. In der Regel s
 
 Tickets werden ausschließlich als Online Tickets ausgegeben, weshalb für die Buchung zwangsläufig eine E-Mail-Adresse erforderlich ist.
 
+Der FIP-Ausweis sollte beim Boarding bereitgehalten werden.
+
 ### Online
 
 Das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets ist über die Eurostar Website möglich, mehr Informationen dazu unter [Umbuchungen & Stornierungen](#umbuchungen--stornierungen). Wenn bei der Buchung eine Mailadresse angegeben wird, für die ein Eurostar Konto existiert, wird das Tickets diesem zugeordnet und kann direkt im Konto angezeigt werden.
+
+{{% booking id="traivelling-website"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+    reservations=nil
+/%}}
 
 {{% booking id="railtourguide-website"
     fip_50=nil
@@ -123,14 +133,18 @@ Das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets ist über die Euro
     fip_global_fare=true
 /%}}
 
-{{% booking id="internationalrail-email" fip_50=nil fip_75=nil /%}}
+{{% booking id="internationalrail-email"
+    fip_50=nil
+    fip_75=nil
+/%}}
 
 ### Telefon
 
 {{% booking id="eurostar-phone"
     subtitle="Nur Eurostar Red"
 %}}
-Die Buchung von FIP Tickets von/nach London (Eurostar Blue) ist über die Hotline nicht möglich. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.{{% /booking %}}
+Die Buchung von FIP Tickets von/nach London (Eurostar Blue) ist über die Hotline nicht möglich. In dem Fall empfehlen wir die Buchung über einen anderen Buchungsweg.
+{{% /booking %}}
 
 {{% booking id="cfl-phone"
     fip_global_fare=true
@@ -190,7 +204,7 @@ Kinder unter 12 Jahren müssen von einem Erwachsenen begleitet werden. Kinder zw
 
 ### Umbuchungen & Stornierungen
 
-FIP Tickets können bis eine Stunde vor Abfahrt umgebucht oder kostenfrei storniert werden. Danach ist eine Umbuchung oder Stornierung nicht mehr möglich.
+FIP Tickets können bis zur geplanten Abfahrtszeit des Zuges umgebucht oder kostenfrei storniert werden. Danach ist eine Umbuchung oder Stornierung nicht mehr möglich.
 
 Grundsätzlich kann nur auf andere verfügbare Züge umgebucht werden, bei denen noch entsprechende Kontingente vorhanden sind, siehe auch [Ticketkontingente](#ticketkontingente). Bei der Umbuchung ist auch das Upgrade von Eurostar Standard auf Eurostar Plus gegen Zahlung der Differenz möglich. Bei einem Downgrade von Eurostar Plus auf Eurostar Standard wird die Differenz jedoch nicht erstattet.
 
@@ -209,17 +223,13 @@ Die Prüfung verfügbarer Ticketkontingente ist über folgende Websites möglich
 - [Interrail Website](https://www.interrail.eu/de/book-reservations) \
   Nur zum Prüfen von Reservierungskontingenten. Gekaufte Reservierungen gelten nur mit Interrail-Ticket!
 - [Traivelling](https://traivelling.com/home) \
-  Angabe der Vergünstigung _FIP 50%_. Hier werden auch Tickets verkauft, zur Legitimität dieses Angebots können wir jedoch keine Aussage treffen.
+  Mehr Informationen im [entsprechenden Buchungsabschnitt](#traivelling-website).
 
 ### Anschlüsse
 
 #### HOTNAT (Umstieg in Brüssel, Köln, Paris)
 
-Für den Eurostar ist der Kauf von durchgehenden Fahrkarten nicht möglich. Zur Anschlusssicherung beim Umstieg kann jedoch [HOTNAT (Hop on the next available train)](https://www.railteam.eu/de/am-i-eligible-for-hotnat/) genutzt werden.
-
-Wenn beim Umstieg zwischen zwei Hochgeschwindigkeitszügen durch Verspätung oder Ausfall der Anschluss verpasst wird, kann auf den nächsten verfügbaren Zug des gleichen Betreibers oder eines anderen Railteam Mitglieds ausgewichen werden. Dazu muss am Service Schalter vor Ort die Umbuchung auf den nächsten Zug erfolgen.
-
-HOTNAT gilt nur für den Umstieg von Hochgeschwindigkeitszügen von Railteam Mitgliedern (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) und an den Bahnhöfen Paris, Brüssel, Köln, München, Basel und Zürich. Die Inanspruchnahme ist von der Auslastung der Züge abhängig.
+Für den Eurostar ist der Kauf von durchgehenden Fahrkarten nicht möglich. Zur Anschlusssicherung beim Umstieg kann jedoch HOTNAT (Hop on the Next Available Train) genutzt werden. [Weitere Informationen im FAQ.](/general/faq/#hotnat)
 
 #### London International CIV (Umstieg in London)
 

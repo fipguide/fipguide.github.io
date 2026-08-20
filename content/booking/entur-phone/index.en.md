@@ -1,11 +1,11 @@
 ---
 draft: false
-title: "Entur Telephone"
-description: "Booking information for the Entur hotline."
+title: Entur Telephone
+description: Booking information for the Entur hotline.
 params:
   fip_50: true
   reservations: true
-  type: "phone"
+  type: phone
 ---
 
 FIP 50 Tickets and reservations can be booked via the hotline.

@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Entur Chat"
-description: "Booking information for the Entur chat."
+title: Entur Chat
+description: Booking information for the Entur chat.
 params:
   fip_50: true
   reservations: true
-  booking_link: "https://om.entur.no/kontakt-oss"
-  type: "socialmedia"
+  booking_link: https://om.entur.no/kontakt-oss
+  type: socialmedia
 ---
 
 FIP 50 Tickets and reservations can be booked via the online chat.

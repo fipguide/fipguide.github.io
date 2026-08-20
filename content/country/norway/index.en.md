@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Norway"
-country: "norway"
+title: Norway
+country: norway
 params:
   operators_without_fip:
     - Arctic Train
@@ -18,8 +18,7 @@ The traffic packages are awarded in tendering procedures by the Norwegian Minist
 Vy Group AS is printed on the FIP Card and the FIP Coupons, but travel is possible on the trains of the operators Vy Tog, SJ Nord and Go-Ahead Nordic.
 Details can be found on the [operator page](/operator/vy).
 
-{{< identify-operator sources="entur-website,db-website" >}}
-{{< /identify-operator >}}
+{{< identify-operator sources="entur-website,db-website" />}}
 
 ## Interesting
 

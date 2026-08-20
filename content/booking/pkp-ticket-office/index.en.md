@@ -1,16 +1,15 @@
 ---
 draft: false
-title: "PKP Intercity Ticket Office"
-description: "Booking information for PKP Intercity ticket offices."
-
+title: PKP Intercity Ticket Office
+description: Booking information for PKP Intercity ticket offices.
 params:
   classes:
-    first: "3 PLN"
-    second: "3 PLN"
+    first: 3 PLN
+    second: 3 PLN
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/wyszukiwarka-kas-i-biletomatow.html"
-  type: "onsite"
+  additional_info_link: https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/wyszukiwarka-kas-i-biletomatow.html
+  type: onsite
 ---
 
 PKP Intercity operates an extensive network of ticket offices even at smaller stations. Linguistically, it is advantageous to speak some Polish or have a suitable translator app, as English is often not very widespread.
