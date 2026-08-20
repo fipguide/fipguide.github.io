@@ -111,8 +111,10 @@ Am Tag der Reise können vor Ort Buchungen vorgenommen werden, je nach Verfügba
 
 ## Ermäßigungen
 
-Kleinkinder bis einschließlich 3 Jahre, die weder ein eigenes Bett noch eine Liege oder einen Schlafsessel belegen, bezahlen nur €6,00 pro Überfahrt.
-Kleinkinder bis einschließlich 3 Jahre, die ein eigenes Bett, eine eigene Liege oder einen eigenen Schlafsessel belegen, und Personen ab 4 Jahren zahlen den vollen FIP-Erwachsenenpreis.[^3]
+| Alter      | Ermäßigung                                                                                                       |
+| ---------- | ---------------------------------------------------------------------------------------------------------------- |
+| 0–3 Jahre  | €6,00 pro Überfahrt, sofern kein eigenes Bett, keine eigene Liege oder kein eigener Schlafsessel belegt wird[^3] |
+| ab 4 Jahre | Regulärer Preis (gilt auch für 0–3-Jährige mit eigenem Bett, eigener Liege oder eigenem Schlafsessel)[^3]        |
 
 ## Tarifliche Besonderheiten
 

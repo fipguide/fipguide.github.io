@@ -129,7 +129,11 @@ If you start your journey at a station where the ticket office is unstaffed, tic
 
 ## Discounts
 
-At public fares, children up to 4 years travel free of charge, children up to 12 years receive a 50% discount on the adult fare. From 12 years, the regular adult fare applies.[^1]
+| Age           | Discount                           |
+| ------------- | ---------------------------------- |
+| 0–4 years     | Free of charge[^1]                 |
+| 4–12 years    | 50% discount on the adult fare[^1] |
+| from 12 years | Regular adult fare[^1]             |
 
 ## Special Tariff Conditions
 

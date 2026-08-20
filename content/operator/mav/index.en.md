@@ -326,7 +326,12 @@ When purchasing FIP-discounted tickets or when changing class from 2nd to 1st cl
 
 ## Discounts
 
-Children up to and including 13 years travel free. From 14 years onwards, the regular FIP adult rate applies.[^2]
+| Age           | Discount                   |
+| ------------- | -------------------------- |
+| 0–13 years    | Free of charge[^2]         |
+| from 14 years | Regular FIP adult fare[^2] |
+
+### Accompaniment of Children on International Journeys
 
 On international journeys, children under 10 years of age may not travel unaccompanied by an adult. Children from 10 years of age must carry a signed [parental consent form](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_FIP_MAV_Parental_Consent_form_v2.pdf). MÁV does not assume responsibility for unaccompanied children. Parents are liable for all damages caused by the child. If a child is found traveling unaccompanied and without a parental consent form, the authorities will be notified.[^1]
 

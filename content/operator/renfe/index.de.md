@@ -247,7 +247,11 @@ Tickets für internationale `AVE` Züge können bei Zustieg in Frankreich im Zug
 
 ## Ermäßigungen
 
-Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter 12 Jahren gilt eine Ermäßigung von 40 %. Ab 12 Jahren wird der volle Preis berechnet.
+| Alter       | Ermäßigung                         |
+| ----------- | ---------------------------------- |
+| 0–4 Jahre   | Kostenlos (ohne eigenen Sitzplatz) |
+| 4–12 Jahre  | 40 % Ermäßigung                    |
+| ab 12 Jahre | Regulärer Preis                    |
 
 ## Tarifliche Besonderheiten
 

@@ -129,7 +129,11 @@ Wenn man die Reise an einem Bahnhof beginnt, an dem der Fahrkartenschalter unbes
 
 ## Ermäßigungen
 
-Bei öffentlichen Fahrpreisen reisen Kinder bis 4 Jahre kostenlos, Kinder bis 12 Jahren erhalten eine Ermäßigung von 50 % auf den Erwachsenenpreis. Ab 12 Jahren gilt der reguläre Erwachsenenfahrpreis.[^1]
+| Alter       | Ermäßigung                              |
+| ----------- | --------------------------------------- |
+| 0–4 Jahre   | Kostenlos[^1]                           |
+| 4–12 Jahre  | 50% Rabatt auf den Erwachsenenpreis[^1] |
+| ab 12 Jahre | Regulärer Erwachsenenfahrpreis[^1]      |
 
 ## Tarifliche Besonderheiten
 

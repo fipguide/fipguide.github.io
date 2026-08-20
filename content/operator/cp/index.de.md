@@ -161,7 +161,10 @@ Wenn keine Verkaufsstelle der CP am Startbahnhof vorhanden ist oder mehr als 24 
 
 ## Ermäßigungen
 
-Kinder bis einschließlich 3 Jahre reisen kostenlos ohne eigenen Sitzplatz. Ab 4 Jahren gilt der reguläre FIP-Erwachsenentarif.[^1]
+| Alter      | Ermäßigung                           |
+| ---------- | ------------------------------------ |
+| 0–3 Jahre  | Kostenlos ohne eigenen Sitzplatz[^1] |
+| ab 4 Jahre | Regulärer FIP-Erwachsenentarif[^1]   |
 
 ## Tarifliche Besonderheiten
 

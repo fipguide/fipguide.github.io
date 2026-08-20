@@ -73,9 +73,16 @@ Les Billets FIP 50 peuvent être achetés à bord du ferry.
 
 ## Réductions
 
-Les enfants jusqu’à 5 ans inclus voyagent gratuitement. À partir de 6 ans, le tarif adulte FIP normal s’applique.[^1]
+| Âge               | Réduction                   |
+| ----------------- | --------------------------- |
+| 0–5 ans           | Gratuit[^1]                 |
+| à partir de 6 ans | Tarif adulte FIP normal[^1] |
+
+### Carte enfance Lac de Constance
 
 La _Carte enfance Lac de Constance_ (Bodensee-Kinderkarte) coûte 10 € par jour et permet à tous les enfants d’une famille de 6 à 15 ans de voyager, à condition qu’au moins un parent soit titulaire d’un billet régulier et accompagne le trajet. Voir le site BSB : [Carte enfance Lac de Constance](https://www.bsb.de/en/timetable/prices/interesting-offers).
+
+### Gratuité pour les enfants le jour de leur anniversaire
 
 Toute personne fêtant son anniversaire voyage gratuitement sur les lignes régulières le jour de son anniversaire, sur présentation de la carte d’identité (original).
 Le billet anniversaire doit être retiré avant le départ aux points de vente.[^2]

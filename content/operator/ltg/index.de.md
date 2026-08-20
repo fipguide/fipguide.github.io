@@ -71,7 +71,16 @@ Die inzwischen an vielen Stationen aufgestellten Fahrkartenautomaten geben keine
 
 ## Ermäßigungen
 
-Mit regulären Fahrkarten reisen maximal 2 Kinder bis einschließlich 7 Jahre in der 2. Klasse kostenlos, müssen dann aber auf dem Schoß der Eltern sitzen. Wenn die Kinder bis 7 Jahre einen eigenen Sitz erhalten sollen, sind 50% vom Erwachsenentarif zu zahlen. Kinder bis 18 Jahre (oder als Schüler:innen noch bis 23 Jahre) erhalten 50% Ermäßigung auf den Erwachsenentarif. Personen ab 18 Jahren zahlen den vollen Erwachsenentarif, jedoch gibt es zahlreiche weitere Ermäßigungen. Ein Überblick ist auf der [Website von LTG-Link](https://ltglink.lt/en/discount-for-children-and-pupils) verfügbar.
+| Alter                                            | Ermäßigung                                      |
+| ------------------------------------------------ | ----------------------------------------------- |
+| 0–7 Jahre (max. 2 Kinder ohne eigenen Sitzplatz) | Kostenlos (2. Klasse, auf dem Schoß der Eltern) |
+| 0–7 Jahre (mit eigenem Sitzplatz)                | 50% Ermäßigung auf den Erwachsenentarif         |
+| 7–18 Jahre (bzw. bis 23 Jahre als Schüler:in)    | 50% Ermäßigung auf den Erwachsenentarif         |
+| ab 18 Jahre                                      | Regulärer Erwachsenentarif                      |
+
+### Weitere Ermäßigungen
+
+Personen ab 18 Jahren zahlen den vollen Erwachsenentarif, jedoch gibt es zahlreiche weitere Ermäßigungen. Ein Überblick ist auf der [Website von LTG-Link](https://ltglink.lt/en/discount-for-children-and-pupils) verfügbar.
 
 ## Tarifliche Besonderheiten
 

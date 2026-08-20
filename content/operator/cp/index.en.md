@@ -161,7 +161,10 @@ If no CP sales office is available at the origin station or it is not staffed mo
 
 ## Discounts
 
-Children up to and including 3 years of age travel free without their own seat. From the age of 4, the regular FIP adult fare applies.[^1]
+| Age          | Discount                   |
+| ------------ | -------------------------- |
+| 0–3 years    | Free without own seat[^1]  |
+| from 4 years | Regular FIP adult fare[^1] |
 
 ## Special Tariff Conditions
 

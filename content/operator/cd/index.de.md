@@ -284,7 +284,11 @@ FIP-ermäßigte Fahrkarten können nur im Zug gekauft werden, wenn die Abfahrt v
 
 ## Ermäßigungen
 
-Kinder bis einschließlich 5 Jahre reisen in der 2. Klasse kostenlos. Kinder zwischen 6 und 18 Jahren erhalten 50% Ermäßigung auf den regulären Erwachsenentarif in der 2. Klasse, der bei Zügen, die mit FIP aufpreispflichtig ist, gültig als der FIP 50 Tarif sein kann. Ab 6 Jahren gilt der reguläre FIP-Erwachsenentarif.[^3]
+| Alter      | Ermäßigung                                                                                                                                                       |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0–5 Jahre  | Kostenlos in der 2. Klasse[^3]                                                                                                                                   |
+| 6–18 Jahre | 50% Ermäßigung auf den regulären Erwachsenentarif in der 2. Klasse, der bei Zügen, die mit FIP aufpreispflichtig sind, gültig als der FIP 50 Tarif sein kann[^3] |
+| ab 6 Jahre | Regulärer FIP-Erwachsenentarif[^3]                                                                                                                               |
 
 ## Tarifliche Besonderheiten
 

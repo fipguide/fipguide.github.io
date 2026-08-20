@@ -138,7 +138,14 @@ Tickets for first class travel or upgrades from second to first class must be pu
 
 Travel in second class is generally free of charge.
 
-Children up to and including 11 years of age benefit from free transport in 1st class when accompanied by a person holding a valid 1st class ticket. Free transport is limited to two children in this case. From the age of 12, the regular FIP adult fare applies in 1st class.[^3]
+For 1st class, the following child discounts apply:
+
+| Age           | Discount                                                                                          |
+| ------------- | ------------------------------------------------------------------------------------------------- |
+| 0–11 years    | Free (when accompanied by a person holding a valid 1st class ticket, limited to two children)[^3] |
+| from 12 years | Regular FIP adult fare[^3]                                                                        |
+
+### Accompaniment of Young Children
 
 Children who have not yet reached the age of 4 must be accompanied by a person who is at least 12 years old.[^3]
 

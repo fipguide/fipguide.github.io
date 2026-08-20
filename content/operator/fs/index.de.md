@@ -328,7 +328,14 @@ Wenn Zuschläge nicht vor Reisebeginn erworben werden, wird ein zusätzlicher Bo
 
 ## Ermäßigungen
 
-Bei öffentlichen Tarifen reisen Kinder bis einschließlich 4 Jahren kostenlos. In Nahverkehrszügen erhalten Kinder bis einschließlich 12 Jahre eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Personen ab 12 Jahren zahlen den regulären Erwachsenenpreis. In Fernverkehrszügen erhalten Kinder bis einschließlich 15 Jahre eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Personen ab 15 Jahren zahlen den regulären Erwachsenenpreis.
+Bei öffentlichen Tarifen gelten folgende Ermäßigungen für Kinder:
+
+| Alter       | Ermäßigung                                              |
+| ----------- | ------------------------------------------------------- |
+| 0–4 Jahre   | Kostenlos                                               |
+| 4–12 Jahre  | 50 % Rabatt (Nahverkehr), regulärer Preis (Fernverkehr) |
+| 12–15 Jahre | 50 % Rabatt (Nahverkehr und Fernverkehr)                |
+| ab 15 Jahre | Regulärer Preis                                         |
 
 ## Tarifliche Besonderheiten
 

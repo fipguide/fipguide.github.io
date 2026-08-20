@@ -265,7 +265,15 @@ Les Réductions FIP ne peuvent pas être achetées à bord du train.
 
 ## Réductions
 
-Les enfants jusqu’à 6 ans voyagent gratuitement. Les enfants de 6 à 17 ans inclus bénéficient d’une réduction de 75 % sur les billets Single et Flex Refundable, ce qui est plus avantageux que le tarif FIP pour les enfants. À partir de 18 ans, le tarif adulte FIP normal s’applique.[^2][^4]
+| Âge                | Réduction                                                           |
+| ------------------ | ------------------------------------------------------------------- |
+| 0–6 ans            | Gratuit[^2]                                                         |
+| 6–17 ans           | Réduction de 75 % sur les billets Single et Flex Refundable[^2][^4] |
+| à partir de 18 ans | Tarif adulte FIP normal[^2]                                         |
+
+{{% highlight tip %}}
+La réduction de 75 % pour les enfants de 6 à 17 ans inclus sur les billets Single et Flex Refundable est plus avantageuse que le tarif FIP pour les enfants.
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 

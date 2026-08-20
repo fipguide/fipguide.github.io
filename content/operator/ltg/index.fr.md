@@ -71,7 +71,16 @@ Les distributeurs de billets installés dans de nombreuses gares ne délivrent p
 
 ## Réductions
 
-Avec des billets ordinaires, jusqu’à 2 enfants jusqu’à 7 ans inclus voyagent gratuitement en 2e classe, mais doivent alors être assis sur les genoux des parents. Si les enfants de moins de 7 ans souhaitent une place assise, ils paient 50 % du tarif adulte. Les enfants jusqu’à 18 ans (ou jusqu’à 23 ans s’ils sont élèves) bénéficient de 50 % de réduction sur le tarif adulte. Les personnes de plus de 18 ans paient le plein tarif adulte, mais de nombreuses autres réductions existent. Un aperçu est disponible sur le [site de LTG-Link](https://ltglink.lt/en/discount-for-children-and-pupils).
+| Âge                                          | Réduction                                       |
+| -------------------------------------------- | ----------------------------------------------- |
+| 0–7 ans (max. 2 enfants sans place assise)   | Gratuit (2e classe, sur les genoux des parents) |
+| 0–7 ans (avec place assise)                  | Réduction de 50 % sur le tarif adulte           |
+| 7–18 ans (ou jusqu’à 23 ans pour les élèves) | Réduction de 50 % sur le tarif adulte           |
+| à partir de 18 ans                           | Tarif adulte normal                             |
+
+### Autres réductions
+
+Les personnes de plus de 18 ans paient le plein tarif adulte, mais de nombreuses autres réductions existent. Un aperçu est disponible sur le [site de LTG-Link](https://ltglink.lt/en/discount-for-children-and-pupils).
 
 ## Conditions tarifaires spéciales
 

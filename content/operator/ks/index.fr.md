@@ -85,7 +85,11 @@ Les Billets FIP 50 peuvent également être achetés directement dans le train. 
 
 ## Réductions
 
-Pour les billets réguliers, les enfants de moins de 4 ans voyagent gratuitement. Les enfants de moins de 26 ans bénéficient d’une réduction de 20 % sur le tarif adulte. Les personnes à partir de 26 ans paient le tarif adulte complet.[^1]
+| Âge                | Réduction                                 |
+| ------------------ | ----------------------------------------- |
+| 0–4 ans            | Gratuit[^1]                               |
+| 4–26 ans           | Réduction de 20 % sur le tarif adulte[^1] |
+| à partir de 26 ans | Tarif adulte[^1]                          |
 
 ## Conditions tarifaires spéciales
 

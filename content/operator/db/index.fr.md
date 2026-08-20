@@ -328,7 +328,10 @@ Les billets FIP 50 ne peuvent pas être achetés à bord.
 
 ## Réductions
 
-Les enfants voyagent gratuitement jusqu’à 5 ans inclus. À partir de 6 ans, le tarif adulte FIP normal s’applique.
+| Âge               | Réduction               |
+| ----------------- | ----------------------- |
+| 0–5 ans           | Gratuit                 |
+| à partir de 6 ans | Tarif adulte FIP normal |
 
 ### Enfants voyageant gratuitement
 

@@ -242,7 +242,15 @@ FIP 50 Tickets cannot be purchased on the train. [^1]
 
 ## Discounts
 
-Children up to and including 3 years of age travel free of charge. Children between 4 and 11 years of age (inclusive) require a [Railrunner ticket](https://www.ns.nl/en/tickets/railrunner) for € 2.50, valid for a whole day. Alternatively, for children between 4 and 11 years of age (inclusive) travelling accompanied by an adult, the free seasonal ticket ["Kids Vrij"](https://www.ns.nl/en/season-tickets/kids-vrij.html) can be obtained. An OV chipkaart is required for this (one-time fee of € 7.50). From age 12, the regular FIP adult fare applies.
+| Age           | Discount                                                                                        |
+| ------------- | ----------------------------------------------------------------------------------------------- |
+| 0–3 years     | Free                                                                                            |
+| 4–11 years    | [Railrunner ticket](https://www.ns.nl/en/tickets/railrunner) for € 2.50 (valid for a whole day) |
+| from 12 years | Regular FIP adult fare                                                                          |
+
+### Free "Kids Vrij" Season Ticket (without FIP)
+
+Alternatively, for children between 4 and 11 years of age (inclusive) travelling accompanied by an adult, the free seasonal ticket ["Kids Vrij"](https://www.ns.nl/en/season-tickets/kids-vrij.html) can be obtained. An OV chipkaart is required for this (one-time fee of € 7.50).
 
 ## Special Tariff Conditions
 

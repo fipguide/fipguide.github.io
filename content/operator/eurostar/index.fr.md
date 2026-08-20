@@ -194,9 +194,18 @@ Impossible d’acheter un billet à bord. Achat préalable obligatoire.
 
 ## Réductions
 
-Les enfants de moins de 4 ans voyagent gratuitement sans billet mais doivent être assis sur les genoux d’un adulte. Un billet séparé peut être acheté si une place séparée est souhaitée. Les enfants dès 4 ans paient le tarif adulte FIP complet.[^1]
+| Âge               | Réduction                                                          |
+| ----------------- | ------------------------------------------------------------------ |
+| 0–4 ans           | Gratuit (sans place assise propre, sur les genoux d’un adulte)[^1] |
+| à partir de 4 ans | Tarif adulte FIP complet[^1]                                       |
+
+Un billet séparé peut être acheté pour les enfants de moins de 4 ans si une place séparée est souhaitée.[^1]
+
+### Pas De Réduction FIP Supplémentaire Pour Les Enfants
 
 Il n’y a pas d’autre réduction FIP pour les enfants, cependant les tarifs publics offrent une réduction de 30 à 50 %, ce qui rend une comparaison judicieuse.[^2]
+
+### Accompagnement Des Mineurs
 
 Les enfants de moins de 12 ans doivent être accompagnés par un adulte. Les enfants de 12 à 15 ans peuvent voyager avec une personne responsable de 16 ans ou plus, ou comme mineur non accompagné muni des documents requis.[^2]
 

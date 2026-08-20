@@ -125,7 +125,11 @@ Der Kauf an Bord der Schiffe ist nicht möglich.
 
 ## Ermäßigungen
 
-Kinder bis 4 Jahren reisen kostenlos, Kinder im Alter von 4 bis 16 Jahren sind berechtigt für ein Rabatt von 50% auf den Erwachsenen-Tarif, ab 16 Jahren zahlen sie den Erwachsenen-Tarif. [^1]
+| Alter       | Ermäßigung                               |
+| ----------- | ---------------------------------------- |
+| 0–4 Jahre   | Kostenlos[^1]                            |
+| 4–16 Jahre  | 50% Rabatt auf den Erwachsenen-Tarif[^1] |
+| ab 16 Jahre | Erwachsenen-Tarif[^1]                    |
 
 {{% highlight tip %}}
 Stena Line und Irish Ferries bieten Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.

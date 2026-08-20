@@ -137,7 +137,14 @@ Les billets pour voyager en première classe ou pour un surclassement de la deux
 
 En deuxième classe, le voyage est généralement gratuit.
 
-Les enfants de moins de 12 ans bénéficient du transport gratuit en 1ᵉ classe lorsqu’ils sont accompagnés par une personne titulaire d’un billet valable pour la 1ᵉ classe. Le transport gratuit est limité à deux enfants dans ce cas. À partir de 12 ans, le tarif adulte FIP normal s’applique en 1ᵉ classe.[^3]
+Pour la 1ᵉ classe, les réductions suivantes s’appliquent aux enfants :
+
+| Âge                | Réduction                                                                                                      |
+| ------------------ | -------------------------------------------------------------------------------------------------------------- |
+| 0–11 ans           | Gratuit (accompagné d’une personne titulaire d’un billet valable pour la 1ᵉ classe, limité à deux enfants)[^3] |
+| à partir de 12 ans | Tarif adulte FIP normal[^3]                                                                                    |
+
+### Accompagnement Des Jeunes Enfants
 
 Les enfants n’ayant pas encore atteint l’âge de 4 ans doivent être accompagnés par une personne âgée d’au moins 12 ans.[^3]
 

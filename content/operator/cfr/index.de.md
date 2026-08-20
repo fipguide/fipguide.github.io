@@ -175,7 +175,10 @@ Es können keine FIP-ermäßigte Tickets im Zug gekauft werden. Auch Reservierun
 
 ## Ermäßigungen
 
-Kinder bis einschließlich 5 Jahre reisen kostenlos. Ab 5 Jahren gilt der reguläre FIP-Erwachsenentarif.[^2]
+| Alter      | Ermäßigung          |
+| ---------- | ------------------- |
+| 0–5 Jahre  | Kostenlos[^2]       |
+| ab 5 Jahre | Regulärer Preis[^2] |
 
 ## Tarifliche Besonderheiten
 

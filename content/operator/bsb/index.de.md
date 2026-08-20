@@ -73,9 +73,16 @@ FIP 50 Fahrkarten können auf der Fähre erworben werden.
 
 ## Ermäßigungen
 
-Kinder bis einschließlich 5 Jahre reisen kostenlos. Ab 6 Jahren gilt der reguläre FIP-Erwachsenentarif.[^1]
+| Alter      | Ermäßigung                         |
+| ---------- | ---------------------------------- |
+| 0–5 Jahre  | Kostenlos[^1]                      |
+| ab 6 Jahre | Regulärer FIP-Erwachsenentarif[^1] |
+
+### Bodensee-Kinderkarte
 
 Die _Bodensee-Kinderkarte_ kostet 10 € pro Tag und erlaubt allen Kindern einer Familie zwischen 6 und 15 Jahren das Mitfahren, wenn mindestens ein Elternteil einen regulären Fahrausweis besitzt und die Fahrt begleitet. Siehe BSB Website: [Bodensee-Kinderkarte](https://www.bsb.de/de/fahrplan/preise/interessante-preisangebote).
+
+### Kostenfreie Fahrten für Geburtstagskinder
 
 Alle Geburtstagskinder fahren an ihrem Geburtstag im Linienverkehr bei Vorlage des Personalausweises (im Original) kostenfrei.
 Das Geburtstagsticket ist vor Fahrtantritt an den Verkaufsstellen zu lösen.[^2]

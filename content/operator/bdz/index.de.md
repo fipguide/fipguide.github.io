@@ -121,7 +121,10 @@ FIP-ermäßigte Fahrkarten können nur im Zug gekauft werden, wenn die Abfahrt v
 
 ## Ermäßigungen
 
-Kinder bis einschließlich 6 Jahre reisen kostenlos. Ab 7 Jahren gilt der reguläre FIP-Erwachsenentarif.[^2]
+| Alter      | Ermäßigung          |
+| ---------- | ------------------- |
+| 0–6 Jahre  | Kostenlos[^2]       |
+| ab 7 Jahre | Regulärer Preis[^2] |
 
 ## Tarifliche Besonderheiten
 

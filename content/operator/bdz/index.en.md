@@ -121,7 +121,10 @@ FIP-discounted tickets can only be purchased on board if departing from a statio
 
 ## Discounts
 
-Children up to and including 6 years of age travel free of charge. From the age of 7, the regular FIP adult fare applies.[^2]
+| Age          | Discount           |
+| ------------ | ------------------ |
+| 0–6 years    | Free of charge[^2] |
+| from 7 years | Regular price[^2]  |
 
 ## Special Tariff Conditions
 

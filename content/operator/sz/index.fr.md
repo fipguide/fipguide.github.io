@@ -207,7 +207,10 @@ Le paiement à bord ne peut se faire qu’en espèces et en euros.
 
 ## Réductions
 
-Les enfants jusqu’à 5 ans inclus voyagent gratuitement. À partir de 6 ans, le tarif adulte FIP régulier s’applique.[^1]
+| Âge               | Réduction                     |
+| ----------------- | ----------------------------- |
+| 0–5 ans           | Gratuit[^1]                   |
+| à partir de 6 ans | Tarif adulte FIP régulier[^1] |
 
 ## Conditions tarifaires spéciales
 

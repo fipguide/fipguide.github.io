@@ -111,8 +111,10 @@ On the day of travel, bookings can be made on site subject to availability. Purc
 
 ## Discounts
 
-Infants up to and including 3 years of age who do not occupy a bed, berth or reclining seat pay only €6.00 per crossing.
-Infants up to and including 3 years of age who occupy a bed, berth or reclining seat, and persons aged 4 and over, pay the full FIP adult fare.[^3]
+| Age          | Discount                                                                               |
+| ------------ | -------------------------------------------------------------------------------------- |
+| 0–3 years    | €6.00 per crossing, if not occupying a bed, berth or reclining seat[^3]                |
+| from 4 years | Regular price (also applies to 0–3 years occupying a bed, berth or reclining seat)[^3] |
 
 ## Special Tariff Conditions
 

@@ -161,7 +161,10 @@ Si aucune billetterie CP n’est disponible à la gare de départ ou si elle n�
 
 ## Réductions
 
-Les enfants jusqu’à 3 ans inclus voyagent gratuitement sans siège propre. À partir de 4 ans, le tarif adulte FIP normal s’applique.[^1]
+| Âge               | Réduction                     |
+| ----------------- | ----------------------------- |
+| 0–3 ans           | Gratuit sans siège propre[^1] |
+| à partir de 4 ans | Tarif adulte FIP normal[^1]   |
 
 ## Conditions tarifaires spéciales
 

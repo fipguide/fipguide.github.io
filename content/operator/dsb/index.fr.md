@@ -165,7 +165,9 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
 
 ## Réductions
 
-Deux enfants jusqu’à 11 ans inclus voyagent gratuitement lorsqu’ils sont accompagnés par un adulte avec un billet valide.[^3]
+| Âge      | Réduction                                                                     |
+| -------- | ----------------------------------------------------------------------------- |
+| 0–11 ans | Gratuit pour deux enfants accompagnés par un adulte avec un billet valide[^3] |
 
 ## Conditions tarifaires spéciales
 

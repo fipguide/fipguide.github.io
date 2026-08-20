@@ -108,7 +108,15 @@ FIP discounted tickets can be purchased on the train. A surcharge of EUR 1 appli
 
 ## Discounts
 
-For public fares, children up to 6 years travel free of charge. Children up to 14 years receive a 50% discount on the adult fare. Children aged 14 and older pay the adult fare.[^2]
+For public fares, the following child discounts apply:
+
+| Age           | Discount      |
+| ------------- | ------------- |
+| 0–6 years     | Free          |
+| 6–14 years    | 50% discount  |
+| from 14 years | Regular price |
+
+[^2]
 
 ## Special Tariff Conditions
 

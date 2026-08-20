@@ -156,11 +156,23 @@ Les réductions diffèrent selon le pays dans lequel vous voyagez avec GySEV.
 
 ### Hongrie
 
-Avec les tarifs publics, les enfants de moins de 6 ans voyagent gratuitement. Les enfants jusqu’à 14 ans peuvent obtenir une réduction de 50% sur le tarif adulte. Les personnes à partir de 14 ans paient le tarif adulte.
+Avec les tarifs publics :
+
+| Âge                | Réduction                            |
+| ------------------ | ------------------------------------ |
+| 0–6 ans            | Gratuit                              |
+| 6–14 ans           | Réduction de 50% sur le tarif adulte |
+| à partir de 14 ans | Tarif adulte                         |
 
 ### Autriche
 
-Avec les tarifs publics, les enfants de moins de 6 ans voyagent gratuitement. Les enfants jusqu’à 15 ans peuvent obtenir une réduction de 50% sur le tarif adulte. Les personnes à partir de 15 ans paient le tarif adulte.
+Avec les tarifs publics :
+
+| Âge                | Réduction                            |
+| ------------------ | ------------------------------------ |
+| 0–6 ans            | Gratuit                              |
+| 6–15 ans           | Réduction de 50% sur le tarif adulte |
+| à partir de 15 ans | Tarif adulte                         |
 
 ## Conditions tarifaires spéciales
 

@@ -125,7 +125,11 @@ L’achat à bord des navires n’est pas possible.
 
 ## Réductions
 
-Les enfants jusqu’à 4 ans voyagent gratuitement, les enfants de 4 à 16 ans bénéficient d’une réduction de 50 % sur le tarif adulte, à partir de 16 ans ils paient le tarif adulte. [^1]
+| Âge                | Réduction                                 |
+| ------------------ | ----------------------------------------- |
+| 0–4 ans            | Gratuit[^1]                               |
+| 4–16 ans           | Réduction de 50 % sur le tarif adulte[^1] |
+| à partir de 16 ans | Tarif adulte[^1]                          |
 
 {{% highlight tip %}}
 Stena Line et Irish Ferries proposent des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.

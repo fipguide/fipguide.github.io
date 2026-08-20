@@ -329,7 +329,14 @@ Si les suppléments ne sont pas achetés avant le voyage, un supplément à bord
 
 ## Réductions
 
-Les enfants jusqu’à 4 ans voyagent gratuitement au tarif public. Dans les trains régionaux, les enfants jusqu’à 12 ans bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 12 ans, le tarif adulte s’applique. Dans les trains longue distance, les enfants jusqu’à 15 ans bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 15 ans, le tarif adulte s’applique.
+Pour les tarifs publics, les réductions suivantes s’appliquent aux enfants :
+
+| Âge                | Réduction                                                                |
+| ------------------ | ------------------------------------------------------------------------ |
+| 0–4 ans            | Gratuit                                                                  |
+| 4–12 ans           | 50 % de remise (trains régionaux), tarif normal (trains longue distance) |
+| 12–15 ans          | 50 % de remise (trains régionaux et longue distance)                     |
+| à partir de 15 ans | Tarif normal                                                             |
 
 ## Conditions tarifaires spéciales
 

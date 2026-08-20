@@ -327,7 +327,14 @@ If supplements are not purchased before travel, an additional on-board surcharge
 
 ## Discounts
 
-Children up to 4 years old travel free on public fares. On regional trains, children up to 12 years receive a 50% discount on the adult fare. From 12 years, the regular adult fare applies. On long-distance trains, children up to 15 years receive a 50% discount on the adult fare. From 15 years, the regular adult fare applies.
+For public fares, the following child discounts apply:
+
+| Age           | Discount                                                             |
+| ------------- | -------------------------------------------------------------------- |
+| 0–4 years     | Free                                                                 |
+| 4–12 years    | 50% discount (regional trains), regular price (long-distance trains) |
+| 12–15 years   | 50% discount (regional and long-distance trains)                     |
+| from 15 years | Regular price                                                        |
 
 ## Special Tariff Conditions
 

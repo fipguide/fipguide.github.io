@@ -155,7 +155,11 @@ L’achat à bord des navires n’est pas possible.
 
 ## Réductions
 
-Les enfants jusqu’à 4 ans voyagent gratuitement, les enfants de 4 à 14 ans bénéficient d’une réduction de 50 % sur le tarif adulte, à partir de 14 ans ils paient le tarif adulte. [^2]
+| Âge                | Réduction                                 |
+| ------------------ | ----------------------------------------- |
+| 0–4 ans            | Gratuit[^2]                               |
+| 4–14 ans           | Réduction de 50 % sur le tarif adulte[^2] |
+| à partir de 14 ans | Tarif adulte[^2]                          |
 
 {{% highlight tip %}}
 Stena Line propose des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.

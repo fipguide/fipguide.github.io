@@ -299,7 +299,11 @@ L’achat de billets à bord du train est possible si vous contactez immédiatem
 
 ## Réductions
 
-Les enfants de moins de 6 ans voyagent gratuitement ; à partir de 6 ans, lors d’un voyage avec un Coupon FIP sur les trains grandes lignes, le [supplément](#validite-des-billets-fip) doit être payé pour chaque enfant.
+| Âge     | Réduction |
+| ------- | --------- |
+| 0–6 ans | Gratuit   |
+
+À partir de 6 ans, lors d’un voyage avec un Coupon FIP sur les trains grandes lignes, le [supplément](#validite-des-billets-fip) doit être payé pour chaque enfant.
 
 {{% highlight tip %}}
 La carte ÖBB Vorteilscard Family à 21 € est vite rentabilisée avec enfants. \

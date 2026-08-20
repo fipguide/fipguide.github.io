@@ -284,7 +284,11 @@ FIP-discounted tickets can only be purchased on the train if departure is from a
 
 ## Discounts
 
-Children up to and including 5 years of age travel free in 2nd class. Children between 6 and 18 years receive a 50% discount on the regular adult fare in 2nd class, which for trains with a FIP surcharge can be equivalent to the FIP 50 fare. From the age of 6, the regular FIP adult fare applies.[^3]
+| Age          | Discount                                                                                                                            |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 0–5 years    | Free in 2nd class[^3]                                                                                                               |
+| 6–18 years   | 50% discount on the regular adult fare in 2nd class, which for trains with a FIP surcharge can be equivalent to the FIP 50 fare[^3] |
+| from 6 years | Regular FIP adult fare[^3]                                                                                                          |
 
 ## Special Tariff Conditions
 

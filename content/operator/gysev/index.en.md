@@ -156,11 +156,23 @@ Discounts differ depending on the country in which you travel with GySEV.
 
 ### Hungary
 
-With public fares, children under 6 travel free of charge. Children up to 14 years can receive a 50% discount on the adult fare. Persons from 14 years pay the adult fare.
+With public fares:
+
+| Age           | Discount                       |
+| ------------- | ------------------------------ |
+| 0–6 years     | Free of charge                 |
+| 6–14 years    | 50% discount on the adult fare |
+| from 14 years | Adult fare                     |
 
 ### Austria
 
-With public fares, children under 6 travel free of charge. Children up to 15 years can receive a 50% discount on the adult fare. Persons from 15 years pay the adult fare.
+With public fares:
+
+| Age           | Discount                       |
+| ------------- | ------------------------------ |
+| 0–6 years     | Free of charge                 |
+| 6–15 years    | 50% discount on the adult fare |
+| from 15 years | Adult fare                     |
 
 ## Special Tariff Conditions
 

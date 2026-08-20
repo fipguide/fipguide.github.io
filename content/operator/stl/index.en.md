@@ -155,7 +155,11 @@ Purchase on board the ships is not possible.
 
 ## Discounts
 
-Children up to 4 years travel free of charge, children aged 4 to 14 are entitled to a 50% discount on the adult fare, from 14 years they pay the adult fare. [^2]
+| Age           | Discount                           |
+| ------------- | ---------------------------------- |
+| 0–4 years     | Free of charge[^2]                 |
+| 4–14 years    | 50% discount on the adult fare[^2] |
+| from 14 years | Adult fare[^2]                     |
 
 {{% highlight tip %}}
 Stena Line offers tickets that allow combined train and ferry travel at a reduced price. No additional FIP discount is available on these tickets.

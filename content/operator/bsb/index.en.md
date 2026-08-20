@@ -73,9 +73,16 @@ FIP 50 Tickets can be purchased on the ferry.
 
 ## Discounts
 
-Children up to and including 5 years of age travel free of charge. From the age of 6, the regular FIP adult fare applies.[^1]
+| Age          | Discount                   |
+| ------------ | -------------------------- |
+| 0–5 years    | Free of charge[^1]         |
+| from 6 years | Regular FIP adult fare[^1] |
+
+### Lake Constance Children's Card
 
 The _Lake Constance Children's Card_ (Bodensee-Kinderkarte) costs €10 per day and allows all children of a family between 6 and 15 years of age to travel, provided at least one parent holds a regular ticket and accompanies the journey. See the BSB website: [Lake Constance Children's Card](https://www.bsb.de/en/timetable/prices/interesting-offers).
+
+### Free Travel for Birthday Children
 
 All birthday children travel free of charge on their birthday in regular service upon presentation of their original ID card.
 The birthday ticket must be obtained at the sales points before departure.[^2]

@@ -175,7 +175,10 @@ FIP-discounted tickets cannot be purchased on the train. Reservations must also 
 
 ## Discounts
 
-Children up to and including 5 years of age travel free of charge. From the age of 5, the regular FIP adult fare applies.[^2]
+| Age          | Discount           |
+| ------------ | ------------------ |
+| 0–5 years    | Free of charge[^2] |
+| from 5 years | Regular price[^2]  |
 
 ## Special Tariff Conditions
 

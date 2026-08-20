@@ -138,7 +138,14 @@ Tickets für die Fahrt in der ersten Klasse bzw. Upgrades von der zweiten in die
 
 In der zweiten Klasse ist die Fahrt generell kostenfrei möglich.
 
-Kinder bis einschließlich 11 Jahre profitieren vom kostenlosen Transport in der 1. Klasse, wenn sie in Begleitung einer Person sind, die im Besitz eines für die 1. Klasse gültigen Tickets ist. Der kostenlose Transport ist in diesem Fall auf zwei Kinder beschränkt. Ab 12 Jahren gilt der reguläre FIP-Erwachsenentarif in der 1. Klasse.[^3]
+Für die 1. Klasse gelten folgende Ermäßigungen für Kinder:
+
+| Alter       | Ermäßigung                                                                                           |
+| ----------- | ---------------------------------------------------------------------------------------------------- |
+| 0–11 Jahre  | Kostenlos (in Begleitung einer Person mit gültigem 1. Klasse Ticket, auf zwei Kinder beschränkt)[^3] |
+| ab 12 Jahre | Regulärer FIP-Erwachsenentarif[^3]                                                                   |
+
+### Begleitung Von Kleinkindern
 
 Kinder, die das 4. Lebensjahr noch nicht erreicht haben, müssen von einer Person begleitet werden, die mindestens 12 Jahre alt ist.[^3]
 

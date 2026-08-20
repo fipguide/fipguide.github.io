@@ -111,8 +111,10 @@ Le jour du voyage, des réservations peuvent être effectuées sur place sous r�
 
 ## Réductions
 
-Les enfants jusqu’à 3 ans inclus n’occupant pas de lit, de couchette ou de siège inclinable paient seulement 6,00 € par traversée.
-Les enfants jusqu’à 3 ans inclus occupant un lit, une couchette ou un siège inclinable, et les personnes dès 4 ans, paient le tarif adulte FIP complet.[^3]
+| Âge               | Réduction                                                                                             |
+| ----------------- | ----------------------------------------------------------------------------------------------------- |
+| 0–3 ans           | 6,00 € par traversée, à condition de n’occuper ni lit, ni couchette, ni siège inclinable[^3]          |
+| à partir de 4 ans | Tarif normal (s’applique aussi aux 0–3 ans occupant un lit, une couchette ou un siège inclinable)[^3] |
 
 ## Conditions tarifaires spéciales
 

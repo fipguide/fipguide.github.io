@@ -278,7 +278,10 @@ FIP tickets cannot be purchased on board.
 
 ## Discounts
 
-Children up to and including 4 years of age travel free of charge. From the age of 5, the regular FIP adult fare applies.
+| Age          | Discount               |
+| ------------ | ---------------------- |
+| 0–4 years    | Free of charge         |
+| from 5 years | Regular FIP adult fare |
 
 ## Special Tariff Conditions
 

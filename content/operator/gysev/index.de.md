@@ -156,11 +156,23 @@ Die Ermäßigungen unterscheiden sich je nach Land, in dem man mit GySEV unterwe
 
 ### Ungarn
 
-Bei öffentlichen Tarifen fahren Kinder bis 6 Jahren kostenlos. Kinder bis 14 Jahre können 50% Ermäßigung auf den Erwachsenenfahrpreis erhalten. Personen ab 14 Jahre zahlen den Erwachsenenpreis.
+Bei öffentlichen Tarifen gilt:
+
+| Alter       | Ermäßigung                                  |
+| ----------- | ------------------------------------------- |
+| 0–6 Jahre   | Kostenlos                                   |
+| 6–14 Jahre  | 50% Ermäßigung auf den Erwachsenenfahrpreis |
+| ab 14 Jahre | Erwachsenenpreis                            |
 
 ### Österreich
 
-Bei öffentlichen Tarifen fahren Kinder bis 6 Jahren kostenlos. Kinder bis 15 Jahre können 50% Ermäßigung auf den Erwachsenenfahrpreis erhalten. Personen ab 15 Jahre zahlen den Erwachsenenpreis.
+Bei öffentlichen Tarifen gilt:
+
+| Alter       | Ermäßigung                                  |
+| ----------- | ------------------------------------------- |
+| 0–6 Jahre   | Kostenlos                                   |
+| 6–15 Jahre  | 50% Ermäßigung auf den Erwachsenenfahrpreis |
+| ab 15 Jahre | Erwachsenenpreis                            |
 
 ## Tarifliche Besonderheiten
 

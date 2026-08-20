@@ -284,7 +284,11 @@ Les billets à tarif réduit FIP ne peuvent être achetés à bord que si le dé
 
 ## Réductions
 
-Les enfants jusqu’à 5 ans inclus voyagent gratuitement en 2ᵉ classe. Les enfants entre 6 et 18 ans bénéficient d’une réduction de 50 % sur le tarif adulte régulier en 2ᵉ classe, qui pour les trains avec supplément FIP peut être équivalent au tarif FIP 50. À partir de 6 ans, le tarif adulte FIP normal s’applique.[^3]
+| Âge               | Réduction                                                                                                                                     |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0–5 ans           | Gratuit en 2ᵉ classe[^3]                                                                                                                      |
+| 6–18 ans          | Réduction de 50 % sur le tarif adulte régulier en 2ᵉ classe, qui pour les trains avec supplément FIP peut être équivalent au tarif FIP 50[^3] |
+| à partir de 6 ans | Tarif adulte FIP normal[^3]                                                                                                                   |
 
 ## Conditions tarifaires spéciales
 

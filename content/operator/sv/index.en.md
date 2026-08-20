@@ -162,7 +162,10 @@ Currently, however, a shuttle bus between Novi Sad and Petrovaradin can be used 
 
 ## Discounts
 
-In domestic traffic as well as long-distance traffic to Montenegro, children up to and including six years travel free of charge, provided they do not require their own seat and are accompanied by an adult with a valid ticket. Children between six and 14 years as well as younger children for whom their own seat is required receive a 50% discount on the regular adult fare.[^7]
+| Age        | Discount                                                                 |
+| ---------- | ------------------------------------------------------------------------ |
+| 0–6 years  | Free (without own seat, accompanied by an adult with a valid ticket)[^7] |
+| 6–14 years | 50% discount[^7]                                                         |
 
 ## Special Tariff Conditions
 
