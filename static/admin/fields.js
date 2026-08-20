@@ -46,7 +46,41 @@
     );
   }
 
-  CMS.registerWidget("cms-edit-link", CmsEditLinkControl, CmsEditLinkControl);
+  CMS.registerFieldType(
+    "cms-edit-link",
+    CmsEditLinkControl,
+    CmsEditLinkControl,
+  );
+
+  function CmsNumberWithUsageControl(props) {
+    var field = props.field;
+    var template = field.get("template");
+    var value = props.value;
+
+    var text = template.replace(/\{value\}/g, String(value ?? ""));
+
+    return h(
+      "div",
+      {},
+      h("input", {
+        id: props.forID,
+        className: props.classNameWrapper,
+        type: "number",
+        value: value ?? "",
+        onChange: function (event) {
+          var raw = event.target.value;
+          props.onChange(raw === "" ? undefined : Number(raw));
+        },
+      }),
+      h("p", { className: "o-cms-display__info" }, text),
+    );
+  }
+
+  CMS.registerFieldType(
+    "cms-number-with-usage",
+    CmsNumberWithUsageControl,
+    CmsNumberWithUsageControl,
+  );
 
   CMS.registerEventListener({
     name: "preSave",

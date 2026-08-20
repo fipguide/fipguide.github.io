@@ -1016,8 +1016,9 @@
     {
       name: "id",
       label: "Number",
-      widget: "number",
-      value_type: "int",
+      widget: "cms-number-with-usage",
+      template:
+        "You can use this footnote by writing out [^{value}] in the text editor.",
       param: { required: true },
     },
     {
@@ -1041,8 +1042,9 @@
     pattern: /^\[\^([^\]]+)\]: \[([^\]]*)\]\(([^)]*)\)$/,
     fromBlock: function (match) {
       var num = Number(match[1]);
+      var id = Number.isNaN(num) ? match[1] : num;
       return {
-        id: Number.isNaN(num) ? match[1] : num,
+        id: id,
         name: String(match[2] || ""),
         link: String(match[3] || ""),
       };
