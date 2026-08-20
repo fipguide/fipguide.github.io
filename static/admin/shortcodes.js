@@ -1012,6 +1012,57 @@
     },
   ];
 
+  var footnoteFields = [
+    {
+      name: "id",
+      label: "Number",
+      widget: "number",
+      value_type: "int",
+      param: { required: true },
+    },
+    {
+      name: "name",
+      label: "Source Name",
+      widget: "string",
+      param: { required: true },
+    },
+    {
+      name: "link",
+      label: "Link",
+      widget: "string",
+      param: { required: true },
+    },
+  ];
+
+  CMS.registerEditorComponent({
+    id: "footnote",
+    label: "Footnote",
+    fields: footnoteFields,
+    pattern: /^\[\^([^\]]+)\]: \[([^\]]*)\]\(([^)]*)\)$/,
+    fromBlock: function (match) {
+      var num = Number(match[1]);
+      return {
+        id: Number.isNaN(num) ? match[1] : num,
+        name: String(match[2] || ""),
+        link: String(match[3] || ""),
+      };
+    },
+    toBlock: function (data) {
+      return (
+        "[^" +
+        (data.id ?? "") +
+        "]: [" +
+        (data.name || "") +
+        "](" +
+        (data.link || "") +
+        ")"
+      );
+    },
+    toPreview: function () {
+      return "";
+    },
+  });
+
   CMS.registerEditorComponent({
     id: "fip-validity-table",
     label: "FIP Validity Table",
