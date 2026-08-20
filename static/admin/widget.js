@@ -22,18 +22,23 @@
         {
           href: href,
           onClick: function (event) {
+            event.preventDefault();
             if (
-              event.button !== 0 ||
               event.metaKey ||
               event.ctrlKey ||
               event.shiftKey ||
-              event.altKey
+              event.button === 1
             ) {
+              window.open(href, "_blank");
               return;
             }
-            event.preventDefault();
             window.location.hash = href;
-            window.location.reload();
+          },
+          onAuxClick: function (event) {
+            event.preventDefault();
+            if (event.button === 1) {
+              window.open(href, "_blank");
+            }
           },
         },
         label,

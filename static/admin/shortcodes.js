@@ -1005,7 +1005,7 @@
         );
         return match ? match[1] : "";
       },
-      href: "#/collections/fip-validity/entries/{value}/validity",
+      href: "#/collections/fip-validity/entries/{value}",
       label_template:
         "Edit the FIP Validity Table for \u201c{value}\u201d \u2192",
       empty_hint: "Save this page first to link its FIP Validity Table.",
