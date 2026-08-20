@@ -121,10 +121,12 @@ FIP-discounted tickets can only be purchased on board if departing from a statio
 
 ## Discounts
 
-| Age          | Discount           |
-| ------------ | ------------------ |
-| 0–6 years    | Free of charge[^2] |
-| from 7 years | Regular price[^2]  |
+{{< children-discount >}}
+
+| Age                                 | Discount           |
+| ----------------------------------- | ------------------ |
+| {{< icon "child_care" >}} 0–6 years | Free of charge[^2] |
+| {{< icon "person" >}} from 7 years  | Regular price[^2]  |
 
 ## Special Tariff Conditions
 

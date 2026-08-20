@@ -265,11 +265,13 @@ FIP Discounts cannot be purchased on the train.
 
 ## Discounts
 
-| Age           | Discount                                                  |
-| ------------- | --------------------------------------------------------- |
-| 0–6 years     | Free of charge[^2]                                        |
-| 6–17 years    | 75% discount on Single ticket and Flex Refundable[^2][^4] |
-| from 18 years | Regular FIP adult fare[^2]                                |
+{{< children-discount >}}
+
+| Age                                  | Discount                                                  |
+| ------------------------------------ | --------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–5 years  | Free of charge[^2]                                        |
+| {{< icon "child_care" >}} 6–17 years | 75% discount on Single ticket and Flex Refundable[^2][^4] |
+| {{< icon "person" >}} from 18 years  | Regular price[^2]                                         |
 
 {{% highlight tip %}}
 The 75% discount for children from 6 through 17 years old on Single ticket and Flex Refundable makes it cheaper than the FIP fare for children.

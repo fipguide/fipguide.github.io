@@ -73,10 +73,12 @@ FIP 50 Tickets can be purchased on the ferry.
 
 ## Discounts
 
-| Age          | Discount                   |
-| ------------ | -------------------------- |
-| 0–5 years    | Free of charge[^1]         |
-| from 6 years | Regular FIP adult fare[^1] |
+{{< children-discount >}}
+
+| Age                                 | Discount           |
+| ----------------------------------- | ------------------ |
+| {{< icon "child_care" >}} 0–5 years | Free of charge[^1] |
+| {{< icon "person" >}} from 6 years  | Regular price[^1]  |
 
 ### Lake Constance Children's Card
 

@@ -194,10 +194,12 @@ Tickets müssen vor dem Betreten des Zuges gekauft werden. Ein Verkauf von Ticke
 
 ## Ermäßigungen
 
-| Alter      | Ermäßigung                                                              |
-| ---------- | ----------------------------------------------------------------------- |
-| 0–4 Jahre  | Kostenlos (ohne eigenen Sitzplatz, auf dem Schoß eines Erwachsenen)[^1] |
-| ab 4 Jahre | Regulärer FIP-Erwachsenenpreis[^1]                                      |
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung                                                              |
+| ----------------------------------- | ----------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–4 Jahre | Kostenlos (ohne eigenen Sitzplatz, auf dem Schoß eines Erwachsenen)[^1] |
+| {{< icon "person" >}} ab 4 Jahre    | Regulärer Preis[^1]                                                     |
 
 Ein eigenes Ticket kann für Kinder unter 4 Jahren erworben werden, wenn ein eigener Sitzplatz gewünscht ist.[^1]
 

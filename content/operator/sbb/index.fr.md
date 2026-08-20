@@ -220,10 +220,12 @@ Les Billets FIP ne peuvent pas être achetés à bord du train. Un supplément e
 
 ## Réductions
 
-| Âge               | Réduction    |
-| ----------------- | ------------ |
-| 0–5 ans           | Gratuit      |
-| à partir de 6 ans | Tarif normal |
+{{< children-discount >}}
+
+| Âge                                     | Réduction    |
+| --------------------------------------- | ------------ |
+| {{< icon "child_care" >}} 0–5 ans       | Gratuit      |
+| {{< icon "person" >}} à partir de 6 ans | Tarif normal |
 
 ### Carte Junior CFF (sans FIP)
 

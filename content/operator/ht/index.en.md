@@ -129,11 +129,13 @@ If you start your journey at a station where the ticket office is unstaffed, tic
 
 ## Discounts
 
-| Age           | Discount                           |
-| ------------- | ---------------------------------- |
-| 0–4 years     | Free of charge[^1]                 |
-| 4–12 years    | 50% discount on the adult fare[^1] |
-| from 12 years | Regular adult fare[^1]             |
+{{< children-discount >}}
+
+| Age                                  | Discount                           |
+| ------------------------------------ | ---------------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free of charge[^1]                 |
+| {{< icon "child_care" >}} 4–11 years | 50% discount on the adult fare[^1] |
+| {{< icon "person" >}} from 12 years  | Regular price[^1]                  |
 
 ## Special Tariff Conditions
 

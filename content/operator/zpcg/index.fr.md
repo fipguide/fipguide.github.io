@@ -108,13 +108,15 @@ Des billets avec réduction FIP peuvent être achetés à bord du train. Un supp
 
 ## Réductions
 
+{{< children-discount >}}
+
 Pour les tarifs publics, les réductions suivantes s’appliquent aux enfants :
 
-| Âge                | Réduction      |
-| ------------------ | -------------- |
-| 0–6 ans            | Gratuit        |
-| 6–14 ans           | 50 % de remise |
-| à partir de 14 ans | Tarif normal   |
+| Âge                                      | Réduction      |
+| ---------------------------------------- | -------------- |
+| {{< icon "child_care" >}} 0–5 ans        | Gratuit        |
+| {{< icon "child_care" >}} 6–13 ans       | 50 % de remise |
+| {{< icon "person" >}} à partir de 14 ans | Tarif normal   |
 
 [^2]
 

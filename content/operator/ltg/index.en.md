@@ -71,12 +71,14 @@ The ticket machines now installed at many stations do not issue FIP tickets (as 
 
 ## Discounts
 
-| Age                                          | Discount                                    |
-| -------------------------------------------- | ------------------------------------------- |
-| 0–7 years (max. 2 children without own seat) | Free of charge (2nd class, on parent's lap) |
-| 0–7 years (with own seat)                    | 50% discount on the adult fare              |
-| 7–18 years (or up to 23 years as a student)  | 50% discount on the adult fare              |
-| from 18 years                                | Regular adult fare                          |
+{{< children-discount >}}
+
+| Age                                                                    | Discount                                    |
+| ---------------------------------------------------------------------- | ------------------------------------------- |
+| {{< icon "child_care" >}} 0–7 years (max. 2 children without own seat) | Free of charge (2nd class, on parent's lap) |
+| {{< icon "child_care" >}} 0–7 years (with own seat)                    | 50% discount on the adult fare              |
+| {{< icon "child_care" >}} 8–17 years (or up to 23 years as a student)  | 50% discount on the adult fare              |
+| {{< icon "person" >}} from 18 years                                    | Regular price                               |
 
 ### Further Discounts
 

@@ -278,10 +278,12 @@ FIP tickets cannot be purchased on board.
 
 ## Discounts
 
-| Age          | Discount               |
-| ------------ | ---------------------- |
-| 0–4 years    | Free of charge         |
-| from 5 years | Regular FIP adult fare |
+{{< children-discount >}}
+
+| Age                                 | Discount       |
+| ----------------------------------- | -------------- |
+| {{< icon "child_care" >}} 0–4 years | Free of charge |
+| {{< icon "person" >}} from 5 years  | Regular price  |
 
 ## Special Tariff Conditions
 

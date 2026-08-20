@@ -101,13 +101,15 @@ FIP 50 Fahrkarten können auch direkt im Zug erworben werden. Dafür muss direkt
 
 ## Ermäßigungen
 
+{{< children-discount >}}
+
 Für reguläre Fahrkarten gelten folgende Ermäßigungen für Kinder:
 
-| Alter       | Ermäßigung      |
-| ----------- | --------------- |
-| 0–4 Jahre   | Kostenlos       |
-| 4–11 Jahre  | 50 % Rabatt     |
-| ab 12 Jahre | Regulärer Preis |
+| Alter                                | Ermäßigung      |
+| ------------------------------------ | --------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos       |
+| {{< icon "child_care" >}} 4–11 Jahre | 50 % Rabatt     |
+| {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis |
 
 [^1]
 

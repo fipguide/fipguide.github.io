@@ -161,10 +161,12 @@ If no CP sales office is available at the origin station or it is not staffed mo
 
 ## Discounts
 
-| Age          | Discount                   |
-| ------------ | -------------------------- |
-| 0–3 years    | Free without own seat[^1]  |
-| from 4 years | Regular FIP adult fare[^1] |
+{{< children-discount >}}
+
+| Age                                | Discount                  |
+| ---------------------------------- | ------------------------- |
+| {{< icon "stroller" >}} 0–3 years  | Free without own seat[^1] |
+| {{< icon "person" >}} from 4 years | Regular price[^1]         |
 
 ## Special Tariff Conditions
 

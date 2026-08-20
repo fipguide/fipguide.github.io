@@ -242,11 +242,13 @@ FIP 50 Tickets können nicht im Zug gekauft werden. [^1]
 
 ## Ermäßigungen
 
-| Alter       | Ermäßigung                                                                                 |
-| ----------- | ------------------------------------------------------------------------------------------ |
-| 0–3 Jahre   | Kostenlos                                                                                  |
-| 4–11 Jahre  | [Railrunner-Ticket](https://www.ns.nl/en/tickets/railrunner) für 2,50 € (ganztägig gültig) |
-| ab 12 Jahre | Regulärer FIP Erwachsenentarif                                                             |
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                                                                                 |
+| ------------------------------------ | ------------------------------------------------------------------------------------------ |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos                                                                                  |
+| {{< icon "child_care" >}} 4–11 Jahre | [Railrunner-Ticket](https://www.ns.nl/en/tickets/railrunner) für 2,50 € (ganztägig gültig) |
+| {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis                                                                            |
 
 ### Kostenfreie Zeitkarte „Kids Vrij" (ohne FIP)
 

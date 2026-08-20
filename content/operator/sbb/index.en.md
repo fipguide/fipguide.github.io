@@ -220,10 +220,12 @@ FIP Tickets cannot be purchased on the train. A penalty fee is charged for passe
 
 ## Discounts
 
-| Age          | Discount      |
-| ------------ | ------------- |
-| 0–5 years    | Free          |
-| from 6 years | Regular price |
+{{< children-discount >}}
+
+| Age                                 | Discount      |
+| ----------------------------------- | ------------- |
+| {{< icon "child_care" >}} 0–5 years | Free          |
+| {{< icon "person" >}} from 6 years  | Regular price |
 
 ### SBB Junior Travelcard (without FIP)
 

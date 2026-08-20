@@ -247,11 +247,13 @@ Tickets für internationale `AVE` Züge können bei Zustieg in Frankreich im Zug
 
 ## Ermäßigungen
 
-| Alter       | Ermäßigung                         |
-| ----------- | ---------------------------------- |
-| 0–4 Jahre   | Kostenlos (ohne eigenen Sitzplatz) |
-| 4–12 Jahre  | 40 % Ermäßigung                    |
-| ab 12 Jahre | Regulärer Preis                    |
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                         |
+| ------------------------------------ | ---------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos (ohne eigenen Sitzplatz) |
+| {{< icon "child_care" >}} 4–11 Jahre | 40 % Ermäßigung                    |
+| {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis                    |
 
 ## Tarifliche Besonderheiten
 

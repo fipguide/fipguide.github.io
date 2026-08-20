@@ -97,11 +97,13 @@ FIP 50 Tickets can also be purchased directly on the train. To do this, you must
 
 ## Discounts
 
-| Age           | Discount          |
-| ------------- | ----------------- |
-| 0–4 years     | Free[^1]          |
-| 4–11 years    | 50% discount[^1]  |
-| from 12 years | Regular price[^1] |
+{{< children-discount >}}
+
+| Age                                  | Discount          |
+| ------------------------------------ | ----------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free[^1]          |
+| {{< icon "child_care" >}} 4–11 years | 50% discount[^1]  |
+| {{< icon "person" >}} from 12 years  | Regular price[^1] |
 
 {{% highlight tip %}}
 Regardless of FIP, a special weekend ticket is available for Lower Silesia, allowing all regional trains to be used from Friday 18:00 to Monday 06:00. More information on the [KD website](https://kolejedolnoslaskie.pl/oferty-taryfowe/dolnoslaski-bilet-weekendowy/).

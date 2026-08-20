@@ -326,10 +326,12 @@ Lors de l'achat de billets à tarif réduit FIP ou lors d'un changement de class
 
 ## Réductions
 
-| Âge                | Réduction                     |
-| ------------------ | ----------------------------- |
-| 0–13 ans           | Gratuit[^2]                   |
-| à partir de 14 ans | Tarif adulte FIP régulier[^2] |
+{{< children-discount >}}
+
+| Âge                                      | Réduction        |
+| ---------------------------------------- | ---------------- |
+| {{< icon "child_care" >}} 0–13 ans       | Gratuit[^2]      |
+| {{< icon "person" >}} à partir de 14 ans | Tarif normal[^2] |
 
 ### Accompagnement des enfants lors de voyages internationaux
 

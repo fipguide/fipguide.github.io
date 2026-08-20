@@ -108,13 +108,15 @@ FIP-ermäßigte Fahrkarten können im Zug gekauft werden. Es fällt ein Aufpreis
 
 ## Ermäßigungen
 
+{{< children-discount >}}
+
 Bei öffentlichen Tarifen gelten folgende Ermäßigungen für Kinder:
 
-| Alter       | Ermäßigung      |
-| ----------- | --------------- |
-| 0–6 Jahre   | Kostenlos       |
-| 6–14 Jahre  | 50 % Rabatt     |
-| ab 14 Jahre | Regulärer Preis |
+| Alter                                | Ermäßigung      |
+| ------------------------------------ | --------------- |
+| {{< icon "child_care" >}} 0–5 Jahre  | Kostenlos       |
+| {{< icon "child_care" >}} 6–13 Jahre | 50 % Rabatt     |
+| {{< icon "person" >}} ab 14 Jahre    | Regulärer Preis |
 
 [^2]
 

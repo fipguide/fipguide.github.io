@@ -111,10 +111,12 @@ Am Tag der Reise können vor Ort Buchungen vorgenommen werden, je nach Verfügba
 
 ## Ermäßigungen
 
-| Alter      | Ermäßigung                                                                                                       |
-| ---------- | ---------------------------------------------------------------------------------------------------------------- |
-| 0–3 Jahre  | €6,00 pro Überfahrt, sofern kein eigenes Bett, keine eigene Liege oder kein eigener Schlafsessel belegt wird[^3] |
-| ab 4 Jahre | Regulärer Preis (gilt auch für 0–3-Jährige mit eigenem Bett, eigener Liege oder eigenem Schlafsessel)[^3]        |
+{{< children-discount >}}
+
+| Alter                             | Ermäßigung                                                                                                       |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre | €6,00 pro Überfahrt, sofern kein eigenes Bett, keine eigene Liege oder kein eigener Schlafsessel belegt wird[^3] |
+| {{< icon "person" >}} ab 4 Jahre  | Regulärer Preis (gilt auch für 0–3-Jährige mit eigenem Bett, eigener Liege oder eigenem Schlafsessel)[^3]        |
 
 ## Tarifliche Besonderheiten
 

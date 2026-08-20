@@ -135,14 +135,16 @@ Les billets pour voyager en première classe ou pour un surclassement de la deux
 
 ## Réductions
 
+{{< children-discount >}}
+
 En deuxième classe, le voyage est généralement gratuit.
 
 Pour la 1ᵉ classe, les réductions suivantes s’appliquent aux enfants :
 
-| Âge                | Réduction                                                                                                      |
-| ------------------ | -------------------------------------------------------------------------------------------------------------- |
-| 0–11 ans           | Gratuit (accompagné d’une personne titulaire d’un billet valable pour la 1ᵉ classe, limité à deux enfants)[^3] |
-| à partir de 12 ans | Tarif adulte FIP normal[^3]                                                                                    |
+| Âge                                      | Réduction                                                                                                      |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–11 ans       | Gratuit (accompagné d’une personne titulaire d’un billet valable pour la 1ᵉ classe, limité à deux enfants)[^3] |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal[^3]                                                                                               |
 
 ### Accompagnement Des Jeunes Enfants
 

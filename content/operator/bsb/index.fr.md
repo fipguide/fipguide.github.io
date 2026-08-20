@@ -73,10 +73,12 @@ Les Billets FIP 50 peuvent être achetés à bord du ferry.
 
 ## Réductions
 
-| Âge               | Réduction                   |
-| ----------------- | --------------------------- |
-| 0–5 ans           | Gratuit[^1]                 |
-| à partir de 6 ans | Tarif adulte FIP normal[^1] |
+{{< children-discount >}}
+
+| Âge                                     | Réduction        |
+| --------------------------------------- | ---------------- |
+| {{< icon "child_care" >}} 0–5 ans       | Gratuit[^1]      |
+| {{< icon "person" >}} à partir de 6 ans | Tarif normal[^1] |
 
 ### Carte enfance Lac de Constance
 

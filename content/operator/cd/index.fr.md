@@ -284,11 +284,13 @@ Les billets à tarif réduit FIP ne peuvent être achetés à bord que si le dé
 
 ## Réductions
 
-| Âge               | Réduction                                                                                                                                     |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0–5 ans           | Gratuit en 2ᵉ classe[^3]                                                                                                                      |
-| 6–18 ans          | Réduction de 50 % sur le tarif adulte régulier en 2ᵉ classe, qui pour les trains avec supplément FIP peut être équivalent au tarif FIP 50[^3] |
-| à partir de 6 ans | Tarif adulte FIP normal[^3]                                                                                                                   |
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                                                                                                                         |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–5 ans        | Gratuit en 2ᵉ classe[^3]                                                                                                                          |
+| {{< icon "child_care" >}} 6–17 ans       | Réduction de 50 % sur le tarif adulte régulier en 2ᵉ classe, qui pour les trains avec supplément FIP peut être équivalent au tarif FIP 50[^3][^4] |
+| {{< icon "person" >}} à partir de 18 ans | Tarif normal[^3]                                                                                                                                  |
 
 ## Conditions tarifaires spéciales
 
@@ -731,3 +733,5 @@ Les salons ČD de Praha hl. n., Olomouc hl. n., Břeclav et Brno hl. n. peuvent 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 
 [^3]: [Feedback: ČD reservations and commercial service](https://github.com/fipguide/fipguide.github.io/issues/467)
+
+[^4]: [ČD – Billets nationaux](https://www.cd.cz/en/typy-jizdenek/vnitrostatni-jizdenky/-28162/)

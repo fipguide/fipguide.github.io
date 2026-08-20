@@ -71,12 +71,14 @@ Die inzwischen an vielen Stationen aufgestellten Fahrkartenautomaten geben keine
 
 ## Ermäßigungen
 
-| Alter                                            | Ermäßigung                                      |
-| ------------------------------------------------ | ----------------------------------------------- |
-| 0–7 Jahre (max. 2 Kinder ohne eigenen Sitzplatz) | Kostenlos (2. Klasse, auf dem Schoß der Eltern) |
-| 0–7 Jahre (mit eigenem Sitzplatz)                | 50% Ermäßigung auf den Erwachsenentarif         |
-| 7–18 Jahre (bzw. bis 23 Jahre als Schüler:in)    | 50% Ermäßigung auf den Erwachsenentarif         |
-| ab 18 Jahre                                      | Regulärer Erwachsenentarif                      |
+{{< children-discount >}}
+
+| Alter                                                                      | Ermäßigung                                      |
+| -------------------------------------------------------------------------- | ----------------------------------------------- |
+| {{< icon "child_care" >}} 0–7 Jahre (max. 2 Kinder ohne eigenen Sitzplatz) | Kostenlos (2. Klasse, auf dem Schoß der Eltern) |
+| {{< icon "child_care" >}} 0–7 Jahre (mit eigenem Sitzplatz)                | 50% Ermäßigung auf den Erwachsenentarif         |
+| {{< icon "child_care" >}} 8–17 Jahre (bzw. bis 23 Jahre als Schüler:in)    | 50% Ermäßigung auf den Erwachsenentarif         |
+| {{< icon "person" >}} ab 18 Jahre                                          | Regulärer Preis                                 |
 
 ### Weitere Ermäßigungen
 

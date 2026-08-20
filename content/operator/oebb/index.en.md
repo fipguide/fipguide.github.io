@@ -299,9 +299,11 @@ Tickets can be purchased on board if you immediately contact the conductor. Howe
 
 ## Discounts
 
-| Age       | Discount       |
-| --------- | -------------- |
-| 0–6 years | Free of charge |
+{{< children-discount >}}
+
+| Age                                 | Discount       |
+| ----------------------------------- | -------------- |
+| {{< icon "child_care" >}} 0–6 years | Free of charge |
 
 From the age of 6, when traveling with a FIP Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
 

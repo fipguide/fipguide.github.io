@@ -175,10 +175,12 @@ Il n’est pas possible d’acheter des billets à tarif réduit FIP à bord du 
 
 ## Réductions
 
-| Âge               | Réduction        |
-| ----------------- | ---------------- |
-| 0–5 ans           | Gratuit[^2]      |
-| à partir de 5 ans | Tarif normal[^2] |
+{{< children-discount >}}
+
+| Âge                                     | Réduction        |
+| --------------------------------------- | ---------------- |
+| {{< icon "child_care" >}} 0–4 ans       | Gratuit[^2]      |
+| {{< icon "person" >}} à partir de 5 ans | Tarif normal[^2] |
 
 ## Conditions tarifaires spéciales
 

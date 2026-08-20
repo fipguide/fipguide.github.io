@@ -155,11 +155,14 @@ L’achat à bord des navires n’est pas possible.
 
 ## Réductions
 
-| Âge                | Réduction                                 |
-| ------------------ | ----------------------------------------- |
-| 0–4 ans            | Gratuit[^2]                               |
-| 4–14 ans           | Réduction de 50 % sur le tarif adulte[^2] |
-| à partir de 14 ans | Tarif adulte[^2]                          |
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                 |
+| ---------------------------------------- | ----------------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit[^5]                               |
+| {{< icon "child_care" >}} 4–15 ans       | Réduction de 50 % sur le tarif adulte[^2] |
+| {{< icon "person" >}} à partir de 16 ans | Tarif normal[^2]                          |
+| {{< icon "person" >}} à partir de 14 ans | Tarif normal[^2]                          |
 
 {{% highlight tip %}}
 Stena Line propose des billets permettant un voyage combiné train et ferry à prix réduit. Aucun rabais FIP supplémentaire n’est accordé sur ces billets.
@@ -197,3 +200,5 @@ Stena Line offre une excellente possibilité d’arriver à Londres avant 10h si
 [^3]: [Site Web Stena Line](https://www.stenaline.de/routen/hoek-van-holland-harwich)
 
 [^4]: [Demande par e-mail de l’équipe FIP Guide à Stena Line](https://github.com/fipguide/fipguide.github.io/issues/528)
+
+[^5]: [Stena Line – Groupes d’âge](https://www.stenaline.de/kundenservice/buchung/welche-altersgruppen-gibt-es-bei-stena-line)

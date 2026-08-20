@@ -207,6 +207,8 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 ## Réductions
 
+{{< children-discount >}}
+
 Jusqu’à quatre enfants de moins de 12 ans voyagent gratuitement lorsqu’ils sont accompagnés d’un adulte (une personne de 12 ans ou plus en possession d’un titre de transport valable) et n’ont pas besoin de billet. Si tous les enfants appartiennent au même ménage, plus de quatre enfants peuvent voyager gratuitement. Un document officiel valide (carte d’identité ou passeport) attestant l’âge de l’enfant est requis pour le voyage. Si un enfant voyage seul ou si la limite de quatre enfants gratuits par adulte est dépassée, un billet au tarif Youth doit être acheté, celui-ci étant 40 % moins cher que le tarif standard. Si les enfants sont éligibles FIP, ils bénéficient d’une réduction de 50 % sur le tarif standard avec le Billet FIP 50 / FIP 75. [^3]
 
 ## Conditions tarifaires spéciales

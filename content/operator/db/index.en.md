@@ -328,10 +328,12 @@ FIP 50 Tickets cannot be purchased on the train.
 
 ## Discounts
 
-| Age          | Discount               |
-| ------------ | ---------------------- |
-| 0–5 years    | Free                   |
-| from 6 years | Regular FIP adult fare |
+{{< children-discount >}}
+
+| Age                                 | Discount      |
+| ----------------------------------- | ------------- |
+| {{< icon "child_care" >}} 0–5 years | Free          |
+| {{< icon "person" >}} from 6 years  | Regular price |
 
 ### Children Traveling Free
 

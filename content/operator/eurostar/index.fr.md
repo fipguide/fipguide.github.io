@@ -194,10 +194,12 @@ Impossible d’acheter un billet à bord. Achat préalable obligatoire.
 
 ## Réductions
 
-| Âge               | Réduction                                                          |
-| ----------------- | ------------------------------------------------------------------ |
-| 0–4 ans           | Gratuit (sans place assise propre, sur les genoux d’un adulte)[^1] |
-| à partir de 4 ans | Tarif adulte FIP complet[^1]                                       |
+{{< children-discount >}}
+
+| Âge                                     | Réduction                                                          |
+| --------------------------------------- | ------------------------------------------------------------------ |
+| {{< icon "child_care" >}} 0–4 ans       | Gratuit (sans place assise propre, sur les genoux d’un adulte)[^1] |
+| {{< icon "person" >}} à partir de 4 ans | Tarif normal[^1]                                                   |
 
 Un billet séparé peut être acheté pour les enfants de moins de 4 ans si une place séparée est souhaitée.[^1]
 

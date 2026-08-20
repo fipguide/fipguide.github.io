@@ -136,14 +136,16 @@ Tickets for first class travel or upgrades from second to first class must be pu
 
 ## Discounts
 
+{{< children-discount >}}
+
 Travel in second class is generally free of charge.
 
 For 1st class, the following child discounts apply:
 
-| Age           | Discount                                                                                          |
-| ------------- | ------------------------------------------------------------------------------------------------- |
-| 0–11 years    | Free (when accompanied by a person holding a valid 1st class ticket, limited to two children)[^3] |
-| from 12 years | Regular FIP adult fare[^3]                                                                        |
+| Age                                  | Discount                                                                                          |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–11 years | Free (when accompanied by a person holding a valid 1st class ticket, limited to two children)[^3] |
+| {{< icon "person" >}} from 12 years  | Regular price[^3]                                                                                 |
 
 ### Accompaniment of Young Children
 

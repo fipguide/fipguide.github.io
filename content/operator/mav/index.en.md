@@ -326,10 +326,12 @@ When purchasing FIP-discounted tickets or when changing class from 2nd to 1st cl
 
 ## Discounts
 
-| Age           | Discount                   |
-| ------------- | -------------------------- |
-| 0–13 years    | Free of charge[^2]         |
-| from 14 years | Regular FIP adult fare[^2] |
+{{< children-discount >}}
+
+| Age                                  | Discount           |
+| ------------------------------------ | ------------------ |
+| {{< icon "child_care" >}} 0–13 years | Free of charge[^2] |
+| {{< icon "person" >}} from 14 years  | Regular price[^2]  |
 
 ### Accompaniment of Children on International Journeys
 

@@ -136,14 +136,16 @@ Tickets für die Fahrt in der ersten Klasse bzw. Upgrades von der zweiten in die
 
 ## Ermäßigungen
 
+{{< children-discount >}}
+
 In der zweiten Klasse ist die Fahrt generell kostenfrei möglich.
 
 Für die 1. Klasse gelten folgende Ermäßigungen für Kinder:
 
-| Alter       | Ermäßigung                                                                                           |
-| ----------- | ---------------------------------------------------------------------------------------------------- |
-| 0–11 Jahre  | Kostenlos (in Begleitung einer Person mit gültigem 1. Klasse Ticket, auf zwei Kinder beschränkt)[^3] |
-| ab 12 Jahre | Regulärer FIP-Erwachsenentarif[^3]                                                                   |
+| Alter                                | Ermäßigung                                                                                           |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–11 Jahre | Kostenlos (in Begleitung einer Person mit gültigem 1. Klasse Ticket, auf zwei Kinder beschränkt)[^3] |
+| {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis[^3]                                                                                  |
 
 ### Begleitung Von Kleinkindern
 

@@ -85,11 +85,13 @@ FIP 50 Fahrkarten können auch direkt im Zug erworben werden. Dafür muss direkt
 
 ## Ermäßigungen
 
-| Alter       | Ermäßigung                                  |
-| ----------- | ------------------------------------------- |
-| 0–4 Jahre   | Kostenlos[^1]                               |
-| 4–26 Jahre  | 20% Ermäßigung auf den Erwachsenentarif[^1] |
-| ab 26 Jahre | Erwachsenentarif[^1]                        |
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                                  |
+| ------------------------------------ | ------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos[^1]                               |
+| {{< icon "child_care" >}} 4–25 Jahre | 20% Ermäßigung auf den Erwachsenentarif[^1] |
+| {{< icon "person" >}} ab 26 Jahre    | Regulärer Preis[^1]                         |
 
 ## Tarifliche Besonderheiten
 

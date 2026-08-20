@@ -197,9 +197,11 @@ Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges 
 
 ## Ermäßigungen
 
-| Alter     | Ermäßigung    |
-| --------- | ------------- |
-| 0–6 Jahre | Kostenlos[^1] |
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung    |
+| ----------------------------------- | ------------- |
+| {{< icon "child_care" >}} 0–6 Jahre | Kostenlos[^1] |
 
 Voraussetzung ist, dass die Kinder von einer Person im Alter von mindestens 16 Jahren begleitet werden. In der 1. Klasse ist dies auf 2 Kinder beschränkt, ab dem 3. Kind werden 50% des Ticketpreises fällig. In `EC` Zügen kommen ab dem 3. Kind in der 1. Klasse 1 € Aufschlag pro Kind dazu. In `SC` Zügen werden pro Kind immer 1 € in der 2. Klasse und 3 € in der 1. Klasse fällig. In `IC` Zügen muss pro Kind eine Reservierung inkl. Zuschlag für die Zugkategorie gekauft werden.[^1]
 

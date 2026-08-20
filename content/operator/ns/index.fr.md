@@ -242,11 +242,13 @@ Les Billets FIP 50 ne peuvent pas être achetés à bord. [^1]
 
 ## Réductions
 
-| Âge                | Réduction                                                                                         |
-| ------------------ | ------------------------------------------------------------------------------------------------- |
-| 0–3 ans            | Gratuit                                                                                           |
-| 4–11 ans           | [Billet Railrunner](https://www.ns.nl/en/tickets/railrunner) à 2,50 € (valable toute une journée) |
-| à partir de 12 ans | Tarif FIP adulte normal                                                                           |
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                                                                         |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit                                                                                           |
+| {{< icon "child_care" >}} 4–11 ans       | [Billet Railrunner](https://www.ns.nl/en/tickets/railrunner) à 2,50 € (valable toute une journée) |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal                                                                                      |
 
 ### Abonnement gratuit « Kids Vrij » (sans FIP)
 

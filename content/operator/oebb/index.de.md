@@ -289,9 +289,11 @@ Ein Verkauf von Tickets im Zug ist möglich, wenn der Zugbegleiter sofort aufges
 
 ## Ermäßigungen
 
-| Alter     | Ermäßigung |
-| --------- | ---------- |
-| 0–6 Jahre | Kostenlos  |
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung |
+| ----------------------------------- | ---------- |
+| {{< icon "child_care" >}} 0–6 Jahre | Kostenlos  |
 
 Ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
 

@@ -194,10 +194,12 @@ Tickets must be purchased before boarding the train. Ticket sales onboard are no
 
 ## Discounts
 
-| Age          | Discount                                                |
-| ------------ | ------------------------------------------------------- |
-| 0–4 years    | Free (without own seat, must sit on an adult's lap)[^1] |
-| from 4 years | Full FIP adult fare[^1]                                 |
+{{< children-discount >}}
+
+| Age                                 | Discount                                                |
+| ----------------------------------- | ------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–4 years | Free (without own seat, must sit on an adult's lap)[^1] |
+| {{< icon "person" >}} from 4 years  | Regular price[^1]                                       |
 
 A separate ticket can be purchased for children under 4 if a separate seat is desired.[^1]
 

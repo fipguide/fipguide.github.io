@@ -161,10 +161,12 @@ Wenn keine Verkaufsstelle der CP am Startbahnhof vorhanden ist oder mehr als 24 
 
 ## Ermäßigungen
 
-| Alter      | Ermäßigung                           |
-| ---------- | ------------------------------------ |
-| 0–3 Jahre  | Kostenlos ohne eigenen Sitzplatz[^1] |
-| ab 4 Jahre | Regulärer FIP-Erwachsenentarif[^1]   |
+{{< children-discount >}}
+
+| Alter                             | Ermäßigung                           |
+| --------------------------------- | ------------------------------------ |
+| {{< icon "stroller" >}} 0–3 Jahre | Kostenlos ohne eigenen Sitzplatz[^1] |
+| {{< icon "person" >}} ab 4 Jahre  | Regulärer Preis[^1]                  |
 
 ## Tarifliche Besonderheiten
 

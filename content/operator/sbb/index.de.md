@@ -220,10 +220,12 @@ Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben
 
 ## Ermäßigungen
 
-| Alter      | Ermäßigung      |
-| ---------- | --------------- |
-| 0–5 Jahre  | Kostenlos       |
-| ab 6 Jahre | Regulärer Preis |
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung      |
+| ----------------------------------- | --------------- |
+| {{< icon "child_care" >}} 0–5 Jahre | Kostenlos       |
+| {{< icon "person" >}} ab 6 Jahre    | Regulärer Preis |
 
 ### SBB Junior-Karte (ohne FIP)
 

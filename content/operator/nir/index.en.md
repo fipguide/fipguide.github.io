@@ -84,10 +84,12 @@ FIP 50 / FIP 75 Tickets must be purchased before boarding. On the Enterprise Ser
 
 ## Discounts
 
-| Age          | Discount                |
-| ------------ | ----------------------- |
-| 0–4 years    | Free of charge[^1]      |
-| from 5 years | Full FIP adult fare[^1] |
+{{< children-discount >}}
+
+| Age                                 | Discount           |
+| ----------------------------------- | ------------------ |
+| {{< icon "child_care" >}} 0–4 years | Free of charge[^1] |
+| {{< icon "person" >}} from 5 years  | Regular price[^1]  |
 
 ## Special Tariff Conditions
 

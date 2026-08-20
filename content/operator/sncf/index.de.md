@@ -278,10 +278,12 @@ FIP Tickets können nicht im Zug erworben werden.
 
 ## Ermäßigungen
 
-| Alter      | Ermäßigung                     |
-| ---------- | ------------------------------ |
-| 0–4 Jahre  | Kostenlos                      |
-| ab 5 Jahre | Regulärer FIP-Erwachsenentarif |
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung      |
+| ----------------------------------- | --------------- |
+| {{< icon "child_care" >}} 0–4 Jahre | Kostenlos       |
+| {{< icon "person" >}} ab 5 Jahre    | Regulärer Preis |
 
 ## Tarifliche Besonderheiten
 

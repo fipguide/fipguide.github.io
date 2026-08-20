@@ -242,11 +242,13 @@ FIP 50 Tickets cannot be purchased on the train. [^1]
 
 ## Discounts
 
-| Age           | Discount                                                                                        |
-| ------------- | ----------------------------------------------------------------------------------------------- |
-| 0–3 years     | Free                                                                                            |
-| 4–11 years    | [Railrunner ticket](https://www.ns.nl/en/tickets/railrunner) for € 2.50 (valid for a whole day) |
-| from 12 years | Regular FIP adult fare                                                                          |
+{{< children-discount >}}
+
+| Age                                  | Discount                                                                                        |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free                                                                                            |
+| {{< icon "child_care" >}} 4–11 years | [Railrunner ticket](https://www.ns.nl/en/tickets/railrunner) for € 2.50 (valid for a whole day) |
+| {{< icon "person" >}} from 12 years  | Regular price                                                                                   |
 
 ### Free "Kids Vrij" Season Ticket (without FIP)
 

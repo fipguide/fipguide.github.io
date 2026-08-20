@@ -155,11 +155,14 @@ Purchase on board the ships is not possible.
 
 ## Discounts
 
-| Age           | Discount                           |
-| ------------- | ---------------------------------- |
-| 0–4 years     | Free of charge[^2]                 |
-| 4–14 years    | 50% discount on the adult fare[^2] |
-| from 14 years | Adult fare[^2]                     |
+{{< children-discount >}}
+
+| Age                                  | Discount                           |
+| ------------------------------------ | ---------------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free of charge[^5]                 |
+| {{< icon "child_care" >}} 4–15 years | 50% discount on the adult fare[^2] |
+| {{< icon "person" >}} from 16 years  | Regular price[^2]                  |
+| {{< icon "person" >}} from 14 years  | Regular price[^2]                  |
 
 {{% highlight tip %}}
 Stena Line offers tickets that allow combined train and ferry travel at a reduced price. No additional FIP discount is available on these tickets.
@@ -197,3 +200,5 @@ Stena Line offers a great way to be in London before 10 am if you invest a littl
 [^3]: [Stena Line Website](https://www.stenaline.de/routen/hoek-van-holland-harwich)
 
 [^4]: [FIP Guide Team email inquiry to Stena Line](https://github.com/fipguide/fipguide.github.io/issues/528)
+
+[^5]: [Stena Line – Age Groups](https://www.stenaline.de/kundenservice/buchung/welche-altersgruppen-gibt-es-bei-stena-line)

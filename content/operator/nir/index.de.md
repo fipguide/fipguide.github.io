@@ -84,10 +84,12 @@ FIP 50 / FIP 75 Tickets müssen vor Fahrtantritt erworben werden. Im Enterprise 
 
 ## Ermäßigungen
 
-| Alter      | Ermäßigung               |
-| ---------- | ------------------------ |
-| 0–4 Jahre  | Kostenlos[^1]            |
-| ab 5 Jahre | FIP-Erwachsenentarif[^1] |
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung          |
+| ----------------------------------- | ------------------- |
+| {{< icon "child_care" >}} 0–4 Jahre | Kostenlos[^1]       |
+| {{< icon "person" >}} ab 5 Jahre    | Regulärer Preis[^1] |
 
 ## Tarifliche Besonderheiten
 

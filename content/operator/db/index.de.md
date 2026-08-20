@@ -328,10 +328,12 @@ FIP 50 Fahrkarten können nicht im Zug erworben werden.
 
 ## Ermäßigungen
 
-| Alter      | Ermäßigung                     |
-| ---------- | ------------------------------ |
-| 0–5 Jahre  | Kostenlos                      |
-| ab 6 Jahre | Regulärer FIP-Erwachsenenpreis |
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung      |
+| ----------------------------------- | --------------- |
+| {{< icon "child_care" >}} 0–5 Jahre | Kostenlos       |
+| {{< icon "person" >}} ab 6 Jahre    | Regulärer Preis |
 
 ### Kostenlos mitreisende Kinder
 

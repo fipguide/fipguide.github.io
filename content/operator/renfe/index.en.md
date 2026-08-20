@@ -247,11 +247,14 @@ Tickets for international `AVE` trains can be purchased on board when boarding i
 
 ## Discounts
 
-| Age           | Discount                |
-| ------------- | ----------------------- |
-| 0–4 years     | Free (without own seat) |
-| 4–12 years    | 40% discount            |
-| from 12 years | Regular price           |
+{{< children-discount >}}
+
+| Age                                  | Discount                |
+| ------------------------------------ | ----------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free (without own seat) |
+| {{< icon "child_care" >}} 4–11 years | 40% discount            |
+| {{< icon "person" >}} from 12 years  | Regular price           |
+| {{< icon "person" >}} from 12 years  | Regular price           |
 
 ## Special Tariff Conditions
 

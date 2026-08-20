@@ -165,9 +165,11 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 
 ## Discounts
 
-| Age        | Discount                                                                   |
-| ---------- | -------------------------------------------------------------------------- |
-| 0–11 years | Free for two children when accompanied by an adult with a valid ticket[^3] |
+{{< children-discount >}}
+
+| Age                                  | Discount                                                                   |
+| ------------------------------------ | -------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–11 years | Free for two children when accompanied by an adult with a valid ticket[^3] |
 
 ## Special Tariff Conditions
 

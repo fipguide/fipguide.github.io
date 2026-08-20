@@ -197,9 +197,11 @@ If no ticket counter is available or open, a ticket (or reservation in Ex) can b
 
 ## Discounts
 
-| Age       | Discount |
-| --------- | -------- |
-| 0–6 years | Free[^1] |
+{{< children-discount >}}
+
+| Age                                 | Discount |
+| ----------------------------------- | -------- |
+| {{< icon "child_care" >}} 0–6 years | Free[^1] |
 
 This requires that children are accompanied by a person aged at least 16 years. In 1st class, this is limited to 2 children; from the 3rd child, 50% of the ticket price is due. In `EC` trains, an additional 1€ per child is charged in 1st class from the 3rd child. In `SC` trains, € 1 per child is always charged in 2nd class and € 3 in 1st class. In `IC` trains, a reservation including a surcharge for the train category must be purchased for each child.[^1]
 

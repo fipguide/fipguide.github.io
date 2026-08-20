@@ -101,13 +101,15 @@ Les Billets FIP 50 peuvent également être achetés directement dans le train. 
 
 ## Réductions
 
+{{< children-discount >}}
+
 Pour les billets réguliers, les réductions suivantes s’appliquent aux enfants :
 
-| Âge                | Réduction      |
-| ------------------ | -------------- |
-| 0–4 ans            | Gratuit        |
-| 4–11 ans           | 50 % de remise |
-| à partir de 12 ans | Tarif normal   |
+| Âge                                      | Réduction      |
+| ---------------------------------------- | -------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit        |
+| {{< icon "child_care" >}} 4–11 ans       | 50 % de remise |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal   |
 
 [^1]
 

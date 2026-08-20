@@ -108,13 +108,15 @@ FIP discounted tickets can be purchased on the train. A surcharge of EUR 1 appli
 
 ## Discounts
 
+{{< children-discount >}}
+
 For public fares, the following child discounts apply:
 
-| Age           | Discount      |
-| ------------- | ------------- |
-| 0–6 years     | Free          |
-| 6–14 years    | 50% discount  |
-| from 14 years | Regular price |
+| Age                                  | Discount      |
+| ------------------------------------ | ------------- |
+| {{< icon "child_care" >}} 0–5 years  | Free          |
+| {{< icon "child_care" >}} 6–13 years | 50% discount  |
+| {{< icon "person" >}} from 14 years  | Regular price |
 
 [^2]
 

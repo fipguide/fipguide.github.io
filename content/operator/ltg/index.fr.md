@@ -71,12 +71,14 @@ Les distributeurs de billets installés dans de nombreuses gares ne délivrent p
 
 ## Réductions
 
-| Âge                                          | Réduction                                       |
-| -------------------------------------------- | ----------------------------------------------- |
-| 0–7 ans (max. 2 enfants sans place assise)   | Gratuit (2e classe, sur les genoux des parents) |
-| 0–7 ans (avec place assise)                  | Réduction de 50 % sur le tarif adulte           |
-| 7–18 ans (ou jusqu’à 23 ans pour les élèves) | Réduction de 50 % sur le tarif adulte           |
-| à partir de 18 ans                           | Tarif adulte normal                             |
+{{< children-discount >}}
+
+| Âge                                                                    | Réduction                                       |
+| ---------------------------------------------------------------------- | ----------------------------------------------- |
+| {{< icon "child_care" >}} 0–7 ans (max. 2 enfants sans place assise)   | Gratuit (2e classe, sur les genoux des parents) |
+| {{< icon "child_care" >}} 0–7 ans (avec place assise)                  | Réduction de 50 % sur le tarif adulte           |
+| {{< icon "child_care" >}} 8–17 ans (ou jusqu’à 23 ans pour les élèves) | Réduction de 50 % sur le tarif adulte           |
+| {{< icon "person" >}} à partir de 18 ans                               | Tarif normal                                    |
 
 ### Autres réductions
 

@@ -955,10 +955,12 @@ L’achat de billets FIP à bord n’est pas possible. Des frais de pénalité s
 
 ## Réductions
 
-| Âge               | Réduction    |
-| ----------------- | ------------ |
-| 0–5 ans           | Gratuit      |
-| à partir de 6 ans | Tarif normal |
+{{< children-discount >}}
+
+| Âge                                     | Réduction    |
+| --------------------------------------- | ------------ |
+| {{< icon "child_care" >}} 0–5 ans       | Gratuit      |
+| {{< icon "person" >}} à partir de 6 ans | Tarif normal |
 
 ### Carte Junior (sans FIP)
 

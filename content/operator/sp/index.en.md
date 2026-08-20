@@ -955,10 +955,12 @@ FIP tickets cannot be purchased on the train. A penalty fee will be charged for 
 
 ## Discounts
 
-| Age          | Discount      |
-| ------------ | ------------- |
-| 0–5 years    | Free          |
-| from 6 years | Regular price |
+{{< children-discount >}}
+
+| Age                                 | Discount      |
+| ----------------------------------- | ------------- |
+| {{< icon "child_care" >}} 0–5 years | Free          |
+| {{< icon "person" >}} from 6 years  | Regular price |
 
 ### Junior Travelcard (without FIP)
 

@@ -125,11 +125,13 @@ Der Kauf an Bord der Schiffe ist nicht möglich.
 
 ## Ermäßigungen
 
-| Alter       | Ermäßigung                               |
-| ----------- | ---------------------------------------- |
-| 0–4 Jahre   | Kostenlos[^1]                            |
-| 4–16 Jahre  | 50% Rabatt auf den Erwachsenen-Tarif[^1] |
-| ab 16 Jahre | Erwachsenen-Tarif[^1]                    |
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                               |
+| ------------------------------------ | ---------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos[^3]                            |
+| {{< icon "child_care" >}} 4–15 Jahre | 50% Rabatt auf den Erwachsenen-Tarif[^1] |
+| {{< icon "person" >}} ab 16 Jahre    | Regulärer Preis[^1]                      |
 
 {{% highlight tip %}}
 Stena Line und Irish Ferries bieten Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
@@ -143,3 +145,5 @@ Stena Line und Irish Ferries bieten Tickets an, die eine kombinierte Zug- und F�
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782236-stena.html#SLL)
 
 [^2]: [Rail Delivery Group - Staff Travel guides for holders of the Rail Staff Leisure Card - 8.7 Other transport undertakings in Great Britain, including ferries and heritage railways - Stena Line Irish Services](https://www.raildeliverygroup.com/rst/guides.html#tab-8-other-transport-undertakings-in-great-britain-including-ferries-and-heritage-railways)
+
+[^3]: [Stena Line – Altersgruppen](https://www.stenaline.de/kundenservice/buchung/welche-altersgruppen-gibt-es-bei-stena-line)

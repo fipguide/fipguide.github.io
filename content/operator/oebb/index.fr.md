@@ -299,9 +299,11 @@ L’achat de billets à bord du train est possible si vous contactez immédiatem
 
 ## Réductions
 
-| Âge     | Réduction |
-| ------- | --------- |
-| 0–6 ans | Gratuit   |
+{{< children-discount >}}
+
+| Âge                               | Réduction |
+| --------------------------------- | --------- |
+| {{< icon "child_care" >}} 0–6 ans | Gratuit   |
 
 À partir de 6 ans, lors d’un voyage avec un Coupon FIP sur les trains grandes lignes, le [supplément](#validite-des-billets-fip) doit être payé pour chaque enfant.
 

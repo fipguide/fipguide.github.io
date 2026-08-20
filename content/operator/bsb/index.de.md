@@ -73,10 +73,12 @@ FIP 50 Fahrkarten können auf der Fähre erworben werden.
 
 ## Ermäßigungen
 
-| Alter      | Ermäßigung                         |
-| ---------- | ---------------------------------- |
-| 0–5 Jahre  | Kostenlos[^1]                      |
-| ab 6 Jahre | Regulärer FIP-Erwachsenentarif[^1] |
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung          |
+| ----------------------------------- | ------------------- |
+| {{< icon "child_care" >}} 0–5 Jahre | Kostenlos[^1]       |
+| {{< icon "person" >}} ab 6 Jahre    | Regulärer Preis[^1] |
 
 ### Bodensee-Kinderkarte
 

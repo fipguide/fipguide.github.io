@@ -136,9 +136,11 @@ Les suppléments pour passer de la 2e classe à la Premier Class peuvent être a
 
 ## Réductions
 
-| Âge     | Réduction   |
-| ------- | ----------- |
-| 0–4 ans | Gratuit[^3] |
+{{< children-discount >}}
+
+| Âge                               | Réduction   |
+| --------------------------------- | ----------- |
+| {{< icon "child_care" >}} 0–4 ans | Gratuit[^3] |
 
 ### Gratuité pour les enfants jusqu’à 4 ans
 

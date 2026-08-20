@@ -265,11 +265,13 @@ Im Zug können FIP Vergünstigungen nicht erworben werden.
 
 ## Ermäßigungen
 
-| Alter       | Ermäßigung                                                   |
-| ----------- | ------------------------------------------------------------ |
-| 0–6 Jahre   | Kostenlos[^2]                                                |
-| 6–17 Jahre  | 75% Ermäßigung auf Single Ticket und Flex Refundable[^2][^4] |
-| ab 18 Jahre | Regulärer FIP-Erwachsenenfahrpreis[^2]                       |
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                                                   |
+| ------------------------------------ | ------------------------------------------------------------ |
+| {{< icon "child_care" >}} 0–5 Jahre  | Kostenlos[^2]                                                |
+| {{< icon "child_care" >}} 6–17 Jahre | 75% Ermäßigung auf Single Ticket und Flex Refundable[^2][^4] |
+| {{< icon "person" >}} ab 18 Jahre    | Regulärer Preis[^2]                                          |
 
 {{% highlight tip %}}
 Die 75% Ermäßigung für Kinder von 6 bis einschließlich 17 Jahre auf Single Ticket und Flex Refundable ist günstiger als der FIP-Tarif für Kinder.

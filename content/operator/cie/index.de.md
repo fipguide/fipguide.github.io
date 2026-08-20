@@ -136,9 +136,11 @@ Zuschläge von der 2. Klasse auf die Premier Class können im Zug gebucht werden
 
 ## Ermäßigungen
 
-| Alter     | Ermäßigung    |
-| --------- | ------------- |
-| 0–4 Jahre | Kostenlos[^3] |
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung    |
+| ----------------------------------- | ------------- |
+| {{< icon "child_care" >}} 0–4 Jahre | Kostenlos[^3] |
 
 ### Kostenfreie Fahrten für Kinder bis 4 Jahre
 

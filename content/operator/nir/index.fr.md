@@ -84,10 +84,12 @@ Les Billets FIP 50 / FIP 75 doivent être achetés avant le départ. Sur le serv
 
 ## Réductions
 
-| Âge               | Réduction                    |
-| ----------------- | ---------------------------- |
-| 0–4 ans           | Gratuit[^1]                  |
-| à partir de 5 ans | Tarif adulte FIP complet[^1] |
+{{< children-discount >}}
+
+| Âge                                     | Réduction        |
+| --------------------------------------- | ---------------- |
+| {{< icon "child_care" >}} 0–4 ans       | Gratuit[^1]      |
+| {{< icon "person" >}} à partir de 5 ans | Tarif normal[^1] |
 
 ## Conditions tarifaires spéciales
 

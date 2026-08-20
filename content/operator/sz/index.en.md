@@ -207,10 +207,12 @@ Only cash in euros can be used on board.
 
 ## Discounts
 
-| Age          | Discount                   |
-| ------------ | -------------------------- |
-| 0–5 years    | Free of charge[^1]         |
-| from 6 years | Regular FIP adult fare[^1] |
+{{< children-discount >}}
+
+| Age                                 | Discount           |
+| ----------------------------------- | ------------------ |
+| {{< icon "child_care" >}} 0–5 years | Free of charge[^1] |
+| {{< icon "person" >}} from 6 years  | Regular price[^1]  |
 
 ## Special Tariff Conditions
 

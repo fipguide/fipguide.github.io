@@ -136,9 +136,11 @@ Upgrades from 2nd class to Premier Class can be purchased on the train if no tic
 
 ## Discounts
 
-| Age       | Discount           |
-| --------- | ------------------ |
-| 0–4 years | Free of charge[^3] |
+{{< children-discount >}}
+
+| Age                                 | Discount           |
+| ----------------------------------- | ------------------ |
+| {{< icon "child_care" >}} 0–4 years | Free of charge[^3] |
 
 ### Free Travel for Children up to 4 Years
 

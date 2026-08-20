@@ -155,10 +155,12 @@ L’achat de billets FIP dans le train n’est pas possible. Des frais de pénal
 
 ## Réductions
 
-| Âge               | Réduction                   |
-| ----------------- | --------------------------- |
-| 0–5 ans           | Gratuit[^1]                 |
-| à partir de 6 ans | Tarif adulte FIP normal[^1] |
+{{< children-discount >}}
+
+| Âge                                     | Réduction        |
+| --------------------------------------- | ---------------- |
+| {{< icon "child_care" >}} 0–5 ans       | Gratuit[^1]      |
+| {{< icon "person" >}} à partir de 6 ans | Tarif normal[^1] |
 
 ### Carte Junior pour Enfants Accompagnés (sans FIP)
 

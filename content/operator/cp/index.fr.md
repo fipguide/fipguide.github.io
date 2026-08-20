@@ -161,10 +161,12 @@ Si aucune billetterie CP n’est disponible à la gare de départ ou si elle n�
 
 ## Réductions
 
-| Âge               | Réduction                     |
-| ----------------- | ----------------------------- |
-| 0–3 ans           | Gratuit sans siège propre[^1] |
-| à partir de 4 ans | Tarif adulte FIP normal[^1]   |
+{{< children-discount >}}
+
+| Âge                                     | Réduction                     |
+| --------------------------------------- | ----------------------------- |
+| {{< icon "stroller" >}} 0–3 ans         | Gratuit sans siège propre[^1] |
+| {{< icon "person" >}} à partir de 4 ans | Tarif normal[^1]              |
 
 ## Conditions tarifaires spéciales
 

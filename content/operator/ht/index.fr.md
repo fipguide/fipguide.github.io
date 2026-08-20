@@ -129,11 +129,13 @@ Si le voyage commence dans une gare où le guichet n’est pas occupé, les bill
 
 ## Réductions
 
-| Âge                | Réduction                                 |
-| ------------------ | ----------------------------------------- |
-| 0–4 ans            | Gratuit[^1]                               |
-| 4–12 ans           | Réduction de 50 % sur le tarif adulte[^1] |
-| à partir de 12 ans | Tarif adulte régulier[^1]                 |
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                 |
+| ---------------------------------------- | ----------------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit[^1]                               |
+| {{< icon "child_care" >}} 4–11 ans       | Réduction de 50 % sur le tarif adulte[^1] |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal[^1]                          |
 
 ## Conditions tarifaires spéciales
 

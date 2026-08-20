@@ -175,10 +175,12 @@ FIP-discounted tickets cannot be purchased on the train. Reservations must also 
 
 ## Discounts
 
-| Age          | Discount           |
-| ------------ | ------------------ |
-| 0–5 years    | Free of charge[^2] |
-| from 5 years | Regular price[^2]  |
+{{< children-discount >}}
+
+| Age                                 | Discount           |
+| ----------------------------------- | ------------------ |
+| {{< icon "child_care" >}} 0–4 years | Free of charge[^2] |
+| {{< icon "person" >}} from 5 years  | Regular price[^2]  |
 
 ## Special Tariff Conditions
 
