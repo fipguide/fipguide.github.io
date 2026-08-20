@@ -245,7 +245,6 @@ collections:
   - name: "fip-validity"
     label: "FIP Validity Tables"
     label_singular: "FIP Validity Table"
-    hide: false
     files:
 {{- range (sort (where site.RegularPages "Type" "operator") "File.ContentBaseName") }}
 {{- $slug := .File.ContentBaseName }}
