@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "KŚ"
+title: KŚ
 country:
-  - "poland"
-operator: "ks"
-
+  - poland
+operator: ks
 aliases:
   - /booking/ks-ticket-machine
   - /booking/ks-ticket-office
@@ -25,6 +24,7 @@ Auf ihrer Website bietet die KŚ eine [Übersichtskarte der Strecken](https://ww
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der KŚ gültig.
@@ -43,40 +43,41 @@ FIP-Fahrkarten sind in Bussen der KŚ grundsätzlich nicht gültig. In Bussen de
 
 {{% booking id="ks-website"
     subtitle="Für nationale Verbindungen"
-%}}
-{{% /booking %}}
+/%}}
 
 {{% booking id="koleo-website"
-    reservations=nil
     subtitle="Für nationale Verbindungen"
+    reservations=nil
 %}}
 FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-    reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+    reservations=nil
 /%}}
 
 {{% booking id="db-website-fip-international"
-    reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+    reservations=nil
 /%}}
 
 ### Telefon
 
 {{% booking id="db-phone-fip-db"
-    reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+    reservations=nil
 /%}}
 
 ### Vor Ort
 
-{{% booking id="ks-ticket-machine"/%}}
+{{% booking id="ks-ticket-machine" /%}}
 
-{{% booking id="ks-ticket-office"/%}}
+{{% booking id="ks-ticket-office" /%}}
 
-{{% booking id="db-ticket-office" reservations=nil /%}}
+{{% booking id="db-ticket-office"
+    reservations=nil
+/%}}
 
 ### Im Zug
 
@@ -120,4 +121,4 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

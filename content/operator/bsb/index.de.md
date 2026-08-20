@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "BSB"
+title: BSB
 country:
-  - "austria"
-  - "germany"
-  - "switzerland"
-operator: "bsb"
-
+  - austria
+  - germany
+  - switzerland
+operator: bsb
 aliases:
   - /booking/bsb-ticket-office
 ---
@@ -28,17 +27,19 @@ Hierbei gelten FIP Ermäßigungen bei den folgenden Betreibern:
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Kategorien und Reservierungen
 
 {{% train-category
-  id="ferry"
-  title="Fähre"
-  type="ship"
-  fip_accepted=partially
-  reservation_possible=false
-  route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
+    id="ferry"
+    title="Fähre"
+    type="ship"
+    fip_accepted=partially
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
 %}}
 
 Fähren auf dem Bodensee.
@@ -64,8 +65,7 @@ Es gibt eine einheitliche Klasse, die sowohl mit FIP-Ausweisen der 1. und 2. Kla
 
 ### Vor Ort
 
-{{% booking id="bsb-ticket-office" %}}
-{{% /booking %}}
+{{% booking id="bsb-ticket-office" /%}}
 
 ### Auf der Fähre
 
@@ -97,7 +97,7 @@ FIP-Berechtigte erhalten eine Ermäßigung von 50% auf das zellerSEEticket (zSEE
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-69)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782279-lake-constance-ferries.html)
 
 [^2]: [Bodensee-Schiffsbetriebe – Preisangebote](https://www.bsb.de/de/fahrplan/preise/interessante-preisangebote)
 

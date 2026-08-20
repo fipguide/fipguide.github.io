@@ -1,0 +1,8 @@
+{{- $content := .content -}}
+{{- $offset := .offset | default 1 -}}
+
+{{- range seq $offset -}}
+  {{- $content = replaceRE `(?m)^(\s{0,3})(#{1,5})(\s+)` `${1}#${2}${3}` $content -}}
+{{- end -}}
+
+{{- return $content -}}

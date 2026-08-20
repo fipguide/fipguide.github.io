@@ -57,6 +57,7 @@ $highlight-colors-dark: (
 );
 
 :root {
+  color-scheme: light;
   --font-family: "Roboto", Arial, Helvetica, sans-serif;
 
   --link-default: #{$link-default};
@@ -130,6 +131,9 @@ $highlight-colors-dark: (
     --tag-#{$name}-color: #{$color};
   }
 
+  --tag-newsUpdate-bg: #ffffff;
+  --tag-newsUpdate-color: #414141;
+
   @each $name, $color in $highlight-colors {
     --highlight-#{$name}-bg: #{mix(white, $color, 90%)};
     --highlight-#{$name}-color: #{$color};
@@ -138,6 +142,7 @@ $highlight-colors-dark: (
 
 :root[data-theme="dark"] {
   @media screen {
+    color-scheme: dark;
     --link-default: #ff6b3d;
     --link-hovered: #ff8a5b;
     --link-special: #ffffff;
@@ -160,6 +165,9 @@ $highlight-colors-dark: (
       --tag-#{$name}-bg: #{mix(black, $color, 65%)};
       --tag-#{$name}-color: #{$color};
     }
+
+    --tag-newsUpdate-bg: #494949;
+    --tag-newsUpdate-color: #e0e0e0;
 
     @each $name, $color in $highlight-colors-dark {
       --highlight-#{$name}-bg: #{mix(black, $color, 65%)};

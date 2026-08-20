@@ -1,14 +1,74 @@
 ---
 draft: false
-title: "E-mail International Rail Ltd."
-description: "Informations de réservation pour la réservation par e-mail auprès d’International Rail Ltd."
-
+title: E-mail International Rail Ltd.
+description: Informations de réservation pour la réservation par e-mail auprès
+  d’International Rail Ltd.
 params:
   fip_global_fare: true
   fip_50: true
   fip_75: true
-  type: "email"
+  type: email
   fee: 10 £
+  email_templates:
+    fip_global_fare:
+      to: "uktravel@bookmyrst.co.uk"
+      subject: "FIP Global Fare booking request"
+      body: |-
+        Hello,
+
+        I would like to request an offer for a FIP Global Fare ticket.
+
+        Travel date: [Date du voyage]
+        Preferred departure time: [Heure de départ souhaitée]
+        Departure station: [Gare de départ]
+        Destination station: [Gare de destination]
+        Passengers:
+          Passenger 1:
+            Name: [Nom (tel qu’il figure sur le passeport)]
+          Passenger 2:
+            Name: [Nom (tel qu’il figure sur le passeport)]
+          [... Ajouter ou supprimer des voyageurs si nécessaire]
+        Class (according to FIP Card entitlement): [Classe (selon les droits de la Carte FIP)]
+        Additional information: [Informations complémentaires]
+
+        Photo(s) of the FIP Card(s) for all travelers are attached.
+
+        [Joindre la/les photo(s) des Cartes FIP de tous les voyageurs]
+
+        Thank you in advance.
+        Kind regards,
+
+        [Votre nom]
+
+    fip_50:
+      to: "uktravel@bookmyrst.co.uk"
+      subject: "FIP 50 Ticket booking request"
+      body: |-
+        Hello,
+
+        I would like to request an offer for a FIP 50 Ticket.
+
+        Travel date: [Date du voyage]
+        Preferred departure time: [Heure de départ souhaitée]
+        Departure station: [Gare de départ]
+        Destination station: [Gare de destination]
+        Passengers:
+          Passenger 1:
+            Name: [Nom (tel qu’il figure sur le passeport)]
+          Passenger 2:
+            Name: [Nom (tel qu’il figure sur le passeport)]
+          [... Ajouter ou supprimer des voyageurs si nécessaire]
+        Class (according to FIP Card entitlement): [Classe (selon les droits de la Carte FIP)]
+        Additional information: [Informations complémentaires]
+
+        Photo(s) of the FIP Card(s) for all travelers are attached.
+
+        [Joindre la/les photo(s) des Cartes FIP de tous les voyageurs]
+
+        Thank you in advance.
+        Kind regards,
+
+        [Votre nom]
 
 aliases:
   - uk_mail
@@ -26,8 +86,7 @@ Les billets au tarif global FIP peuvent être achetés auprès d’International
 - Nombre de voyageurs
 - Classe de voyage (selon le droit de la Carte FIP)
 - Photo de la Carte FIP de chaque voyageur
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 {{% booking-section "fip_50" %}}
 
@@ -40,7 +99,6 @@ Les billets FIP 50 peuvent être achetés auprès d’International Rail Ltd. Po
 - Nombre de voyageurs
 - Classe de voyage (selon le droit de la Carte FIP)
 - Photo de la Carte FIP de chaque voyageur
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 **Des frais de réservation de 10 £ sont facturés par réservation.**

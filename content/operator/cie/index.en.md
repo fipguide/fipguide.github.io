@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "CIE"
+title: CIE
 country:
-  - "ireland"
-operator: "cie"
-
+  - ireland
+operator: cie
 aliases:
   - /booking/irish-rail-ticket-office
   - /booking/irish-rail-website
@@ -23,6 +22,7 @@ On its website, Irish Rail provides an [overview map of the routes](https://www.
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 ## Train Categories and Reservations
@@ -39,13 +39,15 @@ On its website, Irish Rail provides an [overview map of the routes](https://www.
 
 InterCity trains connect the major cities of Ireland, including Dublin, Cork, Galway and Limerick. FIP is accepted on all InterCity services. The Enterprise Service between Dublin and Belfast is also operated by InterCity trains. More information about the Enterprise can be found on the [Ireland page](/country/ireland#united-kingdom).
 
-{{% highlight important %}}
+{{< highlight important >}}
 First Class between Dublin and Cork may not be used with FIP. More information about class categories can be found [below](#class-categories).
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservations
 
 Reservations are optional, but are issued free of charge for many services and are therefore recommended in 2nd class.
+
+First Class (First Class / Premiere Class) passengers are escorted to an available seat on board the train. Travel in First Class is only permitted when a seat is available
 
 {{% /train-category %}}
 
@@ -82,6 +84,7 @@ DART (Dublin Area Rapid Transit) is a suburban rail network connecting Dublin's 
     title="Bus Éireann"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -94,6 +97,7 @@ FIP is not valid on Bus Éireann bus services.
     title="Dublin Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -109,7 +113,7 @@ FIP is not valid on Dublin Bus bus services.
   - Dublin – Cork Premier Class services: 10:00 (Monday – Saturday), 12:00 (Monday – Friday) and 14:00 (Monday – Friday)
   - Cork – Dublin Premier Class services: 13:25 (Monday – Saturday), 14:25 (Sunday only), 15:25 (Monday – Friday) and 17:25 (Monday – Thursday and Saturday)
 
-  An up-to-date list can be found [here](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel).
+  A current list and further information about the classes can be found [here](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel).
 
 - **Enterprise Plus**: First class on the Dublin – Belfast connection. Can be used with 1st class FIP Coupons, and with a surcharge also with 2nd class FIP Coupons.
 
@@ -148,7 +152,7 @@ Break of journey is permitted with FIP tickets, but must be documented with a no
 
 [^1]: [Irish Rail First Class Travel](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel)
 
-[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-123)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782276-ireland.html)
 
 [^3]: [Irish Rail – Child Ticket Age Requirements](https://www.irishrail.ie/en-ie/faqs/what-are-the-age-requirements-for-child-tickets)
 

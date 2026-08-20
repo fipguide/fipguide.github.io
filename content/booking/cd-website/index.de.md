@@ -1,16 +1,16 @@
 ---
 draft: false
-title: "ČD Website"
-description: "Buchungsinformationen für die České dráhy Website."
+title: ČD Website
+description: Buchungsinformationen für die České dráhy Website.
 params:
   classes:
-    first: "35 CZK"
-    second: "35 CZK"
+    first: 35 CZK
+    second: 35 CZK
   fip_50: false
   reservations: true
-  booking_link: "https://www.cd.cz/en/"
-  additional_info_link: "https://www.cd.cz/en/typy-jizdenek/rezervace-mista/-28327/"
-  type: "website"
+  booking_link: https://www.cd.cz/en/
+  additional_info_link: https://www.cd.cz/en/typy-jizdenek/rezervace-mista/-28327/
+  type: website
 ---
 
 FIP 50 Tickets können **nicht** über die ČD-App gekauft werden, da die in der App angebotenen 50%-Rabatte nicht aus FIP-Kontingenten stammen.

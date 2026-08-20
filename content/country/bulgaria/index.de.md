@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Bulgarien"
-country: "bulgaria"
+title: Bulgarien
+country: bulgaria
 params:
   operators_without_fip:
     - Optima Express
@@ -24,12 +24,13 @@ Als Streckenhighlight gelten zum einen die Nord-Süd-Strecken durch das Balkange
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
-| Land | Grenzpunkte |
-| --------------------------------------------------- | -------------------------------------------------------------------------- |
-| [Rumänien](/country/romania) ([CFR](/operator/cfr)) | Ruse (fr) (bulgarisch: Русе), Vidin (fr) |
-| Türkei (TCDD) | Kapikule (fr) |
+
+| Land                                                             | Grenzpunkte                                                                |
+| ---------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [Rumänien](/country/romania) ([CFR](/operator/cfr))              | Ruse (fr) (bulgarisch: Русе), Vidin (fr)                                   |
+| Türkei (TCDD)                                                    | Kapikule (fr)                                                              |
 | [Griechenland](/country/greece) ([Hellenic Train](/operator/ht)) | Kulata (fr) (bulgarisch: Кулата), Svilengrad (fr) (bulgarisch: Свиленград) |
-| Serbien (SV) | Dimitrovgrad (fr) (bulgarisch: Цариброд, Tsaribrod) |
+| [Serbien](/country/serbia) ([SV](/operator/sv))                  | Dimitrovgrad (fr) (bulgarisch: Цариброд, Tsaribrod)                        |
 
 {{% /expander %}}
 

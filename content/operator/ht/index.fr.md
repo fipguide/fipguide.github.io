@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "Hellenic Train"
+title: Hellenic Train
 country:
-  - "greece"
-operator: "ht"
-
+  - greece
+operator: ht
 aliases:
   - /booking/ht-ticket-office
   - /booking/ht-website
@@ -20,6 +19,7 @@ Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) exploit
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Catégories de trains et réservations
@@ -39,12 +39,12 @@ Ces trains relient Athènes (Αθήνα) et Thessalonique (Θεσσαλονίκ�
 
 Les réservations doivent être obtenues à l’avance. Elles peuvent être achetées en ligne ou en gare.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Les trains IC sont souvent complets quelques jours à l’avance. Il est conseillé de s’occuper de la réservation suffisamment tôt.
 
 Astuce pour les voyageurs avec un Coupon FIP :
 Comme les réservations individuelles ne sont pas disponibles en ligne, réservez d’abord un Billet FIP 50. Celui-ci peut être annulé gratuitement. Sur place, vous pouvez vérifier si des réservations sont encore disponibles. Si oui, annulez le Billet FIP 50 ; sinon, voyagez avec le Billet FIP 50.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -54,15 +54,16 @@ Comme les réservations individuelles ne sont pas disponibles en ligne, réserve
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
 
 Les trains régionaux relient les villes et régions en dehors de l’axe principal.
 
 Certains trains sont désignés sous le nom de Proastiakos ou Suburban Railway, ce qui est comparable à un S-Bahn. Dans le planificateur de voyage, ces services apparaissent également comme trains régionaux `REG`.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Les services touristiques comme le Pelion Train sont également indiqués comme `REG` dans le planificateur de voyage, mais le FIP n’y est pas valable.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -72,6 +73,7 @@ Les services touristiques comme le Pelion Train sont également indiqués comme 
     type="bus"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=true
 %}}
 
 Les bus exploités par Hellenic Train acceptent les avantages FIP.[^1]
@@ -83,6 +85,8 @@ Les bus exploités par Hellenic Train acceptent les avantages FIP.[^1]
     title="Trains touristiques et historiques"
     type="regional"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Hellenic Train exploite trois liaisons ferroviaires touristiques ou historiques sur lesquelles le FIP n’est pas accepté.[^1]
@@ -91,7 +95,7 @@ Hellenic Train exploite trois liaisons ferroviaires touristiques ou historiques 
 - Chemin de fer à crémaillère « Odontotos » de Diakopto (Διακοπτό) à Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/attraction-rails)
 - Katakolo (Κατάκολο) – Olympie (Αρχαία Ολυμπία) (https://www.hellenictrain.gr/en/katakolo-olympia)
 
-{{< highlight info >}}
+{{< highlight tip >}}
 Selon des retours d’expérience, le chemin de fer à crémaillère entre Diakopto et Kalavryta peut être utilisé avec un Coupon FIP et une réservation gratuite disponible sur place. Nous ne sommes actuellement pas en mesure de vérifier l’utilisation avec le FIP 50, car l’exploitation a été temporairement suspendue.[^3]
 {{< /highlight >}}
 
@@ -107,15 +111,15 @@ Selon des retours d’expérience, le chemin de fer à crémaillère entre Diako
 ### En ligne
 
 {{% booking id="ht-website"
-    fip_global_fare=nil
     fip_50=true
+    fip_global_fare=nil
 /%}}
 
 ### En gare
 
 {{% booking id="ht-ticket-office"
-    fip_global_fare=nil
     fip_50=true
+    fip_global_fare=nil
 /%}}
 
 ### À bord du train
@@ -146,7 +150,7 @@ Un billet acheté en ligne peut être annulé au guichet ou via la [ligne télé
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782274-greece.html)
 
 [^2]: [Hellenic Train](https://www.hellenictrain.gr/en/ticket-sales-board)
 

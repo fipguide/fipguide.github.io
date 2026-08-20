@@ -1,17 +1,15 @@
 ---
 draft: false
-title: "Guichet DSB"
-description: "Informations de réservation aux guichets de la DSB."
-
+title: Guichet DSB
+description: Informations de réservation aux guichets de la DSB.
 params:
   classes:
-    first: "30 DKK"
-    second: "30 DKK"
+    first: 30 DKK
+    second: 30 DKK
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.dsb.dk/en/train-ticket-to-europe/"
-  type: "onsite"
-
+  additional_info_link: https://www.dsb.dk/en/train-ticket-to-europe/
+  type: onsite
 aliases:
   - dsb_ticket_office
 ---
@@ -20,9 +18,9 @@ aliases:
 
 ## Billets FIP 50
 
-{{% highlight inofficial %}}
+{{< highlight inofficial >}}
 La DSB ne peut probablement vendre des Billets FIP 50 pour le Danemark seulement dans les guichets internationaux. Ceux-ci se trouvent dans les gares principales d’Aarhus, Copenhague et Odense. Nous ne savons pas si des Billets FIP 50 étrangers peuvent également y être vendus.
-{{% /highlight %}}
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -46,5 +44,4 @@ Des réservations internationales peuvent être effectuées aux guichets interna
 - Suède
 - Suisse
 {.o-section--columns-3}
-
 {{% /booking-section %}}

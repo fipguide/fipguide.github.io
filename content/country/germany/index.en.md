@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Germany"
-country: "germany"
+title: Germany
+country: germany
 params:
   operators_without_fip:
     - Abellio Rail Mitteldeutschland GmbH
@@ -56,10 +56,6 @@ params:
     - RDC Autozug Sylt GmbH – AS
     - RDC Deutschland GmbH
     - REGIOBAHN
-    - Regionalverkehre Start Deutschland GmbH (Start Mitteldeutschland)
-    - Regionalverkehre Start Deutschland GmbH (Start Niedersachsen-Mitte)
-    - Regionalverkehre Start Deutschland GmbH (Start Taunus) – STN
-    - Regionalverkehre Start Deutschland GmbH (Start Unterelbe)
     - RegioTram – RT
     - Rhein-Neckar-Verkehr GmbH
     - RheinRuhrBahn (Transdev) – RRB
@@ -157,7 +153,7 @@ MS = Middle of the lake
 
 ### Denmark
 
-From Denmark, the direct `ECE` Copenhagen – Hamburg can be used, which runs several times a day (every 2 hours in high season). These trains are always very busy, so it is advisable to book a reservation early. Alternatively, there are several `IC` trains daily from Fredericia to Flensburg.
+From Denmark, the direct `ECE` Copenhagen – Hamburg can be used, which runs several times a day (every 2 hours in high season). Some services operate as `RJ` on the Copenhagen – Hamburg – Berlin – Prague route. These trains are always very busy, so it is advisable to book a reservation early. Alternatively, there are several `IC` trains daily from Fredericia to Flensburg.
 
 It is also possible to enter via Tønder by regional train. However, since neither DSB on the Danish side nor DB on the German side operates here, FIP discounts are not available on this route. Alternatively, you can enter by ferry to Puttgarden or Warnemünde.
 

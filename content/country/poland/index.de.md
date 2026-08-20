@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Polen
-country: "poland"
+country: poland
 params:
   operators_without_fip:
     - Arriva

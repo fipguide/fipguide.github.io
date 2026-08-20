@@ -1,8 +1,9 @@
 ---
-date: "2025-08-25"
+date: 2025-08-25
 draft: false
-title: "FIP Vergünstigungen Rigi-Bahnen (Schweiz)"
-description: "Ab dem 01.01.2025 gelten FIP Vergünstigungen auch auf einigen Strecken der Rigi-Bahnen in der Schweiz."
+title: FIP Vergünstigungen Rigi-Bahnen (Schweiz)
+description: Ab dem 01.01.2025 gelten FIP Vergünstigungen auch auf einigen
+  Strecken der Rigi-Bahnen in der Schweiz.
 country:
   - switzerland
 operator:
@@ -30,4 +31,4 @@ FIP Vergünstigungen gelten **nicht** auf folgenden Stecken [^1]:
 
 Eine günstige Option für Kinder ist auch die [Kinder-Tageskarte der SBB](https://www.sbb.ch/de/billette-angebote/billette/tageskarten/kinder-tageskarte.html).
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)

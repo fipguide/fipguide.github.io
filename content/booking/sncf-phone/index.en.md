@@ -1,17 +1,16 @@
 ---
 draft: false
-title: "SNCF Telephone"
-description: "Booking information for the SNCF hotline."
-
+title: SNCF Telephone
+description: Booking information for the SNCF hotline.
 params:
   classes:
-    first: "€ 2 / € 16"
-    second: "€ 2 / € 11"
+    first: € 2 / € 16
+    second: € 2 / € 11
   fip_50: true
   fip_75: true
   reservations: true
-  additional_info_link: "https://www.sncf-voyageurs.com/en/contact-us/our-contact-points/by-phone/"
-  type: "phone"
+  additional_info_link: https://www.sncf-voyageurs.com/en/contact-us/our-contact-points/by-phone/
+  type: phone
 ---
 
 Bookings by phone are possible via the SNCF hotline:
@@ -26,21 +25,17 @@ In the next language menu, press 1. You will then be informed that the call may 
 
 A spelling alphabet can help when providing names and addresses.
 
-Payment is only possible by credit card (Visa, Eurocard, or American Express). For payment, you will be redirected to an automated payment process where you must enter the card number, expiry date, and security code using the keypad. Afterwards, you will be reconnected to the agent, who will confirm that the payment was successful.
+Payment is only possible by credit card. For payment, a link will be sent by email or SMS during the phone call, where the credit card details must be entered.
 
 No additional booking fee applies for FIP tickets.
 
 Once tickets or reservations are confirmed, a PNR (booking confirmation) and the eTicket will be sent by email. When traveling by train, you must present the eTicket together with the FIP Coupon or FIP Card.
 
-{{% highlight tip %}}
-To avoid waiting times, you can schedule a callback appointment on the [SNCF website](https://www.tgvinoui.sncf/services/mieux-vous-accompagner/prise-de-rendez-vous). You can provide your name and email address in advance, so you do not need to spell them over the phone. You can also specify your desired connection and indicate the FIP discount in the free text field.
-
-The callback service only works with French phone numbers or foreign landline numbers. Foreign mobile numbers do not work.
-
+{{< highlight tip >}}
 SNCF sometimes refers to FIP discounts as: \
 _FIP cheminot étranger_ = 50% FIP discount \
 _FIP permis (ayant droit SNCF)_ = 100% / FIP Coupon SNCF
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% booking-section "fip_50" %}}
 
@@ -54,8 +49,7 @@ If the staff on the phone is unsure which fare code to use, you can refer them t
 - active employees and their dependents (except GB National Rail), retirees — CF54: Upgrade with FIP 50 Ticket to 1st class + mandatory reservation on trains.
 - active employees and their dependents (GB National Rail only) — CF77: FIP 75 Ticket (75% discount) + mandatory reservation on trains.
 - active employees and their dependents (GB National Rail only) — CF78: Upgrade with FIP 75 Ticket to 1st class + mandatory reservation on trains.
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
@@ -67,9 +61,8 @@ If the staff on the phone is unsure which fare code to use, you can refer them t
 
 - FIP Coupon — CF70: Reservation purchase only.
 - FIP Coupon — CF71: Upgrade the FIP Coupon reservation to 1st class.
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 {{% satellite /%}}
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html)

@@ -1,6 +1,5 @@
 ---
-title: "FAQ"
-layout: "list"
+title: FAQ
 ---
 
 {{< faq >}}

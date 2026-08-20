@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Spain"
-country: "spain"
+title: Spain
+country: spain
 params:
   operators_without_fip:
     - Iryo
@@ -42,7 +42,7 @@ Furthermore, for long-distance travel, luggage checks are conducted at the stati
 
 From Paris, direct `TGV` trains operated by the French SNCF run to Barcelona. Renfe also operates cross-border services between Lyon and Barcelona as well as Marseille and Madrid. FIP Global Fares are available with both operators, but can be very expensive with the SNCF.
 
-FIP Global Fares are available with both operators, but with SNCF they can be very expensive (see [TGV trains to Italy, Spain, and Belgium](/operator/sncf#tgv-italy-spain-belgium)). For Renfe-operated `AVE` trains, FIP Global Fare tickets are available for €25 / €28 (as of May 2026), see [Renfe – AVE](/operator/renfe#ave "Renfe – AVE"). These tickets can be purchased at Renfe Ticket Offices in Spain. When arriving from France, these tickets can also be bought on board — approach the train staff, who can accept card payment. [^1]
+FIP Global Fares are available with both operators, but with SNCF they can be very expensive (see [TGV trains to Italy, Spain, and Belgium](/operator/sncf#tgv-italy-spain-belgium)). For Renfe-operated `AVE` trains, FIP Global Fare tickets are available for €25 / €28 (as of May 2026), see [Renfe – AVE](/operator/renfe#ave "Renfe – AVE"). These tickets can be purchased at Renfe Ticket Offices in Spain. When arriving from France, these tickets can also be bought on board — approach the train staff, who can accept card payment. Even if the train is fully booked and no seats are available, travel can generally be guaranteed. [^1]
 
 With [Euskotren](/operator/euskotren), you can travel with the special FIP Ticket from Hendaye.
 

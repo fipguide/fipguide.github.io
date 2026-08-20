@@ -1,0 +1,4 @@
+{{- $content := .content -}}
+{{- $sourcePagePath := print .page.Section "/" .page.File.ContentBaseName -}}
+{{- $content = replaceRE `!\[([^\]]*)\]\(([^)]+)\)` (printf "![$1]($2)\n{page=\"%s\"}" $sourcePagePath) $content -}}
+{{- return $content -}}

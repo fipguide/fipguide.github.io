@@ -1,17 +1,17 @@
 ---
 draft: false
-title: "DB Hotline FIP (DB Mitarbeitende)"
-description: "Buchungsinformationen für FIP Fahrscheine für DB Mitarbeitende für deutsche Nachbarländer"
-
+title: DB Hotline FIP (DB Mitarbeitende)
+description: Buchungsinformationen für FIP Fahrscheine für DB Mitarbeitende für
+  deutsche Nachbarländer
 params:
   classes:
-    first: "6,90 €"
-    second: "5,50 €"
+    first: 6,90 €
+    second: 5,50 €
   fip_50: true
   reservations: true
-  booking_link: "https://www.db-reisemarkt.de/reisemarkt/bahnangebote/ausland/FIP-Angebot-13034692"
-  additional_info_link: "https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung"
-  type: "phone"
+  booking_link: https://www.db-reisemarkt.de/reisemarkt/bahnangebote/wissenswertes/ansprechpartner_db_ermaessigung-8140844
+  additional_info_link: https://www.bahn.de/angebot/zusatzticket/sitzplatzreservierung
+  type: phone
 ---
 
 {{% booking-section "fip_50" %}}
@@ -35,7 +35,6 @@ FIP 50 Fahrkarten können für die folgenden Länder erworben werden:
 - Belgien
 - Frankreich
 {.o-section--columns-3}
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -43,5 +42,4 @@ FIP 50 Fahrkarten können für die folgenden Länder erworben werden:
 ## Reservierungen
 
 Der Reservierungspreis wird pro Reise berechnet. So muss bei Verbindungen mit Umstieg nur einmal der Preis für mehrere Züge bezahlt werden.
-
 {{% /booking-section %}}

@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "CFL"
+title: CFL
 country:
-  - "luxembourg"
-operator: "cfl"
-
+  - luxembourg
+operator: cfl
 aliases:
   - /booking/cfl-phone
   - /booking/cfl-ticket-office
@@ -21,22 +20,23 @@ La CFL (Société nationale des chemins de fer luxembourgeois) est la compagnie 
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
-{{< highlight important >}}
+{{% highlight important %}}
 Le Luxembourg offre la gratuité des transports publics pour les trajets intérieurs, indépendamment du FIP. Cela inclut tous les trains (sauf TGV), les tramways et les bus. Le voyage avec la CFL est donc gratuit en deuxième classe et aucun billet supplémentaire n’est requis. Le voyage en première classe nécessite un Coupon FIP ou un Billet FIP 50 de première classe. Pour les trajets au-delà du Luxembourg, par exemple vers l’Allemagne ou la Belgique, un billet est nécessaire à partir du point frontière tarifaire. Cela signifie, par exemple, qu’un billet direct, un coupon FIP valide ou une réduction nationale est requis pour voyager jusqu’au pays voisin. Un billet à partir de la première gare après la frontière n’est pas suffisant.
-{{< /highlight >}}
+{{% /highlight %}}
 Les agents de [SNCB / NMBS](/operator/sncb) et de [NS](/operator/ns) peuvent obtenir un _Unlimited Pass_ leur permettant d’utiliser les trains CFL au Luxembourg toute l’année. Cependant, ce pass est payant pour les agents de NS. [^2]
 
 ## Catégories de trains et réservations
 
 {{% train-category
-  id="intercity"
-  title="InterCity (IC)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_possible=true
-  reservation_required=false
+    id="intercity"
+    title="InterCity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Les trains InterCity relient Luxembourg à Liège et Bruxelles en Belgique.
@@ -44,11 +44,12 @@ Les trains InterCity relient Luxembourg à Liège et Bruxelles en Belgique.
 {{% /train-category %}}
 
 {{% train-category
-  id="regionalexpress"
-  title="Regionalexpress (RE)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+    id="regionalexpress"
+    title="Regionalexpress (RE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Trains avec arrêt dans certaines gares.
@@ -56,11 +57,12 @@ Trains avec arrêt dans certaines gares.
 {{% /train-category %}}
 
 {{% train-category
-  id="regionalbahn"
-  title="Regionalbahn (RB)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+    id="regionalbahn"
+    title="Regionalbahn (RB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Trains avec arrêt dans toutes les gares.
@@ -68,10 +70,12 @@ Trains avec arrêt dans toutes les gares.
 {{% /train-category %}}
 
 {{% train-category
-  id="bus"
-  title="Bus"
-  type="bus"
-  fip_accepted=false
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 La CFL exploite également des lignes de bus interurbaines. Celles-ci n’acceptent pas le FIP, mais grâce à la gratuité des transports publics, aucun billet n’est requis.
@@ -79,11 +83,12 @@ La CFL exploite également des lignes de bus interurbaines. Celles-ci n’accept
 {{% /train-category %}}
 
 {{% train-category
-  id="standseilbahn"
-  title="Funiculaire Pfaffenthal-Kirchberg"
-  type="funicular"
-  fip_accepted=true
-  reservation_possible=false
+    id="standseilbahn"
+    title="Funiculaire Pfaffenthal-Kirchberg"
+    type="funicular"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Le funiculaire relie la halte ferroviaire Pfaffenthal-Kirchberg à la plateforme de correspondance sur le plateau du Kirchberg.
@@ -104,21 +109,20 @@ Aux [Guichets CFL](#en-gare), les billets de première classe sont disponibles a
 
 {{% booking id="db-website-fip-international"
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et le Luxembourg pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
+    reservations=nil
 /%}}
 
 {{% booking id="sncb-website"
-subtitle="Uniquement pour les liaisons transfrontalières depuis/vers la Belgique"
+    subtitle="Uniquement pour les liaisons transfrontalières depuis/vers la Belgique"
 /%}}
 
 ### Par téléphone
 
 {{% booking id="cfl-phone"
-fip_global_fare=nil
-fip_50=true
+    fip_50=true
+    fip_global_fare=nil
 %}}
-
 En raison des frais de réservation, il peut être avantageux d’acheter un billet de première classe régulier via l’application CFL ou un distributeur automatique.
-
 {{% /booking %}}
 
 ### En gare
@@ -149,9 +153,13 @@ Il n’y a pas d’autres réductions FIP sur cette liaison.
 La CFL exploite un bus express entre Luxembourg et la gare _Lorraine TGV_ en France comme correspondance TGV. Dans ce bus, le voyage gratuit n’est pas possible. Les tarifs sont disponibles sur le [site de la CFL](https://www.cfl.lu/fr-fr/ticket/internationaldetail/gare-lorraine). Les bus sont soumis à réservation obligatoire et un billet peut être acheté jusqu’à 2,5 heures avant le départ du bus. \
 Nous n’avons pas d’informations officielles concernant la validité des réductions FIP sur cette liaison.
 
+### Correspondances - AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-75)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782281-luxembourg.html)
 
 [^2]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470057862993543220)
 

@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Greece"
-country: "greece"
+title: Greece
+country: greece
 params:
   operators_without_fip:
     - STASY (Urban Rail Transport S.A.)
@@ -38,6 +38,7 @@ The quality of trains varies: while modern electric multiple units operate on th
 | [Italy](/country/italy) ([Attica](/operator/attica)) | Patras (Πάτρα) [>Ancona, >Bari] |
 
 [>] = In the direction of (e.g. Patras [> Ancona] = Patras is the border point in the direction of Ancona)
+
 {{% /expander %}}
 
 ### North Macedonia

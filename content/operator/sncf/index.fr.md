@@ -1,16 +1,15 @@
 ---
 draft: false
-title: "SNCF Voyageurs"
+title: SNCF Voyageurs
 country:
-  - "france"
-  - "germany"
-  - "monaco"
-  - "italy"
-  - "spain"
-  - "belgium"
-  - "luxembourg"
-operator: "sncf"
-
+  - france
+  - germany
+  - monaco
+  - italy
+  - spain
+  - belgium
+  - luxembourg
+operator: sncf
 aliases:
   - /booking/sncf-phone
   - /booking/sncf-ticket-office
@@ -30,7 +29,9 @@ La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferr
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
+
 {{< fip-validity type="fip-global-fare" status="valid" text="pour les trains internationaux `TGV`" disable_dialog=true >}}
 
 Les Coupons FIP et Billets FIP 50 / FIP 75 sont valables sur les services SNCF. Pour les trajets transfrontaliers en trains régionaux, il faut soit un Billet FIP 50 / FIP 75 continu, soit des Coupons FIP valables dans chaque pays. Sur les trains grandes lignes internationaux (`TGV` ou `ICE`), des Tarifs Globaux s’appliquent (voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux)).
@@ -42,23 +43,24 @@ La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC
 ### Grandes lignes
 
 {{% train-category
-  id="tgv-inoui"
-  title="Train à grande vitesse inOui (TGV inOui) / TGV Lyria"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=true
-  route_overview_url="https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf"
+    id="tgv-inoui"
+    title="Train à grande vitesse inOui (TGV inOui) / TGV Lyria"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+    route_overview_url="https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf"
 %}}
+
 Le `TGV` inOui est le train à grande vitesse des SNCF Voyageurs, reliant de nombreuses villes françaises et des destinations internationales (ex. Munich, Francfort, Barcelone, Luxembourg, Bruxelles, Milan). Des trains `TGV` Lyria relient également la France à la Suisse (Bâle, Zurich, Lausanne, Genève).
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 La SNCF exploite aussi des trains longue distance low-cost sous la marque OUIGO, mais ceux-ci ne sont pas valables avec FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
-{{% highlight important %}}
+{{< highlight important >}}
 Des conditions particulières s’appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux).
-
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Réservations
 
@@ -72,32 +74,36 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 {{% /train-category %}}
 
 {{% train-category
-  id="ouigo"
-  title="OUIGO (Grande Vitesse / Train Classique)"
-  type="highspeed"
-  fip_accepted=false
-  reservation_required=true
+    id="ouigo"
+    title="OUIGO (Grande Vitesse / Train Classique)"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 OUIGO (Grande Vitesse) est le service grande vitesse low-cost de la SNCF, reliant de nombreuses villes en France et quelques destinations internationales. Il existe également des OUIGO Classique composés de matériel conventionnel.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 La SNCF exploite aussi des `TGV` sous la marque inOui, qui sont valables avec le FIP.
-{{% /highlight %}}
+{{< /highlight >}}
+
 {{% /train-category %}}
 
 {{% train-category
-  id="ice"
-  title="Intercity-Express (ICE)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=true
+    id="ice"
+    title="Intercity-Express (ICE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
+
 Trains à grande vitesse internationaux exploités par la SNCF en coopération avec la Deutsche Bahn, entre la France (Paris Est, Strasbourg) et l’Allemagne (Karlsruhe, Mannheim, Francfort-sur-le-Main, Erfurt, Halle-sur-Saale et Berlin ou Stuttgart et Munich). En juillet et août, il existe également des [trains directs entre Francfort (Main) et Bordeaux les samedis](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux).
 
-{{% highlight important %}}
+{{< highlight important >}}
 Des conditions particulières s’appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux).
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Réservations
 
@@ -114,12 +120,14 @@ Pour les trains directs entre Francfort (Main) et Bordeaux en juillet et août, 
 {{% /train-category %}}
 
 {{% train-category
-  id="intercites"
-  title="Intercité (IC)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=partially
+    id="intercites"
+    title="Intercité (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=false
 %}}
+
 Trains Intercités de la SNCF reliant différentes villes françaises, généralement à réservation obligatoire.
 
 Sur le [site Intercités](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) de la SNCF, les liaisons avec ou sans obligation de réservation sont indiquées. Il est également possible de consulter les conditions de réservation pour chaque numéro de train via la [recherche de train](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) de la SNCF.
@@ -136,12 +144,14 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 {{% /train-category %}}
 
 {{% train-category
-  id="intercites-de-nuit"
-  title="Intercité de nuit"
-  type="sleeper"
-  fip_accepted=true
-  reservation_required=true
+    id="intercites-de-nuit"
+    title="Intercité de nuit"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
+
 Trains de nuit SNCF en France. Les liaisons internationales Nightjet ont été supprimées en décembre 2025.
 
 #### Réservations
@@ -153,42 +163,51 @@ Coût selon la ligne et l’affluence.
 ### Trains régionaux
 
 {{% train-category
-  id="ter"
-  title="Train express régional (TER)"
-  type="regional"
-  fip_accepted=true
-  reservation_required=partially
+    id="ter"
+    title="Train express régional (TER)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=false
 %}}
+
 Le `TER` est le train régional reliant différentes villes françaises.
 Certaines lignes au départ de Paris sont à réservation obligatoire, voir [Réservation obligatoire en TER](#réservation-obligatoire-en-ter).
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Sur la ligne Marseille – Nice, Transdev exploite les trains, c’est pourquoi FIP n’est pas accepté. Cependant, sur la ligne Marseille – Toulon, des trains de la SNCF sont également utilisés, où FIP est accepté. Une vérification préalable de l’exploitant est donc indispensable ici.
-{{% /highlight %}}
+{{< /highlight >}}
+
 {{% /train-category %}}
 
 {{% train-category
-  id="rer"
-  title="Réseau Express Régional (RER)"
-  type="regional"
-  fip_accepted=partially
-  reservation_possible=false
+    id="rer"
+    title="Réseau Express Régional (RER)"
+    type="regional"
+    fip_accepted=partially
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Le RER est un train de banlieue exploité par la SNCF en Île-de-France (région parisienne) et villes alentours.
 
-{{% highlight important %}}
+{{< highlight important >}}
 FIP n’est valable que sur certains tronçons du RER, voir [Trains en Île-de-France](#trains-en-île-de-france)
-{{% /highlight %}}
+{{< /highlight >}}
+
 {{% /train-category %}}
 
 {{% train-category
-  id="bus"
-  title="Bus"
-  type="bus"
-  fip_accepted=partially
-  reservation_possible=false
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=partially
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sauf les autocars longue distance (ex. BlaBlaCar Bus). Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable. [^1]
+
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -198,21 +217,21 @@ Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sau
 Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="db-website-fip-db"
-  subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE et trains régionaux entre l’Allemagne et la France, avec une part de billet uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."
-    reservations="nil"
+    subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE et trains régionaux entre l’Allemagne et la France, avec une part de billet uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."
     classes.first="nil"
     classes.second="nil"
+    reservations=nil
 /%}}
 
 {{% booking id="db-website-fip-international"
-  subtitle="Billets FIP 50 transfrontaliers pour trains régionaux entre l’Allemagne et la France pour l’ensemble du trajet (non valables dans le pays d’émission du Carte FIP)."
-    reservations="nil"
+    subtitle="Billets FIP 50 transfrontaliers pour trains régionaux entre l’Allemagne et la France pour l’ensemble du trajet (non valables dans le pays d’émission du Carte FIP)."
     classes.first="nil"
     classes.second="nil"
+    reservations=nil
 /%}}
 
 {{% booking id="sncb-website"
-  subtitle="Billets transfrontaliers avec Coupon FIP pour la SNCB"
+    subtitle="Billets transfrontaliers avec Coupon FIP pour la SNCB"
 /%}}
 
 ### Par téléphone
@@ -225,27 +244,32 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 /%}}
 
 {{% booking id="db-phone-fip-db"
-  subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE et trains régionaux entre l’Allemagne et la France, avec une part de billet uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."
-  reservations="nil"
-  classes.first="nil"
-  classes.second="nil"
+    subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE et trains régionaux entre l’Allemagne et la France, avec une part de billet uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."
+    classes.first="nil"
+    classes.second="nil"
+    reservations=nil
 /%}}
 
 ### En gare
 
 {{% booking id="sncf-ticket-office" /%}}
 
-{{% booking id="transilien-ticket-office" subtitle="Pour trains en Île-de-France" /%}}
+{{% booking id="zou-ticket-office" /%}}
+
+{{% booking id="transilien-ticket-office"
+    subtitle="Pour trains en Île-de-France"
+/%}}
 
 {{% booking id="ns-ticket-office"
     classes.first="2 € / 16 €"
     classes.second="2 € / 11 €"
 /%}}
 
-{{% booking id="db-ticket-office" subtitle="Pour TGV/ICE transfrontaliers entre Allemagne et France"
-    reservations="nil"
+{{% booking id="db-ticket-office"
+    subtitle="Pour TGV/ICE transfrontaliers entre Allemagne et France"
     classes.first="nil"
     classes.second="nil"
+    reservations=nil
 %}}
 Au DB Reisezentrum, il est possible d’acheter des Billets FIP 50 transfrontaliers pour TGV/ICE entre l’Allemagne et la France. On ne sait pas actuellement si la réservation de trains intérieurs français est possible.
 {{% /booking %}}
@@ -286,12 +310,14 @@ Cette obligation s’applique aux lignes suivantes :
 ### Trains TGV inOui / ICE internationaux
 
 {{% train-category
-  id="tgv-ice-germany"
-  title="TGV/ICE vers l’Allemagne"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=partially
+    id="tgv-ice-germany"
+    title="TGV/ICE vers l’Allemagne"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=false
 %}}
+
 Les trains TGV et ICE internationaux sont à réservation obligatoire sur la section française. En Allemagne, la réservation n’est pas obligatoire et les Coupons FIP sont valables.
 Pour les trajets à l’intérieur de la France, les frais de réservation nationaux habituels pour les `TGV` s’appliquent. Les trajets internationaux nécessitent une réservation transfrontalière :
 
@@ -308,22 +334,27 @@ Quelques trains `TGV` circulent de Paris à Fribourg-en-Brisgau et sont entière
 {{% /train-category %}}
 
 {{% train-category
-  id="tgv-italy-spain-belgium"
-  title="TGV vers l’Italie, l’Espagne et la Belgique"
-  type="highspeed"
-  fip_accepted=partially
-  reservation_required=true
+    id="tgv-italy-spain-belgium"
+    title="TGV vers l’Italie, l’Espagne et la Belgique"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
 %}}
+
 Les trains TGV internationaux de la France vers l’Italie, l’Espagne ou la Belgique sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP, qui peuvent être très chers (jusqu’à 130 €).
+
 {{% /train-category %}}
 
 {{% train-category
-  id="tgv-luxembourg"
-  title="TGV vers le Luxembourg"
-  type="highspeed"
-  fip_accepted=partially
-  reservation_required=true
+    id="tgv-luxembourg"
+    title="TGV vers le Luxembourg"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=true
+    reservation_possible=true
 %}}
+
 Les trains TGV internationaux entre la France et le Luxembourg sont à réservation obligatoire sur tout le trajet et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP.
 
 Les prix sont valables à partir de 2026 : [^4]
@@ -336,13 +367,16 @@ Les prix sont valables à partir de 2026 : [^4]
 {{% /train-category %}}
 
 {{% train-category
-  id="tgv-lyria"
-  title="TGV Lyria vers la Suisse"
-  type="highspeed"
-  fip_accepted=partially
-  reservation_required=partially
+    id="tgv-lyria"
+    title="TGV Lyria vers la Suisse"
+    type="highspeed"
+    fip_accepted=partially
+    reservation_required=partially
+    reservation_possible=false
 %}}
+
 Les trains TGV Lyria internationaux de la France vers la Suisse sont à réservation obligatoire sur la section française et les Coupons FIP ne sont pas valables. Il est possible d’acheter des Tarifs Globaux FIP. En Suisse, la réservation n’est pas obligatoire et les Coupons FIP sont valables.
+
 {{% /train-category %}}
 
 ### Trains en Île-de-France
@@ -352,12 +386,14 @@ Les trains TGV Lyria internationaux de la France vers la Suisse sont à réserva
 La RATP exploite le métro de Paris, des lignes de bus et une partie du réseau RER. La SNCF exploite le reste du réseau RER. Les réductions FIP ne sont pas valables sur les services RATP.
 
 {{% train-category
-  id="rer-paris"
-  title="Trains RER"
-  type="regional"
-  fip_accepted=partially
-  reservation_possible=nil
+    id="rer-paris"
+    title="Trains RER"
+    type="regional"
+    fip_accepted=partially
+    reservation_required=false
+    reservation_possible=nil
 %}}
+
 Certaines lignes RER sont exploitées par la SNCF. Les réductions FIP sont valables sur les sections suivantes :
 
 - RER ligne A – uniquement les branches A3 & A5 à l’ouest de Nanterre Préfecture jusqu’à Poissy ou Cergy-le-Haut
@@ -369,39 +405,45 @@ Certaines lignes RER sont exploitées par la SNCF. Les réductions FIP sont vala
 Attention : pour les trajets entre Gare du Nord et Châtelet – Les Halles, seule la ligne RER D exploitée par la SNCF est valable. Les réductions FIP ne sont pas valables sur la ligne RER B exploitée par la RATP sur le même tronçon.
 
 L’accès à certaines gares est limité par des portillons. Lors de l’utilisation de Coupons FIP, un pass d’accès temporaire est nécessaire, voir [Portillons](#portillons).
+
 {{% /train-category %}}
 
 {{% train-category
-  id="transilien"
-  title="Trains Transilien"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=nil
+    id="transilien"
+    title="Trains Transilien"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=nil
 %}}
+
 Les réductions FIP sont valables sur toutes les lignes Transilien H, J, K, L, N, P, R, U et V.
 
 L’accès à certaines gares est limité par des portillons. Lors de l’utilisation de Coupons FIP, un pass d’accès temporaire est nécessaire, voir [Portillons](#portillons).
+
 {{% /train-category %}}
 
 {{% train-category
-  id="trams-paris"
-  title="Tramways"
-  type="tram"
-  fip_accepted=false
-  reservation_possible=nil
+    id="trams-paris"
+    title="Tramways"
+    type="tram"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=nil
 %}}
+
 Les réductions FIP ne sont pas valables dans les tramways de la région parisienne.[^3]
+
 {{% /train-category %}}
 
 #### Portillons
 
 {{% float-image
-  src="contramarquedePassage.webp"
-  alt="Contramarque de Passage"
-  width="60%"
-  position="right"
+    src="contramarquedePassage.webp"
+    alt="Contramarque de Passage"
+    width="60%"
+    position="right"
 %}}
-
 Les Billets FIP à tarif réduit pour `RER` et Transilien peuvent être achetés aux guichets Transilien. Lors de l’utilisation de ces services avec un Coupon FIP SNCF, il faut retirer une _Contremarque de Passage_ (carte d’accès temporaire) gratuite au guichet Transilien pour chaque trajet. Généralement, seules quelques cartes sont délivrées à la fois.
 {{% /float-image %}}
 
@@ -421,7 +463,7 @@ La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent ac
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html)
 
 [^2]: [SNCF NOMAD](https://www.ter.sncf.com/normandie/tarifs-cartes/offre-krono-plus/reservation)
 

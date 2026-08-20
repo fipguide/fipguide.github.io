@@ -1,7 +1,7 @@
 ---
-title: "Overview of countries"
-description: "A clear overview of all countries where FIP benefits are available. Find out in which countries FIP 50 tickets and FIP coupons can be used."
-
+title: Overview of countries
+description: A clear overview of all countries where FIP benefits are available.
+  Find out in which countries FIP 50 tickets and FIP coupons can be used.
 params:
   countriesWithoutFip:
     - Åland Islands
@@ -14,6 +14,7 @@ params:
     - Finland (VR – VR-Yhtymä)
     - Iceland
     - Isle of Man (IoMR – Isle of Man Railways)
+    - Kosovo (Trainkos)
     - Malta
     - Moldova (CFM – Calea Ferată din Moldova)
     - Russia (RZD – Rossiyskie zheleznye dorogi)

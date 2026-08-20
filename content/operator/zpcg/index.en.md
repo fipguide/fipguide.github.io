@@ -1,9 +1,9 @@
 ---
 draft: false
-title: "ŽPCG"
+title: ŽPCG
 country:
-  - "montenegro"
-operator: "zpcg"
+  - montenegro
+operator: zpcg
 ---
 
 ŽPCG (Željeznički prevoz Crne Gore, Жељезнички превоз Црне Горе) is the national passenger transport operator in Montenegro.
@@ -16,6 +16,7 @@ operator: "zpcg"
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on ŽPCG services. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries must be available.
@@ -28,7 +29,9 @@ FIP Coupons and FIP 50 Tickets are valid on ŽPCG services. For cross-border jou
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 The ŽPCG operates regional trains in domestic traffic, which are second class only.
 The trains do not have line designations and only carry a train number.
 
@@ -47,6 +50,7 @@ Upon presentation of the FIP Card, a 50% discount is granted on [regular ticket 
     type="sleeper"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=true
 %}}
 
 Between Montenegro and Serbia, ŽPCG operates daytime trains in the summer months as well as year-round night trains with seated, couchette and sleeping cars and (partly) dining cars.
@@ -68,6 +72,7 @@ An additional 10% service fee applies for couchette/sleeping car reservations.[^
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=nil
 %}}
 
@@ -83,9 +88,19 @@ Apparently, tickets and reservations can also be booked by email via [info@zpcg.
 However, we do not have official information on this procedure.
 {{% /highlight %}}
 
+### Telephone
+
+{{% booking id="sv-phone"
+    subtitle="Reservation of international trips between Serbia and Montenegro"
+/%}}
+
 ### On-Site
 
 {{% booking id="zpcg-ticket-office" /%}}
+
+{{% booking id="sv-ticket-office"
+    subtitle="For International Trains Only"
+/%}}
 
 ### On the Train
 

@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Allemagne"
-country: "germany"
+title: Allemagne
+country: germany
 params:
   operators_without_fip:
     - Abellio Rail Mitteldeutschland GmbH
@@ -56,10 +56,6 @@ params:
     - RDC Autozug Sylt GmbH – AS
     - RDC Deutschland GmbH
     - REGIOBAHN
-    - Regionalverkehre Start Deutschland GmbH (Start Mitteldeutschland)
-    - Regionalverkehre Start Deutschland GmbH (Start Niedersachsen-Mitte)
-    - Regionalverkehre Start Deutschland GmbH (Start Taunus) – STN
-    - Regionalverkehre Start Deutschland GmbH (Start Unterelbe)
     - RegioTram – RT
     - Rhein-Neckar-Verkehr GmbH
     - RheinRuhrBahn (Transdev) – RRB
@@ -157,7 +153,7 @@ MS = Mitte See
 
 ### Danemark
 
-Depuis le Danemark, l’`ECE` direct Copenhague – Hambourg circule plusieurs fois par jour (en haute saison toutes les 2 heures). Ces trains sont très fréquentés, il est donc conseillé de réserver tôt. Il existe aussi plusieurs `IC` de Fredericia à Flensburg chaque jour.
+Depuis le Danemark, l’`ECE` direct Copenhague – Hambourg circule plusieurs fois par jour (en haute saison toutes les 2 heures). Certains trains circulent en tant que `RJ` sur l’itinéraire Copenhague – Hambourg – Berlin – Prague. Ces trains sont très fréquentés, il est donc conseillé de réserver tôt. Il existe aussi plusieurs `IC` de Fredericia à Flensburg chaque jour.
 
 En trafic régional, il est aussi possible d’entrer par Tønder. Cependant, ni la DSB côté danois ni la DB côté allemand n’y circulent, donc aucune réduction FIP n’est possible sur cet itinéraire. Il est aussi possible de rejoindre l’Allemagne par ferry à Puttgarden ou Warnemünde.
 

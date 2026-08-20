@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "SNCB / NMBS"
+title: SNCB / NMBS
 country:
-  - "belgium"
-operator: "sncb"
-
+  - belgium
+operator: sncb
 aliases:
   - /booking/sncb-phone
   - /booking/sncb-ticket-office
@@ -23,6 +22,7 @@ The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maat
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 FIP Coupons and FIP 50 / FIP 75 Tickets are valid on SNCB connections. For cross-border trips, either a continuous FIP 50 / FIP 75 ticket or FIP Coupons from both countries must be available.
@@ -75,9 +75,9 @@ Unlike in other countries, these are not real long-distance trains, but rather f
 
 International train between Lelystad, Amsterdam and Brussels with stops in Almere, Schiphol, Rotterdam and Antwerp.
 
-{{% highlight important %}}
+{{< highlight important >}}
 For journeys within the Netherlands, special regulations apply, see [NS ECD](/operator/ns#ecd)
-{{% /highlight %}}
+{{< /highlight >}}
 
 ![Eurocity (Direct) Network](eurocity-map.en.svg)
 
@@ -211,13 +211,33 @@ Up to four children under the age of 12 travel for free when accompanied by an a
 
 ## Special Tariff Conditions
 
+### Three-Country Train (Liège – Maastricht – Heerlen – Aachen)
+
+Since June 2024, Arriva operates the Three-Country Train between Aachen (Germany), Heerlen (Netherlands), Maastricht (Netherlands), and Liège-Guillemins (Belgium). On the section between Liège-Guillemins and Maastricht, the train is operated on behalf of SNCB (Belgian section) and NS (Dutch section up to Maastricht). SNCB and NS tickets, including FIP, remain valid on this section.[^8]
+
+{{% highlight important %}}
+FIP is valid between Liège-Guillemins and Maastricht. Beyond Maastricht towards Heerlen and Aachen, the train is operated by Arriva and FIP is not valid on this section.
+{{% /highlight %}}
+
 ### Brussels Zaventem Airport
 
 For connections to and from Brussels Zaventem Airport, a surcharge must be paid for the FIP Coupon. This currently amounts to € 7.10 (see [SNCB info](https://www.belgiantrain.be/en/tickets-and-railcards/airports/brussels-airport)) and must also be paid if the note _No Supplement Necessary_ is indicated. [^1] For FIP 50 / FIP 75 Tickets, this is already included in the price, unless the ticket was purchased at a ticket machine. [^2]
 
+### Connections
+
+#### HOTNAT
+
+If a connecting train is missed at the stations Paris, Brussels, Cologne, Munich, Basel, or Zurich, HOTNAT can be used.
+
+This operator is part of HOTNAT (Hop on the Next Available Train). [More information in the FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782239-belgium.html)
 
 [^2]: [FIP Guide Community: SNCB Airport Supplement at Ticket Machine](https://discord.com/channels/1250522473188032512/1510952481532678176/1511307974487048284)
 
@@ -228,3 +248,5 @@ For connections to and from Brussels Zaventem Airport, a surcharge must be paid 
 [^6]: [Rail Delivery Group -- Changes to buying tickets on SNCB trains in Belgium](https://www.raildeliverygroup.com/rst/stop-press/469782370-changes-to-buying-tickets-on-sncb-trains-in-belgium.html)
 
 [^7]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470491831987998771)
+
+[^8]: [Arriva Three-Country Train](https://www.arriva.nl/over-je-reis/met-de-trein/de-drielandentrein/)

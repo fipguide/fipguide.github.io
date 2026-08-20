@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "NS Telephone"
-description: "Booking information for the NS hotline."
-
+title: NS Telephone
+description: Booking information for the NS hotline.
 params:
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.nsinternational.com/en/where-to-buy/telephone-nsinternational-service-center"
-  type: "phone"
+  additional_info_link: https://www.nsinternational.com/en/where-to-buy/telephone-nsinternational-service-center
+  type: phone
 ---
 
 NS offers a booking hotline for tickets and reservations:
@@ -16,7 +15,7 @@ NS offers a booking hotline for tickets and reservations:
 
 A credit card is required for booking. Payment is made via a link sent by email.
 
-The hotline is available daily from 7 a.m. to 11 p.m.
+The hotline is available on Monday through Friday from 7 a.m. to 7 p.m, and Saturday and Sunday from 8:30 a.m. to 5 p.m.
 
 {{% satellite /%}}
 
@@ -25,7 +24,6 @@ The hotline is available daily from 7 a.m. to 11 p.m.
 ## FIP 50 Tickets
 
 FIP 50 Tickets can be purchased for the Netherlands and other countries.
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -33,5 +31,4 @@ FIP 50 Tickets can be purchased for the Netherlands and other countries.
 ## Reservations
 
 Reservations can be purchased for the Netherlands and other countries such as Belgium, Germany, and France.
-
 {{% /booking-section %}}

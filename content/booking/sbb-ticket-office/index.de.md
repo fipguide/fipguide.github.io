@@ -1,17 +1,15 @@
 ---
 draft: false
-title: "SBB Ticketschalter"
-description: "Buchungsinformationen für die SBB Reisezentren."
-
+title: SBB Ticketschalter
+description: Buchungsinformationen für die SBB Reisezentren.
 params:
   classes:
-    first: "5 CHF"
-    second: "5 CHF"
+    first: 5 CHF
+    second: 5 CHF
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.sbb.ch/de/reiseinformationen/bahnhoefe/services-bahnhof.html"
-  type: "onsite"
-
+  additional_info_link: https://www.sbb.ch/de/reiseinformationen/bahnhoefe/services-bahnhof.html
+  type: onsite
 aliases:
   - sbb_ticket_office
 ---
@@ -21,7 +19,6 @@ aliases:
 ## FIP 50 Fahrkarten
 
 In SBB Reisezentren können FIP 50 Fahrkarten für Reisen innerhalb der Schweiz und in viele europäischen Länder erworben werden.
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -29,5 +26,6 @@ In SBB Reisezentren können FIP 50 Fahrkarten für Reisen innerhalb der Schweiz 
 ## Reservierungen
 
 Reservierungen können für die Schweiz, aber auch für einen Großteil an Zügen in ganz Europa verkauft werden.
-
 {{% /booking-section %}}
+
+Um Wartezeiten zu vermeiden, kann vorab online ein persönlicher Beratungstermin vereinbart werden: [Beratungstermin buchen](https://www.sbb.ch/de/hilfe-und-kontakt/produkte-services/weitere-services/weitere-sbb-services/beratung-reisezentrum.html)

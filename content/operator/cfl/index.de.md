@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "CFL"
+title: CFL
 country:
-  - "luxembourg"
-operator: "cfl"
-
+  - luxembourg
+operator: cfl
 aliases:
   - /booking/cfl-phone
   - /booking/cfl-ticket-office
@@ -21,23 +20,24 @@ Die CFL (Société nationale des chemins de fer luxembourgeois) ist die luxembur
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
-{{< highlight important >}}
+{{% highlight important %}}
 Luxemburg bietet kostenlosen öffentlichen Nahverkehr für Inlandsfahrten unabhängig von FIP an. Dies umfasst alle Zugverbindungen (außer TGV), Straßenbahnen und Busse. Die Fahrt mit der CFL ist somit in der zweiten Klasse kostenlos und es muss kein zusätzliches Ticket erworben werden. Die Fahrt in der ersten Klasse erfordert einen FIP Freifahrtschein oder FIP 50 Ticket der ersten Klasse. Für Fahrten über Luxemburg hinaus z. B. Richtung Deutschland oder Belgien wird eine Fahrkarte ab dem Grenztarifpunkt benötigt. Das bedeutet, dass beispielsweise ein durchgehendes Ticket, ein gültiger Freifahrtschein oder eine nationale Fahrvergünstigung bei Fahrten nach Deutschland nötig sind, um bis ins Nachbarland zu fahren. Eine Fahrkarte ab dem ersten Bahnhof nach der Grenze ist nicht ausreichend.
-{{< /highlight >}}
+{{% /highlight %}}
 
 Mitarbeitende der [SNCB / NMBS](/operator/sncb) und [NS](/operator/ns) können einen _Unlimited Pass_ erhalten, mit dem sie das gesamte Jahr die Züge der CFL in Luxemburg nutzen können. Dieser ist für Mitarbeitende der NS jedoch kostenpflichtig. [^2]
 
 ## Zugkategorien und Reservierungen
 
 {{% train-category
-  id="intercity"
-  title="InterCity (IC)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_possible=true
-  reservation_required=false
+    id="intercity"
+    title="InterCity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 InterCity-Züge verbinden Luxemburg mit Liège und Brüssel in Belgien.
@@ -45,11 +45,12 @@ InterCity-Züge verbinden Luxemburg mit Liège und Brüssel in Belgien.
 {{% /train-category %}}
 
 {{% train-category
-  id="regionalexpress"
-  title="Regionalexpress (RE)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+    id="regionalexpress"
+    title="Regionalexpress (RE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Züge mit Halt an manchen Stationen.
@@ -57,11 +58,12 @@ Züge mit Halt an manchen Stationen.
 {{% /train-category %}}
 
 {{% train-category
-  id="regionalbahn"
-  title="Regionalbahn (RB)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+    id="regionalbahn"
+    title="Regionalbahn (RB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Züge mit Halt an allen Stationen.
@@ -69,10 +71,12 @@ Züge mit Halt an allen Stationen.
 {{% /train-category %}}
 
 {{% train-category
-  id="bus"
-  title="Bus"
-  type="bus"
-  fip_accepted=false
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Die CFL betreibt auch überregionale Buslinien. Diese akzeptieren zwar kein FIP, durch den kostenlosen öffentlichen Nahverkehr ist jedoch kein Fahrschein erforderlich.
@@ -80,11 +84,12 @@ Die CFL betreibt auch überregionale Buslinien. Diese akzeptieren zwar kein FIP,
 {{% /train-category %}}
 
 {{% train-category
-  id="standseilbahn"
-  title="Standseilbahn Pfaffenthal-Kirchberg"
-  type="funicular"
-  fip_accepted=true
-  reservation_possible=false
+    id="standseilbahn"
+    title="Standseilbahn Pfaffenthal-Kirchberg"
+    type="funicular"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Die Standseilbahn verbindet die Bahnhaltestelle Pfaffenthal-Kirchberg mit der Umsteigeplattform auf dem Kirchberg-Plateau.
@@ -105,21 +110,20 @@ An [CFL-Ticketschaltern](#vor-ort) sind die erste Klasse Tickets bei Vorlage des
 
 {{% booking id="db-website-fip-international"
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Luxemburg für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+    reservations=nil
 /%}}
 
 {{% booking id="sncb-website"
-subtitle="Nur für grenzüberschreitende Verbindungen von/nach Belgien"
+    subtitle="Nur für grenzüberschreitende Verbindungen von/nach Belgien"
 /%}}
 
 ### Telefon
 
 {{% booking id="cfl-phone"
-fip_global_fare=nil
-fip_50=true
+    fip_50=true
+    fip_global_fare=nil
 %}}
-
 Aufgrund der anfallenden Buchungsgebühr lohnt sich ggf. der Kauf einer regulären erste Klasse Fahrkarte via CFL-App oder Fahrkartenautomat.
-
 {{% /booking %}}
 
 ### Vor Ort
@@ -150,9 +154,13 @@ Es gibt auf dieser Verbindung keine weiteren FIP-Vergünstigungen.
 Die CFL betreibt einen Expressbus zwischen Luxemburg und dem Bahnhof _Lorraine TGV_ in Frankreich als `TGV` Zubringer. In diesem Bus ist keine allgemeine kostenlose Fahrt möglich. Die Fahrpreise können auf der [Website der CFL](https://www.cfl.lu/de-de/ticket/internationaldetail/gare-lorraine) eingesehen werden. Die Busse sind reservierungspflichtig und ein Ticket kann bis zu 2,5 Stunden vor Abfahrt des Busses erworben werden. \
 Zur Gültigkeit von FIP Vergünstigungen sind uns keine offiziellen Informationen bekannt.
 
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
+
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-75)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782281-luxembourg.html)
 
 [^2]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470057862993543220)
 

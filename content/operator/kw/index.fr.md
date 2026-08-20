@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "KW"
+title: KW
 country:
-  - "poland"
-operator: "kw"
-
+  - poland
+operator: kw
 aliases:
   - /booking/kw-ticket-machine
   - /booking/kw-ticket-office
@@ -24,6 +23,7 @@ Sur le site Web de KW, toutes les [lignes actuellement desservies en service ré
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valides chez KW.
@@ -40,40 +40,40 @@ Les Billets FIP ne sont généralement pas valables dans les autobus KW. Dans le
 
 ### En ligne
 
-{{% booking id="kw-website"
-%}}
+{{% booking id="kw-website" %}}
 Les Billets FIP 50 sont disponibles pour les trajets nationaux et internationaux. Pour les trajets internationaux, la Réduction FIP 50 ne s’applique qu’en Pologne. En dehors de la Pologne, le tarif normal s’applique.
 {{% /booking %}}
 
 {{% booking id="koleo-website"
     reservations=nil
-%}}
-{{% /booking %}}
+/%}}
 
 {{% booking id="db-website-fip-db"
-    reservations=nil
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, avec portion de billet uniquement pour la section polonaise. Réservé aux employés de la Deutsche Bahn."
+    reservations=nil
 /%}}
 
 {{% booking id="db-website-fip-international"
-    reservations=nil
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne pour l’ensemble du trajet (non valable dans le pays d’émission de la Carte FIP)"
+    reservations=nil
 /%}}
 
 ### Par téléphone
 
 {{% booking id="db-phone-fip-db"
-    reservations=nil
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, avec portion de billet uniquement pour la section polonaise. Réservé aux employés de la Deutsche Bahn."
+    reservations=nil
 /%}}
 
 ### En gare
 
-{{% booking id="kw-ticket-machine"/%}}
+{{% booking id="kw-ticket-machine" /%}}
 
-{{% booking id="kw-ticket-office"/%}}
+{{% booking id="kw-ticket-office" /%}}
 
-{{% booking id="db-ticket-office" reservations=nil /%}}
+{{% booking id="db-ticket-office"
+    reservations=nil
+/%}}
 
 ### À bord du train
 
@@ -109,4 +109,4 @@ Similaire aux autres sociétés ferroviaires régionales en Pologne qui accepten
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

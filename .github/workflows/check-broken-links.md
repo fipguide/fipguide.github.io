@@ -1,11 +1,3 @@
----
-title: Website Contains Broken Links
-labels:
-  - content
-assignees:
-  - lenderom
----
-
 ## Broken Links Detected
 
 Broken Link Checker found broken links on https://fipguide.org

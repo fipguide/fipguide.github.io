@@ -1,15 +1,15 @@
 ---
 draft: false
-title: "Ffestiniog Travel Téléphone"
-description: "Informations de réservation pour la hotline de Ffestiniog Travel."
+title: Ffestiniog Travel Téléphone
+description: Informations de réservation pour la hotline de Ffestiniog Travel.
 params:
   fee: 12 % p/p (min. 5 £, max. 60 £)
   fip_50: true
   fip_global_fare: true
-  type: "phone"
+  type: phone
 ---
 
-Ffestiniog Travel a un accès direct aux systèmes de réservation de nombreux opérateurs ferroviaires et peut proposer des billets pour de nombreux trains en Europe.
+Ffestiniog Travel a un accès direct aux systèmes de réservation de nombreux opérateurs ferroviaires et peut proposer des billets pour de nombreux trains en Europe.[^1]
 Les exceptions sont la France (SNCF) et la Norvège (Vy Group).
 
 Sur demande, le personnel établit l’offre adaptée au voyage : [+44 (0)1766 515630](tel:+441766515630)
@@ -28,6 +28,4 @@ Des billets au Tarif Global FIP pour Eurostar peuvent être achetés via la hotl
 
 {{% satellite /%}}
 
-## Sources
-
-[Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)
+[^1]: [Feedback: FIP reduced Ticket booking](https://github.com/fipguide/fipguide.github.io/issues/710)

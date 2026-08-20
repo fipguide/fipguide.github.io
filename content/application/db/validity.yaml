@@ -1,0 +1,335 @@
+# This file shows the rules for FIP cards issued by DB.
+_anchors:
+  coupon-4fields: &coupon-4fields
+    status: valid
+    text:
+      de: |
+        **1 Freifahrtschein**
+        <small>Mit jeweils 4 Feldern pro Jahr. Jedes Feld ist zwei Tage gültig.</small>
+      en: |
+        **1 coupon**
+        <small>With 4 fields each per year. Each field is valid for two days.</small>
+      fr: |
+        **1 coupon**
+        <small>Avec 4 champs chacun par an. Chaque champ est valable deux jours.</small>
+  coupon-not-available: &coupon-not-available
+    status: invalid
+    text:
+      de: "Nicht verfügbar"
+      en: "Not available"
+      fr: "Non disponible"
+  reduced-50: &reduced-50
+    status: valid
+    text:
+      de: "50 % Rabatt"
+      en: "50 % discount"
+      fr: "50 % de réduction"
+  reduced-50-group: &reduced-50-group
+    active: *reduced-50
+    active-relatives: *reduced-50
+    retired: *reduced-50
+    retired-relatives: *reduced-50
+  coupon-crossing: &coupon-crossing
+    status: valid
+    text:
+      de: |
+        **1 Freifahrtschein**
+        <small>Mit jeweils 2 Feldern pro Jahr. Jedes Feld ist für eine Überfahrt gültig.</small>
+      en: |
+        **1 coupon**
+        <small>With 2 fields each per year. Each field is valid for one crossing.</small>
+      fr: |
+        **1 coupon**
+        <small>Avec 2 champs chacun par an. Chaque champ est valable pour une traversée.</small>
+  coupon-former-1-onetime: &coupon-former-1-onetime
+    status: valid
+    text:
+      de: |
+        **1 Freifahrtschein**
+        <small>Einmalig, innerhalb von 45 Monaten nach Austritt.</small>
+      en: |
+        **1 coupon**
+        <small>One-time, within 45 months after leaving.</small>
+      fr: |
+        **1 coupon**
+        <small>Unique, dans les 45 mois suivant le départ.</small>
+sncf:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+stl:
+  fip-coupon:
+    active: *coupon-crossing
+    active-relatives: *coupon-crossing
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+pkp:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-4fields
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+sncb:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-4fields
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+gysev:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-4fields
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+ns:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-4fields
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+oebb:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-4fields
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+cp:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-4fields
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+fs:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-4fields
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+bls:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-4fields
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+bdz:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-4fields
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+zssk:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+sp:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+sbb:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+renfe:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+kd:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+dsb:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+cfl:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+cd:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+bsb:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+ltg:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+gb:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+cfr:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+cie:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+ht:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+hz:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+ks:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+kw:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+lka:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+mav:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+nir:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+sll:
+  fip-coupon:
+    active: *coupon-crossing
+    active-relatives: *coupon-crossing
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+sv:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+sz:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+vr:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+vy:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+zfbh:
+  fip-coupon:
+    active: *coupon-not-available
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+zpcg:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+zrs:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-not-available
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group
+zrms:
+  fip-coupon:
+    active: *coupon-4fields
+    active-relatives: *coupon-4fields
+    retired: *coupon-former-1-onetime
+    retired-relatives: *coupon-not-available
+  fip-reduced-ticket: *reduced-50-group

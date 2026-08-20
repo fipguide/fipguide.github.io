@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "Renfe"
+title: Renfe
 country:
-  - "spain"
-  - "france"
-operator: "renfe"
-
+  - spain
+  - france
+operator: renfe
 aliases:
   - /booking/renfe-ticket-office
 ---
@@ -22,7 +21,9 @@ Renfe Operadora est la compagnie ferroviaire publique en [Espagne](/country/spai
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" text="Sauf trains à réservation obligatoire" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" text="Sauf trains à réservation obligatoire" >}}
+
 {{< fip-validity type="fip-global-fare" status="valid" text="Pour les trains à réservation obligatoire (sauf Avlo)" disable_dialog=true >}}
 
 ## Catégories de trains et réservations
@@ -190,7 +191,7 @@ Les réservations sont obligatoires, sauf sur la ligne Barcelone(-Gérone-Figuer
 
 Trains de banlieue, comparables à un RER/S-Bahn. Les Coupons FIP gratuits sont valables sans restriction.
 
-À Barcelone, les Cercanías (y compris vers l’aéroport) ne sont accessibles que par des portiques. À un guichet avec du personnel, il est possible de demander un « Bono Gratuit » (pour le Coupon FIP) – un billet gratuit qui ouvre les portiques. Il n’est valable que pour un seul trajet.[^4]
+À Barcelone, les Cercanías (y compris vers l’aéroport) ne sont accessibles que par des portiques. Sur place, il faut s’adresser au personnel pour pouvoir franchir les portiques.
 
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
@@ -227,7 +228,7 @@ Non disponible – il faut se rendre au guichet Renfe.
 
 {{% booking id="db-ticket-office"
     fip_global_fare=true
-    reservations="nil"
+    reservations=nil
 %}}
 
 #### Tarif Global FIP
@@ -258,6 +259,10 @@ Les trajets avec Billets FIP 50 ou FIP Global ne peuvent pas être interrompus. 
 
 Les bénéfices FIP s’appliquent également au réseau à voie métrique de Renfe Feve (Ferrocarriles de Vía Estrecha) entre Ferrol et Bilbao, dans le nord de l’Espagne.
 
+### Correspondances - AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ## Recommandations
 
 Sur le site de Zugpost, il y a un [récit de voyage intéressant sur le réseau FEVE (uniquement en allemand)](https://zugpost.org/feve-schmalspurbahn/).
@@ -270,10 +275,8 @@ Renfe fonctionne souvent comme une compagnie aérienne : contrôle des bagages, 
 
 [^1]: [ShowMeTheJourney](https://showmethejourney.com/travel-on/train/129-md-media-distancia-spain/)
 
-[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782293-spain.html)
 
 [^3]: [Retour utilisateur : achat de billets à bord](https://github.com/fipguide/fipguide.github.io/issues/449)
-
-[^4]: [Retour utilisateur : portiques à Barcelone](https://github.com/fipguide/fipguide.github.io/issues/796)
 
 [^5]: [Tarifs FIP Renfe (PKP, avril 2026)](https://pkp.pl/images/fip/2026/Renfe%20dopaty%2001.04.2026.pdf)

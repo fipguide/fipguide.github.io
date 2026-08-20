@@ -1,17 +1,16 @@
 ---
 draft: false
-title: "Guichet SNCF"
-description: "Informations de réservation pour les guichets SNCF."
-
+title: Guichet SNCF
+description: Informations de réservation pour les guichets SNCF.
 params:
   classes:
-    first: "2 € / 16 €"
-    second: "2 € / 11 €"
+    first: 2 € / 16 €
+    second: 2 € / 11 €
   fip_50: true
   fip_75: true
   reservations: true
-  additional_info_link: "https://www.garesetconnexions.sncf/fr/gares-services"
-  type: "onsite"
+  additional_info_link: https://www.garesetconnexions.sncf/fr/gares-services
+  type: onsite
 ---
 
 Les guichets SNCF, appelés SNCF Connect Shops, sont présents dans toutes les grandes gares en France. Vous pouvez y acheter des billets pour des voyages nationaux et internationaux. Les horaires d’ouverture des guichets sont souvent limités, il est donc conseillé de les vérifier avant votre visite. Pour les voyages en France, il est également possible d’acheter des surclassements de la 2de à la 1re classe en payant la différence.
@@ -28,8 +27,7 @@ Si le personnel au guichet ne sait pas quel code tarifaire utiliser, il est poss
 - les agents actifs et leurs ayants droit (sauf GB National Rail), personnes retraitées — CF54 : Surclassement avec billet FIP 50 en 1re classe + réservation obligatoire dans les trains.
 - les agents actifs et leurs ayants droit (GB National Rail uniquement) — CF77 : Billet FIP 75 (réduction de 75 %) + réservation obligatoire dans les trains.
 - les agents actifs et leurs ayants droit (GB National Rail uniquement) — CF78 : Surclassement avec billet FIP 75 en 1re classe + réservation obligatoire dans les trains.
-
-{{% /booking-section %}}
+  {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
@@ -41,9 +39,6 @@ Si le personnel au guichet ne sait pas quel code tarifaire utiliser, il est poss
 
 - Coupon FIP — CF70 : Achat de réservation uniquement.
 - Coupon FIP — CF71 : Surclassement de la réservation Coupon FIP en 1re classe.
+  {{% /booking-section %}}
 
-{{% /booking-section %}}
-
-{{% satellite /%}}
-
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html)

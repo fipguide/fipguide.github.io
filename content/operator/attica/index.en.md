@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "Attica"
+title: Attica
 country:
-  - "greece"
-  - "italy"
-operator: "attica"
-
+  - greece
+  - italy
+operator: attica
 aliases:
   - /booking/attica-agents
   - /booking/attica-email
@@ -22,7 +21,8 @@ The Attica Group is a major Greek ferry operator running several brands, includi
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
-{{< fip-validity type="fip-reduced-ticket" subtitle="FIP 50" status="valid" disable_dialog=true >}}
+
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" disable_dialog=true >}}
 
 ## Ship Categories and Reservations
 
@@ -122,7 +122,7 @@ A seat upgrade to any cabin (except LUX) is possible with a 25% discount based o
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782274-greece.html)
 
 [^2]: [Superfast Ferries](https://www.superfast.com/de-de/generic-information-pages/fip-mitglieder)
 

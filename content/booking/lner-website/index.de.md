@@ -1,21 +1,23 @@
 ---
 draft: false
-title: "LNER Website"
-description: "Buchungsinformationen für die LNER Website."
+title: LNER Website / App
+description: Buchungsinformationen für die LNER Website und App.
 params:
   classes:
-    first: "kostenlos"
-    second: "kostenlos"
+    first: kostenlos
+    second: kostenlos
   fip_50: false
   fip_75: false
   reservations: true
-  booking_link: "https://www.lner.co.uk/"
-  type: "website"
+  booking_link: https://www.lner.co.uk/
+  type: online
 ---
+
+LNER bietet auch eine [App](https://www.lner.co.uk/tickets/lner-app/) an, über welche Reservierungen gebucht werden können.
 
 {{% booking-section "reservations" %}}
 
-## Reservierungen
+## Reservierungen – Buchungsweg Website
 
 Reservierungen können nur auf der britischen Seite von LNER (www.lner.co.uk)vorgenommen werden. Beim Besuch der Seite muss daher auf jeden Fall die Option "Auf lner.co.uk bleiben / Stay on lner.co.uk" im Pop-up-Fenster ausgewählt werden.
 
@@ -25,4 +27,7 @@ Auf der LNER Website können kostenlose Sitzplatzreservierungen für LNER-Verbin
 
 Nach Auswahl von _Reserve a seat_ und/oder _Reserve a bike space_ wird die Reservierung als E-Ticket ausgestellt, das in der App angezeigt und zum mobilen Wallet hinzugefügt werden kann. Ein Sitzplatz wird automatisch zugewiesen, kann aber nachträglich geändert werden.
 
+## Reservierungen – Buchungsweg App
+
+Nach dem Download muss auf der Startseite der App _Reserve a seat_ ausgewählt werden. Der weitere Buchungsprozess entspricht dem der Website.
 {{% /booking-section %}}

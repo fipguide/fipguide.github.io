@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "PKP"
+title: PKP
 country:
-  - "poland"
-operator: "pkp"
-
+  - poland
+operator: pkp
 aliases:
   - /booking/pkp-ticket-machine
   - /booking/pkp-ticket-office
@@ -23,6 +22,7 @@ Les chemins de fer polonais PKP (Polskie Koleje Państwowe) exploitent, avec leu
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables chez PKP. Cela inclut :
@@ -176,9 +176,9 @@ Prix différents pour les connexions internationales. [Plus d’informations](ht
 
 Connexions de trains régionaux s’arrêtant à la plupart des gares, exploitées par Polregio. Ces trains n’ont pas de 1ère classe.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Les trains régionaux en Pologne sont parfois aussi exploités par d’autres compagnies ferroviaires que Polregio. Celles-ci ont parfois leurs propres réductions FIP. [Voir Pologne](/country/poland "Pologne")
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -213,8 +213,12 @@ Trains interrégionaux exploités par Polregio et équipés d’un confort supé
     title="Bus Varsovie Modlin"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Les Billets FIP ne sont pas valables dans les bus KM entre Modlin et l’aéroport de Varsovie Modlin.
+
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -369,6 +373,10 @@ Les Billets FIP ne sont pas valables dans le train spécial Słoneczny de KM (Va
 
 Les Billets FIP ne sont pas valables sur les téléphériques et chemins de fer à crémaillère exploités par PKP.
 
+### Correspondances - AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ### Services de remplacement ferroviaire
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
@@ -381,7 +389,7 @@ Les Coupons FIP pour la 1ère classe ne valent la peine chez PKP que de manière
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [PKP Intercity - EIP](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/express-intercity-premium-eip.html)
 

@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "KMŁ"
+title: KMŁ
 country:
-  - "poland"
-operator: "kml"
-
+  - poland
+operator: kml
 aliases:
   - /booking/kml-ticket-office
 ---
@@ -21,6 +20,7 @@ Sur son site Web, la KMŁ propose un [aperçu des lignes exploitées](https://ko
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables chez la KMŁ.
@@ -41,7 +41,7 @@ La KMŁ n’étant membre FIP que depuis le 01.04.2026, les possibilités de ré
 
 ### En gare
 
-{{% booking id="kml-ticket-office"/%}}
+{{% booking id="kml-ticket-office" /%}}
 
 ### À bord du train
 
@@ -67,4 +67,4 @@ Parmi les destinations phares avec la KMŁ, on trouve notamment le célèbre par
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

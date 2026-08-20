@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "BSB Ticket Office"
-description: "Booking information for BSB ticket offices."
+title: BSB Ticket Office
+description: Booking information for BSB ticket offices.
 params:
   fip_50: true
   reservations: false
-  additional_info_link: "https://www.bsb.de/de/info-service/anreise-oeffnungszeiten"
-  type: "onsite"
+  additional_info_link: https://www.bsb.de/de/info-service/anreise-oeffnungszeiten
+  type: onsite
 ---
 
 {{% booking-section "fip_50" %}}

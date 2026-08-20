@@ -1,8 +1,9 @@
 ---
-date: "2025-08-25"
+date: 2025-08-25
 draft: false
-title: "Avantages FIP Rigi-Bahnen (Suisse)"
-description: "À partir du 01.01.2025, les réductions FIP sont également valables sur certaines lignes des Rigi-Bahnen en Suisse."
+title: Avantages FIP Rigi-Bahnen (Suisse)
+description: À partir du 01.01.2025, les réductions FIP sont également valables
+  sur certaines lignes des Rigi-Bahnen en Suisse.
 country:
   - switzerland
 operator:
@@ -30,4 +31,4 @@ Les réductions FIP ne sont **pas** valables sur les lignes suivantes [^1] :
 
 Une option économique pour les enfants est aussi le [Carte journalière enfant des CFF](https://www.sbb.ch/fr/billets-offres/billets/cartes-journalieres/carte-journaliere-enfant.html).
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)

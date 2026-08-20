@@ -1,8 +1,9 @@
 ---
-date: "2025-08-25"
+date: 2025-08-25
 draft: false
-title: "FIP Benefits Rigi-Bahnen (Switzerland)"
-description: "From 01.01.2025, FIP benefits are also valid on some routes of the Rigi-Bahnen in Switzerland."
+title: FIP Benefits Rigi-Bahnen (Switzerland)
+description: From 01.01.2025, FIP benefits are also valid on some routes of the
+  Rigi-Bahnen in Switzerland.
 country:
   - switzerland
 operator:
@@ -30,4 +31,4 @@ FIP benefits are **not** valid on the following routes [^1]:
 
 A cost-effective option for children is also the [SBB Day Pass Children](https://www.sbb.ch/en/tickets-offers/tickets/day-passes/day-pass-children.html).
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)

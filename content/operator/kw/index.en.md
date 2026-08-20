@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "KW"
+title: KW
 country:
-  - "poland"
-operator: "kw"
-
+  - poland
+operator: kw
 aliases:
   - /booking/kw-ticket-machine
   - /booking/kw-ticket-office
@@ -24,6 +23,7 @@ On the KW website, all [routes currently operated in regular service](https://ko
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid with KW.
@@ -40,39 +40,39 @@ FIP tickets are generally not valid on KW buses. On rail replacement buses, FIP 
 
 ### Online
 
-{{% booking id="kw-website"
-%}}
+{{% booking id="kw-website" %}}
 FIP 50 Tickets are available for domestic and international connections. For international journeys, the FIP 50 discount is only applied within Poland. Outside Poland, the regular fare is charged.
 {{% /booking %}}
 
 {{% booking id="koleo-website"
     reservations=nil
-%}}
-{{% /booking %}}
+/%}}
 
 {{% booking id="db-website-fip-db"
-    reservations=nil
     subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+    reservations=nil
 /%}}
 
 {{% booking id="db-website-fip-international"
-    reservations=nil
     subtitle="Cross-border FIP 50 Tickets between Germany and Poland for the entire route (not valid in the issuing country of the FIP Card)"
+    reservations=nil
 /%}}
 
 ### On-Site
 
-{{% booking id="kw-ticket-machine"/%}}
+{{% booking id="kw-ticket-machine" /%}}
 
-{{% booking id="kw-ticket-office"/%}}
+{{% booking id="kw-ticket-office" /%}}
 
-{{% booking id="db-ticket-office" reservations=nil /%}}
+{{% booking id="db-ticket-office"
+    reservations=nil
+/%}}
 
 ### Telephone
 
 {{% booking id="db-phone-fip-db"
-    reservations=nil
     subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+    reservations=nil
 /%}}
 
 ### On the Train
@@ -109,4 +109,4 @@ Similar to other regional railway companies in Poland that accept FIP, using FIP
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

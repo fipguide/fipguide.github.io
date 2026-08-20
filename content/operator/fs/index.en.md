@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "Trenitalia"
+title: Trenitalia
 country:
-  - "italy"
-operator: "trenitalia"
-
+  - italy
+operator: trenitalia
 aliases:
   - /booking/fs-ticket-machine
   - /booking/fs-ticket-office
@@ -22,6 +21,7 @@ Ferrovie dello Stato Italiane (FS) is the Italian state railway. FIP discounts o
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 {{% highlight important %}}
@@ -35,58 +35,58 @@ Reservations (with surcharges) are mandatory on long-distance trains.
 ### Le Frecce
 
 {{% train-category
-  id="fr-av"
-  title="Frecciarossa (FR AV)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=true
-  reservation_possible=true
+    id="fr-av"
+    title="Frecciarossa (FR AV)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 Highest Italian train category for long-distance high-speed trains. Frecciarossa 1000 is marked for higher speed and service.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Trains of the private operator Italo are also marked as AV but cannot be used with FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
 #### Reservations
 
-The variable reservation price always includes a surcharge when using a FIP Coupon.
+A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available on-site at Trenitalia ticket offices.
 
 {{% /train-category %}}
 
 {{% train-category
-  id="fa-av"
-  title="Frecciargento (FA AV)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=true
-  reservation_possible=true
+    id="fa-av"
+    title="Frecciargento (FA AV)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 High-speed tilting trains.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Trains of the private operator Italo are also marked as AV but cannot be used with FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
 #### Reservations
 
-The variable reservation price always includes a surcharge when using a FIP Coupon.
+A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available on-site at Trenitalia ticket offices.
 
 {{% /train-category %}}
 
 {{% train-category
-  id="fb"
-  title="Frecciabianca (FB)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=true
-  reservation_possible=true
+    id="fb"
+    title="Frecciabianca (FB)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 Fast trains outside high-speed lines.
@@ -95,17 +95,17 @@ Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
 #### Reservations
 
-The variable reservation price always includes a surcharge when using a FIP Coupon.
+A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available on-site at Trenitalia ticket offices.
 
 {{% /train-category %}}
 
 {{% train-category
-  id="fl"
-  title="FrecciaLink (FL)"
-  type="bus"
-  fip_accepted=false
-  reservation_required=false
-  reservation_possible=false
+    id="fl"
+    title="FrecciaLink (FL)"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Connecting buses for high-speed trains.
@@ -115,57 +115,51 @@ Connecting buses for high-speed trains.
 ### Other Long-Distance
 
 {{% train-category
-  id="ic"
-  title="InterCity (IC)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=true
-  reservation_possible=true
+    id="ic"
+    title="InterCity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 Fast trains mostly outside high-speed lines.
 
 #### Reservierungen
 
-**Cost:** € 3 (1st/2nd class)
-
-The reservation price always includes a surcharge when using a FIP Coupon.
+A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available on-site at Trenitalia ticket offices.
 
 {{% /train-category %}}
 
 {{% train-category
-  id="icn"
-  title="InterCity Notte (ICN)"
-  type="sleeper"
-  fip_accepted=true
-  reservation_required=true
-  reservation_possible=true
+    id="icn"
+    title="InterCity Notte (ICN)"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 National night train with sleeper, couchette, and seat cars.
 
-**Cost:** € 25 (1st/2nd class, seat car)
-
-The reservation price always includes a surcharge when using a FIP Coupon. For couchette or sleeper, an additional supplement applies.
+A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available on-site at Trenitalia ticket offices. For couchette or sleeper, an additional supplement applies.
 
 {{% /train-category %}}
 
 ### International Long-Distance
 
 {{% train-category
-  id="ec"
-  title="Eurocity (EC) / Railjet (RJ) / Railjet Xpress (RJX)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_required=true
-  reservation_possible=true
+    id="ec"
+    title="Eurocity (EC) / Railjet (RJ) / Railjet Xpress (RJX)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 International fast trains to Germany, Austria, and Switzerland.
 
 #### Reservations
-
-**Cost**: Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
 Different costs for Brenner route (Brenner supplement):
 
@@ -179,19 +173,19 @@ The reservation price always includes a surcharge when using a FIP Coupon.
 {{% /train-category %}}
 
 {{% train-category
-  id="nj"
-  title="Nightjet (NJ) / Euronight (EN)"
-  type="sleeper"
-  fip_accepted=true
-  reservation_required=true
-  reservation_possible=true
+    id="nj"
+    title="Nightjet (NJ) / Euronight (EN)"
+    type="sleeper"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
 
 International night trains to Germany, Austria, and Switzerland.
 
-{{% highlight important %}}
+{{< highlight important >}}
 National free travel for Deutsche Bahn staff is not recognized in Germany. If any part of the Nightjet journey is in Germany, DB staff must buy a ticket at the FIP global fare for the entire route. For journeys outside Germany with a FIP Coupon, a reservation/supplement is required.
-{{% /highlight %}}
+{{< /highlight >}}
 
 _Tip:_ For trips from Germany to Italy, use national free travel to Salzburg and board the Nightjet there to avoid the FIP global fare.
 
@@ -204,63 +198,67 @@ The variable reservation price always includes a surcharge when using a FIP Coup
 ### Regional Trains
 
 {{% train-category
-  id="rv"
-  title="Regionale Veloce (RV)"
-  type="regional"
-  fip_accepted=true
-  reservation_required=false
-  reservation_possible=false
+    id="rv"
+    title="Regionale Veloce (RV)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Fast regional trains stopping at main stations.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Tickets for regional trains may be train-bound. See [Train binding in regional trains](#train-binding-in-regional-trains)
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
 {{% train-category
-  id="r"
-  title="Regionale (R / REG)"
-  type="regional"
-  fip_accepted=true
-  reservation_required=false
-  reservation_possible=false
+    id="r"
+    title="Regionale (R / REG)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Regional trains stopping at most stations.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Tickets for regional trains may be train-bound. See [Train binding in regional trains](#train-binding-in-regional-trains)
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
 {{% train-category
-  id="m"
-  title="Metropolitano (M) / Servizio Ferroviario Metropolitano (sfm)"
-  type="regional"
-  fip_accepted=true
-  reservation_required=false
-  reservation_possible=false
+    id="m"
+    title="Metropolitano (M) / Servizio Ferroviario Metropolitano (sfm)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Suburban rail systems in Naples (`M`) and Turin (`sfm`).
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Metro lines are sometimes also marked as `M` and cannot be used with FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
 {{% train-category
-  id="bus"
-  title="Bus"
-  type="bus"
-  fip_accepted=false
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Buses are excluded from FIP discounts. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
 {{% /train-category %}}
 
 ## Class Categories
@@ -275,12 +273,6 @@ Le Frecce long-distance trains have special class categories. [^1]
 ## Ticket and Reservation Purchase
 
 ### Online
-
-{{% booking id="fs-website" %}}
-{{% highlight inofficial %}}
-We are currently receiving increasing feedback that booking FIP Tickets and reservations on the FS website is not possible. It is not known to us whether the restrictions are temporary or permanent. If you experience problems during booking, we recommend purchasing FIP 50 Tickets and reservations directly at Trenitalia ticket offices.
-{{% /highlight %}}
-{{% /booking %}}
 
 {{% booking id="db-website-fip-db"
     subtitle="Only ECE trains from Milan to Germany or EC trains on the Brenner route between Italy and Germany. Cross-border FIP 50 Tickets, with ticket portion only for the Swiss/Austrian and Italian section, for Deutsche Bahn employees."
@@ -297,25 +289,36 @@ For the `ECE` Frankfurt – Milan or the `EC` on the Brenner route between Munic
 ### Telephone
 
 {{% booking id="db-phone-fip-db"
-  subtitle="Only ECE trains from Milan to Germany or EC trains on the Brenner route between Italy and Germany. Cross-border FIP 50 Tickets, with ticket portion only for the Swiss/Austrian and Italian section, for Deutsche Bahn employees."
+    subtitle="Only ECE trains from Milan to Germany or EC trains on the Brenner route between Italy and Germany. Cross-border FIP 50 Tickets, with ticket portion only for the Swiss/Austrian and Italian section, for Deutsche Bahn employees."
 %}}
 For the `ECE` Frankfurt – Milan, through FIP 50 Tickets to Milan can be booked. For the `EC` on the Brenner route between Munich and Italy, this is also possible. Both have no validity in the German section.
 {{% /booking %}}
 
 ### On-Site
 
-{{% booking id="fs-ticket-machine" /%}}
-
 {{% booking id="fs-ticket-office" /%}}
 
+{{% booking id="sz-ticket-office"
+    subtitle="For cross-border trains between Slovenia and Italy"
+/%}}
+
 {{% booking id="db-ticket-office"
-  classes.first="€ 3 / € 25"
-  classes.second="€ 3 / € 25"
+    subtitle="Additional cheaper options for cross-border trains between Switzerland and Italy"
 %}}
 {{% highlight inofficial %}}
 We are currently receiving increasing feedback that booking FIP Tickets and reservations at DB ticket offices is not possible. Booking is only possible via the old sales system. Where possible, staff at the DB Reisezentrum can switch to this system (see [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1498379195708084395)). It is not known to us whether the restrictions are temporary or permanent. If you experience problems during booking, we recommend purchasing FIP 50 Tickets and reservations directly at Trenitalia ticket offices.
 {{% /highlight %}}
 The surcharge or reservation price for cross-border `EC`/`ECE` trains between Switzerland and Italy at the DB Reisezentrum (ticket office) is only € 10 (2nd class) or € 13 (1st class) and includes a seat reservation (e.g., to Frankfurt).
+
+{{% highlight inofficial %}}
+National long-distance tickets are issued with the _DIRITTO AMMISSIONE_ supplement. This supplement is cheaper than the _CAMBIO SERVIZIO_ supplement and is officially only valid for duty travel, but we are not aware of any issues during ticket inspections when using these tickets for private travel.
+
+**Prices for _DIRITTO AMMISSIONE_:**
+
+Le Frecce (FR, FA, FB): € 25 (1st/2nd class) \
+InterCity (IC): € 3 (1st/2nd class) \
+InterCity Notte (ICN): € 25 (1st/2nd class, seat car)
+{{% /highlight %}}
 {{% /booking %}}
 
 ### On the Train
@@ -367,23 +370,24 @@ On Italian regional trains (`R`/`RV`), tickets may be train-bound. This applies 
 Regional trains are classified as train-bound (_prenotabile_) and not train-bound (_non prenotabile_). Train-bound trains may only be used with tickets issued specifically for that train.
 
 {{% expander "Identifying train-bound tickets" info %}}
+
 **Train-bound:** \
 Tickets for train-bound trains are valid only for the train indicated on the ticket. Train-bound trains are identified by:
 
 {{% float-image
-  src="prenotabile_2.webp"
-  alt="FS Prenotabile Ticket"
-  width="60%"
-  position="right"
+    src="prenotabile_2.webp"
+    alt="FS Prenotabile Ticket"
+    width="60%"
+    position="right"
 %}}
 The note "prenotabile" in the train information:
 {{% /float-image %}}
 
 {{% float-image
-  src="prenotabile_1.webp"
-  alt="FS Prenotabile Ticket"
-  width="60%"
-  position="right"
+    src="prenotabile_1.webp"
+    alt="FS Prenotabile Ticket"
+    width="60%"
+    position="right"
 %}}
 Ticket label "Prenotazione - Ordinaria":
 {{% /float-image %}}
@@ -392,19 +396,19 @@ Ticket label "Prenotazione - Ordinaria":
 Tickets for not train-bound trains are valid on the booked train and all other not train-bound trains on the route, but not on train-bound trains.
 
 {{% float-image
-  src="ordinaria_2.webp"
-  alt="FS Ordinaria Ticket"
-  width="60%"
-  position="right"
+    src="ordinaria_2.webp"
+    alt="FS Ordinaria Ticket"
+    width="60%"
+    position="right"
 %}}
 The note "non prenotabile" in the train information:
 {{% /float-image %}}
 
 {{% float-image
-  src="ordinaria_1.webp"
-  alt="FS Ordinaria Ticket"
-  width="60%"
-  position="right"
+    src="ordinaria_1.webp"
+    alt="FS Ordinaria Ticket"
+    width="60%"
+    position="right"
 %}}
 Ticket label "Ordinaria":
 {{% /float-image %}}

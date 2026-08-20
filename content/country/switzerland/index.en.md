@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Switzerland"
-country: "switzerland"
+title: Switzerland
+country: switzerland
 params:
   operators_without_fip:
     - European Sleeper

@@ -1,13 +1,12 @@
 ---
 draft: false
-title: "NS Telefon"
-description: "Buchungsinformationen für die NS Hotline."
-
+title: NS Telefon
+description: Buchungsinformationen für die NS Hotline.
 params:
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.nsinternational.com/en/where-to-buy/telephone-nsinternational-service-center"
-  type: "phone"
+  additional_info_link: https://www.nsinternational.com/en/where-to-buy/telephone-nsinternational-service-center
+  type: phone
 ---
 
 Die NS bietet eine Buchungshotline für Tickets und Reservierungen an:
@@ -16,7 +15,7 @@ Die NS bietet eine Buchungshotline für Tickets und Reservierungen an:
 
 Für die Buchung ist eine Kreditkarte erforderlich, die Bezahlung erfolgt per Link, welcher per E-Mail zugesandt wird.
 
-Die Hotline ist täglich von 7 Uhr bis 23 Uhr erreichbar.
+Die Hotline ist montags bis freitags von 7 Uhr bis 19 Uhr und samstags und sonntags von 8:30 Uhr bis 17 Uhr erreichbar.
 
 {{% satellite /%}}
 
@@ -25,7 +24,6 @@ Die Hotline ist täglich von 7 Uhr bis 23 Uhr erreichbar.
 ## FIP 50 Fahrkarten
 
 FIP 50 Tickets können für die Niederlande und andere Länder erworben werden.
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -33,5 +31,4 @@ FIP 50 Tickets können für die Niederlande und andere Länder erworben werden.
 ## Reservierungen
 
 Reservierungen können für die Niederlande und andere Länder wie Belgien, Deutschland und Frankreich erworben werden.
-
 {{% /booking-section %}}

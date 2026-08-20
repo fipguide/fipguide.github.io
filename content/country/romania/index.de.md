@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Rumänien"
-country: "romania"
+title: Rumänien
+country: romania
 params:
   operators_without_fip:
     - Astra Trains Carpatic (ATC)
@@ -31,13 +31,14 @@ Besonders sehenswert sind die Strecken entlang der Karpaten, beispielsweise zwis
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}
-| Land | Grenzpunkte |
-| --- | --- |
-| Ukraine (UZ) | Vicsani (fr) |
-| Moldau (CFM) | Iasi, Ungheni (fr) |
-| [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (bulgarisch: Русе), Vidin (fr) |
-| Serbien (SV) | Jimbolia (fr) (serbisch: Жомбољ), Vršac (fr) (serbisch: Вршац) |
-| Ungarn (MÁV) | Biharkeresztes (fr), Curtici (fr) (ungarisch: Kürtös), Nyirábrány (fr), Salonta (fr) (ungarisch: Nagyszalonta, Szalonta) |
+
+| Land                                                  | Grenzpunkte                                                                                                              |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Ukraine (UZ)                                          | Vicsani (fr)                                                                                                             |
+| Moldau (CFM)                                          | Iasi, Ungheni (fr)                                                                                                       |
+| [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (bulgarisch: Русе), Vidin (fr)                                                                                 |
+| [Serbien](/country/serbia) ([SV](/operator/sv))       | Jimbolia (fr) (serbisch: Жомбољ), Vršac (fr) (serbisch: Вршац)                                                           |
+| [Ungarn](/country/hungary) ([MÁV](/operator/mav))     | Biharkeresztes (fr), Curtici (fr) (ungarisch: Kürtös), Nyirábrány (fr), Salonta (fr) (ungarisch: Nagyszalonta, Szalonta) |
 
 {{% /expander %}}
 

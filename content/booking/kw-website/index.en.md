@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "Koleje Wielkopolskie Website"
-description: "Booking information for the Koleje Wielkopolskie website."
-
+title: Koleje Wielkopolskie Website
+description: Booking information for the Koleje Wielkopolskie website.
 params:
   fip_50: true
-  booking_link: "https://bilet.wielkopolskiebilety.pl/"
-  type: "website"
+  booking_link: https://bilet.wielkopolskiebilety.pl/
+  type: website
 ---
 
 {{% booking-section "fip_50" %}}
@@ -16,9 +15,6 @@ params:
 On the Koleje Wielkopolskie website, which is only available in Polish, tickets with FIP 50 discount for KW journeys can be purchased online. First, a connection must be selected, then the discount option "UMOWA (ulga 50%)" must be chosen when purchasing the ticket. [^1]
 
 ![KW Website FIP 50 Booking](kw-fip50.webp)
-
-## Sources
+{{% /booking-section %}}
 
 [^1]: [PKP FIP information](https://www.intercity.pl/en/site/for-passengers/buy-a-ticket/where-to-buy-the-ticket/przejazdy-z-fip-en.html)
-
-{{% /booking-section %}}

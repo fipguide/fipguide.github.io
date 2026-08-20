@@ -18,16 +18,7 @@
   gap: 0.6rem;
 }
 
-details.o-expander__summary--train-category {
-  &:hover,
-  &:focus {
-    .o-train-category__title-text {
-      text-decoration: underline;
-    }
-  }
-}
-
-details.o-expander--train-category:not([open]) {
+details.o-train-category:not([open]) {
   @media (max-width: $breakpoint-md) {
     .a-tag__text {
       display: none;
@@ -37,14 +28,14 @@ details.o-expander--train-category:not([open]) {
 
 .o-train-category__content {
   h4 {
-    @extend h3;
+    @extend %h3;
   }
 
   h5 {
-    @extend h4;
+    @extend %h4;
   }
 
   h6 {
-    @extend h5;
+    @extend %h5;
   }
 }

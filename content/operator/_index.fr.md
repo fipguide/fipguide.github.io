@@ -1,7 +1,6 @@
 ---
-title: "Liste des opérateurs"
-description: "Liste des opérateurs acceptant les réductions FIP."
-
+title: Liste des opérateurs
+description: Liste des opérateurs acceptant les réductions FIP.
 aliases:
   - /booking
 ---

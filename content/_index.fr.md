@@ -1,6 +1,8 @@
 ---
-description: "Le site communautaire pour toutes les informations concernant le FIP.
-Ce projet comprend des informations concernant l’utilisation de la FIP, ainsi que les caractéristiques particulières propres aux compagnies ferroviaires participantes."
+description: Le site communautaire pour toutes les informations concernant le
+  FIP. Ce projet comprend des informations concernant l’utilisation de la FIP,
+  ainsi que les caractéristiques particulières propres aux compagnies
+  ferroviaires participantes.
 ---
 
 # Bienvenue dans le FIP Guide !
