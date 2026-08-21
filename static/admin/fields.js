@@ -82,6 +82,43 @@
     CmsNumberWithUsageControl,
   );
 
+  var SelectControl = CMS.getFieldType("select").control;
+
+  function FipValiditySelectControl(props) {
+    var groups = props.entry ? props.entry.getIn(["data", "groups"]) : null;
+    groups = groups && typeof groups.toJS === "function" ? groups.toJS() : [];
+    var groupType = props.field ? props.field.get("group_type") : null;
+    if (groupType) {
+      groups = groups.filter(function (group) {
+        return !group.type || group.type === groupType;
+      });
+    }
+    var options = groups
+      .filter(function (group) {
+        return !!group.name;
+      })
+      .map(function (group) {
+        return { label: group.name, value: group.name };
+      });
+
+    return h(SelectControl, {
+      field: { name: props.field.get("name"), options },
+      value: props.value,
+      forID: props.forID,
+      onChange: props.onChange,
+    });
+  }
+
+  function FipValiditySelectPreview(props) {
+    return h("span", {}, props.value || "\u2014");
+  }
+
+  CMS.registerFieldType(
+    "fip-validity-select",
+    FipValiditySelectControl,
+    FipValiditySelectPreview,
+  );
+
   CMS.registerEventListener({
     name: "preSave",
     handler: function (data) {
