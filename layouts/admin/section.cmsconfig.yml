@@ -80,11 +80,13 @@ x_fip_validity_columns: &fip_validity_columns
   - label: "FIP Coupon"
     name: "fip-coupon"
     widget: "object"
+    summary: "Target groups"
     hint: "Number and validity of FIP Coupons available to this target group."
     fields: *fip_validity_target_fields_coupon
   - label: "FIP Reduced Ticket"
     name: "fip-reduced-ticket"
     widget: "object"
+    summary: "Target groups"
     hint: "Discount on FIP Reduced Tickets (FIP 50 / FIP 75) available to this target group."
     fields: *fip_validity_target_fields_reduced
 
@@ -370,6 +372,7 @@ collections:
         name: "operators"
         widget: "object"
         collapsed: true
+        summary: "Validity Groups"
         hint: "For each target operator, select the applicable validity group per FIP product and target group."
         fields:
 {{- range (sort (where site.RegularPages "Type" "operator") "File.ContentBaseName") }}
@@ -377,6 +380,7 @@ collections:
             name: {{ printf "%q" .File.ContentBaseName }}
             widget: "object"
             collapsed: true
+            summary: "FIP Coupon & FIP Reduced Ticket"
             fields: *fip_validity_columns
 {{- end }}
 
