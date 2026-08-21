@@ -1,4 +1,37 @@
 (function () {
+  var SelectControl = CMS.getFieldType("select").control;
+
+  function FipValiditySelectControl(props) {
+    var groups = props.entry ? props.entry.getIn(["data", "groups"]) : null;
+    groups = groups && typeof groups.toJS === "function" ? groups.toJS() : [];
+    var groupType = props.field ? props.field.get("group_type") : null;
+    if (groupType) {
+      groups = groups.filter(function (group) {
+        return !group.type || group.type === groupType;
+      });
+    }
+    var options = groups
+      .filter(function (group) {
+        return !!group.name;
+      })
+      .map(function (group) {
+        return { label: group.name, value: group.name };
+      });
+
+    return h(SelectControl, {
+      field: { name: props.field.get("name"), options },
+      value: props.value,
+      forID: props.forID,
+      onChange: props.onChange,
+    });
+  }
+
+  CMS.registerFieldType(
+    "fip-validity-select",
+    FipValiditySelectControl,
+    FipValiditySelectControl,
+  );
+
   function CmsEditLinkControl(props) {
     var field = props.field;
     var getValue = field.get("get_value");
@@ -80,59 +113,4 @@
     CmsNumberWithUsageControl,
     CmsNumberWithUsageControl,
   );
-
-  var SelectControl = CMS.getFieldType("select").control;
-
-  function FipValiditySelectControl(props) {
-    var groups = props.entry ? props.entry.getIn(["data", "groups"]) : null;
-    groups = groups && typeof groups.toJS === "function" ? groups.toJS() : [];
-    var groupType = props.field ? props.field.get("group_type") : null;
-    if (groupType) {
-      groups = groups.filter(function (group) {
-        return !group.type || group.type === groupType;
-      });
-    }
-    var options = groups
-      .filter(function (group) {
-        return !!group.name;
-      })
-      .map(function (group) {
-        return { label: group.name, value: group.name };
-      });
-
-    return h(SelectControl, {
-      field: { name: props.field.get("name"), options },
-      value: props.value,
-      forID: props.forID,
-      onChange: props.onChange,
-    });
-  }
-
-  function FipValiditySelectPreview(props) {
-    return h("span", {}, props.value || "\u2014");
-  }
-
-  CMS.registerFieldType(
-    "fip-validity-select",
-    FipValiditySelectControl,
-    FipValiditySelectPreview,
-  );
-
-  CMS.registerEventListener({
-    name: "preSave",
-    handler: function (data) {
-      var entry = data && data.entry;
-      if (!entry || entry.get("collection") !== "fip-validity") {
-        return undefined;
-      }
-      var operators = entry.getIn(["data", "operators"]);
-      if (!operators || typeof operators.sortBy !== "function") {
-        return undefined;
-      }
-      var sortedOperators = operators.sortBy(function (value, key) {
-        return key;
-      });
-      return entry.get("data").set("operators", sortedOperators);
-    },
-  });
 })();

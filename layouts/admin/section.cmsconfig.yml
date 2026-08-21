@@ -6,6 +6,8 @@ backend:
   open_authoring: true
   site_domain: fipguide.netlify.app
 publish_mode: editorial_workflow
+editor:
+  preview: false
 output:
   omit_empty_optional_fields: true
 logo:
@@ -100,8 +102,6 @@ collections:
     create: true
     delete: false
     i18n: true
-    editor:
-      preview: false
     fields:
       - label: "Publish Date"
         name: "date"
@@ -168,8 +168,6 @@ collections:
     publish: false
     delete: false
     i18n: true
-    editor:
-      preview: false
     fields:
       - label: "Title"
         name: "title"
@@ -204,8 +202,6 @@ collections:
     create: false
     delete: false
     i18n: true
-    editor:
-      preview: false
     fields:
       - label: "Title"
         name: "title"
@@ -253,8 +249,6 @@ collections:
     create: true
     delete: false
     i18n: true
-    editor:
-      preview: false
     fields:
       - label: "Title"
         name: "title"
@@ -326,8 +320,6 @@ collections:
     create: true
     publish: false
     delete: false
-    editor:
-      preview: false
     fields:
       - label: "Validity Groups"
         name: "groups"
@@ -344,7 +336,7 @@ collections:
             widget: "select"
             options: ["fip-coupon", "fip-reduced-ticket"]
             required: false
-            hint: "Which FIP product this group applies to. Leave unset to show it under both."
+            hint: "Which FIP product this group applies to. Restricts which dropdowns it shows up in below. Leave unset to show it under both."
           - label: "Status"
             name: "status"
             widget: "select"
@@ -393,8 +385,6 @@ collections:
     create: true
     delete: false
     i18n: true
-    editor:
-      preview: false
     fields:
       - label: "Title"
         name: "title"
@@ -617,8 +607,6 @@ collections:
     publish: false
     delete: false
     i18n: true
-    editor:
-      preview: false
     fields:
       - label: "Title"
         name: "title"
@@ -653,8 +641,6 @@ collections:
     create: true
     delete: false
     i18n: true
-    editor:
-      preview: false
     fields:
       - label: "Title"
         name: "title"
@@ -689,8 +675,6 @@ collections:
     create: true
     delete: false
     i18n: true
-    editor:
-      preview: false
     fields:
       - label: "Title"
         name: "title"
