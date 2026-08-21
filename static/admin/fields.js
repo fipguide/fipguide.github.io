@@ -52,6 +52,8 @@
     CmsEditLinkControl,
   );
 
+  var NumberControl = CMS.getFieldType("number").control;
+
   function CmsNumberWithUsageControl(props) {
     var field = props.field;
     var template = field.get("template");
@@ -62,15 +64,11 @@
     return h(
       "div",
       {},
-      h("input", {
-        id: props.forID,
-        className: props.classNameWrapper,
-        type: "number",
-        value: value ?? "",
-        onChange: function (event) {
-          var raw = event.target.value;
-          props.onChange(raw === "" ? undefined : Number(raw));
-        },
+      h(NumberControl, {
+        field: { name: field.get("name") },
+        value: value,
+        forID: props.forID,
+        onChange: props.onChange,
       }),
       h("p", { className: "o-cms-display__info" }, text),
     );
