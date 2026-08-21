@@ -1,7 +1,10 @@
+{{- if hugo.IsServer }}
+local_backend: true
+{{ end -}}
 backend:
   name: github
   repo: fipguide/fipguide.github.io
-  branch: main
+  branch: "{{ or (os.Getenv "FIPGUIDE_BRANCH") "main" }}"
   auth_scope: repo
   open_authoring: true
   site_domain: fipguide.netlify.app
@@ -20,12 +23,68 @@ i18n:
   locales: [en, de, fr]
   default_locale: en
 
+x_fip_validity_target_fields_coupon: &fip_validity_target_fields_coupon
+  - label: "Active Employees"
+    name: "active"
+    widget: "fip-validity-select"
+    group_type: "fip-coupon"
+  - label: "Relatives of Active Employees"
+    name: "active-relatives"
+    widget: "fip-validity-select"
+    group_type: "fip-coupon"
+  - label: "Retirees"
+    name: "retired"
+    widget: "fip-validity-select"
+    group_type: "fip-coupon"
+  - label: "Relatives of Retirees"
+    name: "retired-relatives"
+    widget: "fip-validity-select"
+    group_type: "fip-coupon"
+  - label: "Widows, Widowers and Orphans"
+    name: "widows"
+    widget: "fip-validity-select"
+    group_type: "fip-coupon"
+
+x_fip_validity_target_fields_reduced: &fip_validity_target_fields_reduced
+  - label: "Active Employees"
+    name: "active"
+    widget: "fip-validity-select"
+    group_type: "fip-reduced-ticket"
+  - label: "Relatives of Active Employees"
+    name: "active-relatives"
+    widget: "fip-validity-select"
+    group_type: "fip-reduced-ticket"
+  - label: "Retirees"
+    name: "retired"
+    widget: "fip-validity-select"
+    group_type: "fip-reduced-ticket"
+  - label: "Relatives of Retirees"
+    name: "retired-relatives"
+    widget: "fip-validity-select"
+    group_type: "fip-reduced-ticket"
+  - label: "Widows, Widowers and Orphans"
+    name: "widows"
+    widget: "fip-validity-select"
+    group_type: "fip-reduced-ticket"
+
+x_fip_validity_columns: &fip_validity_columns
+  - label: "FIP Coupon"
+    name: "fip-coupon"
+    widget: "object"
+    hint: "Number and validity of FIP Coupons available to this target group."
+    fields: *fip_validity_target_fields_coupon
+  - label: "FIP Reduced Ticket"
+    name: "fip-reduced-ticket"
+    widget: "object"
+    hint: "Discount on FIP Reduced Tickets (FIP 50 / FIP 75) available to this target group."
+    fields: *fip_validity_target_fields_reduced
+
 collections:
   - name: "news"
     label: "News"
     label_singular: "News Article"
     folder: "content/news"
-    path: "{{slug}}/index"
+    path: "{{"{{"}}slug}}/index"
     publish: false
     create: true
     delete: false
@@ -92,7 +151,7 @@ collections:
     label: "Countries"
     label_singular: "Country"
     folder: "content/country"
-    path: "{{slug}}/index"
+    path: "{{"{{"}}slug}}/index"
     create: false
     publish: false
     delete: false
@@ -127,7 +186,7 @@ collections:
     label: "Operators"
     label_singular: "Operator"
     folder: "content/operator"
-    path: "{{slug}}/index"
+    path: "{{"{{"}}slug}}/index"
     publish: false
     delete: false
     i18n: true
@@ -172,9 +231,9 @@ collections:
 
   - name: "application"
     label: "FIP Application"
-    label_singular: "FIP Application"
+    label_singular: "FIP Application Page"
     folder: "content/application"
-    path: "{{slug}}/index"
+    path: "{{"{{"}}slug}}/index"
     publish: false
     create: true
     delete: false
@@ -220,7 +279,7 @@ collections:
             How and when can employees of this issuer request FIP Coupons?
           -->
 
-          {{< fip-validity-table type="fip-coupon" >}}
+          {{"{{"}}< fip-validity-table type="fip-coupon" >}}
 
           ## FIP Reduced Ticket
 
@@ -228,7 +287,7 @@ collections:
             How and when can employees of this issuer request FIP Reduced Tickets (FIP 50 / FIP 75)?
           -->
 
-          {{< fip-validity-table type="fip-reduced-ticket" >}}
+          {{"{{"}}< fip-validity-table type="fip-reduced-ticket" >}}
         editor_components:
           - "image"
           - "highlight"
@@ -240,11 +299,76 @@ collections:
           - "wip"
           - "columns"
 
+  - name: "fip-validity"
+    label: "FIP Validity Tables"
+    label_singular: "FIP Validity Table"
+    folder: "content/application"
+    path: "{{"{{"}}slug}}/validity"
+    extension: "yaml"
+    format: "yaml"
+    summary: "{{"{{"}}dirname}}"
+    create: true
+    publish: false
+    delete: false
+    hide: true
+    editor:
+      preview: false
+    fields:
+      - label: "Validity Groups"
+        name: "groups"
+        widget: "list"
+        summary: "{{"{{"}}fields.name}} ({{"{{"}}fields.type}}, {{"{{"}}fields.status}})"
+        hint: "The validity groups available for this issuer. Referenced by name in the Operators section below."
+        fields:
+          - label: "Name"
+            name: "name"
+            widget: "string"
+            hint: 'Unique identifier of this group, e.g. "coupon-1".'
+          - label: "Type"
+            name: "type"
+            widget: "select"
+            options: ["fip-coupon", "fip-reduced-ticket"]
+            required: false
+            hint: "Which FIP product this group applies to. Restricts which dropdowns it shows up in below. Leave unset to show it under both."
+          - label: "Status"
+            name: "status"
+            widget: "select"
+            options: ["valid", "invalid", "unknown"]
+          - label: "Text"
+            name: "text"
+            widget: "object"
+            fields:
+              - label: "Deutsch"
+                name: "de"
+                widget: "markdown"
+                minimal: true
+              - label: "English"
+                name: "en"
+                widget: "markdown"
+                minimal: true
+              - label: "Français"
+                name: "fr"
+                widget: "markdown"
+                minimal: true
+      - label: "Operators"
+        name: "operators"
+        widget: "object"
+        collapsed: true
+        hint: "For each target operator, select the applicable validity group per FIP product and target group."
+        fields:
+{{- range (sort (where site.RegularPages "Type" "operator") "File.ContentBaseName") }}
+          - label: {{ printf "%q" .Title }}
+            name: {{ printf "%q" .File.ContentBaseName }}
+            widget: "object"
+            collapsed: true
+            fields: *fip_validity_columns
+{{- end }}
+
   - name: "booking"
     label: "Booking Platforms"
     label_singular: "Booking Platform"
     folder: "content/booking"
-    path: "{{slug}}/index"
+    path: "{{"{{"}}slug}}/index"
     publish: false
     create: true
     delete: false
@@ -423,7 +547,7 @@ collections:
         widget: "markdown"
         i18n: true
         default: |
-          {{% booking-section "fip_50" %}}
+          {{"{{"}}% booking-section "fip_50" %}}
 
           ## FIP 50 Tickets
 
@@ -431,9 +555,9 @@ collections:
               Explain the steps for booking FIP 50 Tickets with this booking platform.
           -->
 
-          {{% /booking-section %}}
+          {{"{{"}}% /booking-section %}}
 
-          {{% booking-section "fip_global_fare" %}}
+          {{"{{"}}% booking-section "fip_global_fare" %}}
 
           ## FIP Global Fare
 
@@ -441,9 +565,9 @@ collections:
               Explain the steps for booking FIP Global Fares with this booking platform.
           -->
 
-          {{% /booking-section %}}
+          {{"{{"}}% /booking-section %}}
 
-          {{% booking-section "reservations" %}}
+          {{"{{"}}% booking-section "reservations" %}}
 
           ## Reservations
 
@@ -451,7 +575,7 @@ collections:
               Explain the steps for booking reservations with this booking platform.
           -->
 
-          {{% /booking-section %}}
+          {{"{{"}}% /booking-section %}}
         editor_components:
           - "image"
           - "highlight-raw"
@@ -468,7 +592,7 @@ collections:
     label: "General Pages"
     label_singular: "General Page"
     folder: "content/general"
-    path: "{{slug}}/index"
+    path: "{{"{{"}}slug}}/index"
     create: false
     publish: false
     delete: false
@@ -503,7 +627,7 @@ collections:
     label: "FAQ"
     label_singular: "FAQ Entry"
     folder: "content/general/faq"
-    path: "{{slug}}/index"
+    path: "{{"{{"}}slug}}/index"
     publish: false
     create: true
     delete: false
@@ -538,7 +662,7 @@ collections:
     label: "Identify Operator"
     label_singular: "Identify Operator"
     folder: "content/identify-operator"
-    path: "{{slug}}/index"
+    path: "{{"{{"}}slug}}/index"
     publish: false
     create: true
     delete: false

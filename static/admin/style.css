@@ -1,0 +1,27 @@
+[class]:has(> [id^="fip-coupon-field-"]),
+[class]:has(> [id^="fip-reduced-ticket-field-"]) {
+  display: inline-block;
+  width: 48%;
+  vertical-align: top;
+  box-sizing: border-box;
+}
+
+[class]:has(> [id^="fip-coupon-field-"]) {
+  margin-right: 4%;
+  margin-top: 16px !important;
+}
+
+.o-cms-edit-link__info {
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+.o-cms-edit-link__info a {
+  color: #3a69c7;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.o-cms-edit-link__info a:hover {
+  text-decoration: underline;
+}
