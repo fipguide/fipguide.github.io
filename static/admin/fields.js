@@ -5,10 +5,11 @@
     var hrefTemplate = field.get("href");
     var labelTemplate = field.get("label_template");
     var emptyHint = field.get("empty_hint");
+    var isStatic = field.get("static");
 
-    var value = String(getValue(props) || "");
+    var value = isStatic ? "" : String(getValue(props) || "");
 
-    if (!value) {
+    if (!isStatic && !value) {
       return h("p", { className: "o-cms-edit-link__info" }, emptyHint);
     }
 

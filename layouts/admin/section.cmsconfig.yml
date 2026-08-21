@@ -199,6 +199,7 @@ collections:
     folder: "content/operator"
     path: "{{"{{"}}slug}}/index"
     publish: false
+    create: false
     delete: false
     i18n: true
     editor:

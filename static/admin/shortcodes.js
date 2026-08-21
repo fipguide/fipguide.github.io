@@ -466,14 +466,9 @@
       name: "booking_data_link",
       label: "Booking Platform Link",
       widget: "cms-edit-link",
-      get_value: function (props) {
-        return String(props.value || "")
-          .replace(/\/index$/, "")
-          .trim();
-      },
-      href: "#/collections/booking/entries/{value}/index",
-      label_template: "Edit the Booking Platform \u201c{value}\u201d \u2192",
-      empty_hint: "Select a booking platform above to edit it.",
+      static: true,
+      href: "#/collections/booking",
+      label_template: "Manage Booking Platforms \u2192",
     },
     {
       name: "subtitle",
