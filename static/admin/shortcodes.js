@@ -578,7 +578,7 @@
       var p = parseHugoParams(match[1]);
       var rawId = p.id ? String(p.id) : "";
       return {
-        id: rawId ? rawId + "/index" : "",
+        id: rawId,
         booking_data_link: rawId,
         subtitle: String(p.subtitle || ""),
         classes_first: String(p["classes.first"] || ""),
@@ -720,7 +720,7 @@
       return {
         sources: p.sources
           ? p.sources.split(",").map(function (s) {
-              return s.trim() + "/index";
+              return s.trim();
             })
           : [],
         body: match[2] ? match[2].trim() : "",
