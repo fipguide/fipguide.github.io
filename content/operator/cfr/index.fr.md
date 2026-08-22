@@ -177,10 +177,15 @@ Il n’est pas possible d’acheter des billets à tarif réduit FIP à bord du 
 
 {{< children-discount >}}
 
-| Âge                                     | Réduction        |
-| --------------------------------------- | ---------------- |
-| {{< icon "child_care" >}} 0–4 ans       | Gratuit[^2]      |
-| {{< icon "person" >}} à partir de 5 ans | Tarif normal[^2] |
+| Âge                                      | Réduction                                                                         |
+| ---------------------------------------- | --------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–4 ans          | Gratuit, à condition de n’occuper aucun siège séparé, sinon réduction de 50 %[^2] |
+| {{< icon "child_care" >}} 5–9 ans        | Réduction de 50 %[^2]                                                             |
+| {{< icon "person" >}} à partir de 10 ans | Tarif normal[^2]                                                                  |
+
+Dans les trains à réservation obligatoire, le tarif complet de la réservation doit être payé, indépendamment de la réduction.[^2]
+
+Dans les voitures-couchettes et voitures-lits, si 2 enfants partagent un même lit, seul un supplément de lit simple est facturé. Si un enfant n’a pas besoin d’un lit séparé, aucun supplément de lit n’est dû (un enfant accompagné par lit est autorisé).[^2]
 
 ## Conditions tarifaires spéciales
 

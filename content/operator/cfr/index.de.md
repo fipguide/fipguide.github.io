@@ -177,10 +177,15 @@ Es können keine FIP-ermäßigte Tickets im Zug gekauft werden. Auch Reservierun
 
 {{< children-discount >}}
 
-| Alter                               | Ermäßigung          |
-| ----------------------------------- | ------------------- |
-| {{< icon "child_care" >}} 0–4 Jahre | Kostenlos[^2]       |
-| {{< icon "person" >}} ab 5 Jahre    | Regulärer Preis[^2] |
+| Alter                               | Ermäßigung                                                                            |
+| ----------------------------------- | ------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–4 Jahre   | Kostenlos, sofern kein eigener Sitzplatz belegt wird, andernfalls 50 % Ermäßigung[^2] |
+| {{< icon "child_care" >}} 5–9 Jahre | 50 % Ermäßigung[^2]                                                                   |
+| {{< icon "person" >}} ab 10 Jahre   | Regulärer Preis[^2]                                                                   |
+
+In Zügen mit Reservierungspflicht muss die Reservierung unabhängig von der Ermäßigung in voller Höhe bezahlt werden.[^2]
+
+In Liege- und Schlafwagen wird bei 2 Kindern, die sich ein Bett teilen, nur ein einfacher Bettzuschlag berechnet. Benötigt ein Kind kein eigenes Bett, entfällt der Bettzuschlag (ein begleitetes Kind pro Bett ist erlaubt).[^2]
 
 ## Tarifliche Besonderheiten
 

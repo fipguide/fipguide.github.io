@@ -73,16 +73,15 @@ Die inzwischen an vielen Stationen aufgestellten Fahrkartenautomaten geben keine
 
 {{< children-discount >}}
 
-| Alter                                                                      | Ermäßigung                                      |
-| -------------------------------------------------------------------------- | ----------------------------------------------- |
-| {{< icon "child_care" >}} 0–7 Jahre (max. 2 Kinder ohne eigenen Sitzplatz) | Kostenlos (2. Klasse, auf dem Schoß der Eltern) |
-| {{< icon "child_care" >}} 0–7 Jahre (mit eigenem Sitzplatz)                | 50% Ermäßigung auf den Erwachsenentarif         |
-| {{< icon "child_care" >}} 8–17 Jahre (bzw. bis 23 Jahre als Schüler:in)    | 50% Ermäßigung auf den Erwachsenentarif         |
-| {{< icon "person" >}} ab 18 Jahre                                          | Regulärer Preis                                 |
+| Alter                                | Ermäßigung                                                                                                                                    |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–7 Jahre  | Kostenlos, 2. Klasse, auf dem Schoß der Eltern (max. 2 Kinder ohne eigenen Sitzplatz); andernfalls 50% Ermäßigung auf den regulären Preis[^4] |
+| {{< icon "child_care" >}} 8–17 Jahre | 50% Ermäßigung auf den regulären Preis[^4]                                                                                                    |
+| {{< icon "person" >}} ab 18 Jahre    | Regulärer Preis[^4]                                                                                                                           |
 
 ### Weitere Ermäßigungen
 
-Personen ab 18 Jahren zahlen den vollen Erwachsenentarif, jedoch gibt es zahlreiche weitere Ermäßigungen. Ein Überblick ist auf der [Website von LTG-Link](https://ltglink.lt/en/discount-for-children-and-pupils) verfügbar.
+Personen ab 18 Jahren zahlen den vollen regulären Preis, jedoch gibt es zahlreiche weitere Ermäßigungen. Ein Überblick ist auf der [Website von LTG-Link](https://ltglink.lt/en/discount-for-children-and-pupils) verfügbar.
 
 ## Tarifliche Besonderheiten
 
@@ -109,3 +108,5 @@ In Vilnius betreibt LTG-Link die einzige Lounge. Den Zugang erhält man bereits 
 [^2]: [LTG-Link Mail Feedback Verpflichtende Reservierung](https://github.com/fipguide/fipguide.github.io/issues/553)
 
 [^3]: [Feedback: LTG Link Sea Side Express](https://github.com/fipguide/fipguide.github.io/issues/817)
+
+[^4]: [LTG-Link – Ermäßigung für Kinder und Schüler:innen](https://ltglink.lt/en/discount-for-children-and-pupils)

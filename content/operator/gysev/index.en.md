@@ -158,23 +158,19 @@ Discounts differ depending on the country in which you travel with GySEV.
 
 ### Hungary
 
-With public fares:
-
-| Age                                  | Discount                       |
-| ------------------------------------ | ------------------------------ |
-| {{< icon "child_care" >}} 0–5 years  | Free of charge                 |
-| {{< icon "child_care" >}} 6–13 years | 50% discount on the adult fare |
-| {{< icon "person" >}} from 14 years  | Regular price                  |
+| Age                                  | Discount                              |
+| ------------------------------------ | ------------------------------------- |
+| {{< icon "stroller" >}} 0–5 years    | Free of charge[^3]                    |
+| {{< icon "child_care" >}} 6–13 years | 50% discount on the regular price[^3] |
+| {{< icon "person" >}} from 14 years  | Regular price[^3]                     |
 
 ### Austria
 
-With public fares:
-
-| Age                                  | Discount                       |
-| ------------------------------------ | ------------------------------ |
-| {{< icon "child_care" >}} 0–5 years  | Free of charge                 |
-| {{< icon "child_care" >}} 6–14 years | 50% discount on the adult fare |
-| {{< icon "person" >}} from 15 years  | Regular price                  |
+| Age                                  | Discount                              |
+| ------------------------------------ | ------------------------------------- |
+| {{< icon "stroller" >}} 0–5 years    | Free of charge[^3]                    |
+| {{< icon "child_care" >}} 6–14 years | 50% discount on the regular price[^3] |
+| {{< icon "person" >}} from 15 years  | Regular price[^3]                     |
 
 ## Special Tariff Conditions
 
@@ -195,3 +191,5 @@ On rail replacement buses, FIP discounts apply when they replace a train on whic
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
 
 [^2]: [GySEV Support Neusiedel am See - Pamhagen](https://github.com/fipguide/fipguide.github.io/issues/278)
+
+[^3]: [GySEV – International Travel](https://www2.gysev.hu/en/travel-offers/international-travel)

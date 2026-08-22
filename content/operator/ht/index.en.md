@@ -131,11 +131,11 @@ If you start your journey at a station where the ticket office is unstaffed, tic
 
 {{< children-discount >}}
 
-| Age                                  | Discount                           |
-| ------------------------------------ | ---------------------------------- |
-| {{< icon "stroller" >}} 0–3 years    | Free of charge[^1]                 |
-| {{< icon "child_care" >}} 4–11 years | 50% discount on the adult fare[^1] |
-| {{< icon "person" >}} from 12 years  | Regular price[^1]                  |
+| Age                                  | Discount                                                                                    |
+| ------------------------------------ | ------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free of charge, if not occupying own seat; otherwise 50% discount on the adult fare[^1][^6] |
+| {{< icon "child_care" >}} 4–11 years | 50% discount on the adult fare[^1][^6]                                                      |
+| {{< icon "person" >}} from 12 years  | Regular price[^1]                                                                           |
 
 ## Special Tariff Conditions
 
@@ -165,3 +165,5 @@ A ticket purchased online can be cancelled at the ticket office or via the [tele
 [^4]: [Hellenic Train ETR PDF](https://www.hellenictrain.gr/sites/default/files/2022-11/Hellenic_Train_ETR_EN_0.pdf)
 
 [^5]: [Hellenic Train Terms and Conditions](https://www.hellenictrain.gr/sites/default/files/2024-10/2024.10.16-PASSENGER%20TERMS%20AND%20CONDITIONS-EN.pdf)
+
+[^6]: [Hellenic Train – Children Offers](https://www.hellenictrain.gr/en/children-offers)

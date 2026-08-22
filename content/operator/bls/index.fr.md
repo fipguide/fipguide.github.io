@@ -159,14 +159,14 @@ L’achat de billets FIP dans le train n’est pas possible. Des frais de pénal
 
 | Âge                                     | Réduction        |
 | --------------------------------------- | ---------------- |
-| {{< icon "child_care" >}} 0–5 ans       | Gratuit[^1]      |
+| {{< icon "child_care" >}} 0–5 ans       | Gratuit[^3]      |
 | {{< icon "person" >}} à partir de 6 ans | Tarif normal[^1] |
 
-### Carte Junior pour Enfants Accompagnés (sans FIP)
+### Carte Junior pour Enfants Accompagnés
 
 En outre, il est possible d’acheter une _Carte Junior_ pour 30 CHF. Elle permet à ses propres enfants jusqu’à 15 ans inclus de voyager lorsqu’ils sont accompagnés par un parent. Le parent accompagnateur doit disposer de son propre titre de transport valable pour le trajet (par ex. Coupon FIP ou Billet FIP 50). La Carte Junior peut être achetée sur place auprès des points de vente des transports publics en Suisse. Voir le site web des CFF : [Carte Junior](https://www.sbb.ch/fr/offres/carte-junior).
 
-### Carte Journalière Enfant (sans FIP)
+### Carte Journalière Enfant
 
 Alternativement, la _Carte journalière Enfant_ offre aux enfants de 6 à moins de 16 ans un voyage illimité sur les transports publics pendant une journée pour 19 CHF (2ᵉ classe) ou 33 CHF (1ᵉ classe). Voir le site web des CFF : [Carte journalière Enfant](https://www.sbb.ch/fr/offres/carte-journaliere-enfant).
 
@@ -204,3 +204,5 @@ Les membres de la famille ne sont parfois pas éligibles aux Coupon FIP des SBB.
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)
+
+[^3]: [BLS – Reisen mit Kindern](https://www.bls.ch/de/fahren/fahrgastinformation/familien)

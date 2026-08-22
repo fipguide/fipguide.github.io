@@ -301,9 +301,11 @@ L’achat de billets à bord du train est possible si vous contactez immédiatem
 
 {{< children-discount >}}
 
-| Âge                               | Réduction |
-| --------------------------------- | --------- |
-| {{< icon "child_care" >}} 0–6 ans | Gratuit   |
+| Âge                                      | Réduction             |
+| ---------------------------------------- | --------------------- |
+| {{< icon "stroller" >}} 0–5 ans          | Gratuit[^2]           |
+| {{< icon "child_care" >}} 6–14 ans       | Réduction de 50 %[^2] |
+| {{< icon "person" >}} à partir de 15 ans | Tarif normal[^2]      |
 
 À partir de 6 ans, lors d’un voyage avec un Coupon FIP sur les trains grandes lignes, le [supplément](#validite-des-billets-fip) doit être payé pour chaque enfant.
 
@@ -375,3 +377,5 @@ Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lors
 ## Sources
 
 [^1]: [Rail Delivery Group – Europe & FIP](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
+
+[^2]: [ÖBB – Voyager avec des enfants](https://www.oebb.at/en/reiseplanung-services/vor-ihrer-reise/mit-kindern-unterwegs)

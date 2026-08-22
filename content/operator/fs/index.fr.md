@@ -331,8 +331,6 @@ Si les suppléments ne sont pas achetés avant le voyage, un supplément à bord
 
 {{< children-discount >}}
 
-Pour les tarifs publics, les enfants jusqu’à 3 ans inclus voyagent gratuitement, à condition de ne pas occuper de siège propre et d’être accompagnés d’un adulte. Les enfants plus âgés bénéficient de réductions selon la catégorie de train.[^3]
-
 **Trains régionaux :**
 
 | Âge                                      | Réduction                                      |

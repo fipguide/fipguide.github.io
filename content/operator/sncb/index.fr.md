@@ -209,7 +209,15 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{< children-discount >}}
 
-Jusqu’à quatre enfants de moins de 12 ans voyagent gratuitement lorsqu’ils sont accompagnés d’un adulte (une personne de 12 ans ou plus en possession d’un titre de transport valable) et n’ont pas besoin de billet. Si tous les enfants appartiennent au même ménage, plus de quatre enfants peuvent voyager gratuitement. Un document officiel valide (carte d’identité ou passeport) attestant l’âge de l’enfant est requis pour le voyage. Si un enfant voyage seul ou si la limite de quatre enfants gratuits par adulte est dépassée, un billet au tarif Youth doit être acheté, celui-ci étant 40 % moins cher que le tarif standard. Si les enfants sont éligibles FIP, ils bénéficient d’une réduction de 50 % sur le tarif standard avec le Billet FIP 50 / FIP 75. [^3]
+| Âge                                      | Réduction             |
+| ---------------------------------------- | --------------------- |
+| {{< icon "child_care" >}} 0–11 ans       | Réduction de 40 %[^3] |
+| {{< icon "child_hat" >}} 12–25 ans       | Réduction de 40 %[^9] |
+| {{< icon "person" >}} à partir de 26 ans | Tarif normal          |
+
+### Enfants voyageant gratuitement
+
+Jusqu’à quatre enfants de moins de 12 ans voyagent gratuitement lorsqu’ils sont accompagnés d’un adulte (une personne de 12 ans ou plus en possession d’un titre de transport valable) et n’ont pas besoin de billet. Si tous les enfants appartiennent au même ménage, plus de quatre enfants peuvent voyager gratuitement. Un document officiel valide (carte d’identité ou passeport) attestant l’âge de l’enfant est requis pour le voyage. [^3]
 
 ## Conditions tarifaires spéciales
 
@@ -252,3 +260,5 @@ Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus
 [^7]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470491831987998771)
 
 [^8]: [Arriva Train des Trois Pays](https://www.arriva.nl/over-je-reis/met-de-trein/de-drielandentrein/)
+
+[^9]: [Politique jeunes SNCB](https://www.belgiantrain.be/fr/products/youth)

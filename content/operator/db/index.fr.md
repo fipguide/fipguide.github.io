@@ -330,10 +330,11 @@ Les billets FIP 50 ne peuvent pas être achetés à bord.
 
 {{< children-discount >}}
 
-| Âge                                     | Réduction    |
-| --------------------------------------- | ------------ |
-| {{< icon "child_care" >}} 0–5 ans       | Gratuit      |
-| {{< icon "person" >}} à partir de 6 ans | Tarif normal |
+| Âge                                      | Réduction                                |
+| ---------------------------------------- | ---------------------------------------- |
+| {{< icon "child_care" >}} 0–5 ans        | Gratuit                                  |
+| {{< icon "child_care" >}} 6–14 ans       | Réduction de 50 %, si voyageant seul[^3] |
+| {{< icon "person" >}} à partir de 15 ans | Tarif normal[^3]                         |
 
 ### Enfants voyageant gratuitement
 
@@ -439,3 +440,5 @@ La Deutsche Bahn exploite une multitude de liaisons très variées. Par exemple,
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782273-germany.html)
 
 [^2]: [DB Mobidig : Où ma réduction de voyage est-elle valable](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)
+
+[^3]: [DB – Votre voyage avec des enfants](https://www.bahn.de/service/individuelle-reise/kinder)

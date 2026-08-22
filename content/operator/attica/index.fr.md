@@ -113,10 +113,11 @@ Le jour du voyage, des réservations peuvent être effectuées sur place sous r�
 
 {{< children-discount >}}
 
-| Âge                                     | Réduction                                                                                             |
-| --------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| {{< icon "stroller" >}} 0–3 ans         | 6,00 € par traversée, à condition de n’occuper ni lit, ni couchette, ni siège inclinable[^3]          |
-| {{< icon "person" >}} à partir de 4 ans | Tarif normal (s’applique aussi aux 0–3 ans occupant un lit, une couchette ou un siège inclinable)[^3] |
+| Âge                                      | Réduction                                                                                                                                  |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| {{< icon "stroller" >}} 0–3 ans          | 6,00 € par traversée, à condition de n’occuper ni lit, ni couchette, ni siège inclinable ; sinon réduction de 50 % sur le tarif adulte[^3] |
+| {{< icon "child_care" >}} 4–12 ans       | Réduction de 50 % sur le tarif adulte, sur toutes les lignes[^3]                                                                           |
+| {{< icon "person" >}} à partir de 13 ans | Tarif normal[^3]                                                                                                                           |
 
 ## Conditions tarifaires spéciales
 

@@ -330,10 +330,11 @@ FIP 50 Tickets cannot be purchased on the train.
 
 {{< children-discount >}}
 
-| Age                                 | Discount      |
-| ----------------------------------- | ------------- |
-| {{< icon "child_care" >}} 0–5 years | Free          |
-| {{< icon "person" >}} from 6 years  | Regular price |
+| Age                                  | Discount                                      |
+| ------------------------------------ | --------------------------------------------- |
+| {{< icon "child_care" >}} 0–5 years  | Free                                          |
+| {{< icon "child_care" >}} 6–14 years | 50% discount, if travelling unaccompanied[^3] |
+| {{< icon "person" >}} from 15 years  | Regular price[^3]                             |
 
 ### Children Traveling Free
 
@@ -443,3 +444,5 @@ Deutsche Bahn operates a wide variety of connections. For example, you can use t
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782273-germany.html)
 
 [^2]: [DB Mobidig: Where is my travel pass valid](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)
+
+[^3]: [DB – Your Journey with Children](https://www.bahn.de/service/individuelle-reise/kinder)

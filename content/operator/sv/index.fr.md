@@ -164,10 +164,11 @@ Actuellement, un bus navette entre Novi Sad et Petrovaradin peut toutefois être
 
 {{< children-discount >}}
 
-| Âge                                | Réduction                                                                               |
-| ---------------------------------- | --------------------------------------------------------------------------------------- |
-| {{< icon "child_care" >}} 0–5 ans  | Gratuit (sans place assise propre, accompagné d’un adulte muni d’un billet valable)[^7] |
-| {{< icon "child_care" >}} 6–14 ans | 50 % de réduction[^7]                                                                   |
+| Âge                                      | Réduction                                                                               |
+| ---------------------------------------- | --------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–5 ans        | Gratuit (sans place assise propre, accompagné d’un adulte muni d’un billet valable)[^7] |
+| {{< icon "child_care" >}} 6–14 ans       | 50 % de réduction[^7]                                                                   |
+| {{< icon "person" >}} à partir de 15 ans | Tarif normal[^7]                                                                        |
 
 ## Conditions tarifaires spéciales
 

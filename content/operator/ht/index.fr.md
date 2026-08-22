@@ -131,11 +131,11 @@ Si le voyage commence dans une gare où le guichet n’est pas occupé, les bill
 
 {{< children-discount >}}
 
-| Âge                                      | Réduction                                 |
-| ---------------------------------------- | ----------------------------------------- |
-| {{< icon "stroller" >}} 0–3 ans          | Gratuit[^1]                               |
-| {{< icon "child_care" >}} 4–11 ans       | Réduction de 50 % sur le tarif adulte[^1] |
-| {{< icon "person" >}} à partir de 12 ans | Tarif normal[^1]                          |
+| Âge                                      | Réduction                                                                                                  |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit, à condition de n’occuper aucun siège propre ; sinon réduction de 50 % sur le tarif adulte[^1][^6] |
+| {{< icon "child_care" >}} 4–11 ans       | Réduction de 50 % sur le tarif adulte[^1][^6]                                                              |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal[^1]                                                                                           |
 
 ## Conditions tarifaires spéciales
 
@@ -165,3 +165,5 @@ Un billet acheté en ligne peut être annulé au guichet ou via la [ligne télé
 [^4]: [Hellenic Train ETR PDF](https://www.hellenictrain.gr/sites/default/files/2022-11/Hellenic_Train_ETR_EN_0.pdf)
 
 [^5]: [Hellenic Train Terms and Conditions](https://www.hellenictrain.gr/sites/default/files/2024-10/2024.10.16-PASSENGER%20TERMS%20AND%20CONDITIONS-EN.pdf)
+
+[^6]: [Hellenic Train – Offres pour les enfants](https://www.hellenictrain.gr/en/children-offers)

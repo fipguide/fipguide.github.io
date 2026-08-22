@@ -158,23 +158,19 @@ Les réductions diffèrent selon le pays dans lequel vous voyagez avec GySEV.
 
 ### Hongrie
 
-Avec les tarifs publics :
-
-| Âge                                      | Réduction                            |
-| ---------------------------------------- | ------------------------------------ |
-| {{< icon "child_care" >}} 0–5 ans        | Gratuit                              |
-| {{< icon "child_care" >}} 6–13 ans       | Réduction de 50% sur le tarif adulte |
-| {{< icon "person" >}} à partir de 14 ans | Tarif normal                         |
+| Âge                                      | Réduction                                 |
+| ---------------------------------------- | ----------------------------------------- |
+| {{< icon "stroller" >}} 0–5 ans          | Gratuit[^3]                               |
+| {{< icon "child_care" >}} 6–13 ans       | Réduction de 50 % sur le tarif normal[^3] |
+| {{< icon "person" >}} à partir de 14 ans | Tarif normal[^3]                          |
 
 ### Autriche
 
-Avec les tarifs publics :
-
-| Âge                                      | Réduction                            |
-| ---------------------------------------- | ------------------------------------ |
-| {{< icon "child_care" >}} 0–5 ans        | Gratuit                              |
-| {{< icon "child_care" >}} 6–14 ans       | Réduction de 50% sur le tarif adulte |
-| {{< icon "person" >}} à partir de 15 ans | Tarif normal                         |
+| Âge                                      | Réduction                                 |
+| ---------------------------------------- | ----------------------------------------- |
+| {{< icon "stroller" >}} 0–5 ans          | Gratuit[^3]                               |
+| {{< icon "child_care" >}} 6–14 ans       | Réduction de 50 % sur le tarif normal[^3] |
+| {{< icon "person" >}} à partir de 15 ans | Tarif normal[^3]                          |
 
 ## Conditions tarifaires spéciales
 
@@ -195,3 +191,5 @@ Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lors
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
 
 [^2]: [GySEV service client Neusiedel am See - Pamhagen](https://github.com/fipguide/fipguide.github.io/issues/278)
+
+[^3]: [GySEV – Voyages internationaux](https://www2.gysev.hu/en/travel-offers/international-travel)

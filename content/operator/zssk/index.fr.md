@@ -199,21 +199,27 @@ En l’absence de guichet ouvert, un billet ou une réservation (Ex) peut être 
 
 {{< children-discount >}}
 
-| Âge                               | Réduction   |
-| --------------------------------- | ----------- |
-| {{< icon "child_care" >}} 0–6 ans | Gratuit[^1] |
+| Âge                                      | Réduction             |
+| ---------------------------------------- | --------------------- |
+| {{< icon "child_care" >}} 0–5 ans        | Gratuit[^3]           |
+| {{< icon "child_care" >}} 6–15 ans       | Réduction de 50 %[^3] |
+| {{< icon "person" >}} à partir de 16 ans | Tarif normal[^3]      |
 
-Cela nécessite que les enfants soient accompagnés d’une personne âgée d’au moins 16 ans. En 1ʳᵉ classe, cette gratuité est limitée à 2 enfants ; à partir du 3ᵉ enfant, 50 % du prix du billet est dû. Dans les trains `EC`, un supplément de 1 € par enfant est appliqué en 1ʳᵉ classe à partir du 3ᵉ enfant. Dans les trains `SC`, un supplément de 1 € par enfant est toujours appliqué en 2ᵉ classe et de 3 € en 1ʳᵉ classe. Dans les trains `IC`, une réservation incluant un supplément pour la catégorie de train doit être achetée pour chaque enfant.[^1]
+### Suppléments pour les enfants
 
-### Gratuité 6–16 ans (sans FIP)
+Des suppléments s’ajoutent au prix du billet pour les enfants :
 
-Pour obtenir la gratuité pour les enfants de 6 à 16 ans, il faut présenter une photo (2x3 cm) et une pièce d’identité (ou un acte de naissance accompagné de la pièce d’identité du parent) au guichet pour l’enregistrement. Le traitement peut prendre jusqu’à trois jours ouvrables, après quoi une attestation est délivrée et doit être présentée à bord. Le billet gratuit (0 €) doit ensuite être réservé sur le site ZSSK en sélectionnant « bénéficiaire de la réduction 100 % ».
-
-Dans les trains `EC` : supplément 1 € par enfant \
+Dans les trains `EC` : supplément de 1 € par enfant (sauf pour les enfants jusqu’à 6 ans, qui voyagent gratuitement) \
 Dans les trains `SC` : 1 € (2ᵉ cl.) / 3 € (1ʳᵉ cl.) \
-Dans les trains `IC` : supplément avec réservation obligatoire
+Dans les trains `IC` : supplément avec réservation obligatoire[^1]
 
-### Gratuité pour les étudiants et les seniors (sans FIP)
+### Gratuité 6–16 ans
+
+Pour obtenir la gratuité pour les enfants de 6 à 16 ans, il faut présenter une photo (2x3 cm) et une pièce d’identité (ou un acte de naissance accompagné de la pièce d’identité du parent) au guichet pour l’enregistrement. Le traitement peut prendre jusqu’à trois jours ouvrables, après quoi une attestation est délivrée et doit être présentée à bord. Le billet gratuit (0 €) doit ensuite être réservé sur le site ZSSK en sélectionnant « bénéficiaire de la réduction 100 % ».
+
+Des suppléments supplémentaires s’appliquent, voir [Suppléments pour les enfants](#suppléments-pour-les-enfants).
+
+### Gratuité pour les étudiants et les seniors
 
 Les étudiants de moins de 26 ans et les seniors de 62 ans et plus originaires de l’UE, ainsi que les étudiants internationaux en Slovaquie, peuvent également voyager gratuitement. Les étudiants doivent s’enregistrer au guichet ZSSK au moins 3 jours avant leur premier voyage avec un formulaire d’inscription signé par l’école/université. Plus de détails sont disponibles sur la page [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/).
 
@@ -232,3 +238,5 @@ Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lors
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782291-slovakia.html)
 
 [^2]: [ZSSK Réservations](https://www.zssk.sk/en/seat-reservations)
+
+[^3]: [ZSSK – Enfants et étudiants](https://www.zssk.sk/en/children-and-students/)

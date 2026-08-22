@@ -90,7 +90,7 @@ Les Billets FIP 50 peuvent également être achetés directement dans le train. 
 | Âge                                      | Réduction                                 |
 | ---------------------------------------- | ----------------------------------------- |
 | {{< icon "stroller" >}} 0–3 ans          | Gratuit[^1]                               |
-| {{< icon "child_care" >}} 4–25 ans       | Réduction de 20 % sur le tarif adulte[^1] |
+| {{< icon "child_care" >}} 4–25 ans       | Réduction de 20 % sur le tarif normal[^1] |
 | {{< icon "person" >}} à partir de 26 ans | Tarif normal[^1]                          |
 
 ## Conditions tarifaires spéciales

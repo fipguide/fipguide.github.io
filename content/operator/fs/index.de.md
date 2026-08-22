@@ -330,8 +330,6 @@ Wenn Zuschläge nicht vor Reisebeginn erworben werden, wird ein zusätzlicher Bo
 
 {{< children-discount >}}
 
-Bei öffentlichen Tarifen reisen Kinder bis einschließlich 3 Jahre kostenlos, sofern sie keinen eigenen Sitzplatz belegen und von einem Erwachsenen begleitet werden. Für ältere Kinder gelten je nach Zugkategorie unterschiedliche Ermäßigungen.[^3]
-
 **Nahverkehrszüge:**
 
 | Alter                                | Ermäßigung                                   |

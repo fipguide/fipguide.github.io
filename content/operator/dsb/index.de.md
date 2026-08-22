@@ -170,6 +170,8 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 | Alter                                | Ermäßigung                                                                        |
 | ------------------------------------ | --------------------------------------------------------------------------------- |
 | {{< icon "child_care" >}} 0–11 Jahre | Kostenlos für zwei Kinder in Begleitung eines Erwachsenen mit gültigem Ticket[^3] |
+| {{< icon "child_hat" >}} 12–15 Jahre | 50 % Ermäßigung[^3]                                                               |
+| {{< icon "person" >}} ab 16 Jahre    | Regulärer Preis[^3]                                                               |
 
 ## Tarifliche Besonderheiten
 

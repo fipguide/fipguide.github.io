@@ -329,8 +329,6 @@ If supplements are not purchased before travel, an additional on-board surcharge
 
 {{< children-discount >}}
 
-For public fares, children up to and including 3 years of age travel free of charge, as long as they do not occupy their own seat and are accompanied by an adult. Older children receive discounts depending on the train category.[^3]
-
 **Regional trains:**
 
 | Age                                  | Discount                                  |

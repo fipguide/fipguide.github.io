@@ -73,16 +73,15 @@ Les distributeurs de billets installés dans de nombreuses gares ne délivrent p
 
 {{< children-discount >}}
 
-| Âge                                                                    | Réduction                                       |
-| ---------------------------------------------------------------------- | ----------------------------------------------- |
-| {{< icon "child_care" >}} 0–7 ans (max. 2 enfants sans place assise)   | Gratuit (2e classe, sur les genoux des parents) |
-| {{< icon "child_care" >}} 0–7 ans (avec place assise)                  | Réduction de 50 % sur le tarif adulte           |
-| {{< icon "child_care" >}} 8–17 ans (ou jusqu’à 23 ans pour les élèves) | Réduction de 50 % sur le tarif adulte           |
-| {{< icon "person" >}} à partir de 18 ans                               | Tarif normal                                    |
+| Âge                                      | Réduction                                                                                                                           |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–7 ans        | Gratuit, 2ᵉ classe, sur les genoux des parents (max. 2 enfants sans place assise) ; sinon réduction de 50 % sur le tarif normal[^4] |
+| {{< icon "child_care" >}} 8–17 ans       | Réduction de 50 % sur le tarif normal[^4]                                                                                           |
+| {{< icon "person" >}} à partir de 18 ans | Tarif normal[^4]                                                                                                                    |
 
 ### Autres réductions
 
-Les personnes de plus de 18 ans paient le plein tarif adulte, mais de nombreuses autres réductions existent. Un aperçu est disponible sur le [site de LTG-Link](https://ltglink.lt/en/discount-for-children-and-pupils).
+Les personnes de plus de 18 ans paient le plein tarif normal, mais de nombreuses autres réductions existent. Un aperçu est disponible sur le [site de LTG-Link](https://ltglink.lt/en/discount-for-children-and-pupils).
 
 ## Conditions tarifaires spéciales
 
@@ -109,3 +108,5 @@ Le transport de vélos est possible dans tous les trains. Dans les trains avec r
 [^2]: [LTG-Link Mail Feedback Verpflichtende Reservierung](https://github.com/fipguide/fipguide.github.io/issues/553)
 
 [^3]: [Feedback: LTG Link Sea Side Express](https://github.com/fipguide/fipguide.github.io/issues/817)
+
+[^4]: [LTG-Link – Réduction pour les enfants et les élèves](https://ltglink.lt/en/discount-for-children-and-pupils)

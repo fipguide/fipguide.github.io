@@ -250,7 +250,7 @@ Les Billets FIP 50 ne peuvent pas être achetés à bord. [^1]
 | {{< icon "child_care" >}} 4–11 ans       | [Billet Railrunner](https://www.ns.nl/en/tickets/railrunner) à 2,50 € (valable toute une journée) |
 | {{< icon "person" >}} à partir de 12 ans | Tarif normal                                                                                      |
 
-### Abonnement gratuit « Kids Vrij » (sans FIP)
+### Abonnement gratuit « Kids Vrij »
 
 Alternativement, pour les enfants entre 4 et 11 ans inclus voyageant accompagnés d’un adulte, l’abonnement saisonnier gratuit [« Kids Vrij »](https://www.ns.nl/en/season-tickets/kids-vrij.html) peut être obtenu. Une OV chipkaart est nécessaire à cet effet (frais uniques de 7,50 €).
 

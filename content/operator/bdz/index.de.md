@@ -125,8 +125,12 @@ FIP-ermäßigte Fahrkarten können nur im Zug gekauft werden, wenn die Abfahrt v
 
 | Alter                               | Ermäßigung          |
 | ----------------------------------- | ------------------- |
-| {{< icon "child_care" >}} 0–6 Jahre | Kostenlos[^2]       |
-| {{< icon "person" >}} ab 7 Jahre    | Regulärer Preis[^2] |
+| {{< icon "child_care" >}} 0–6 Jahre | Kostenlos[^3]       |
+| {{< icon "person" >}} ab 7 Jahre    | Regulärer Preis[^3] |
+
+### Railway Passes
+
+Die BDŽ bietet weitere Ermäßigungen für Kinder, Familien, Studierende und andere Gruppen mit [Railway Passes](https://www.bdz.bg/en/a/railway-passes).[^2]
 
 ## Tarifliche Besonderheiten
 
@@ -149,3 +153,5 @@ Die BDŽ betreibt auf einem etwas in die Jahre gekommenen Schienennetz noch ein 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782242-bulgaria.html)
 
 [^2]: [BDŽ – Railway Passes](https://www.bdz.bg/en/a/railway-passes)
+
+[^3]: [BDŽ – Railway Passes and Discounts](https://www.bdz.bg/en/a/railway-passes-and-discounts)

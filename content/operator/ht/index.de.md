@@ -131,11 +131,11 @@ Wenn man die Reise an einem Bahnhof beginnt, an dem der Fahrkartenschalter unbes
 
 {{< children-discount >}}
 
-| Alter                                | Ermäßigung                              |
-| ------------------------------------ | --------------------------------------- |
-| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos[^1]                           |
-| {{< icon "child_care" >}} 4–11 Jahre | 50% Rabatt auf den Erwachsenenpreis[^1] |
-| {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis[^1]                     |
+| Alter                                | Ermäßigung                                                                                                    |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos, sofern kein eigener Sitzplatz belegt wird; andernfalls 50% Rabatt auf den Erwachsenenpreis[^1][^6] |
+| {{< icon "child_care" >}} 4–11 Jahre | 50% Rabatt auf den Erwachsenenpreis[^1][^6]                                                                   |
+| {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis[^1]                                                                                           |
 
 ## Tarifliche Besonderheiten
 
@@ -165,3 +165,5 @@ Ein online gekauften Ticket kann am Ticketschalter oder bei der [telefonischen H
 [^4]: [Hellenic Train ETR PDF](https://www.hellenictrain.gr/sites/default/files/2022-11/Hellenic_Train_ETR_EN_0.pdf)
 
 [^5]: [Hellenic Train Terms and Conditions](https://www.hellenictrain.gr/sites/default/files/2024-10/2024.10.16-PASSENGER%20TERMS%20AND%20CONDITIONS-EN.pdf)
+
+[^6]: [Hellenic Train – Kinderangebote](https://www.hellenictrain.gr/en/children-offers)

@@ -280,10 +280,22 @@ FIP Tickets können nicht im Zug erworben werden.
 
 {{< children-discount >}}
 
-| Alter                               | Ermäßigung      |
-| ----------------------------------- | --------------- |
-| {{< icon "child_care" >}} 0–4 Jahre | Kostenlos       |
-| {{< icon "person" >}} ab 5 Jahre    | Regulärer Preis |
+| Alter                             | Ermäßigung      |
+| --------------------------------- | --------------- |
+| {{< icon "stroller" >}} 0–3 Jahre | Kostenlos[^6]   |
+| {{< icon "person" >}} ab 4 Jahre  | Regulärer Preis |
+
+### Forfait Bambin
+
+Kinder unter 4 Jahren fahren kostenlos auf dem Schoß eines Erwachsenen, ohne gebuchten Sitzplatz, in `TGV` inOui, `TER` und Intercité-Zügen; dies muss bei der Buchung angegeben werden, und pro Reisenden ist nur ein Kind erlaubt. Wird ein eigener Sitzplatz gewünscht, kann das _Forfait Bambin_ zum Festpreis von 9 € gebucht werden. Bei OUIGO fahren Kinder unter 4 Jahren ebenfalls kostenlos auf dem Schoß eines Erwachsenen; ein eigener Sitzplatz ist für 8 € bei OUIGO Grande Vitesse und für 5 € bei OUIGO Vitesse Classique erhältlich. In jedem Fall muss das Alter des Kindes durch einen Ausweis nachgewiesen werden.[^6]
+
+### Avantage Adulte Karte
+
+Die _Avantage Adulte_-Karte bietet eine Ermäßigung von 60 % für begleitete Kinder zwischen 4 und 11 Jahren.[^6]
+
+### Familles Nombreuses Karte
+
+Kinderreiche Familien mit 3 oder mehr Kindern können die _Familles Nombreuses_-Karte beantragen. [Weitere Informationen](https://www.sncf-connect.com/en-en/help/offer-children-and-families#ancre-11001)[^6]
 
 ## Tarifliche Besonderheiten
 
@@ -488,3 +500,5 @@ Die SNCF ist nicht die einfachste Bahngesellschaft, was FIP betrifft, da in viel
 [^4]: [FIP Guide Community: TGV nach Luxemburg](https://discord.com/channels/1250522473188032512/1456387852836274240)
 
 [^5]: [FIP Guide Community: ICE Frankfurt–Bordeaux](https://discord.com/channels/1250522473188032512/1482738819982950462)
+
+[^6]: [SNCF Connect – Angebote für Kinder und Familien](https://www.sncf-connect.com/en-en/help/offer-children-and-families#ancre-11001)

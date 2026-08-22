@@ -87,11 +87,11 @@ FIP 50 Tickets can also be purchased directly on the train. To do this, you must
 
 {{< children-discount >}}
 
-| Age                                  | Discount                           |
-| ------------------------------------ | ---------------------------------- |
-| {{< icon "stroller" >}} 0–3 years    | Free[^1]                           |
-| {{< icon "child_care" >}} 4–25 years | 20% discount on the adult fare[^1] |
-| {{< icon "person" >}} from 26 years  | Regular price[^1]                  |
+| Age                                  | Discount                              |
+| ------------------------------------ | ------------------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free[^1]                              |
+| {{< icon "child_care" >}} 4–25 years | 20% discount on the regular price[^1] |
+| {{< icon "person" >}} from 26 years  | Regular price[^1]                     |
 
 ## Special Tariff Conditions
 

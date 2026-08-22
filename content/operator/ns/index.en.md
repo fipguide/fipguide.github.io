@@ -250,7 +250,7 @@ FIP 50 Tickets cannot be purchased on the train. [^1]
 | {{< icon "child_care" >}} 4–11 years | [Railrunner ticket](https://www.ns.nl/en/tickets/railrunner) for € 2.50 (valid for a whole day) |
 | {{< icon "person" >}} from 12 years  | Regular price                                                                                   |
 
-### Free "Kids Vrij" Season Ticket (without FIP)
+### Free "Kids Vrij" Season Ticket
 
 Alternatively, for children between 4 and 11 years of age (inclusive) travelling accompanied by an adult, the free seasonal ticket ["Kids Vrij"](https://www.ns.nl/en/season-tickets/kids-vrij.html) can be obtained. An OV chipkaart is required for this (one-time fee of € 7.50).
 

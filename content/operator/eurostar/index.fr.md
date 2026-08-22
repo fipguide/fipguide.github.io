@@ -196,16 +196,11 @@ Impossible d’acheter un billet à bord. Achat préalable obligatoire.
 
 {{< children-discount >}}
 
-| Âge                                     | Réduction                                                          |
-| --------------------------------------- | ------------------------------------------------------------------ |
-| {{< icon "child_care" >}} 0–4 ans       | Gratuit (sans place assise propre, sur les genoux d’un adulte)[^1] |
-| {{< icon "person" >}} à partir de 4 ans | Tarif normal[^1]                                                   |
-
-Un billet séparé peut être acheté pour les enfants de moins de 4 ans si une place séparée est souhaitée.[^1]
-
-### Pas De Réduction FIP Supplémentaire Pour Les Enfants
-
-Il n’y a pas d’autre réduction FIP pour les enfants, cependant les tarifs publics offrent une réduction de 30 à 50 %, ce qui rend une comparaison judicieuse.[^2]
+| Âge                                      | Réduction                                                          |
+| ---------------------------------------- | ------------------------------------------------------------------ |
+| {{< icon "stroller" >}} 0–4 ans          | Gratuit (sans place assise propre, sur les genoux d’un adulte)[^1] |
+| {{< icon "child_care" >}} 4–11 ans       | Réduction de 30 à 50 %[^2]                                         |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal[^2]                                                   |
 
 ### Accompagnement Des Mineurs
 
@@ -232,9 +227,9 @@ Les Billets FIP sont soumis à quota. Il est conseillé de réserver tôt.
 La vérification des contingents de billets disponibles est possible via les sites suivants :
 
 - [Site Interrail](https://www.interrail.eu/fr/book-reservations) \
-   Uniquement pour vérifier les contingents de réservation. Les réservations achetées ne sont valables qu’avec un billet Interrail !
+  Uniquement pour vérifier les contingents de réservation. Les réservations achetées ne sont valables qu’avec un billet Interrail !
 - [Traivelling](https://traivelling.com/home) \
-   Plus d'informations dans la [section de réservation correspondante](#traivelling-website).
+  Plus d'informations dans la [section de réservation correspondante](#traivelling-website).
 
 ### Correspondances
 

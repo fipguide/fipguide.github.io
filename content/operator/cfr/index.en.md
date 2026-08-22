@@ -177,10 +177,15 @@ FIP-discounted tickets cannot be purchased on the train. Reservations must also 
 
 {{< children-discount >}}
 
-| Age                                 | Discount           |
-| ----------------------------------- | ------------------ |
-| {{< icon "child_care" >}} 0–4 years | Free of charge[^2] |
-| {{< icon "person" >}} from 5 years  | Regular price[^2]  |
+| Age                                 | Discount                                                                     |
+| ----------------------------------- | ---------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–4 years   | Free of charge, if not occupying a separate seat, otherwise 50% discount[^2] |
+| {{< icon "child_care" >}} 5–9 years | 50% discount[^2]                                                             |
+| {{< icon "person" >}} from 10 years | Regular price[^2]                                                            |
+
+On trains with a reservation requirement, the full reservation fare must be paid regardless of the discount.[^2]
+
+On board berth and sleeping coaches, if 2 children share one bed, only a single bed supplement is paid. If a child does not require a separate bed, no bed supplement is due (one accompanied child per bed is allowed).[^2]
 
 ## Special Tariff Conditions
 

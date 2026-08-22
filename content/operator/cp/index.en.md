@@ -163,10 +163,13 @@ If no CP sales office is available at the origin station or it is not staffed mo
 
 {{< children-discount >}}
 
-| Age                                | Discount                  |
-| ---------------------------------- | ------------------------- |
-| {{< icon "stroller" >}} 0–3 years  | Free without own seat[^1] |
-| {{< icon "person" >}} from 4 years | Regular price[^1]         |
+| Age                                  | Discount                                               |
+| ------------------------------------ | ------------------------------------------------------ |
+| {{< icon "stroller" >}} 0–3 years    | Free, sharing a seat, when accompanied by an adult[^3] |
+| {{< icon "child_care" >}} 4–12 years | 50% discount, with own seat[^3]                        |
+| {{< icon "person" >}} from 13 years  | Regular price[^3]                                      |
+
+On the international Celta service, children are entitled to a 40% discount instead.[^3]
 
 ## Special Tariff Conditions
 
@@ -195,3 +198,5 @@ CP operates occasional trips with the "Presidential Train" — a luxurious histo
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782288-portugal.html)
 
 [^2]: [CP](https://www.cp.pt/passageiros/en/discounts-benefits/Benefits-and-special-offers/national-railway-museum)
+
+[^3]: [CP – Half-price children's tickets](https://www.cp.pt/info/en/w/children)

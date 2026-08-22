@@ -539,6 +539,24 @@ Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen 
 FIP-ermäßigte Fahrkarten werden nicht in Zügen ausgestellt, außer in bestimmten ländlichen
 Gebieten, in denen Fahrkarten allgemein nur in Zügen ausgestellt werden (_Pay-Trains_).
 
+## Ermäßigungen
+
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung          |
+| ------------------------------------ | ------------------- |
+| {{< icon "stroller" >}} 0–4 Jahre    | Kostenlos[^8]       |
+| {{< icon "child_care" >}} 5–15 Jahre | 50% Ermäßigung[^8]  |
+| {{< icon "person" >}} ab 16 Jahre    | Regulärer Preis[^8] |
+
+### 16-17 Saver
+
+Der _16-17 Saver_ gewährt 16- oder 17-Jährigen eine Ermäßigung von 50 % auf Standard Anytime-, Standard Off-Peak-, Standard Advance- und Season-Tickets und gilt für Fahrten zu jeder Tageszeit.[^10]
+
+### Family & Friends Railcard
+
+Mit der Family & Friends Railcard können bis zu 4 Erwachsene und 4 Kinder gemeinsam mit einer Karte reisen, ohne dass eine verwandtschaftliche Beziehung erforderlich ist. Erwachsene sparen dabei 1/3, Kinderfahrkarten kosten 60 % weniger. Die Railcard kostet 35 £ für 1 Jahr oder 80 £ für 3 Jahre.[^9]
+
 ## Tarifliche Besonderheiten
 
 ### Ticketschranken
@@ -731,3 +749,9 @@ Großbritannien kann auch mit Nachtzügen bereist werden:
 [^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
 
 [^7]: [Rail Delivery Group: Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469782907-lumo-west-coast-services-reciprocal-travel-agreement.html)
+
+[^8]: [National Rail – Reisen mit Kindern](https://www.nationalrail.co.uk/on-the-train/train-travel-with-children/)
+
+[^9]: [Family & Friends Railcard](https://www.familyandfriends-railcard.co.uk/)
+
+[^10]: [National Rail – 16-17 Saver](https://www.nationalrail.co.uk/tickets-railcards-and-offers/ticket-types/promotions/16-17-saver/)

@@ -158,23 +158,19 @@ Die Ermäßigungen unterscheiden sich je nach Land, in dem man mit GySEV unterwe
 
 ### Ungarn
 
-Bei öffentlichen Tarifen gilt:
-
-| Alter                                | Ermäßigung                                  |
-| ------------------------------------ | ------------------------------------------- |
-| {{< icon "child_care" >}} 0–5 Jahre  | Kostenlos                                   |
-| {{< icon "child_care" >}} 6–13 Jahre | 50% Ermäßigung auf den Erwachsenenfahrpreis |
-| {{< icon "person" >}} ab 14 Jahre    | Regulärer Preis                             |
+| Alter                                | Ermäßigung                             |
+| ------------------------------------ | -------------------------------------- |
+| {{< icon "stroller" >}} 0–5 Jahre    | Kostenlos[^3]                          |
+| {{< icon "child_care" >}} 6–13 Jahre | 50% Ermäßigung auf regulären Preis[^3] |
+| {{< icon "person" >}} ab 14 Jahre    | Regulärer Preis[^3]                    |
 
 ### Österreich
 
-Bei öffentlichen Tarifen gilt:
-
-| Alter                                | Ermäßigung                                  |
-| ------------------------------------ | ------------------------------------------- |
-| {{< icon "child_care" >}} 0–5 Jahre  | Kostenlos                                   |
-| {{< icon "child_care" >}} 6–14 Jahre | 50% Ermäßigung auf den Erwachsenenfahrpreis |
-| {{< icon "person" >}} ab 15 Jahre    | Regulärer Preis                             |
+| Alter                                | Ermäßigung                             |
+| ------------------------------------ | -------------------------------------- |
+| {{< icon "stroller" >}} 0–5 Jahre    | Kostenlos[^3]                          |
+| {{< icon "child_care" >}} 6–14 Jahre | 50% Ermäßigung auf regulären Preis[^3] |
+| {{< icon "person" >}} ab 15 Jahre    | Regulärer Preis[^3]                    |
 
 ## Tarifliche Besonderheiten
 
@@ -195,3 +191,5 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
 
 [^2]: [GySEV Support Neusiedel am See - Pamhagen](https://github.com/fipguide/fipguide.github.io/issues/278)
+
+[^3]: [GySEV – Internationale Reisen](https://www2.gysev.hu/en/travel-offers/international-travel)

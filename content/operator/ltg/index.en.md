@@ -73,16 +73,15 @@ The ticket machines now installed at many stations do not issue FIP tickets (as 
 
 {{< children-discount >}}
 
-| Age                                                                    | Discount                                    |
-| ---------------------------------------------------------------------- | ------------------------------------------- |
-| {{< icon "child_care" >}} 0–7 years (max. 2 children without own seat) | Free of charge (2nd class, on parent's lap) |
-| {{< icon "child_care" >}} 0–7 years (with own seat)                    | 50% discount on the adult fare              |
-| {{< icon "child_care" >}} 8–17 years (or up to 23 years as a student)  | 50% discount on the adult fare              |
-| {{< icon "person" >}} from 18 years                                    | Regular price                               |
+| Age                                  | Discount                                                                                                                       |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| {{< icon "child_care" >}} 0–7 years  | Free of charge, 2nd class, on parent's lap (max. 2 children without own seat); otherwise 50% discount on the regular price[^4] |
+| {{< icon "child_care" >}} 8–17 years | 50% discount on the regular price[^4]                                                                                          |
+| {{< icon "person" >}} from 18 years  | Regular price[^4]                                                                                                              |
 
 ### Further Discounts
 
-Persons aged 18 and over pay the full adult fare, but there are numerous other discounts. An overview is available on the [LTG-Link website](https://ltglink.lt/en/discount-for-children-and-pupils).
+Persons aged 18 and over pay the full regular price, but there are numerous other discounts. An overview is available on the [LTG-Link website](https://ltglink.lt/en/discount-for-children-and-pupils).
 
 ## Special Tariff Conditions
 
@@ -109,3 +108,5 @@ LTG-Link operates the only lounge in Vilnius. Access is free for 1st class passe
 [^2]: [LTG-Link Mail Feedback Mandatory Reservation](https://github.com/fipguide/fipguide.github.io/issues/553)
 
 [^3]: [Feedback: LTG Link Sea Side Express](https://github.com/fipguide/fipguide.github.io/issues/817)
+
+[^4]: [LTG-Link – Discount for Children and Pupils](https://ltglink.lt/en/discount-for-children-and-pupils)

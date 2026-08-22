@@ -331,7 +331,8 @@ When purchasing FIP-discounted tickets or when changing class from 2nd to 1st cl
 | Age                                  | Discount           |
 | ------------------------------------ | ------------------ |
 | {{< icon "child_care" >}} 0–13 years | Free of charge[^2] |
-| {{< icon "person" >}} from 14 years  | Regular price[^2]  |
+| {{< icon "child_hat" >}} 14–25 years | 50% discount[^2]   |
+| {{< icon "person" >}} from 26 years  | Regular price[^2]  |
 
 ### Accompaniment of Children on International Journeys
 

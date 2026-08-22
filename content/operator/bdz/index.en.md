@@ -125,8 +125,12 @@ FIP-discounted tickets can only be purchased on board if departing from a statio
 
 | Age                                 | Discount           |
 | ----------------------------------- | ------------------ |
-| {{< icon "child_care" >}} 0–6 years | Free of charge[^2] |
-| {{< icon "person" >}} from 7 years  | Regular price[^2]  |
+| {{< icon "child_care" >}} 0–6 years | Free of charge[^3] |
+| {{< icon "person" >}} from 7 years  | Regular price[^3]  |
+
+### Railway Passes
+
+BDŽ offers additional discounts for Children, Family, Students and other groups with [Railway Passes](https://www.bdz.bg/en/a/railway-passes).[^2]
 
 ## Special Tariff Conditions
 
@@ -149,3 +153,5 @@ BDŽ still offers a relatively wide range of services on an aging rail network. 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782242-bulgaria.html)
 
 [^2]: [BDŽ – Railway Passes](https://www.bdz.bg/en/a/railway-passes)
+
+[^3]: [BDŽ – Railway Passes and Discounts](https://www.bdz.bg/en/a/railway-passes-and-discounts)

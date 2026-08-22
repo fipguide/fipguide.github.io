@@ -168,6 +168,7 @@ Aktuell ist jedoch ein Shuttle Bus zwischen Novi Sad und Petrovaradin kostenlos 
 | ------------------------------------ | ---------------------------------------------------------------------------------------------- |
 | {{< icon "child_care" >}} 0–5 Jahre  | Kostenlos (ohne eigenen Sitzplatz, in Begleitung eines Erwachsenen mit gültiger Fahrkarte)[^7] |
 | {{< icon "child_care" >}} 6–14 Jahre | 50% Ermäßigung[^7]                                                                             |
+| {{< icon "person" >}} ab 15 Jahre    | Regulärer Preis[^7]                                                                            |
 
 ## Tarifliche Besonderheiten
 

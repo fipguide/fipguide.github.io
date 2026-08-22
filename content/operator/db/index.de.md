@@ -330,10 +330,11 @@ FIP 50 Fahrkarten können nicht im Zug erworben werden.
 
 {{< children-discount >}}
 
-| Alter                               | Ermäßigung      |
-| ----------------------------------- | --------------- |
-| {{< icon "child_care" >}} 0–5 Jahre | Kostenlos       |
-| {{< icon "person" >}} ab 6 Jahre    | Regulärer Preis |
+| Alter                                | Ermäßigung                             |
+| ------------------------------------ | -------------------------------------- |
+| {{< icon "child_care" >}} 0–5 Jahre  | Kostenlos                              |
+| {{< icon "child_care" >}} 6–14 Jahre | 50% Ermäßigung, wenn alleinreisend[^3] |
+| {{< icon "person" >}} ab 15 Jahre    | Regulärer Preis[^3]                    |
 
 ### Kostenlos mitreisende Kinder
 
@@ -455,3 +456,5 @@ Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedl
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782273-germany.html)
 
 [^2]: [DB Mobidig: Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)
+
+[^3]: [DB – Ihre Reise mit Kind und Bahn](https://www.bahn.de/service/individuelle-reise/kinder)

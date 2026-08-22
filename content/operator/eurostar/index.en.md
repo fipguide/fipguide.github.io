@@ -196,16 +196,11 @@ Tickets must be purchased before boarding the train. Ticket sales onboard are no
 
 {{< children-discount >}}
 
-| Age                                 | Discount                                                |
-| ----------------------------------- | ------------------------------------------------------- |
-| {{< icon "child_care" >}} 0–4 years | Free (without own seat, must sit on an adult's lap)[^1] |
-| {{< icon "person" >}} from 4 years  | Regular price[^1]                                       |
-
-A separate ticket can be purchased for children under 4 if a separate seat is desired.[^1]
-
-### No Further FIP Discounts for Children
-
-There are no further FIP discounts for children, however, public fares offer a 30 to 50% discount, making a comparison worthwhile.[^2]
+| Age                                  | Discount                                                |
+| ------------------------------------ | ------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–4 years    | Free (without own seat, must sit on an adult's lap)[^1] |
+| {{< icon "child_care" >}} 4–11 years | 30–50% discount[^2]                                     |
+| {{< icon "person" >}} from 12 years  | Regular price[^2]                                       |
 
 ### Accompaniment of Minors
 
@@ -232,9 +227,9 @@ All FIP fares are subject to quotas, so early booking is recommended.
 Checking available ticket quotas is possible via the following websites:
 
 - [Interrail Website](https://www.interrail.eu/en/book-reservations) \
-   Only for checking reservation quotas. Purchased reservations are only valid with an Interrail ticket!
+  Only for checking reservation quotas. Purchased reservations are only valid with an Interrail ticket!
 - [Traivelling](https://traivelling.com/home) \
-   More information in the [corresponding booking section](#traivelling-website).
+  More information in the [corresponding booking section](#traivelling-website).
 
 ### Connections
 

@@ -163,10 +163,13 @@ Wenn keine Verkaufsstelle der CP am Startbahnhof vorhanden ist oder mehr als 24 
 
 {{< children-discount >}}
 
-| Alter                             | Ermäßigung                           |
-| --------------------------------- | ------------------------------------ |
-| {{< icon "stroller" >}} 0–3 Jahre | Kostenlos ohne eigenen Sitzplatz[^1] |
-| {{< icon "person" >}} ab 4 Jahre  | Regulärer Preis[^1]                  |
+| Alter                                | Ermäßigung                                                              |
+| ------------------------------------ | ----------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos, mit geteiltem Sitzplatz, in Begleitung eines Erwachsenen[^3] |
+| {{< icon "child_care" >}} 4–12 Jahre | 50% Ermäßigung, mit eigenem Sitzplatz[^3]                               |
+| {{< icon "person" >}} ab 13 Jahre    | Regulärer Preis[^3]                                                     |
+
+Auf der internationalen Celta-Verbindung erhalten Kinder stattdessen 40% Ermäßigung.[^3]
 
 ## Tarifliche Besonderheiten
 
@@ -195,3 +198,5 @@ Die CP bietet regelmäßige Fahrten mit dem "Presidential Train" an. Dies ist ei
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782288-portugal.html)
 
 [^2]: [CP](https://www.cp.pt/passageiros/en/discounts-benefits/Benefits-and-special-offers/national-railway-museum)
+
+[^3]: [CP – Kinderfahrkarten zum halben Preis](https://www.cp.pt/info/en/w/children)

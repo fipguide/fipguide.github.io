@@ -331,7 +331,8 @@ Beim Kauf von FIP-ermäßigten Tickets oder beim Klassenwechsel von der zweiten 
 | Alter                                | Ermäßigung          |
 | ------------------------------------ | ------------------- |
 | {{< icon "child_care" >}} 0–13 Jahre | Kostenlos[^2]       |
-| {{< icon "person" >}} ab 14 Jahre    | Regulärer Preis[^2] |
+| {{< icon "child_hat" >}} 14–25 Jahre | 50% Ermäßigung[^2]  |
+| {{< icon "person" >}} ab 26 Jahre    | Regulärer Preis[^2] |
 
 ### Begleitung von Kindern auf internationalen Reisen
 

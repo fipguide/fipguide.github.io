@@ -113,10 +113,11 @@ On the day of travel, bookings can be made on site subject to availability. Purc
 
 {{< children-discount >}}
 
-| Age                                | Discount                                                                               |
-| ---------------------------------- | -------------------------------------------------------------------------------------- |
-| {{< icon "stroller" >}} 0–3 years  | €6.00 per crossing, if not occupying a bed, berth or reclining seat[^3]                |
-| {{< icon "person" >}} from 4 years | Regular price (also applies to 0–3 years occupying a bed, berth or reclining seat)[^3] |
+| Age                                  | Discount                                                                                                          |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | €6.00 per crossing, if not occupying a bed, berth or reclining seat; otherwise 50% discount on the adult fare[^3] |
+| {{< icon "child_care" >}} 4–12 years | 50% discount on the adult fare, on all routes[^3]                                                                 |
+| {{< icon "person" >}} from 13 years  | Regular price[^3]                                                                                                 |
 
 ## Special Tariff Conditions
 
