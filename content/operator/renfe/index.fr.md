@@ -247,7 +247,13 @@ Les billets pour les trains `AVE` internationaux peuvent être achetés à bord 
 
 ## Réductions
 
-Les enfants de moins de 4 ans voyagent gratuitement sans siège propre. Pour les enfants de moins de 12 ans, une réduction de 40 % s’applique. À partir de 12 ans, le plein tarif est facturé.
+{{< children-discount >}}
+
+| Âge                                      | Réduction                   |
+| ---------------------------------------- | --------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit (sans siège propre) |
+| {{< icon "child_care" >}} 4–11 ans       | 40 % de réduction           |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal                |
 
 ## Conditions tarifaires spéciales
 

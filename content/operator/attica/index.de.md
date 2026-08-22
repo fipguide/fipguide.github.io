@@ -111,9 +111,12 @@ Am Tag der Reise können vor Ort Buchungen vorgenommen werden, je nach Verfügba
 
 ## Ermäßigungen
 
-Kinder unter 4 Jahren, die kein Bett, keine Etagenliege oder keinen Sitzplatz belegen, zahlen 5,50 € pro Überfahrt.
-Auf Verbindungen von und nach Ancona und Venedig zahlen Kinder zwischen 4 und 16 Jahren 50 % des Erwachsenentarifs. Personen ab 16 Jahren zahlen den vollen Erwachsenentarif.
-Auf Verbindungen von und nach Bari zahlen Kinder zwischen 4 und 12 Jahren 50 % des gewählten Erwachsenentarifs. Personen ab 12 Jahren zahlen den vollen Erwachsenentarif.[^1]
+{{< children-discount >}}
+
+| Alter                             | Ermäßigung                                                                                                       |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre | €6,00 pro Überfahrt, sofern kein eigenes Bett, keine eigene Liege oder kein eigener Schlafsessel belegt wird[^3] |
+| {{< icon "person" >}} ab 4 Jahre  | Regulärer Preis (gilt auch für 0–3-Jährige mit eigenem Bett, eigener Liege oder eigenem Schlafsessel)[^3]        |
 
 ## Tarifliche Besonderheiten
 
@@ -126,3 +129,5 @@ Ein Sitzplatz-Upgrade für jede Kabine (außer LUX) ist mit einem Rabatt von 25 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782274-greece.html)
 
 [^2]: [Superfast Ferries](https://www.superfast.com/de-de/generic-information-pages/fip-mitglieder)
+
+[^3]: [Superfast Ferries – 50 % Ermäßigung für Kinder](https://www.superfast.com/de-de/angebote/50-ermaessigung-fur-kinder)

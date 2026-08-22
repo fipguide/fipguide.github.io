@@ -284,7 +284,13 @@ FIP-ermäßigte Fahrkarten können nur im Zug gekauft werden, wenn die Abfahrt v
 
 ## Ermäßigungen
 
-Für reguläre Fahrkarten reisen Kinder bis 6 Jahre in der 2. Klasse kostenlos. Kinder bis 18 Jahre erhalten 50% Ermäßigung auf den Erwachsenentarif. Personen ab 18 Jahren zahlen den vollen Erwachsenentarif.
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                                                                                                                                                           |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–5 Jahre  | Kostenlos in der 2. Klasse[^3]                                                                                                                                       |
+| {{< icon "child_care" >}} 6–17 Jahre | 50% Ermäßigung auf den regulären Erwachsenentarif in der 2. Klasse, der bei Zügen, die mit FIP aufpreispflichtig sind, gültig als der FIP 50 Tarif sein kann[^3][^4] |
+| {{< icon "person" >}} ab 18 Jahre    | Regulärer Preis[^3]                                                                                                                                                  |
 
 ## Tarifliche Besonderheiten
 
@@ -722,6 +728,10 @@ Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverl�
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782244-czechia.html)
 
+[^3]: [ČD – Inlandsfahrkarten](https://www.cd.cz/en/typy-jizdenek/vnitrostatni-jizdenky/-28762/)
+
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 
 [^3]: [Feedback: ČD reservations and commercial service](https://github.com/fipguide/fipguide.github.io/issues/467)
+
+[^4]: [ČD – National Tickets](https://www.cd.cz/en/typy-jizdenek/vnitrostatni-jizdenky/-28162/)

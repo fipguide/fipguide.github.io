@@ -161,7 +161,12 @@ Wenn keine Verkaufsstelle der CP am Startbahnhof vorhanden ist oder mehr als 24 
 
 ## Ermäßigungen
 
-Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter 12 Jahren gilt eine Ermäßigung von 50%. Ab 12 Jahren wird der volle Preis berechnet. [^1]
+{{< children-discount >}}
+
+| Alter                             | Ermäßigung                           |
+| --------------------------------- | ------------------------------------ |
+| {{< icon "stroller" >}} 0–3 Jahre | Kostenlos ohne eigenen Sitzplatz[^1] |
+| {{< icon "person" >}} ab 4 Jahre  | Regulärer Preis[^1]                  |
 
 ## Tarifliche Besonderheiten
 

@@ -155,7 +155,13 @@ Der Kauf an Bord der Schiffe ist nicht möglich.
 
 ## Ermäßigungen
 
-Kinder bis 4 Jahren reisen kostenlos, Kinder im Alter von 4 bis 14 Jahren sind berechtigt für ein Rabatt von 50% auf den Erwachsenen-Tarif, ab 14 Jahren zahlen sie den Erwachsenen-Tarif. [^2]
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                               |
+| ------------------------------------ | ---------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos[^5]                            |
+| {{< icon "child_care" >}} 4–15 Jahre | 50% Rabatt auf den Erwachsenen-Tarif[^2] |
+| {{< icon "person" >}} ab 16 Jahre    | Regulärer Preis[^2]                      |
 
 {{% highlight tip %}}
 Stena Line und bietet Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
@@ -193,3 +199,5 @@ Stena Line bietet eine tolle Möglichkeit, um vor 10 Uhr in London zu sein, wenn
 [^3]: [Website Stena Line](https://www.stenaline.de/routen/hoek-van-holland-harwich)
 
 [^4]: [E-Mail-Anfrage des FIP Guide Teams bei Stena Line](https://github.com/fipguide/fipguide.github.io/issues/528)
+
+[^5]: [Stena Line – Altersgruppen](https://www.stenaline.de/kundenservice/buchung/welche-altersgruppen-gibt-es-bei-stena-line)

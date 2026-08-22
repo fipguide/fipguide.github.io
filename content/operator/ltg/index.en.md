@@ -71,7 +71,18 @@ The ticket machines now installed at many stations do not issue FIP tickets (as 
 
 ## Discounts
 
-With regular tickets, up to 2 children up to and including 7 years old travel free of charge in 2nd class but must sit on their parents' lap. If children up to 7 years want their own seat, 50% of the adult fare must be paid. Children up to 18 years (or as students up to 23 years) receive a 50% discount on the adult fare. Persons aged 18 and over pay the full adult fare, but there are numerous other discounts. An overview is available on the [LTG-Link website](https://ltglink.lt/en/discount-for-children-and-pupils).
+{{< children-discount >}}
+
+| Age                                                                    | Discount                                    |
+| ---------------------------------------------------------------------- | ------------------------------------------- |
+| {{< icon "child_care" >}} 0–7 years (max. 2 children without own seat) | Free of charge (2nd class, on parent's lap) |
+| {{< icon "child_care" >}} 0–7 years (with own seat)                    | 50% discount on the adult fare              |
+| {{< icon "child_care" >}} 8–17 years (or up to 23 years as a student)  | 50% discount on the adult fare              |
+| {{< icon "person" >}} from 18 years                                    | Regular price                               |
+
+### Further Discounts
+
+Persons aged 18 and over pay the full adult fare, but there are numerous other discounts. An overview is available on the [LTG-Link website](https://ltglink.lt/en/discount-for-children-and-pupils).
 
 ## Special Tariff Conditions
 

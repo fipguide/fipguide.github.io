@@ -85,7 +85,13 @@ FIP 50 Tickets can also be purchased directly on the train. To do this, you must
 
 ## Discounts
 
-For regular tickets, children under 4 years travel free. Children under 26 years receive a 20% discount on the adult fare. Passengers aged 26 and over pay the full adult fare.[^1]
+{{< children-discount >}}
+
+| Age                                  | Discount                           |
+| ------------------------------------ | ---------------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free[^1]                           |
+| {{< icon "child_care" >}} 4–25 years | 20% discount on the adult fare[^1] |
+| {{< icon "person" >}} from 26 years  | Regular price[^1]                  |
 
 ## Special Tariff Conditions
 

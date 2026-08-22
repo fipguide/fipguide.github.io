@@ -175,7 +175,12 @@ Il n’est pas possible d’acheter des billets à tarif réduit FIP à bord du 
 
 ## Réductions
 
-Pour les billets réguliers, les enfants de moins de 5 ans voyagent gratuitement. Les enfants de moins de 10 ans bénéficient d’une réduction de 50 % sur le tarif adulte. Les enfants plus âgés paient le plein tarif adulte.[^1]
+{{< children-discount >}}
+
+| Âge                                     | Réduction        |
+| --------------------------------------- | ---------------- |
+| {{< icon "child_care" >}} 0–4 ans       | Gratuit[^2]      |
+| {{< icon "person" >}} à partir de 5 ans | Tarif normal[^2] |
 
 ## Conditions tarifaires spéciales
 
@@ -192,3 +197,5 @@ CFR Călători assure une offre de base solide sur le réseau ferroviaire roumai
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782289-romania.html)
+
+[^2]: [CFR Călători – Enfants](https://www.cfrcalatori.ro/en/journey-facilities-children/)

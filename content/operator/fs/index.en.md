@@ -327,7 +327,25 @@ If supplements are not purchased before travel, an additional on-board surcharge
 
 ## Discounts
 
-Children up to 4 years old travel free on public fares. On regional trains, children up to 12 years receive a 50% discount on the adult fare. From 12 years, the regular adult fare applies. On long-distance trains, children up to 15 years receive a 50% discount on the adult fare. From 15 years, the regular adult fare applies.
+{{< children-discount >}}
+
+For public fares, children up to and including 3 years of age travel free of charge, as long as they do not occupy their own seat and are accompanied by an adult. Older children receive discounts depending on the train category.[^3]
+
+**Regional trains:**
+
+| Age                                  | Discount                                  |
+| ------------------------------------ | ----------------------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free[^3]                                  |
+| {{< icon "child_care" >}} 4–11 years | 50% discount on the full ticket price[^3] |
+| {{< icon "person" >}} from 12 years  | Regular price                             |
+
+**Long-distance trains:**
+
+| Age                                  | Discount                                                                                 |
+| ------------------------------------ | ---------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free[^3]                                                                                 |
+| {{< icon "child_care" >}} 4–14 years | 50% or 30% discount on the Base price (30% for Sleeping Cars and Comfort Couchettes)[^3] |
+| {{< icon "person" >}} from 15 years  | Regular price                                                                            |
 
 ## Special Tariff Conditions
 
@@ -438,3 +456,5 @@ For long-distance travel, the FIP Coupon is only worthwhile to a limited extent,
 [^1]: [Frecciarossa Classes](https://www.trenitalia.com/de/frecce/frecciarossa-1000.html)
 
 [^2]: [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1473286775702290556)
+
+[^3]: [Trenitalia – Children's Discount](https://www.trenitalia.com/en/offers/children-s-discount.html)

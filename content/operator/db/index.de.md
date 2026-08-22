@@ -328,7 +328,12 @@ FIP 50 Fahrkarten können nicht im Zug erworben werden.
 
 ## Ermäßigungen
 
-Bei öffentlichen Fahrpreisen reisen Kinder bis 6 Jahre kostenlos, Kinder zwischen 6 und 14 Jahren erhalten eine Ermäßigung von 50 % auf den Erwachsenenpreis. Ab 14 Jahren gilt der reguläre Erwachsenenfahrpreis.
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung      |
+| ----------------------------------- | --------------- |
+| {{< icon "child_care" >}} 0–5 Jahre | Kostenlos       |
+| {{< icon "person" >}} ab 6 Jahre    | Regulärer Preis |
 
 ### Kostenlos mitreisende Kinder
 
@@ -345,7 +350,7 @@ Kostenlos mitreisende Kinder müssen im Gegensatz zu öffentlichen Tarifen expli
 
 Kinder, die nicht von einer über 15 Jahre alten Person mit Reiseberechtigung begleitet werden, müssen ein eigenes Ticket kaufen.
 
-Kinder unter 6 Jahren reisen immer kostenlos und benötigen kein eigenes Ticket.
+Kinder bis einschließlich 5 Jahre reisen immer kostenlos und benötigen kein eigenes Ticket.[^1]
 
 ## Tarifliche Besonderheiten
 

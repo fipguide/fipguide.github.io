@@ -165,8 +165,11 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 
 ## Discounts
 
-Children under 5 years travel for free. \
-Children under 16 years receive a 50% discount on the adult fare.[^1]
+{{< children-discount >}}
+
+| Age                                  | Discount                                                                   |
+| ------------------------------------ | -------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–11 years | Free for two children when accompanied by an adult with a valid ticket[^3] |
 
 ## Special Tariff Conditions
 
@@ -203,3 +206,5 @@ DSB offers reliable and comfortable service. The 1st class is particularly worth
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782261-denmark.html)
 
 [^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)
+
+[^3]: [DSB – Explore Denmark by Train](https://www.dsb.dk/en/explore-denmark-by-train/)

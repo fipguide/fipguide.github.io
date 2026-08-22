@@ -16,6 +16,13 @@ booking:
   send-mail: E-Mail senden
   visit-additional-information-website: Weitere Informationen
   visit-booking-website: Zur Buchungsseite
+childrenDiscount: >-
+  Grundsätzlich wird der FIP Rabatt auf die Erwachsenentarife und nicht auf
+  Kindertarife angewendet. Auf diesem Grund sollte geprüft werden, ob
+  öffentliche Tarife günstiger sind. Die Rabatte in der folgenden Tabelle
+  beziehen sich daher nur auf öffentliche Tarife und sind nicht zusätzlich auf
+  FIP anzuwenden. Mehr Informationen in den
+  [FAQs](/general/faq/#children-travel).
 contact:
   accessibility:
     label: 'Feedback zur Website: Barrierefreiheit'

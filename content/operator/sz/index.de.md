@@ -207,7 +207,12 @@ Im Zug kann ausschließlich mit Bargeld in Euro gezahlt werden.
 
 ## Ermäßigungen
 
-Kinder bis einschließlich 5 Jahren reisen kostenlos. Ab 6 Jahren gilt der reguläre FIP-Erwachsenentarif.[^1]
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung          |
+| ----------------------------------- | ------------------- |
+| {{< icon "child_care" >}} 0–5 Jahre | Kostenlos[^1]       |
+| {{< icon "person" >}} ab 6 Jahre    | Regulärer Preis[^1] |
 
 ## Tarifliche Besonderheiten
 

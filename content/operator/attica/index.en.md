@@ -111,9 +111,12 @@ On the day of travel, bookings can be made on site subject to availability. Purc
 
 ## Discounts
 
-Children under 4 years who do not occupy a bed, berth or seat pay €5.50 per crossing.
-On services to and from Ancona and Venice, children between 4 and 16 years pay 50% of the adult fare. Passengers aged 16 and over pay the full adult fare.
-On services to and from Bari, children between 4 and 12 years pay 50% of the adult fare. Passengers aged 12 and over pay the full adult fare.[^1]
+{{< children-discount >}}
+
+| Age                                | Discount                                                                               |
+| ---------------------------------- | -------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 years  | €6.00 per crossing, if not occupying a bed, berth or reclining seat[^3]                |
+| {{< icon "person" >}} from 4 years | Regular price (also applies to 0–3 years occupying a bed, berth or reclining seat)[^3] |
 
 ## Special Tariff Conditions
 
@@ -126,3 +129,5 @@ A seat upgrade to any cabin (except LUX) is possible with a 25% discount based o
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782274-greece.html)
 
 [^2]: [Superfast Ferries](https://www.superfast.com/de-de/generic-information-pages/fip-mitglieder)
+
+[^3]: [Superfast Ferries – 50% Children Offer](https://www.superfast.com/en-gb/special-offers/50-children-offer)

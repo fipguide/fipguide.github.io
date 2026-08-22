@@ -165,8 +165,11 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
 
 ## Réductions
 
-Les enfants de moins de 5 ans voyagent gratuitement. \
-Les enfants de moins de 16 ans bénéficient d’une réduction de 50 % sur le tarif adulte.[^1]
+{{< children-discount >}}
+
+| Âge                                | Réduction                                                                     |
+| ---------------------------------- | ----------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–11 ans | Gratuit pour deux enfants accompagnés par un adulte avec un billet valide[^3] |
 
 ## Conditions tarifaires spéciales
 
@@ -203,3 +206,5 @@ La DSB offre un service fiable et confortable. La 1ʳᵉ classe est particulièr
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782261-denmark.html)
 
 [^2]: [DSB 1’](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)
+
+[^3]: [DSB – Explore Denmark by Train](https://www.dsb.dk/en/explore-denmark-by-train/)

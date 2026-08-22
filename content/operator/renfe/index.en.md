@@ -247,7 +247,14 @@ Tickets for international `AVE` trains can be purchased on board when boarding i
 
 ## Discounts
 
-Children under 4 years travel free of charge without their own seat. For children under 12 years, a 40% discount applies. From 12 years onwards, the full fare is charged.
+{{< children-discount >}}
+
+| Age                                  | Discount                |
+| ------------------------------------ | ----------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free (without own seat) |
+| {{< icon "child_care" >}} 4–11 years | 40% discount            |
+| {{< icon "person" >}} from 12 years  | Regular price           |
+| {{< icon "person" >}} from 12 years  | Regular price           |
 
 ## Special Tariff Conditions
 

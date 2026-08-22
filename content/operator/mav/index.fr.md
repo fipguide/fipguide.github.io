@@ -326,7 +326,14 @@ Lors de l'achat de billets à tarif réduit FIP ou lors d'un changement de class
 
 ## Réductions
 
-Les enfants jusqu'à et y compris 13 ans voyagent gratuitement. À partir de 14 ans, le tarif adulte FIP régulier s'applique.[^2]
+{{< children-discount >}}
+
+| Âge                                      | Réduction        |
+| ---------------------------------------- | ---------------- |
+| {{< icon "child_care" >}} 0–13 ans       | Gratuit[^2]      |
+| {{< icon "person" >}} à partir de 14 ans | Tarif normal[^2] |
+
+### Accompagnement des enfants lors de voyages internationaux
 
 Pour les voyages internationaux, les enfants de moins de 10 ans ne peuvent pas voyager sans être accompagnés d'un adulte. Les enfants à partir de 10 ans doivent porter un [formulaire de consentement parental](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_FIP_MAV_Parental_Consent_form_v2.pdf) signé. MÁV ne assume pas la responsabilité des enfants non accompagnés. Les parents sont responsables de tous les dommages causés par l'enfant. Si un enfant est trouvé voyageant sans accompagnement et sans formulaire de consentement parental, les autorités seront notifiées.[^1]
 

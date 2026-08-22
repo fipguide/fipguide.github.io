@@ -111,9 +111,12 @@ Le jour du voyage, des réservations peuvent être effectuées sur place sous r�
 
 ## Réductions
 
-Les enfants de moins de 4 ans n’occupant pas de lit, de couchette ou de siège paient 5,50 € par traversée.
-Sur les liaisons vers et depuis Ancône et Venise, les enfants de 4 à 16 ans paient 50 % du tarif adulte. Les personnes de 16 ans et plus paient le plein tarif adulte.
-Sur les liaisons vers et depuis Bari, les enfants de 4 à 12 ans paient 50 % du tarif adulte. Les personnes de 12 ans et plus paient le plein tarif adulte.[^1]
+{{< children-discount >}}
+
+| Âge                                     | Réduction                                                                                             |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans         | 6,00 € par traversée, à condition de n’occuper ni lit, ni couchette, ni siège inclinable[^3]          |
+| {{< icon "person" >}} à partir de 4 ans | Tarif normal (s’applique aussi aux 0–3 ans occupant un lit, une couchette ou un siège inclinable)[^3] |
 
 ## Conditions tarifaires spéciales
 
@@ -126,3 +129,5 @@ Un surclassement de siège vers toute cabine (sauf LUX) est possible avec une r�
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782274-greece.html)
 
 [^2]: [Superfast Ferries](https://www.superfast.com/de-de/generic-information-pages/fip-mitglieder)
+
+[^3]: [Superfast Ferries – 50 % de réduction enfants](https://www.superfast.com/fr-fr/offres-speciales/50-de-reduction-enfants)

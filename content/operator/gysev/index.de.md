@@ -152,15 +152,29 @@ Tickets mit FIP Ermäßigung können nicht im Zug erworben werden. [^1]
 
 ## Ermäßigungen
 
+{{< children-discount >}}
+
 Die Ermäßigungen unterscheiden sich je nach Land, in dem man mit GySEV unterwegs ist.
 
 ### Ungarn
 
-Bei öffentlichen Tarifen fahren Kinder bis 6 Jahren kostenlos. Kinder bis 14 Jahre können 50% Ermäßigung auf den Erwachsenenfahrpreis erhalten. Personen ab 14 Jahre zahlen den Erwachsenenpreis.
+Bei öffentlichen Tarifen gilt:
+
+| Alter                                | Ermäßigung                                  |
+| ------------------------------------ | ------------------------------------------- |
+| {{< icon "child_care" >}} 0–5 Jahre  | Kostenlos                                   |
+| {{< icon "child_care" >}} 6–13 Jahre | 50% Ermäßigung auf den Erwachsenenfahrpreis |
+| {{< icon "person" >}} ab 14 Jahre    | Regulärer Preis                             |
 
 ### Österreich
 
-Bei öffentlichen Tarifen fahren Kinder bis 6 Jahren kostenlos. Kinder bis 15 Jahre können 50% Ermäßigung auf den Erwachsenenfahrpreis erhalten. Personen ab 15 Jahre zahlen den Erwachsenenpreis.
+Bei öffentlichen Tarifen gilt:
+
+| Alter                                | Ermäßigung                                  |
+| ------------------------------------ | ------------------------------------------- |
+| {{< icon "child_care" >}} 0–5 Jahre  | Kostenlos                                   |
+| {{< icon "child_care" >}} 6–14 Jahre | 50% Ermäßigung auf den Erwachsenenfahrpreis |
+| {{< icon "person" >}} ab 15 Jahre    | Regulärer Preis                             |
 
 ## Tarifliche Besonderheiten
 

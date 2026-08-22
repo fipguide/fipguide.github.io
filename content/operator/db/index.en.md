@@ -328,7 +328,12 @@ FIP 50 Tickets cannot be purchased on the train.
 
 ## Discounts
 
-For public fares, children up to 6 years travel free, children between 6 and 14 years receive a 50% discount on the adult fare. From 14 years, the regular adult fare applies.
+{{< children-discount >}}
+
+| Age                                 | Discount      |
+| ----------------------------------- | ------------- |
+| {{< icon "child_care" >}} 0–5 years | Free          |
+| {{< icon "person" >}} from 6 years  | Regular price |
 
 ### Children Traveling Free
 

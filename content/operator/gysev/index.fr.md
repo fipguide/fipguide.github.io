@@ -152,15 +152,29 @@ Les billets avec réduction FIP ne peuvent pas être achetés à bord du train. 
 
 ## Réductions
 
+{{< children-discount >}}
+
 Les réductions diffèrent selon le pays dans lequel vous voyagez avec GySEV.
 
 ### Hongrie
 
-Avec les tarifs publics, les enfants de moins de 6 ans voyagent gratuitement. Les enfants jusqu’à 14 ans peuvent obtenir une réduction de 50% sur le tarif adulte. Les personnes à partir de 14 ans paient le tarif adulte.
+Avec les tarifs publics :
+
+| Âge                                      | Réduction                            |
+| ---------------------------------------- | ------------------------------------ |
+| {{< icon "child_care" >}} 0–5 ans        | Gratuit                              |
+| {{< icon "child_care" >}} 6–13 ans       | Réduction de 50% sur le tarif adulte |
+| {{< icon "person" >}} à partir de 14 ans | Tarif normal                         |
 
 ### Autriche
 
-Avec les tarifs publics, les enfants de moins de 6 ans voyagent gratuitement. Les enfants jusqu’à 15 ans peuvent obtenir une réduction de 50% sur le tarif adulte. Les personnes à partir de 15 ans paient le tarif adulte.
+Avec les tarifs publics :
+
+| Âge                                      | Réduction                            |
+| ---------------------------------------- | ------------------------------------ |
+| {{< icon "child_care" >}} 0–5 ans        | Gratuit                              |
+| {{< icon "child_care" >}} 6–14 ans       | Réduction de 50% sur le tarif adulte |
+| {{< icon "person" >}} à partir de 15 ans | Tarif normal                         |
 
 ## Conditions tarifaires spéciales
 

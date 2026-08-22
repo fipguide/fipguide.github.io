@@ -207,7 +207,12 @@ Only cash in euros can be used on board.
 
 ## Discounts
 
-Children up to and including 5 years of age travel free of charge. From age 6, the regular FIP adult fare applies.[^1]
+{{< children-discount >}}
+
+| Age                                 | Discount           |
+| ----------------------------------- | ------------------ |
+| {{< icon "child_care" >}} 0–5 years | Free of charge[^1] |
+| {{< icon "person" >}} from 6 years  | Regular price[^1]  |
 
 ## Special Tariff Conditions
 

@@ -161,7 +161,12 @@ If no CP sales office is available at the origin station or it is not staffed mo
 
 ## Discounts
 
-Children under 4 years travel free without their own seat. Children under 12 years receive a 50% discount. From 12 years onward the full fare applies. [^1]
+{{< children-discount >}}
+
+| Age                                | Discount                  |
+| ---------------------------------- | ------------------------- |
+| {{< icon "stroller" >}} 0–3 years  | Free without own seat[^1] |
+| {{< icon "person" >}} from 4 years | Regular price[^1]         |
 
 ## Special Tariff Conditions
 

@@ -108,7 +108,17 @@ Des billets avec réduction FIP peuvent être achetés à bord du train. Un supp
 
 ## Réductions
 
-Pour les tarifs publics, les enfants jusqu’à 6 ans voyagent gratuitement. Les enfants jusqu’à 14 ans bénéficient d’une réduction de 50 % sur le tarif adulte. Les enfants à partir de 14 ans paient le tarif adulte.[^2]
+{{< children-discount >}}
+
+Pour les tarifs publics, les réductions suivantes s’appliquent aux enfants :
+
+| Âge                                      | Réduction      |
+| ---------------------------------------- | -------------- |
+| {{< icon "child_care" >}} 0–5 ans        | Gratuit        |
+| {{< icon "child_care" >}} 6–13 ans       | 50 % de remise |
+| {{< icon "person" >}} à partir de 14 ans | Tarif normal   |
+
+[^2]
 
 ## Conditions tarifaires spéciales
 

@@ -955,7 +955,20 @@ FIP tickets cannot be purchased on the train. A penalty fee will be charged for 
 
 ## Discounts
 
-Children travel free of charge on regular services (no special cruises) up to and including 5 years of age. Children up to and including 15 years receive a 50% discount on the adult fare. From the age of 16, the regular adult fare applies.
+{{< children-discount >}}
+
+| Age                                 | Discount      |
+| ----------------------------------- | ------------- |
+| {{< icon "child_care" >}} 0–5 years | Free          |
+| {{< icon "person" >}} from 6 years  | Regular price |
+
+### Junior Travelcard (without FIP)
+
+In addition, there is the option to purchase a _Junior Travelcard_ for CHF 30. This allows your own children up to and including 15 years of age to travel when accompanied by a parent. The accompanying parent must hold their own valid ticket for the journey (e.g. FIP Coupon or FIP 50 Ticket). The Junior Travelcard can be purchased on-site at public transport points of sale in Switzerland. See the SBB website: [Junior Travelcard](https://www.sbb.ch/en/offers/junior-travelcard).
+
+### Day Pass for Children (without FIP)
+
+Alternatively, the _Day Pass for Children_ offers children aged 6 to under 16 unlimited travel on public transport for one day for CHF 19 (2nd class) or CHF 33 (1st class). See the SBB website: [Day Pass for Children](https://www.sbb.ch/en/offers/day-pass-children).
 
 ## Special Tariff Conditions
 

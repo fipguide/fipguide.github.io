@@ -152,15 +152,29 @@ Tickets with FIP discount cannot be purchased on board. [^1]
 
 ## Discounts
 
+{{< children-discount >}}
+
 Discounts differ depending on the country in which you travel with GySEV.
 
 ### Hungary
 
-With public fares, children under 6 travel free of charge. Children up to 14 years can receive a 50% discount on the adult fare. Persons from 14 years pay the adult fare.
+With public fares:
+
+| Age                                  | Discount                       |
+| ------------------------------------ | ------------------------------ |
+| {{< icon "child_care" >}} 0–5 years  | Free of charge                 |
+| {{< icon "child_care" >}} 6–13 years | 50% discount on the adult fare |
+| {{< icon "person" >}} from 14 years  | Regular price                  |
 
 ### Austria
 
-With public fares, children under 6 travel free of charge. Children up to 15 years can receive a 50% discount on the adult fare. Persons from 15 years pay the adult fare.
+With public fares:
+
+| Age                                  | Discount                       |
+| ------------------------------------ | ------------------------------ |
+| {{< icon "child_care" >}} 0–5 years  | Free of charge                 |
+| {{< icon "child_care" >}} 6–14 years | 50% discount on the adult fare |
+| {{< icon "person" >}} from 15 years  | Regular price                  |
 
 ## Special Tariff Conditions
 

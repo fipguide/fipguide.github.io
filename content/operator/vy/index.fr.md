@@ -265,7 +265,17 @@ Les Réductions FIP ne peuvent pas être achetées à bord du train.
 
 ## Réductions
 
-Avec les tarifs publics, les enfants jusqu’à 6 ans voyagent gratuitement, les enfants jusqu’à 18 ans bénéficient d’une réduction sur le tarif adulte. À partir de 18 ans, le tarif adulte normal s’applique.[^2]
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                                           |
+| ---------------------------------------- | ------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–5 ans        | Gratuit[^2]                                                         |
+| {{< icon "child_care" >}} 6–17 ans       | Réduction de 75 % sur les billets Single et Flex Refundable[^2][^4] |
+| {{< icon "person" >}} à partir de 18 ans | Tarif normal[^2]                                                    |
+
+{{% highlight tip %}}
+La réduction de 75 % pour les enfants de 6 à 17 ans inclus sur les billets Single et Flex Refundable est plus avantageuse que le tarif FIP pour les enfants.
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 
@@ -323,3 +333,5 @@ La ligne d’Ofoten entre Narvik et Bjørnfjell est exclue des Réductions FIP.[
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782286-norway.html)
 
 [^3]: [Retour sur le FIP en Norvège : R71 Trondheim – Storlien](https://github.com/fipguide/fipguide.github.io/issues/858)
+
+[^4]: [Vy – Réductions](https://www.vy.no/en/buy-tickets/train-tickets/discount#item-ec7c80089f44)
