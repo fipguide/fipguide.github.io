@@ -1,7 +1,6 @@
 ---
-draft: false
-title: "Contribution"
-type: "general/generalinformation"
+title: Contribution
+type: general/generalinformation
 ---
 
 Le _FIP Guide_ est un projet open source et communautaire. Si vous souhaitez mettre à jour ou ajouter des informations, vous pouvez le faire de manière autonome. Afin de garantir l’exactitude des informations, toutes les modifications sont vérifiées par l’équipe du FIP Guide avant d’être publiées.
@@ -17,18 +16,25 @@ Veuillez tenir compte des points suivants lors de la modification :
 ### Connexion
 
 {{% float-image
-  src="login.webp"
-  alt="Connexion au CMS du FIP Guide"
-  width="30%"
-  position="left"
+    src="login.webp"
+    alt="Connexion au CMS du FIP Guide"
+    width="40%"
+    position="left"
 %}}
 Pour vous connecter au CMS du FIP Guide, vous avez besoin d’un compte [GitHub](https://github.com/) gratuit. GitHub appartient à Microsoft et est une plateforme de collaboration pour les projets open source. Vous pouvez facilement créer le compte GitHub sur le [site web de GitHub](https://github.com/).
 
-Il est possible de se connecter au CMS avec ce compte GitHub. Pendant la connexion, l’utilisation doit être confirmée avec « Authorize ».
+Il est possible de se connecter au CMS avec ce compte GitHub. Pendant la connexion, l’utilisation doit être confirmée avec « Authorize fipguide ».
 {{% /float-image %}}
 
 {{% highlight important %}}
-Lors de la première connexion, il vous sera demandé si un _Fork_ doit être créé. Cela crée automatiquement votre propre copie de la page. Cela est nécessaire pour que les modifications puissent être enregistrées dans le CMS. Veuillez confirmer cela avec « Create Fork ».
+{{% float-image
+    src="fork_repository.webp"
+    alt="Forker le dépôt dans le CMS du FIP Guide"
+    width="40%"
+    position="right"
+%}}
+Lors de la première connexion, il vous sera demandé si un _Fork_ doit être créé. Cela crée automatiquement votre propre copie de la page. Cela est nécessaire pour que les modifications puissent être enregistrées dans le CMS. Veuillez confirmer cela avec le bouton « Fork ».
+{{% /float-image %}}
 {{% /highlight %}}
 
 ### Ouvrir des pages
@@ -41,90 +47,49 @@ Il est également possible d’ouvrir la page à modifier via le FIP Guide, puis
 
 {{% columns %}}
 {{% column width="50%" %}}
-![Menu Modifier la page bureau](edit-button-desktop.webp)
+![Modifier la page depuis le menu sur ordinateur](edit-button-desktop.fr.webp)
 {{% /column %}}
+
 {{% column width="50%" %}}
-![Menu Modifier la page mobile](edit-button-mobile.webp)
+![Modifier la page depuis le menu mobile](edit-button-mobile.fr.webp)
 {{% /column %}}
 {{% /columns %}}
 
 ### Modifier la page
 
-{{% float-image
-  src="language.webp"
-  alt="Sélectionner la langue dans le CMS du FIP Guide"
-  width="40%"
-  position="right"
-%}}
-Dans la vue de modification, la page correspondante peut être mise à jour. Le FIP Guide est disponible en différentes langues. Celles-ci peuvent être sélectionnées via le menu déroulant correspondant.
-{{% /float-image %}}
+Dans la vue de modification, la page correspondante peut être mise à jour. Le FIP Guide est disponible en différentes langues. Par défaut, deux langues sont affichées côte à côte. Veuillez noter que la langue principale est l’anglais et que certaines informations ne peuvent être modifiées que sur la page anglaise, mais sont ensuite automatiquement reprises pour toutes les langues.
+
+![Sélectionner la langue dans le CMS du FIP Guide](language.webp)
 
 {{% highlight tip %}}
 Si vous le souhaitez, vous pouvez mettre à jour de manière autonome toutes les langues de la page. Cela n’est toutefois pas absolument nécessaire. Vous pouvez également mettre à jour des informations dans une seule langue. L’équipe du FIP Guide vérifiera les modifications et mettra ensuite les informations à jour dans toutes les langues.
 {{% /highlight %}}
 
-{{% float-image
-  src="language-view.webp"
-  alt="Changer la vue des langues dans le CMS du FIP Guide"
-  width="15%"
-  position="left"
-%}}
-L’icône de page située à droite permet de basculer l’affichage entre _multilingue_ et _monolingue_.
-{{% /float-image %}}
-
 ### Enregistrer et publier les modifications
 
 {{% float-image
-  src="save.webp"
-  alt="Enregistrer les modifications dans le CMS du FIP Guide"
-  width="50%"
-  position="right"
+    src="send_for_review.webp"
+    alt="Enregistrer les modifications dans le CMS du FIP Guide"
+    width="50%"
+    position="right"
 %}}
-Si vous souhaitez interrompre votre travail et l’enregistrer, vous pouvez le faire via le bouton _Save_. Les modifications sont alors enregistrées dans le CMS afin que vous puissiez les reprendre plus tard, mais elles ne sont pas encore publiées.
+Si vous souhaitez interrompre votre travail et l’enregistrer, vous pouvez le faire via le bouton _Save_ (en haut à droite). Les modifications sont alors enregistrées sur le serveur afin que vous puissiez les reprendre plus tard, mais elles ne sont pas encore publiées. Après avoir cliqué sur _Save_, il vous sera demandé si vos modifications sont déjà prêtes pour une review. Ce n’est qu’une fois le statut passé à _In Review_ que la modification devient visible pour l’équipe du FIP Guide.
+
+La page peut encore être modifiée même si elle est au statut Review. Vous pouvez également changer le statut à tout moment ultérieur, tant que la modification n’a pas encore été publiée définitivement, voir aussi [Reprendre le travail](#reprendre-le-travail--vue-densemble-des-modifications).
 {{% /float-image %}}
 
-{{% float-image
-  src="status-review.webp"
-  alt="Définir le statut sur review dans le CMS du FIP Guide"
-  width="40%"
-  position="left"
-%}}
-Si vous souhaitez publier vos modifications, vous pouvez définir le statut de la page sur _Review_. L’équipe du FIP Guide vérifiera les modifications et les publiera ensuite. Tant que les modifications n’ont pas été publiées, les pages peuvent être modifiées à tout moment.
-{{% /float-image %}}
-
-Chaque modification qui a été définie avec le statut _Review_ est visible sur GitHub : [Modifications GitHub du FIP Guide (pull requests)](https://github.com/fipguide/fipguide.github.io/pulls). Votre modification y est également visible et des commentaires peuvent être laissés sur la modification. L’équipe du FIP Guide vérifie les modifications et pose des questions si nécessaire via la fonction de commentaire.
+Chaque modification qui a été définie avec le statut _Review_ est visible sur GitHub : [Modifications GitHub du FIP Guide (pull requests)](https://github.com/fipguide/fipguide.github.io/pulls). Votre modification y est également visible et des commentaires peuvent être laissés sur la modification. L’équipe du FIP Guide vérifie les modifications et pose des questions si nécessaire via la fonction de commentaire. Vous serez également informé par e-mail de toutes les modifications.
 
 ### Reprendre le travail / Vue d’ensemble des modifications
 
-{{% float-image
-  src="workflow.webp"
-  alt="Workflow du CMS du FIP Guide"
-  width="60%"
-  position="right"
-%}}
+![Workflow du CMS du FIP Guide](workflow.webp)
+
 Si vous avez enregistré votre travail sur une page et souhaitez le reprendre, ou si vous souhaitez avoir une vue d’ensemble du statut de toutes vos modifications, vous pouvez le faire via l’entrée de menu _Workflow_.
 
 - **Draft:** Modifications sur lesquelles le travail se poursuit et qui ne sont pas encore prêtes pour la review.
 - **Review:** Modifications qui sont vérifiées par l’équipe du FIP Guide.
-- **Ready:** Modifications qui ont été vérifiées par l’équipe du FIP Guide et qui seront publiées prochainement.
-  {{% /float-image %}}
 
-### Preview
-
-{{% float-image
-  src="preview.webp"
-  alt="Preview du CMS du FIP Guide"
-  width="50%"
-  position="right"
-%}}
-Après l’enregistrement des modifications dans le CMS, une preview de la page peut être consultée, dans laquelle vos propres modifications sont déjà visibles.
-{{% /float-image %}}
-
-{{% highlight important %}}
-La génération de la preview peut prendre 5 à 10 minutes !
-{{% /highlight %}}
-
-Via _Check for Preview_, il est possible de vérifier si la preview a déjà été générée. La preview est régénérée à chaque modification, mais reste disponible si le travail sur les modifications est repris ultérieurement.
+Une fois que tous les commentaires ont pu être résolus, l’équipe du FIP Guide publiera les modifications de manière autonome. Après la publication, la modification disparaît de la vue Workflow.
 
 ## Contribution GitHub
 
