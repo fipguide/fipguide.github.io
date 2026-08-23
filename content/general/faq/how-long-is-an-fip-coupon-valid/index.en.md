@@ -1,5 +1,5 @@
 ---
-title: "How long is an FIP Coupon valid?"
+title: How long is an FIP Coupon valid?
 weight: 12
 ---
 

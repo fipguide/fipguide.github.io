@@ -1,16 +1,15 @@
 ---
 draft: false
-title: "Site Web DSB International"
-description: "Informations de réservation pour le site Web DSB International."
-
+title: Site Web DSB International
+description: Informations de réservation pour le site Web DSB International.
 params:
   classes:
-    first: "30 DKK"
-    second: "30 DKK"
+    first: 30 DKK
+    second: 30 DKK
   fip_50: false
   reservations: true
-  booking_link: "https://www.dsb.dk/en/international/"
-  type: "website"
+  booking_link: https://www.dsb.dk/en/international/
+  type: website
 ---
 
 {{% booking-section "reservations" %}}
@@ -32,5 +31,4 @@ Des réservations étrangères pour les pays suivants peuvent être effectuées 
 - Autriche
 - République tchèque
 {.o-section--columns-2}
-
 {{% /booking-section %}}

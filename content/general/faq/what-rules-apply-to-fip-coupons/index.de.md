@@ -1,5 +1,5 @@
 ---
-title: "Welche Regelungen gibt es bei FIP Freifahrtscheinen?"
+title: Welche Regelungen gibt es bei FIP Freifahrtscheinen?
 weight: 8
 ---
 

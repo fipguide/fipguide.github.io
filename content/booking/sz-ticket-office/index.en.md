@@ -1,15 +1,15 @@
 ---
 draft: false
-title: "SŽ Ticket Office"
-description: "Booking information for SŽ ticket offices."
+title: SŽ Ticket Office
+description: Booking information for SŽ ticket offices.
 params:
   classes:
-    first: "1.50 €"
-    second: "1.50 €"
+    first: 1.50 €
+    second: 1.50 €
   fip_50: true
   reservations: true
-  additional_info_link: "https://potniski.sz.si/en/tickets/purchase-tickets-sz-and-ijpp/ticket-sales-outlets/"
-  type: "onsite"
+  additional_info_link: https://potniski.sz.si/en/tickets/purchase-tickets-sz-and-ijpp/ticket-sales-outlets/
+  type: onsite
 ---
 
 SŽ ticket offices are now only found at larger stations.

@@ -1,15 +1,13 @@
 ---
 draft: false
-title: "Guichet SNCB"
-description: "Informations de réservation aux guichets de la SNCB."
-
+title: Guichet SNCB
+description: Informations de réservation aux guichets de la SNCB.
 params:
   fip_50: true
   fip_75: true
   reservations: true
-  additional_info_link: "https://www.belgiantrain.be/fr/station-information/nmbs-stations/ticket-offices"
-  type: "onsite"
-
+  additional_info_link: https://www.belgiantrain.be/fr/station-information/nmbs-stations/ticket-offices
+  type: onsite
 aliases:
   - sncb_ticket_office
 ---

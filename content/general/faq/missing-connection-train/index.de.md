@@ -1,5 +1,5 @@
 ---
-title: "Was passiert, wenn ich meinen Anschlusszug verpasse?"
+title: Was passiert, wenn ich meinen Anschlusszug verpasse?
 weight: 17
 ---
 

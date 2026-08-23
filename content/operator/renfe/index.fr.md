@@ -1,11 +1,10 @@
 ---
 draft: false
-title: "Renfe"
+title: Renfe
 country:
-  - "spain"
-  - "france"
-operator: "renfe"
-
+  - spain
+  - france
+operator: renfe
 aliases:
   - /booking/renfe-ticket-office
 ---
@@ -22,7 +21,9 @@ Renfe Operadora est la compagnie ferroviaire publique en [Espagne](/country/spai
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" text="Sauf trains à réservation obligatoire" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" text="Sauf trains à réservation obligatoire" >}}
+
 {{< fip-validity type="fip-global-fare" status="valid" text="Pour les trains à réservation obligatoire (sauf Avlo)" disable_dialog=true >}}
 
 ## Catégories de trains et réservations
@@ -227,7 +228,7 @@ Non disponible – il faut se rendre au guichet Renfe.
 
 {{% booking id="db-ticket-office"
     fip_global_fare=true
-    reservations="nil"
+    reservations=nil
 %}}
 
 #### Tarif Global FIP

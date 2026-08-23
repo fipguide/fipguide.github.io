@@ -1,16 +1,15 @@
 ---
 draft: false
-title: "Guichet BLS"
-description: "Informations de réservation pour les centres de voyage BLS."
-
+title: Guichet BLS
+description: Informations de réservation pour les centres de voyage BLS.
 params:
   classes:
-    first: "5 CHF"
-    second: "5 CHF"
+    first: 5 CHF
+    second: 5 CHF
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.bls.ch/fr/dienstleistungen/an-den-haltestellen/reisezentren"
-  type: "onsite"
+  additional_info_link: https://www.bls.ch/fr/dienstleistungen/an-den-haltestellen/reisezentren
+  type: onsite
 ---
 
 Les guichets BLS sont appelés _Centres de voyage BLS_.
@@ -20,7 +19,6 @@ Les guichets BLS sont appelés _Centres de voyage BLS_.
 ## Billets FIP 50
 
 Dans les centres de voyage BLS, des billets FIP 50 peuvent être achetés pour des voyages en Suisse.
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -28,5 +26,4 @@ Dans les centres de voyage BLS, des billets FIP 50 peuvent être achetés pour d
 ## Réservations
 
 Des réservations peuvent être effectuées pour des trains en Suisse.
-
 {{% /booking-section %}}

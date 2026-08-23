@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "KD"
+title: KD
 country:
-  - "pologne"
-operator: "kd"
-
+  - pologne
+operator: kd
 aliases:
   - /booking/kd-ticket-machine
   - /booking/kd-ticket-office
@@ -24,6 +23,7 @@ Sur son site Web, KD propose une [carte d’ensemble des lignes](https://kolejed
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont acceptés chez KD.
@@ -39,8 +39,12 @@ KD ne distingue pas de catégories de trains différentes. Les trains ont en gé
     title="Bus"
     type="bus"
     fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Le FIP est accepté sur toutes les lignes de bus KD. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -54,36 +58,38 @@ Les Billets FIP 50 sont disponibles pour les trajets nationaux et internationaux
 {{% /booking %}}
 
 {{% booking id="koleo-website"
-    reservations=nil
     subtitle="Pour trajets nationaux"
+    reservations=nil
 %}}
 Les Billets FIP 50 peuvent être vendus uniquement pour les trajets nationaux.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-    reservations=nil
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, valables uniquement pour la partie polonaise du trajet. Réservé au personnel de la Deutsche Bahn."
+    reservations=nil
 /%}}
 
 {{% booking id="db-website-fip-international"
-    reservations=nil
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne pour toute la trajectoire (non valables dans le pays d’émission de la Carte FIP)"
+    reservations=nil
 /%}}
 
 ### Par téléphone
 
 {{% booking id="db-phone-fip-db"
-    reservations=nil
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, valables uniquement pour la partie polonaise du trajet. Réservé au personnel de la Deutsche Bahn."
+    reservations=nil
 /%}}
 
 ### En gare
 
-{{% booking id="kd-ticket-office"/%}}
+{{% booking id="kd-ticket-office" /%}}
 
-{{% booking id="kd-ticket-machine"/%}}
+{{% booking id="kd-ticket-machine" /%}}
 
-{{% booking id="db-ticket-office" reservations=nil /%}}
+{{% booking id="db-ticket-office"
+    reservations=nil
+/%}}
 
 ### À bord du train
 

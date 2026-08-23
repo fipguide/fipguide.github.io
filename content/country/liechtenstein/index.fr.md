@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Liechtenstein"
-country: "liechtenstein"
+title: Liechtenstein
+country: liechtenstein
 ---
 
 ## Informations FIP

@@ -1,16 +1,15 @@
 ---
 draft: false
-title: "Hellenic Train Ticketschalter"
-description: "Buchungsinformationen für die Hellenic Train Ticketschalter."
-
+title: Hellenic Train Ticketschalter
+description: Buchungsinformationen für die Hellenic Train Ticketschalter.
 params:
   classes:
-    first: "kostenlos"
-    second: "kostenlos"
+    first: kostenlos
+    second: kostenlos
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.hellenictrain.gr/en/sale-points"
-  type: "onsite"
+  additional_info_link: https://www.hellenictrain.gr/en/sale-points
+  type: onsite
 ---
 
 {{% booking-section "fip_50" %}}
@@ -18,7 +17,6 @@ params:
 ## FIP 50 Fahrkarten
 
 FIP 50 Tickets können vor Ort gebucht werden.
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -26,5 +24,4 @@ FIP 50 Tickets können vor Ort gebucht werden.
 ## Reservierungen
 
 Kostenfreie Reservierungen für SEV-Busse und IC-Züge sind vor Ort erhältlich. Wichtig ist, dass der Tarif "FIP Ticket" ausgewählt wird, nicht "FIP Card".
-
 {{% /booking-section %}}

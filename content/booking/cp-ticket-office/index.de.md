@@ -1,16 +1,16 @@
 ---
 draft: false
-title: "CP Ticketschalter"
-description: "Buchungsinformationen für die CP Ticketschalter."
+title: CP Ticketschalter
+description: Buchungsinformationen für die CP Ticketschalter.
 params:
   classes:
-    first: "5,00 €"
-    second: "5,00 €"
+    first: 5,00 €
+    second: 5,00 €
   fip_50: true
   fip_global_fare: true
   reservations: true
-  additional_info_link: "https://www.cp.pt/info/en/w/ticket-offices"
-  type: "onsite"
+  additional_info_link: https://www.cp.pt/info/en/w/ticket-offices
+  type: onsite
 ---
 
 {{% booking-section "fip_50" %}}

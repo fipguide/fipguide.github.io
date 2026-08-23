@@ -1,14 +1,12 @@
 ---
 draft: false
-title: "Renfe Ticket Office"
-description: "Booking information for the Renfe ticket offices."
-
+title: Renfe Ticket Office
+description: Booking information for the Renfe ticket offices.
 params:
   fip_50: true
   fip_global_fare: true
-  additional_info_link: "https://www.renfe.com/es/en/viajar/informacion-util/-donde-comprar-"
-  type: "onsite"
-
+  additional_info_link: https://www.renfe.com/es/en/viajar/informacion-util/-donde-comprar-
+  type: onsite
 aliases:
   - renfe_ticket_office
 ---
@@ -28,6 +26,6 @@ An additional fee of €0.55 applies.
 At Renfe ticket offices, all non-reservation tickets (FIP 50) can be booked.
 {{% /booking-section %}}
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Experience has shown that the ticket counters at large stations are often very crowded. There are different counters for regional and long-distance trains. In addition, customers who need a ticket for the current day are served firstly. This leads to longer waiting times for other customers. If possible, you should buy tickets outside of Spain. If you are reliant on the ticket counter in Spain, it is best to go to the station in the morning if you need a ticket for another day. At lunchtime, there can be very long waiting times, even on weekdays.
-{{% /highlight %}}
+{{< /highlight >}}

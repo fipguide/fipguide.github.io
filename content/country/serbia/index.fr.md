@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Serbie"
-country: "serbia"
+title: Serbie
+country: serbia
 params:
   operators_without_fip:
     - Optima Express
@@ -13,8 +13,7 @@ En Serbie, les trains de la compagnie nationale [Srbija Voz](/operator/sv "SV") 
 
 Le Kosovo est certes revendiqué par la Serbie comme faisant partie du pays, mais seuls les trains de l’opérateur Trainkos y circulent, pour lesquels le FIP n’a aucune validité. Le Kosovo n’est donc pas parcourable avec des réductions FIP.
 
-{{< identify-operator sources="sv-website,db-website,vagonweb" >}}
-{{< /identify-operator >}}
+{{< identify-operator sources="sv-website,db-website,vagonweb" />}}
 
 ## Informations générales
 

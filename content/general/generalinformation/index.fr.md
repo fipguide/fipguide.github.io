@@ -1,9 +1,12 @@
 ---
-title: "Informations générales"
-description: "Informations générales sur le FIP, la Carte FIP (Carte Internationale de Réduction pour le Personnel Ferroviaire) ainsi que l’utilisation des avantages de voyage internationaux tels que les Billets FIP 50 et les Coupons FIP (permis FIP)."
+title: Informations générales
+description: Informations générales sur le FIP, la Carte FIP (Carte
+  Internationale de Réduction pour le Personnel Ferroviaire) ainsi que
+  l’utilisation des avantages de voyage internationaux tels que les Billets FIP
+  50 et les Coupons FIP (permis FIP).
 toc: true
 aliases:
-  - "/generalinformation/"
+  - /generalinformation/
 ---
 
 ## Généralités
@@ -49,7 +52,7 @@ Les réductions FIP se présentent sous diverses formes; une Carte FIP est toujo
 Les Coupons FIP (communément appelés « permis FIP ») donnent droit à des voyages sur les trains de l’opérateur indiqué sur le coupon. Un _Coupon FIP_ se compose de plusieurs _cases_. Chaque case est valable pendant deux jours consécutifs. La date du premier jour de validité doit être inscrite sur le coupon ; il est alors valable pour ce jour et le lendemain. Les différents cases n’ont pas besoin d’être utilisés à la suite : les dates choisies doivent simplement se situer dans la période de validité imprimée sur le coupon. Certaines entreprises ferroviaires ont des règles différentes pour les Coupons FIP de leurs propres employés.
 
 {{% highlight tip %}}
-Dans la pratique, la règle des 2 jours n’est pas toujours connue. Dans le train, il peut être utile d’avoir [ce tableau explicatif traduit](/en/generalinformation/2-day-rule.pdf) imprimé.
+Dans la pratique, la règle des 2 jours n’est pas toujours connue. Dans le train, il peut être utile d’avoir [ce tableau explicatif traduit](/en//general/generalinformation/2-day-rule.pdf) imprimé.
 {{% /highlight %}}
 
 Il est possible de demander un Coupon FIP par opérateur et par année civile. Certaines compagnies ferroviaires peuvent appliquer des règles différentes pour leurs propres employés. Cela signifie qu’il est possible de commander chaque année un Coupon FIP (avec une à quatre cases) auprès de chaque opérateur souhaité. L’année civile prise en compte est celle du début de validité du coupon. La demande de coupon international se fait généralement via le service du personnel ou le centre de voyage de votre entreprise ferroviaire. Certaines entreprises proposent également des portails en ligne.
@@ -65,11 +68,13 @@ Officiellement, la _Carte FIP_ n’a pas besoin d’être présentée lors de l�
 {{% /highlight %}}
 
 {{% expander "Exemple d’utilisation d’un Coupon FIP" info %}}
+
 Supposons que je sois employé d’une entreprise ferroviaire européenne (par exemple, Deutsche Bahn) et que je veuille voyager pendant un total de huit jours sur différents trains en Autriche. Pour ce faire, je dois commander un Coupon FIP pour les Chemins de fer fédéraux autrichiens (ÖBB) avec quatre cases (4 cases = jusqu’à 8 jours de voyage gratuit avec cet opérateur).
 
 Le Coupon FIP est valable trois mois ; je ne peux voyager que pendant cette période (exemple de validité : 10.02.2026 - 09.05.2026). Je rentre dans le pays le 01.03.2026 et, avant mon premier voyage en train en Autriche, je remplis 01.03.2026 dans la premier case. Maintenant je peux utiliser les trains ÖBB le 01.03 et le 02.03.2026 (les exceptions et règles spéciales sont trouvées sur la [page de l’opérateur](/operator "page de l’opérateur") respectif).
 
 Le 03.03.2026, je ne voyage pas en train, mais je le fais le 04.03. Je remplis donc 04.03.2026 dans la deuxième case, me permettant également de voyager le 05.03. Cela continue jusqu’à ce que j’aie utilisé les quatre cases. J’utilise la dernier case, par exemple, le 10.03.2026 et je retourne en dehors de l’Autriche le 11.03.2026.
+
 {{% /expander %}}
 
 {{% highlight tip %}}
@@ -95,9 +100,11 @@ Comme les Billets FIP 50 ne remisent que les billets flexibles, ils peuvent êtr
 {{% /highlight %}}
 
 {{% expander "Exemple d’utilisation d’un Billet FIP 50" info %}}
+
 Je suis éligible au FIP auprès de Deutsche Bahn et je veux voyager de Francfort-sur-le-Main à Amsterdam le 01.03.2026. J’achète un Billet FIP 50 de Francfort Hbf à Amsterdam Centraal au centre de voyage DB (dans ce cas, il serait aussi possible en ligne via une page DB spéciale). Si le billet n’est pas lié à une réservation, il est flexible et valable sur n’importe quelle liaison du même opérateur et de la même catégorie de train (par exemple, ICE) ce jour-là. Cependant, ce billet n’est valable que pour la section néerlandaise, car le billet n’est pas valable dans le pays de votre propre opérateur. J’ai donc besoin d’un autre billet pour la section allemande, par exemple une réduction pour le personnel DB.
 
 La situation est différente si, par exemple, je réserve un billet de Vienne à Budapest ; dans ce cas, j’obtiens un Billet FIP 50 valable sur l’ensemble de l’itinéraire.
+
 {{% /expander %}}
 
 ### Tarifs Global FIP
@@ -132,19 +139,23 @@ Tandis qu’un Coupon FIP est toujours émis pour exactement une entreprise ferr
 Quels gares frontières et points tarifaires frontière existent entre deux pays ou entreprises ferroviaires sont listés dans le Guide FIP sur la page du pays respectif.
 
 {{% expander "Exemple de gestion des gares frontières" info %}}
+
 Je suis éligible au FIP auprès de Deutsche Bahn et je veux voyager de Francfort-sur-le-Main à Vienne le 01.03.2026. J’ai deux options : soit commander un Coupon FIP pour ÖBB, soit réserver un Billet FIP 50 de Francfort Hbf à Vienne Hbf. Les deux ne sont valables que pour la section autrichienne car je ne peux pas utiliser le FIP en Allemagne. Le voyage se déroule généralement via Passau Hbf, qui est la gare frontière entre l’Allemagne et l’Autriche.
 
 J’ai donc besoin d’un billet supplémentaire pour le voyage entre Francfort Hbf et Passau Hbf, tel qu’un billet acheté régulièrement ou une réduction pour le personnel DB en Allemagne. À partir de Passau Hbf, le coupon ÖBB et le Billet FIP 50 sont valables.
 
 ![Exemple graphique gare frontière](borderstation.fr.svg)
+
 {{% /expander %}}
 
 {{% expander "Exemple de gestion des points frontières" info %}}
+
 Je suis éligible au FIP auprès de Deutsche Bahn et je veux voyager de Francfort-sur-le-Main à Copenhague le 01.03.2026. J’ai deux options : soit commander un Coupon FIP pour DSB, soit réserver un Billet FIP 50 de Francfort Hbf à Kobenhavn H. Les deux ne sont valables que pour la section danoise car je ne peux pas utiliser le FIP en Allemagne. Le voyage se déroule généralement via le point frontière Padborg (Gr), qui n’est qu’un point frontière virtuel entre Flensbourg et Padborg, pas une vraie gare ferroviaire.
 
 J’ai donc besoin d’un billet supplémentaire pour le voyage entre Francfort Hbf et ce point frontière, tel qu’un billet acheté régulièrement jusqu’à la première gare danoise Padborg ou une réduction pour le personnel DB en Allemagne qui est valable jusqu’à la frontière. Un billet, par exemple, jusqu’à la dernière gare allemande (Schleswig) où le train s’arrête, ou jusqu’à Flensbourg ne suffit pas. À partir du point frontière, le coupon DSB et le Billet FIP 50 sont valables.
 
 ![Exemple graphique point frontière](borderpoint.fr.svg)
+
 {{% /expander %}}
 
 ## Imposition

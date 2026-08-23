@@ -1,5 +1,5 @@
 ---
-title: "How long is a field of a FIP coupon valid?"
+title: How long is a field of a FIP coupon valid?
 weight: 13
 ---
 

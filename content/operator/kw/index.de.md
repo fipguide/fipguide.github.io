@@ -1,10 +1,9 @@
 ---
 draft: false
-title: "KW"
+title: KW
 country:
-  - "poland"
-operator: "kw"
-
+  - poland
+operator: kw
 aliases:
   - /booking/kw-ticket-machine
   - /booking/kw-ticket-office
@@ -24,6 +23,7 @@ Auf der Website der KW können alle [derzeit im Linienverkehr befahrenen Strecke
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der KW gültig.
@@ -40,40 +40,40 @@ FIP-Fahrkarten sind in Bussen der KW grundsätzlich nicht gültig. In Bussen des
 
 ### Online
 
-{{% booking id="kw-website"
-%}}
+{{% booking id="kw-website" %}}
 FIP 50 Tickets sind für nationale Verbindungen und internationale Verbindungen verfügbar. Bei internationalen Verbindungen wird der FIP 50 Rabatt nur innerhalb Polens berücksichtigt. Außerhalb Polens wird der reguläre Preis berechnet.
 {{% /booking %}}
 
 {{% booking id="koleo-website"
     reservations=nil
-%}}
-{{% /booking %}}
+/%}}
 
 {{% booking id="db-website-fip-db"
-    reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+    reservations=nil
 /%}}
 
 {{% booking id="db-website-fip-international"
-    reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+    reservations=nil
 /%}}
 
 ### Telefon
 
 {{% booking id="db-phone-fip-db"
-    reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+    reservations=nil
 /%}}
 
 ### Vor Ort
 
-{{% booking id="kw-ticket-machine"/%}}
+{{% booking id="kw-ticket-machine" /%}}
 
-{{% booking id="kw-ticket-office"/%}}
+{{% booking id="kw-ticket-office" /%}}
 
-{{% booking id="db-ticket-office" reservations=nil /%}}
+{{% booking id="db-ticket-office"
+    reservations=nil
+/%}}
 
 ### Im Zug
 
