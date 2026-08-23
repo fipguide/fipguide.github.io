@@ -980,6 +980,12 @@ Die Pilatusbahn ist kein Mitglied von FIP, bietet jedoch aktuell trotzdem bei Vo
 
 Dieses Sonderangebot kann jederzeit von der Pilatusbahn widerrufen werden.
 
+### Brienz-Rothorn-Bahn
+
+Die Brienz-Rothorn-Bahn ist kein Mitglied von FIP, bietet jedoch aktuell trotzdem bei Vorlage des FIP-Ausweises 50% Rabatt auf Tickets beim Kauf an einem Schalter der Brienz-Rothorn-Bahn. [^3]
+
+Dieses Sonderangebot kann jederzeit von der Brienz-Rothorn-Bahn widerrufen werden.
+
 ## Empfehlungen
 
 {{% highlight tip %}}
@@ -993,3 +999,5 @@ Bei Fahrt mit einem Freifahrtschein ist es empfehlenswert, falls möglich auch d
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [Feedback RBS](https://discord.com/channels/1250522473188032512/1477450999454236892)
+
+[^3]: [Brienz-Rothorn-Bahn](https://brienz-rothorn-bahn.ch/fragen-und-antworten)

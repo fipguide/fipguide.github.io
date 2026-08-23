@@ -113,13 +113,6 @@ The FIP Card should be ready for inspection when boarding.
 
 Checking in, rebooking, canceling, and upgrading tickets is possible via the Eurostar website, more information under [Rebookings & Cancellations](#rebookings--cancellations). If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
 
-{{% booking id="traivelling-website"
-    fip_50=nil
-    fip_75=nil
-    fip_global_fare=true
-    reservations=nil
-/%}}
-
 {{% booking id="railtourguide-website"
     fip_50=nil
     fip_75=nil
@@ -217,12 +210,7 @@ Rebooking, canceling, and upgrading tickets is possible using the booking refere
 All FIP fares are subject to quotas, so early booking is recommended.
 {{% /highlight %}}
 
-Checking available ticket quotas is possible via the following websites:
-
-- [Interrail Website](https://www.interrail.eu/en/book-reservations) \
-   Only for checking reservation quotas. Purchased reservations are only valid with an Interrail ticket!
-- [Traivelling](https://traivelling.com/home) \
-   More information in the [corresponding booking section](#traivelling-website).
+The availability of ticket quotas can be checked via the [Interrail Website](https://www.interrail.eu/en/book-reservations). It can only be used to check reservation quotas. Purchased reservations are only valid with an Interrail ticket.
 
 ### Connections
 
