@@ -47,6 +47,8 @@ Die First Class zwischen Dublin und Cork darf nicht mit FIP genutzt werden. Mehr
 
 Reservierungen sind optional, werden aber für viele Verbindungen kostenfrei ausgegeben und sind daher in der 2. Klasse empfehlenswert.
 
+Fahrgäste der 1. Klasse (First Class / Premiere Class) werden im Zug zu einem freien Sitzplatz begleitet. Die Nutzung der 1. Klasse ist nur mit einem Sitzplatz möglich.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -111,7 +113,7 @@ FIP ist auf Busverbindungen von Dublin Bus nicht gültig.
   - Dublin – Cork Premier Class Verbindungen: 10:00 Uhr (Montag – Samstag), 12:00 Uhr (Montag – Freitag) und 14:00 Uhr (Montag – Freitag)
   - Cork – Dublin Premier Class Verbindungen: 13:25 Uhr (Montag – Samstag), 14:25 Uhr (nur Sonntag), 15:25 Uhr (Montag – Freitag) und 17:25 Uhr (Montag – Donnerstag und Samstag)
 
-  Eine aktuelle Liste kann [hier](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel) abgerufen werden.
+  Eine aktuelle Liste und weitere Informationen zu den Klassen kann [hier](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel) abgerufen werden.
 
 - **Enterprise Plus**: Erste Klasse auf der Verbindung Dublin – Belfast. Kann mit FIP Fahrscheinen der 1. Klasse genutzt werden, mit Zuschlag auch mit FIP Fahrscheinen der 2. Klasse.
 

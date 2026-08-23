@@ -108,16 +108,11 @@ When booking, payment can sometimes be made in pounds or euros. Generally, euro 
 
 Tickets are issued exclusively as online tickets, so an email address is required for booking.
 
+The FIP Card should be ready for inspection when boarding.
+
 ### Online
 
 Checking in, rebooking, canceling, and upgrading tickets is possible via the Eurostar website, more information under [Rebookings & Cancellations](#rebookings--cancellations). If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
-
-{{% booking id="traivelling-website"
-    fip_50=nil
-    fip_75=nil
-    fip_global_fare=true
-    reservations=nil
-/%}}
 
 {{% booking id="railtourguide-website"
     fip_50=nil
@@ -202,7 +197,7 @@ Children under 12 must be accompanied by an adult. Children aged 12–15 can tra
 
 ### Rebookings & Cancellations
 
-FIP Tickets can be rebooked or canceled free of charge up to one hour before departure. After that, rebooking or cancellation is no longer possible.
+FIP Tickets can be rebooked or canceled free of charge up to the scheduled departure time of the train. After that, rebooking or cancellation is no longer possible.
 
 In general, rebooking is only possible to other available trains with remaining quotas, see also [Ticket Quotas](#ticket-quotas). When rebooking, upgrading from Eurostar Standard to Eurostar Plus by paying the difference is also possible. However, a downgrade from Eurostar Plus to Eurostar Standard will not be refunded.
 
@@ -216,12 +211,7 @@ Rebooking, canceling, and upgrading tickets is possible using the booking refere
 All FIP fares are subject to quotas, so early booking is recommended.
 {{% /highlight %}}
 
-Checking available ticket quotas is possible via the following websites:
-
-- [Interrail Website](https://www.interrail.eu/en/book-reservations) \
-   Only for checking reservation quotas. Purchased reservations are only valid with an Interrail ticket!
-- [Traivelling](https://traivelling.com/home) \
-   More information in the [corresponding booking section](#traivelling-website).
+The availability of ticket quotas can be checked via the [Interrail Website](https://www.interrail.eu/en/book-reservations). It can only be used to check reservation quotas. Purchased reservations are only valid with an Interrail ticket.
 
 ### Connections
 

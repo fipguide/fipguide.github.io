@@ -503,6 +503,8 @@ FOSW ROVER 8 IN 15 DAYS est plus cher avec FIP 75.
 - **Abonnements et billets Londres :** \
   Trajets illimités entre deux gares pour une période donnée ou dans les zones londoniennes spécifiées pour une période donnée. La Réduction FIP 50 / FIP 75 n’est pas disponible.
 
+Selon le type de billet, différentes conditions s’appliquent à l’annulation des billets. Les informations à ce sujet sont disponibles sur le [site de National Rail](https://www.nationalrail.co.uk/tickets-railcards-and-offers/buying-a-ticket/changing-cancelling-and-getting-a-refund-for-tickets/).
+
 Sur certaines lignes, des trains de différents opérateurs circulent. Différents billets Anytime et Off-Peak sont vendus pour ces lignes. Ces billets ne sont valables que dans les trains de l’opérateur concerné ou auprès de tous les opérateurs sur la ligne (_Any Route_). [BR Fares](https://www.brfares.com/) donne un aperçu des billets disponibles par ligne. Les billets Advance sont toujours liés à un train précis.
 
 {{% highlight tip %}}

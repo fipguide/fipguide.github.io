@@ -252,7 +252,9 @@ Aucune réduction FIP n’est accordée sur les lignes suivantes :
 - Téléphérique Stechelberg – Mürren – Schilthorn (LSMS)
 
 {{< highlight inofficial >}}
-Il nous a été signalé que le transport d'équipements de sports d'hiver (ski, snowboard) sur les Jungfraubahn n'est pas possible lors de l'utilisation du FIP.
+L'utilisation des chemins de fer de la Jungfrau avec FIP est uniquement destinée au transport public régulier.
+
+On nous a signalé qu'il n'est pas possible d'utiliser le FIP pour les voyages en équipement de sports d'hiver. La raison en est que le FIP ne doit pas être utilisé comme forfait ski. Nous ne connaissons pas de règlement tarifaire officiel à ce sujet. Le FIP peut être utilisé pour les trajets aller et retour vers le domaine skiable, à condition que la ligne soit couverte par le FIP.
 {{< /highlight >}}
 
 {{% /train-category %}}
@@ -979,6 +981,12 @@ La Pilatusbahn n’est pas membre du FIP, mais propose actuellement une réducti
 
 Cette offre spéciale peut être retirée à tout moment par la Pilatusbahn.
 
+### Brienz-Rothorn-Bahn
+
+La Brienz-Rothorn-Bahn n’est pas membre du FIP, mais propose actuellement une réduction de 50 % sur les billets sur présentation de la Carte FIP lors de l’achat à un guichet de la Brienz-Rothorn-Bahn. [^3]
+
+Cette offre spéciale peut être retirée à tout moment par la Brienz-Rothorn-Bahn.
+
 ## Recommandations
 
 {{% highlight tip %}}
@@ -992,3 +1000,5 @@ Lors d’un voyage avec un Coupon, il est conseillé, si possible, de disposer �
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [Feedback RBS](https://discord.com/channels/1250522473188032512/1477450999454236892)
+
+[^3]: [Brienz-Rothorn-Bahn](https://brienz-rothorn-bahn.ch/fr/fragen-und-antworten/)

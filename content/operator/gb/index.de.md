@@ -500,6 +500,8 @@ Sie kann als Orientierung genutzt werden, individuelle Angebote sollten jedoch �
   Unbegrenzte Fahrt zwischen zwei Stationen für einen bestimmten Zeitraum oder innerhalb der
   angegebenen Londoner Zonen für einen bestimmten Zeitraum. FIP 50 / FIP 75 Rabatt ist nicht verfügbar.
 
+Je nach Tickettyp gibt es unterschiedliche Bedingungen zur Stornierung von Tickets. Informationen dazu sind auf der [Website von National Rail](https://www.nationalrail.co.uk/tickets-railcards-and-offers/buying-a-ticket/changing-cancelling-and-getting-a-refund-for-tickets/) zu finden.
+
 Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen Strecken werden unterschiedliche Anytime und Off-Peak Tickets verkauft. Diese Tickets sind nur in den Zügen des jeweiligen Betreibers gültig oder bei allen Betreibern auf der Strecke (_Any Route_). [BR Fares](https://www.brfares.com/) gibt einen Überblick über die verfügbaren Tickets pro Strecke. Advance Tickets sind stets an eine konkrete Zugverbindung gebunden.
 
 {{% highlight tip %}}
