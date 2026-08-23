@@ -20,51 +20,79 @@ MÁV propose également une [application](https://www.mavcsoport.hu/mav-szemelys
 
 ## Billets FIP 50
 
-Les billets FIP 50 pour les connexions MÁV et GySEV sont vendus sur le site Web de réservation MÁV. Pour ajouter la réduction FIP 50, sur la page de recherche sous _Passengers and Discounts_, l’aperçu des passagers doit être ouvert. Ce n’est qu’après avoir saisi la date de naissance que la réduction FIP 50 peut être ajoutée avec _Add Discounts_. L’option de réduction à sélectionner se trouve dans le tableau ci-dessous.
+Les billets FIP 50 pour les connexions MÁV et GySEV sont vendus sur le site Web de réservation MÁV, mais pour les connexions internationales, seule la section hongroise est réduite.
 
-| Trajet        | Classe FIP 50 | 2e classe                                     | 1re / 1+ classe                                  |
-| ------------- | ------------- | --------------------------------------------- | ------------------------------------------------ |
-| National      | 1re classe    | « FIP 50% domestic discount 1st class (50%) » | « FIP 50% domestic discount 1st class (50%) »    |
-| National      | 2e classe     | « FIP 50% domestic discount 2nd class (50%) » | « FIP 50% domestic discount 2nd class (50%) » \* |
-| International | 1re classe    | « FIP 50% domestic discount (50%) » †         | « FIP 50% domestic discount (50%) » †            |
-| International | 2e classe     | « FIP 50% domestic discount (50%) » †         | non disponible en ligne                          |
+La manière de sélectionner la réduction dans la recherche de connexion est décrite dans la section [Sélectionner la réduction](#mav-website:sélectionner-la-réduction).
+
+| <div style="width:105px">Trajet</div> | Classe FIP 50 | 2e classe                                     | 1re / 1+ classe                                  |
+| ------------------------------------- | ------------- | --------------------------------------------- | ------------------------------------------------ |
+| National                              | 1re classe    | « FIP 50% domestic discount 1st class (50%) » | « FIP 50% domestic discount 1st class (50%) »    |
+| National                              | 2e classe     | « FIP 50% domestic discount 2nd class (50%) » | « FIP 50% domestic discount 2nd class (50%) » \* |
+| International                         | 1re classe    | « FIP 50% domestic discount (50%) » †         | « FIP 50% domestic discount (50%) » †            |
+| International                         | 2e classe     | « FIP 50% domestic discount (50%) » †         | Non disponible en ligne                          |
 
 † Pour les trajets internationaux, la réduction FIP 50 ne s’applique qu’à la section hongroise.\
-\* Le supplément de classe (_különbözeti díj_) est automatiquement ajouté au prix — aucune option distincte ne doit être sélectionnée.
+\* Le supplément de classe (_különbözeti díj_) est automatiquement ajouté au prix. Aucune option distincte ne doit être sélectionnée.[^1]
 
-{{% columns %}}
-{{% column width="50%" %}}
-![Date de naissance MÁV](mav-website-birthday.webp)
-{{% /column %}}
-{{% column width="50%" %}}
-![Réductions MÁV](mav-website-discounts.webp)
-{{% /column %}}
-{{% /columns %}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
 ## Réservations
 
-Les réservations pour les trains MÁV et GySEV peuvent être achetées en ligne pour 990 HUF. L’option « I only need seat reservation » se trouve dans les informations de connexion.
+Les réservations pour les trains MÁV et GySEV peuvent être achetées en ligne pour 990 HUF.
 
-La bonne option de réduction se trouve dans le tableau suivant :
+La bonne option de réduction se trouve dans le tableau suivant. La manière de sélectionner la réduction dans la recherche de connexion est décrite dans la section [Sélectionner la réduction](#mav-website:sélectionner-la-réduction).
 
-| Trajet        | Classe du Coupon FIP | 2e classe                             | 1re / 1+ classe                                              |
-| ------------- | -------------------- | ------------------------------------- | ------------------------------------------------------------ |
-| National      | 1re classe           | « I only need seat reservation »      | « International ticket or pass, 1st class (free-of-charge) » |
-| National      | 2e classe            | « I only need seat reservation »      | « I only need seat reservation » \*                          |
-| International | 1re classe           | « FIP free ticket (leisure journey) » | « FIP free ticket (leisure journey) »                        |
-| International | 2e classe            | « FIP free ticket (leisure journey) » | non disponible en ligne                                      |
+| <div style="width:105px">Trajet</div> | Classe du Coupon FIP | 2e classe                             | 1re / 1+ classe                                              |
+| ------------------------------------- | -------------------- | ------------------------------------- | ------------------------------------------------------------ |
+| National                              | 1re classe           | « I only need seat reservation »      | « International ticket or pass, 1st class (free-of-charge) » |
+| National                              | 2e classe            | « I only need seat reservation »      | « I only need seat reservation » \*                          |
+| International                         | 1re classe           | « FIP free ticket (leisure journey) » | « FIP free ticket (leisure journey) »                        |
+| International                         | 2e classe            | « FIP free ticket (leisure journey) » | non disponible en ligne                                      |
 
-\* Le supplément de classe (_különbözeti díj_) est automatiquement ajouté au prix — aucune option distincte ne doit être sélectionnée.
+\* Le supplément de classe (_különbözeti díj_) est automatiquement ajouté au prix. Aucune option distincte ne doit être sélectionnée.[^1]
 
-Pour les trajets internationaux avec des Coupons FIP, vous devez détenir des Coupons FIP pour tous les transporteurs le long du trajet (par exemple, pour Budapest–Vienne, un Coupon MÁV et un Coupon ÖBB sont nécessaires).
+Pour les trajets internationaux avec des Coupons FIP, vous devez détenir des Coupons FIP pour tous les transporteurs le long du trajet (par exemple, pour Budapest–Vienne, un Coupon MÁV et un Coupon ÖBB sont nécessaires). Si un Coupon n’est disponible que pour un seul pays, la réservation de connexions transfrontalières continues via le site Web de MÁV n’est pas possible. Une réservation vers des points frontière tarifaires n’est également pas possible via le site Web.
 
-{{% highlight "important" %}}
+## Sélectionner la réduction
 
-L’option « FIP egyországos szabadjegy » peut encore apparaître dans le système MÁV. Il s’agit d’une entrée obsolète qui **ne doit pas être utilisée**, bien qu’une info-box prétende qu’elle n’est pas valable pour les trajets internationaux. MÁV travaille à la supprimer.
+### Sélectionner les options de réduction
 
-{{% /highlight %}}
+{{% float-image
+  src="mav-website-birthday.webp"
+  alt="Date de naissance MÁV"
+  width="50%"
+  position="right"
+%}}
+Pour ajouter une option de réduction, sur la page de recherche de connexion sous _Passengers and Discounts_, l’aperçu des passagers doit être ouvert. Ce n’est qu’après avoir saisi la date de naissance que la réduction peut être ajoutée avec _Add Discounts_.
+{{% /float-image %}}
+
+{{% float-image
+  src="mav-website-discounts.webp"
+  alt="Réductions MÁV"
+  width="50%"
+  position="right"
+%}}
+L’option de réduction peut maintenant être sélectionnée ici et confirmée avec OK.
+{{% /float-image %}}
+
+### Réserver des réservations
+
+{{% float-image
+  src="only-seat-reservation.webp"
+  width="50%"
+  position="right"
+%}}
+L’option « I only need seat reservation » se trouve dans les informations de connexion. Pour les billets FIP 50, la réservation est automatiquement ajoutée et facturée pour les trains nécessitant une réservation.
+{{% /float-image %}}
+
+{{< highlight "important" >}}
+
+L’option « FIP egyországos szabadjegy » peut encore apparaître dans le système MÁV. Il s’agit d’une entrée obsolète qui **ne doit pas être utilisée**, bien qu’une info-box prétende qu’elle n’est pas valable pour les trajets internationaux. MÁV travaille à la supprimer.[^1]
+
+{{< /highlight >}}
 
 {{% /booking-section %}}
+
+[^1]: [Retour d’expérience sur le site Web de réservation MÁV](https://github.com/fipguide/fipguide.github.io/issues/1178)
