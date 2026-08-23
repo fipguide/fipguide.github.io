@@ -543,7 +543,11 @@ Les billets à tarif réduit FIP ne sont pas délivrés à bord des trains, sauf
 
 ## Réductions
 
-{{< children-discount >}}
+National Rail se distingue des autres opérateurs par le fait que la Réduction FIP 50 / FIP 75 peut également s'appliquer aux tarifs enfants. Ainsi, la réduction de 50 % pour les enfants peut être combinée avec la Réduction FIP de 50 % ou 75 % applicable aux billets normaux.
+
+Les tarifs en vigueur pour les billets enfants avec FIP peuvent également être vérifiés sur BRFares, voir [Achat de billets et réservations](#achat-de-billets-et-réservations).
+
+Le tableau suivant présente uniquement les réductions pour les enfants ; la Réduction FIP n'y est pas encore prise en compte.
 
 | Âge                                      | Réduction             |
 | ---------------------------------------- | --------------------- |

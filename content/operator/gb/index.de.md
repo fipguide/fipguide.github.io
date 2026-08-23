@@ -541,7 +541,11 @@ Gebieten, in denen Fahrkarten allgemein nur in Zügen ausgestellt werden (_Pay-T
 
 ## Ermäßigungen
 
-{{< children-discount >}}
+National Rail unterscheidet sich von anderen Betreibern insofern, dass der FIP 50 / FIP 75 auch auf Child fares angewendet werden kann. Somit können die 50% Ermäßigung für Kinder mit den 50% bzw. 75% FIP-Ermäßigung für reguläre Fahrkarten kombiniert werden.
+
+Die gültigen Preise für Kinderfahrkarten mit FIP können ebenfalls auf BRFares geprüft werden, siehe [Ticket- und Reservierungskauf](#ticket--und-reservierungskauf).
+
+Die folgende Tabelle zeigt nur die Ermäßigungen für Kinder, der FIP Rabatt ist dort noch nicht berücksichtigt.
 
 | Alter                                | Ermäßigung          |
 | ------------------------------------ | ------------------- |

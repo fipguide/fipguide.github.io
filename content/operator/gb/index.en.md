@@ -539,7 +539,11 @@ FIP-discounted tickets are not issued on trains, except in certain rural areas w
 
 ## Discounts
 
-{{< children-discount >}}
+National Rail differs from other operators in that the FIP 50 / FIP 75 can also be applied to child fares. This means the 50% discount for children can be combined with the 50% or 75% FIP Discount for regular tickets.
+
+The valid prices for children's tickets with FIP can also be checked on BRFares, see [Ticket and Reservation Purchase](#ticket-and-reservation-purchase).
+
+The following table shows only the discounts for children; the FIP Discount is not yet included there.
 
 | Age                                  | Discount           |
 | ------------------------------------ | ------------------ |
