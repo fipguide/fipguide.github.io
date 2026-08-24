@@ -841,7 +841,7 @@
       label: "Surrounding text",
       widget: "markdown",
       required: false,
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: ["button", "image"],
     },
   ];
 

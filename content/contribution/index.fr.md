@@ -46,20 +46,31 @@ Sur la [page d’accueil](https://www.fipguide.org/admin) du CMS du FIP Guide, l
 Il est également possible d’ouvrir la page à modifier via le FIP Guide, puis de la modifier via le CMS au moyen du menu « Modifier la page ».
 
 {{% columns %}}
-{{% column width="50%" %}}
+{{% column width="60.5%" %}}
 ![Modifier la page depuis le menu sur ordinateur](edit-button-desktop.fr.webp)
 {{% /column %}}
 
-{{% column width="50%" %}}
+{{% column width="39.5%" %}}
 ![Modifier la page depuis le menu mobile](edit-button-mobile.fr.webp)
 {{% /column %}}
 {{% /columns %}}
 
 ### Modifier la page
 
-Dans la vue de modification, la page correspondante peut être mise à jour. Le FIP Guide est disponible en différentes langues. Par défaut, deux langues sont affichées côte à côte. Veuillez noter que la langue principale est l’anglais et que certaines informations ne peuvent être modifiées que sur la page anglaise, mais sont ensuite automatiquement reprises pour toutes les langues.
+Dans la vue de modification, la page correspondante peut être mise à jour. Le FIP Guide est disponible en différentes langues. Vous pouvez changer la langue via une option de sélection.
 
 ![Sélectionner la langue dans le CMS du FIP Guide](language.webp)
+
+{{% float-image
+    src="show-second-pane.webp"
+    alt="Désactiver la vue parallèle avec plusieurs langues"
+    width="30%"
+    position="right"
+%}}
+Par défaut, deux langues sont affichées côte à côte. Si vous souhaitez vous concentrer sur une seule langue, vous pouvez désactiver la vue parallèle de plusieurs langues via le menu global.
+
+Veuillez noter que la langue principale est l’anglais et que certaines informations ne peuvent être modifiées que sur la page anglaise, mais sont ensuite automatiquement reprises pour toutes les langues.
+{{% /float-image %}}
 
 {{% highlight tip %}}
 Si vous le souhaitez, vous pouvez mettre à jour de manière autonome toutes les langues de la page. Cela n’est toutefois pas absolument nécessaire. Vous pouvez également mettre à jour des informations dans une seule langue. L’équipe du FIP Guide vérifiera les modifications et mettra ensuite les informations à jour dans toutes les langues.
@@ -68,7 +79,7 @@ Si vous le souhaitez, vous pouvez mettre à jour de manière autonome toutes les
 ### Enregistrer et publier les modifications
 
 {{% float-image
-    src="send_for_review.webp"
+    src="send-for-review.webp"
     alt="Enregistrer les modifications dans le CMS du FIP Guide"
     width="50%"
     position="right"

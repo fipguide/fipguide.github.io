@@ -46,20 +46,31 @@ On the [homepage](https://www.fipguide.org/admin) of the FIP Guide CMS, the page
 Alternatively, the page to be edited can also be opened via the FIP Guide and then modified via the CMS using the "Edit page" menu.
 
 {{% columns %}}
-{{% column width="50%" %}}
+{{% column width="60.5%" %}}
 ![Edit page on desktop menu](edit-button-desktop.en.webp)
 {{% /column %}}
 
-{{% column width="50%" %}}
+{{% column width="39.5%" %}}
 ![Edit page in mobile menu](edit-button-mobile.en.webp)
 {{% /column %}}
 {{% /columns %}}
 
 ### Edit Page
 
-In the editing view, the corresponding page can be updated. The FIP Guide is available in different languages. By default, two languages are displayed side by side. Please note that the primary language is English and some information can only be adjusted on the English page, but is then automatically applied to all languages.
+In the editing view, the corresponding page can be updated. The FIP Guide is available in different languages. You can change the language using a selection option.
 
 ![Select language in FIP Guide CMS](language.webp)
+
+{{% float-image
+    src="show-second-pane.webp"
+    alt="Deactivate the parallel view with multiple languages"
+    width="30%"
+    position="right"
+%}}
+By default, two languages are displayed side by side. If you want to focus on one language, you can deactivate the parallel view of multiple languages via the global menu.
+
+Please note that the primary language is English and some information can only be adjusted on the English page, but is then automatically applied to all languages.
+{{% /float-image %}}
 
 {{% highlight tip %}}
 If you want, you can independently update all languages of the page. However, this is not absolutely necessary. You can also update information in only one language. The FIP Guide team will review the changes and then update the information in all languages.
@@ -68,7 +79,7 @@ If you want, you can independently update all languages of the page. However, th
 ### Save and Publish Changes
 
 {{% float-image
-    src="send_for_review.webp"
+    src="send-for-review.webp"
     alt="Save changes in FIP Guide CMS"
     width="50%"
     position="right"

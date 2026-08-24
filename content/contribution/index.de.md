@@ -46,20 +46,31 @@ Auf der [Startseite](https://www.fipguide.org/admin) des FIP Guide CMS kann im l
 Alternativ kann auch über den FIP Guide die zu bearbeitende Seite geöffnet werden und anschließend über das Menü "Seite bearbeiten" über das CMS modifiziert werden.
 
 {{% columns %}}
-{{% column width="50%" %}}
+{{% column width="60.5%" %}}
 ![Seite auf dem Desktop im Menü bearbeiten](edit-button-desktop.de.webp)
 {{% /column %}}
 
-{{% column width="50%" %}}
+{{% column width="39.5%" %}}
 ![Seite im mobilen Menü bearbeiten](edit-button-mobile.de.webp)
 {{% /column %}}
 {{% /columns %}}
 
 ### Seite bearbeiten
 
-In der Bearbeitungsansicht kann die entsprechende Seite aktualisiert werden. Der FIP Guide ist in verschiedenen Sprachen verfügbar. Standardmäßig werden zwei Sprachen nebeneinander angezeigt. Über eine Auswahlmöglichkeit kannst du die Sprache ändern. Bitte beachte, dass die primäre Sprache Englisch ist und ausgewählte Metadaten nur auf der englischen Seite angepasst werden können, dann aber automatisch für alle Sprachen übernommen werden.
+In der Bearbeitungsansicht kann die entsprechende Seite aktualisiert werden. Der FIP Guide ist in verschiedenen Sprachen verfügbar. Über eine Auswahlmöglichkeit kannst du die Sprache ändern.
 
 ![Sprache im FIP Guide CMS auswählen](language.webp)
+
+{{% float-image
+    src="show-second-pane.webp"
+    alt="Deaktiviere parallele Ansicht mit mehreren Sprachen"
+    width="30%"
+    position="right"
+%}}
+Standardmäßig werden zwei Sprachen nebeneinander angezeigt. Wenn du dich auf eine Sprache fokussieren willst, kannst du über das globale Menü die parallele Ansicht von mehrere Sprachen deaktivieren.
+
+Bitte beachte, dass die primäre Sprache Englisch ist und ausgewählte Metadaten nur auf der englischen Seite angepasst werden können, dann aber automatisch für alle Sprachen übernommen werden.
+{{% /float-image %}}
 
 {{% highlight tip %}}
 Wenn du möchtest, kannst du selbstständig alle Sprachen der Seite aktualisieren. Das ist jedoch nicht unbedingt notwendig. Du kannst auch Informationen nur in einer Sprache aktualisieren. Das FIP Guide Team wird die Änderungen überprüfen und anschließend die Informationen in allen Sprachen aktualisieren.
@@ -68,7 +79,7 @@ Wenn du möchtest, kannst du selbstständig alle Sprachen der Seite aktualisiere
 ### Änderungen speichern und veröffentlichen
 
 {{% float-image
-    src="send_for_review.webp"
+    src="send-for-review.webp"
     alt="Änderungen im FIP Guide CMS speichern"
     width="50%"
     position="right"
