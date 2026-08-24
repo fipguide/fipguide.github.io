@@ -28,7 +28,7 @@ Il est possible de se connecter au CMS avec ce compte GitHub. Pendant la connexi
 
 {{% highlight important %}}
 {{% float-image
-    src="fork_repository.webp"
+    src="fork-repository.webp"
     alt="Forker le dépôt dans le CMS du FIP Guide"
     width="40%"
     position="right"

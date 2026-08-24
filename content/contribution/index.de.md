@@ -28,7 +28,7 @@ Im CMS kann sich mit diesem GitHub Account angemeldet werden. Während der Anmel
 
 {{% highlight important %}}
 {{% float-image
-    src="fork_repository.webp"
+    src="fork-repository.webp"
     alt="Repository im FIP Guide CMS forken"
     width="40%"
     position="right"

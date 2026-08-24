@@ -28,7 +28,7 @@ You can log in to the CMS with this GitHub account. During the login, the use mu
 
 {{% highlight important %}}
 {{% float-image
-    src="fork_repository.webp"
+    src="fork-repository.webp"
     alt="Fork repository in FIP Guide CMS"
     width="40%"
     position="right"
