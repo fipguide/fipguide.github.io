@@ -99,6 +99,7 @@ collections:
     label_singular: "News Article"
     folder: "content/news"
     path: "{{"{{"}}slug}}/index"
+    preview_path: "{{"{{"}}locale}}/news/{{"{{"}}slug}}/"
     publish: false
     create: true
     delete: false
@@ -170,6 +171,7 @@ collections:
     label_singular: "Country"
     folder: "content/country"
     path: "{{"{{"}}slug}}/index"
+    preview_path: "{{"{{"}}locale}}/country/{{"{{"}}slug}}/"
     create: false
     publish: false
     delete: false
@@ -204,6 +206,7 @@ collections:
     label_singular: "Operator"
     folder: "content/operator"
     path: "{{"{{"}}slug}}/index"
+    preview_path: "{{"{{"}}locale}}/operator/{{"{{"}}slug}}/"
     publish: false
     create: false
     delete: false
@@ -251,6 +254,7 @@ collections:
     label_singular: "FIP Application Page"
     folder: "content/application"
     path: "{{"{{"}}slug}}/index"
+    preview_path: "{{"{{"}}locale}}/application/{{"{{"}}slug}}/"
     publish: false
     create: true
     delete: false
@@ -387,6 +391,7 @@ collections:
     label_singular: "Booking Platform"
     folder: "content/booking"
     path: "{{"{{"}}slug}}/index"
+    preview_path: "{{"{{"}}locale}}/booking/{{"{{"}}slug}}/"
     publish: false
     create: true
     delete: false
@@ -614,6 +619,7 @@ collections:
         media_folder: ""
         public_folder: ""
         i18n: true
+        preview_path: "{{"{{"}}locale}}/contribution/"
         fields:
           - label: "Title"
             name: "title"
@@ -640,6 +646,7 @@ collections:
         media_folder: ""
         public_folder: ""
         i18n: true
+        preview_path: "{{"{{"}}locale}}/general/generalinformation/"
         fields:
           - label: "Title"
             name: "title"
@@ -671,6 +678,7 @@ collections:
         media_folder: ""
         public_folder: ""
         i18n: true
+        preview_path: "{{"{{"}}locale}}/general/fip-validity/"
         fields:
           - label: "Title"
             name: "title"
@@ -701,6 +709,7 @@ collections:
     label_singular: "FAQ Entry"
     folder: "content/general/faq"
     path: "{{"{{"}}slug}}/index"
+    preview_path: "{{"{{"}}locale}}/general/faq/{{"{{"}}slug}}/"
     publish: false
     create: true
     delete: false
@@ -735,6 +744,7 @@ collections:
     label_singular: "Identify Operator"
     folder: "content/identify-operator"
     path: "{{"{{"}}slug}}/index"
+    preview_path: "{{"{{"}}locale}}/identify-operator/{{"{{"}}slug}}/"
     publish: false
     create: true
     delete: false
