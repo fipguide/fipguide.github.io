@@ -5,6 +5,7 @@ backend:
   auth_scope: repo
   open_authoring: true
   site_domain: fipguide.netlify.app
+  preview_context: netlify/fipguide-test/deploy-preview
 publish_mode: editorial_workflow
 app_title: "FIP Guide CMS"
 editor:
