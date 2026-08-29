@@ -17,7 +17,7 @@ params:
 
 ## FIP 50 Fahrkarten
 
-Am CP Ticketschalter können FIP 50 Fahrkarten für Reisen innerhalb Portugals erworben werden. Der Ticketpreis wird vor Ort mit dem Taschenrechner ermittelt.
+Am CP Ticketschalter können FIP 50 Fahrkarten für Reisen innerhalb Portugals erworben werden. Der Ticketpreis lässt sich mithilfe der Spalte 50 % in den [Fahrpreis-Tabellen](https://www.cp.pt/info/en/w/trains-prices-pdf) nachvollziehen.
 {{% /booking-section %}}
 
 {{% booking-section "fip_global_fare" %}}
