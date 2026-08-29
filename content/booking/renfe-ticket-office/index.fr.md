@@ -16,7 +16,7 @@ aliases:
 ## Tarif Global FIP
 
 Aux guichets de la Renfe, tous les billets nécessitant une réservation au Tarif Global FIP peuvent y être achetés. \
-Des frais supplémentaires de 0,55€ s’appliquent.
+Des frais supplémentaires s'élevant à 5,5 % du prix du billet sont facturés.
 {{% /booking-section %}}
 
 {{% booking-section "fip_50" %}}
