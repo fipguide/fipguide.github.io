@@ -3,6 +3,7 @@ draft: false
 title: CP
 country:
   - portugal
+  - spain
 operator: cp
 aliases:
   - /booking/cp-ticket-office
