@@ -4,7 +4,6 @@ title: Renfe
 country:
   - spain
   - france
-  - portugal
 operator: renfe
 aliases:
   - /booking/renfe-ticket-office
