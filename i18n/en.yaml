@@ -13,6 +13,7 @@ booking:
   not-bookable: not bookable
   reservation: Reservation
   reservation-costs: Reservation Costs
+  send-mail: Send email
   visit-additional-information-website: Additional Information
   visit-booking-website: To Booking Website
 contact:

@@ -981,6 +981,12 @@ La Pilatusbahn n’est pas membre du FIP, mais propose actuellement une réducti
 
 Cette offre spéciale peut être retirée à tout moment par la Pilatusbahn.
 
+### Brienz-Rothorn-Bahn
+
+La Brienz-Rothorn-Bahn n’est pas membre du FIP, mais propose actuellement une réduction de 50 % sur les billets sur présentation de la Carte FIP lors de l’achat à un guichet de la Brienz-Rothorn-Bahn. [^3]
+
+Cette offre spéciale peut être retirée à tout moment par la Brienz-Rothorn-Bahn.
+
 ## Recommandations
 
 {{% highlight tip %}}
@@ -994,3 +1000,5 @@ Lors d’un voyage avec un Coupon, il est conseillé, si possible, de disposer �
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [Feedback RBS](https://discord.com/channels/1250522473188032512/1477450999454236892)
+
+[^3]: [Brienz-Rothorn-Bahn](https://brienz-rothorn-bahn.ch/fr/fragen-und-antworten/)
