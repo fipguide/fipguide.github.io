@@ -36,24 +36,6 @@ Von Serbien aus ist Montenegro mit dem [einzigen grenzüberschreitenden Nachtzug
 
 Es gibt keine Schienenverbindung zwischen dem Kosovo und Montenegro.
 
-{{% highlight tip %}}
-**Balkan Flexipass**
-
-Für Reisende durch mehrere Balkanländer könnte sich der Balkan Flexipass preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
-
-- Bosnien und Herzegowina (ZFBH),
-- Bulgarien (BDZ),
-- Nordmazedonien (MŽ-Transport),
-- Griechenland (HT & Attica),
-- Montenegro (ŽPCG),
-- Rumänien (CFR Calatori & Regiotrans),
-- Serbien (SV),
-- Slowakei (ZSSK / ŽSR),
-- Türkei (TCDD).
-
-[Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
-{{% /highlight %}}
-
 ### Albanien
 
 Eine grenzüberschreitende Bahnstrecke zwischen Montenegro und Albanien ist vorhanden, wird derzeit aber nur für Güterverkehr genutzt. Für Reisende besteht damit aktuell keine reguläre internationale Personenverkehrsverbindung auf der Schiene.
