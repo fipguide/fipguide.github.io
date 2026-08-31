@@ -59,6 +59,6 @@ Von Deutschland aus kann der durchgängige `ECE` Hamburg – Kopenhagen genutzt 
 
 Alternativ gibt es mehrfach täglich `IC` Züge von Flensburg bis Fredericia, wo gute Umsteigemöglichkeiten in Richtung Aarhus/Aalborg und Kopenhagen bestehen.
 
-Per Nahverkehr ist auch eine Einreise über Tønder möglich. Da hier jedoch weder die DB auf deutscher Seite noch die DSB auf dänischer Seite fährt, sind FIP-Ermäßigungen nicht möglich auf dieser Route. Alternativ gibt es die Möglichkeit per Fähre von Puttgarden oder Warnemünde aus einzureisen.
+Per Nahverkehr ist auch eine Einreise über Tønder möglich. Die DSB betreibt als "DSB Vores Tog" den dänischen Streckenabschnitt, auf welchem FIP genutzt werden kann. Für den deutschen Abschnitt wird ein normales Ticket oder alternativ das Deutschlandticket benötigt, da die Züge dort von der NEG betrieben werden. Alternativ gibt es die Möglichkeit per Fähre von Puttgarden oder Warnemünde aus einzureisen.
 
 Da in Schweden keine FIP-Ermäßigungen gelten müssen und die Öresund-Strecke zudem von Øresundståg bedient wird, müssen hier auf der kompletten Strecke Malmö – Kopenhagen Normalpreistickets gekauft werden.

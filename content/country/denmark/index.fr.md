@@ -61,4 +61,4 @@ Depuis l’Allemagne, l’`ECE` direct Hambourg – Copenhague est disponible pl
 
 Alternativement, plusieurs trains `IC` relient Flensburg à Fredericia, avec bonnes correspondances vers Aarhus, Aalborg et Copenhague.
 
-L’entrée via Tønder est aussi possible par des trains locaux, mais comme ni DB ni DSB n’opèrent ce trajet, les réductions FIP n’y sont pas valables. Une autre option est d’utiliser les ferries depuis Puttgarden ou Warnemünde pour entrer au Danemark.
+Il est également possible d'accéder à l'itinéraire via Tønder en empruntant des trains locaux. La DSB exploite le tronçon danois sous la marque « DSB Vores Tog », ce qui permet d'utiliser les FIP. Pour le tronçon allemand, un billet ordinaire ou le « Deutschlandticket » est nécessaire, car les trains y sont exploités par la NEG. Une autre option est d’utiliser les ferries depuis Puttgarden ou Warnemünde pour entrer au Danemark.
