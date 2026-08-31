@@ -161,6 +161,24 @@ Trains s’arrêtant à toutes les gares. Dans les agglomérations, ils sont aus
 {{% /train-category %}}
 
 {{% train-category
+    id="lex"
+    title="Léman-Express (RL)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.lemanexpress.com/les-7-lignes-lex/"
+%}}
+
+Dans la région genevoise, les trains régionaux transfrontaliers circulent sous le nom de Léman Express et sont exploités par les CFF et la SNCF.
+
+Sur le site de la SNCF, les correspondances Léman Express sont indiquées par « LEX » suivi du numéro de ligne (L1, L2, etc.). Sur le site des CFF, les trains sont parfois indiqués par « RL » et occasionnellement par « TER ».
+
+En France et en Suisse, les réductions FIP s'appliquent comme d'habitude. Les réductions FIP ne s'appliquent pas aux trajets transfrontaliers ; il est alors nécessaire d'acheter des billets au tarif normal. [^3]
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"
@@ -276,3 +294,5 @@ Le Coupon FIP est particulièrement avantageux en Suisse : large réseau, peu de
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [Communauté FIP Guide — Commentaires](https://discord.com/channels/1250522473188032512/1448243039398264893)
+
+[^3]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
