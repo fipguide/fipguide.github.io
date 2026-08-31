@@ -289,7 +289,15 @@ Ein Verkauf von Tickets im Zug ist möglich, wenn der Zugbegleiter sofort aufges
 
 ## Ermäßigungen
 
-Kinder unter 6 werden kostenfrei mitgenommen, ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung          |
+| ------------------------------------ | ------------------- |
+| {{< icon "stroller" >}} 0–5 Jahre    | Kostenlos[^2]       |
+| {{< icon "child_care" >}} 6–14 Jahre | 50% Ermäßigung[^2]  |
+| {{< icon "person" >}} ab 15 Jahre    | Regulärer Preis[^2] |
+
+Ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
 
 {{% highlight tip %}}
 Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 21 €. \
@@ -371,3 +379,5 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
+
+[^2]: [ÖBB – Unterwegs mit Kindern](https://www.oebb.at/de/reiseplanung-services/vor-ihrer-reise/mit-kindern-unterwegs)

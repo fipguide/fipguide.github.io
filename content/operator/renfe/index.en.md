@@ -247,7 +247,17 @@ Tickets for international `AVE` trains can be purchased on board when boarding i
 
 ## Discounts
 
-Children under 4 years travel free of charge without their own seat. For children under 12 years, a 40% discount applies. From 12 years onwards, the full fare is charged.
+{{< children-discount >}}
+
+| Age                                  | Discount                    |
+| ------------------------------------ | --------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free (without own seat)[^6] |
+| {{< icon "child_care" >}} 4–13 years | 40% discount[^6]            |
+| {{< icon "person" >}} from 14 years  | Regular price[^6]           |
+
+### Accompaniment of Minors
+
+On `AVE` (high-speed), international `AVE` between Spain and France, Larga Distancia (Long Distance) and `Avant` (mid-distance high-speed) trains, children under 14 must be accompanied by an adult or must use the unaccompanied minors service on trains that provide this option.[^6]
 
 ## Special Tariff Conditions
 
@@ -280,3 +290,5 @@ Renfe can often be compared more to an airline than to other railway companies. 
 [^3]: [User feedback: ticket purchase on the train](https://github.com/fipguide/fipguide.github.io/issues/449)
 
 [^5]: [Renfe FIP prices (PKP, April 2026)](https://pkp.pl/images/fip/2026/Renfe%20dopaty%2001.04.2026.pdf)
+
+[^6]: [Renfe – Children](https://www.renfe.com/es/en/travel/prepare-your-trip/descuentos/ninos)

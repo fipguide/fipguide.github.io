@@ -207,7 +207,15 @@ Le paiement à bord ne peut se faire qu’en espèces et en euros.
 
 ## Réductions
 
-Les enfants jusqu’à 5 ans inclus voyagent gratuitement. À partir de 6 ans, le tarif adulte FIP régulier s’applique.[^1]
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                         |
+| ---------------------------------------- | ------------------------------------------------- |
+| {{< icon "stroller" >}} 0–5 ans          | Gratuit, à condition de n’occuper aucun siège[^3] |
+| {{< icon "child_care" >}} 6–15 ans       | Réduction de 50 %[^3]                             |
+| {{< icon "person" >}} à partir de 16 ans | Tarif normal[^3]                                  |
+
+Les enfants de moins de 6 ans voyagent gratuitement, à condition de ne pas occuper de siège nécessaire à un passager payant. Un billet reste néanmoins requis, même si l’enfant voyage gratuitement, et peut être obtenu au guichet de la gare. Jusqu’à deux enfants peuvent voyager gratuitement avec un adulte.
 
 ## Conditions tarifaires spéciales
 
@@ -232,3 +240,5 @@ Il n’y a pas de véritable horaire cadencé. Une bonne planification est donc 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782292-slovenia.html)
 
 [^2]: [Informations sur les suppléments SŽ](https://potniski.sz.si/en/tickets/supplements-to-the-ticket-price/)
+
+[^3]: [SŽ – Enfants](https://potniski.sz.si/en/tickets/discounts/children/)

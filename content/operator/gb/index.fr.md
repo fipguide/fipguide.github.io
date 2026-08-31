@@ -541,6 +541,28 @@ Via l’application _[Seatfrog](https://seatfrog.com/)_, il est possible d’ach
 
 Les billets à tarif réduit FIP ne sont pas délivrés à bord des trains, sauf dans certaines zones rurales où les billets sont généralement délivrés à bord (_Pay-Trains_).
 
+## Réductions
+
+National Rail se distingue des autres opérateurs par le fait que la Réduction FIP 50 / FIP 75 peut également s'appliquer aux tarifs enfants. Ainsi, la réduction de 50 % pour les enfants peut être combinée avec la Réduction FIP de 50 % ou 75 % applicable aux billets normaux.
+
+Les tarifs en vigueur pour les billets enfants avec FIP peuvent également être vérifiés sur BRFares, voir [Achat de billets et réservations](#achat-de-billets-et-réservations).
+
+Le tableau suivant présente uniquement les réductions pour les enfants ; la Réduction FIP n'y est pas encore prise en compte.
+
+| Âge                                      | Réduction             |
+| ---------------------------------------- | --------------------- |
+| {{< icon "stroller" >}} 0–4 ans          | Gratuit[^8]           |
+| {{< icon "child_care" >}} 5–15 ans       | Réduction de 50 %[^8] |
+| {{< icon "person" >}} à partir de 16 ans | Tarif normal[^8]      |
+
+### 16-17 Saver
+
+Le _16-17 Saver_ offre une réduction de 50 % sur les billets Standard Anytime, Standard Off-Peak, Standard Advance et Season pour les jeunes de 16 ou 17 ans, valable à tout moment de la journée.[^10]
+
+### Family & Friends Railcard
+
+Avec la Family & Friends Railcard, jusqu’à 4 adultes et 4 enfants peuvent voyager ensemble sur une seule carte, sans lien de parenté nécessaire. Les adultes économisent 1/3 et les billets enfants coûtent 60 % moins cher. La Railcard coûte 35 £ pour 1 an ou 80 £ pour 3 ans.[^9]
+
 ## Conditions tarifaires spéciales
 
 ### Portiques de contrôle
@@ -733,3 +755,9 @@ Le Royaume-Uni peut aussi être parcouru en trains de nuit :
 [^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
 
 [^7]: [Rail Delivery Group : Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469782907-lumo-west-coast-services-reciprocal-travel-agreement.html)
+
+[^8]: [National Rail – Voyager avec des enfants](https://www.nationalrail.co.uk/on-the-train/train-travel-with-children/)
+
+[^9]: [Family & Friends Railcard](https://www.familyandfriends-railcard.co.uk/)
+
+[^10]: [National Rail – 16-17 Saver](https://www.nationalrail.co.uk/tickets-railcards-and-offers/ticket-types/promotions/16-17-saver/)

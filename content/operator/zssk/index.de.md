@@ -197,17 +197,29 @@ Ist kein Schalter vorhanden oder dieser nicht geöffnet, kann an Bord des Zuges 
 
 ## Ermäßigungen
 
-Kinder bis 6 Jahren reisen kostenlos in den Zügen der ZSSK, wenn sie von einer Person im Alter von mindestens 16 Jahren begleitet werden. In der 1. Klasse ist dies auf 2 Kinder beschränkt, ab dem 3. Kind werden 50% des Ticketpreises fällig. In `EC` Zügen kommen ab dem 3. Kind in der 1. Klasse 1 € Aufschlag pro Kind dazu. In `SC` Zügen werden pro Kind immer 1 € in der 2. Klasse und 3 € in der 1. Klasse fällig. In `IC` Zügen muss pro Kind eine Reservierung inkl. Zuschlag für die Zugkategorie gekauft werden.[^1]
+{{< children-discount >}}
 
-### Kostenfreie Fahrten für 6–16-Jährige (ohne FIP)
+| Alter                                | Ermäßigung                                                                                                                                                                                          |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–5 Jahre  | Kostenlos, wenn sie von einer Person im Alter von mindestens 16 Jahren begleitet werden. In der 1. Klasse ist dies auf 2 Kinder beschränkt, ab dem 3. Kind werden 50% des Ticketpreises fällig.[^3] |
+| {{< icon "child_care" >}} 6–15 Jahre | 50% Ermäßigung in der 2. Klasse, ca. 25% Ermäßigung in der 1. Klasse[^3]                                                                                                                            |
+| {{< icon "person" >}} ab 16 Jahre    | Regulärer Preis[^3]                                                                                                                                                                                 |
+
+### Aufschläge für Kinder
+
+Zusätzlich zum Ticketpreis werden für Kinder folgende Aufschläge erhoben:
+
+In `EC` Zügen: Zuschlag von 1 € pro Kind (Ausgenommen Kinder bis 6 Jahre, die kostenfrei mitreisen) \
+In `SC` Zügen: 1 € (2. Klasse) / 3 € (1. Klasse) \
+In `IC` Zügen: Zuschlag mit obligatorischer Reservierung[^1]
+
+### Kostenfreie Fahrten für 6–16-Jährige
 
 Um eine kostenfreie Fahrt für Kinder zwischen 6 und 16 Jahren zu erhalten, muss am Schalter ein Foto (2x3cm) sowie ein Identitätsnachweis (oder Geburtsurkunde plus Ausweis eines Elternteils) vorgelegt werden. Die Bearbeitung dauert bis zu drei Werktage, danach wird eine Bescheinigung ausgestellt, die im Zug vorgezeigt werden muss. Das kostenfreie Ticket (0 €) kann anschließend auf der ZSSK-Website gebucht werden, indem „Begünstigter des 100%-Rabattes“ ausgewählt wird.
 
-In `EC` Zügen: Zuschlag von 1 € pro Kind \
-In `SC` Zügen: 1 € (2. Klasse) / 3 € (1. Klasse) \
-In `IC` Zügen: Zuschlag mit obligatorischer Reservierung
+Es fallen weitere Aufschläge an, mehr Informationen unter [Aufschläge für Kinder](#aufschläge-für-kinder).
 
-### Kostenfreie Fahrten für Studenten und Senioren (ohne FIP)
+### Kostenfreie Fahrten für Studenten und Senioren
 
 Studenten unter 26 Jahren und Senioren ab 62 Jahren aus der EU sowie internationale Studenten in der Slowakei können ebenfalls kostenfrei reisen. Für Studenten ist mindestens 3 Tage vor der ersten Fahrt eine Registrierung am ZSSK Schalter erforderlich. Zuvor muss ein Registrierungsformular ausgefüllt und von der Schule/Universität unterschrieben werden. Details dazu finden sich auf der Seite [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/).
 
@@ -230,3 +242,5 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782291-slovakia.html)
 
 [^2]: [ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)
+
+[^3]: [ZSSK – Kinder und Studierende](https://www.zssk.sk/en/children-and-students/)

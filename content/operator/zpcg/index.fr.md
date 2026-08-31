@@ -108,7 +108,14 @@ Des billets avec réduction FIP peuvent être achetés à bord du train. Un supp
 
 ## Réductions
 
-Pour les tarifs publics, les enfants jusqu’à 6 ans voyagent gratuitement. Les enfants jusqu’à 14 ans bénéficient d’une réduction de 50 % sur le tarif adulte. Les enfants à partir de 14 ans paient le tarif adulte.[^2]
+{{< children-discount >}}
+
+| Âge                                      | Réduction          |
+| ---------------------------------------- | ------------------ |
+| {{< icon "child_care" >}} 0–5 ans        | Gratuit[^6]        |
+| {{< icon "child_care" >}} 6–13 ans       | 50 % de remise[^6] |
+| {{< icon "child_hat" >}} 14–25 ans       | 30 % de remise[^6] |
+| {{< icon "person" >}} à partir de 26 ans | Tarif normal[^6]   |
 
 {{% highlight tip %}}
 **Balkan Flexipass**
@@ -154,3 +161,5 @@ Pour les voyageurs avec un Coupon FIP, aucun frais n’est facturé pour le tran
 [^4]: [ŽPCG - Conditions de transport, section 314](https://api.zpcg.me/storage/downloads/Putnicka%20tarifa%202025.pdf)
 
 [^5]: [Reddit: How to book the Bar to Belgrade railway?](https://www.reddit.com/r/Interrail/comments/1ke2y08/comment/nbzx6ut/)
+
+[^6]: [ŽPCG – Réductions dans les transports locaux](https://zpcg.me/en/lokalni-prevoz/povlastice)

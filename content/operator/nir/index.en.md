@@ -82,7 +82,21 @@ FIP 50 / FIP 75 Tickets must be purchased before boarding. On the Enterprise Ser
 
 ## Discounts
 
-Children up to 5 years of age travel free of charge. Young people up to 16 years of age receive a 50% discount on the adult fare. Persons aged 16 and over pay the full FIP adult fare.[^1]
+{{< children-discount >}}
+
+| Age                                  | Discount           |
+| ------------------------------------ | ------------------ |
+| {{< icon "stroller" >}} 0–4 years    | Free of charge[^1] |
+| {{< icon "child_care" >}} 5–15 years | 50% discount[^1]   |
+| {{< icon "person" >}} from 16 years  | Regular price[^1]  |
+
+### Family & Friends Ticket
+
+Translink offers a Family & Friends ticket for £24, valid for unlimited day travel on all Translink services within Northern Ireland, or for £10 for the Metro and Glider Family Day Ticket. The ticket is valid for up to 2 adults and 4 children (minimum 1 adult and 1 child). Additional children under 16 are charged £4.00. Tickets are available from the driver on the day of travel, from main bus and train stations, or from ticket vending machines at halts.[^2]
+
+### yLink
+
+yLink is a smartcard for 16 to 23 year olds using Translink services within Northern Ireland. The first card is free and gives 50% off standard adult full fares on NIR singles, as well as up to 50% off Enterprise singles. No further discount is available on Translink promotional fares.[^3]
 
 ## Special Tariff Conditions
 
@@ -99,3 +113,7 @@ On its relatively small network, NIR offers a reliable regular service using som
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782285-northern-ireland.html)
+
+[^2]: [Translink – Family & Friends Tickets](https://www.translink.co.uk/tickets/offers/family-friends-tickets)
+
+[^3]: [Translink – yLink](https://www.translink.co.uk/tickets/travelcards/ylink)

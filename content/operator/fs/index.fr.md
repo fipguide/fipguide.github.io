@@ -329,7 +329,23 @@ Si les suppléments ne sont pas achetés avant le voyage, un supplément à bord
 
 ## Réductions
 
-Les enfants jusqu’à 4 ans voyagent gratuitement au tarif public. Dans les trains régionaux, les enfants jusqu’à 12 ans bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 12 ans, le tarif adulte s’applique. Dans les trains longue distance, les enfants jusqu’à 15 ans bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 15 ans, le tarif adulte s’applique.
+{{< children-discount >}}
+
+**Trains régionaux :**
+
+| Âge                                      | Réduction                                      |
+| ---------------------------------------- | ---------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit[^3]                                    |
+| {{< icon "child_care" >}} 4–11 ans       | 50 % de remise sur le prix plein du billet[^3] |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal                                   |
+
+**Trains longue distance :**
+
+| Âge                                      | Réduction                                                                                          |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit[^3]                                                                                        |
+| {{< icon "child_care" >}} 4–14 ans       | 50 % ou 30 % de remise sur le prix de base (30 % pour les voitures-lits et couchettes confort)[^3] |
+| {{< icon "person" >}} à partir de 15 ans | Tarif normal                                                                                       |
 
 ## Conditions tarifaires spéciales
 
@@ -440,3 +456,5 @@ Pour les trajets longue distance, le Coupon FIP n’est rentable que dans une ce
 [^1]: [Classes Frecciarossa](https://www.trenitalia.com/de/frecce/frecciarossa-1000.html)
 
 [^2]: [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1473286775702290556)
+
+[^3]: [Trenitalia – Réduction enfants](https://www.trenitalia.com/en/offers/children-s-discount.html)

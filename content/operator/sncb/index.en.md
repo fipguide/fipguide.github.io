@@ -207,7 +207,17 @@ Starting 1 July 2026, SNCB will no longer sell any tickets on board their trains
 
 ## Discounts
 
-Up to four children under the age of 12 travel for free when accompanied by an adult (a person aged 12 or over in possession of a valid ticket) and do not need a ticket. If all children belong to the same household, more than four children may travel for free. A valid official document (identity card or passport) proving the child's age is required for the journey. If a child is travelling alone or the limit of four free children per adult is exceeded, a ticket must be purchased at the Youth rate, which is 40% less than the Standard rate. If the children are FIP eligible, they receive a 50% discount on the Standard rate with the FIP 50 / FIP 75 Ticket. [^3]
+{{< children-discount >}}
+
+| Age                                  | Discount         |
+| ------------------------------------ | ---------------- |
+| {{< icon "child_care" >}} 0–11 years | 40% discount[^3] |
+| {{< icon "child_hat" >}} 12–25 years | 40% discount[^9] |
+| {{< icon "person" >}} from 26 years  | Regular price    |
+
+### Children Travelling for Free
+
+Up to four children under the age of 12 travel for free when accompanied by an adult (a person aged 12 or over in possession of a valid ticket) and do not need a ticket. If all children belong to the same household, more than four children may travel for free. A valid official document (identity card or passport) proving the child's age is required for the journey. [^3]
 
 ## Special Tariff Conditions
 
@@ -250,3 +260,5 @@ This operator is part of AJC (Agreement on Journey Continuation). [More informat
 [^7]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470491831987998771)
 
 [^8]: [Arriva Three-Country Train](https://www.arriva.nl/over-je-reis/met-de-trein/de-drielandentrein/)
+
+[^9]: [SNCB Youth Policy](https://www.belgiantrain.be/en/products/youth)

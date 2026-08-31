@@ -165,8 +165,13 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 
 ## Ermäßigungen
 
-Kinder unter 5 Jahren reisen kostenlos. \
-Kinder unter 16 Jahren erhalten 50% Rabatt auf den Erwachsenen-Tarif.[^1]
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                                                                        |
+| ------------------------------------ | --------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–11 Jahre | Kostenlos für zwei Kinder in Begleitung eines Erwachsenen mit gültigem Ticket[^3] |
+| {{< icon "child_hat" >}} 12–15 Jahre | 50 % Ermäßigung[^3]                                                               |
+| {{< icon "person" >}} ab 16 Jahre    | Regulärer Preis[^3]                                                               |
 
 ## Tarifliche Besonderheiten
 
@@ -203,3 +208,5 @@ Die DSB bietet einen zuverlässigen und komfortablen Service. Die 1. Klasse lohn
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782261-denmark.html)
 
 [^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)
+
+[^3]: [DSB – Dänemark mit dem Zug erkunden](https://www.dsb.dk/en/explore-denmark-by-train/)

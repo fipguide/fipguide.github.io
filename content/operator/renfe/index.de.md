@@ -247,7 +247,17 @@ Tickets für internationale `AVE` Züge können bei Zustieg in Frankreich im Zug
 
 ## Ermäßigungen
 
-Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter 12 Jahren gilt eine Ermäßigung von 40 %. Ab 12 Jahren wird der volle Preis berechnet.
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                             |
+| ------------------------------------ | -------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos (ohne eigenen Sitzplatz)[^6] |
+| {{< icon "child_care" >}} 4–13 Jahre | 40 % Ermäßigung[^6]                    |
+| {{< icon "person" >}} ab 14 Jahre    | Regulärer Preis[^6]                    |
+
+### Begleitung von Kindern
+
+In `AVE` (Hochgeschwindigkeit), internationalen `AVE`-Zügen zwischen Spanien und Frankreich, Larga Distancia (Fernverkehr) und `Avant` (Mittelstrecken-Hochgeschwindigkeit) müssen Kinder unter 14 Jahren von einem Erwachsenen begleitet werden oder den Service für unbegleitete Minderjährige nutzen, sofern dieser im jeweiligen Zug angeboten wird.[^6]
 
 ## Tarifliche Besonderheiten
 
@@ -280,3 +290,5 @@ Die Renfe ist in vielen Fällen mehr mit einer Fluggesellschaft als mit anderen 
 [^3]: [Nutzerfeedback: Ticketkauf im Zug](https://github.com/fipguide/fipguide.github.io/issues/449)
 
 [^5]: [Renfe FIP-Preise (PKP, April 2026)](https://pkp.pl/images/fip/2026/Renfe%20dopaty%2001.04.2026.pdf)
+
+[^6]: [Renfe – Kinder](https://www.renfe.com/es/en/travel/prepare-your-trip/descuentos/ninos)

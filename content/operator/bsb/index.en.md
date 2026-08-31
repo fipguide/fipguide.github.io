@@ -73,7 +73,18 @@ FIP 50 Tickets can be purchased on the ferry.
 
 ## Discounts
 
-For public fares, children up to 6 years travel free of charge, children between 6 and 16 years receive a 50% discount on the adult fare. From 16 years, the regular adult fare applies.[^1]
+{{< children-discount >}}
+
+| Age                                 | Discount           |
+| ----------------------------------- | ------------------ |
+| {{< icon "child_care" >}} 0–5 years | Free of charge[^1] |
+| {{< icon "person" >}} from 6 years  | Regular price[^1]  |
+
+### Lake Constance Children's Card
+
+The _Lake Constance Children's Card_ (Bodensee-Kinderkarte) costs €10 per day and allows all children of a family between 6 and 15 years of age to travel, provided at least one parent holds a regular ticket and accompanies the journey. See the BSB website: [Lake Constance Children's Card](https://www.bsb.de/en/timetable/prices/interesting-offers).
+
+### Free Travel for Birthday Children
 
 All birthday children travel free of charge on their birthday in regular service upon presentation of their original ID card.
 The birthday ticket must be obtained at the sales points before departure.[^2]
@@ -97,6 +108,6 @@ FIP Card Holders receive a 50% discount on the zellerSEEticket (zSEEt). No other
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782279-lake-constance-ferries.html)
 
-[^2]: [Bodensee-Schiffsbetriebe](https://www.bsb.de/de/fahrplan/preise)
+[^2]: [Bodensee-Schiffsbetriebe – Offers](https://www.bsb.de/de/fahrplan/preise/interessante-preisangebote)
 
 [^3]: [Bodensee-Personentarif (BP)](https://schiffe-am-bodensee.ch/images/befoerderungsbedingungen/Bodensee_Personentarif_2022_website.pdf)

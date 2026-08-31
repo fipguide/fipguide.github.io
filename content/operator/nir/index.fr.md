@@ -82,7 +82,21 @@ Les Billets FIP 50 / FIP 75 doivent être achetés avant le départ. Sur le serv
 
 ## Réductions
 
-Les enfants jusqu’à 5 ans voyagent gratuitement. Les jeunes jusqu’à 16 ans bénéficient d’une réduction de 50 % sur le tarif adulte. Les personnes de 16 ans et plus paient le plein tarif FIP adulte.[^1]
+{{< children-discount >}}
+
+| Âge                                      | Réduction             |
+| ---------------------------------------- | --------------------- |
+| {{< icon "stroller" >}} 0–4 ans          | Gratuit[^1]           |
+| {{< icon "child_care" >}} 5–15 ans       | Réduction de 50 %[^1] |
+| {{< icon "person" >}} à partir de 16 ans | Tarif normal[^1]      |
+
+### Family & Friends Ticket
+
+Translink propose un billet Family & Friends à 24 £, valable pour une journée illimitée sur tous les services Translink en Irlande du Nord, ou à 10 £ pour le Metro and Glider Family Day Ticket. Le billet est valable pour jusqu’à 2 adultes et 4 enfants (minimum 1 adulte et 1 enfant). Les enfants supplémentaires de moins de 16 ans sont facturés 4,00 £. Les billets sont disponibles auprès du conducteur le jour du voyage, dans les principales gares et arrêts de bus, ou aux distributeurs de billets aux haltes.[^2]
+
+### yLink
+
+yLink est une carte à puce destinée aux personnes âgées de 16 à 23 ans utilisant les services Translink en Irlande du Nord. La première carte est gratuite et donne droit à une réduction de 50 % sur le tarif adulte plein tarif standard pour les billets simples NIR, ainsi qu’à une réduction allant jusqu’à 50 % sur les billets simples Enterprise. Aucune réduction supplémentaire n’est accordée sur les tarifs promotionnels de Translink.[^3]
 
 ## Conditions tarifaires spéciales
 
@@ -99,3 +113,7 @@ Sur son réseau plutôt compact, la NIR propose un service cadencé fiable avec 
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782285-northern-ireland.html)
+
+[^2]: [Translink – Family & Friends Tickets](https://www.translink.co.uk/tickets/offers/family-friends-tickets)
+
+[^3]: [Translink – yLink](https://www.translink.co.uk/tickets/travelcards/ylink)

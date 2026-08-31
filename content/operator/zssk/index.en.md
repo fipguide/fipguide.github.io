@@ -197,17 +197,29 @@ If no ticket counter is available or open, a ticket (or reservation in Ex) can b
 
 ## Discounts
 
-Children up to 6 years travel free on ZSSK trains when accompanied by a person aged at least 16 years. In 1st class, this is limited to 2 children; from the 3rd child, 50% of the ticket price is due. In `EC` trains, an additional 1€ per child is charged in 1st class from the 3rd child. In `SC` trains, € 1 per child is always charged in 2nd class and € 3 in 1st class. In `IC` trains, a reservation including a surcharge for the train category must be purchased for each child.[^1]
+{{< children-discount >}}
 
-### Free 6-16 years (without FIP)
+| Age                                  | Discount          |
+| ------------------------------------ | ----------------- |
+| {{< icon "child_care" >}} 0–5 years  | Free[^3]          |
+| {{< icon "child_care" >}} 6–15 years | 50% discount[^3]  |
+| {{< icon "person" >}} from 16 years  | Regular price[^3] |
+
+### Surcharges for Children
+
+Additional surcharges apply to children on top of the ticket price:
+
+On `EC` trains: surcharge of €1 per child (except children up to 6 years, who travel free of charge) \
+On `SC` trains: €1 (2nd class) / €3 (1st class) \
+On `IC` trains: surcharge with mandatory reservation[^1]
+
+### Free 6-16 years
 
 To obtain free travel for children aged 6–16, a photo (2x3cm) and proof of identity (or birth certificate plus parent's ID) must be presented at the ticket office for registration. Processing takes up to three working days, after which an attestation is issued and must be shown on board. The free ticket (€ 0) should then be reserved on the ZSSK website by selecting "beneficiary of the 100% discount".
 
-On `EC` trains: surcharge of € 1 per child \
-On `SC` trains: € 1 (2nd class) / € 3 (1st class) \
-On `IC` trains: surcharge with mandatory reservation
+Additional surcharges apply, see [Surcharges for Children](#surcharges-for-children).
 
-### Free travel for students and seniors (without FIP)
+### Free travel for students and seniors
 
 Students under 26 years old and seniors aged 62 and over from the EU, as well as international students in Slovakia, can also travel for free. For students, registration at a ZSSK counter is required at least 3 days before the first trip. A registration form must be completed and signed by the school/university. More details can be found on the [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/) page.
 
@@ -226,3 +238,5 @@ On rail replacement buses, FIP discounts apply when they replace a train on whic
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782291-slovakia.html)
 
 [^2]: [ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)
+
+[^3]: [ZSSK – Children and Students](https://www.zssk.sk/en/children-and-students/)

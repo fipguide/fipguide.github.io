@@ -85,7 +85,13 @@ FIP 50 Fahrkarten können auch direkt im Zug erworben werden. Dafür muss direkt
 
 ## Ermäßigungen
 
-Für reguläre Fahrkarten reisen Kinder unter 4 Jahren kostenlos. Kinder unter 26 Jahren erhalten 20% Ermäßigung auf den Erwachsenentarif. Personen ab 26 Jahren zahlen den vollen Erwachsenentarif.[^1]
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                                 |
+| ------------------------------------ | ------------------------------------------ |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos[^1]                              |
+| {{< icon "child_care" >}} 4–25 Jahre | 20% Ermäßigung auf den regulären Preis[^1] |
+| {{< icon "person" >}} ab 26 Jahre    | Regulärer Preis[^1]                        |
 
 ## Tarifliche Besonderheiten
 

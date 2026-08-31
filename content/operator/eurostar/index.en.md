@@ -187,9 +187,15 @@ Tickets must be purchased before boarding the train. Ticket sales onboard are no
 
 ## Discounts
 
-Children under 4 travel free of charge without a ticket but must sit on an adult's lap. A separate ticket can be purchased if a separate seat is desired. Children aged 4 and over pay the full FIP adult fare.[^1]
+{{< children-discount >}}
 
-There are no further FIP discounts for children, however, public fares offer a 30 to 50% discount, making a comparison worthwhile.[^2]
+| Age                                  | Discount                                                |
+| ------------------------------------ | ------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–4 years    | Free (without own seat, must sit on an adult's lap)[^1] |
+| {{< icon "child_care" >}} 4–11 years | 30–50% discount[^2]                                     |
+| {{< icon "person" >}} from 12 years  | Regular price[^2]                                       |
+
+### Accompaniment of Minors
 
 Children under 12 must be accompanied by an adult. Children aged 12–15 can travel with a responsible person aged 16 or over, or as an unaccompanied minor with the correct paperwork.[^2]
 

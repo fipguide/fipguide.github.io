@@ -299,7 +299,15 @@ Tickets can be purchased on board if you immediately contact the conductor. Howe
 
 ## Discounts
 
-Children under 6 travel free of charge. From the age of 6, when traveling with a FIP Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
+{{< children-discount >}}
+
+| Age                                  | Discount           |
+| ------------------------------------ | ------------------ |
+| {{< icon "stroller" >}} 0–5 years    | Free of charge[^2] |
+| {{< icon "child_care" >}} 6–14 years | 50% discount[^2]   |
+| {{< icon "person" >}} from 15 years  | Regular price[^2]  |
+
+From the age of 6, when traveling with a FIP Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
 
 {{% highlight tip %}}
 With children, the ÖBB Vorteilscard Family for € 21 is quickly worthwhile. \
@@ -369,3 +377,5 @@ On rail replacement buses, FIP discounts apply when they replace a train on whic
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
+
+[^2]: [ÖBB – Travelling with children](https://www.oebb.at/en/reiseplanung-services/vor-ihrer-reise/mit-kindern-unterwegs)

@@ -207,7 +207,17 @@ Ab dem 1. Juli 2026 werden bei der SNCB keine Tickets mehr im Zug verkauft. Das 
 
 ## Ermäßigungen
 
-Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Person ab 12 Jahren mit gültigem Ticket) kostenlos und benötigen kein Ticket. Gehören alle Kinder demselben Haushalt an, dürfen auch mehr als vier Kinder kostenlos mitreisen. Für die Reise ist ein gültiges amtliches Dokument (Personalausweis oder Reisepass) erforderlich, das das Alter des Kindes nachweist. Reist ein Kind alleine oder wird die Grenze von vier kostenlosen Kindern pro Erwachsenem überschritten, muss ein Ticket zum Youth-Tarif erworben werden, der 40% günstiger als der Standardtarif ist. Sind die Kinder FIP-berechtigt, erhalten sie mit dem FIP 50 / FIP 75 Ticket eine Ermäßigung von 50% auf den Standardtarif. [^3]
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung         |
+| ------------------------------------ | ------------------ |
+| {{< icon "child_care" >}} 0–11 Jahre | 40% Ermäßigung[^3] |
+| {{< icon "child_hat" >}} 12–25 Jahre | 40% Ermäßigung[^9] |
+| {{< icon "person" >}} ab 26 Jahre    | Regulärer Preis    |
+
+### Kostenlos mitreisende Kinder
+
+Bis zu vier Kinder unter 12 Jahren reisen in Begleitung eines Erwachsenen (Person ab 12 Jahren mit gültigem Ticket) kostenlos und benötigen kein Ticket. Gehören alle Kinder demselben Haushalt an, dürfen auch mehr als vier Kinder kostenlos mitreisen. Für die Reise ist ein gültiges amtliches Dokument (Personalausweis oder Reisepass) erforderlich, das das Alter des Kindes nachweist. [^3]
 
 ## Tarifliche Besonderheiten
 
@@ -250,3 +260,5 @@ Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere 
 [^7]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470491831987998771)
 
 [^8]: [Arriva Dreiländerzug](https://www.arriva.nl/over-je-reis/met-de-trein/de-drielandentrein/)
+
+[^9]: [SNCB Jugendregelung](https://www.belgiantrain.be/de/products/youth)

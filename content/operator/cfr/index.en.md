@@ -175,7 +175,17 @@ FIP-discounted tickets cannot be purchased on the train. Reservations must also 
 
 ## Discounts
 
-For regular tickets, children under 5 travel free of charge. Children under 10 receive a 50% discount on the adult fare. Older children pay the full adult fare.[^1]
+{{< children-discount >}}
+
+| Age                                 | Discount                                                                     |
+| ----------------------------------- | ---------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–4 years   | Free of charge, if not occupying a separate seat, otherwise 50% discount[^2] |
+| {{< icon "child_care" >}} 5–9 years | 50% discount[^2]                                                             |
+| {{< icon "person" >}} from 10 years | Regular price[^2]                                                            |
+
+On trains with a reservation requirement, the full reservation fare must be paid regardless of the discount.[^2]
+
+On board berth and sleeping coaches, if 2 children share one bed, only a single bed supplement is paid. If a child does not require a separate bed, no bed supplement is due (one accompanied child per bed is allowed).[^2]
 
 {{% highlight tip %}}
 **Balkan Flexipass**
@@ -210,3 +220,5 @@ CFR Călători provides a solid basic service on Romania's largely ageing rail n
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782289-romania.html)
+
+[^2]: [CFR Călători – Children](https://www.cfrcalatori.ro/en/journey-facilities-children/)

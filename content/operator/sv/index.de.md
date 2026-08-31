@@ -162,7 +162,13 @@ Aktuell ist jedoch ein Shuttle Bus zwischen Novi Sad und Petrovaradin kostenlos 
 
 ## Ermäßigungen
 
-Im Inlandsverkehr sowie Fernverkehr nach Montenegro reisen Kinder bis einschließlich sechs Jahre kostenlos, sofern sie keinen eigenen Sitzplatz benötigen und von einem Erwachsenen mit gültiger Fahrkarte begleitet werden. Kinder zwischen sechs und 14 Jahren sowie jüngere Kinder, für die ein eigener Sitzplatz erforderlich ist, erhalten 50 % Ermäßigung auf den regulären Fahrpreis für Erwachsene.[^7]
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                                                                                     |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–5 Jahre  | Kostenlos (ohne eigenen Sitzplatz, in Begleitung eines Erwachsenen mit gültiger Fahrkarte)[^7] |
+| {{< icon "child_care" >}} 6–14 Jahre | 50% Ermäßigung[^7]                                                                             |
+| {{< icon "person" >}} ab 15 Jahre    | Regulärer Preis[^7]                                                                            |
 
 {{% highlight tip %}}
 Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:

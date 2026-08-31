@@ -187,9 +187,15 @@ Tickets müssen vor dem Betreten des Zuges gekauft werden. Ein Verkauf von Ticke
 
 ## Ermäßigungen
 
-Kinder unter 4 Jahren reisen kostenfrei ohne Ticket, müssen aber auf dem Schoß eines Erwachsenen sitzen. Ein eigenes Ticket kann erworben werden, wenn ein eigener Sitzplatz gewünscht ist. Kinder ab 4 Jahren zahlen den vollen FIP-Erwachsenenpreis.[^1]
+{{< children-discount >}}
 
-Mit FIP gibt keine weiteren Ermäßigungen für Kinder, bei öffentlichen Tarifen wird jedoch ein Rabatt von 30 bis 50 % angeboten, sodass ein Vergleich sinnvoll ist.[^2]
+| Alter                                | Ermäßigung                                                              |
+| ------------------------------------ | ----------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–4 Jahre    | Kostenlos (ohne eigenen Sitzplatz, auf dem Schoß eines Erwachsenen)[^1] |
+| {{< icon "child_care" >}} 4–11 Jahre | 30–50 % Ermäßigung[^2]                                                  |
+| {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis[^2]                                                     |
+
+### Begleitung Minderjähriger
 
 Kinder unter 12 Jahren müssen von einem Erwachsenen begleitet werden. Kinder zwischen 12 und 15 Jahren können mit einer Begleitperson ab 16 Jahren reisen oder mit den entsprechenden Dokumenten als unbegleitete Minderjährige reisen.[^2]
 

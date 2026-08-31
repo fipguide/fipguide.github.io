@@ -136,7 +136,25 @@ Les suppléments pour passer de la 2e classe à la Premier Class peuvent être a
 
 ## Réductions
 
-Les enfants jusqu’à 5 ans voyagent gratuitement. Les jeunes jusqu’à 16 ans bénéficient d’une réduction de 50 % sur le tarif adulte. Les personnes de 16 ans et plus paient le plein tarif FIP adulte.[^2]
+{{< children-discount >}}
+
+| Âge                                      | Réduction                             |
+| ---------------------------------------- | ------------------------------------- |
+| {{< icon "stroller" >}} 0–4 ans          | Gratuit, en compagnie d’un adulte[^3] |
+| {{< icon "child_hat" >}} 5–18 ans        | Child Ticket[^4]                      |
+| {{< icon "person" >}} à partir de 19 ans | Tarif normal[^4]                      |
+
+### Enfants jusqu’à 4 ans dans les trains à réservation obligatoire
+
+Dans les trains à réservation obligatoire, une place peut être réservée pour un enfant jusqu’à 4 ans inclus en sélectionnant l’option « Reservation only » dans le planificateur de trajet.[^3]
+
+### Young Adult/Student Ticket
+
+Les personnes de 19 à 25 ans peuvent utiliser un billet Young Adult/Student si elles sont titulaires d’une [TFI Young Adult (19-25 years) Leap Card](https://about.leapcard.ie/young-adult-and-student-card-launch).[^4]
+
+{{% highlight tip %}}
+En général, il convient de comparer si le tarif adulte FIP ou un « Child Ticket » / « Young Adult/Student Ticket » est plus avantageux.
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 
@@ -149,3 +167,7 @@ Les interruptions de voyage sont autorisées avec les billets FIP, mais doivent 
 [^1]: [Irish Rail First Class Travel](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel)
 
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782276-ireland.html)
+
+[^3]: [Irish Rail – Âge des billets enfant](https://www.irishrail.ie/en-ie/faqs/what-are-the-age-requirements-for-child-tickets)
+
+[^4]: [Irish Rail – Explication des billets](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/tickets-explained)

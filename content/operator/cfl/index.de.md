@@ -136,8 +136,20 @@ Tickets für die Fahrt in der ersten Klasse bzw. Upgrades von der zweiten in die
 
 ## Ermäßigungen
 
-Bei öffentlichen Fahrpreisen reisen Kinder bis 6 Jahre kostenlos, Kinder zwischen 6 und 12 Jahren erhalten eine Ermäßigung von 50 % auf den Erwachsenenpreis. Ab 12 Jahren gilt der reguläre Erwachsenenfahrpreis.[^1]
-In der zweiten Klasse ist die Fahrt generell kostenfrei möglich, daher ist dies nur für die erste Klasse relevant.
+{{< children-discount >}}
+
+In der zweiten Klasse ist die Fahrt generell kostenfrei möglich.
+
+Für die 1. Klasse gelten folgende Ermäßigungen für Kinder:
+
+| Alter                                | Ermäßigung                                                                                           |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–11 Jahre | Kostenlos (in Begleitung einer Person mit gültigem 1. Klasse Ticket, auf zwei Kinder beschränkt)[^3] |
+| {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis[^3]                                                                                  |
+
+### Begleitung Von Kleinkindern
+
+Kinder, die das 4. Lebensjahr noch nicht erreicht haben, müssen von einer Person begleitet werden, die mindestens 12 Jahre alt ist.[^3]
 
 ### Tarifliche Besonderheiten
 
@@ -160,3 +172,5 @@ Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782281-luxembourg.html)
 
 [^2]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470057862993543220)
+
+[^3]: [CFL – Kinder und Jugendliche](https://www.cfl.lu/de-de/customerservices/detail/enfants-et-jeunes)

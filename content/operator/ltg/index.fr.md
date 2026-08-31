@@ -71,7 +71,17 @@ Les distributeurs de billets installés dans de nombreuses gares ne délivrent p
 
 ## Réductions
 
-Avec des billets ordinaires, jusqu’à 2 enfants jusqu’à 7 ans inclus voyagent gratuitement en 2e classe, mais doivent alors être assis sur les genoux des parents. Si les enfants de moins de 7 ans souhaitent une place assise, ils paient 50 % du tarif adulte. Les enfants jusqu’à 18 ans (ou jusqu’à 23 ans s’ils sont élèves) bénéficient de 50 % de réduction sur le tarif adulte. Les personnes de plus de 18 ans paient le plein tarif adulte, mais de nombreuses autres réductions existent. Un aperçu est disponible sur le [site de LTG-Link](https://ltglink.lt/en/discount-for-children-and-pupils).
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                                                                                                           |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–7 ans        | Gratuit, 2ᵉ classe, sur les genoux des parents (max. 2 enfants sans place assise) ; sinon réduction de 50 % sur le tarif normal[^4] |
+| {{< icon "child_care" >}} 8–17 ans       | Réduction de 50 % sur le tarif normal[^4]                                                                                           |
+| {{< icon "person" >}} à partir de 18 ans | Tarif normal[^4]                                                                                                                    |
+
+### Autres réductions
+
+Les personnes de plus de 18 ans paient le plein tarif normal, mais de nombreuses autres réductions existent. Un aperçu est disponible sur le [site de LTG-Link](https://ltglink.lt/en/discount-for-children-and-pupils).
 
 ## Conditions tarifaires spéciales
 
@@ -98,3 +108,5 @@ Le transport de vélos est possible dans tous les trains. Dans les trains avec r
 [^2]: [LTG-Link Mail Feedback Verpflichtende Reservierung](https://github.com/fipguide/fipguide.github.io/issues/553)
 
 [^3]: [Feedback: LTG Link Sea Side Express](https://github.com/fipguide/fipguide.github.io/issues/817)
+
+[^4]: [LTG-Link – Réduction pour les enfants et les élèves](https://ltglink.lt/en/discount-for-children-and-pupils)

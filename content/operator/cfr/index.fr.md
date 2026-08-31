@@ -175,7 +175,17 @@ Il n’est pas possible d’acheter des billets à tarif réduit FIP à bord du 
 
 ## Réductions
 
-Pour les billets réguliers, les enfants de moins de 5 ans voyagent gratuitement. Les enfants de moins de 10 ans bénéficient d’une réduction de 50 % sur le tarif adulte. Les enfants plus âgés paient le plein tarif adulte.[^1]
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                                                         |
+| ---------------------------------------- | --------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–4 ans          | Gratuit, à condition de n’occuper aucun siège séparé, sinon réduction de 50 %[^2] |
+| {{< icon "child_care" >}} 5–9 ans        | Réduction de 50 %[^2]                                                             |
+| {{< icon "person" >}} à partir de 10 ans | Tarif normal[^2]                                                                  |
+
+Dans les trains à réservation obligatoire, le tarif complet de la réservation doit être payé, indépendamment de la réduction.[^2]
+
+Dans les voitures-couchettes et voitures-lits, si 2 enfants partagent un même lit, seul un supplément de lit simple est facturé. Si un enfant n’a pas besoin d’un lit séparé, aucun supplément de lit n’est dû (un enfant accompagné par lit est autorisé).[^2]
 
 {{% highlight tip %}}
 **Balkan Flexipass**
@@ -210,3 +220,5 @@ CFR Călători assure une offre de base solide sur le réseau ferroviaire roumai
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782289-romania.html)
+
+[^2]: [CFR Călători – Enfants](https://www.cfrcalatori.ro/en/journey-facilities-children/)

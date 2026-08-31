@@ -207,7 +207,15 @@ Only cash in euros can be used on board.
 
 ## Discounts
 
-Children up to and including 5 years of age travel free of charge. From age 6, the regular FIP adult fare applies.[^1]
+{{< children-discount >}}
+
+| Age                                  | Discount                                               |
+| ------------------------------------ | ------------------------------------------------------ |
+| {{< icon "stroller" >}} 0–5 years    | Free of charge, provided they do not occupy a seat[^3] |
+| {{< icon "child_care" >}} 6–15 years | 50% discount[^3]                                       |
+| {{< icon "person" >}} from 16 years  | Regular price[^3]                                      |
+
+Children under 6 years of age can travel free of charge provided they do not occupy a seat required by a fare-paying passenger. A train ticket is still needed regardless, even if a child travels free, and can be obtained over the counter at a station ticket office. Up to two children may travel free of charge with one adult.
 
 ## Special Tariff Conditions
 
@@ -232,3 +240,5 @@ There is no true clock-face timetable. Good planning is therefore important. Whi
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782292-slovenia.html)
 
 [^2]: [SŽ supplement information](https://potniski.sz.si/en/tickets/supplements-to-the-ticket-price/)
+
+[^3]: [SŽ – Children](https://potniski.sz.si/en/tickets/discounts/children/)

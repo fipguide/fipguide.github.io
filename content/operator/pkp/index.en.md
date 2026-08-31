@@ -303,6 +303,14 @@ No fee is charged for issuing a ticket on the train for the following passengers
 
 ## Discounts
 
+{{< children-discount >}}
+
+| Age                                  | Discount           |
+| ------------------------------------ | ------------------ |
+| {{< icon "stroller" >}} 0–3 years    | Free of charge[^1] |
+| {{< icon "child_care" >}} 4–11 years | 50% discount[^1]   |
+| {{< icon "person" >}} from 12 years  | Regular price[^1]  |
+
 {{% highlight tip %}}
 Regardless of FIP, Polregio offers an affordable weekend ticket, available either as "MINI BILET TURYSTYCZNY" for "Regio" trains of Polregio only, or as "BILET TURYSTYCZNY" which is also valid on all trains of KW, KMŁ, Arriva RP and ŁKA (except ŁKA Sprinter). It allows travel from Friday 18:00 to Monday 06:00 on the corresponding trains. More information on the [Polregio website](https://bilety.polregio.pl/en/sieciowe/47).
 {{% /highlight %}}

@@ -152,15 +152,25 @@ Tickets mit FIP Ermäßigung können nicht im Zug erworben werden. [^1]
 
 ## Ermäßigungen
 
+{{< children-discount >}}
+
 Die Ermäßigungen unterscheiden sich je nach Land, in dem man mit GySEV unterwegs ist.
 
 ### Ungarn
 
-Bei öffentlichen Tarifen fahren Kinder bis 6 Jahren kostenlos. Kinder bis 14 Jahre können 50% Ermäßigung auf den Erwachsenenfahrpreis erhalten. Personen ab 14 Jahre zahlen den Erwachsenenpreis.
+| Alter                                | Ermäßigung                             |
+| ------------------------------------ | -------------------------------------- |
+| {{< icon "stroller" >}} 0–5 Jahre    | Kostenlos[^3]                          |
+| {{< icon "child_care" >}} 6–13 Jahre | 50% Ermäßigung auf regulären Preis[^3] |
+| {{< icon "person" >}} ab 14 Jahre    | Regulärer Preis[^3]                    |
 
 ### Österreich
 
-Bei öffentlichen Tarifen fahren Kinder bis 6 Jahren kostenlos. Kinder bis 15 Jahre können 50% Ermäßigung auf den Erwachsenenfahrpreis erhalten. Personen ab 15 Jahre zahlen den Erwachsenenpreis.
+| Alter                                | Ermäßigung                             |
+| ------------------------------------ | -------------------------------------- |
+| {{< icon "stroller" >}} 0–5 Jahre    | Kostenlos[^3]                          |
+| {{< icon "child_care" >}} 6–14 Jahre | 50% Ermäßigung auf regulären Preis[^3] |
+| {{< icon "person" >}} ab 15 Jahre    | Regulärer Preis[^3]                    |
 
 ## Tarifliche Besonderheiten
 
@@ -181,3 +191,5 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
 
 [^2]: [GySEV Support Neusiedel am See - Pamhagen](https://github.com/fipguide/fipguide.github.io/issues/278)
+
+[^3]: [GySEV – Internationale Reisen](https://www2.gysev.hu/en/travel-offers/international-travel)

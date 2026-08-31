@@ -247,7 +247,17 @@ Les billets pour les trains `AVE` internationaux peuvent être achetés à bord 
 
 ## Réductions
 
-Les enfants de moins de 4 ans voyagent gratuitement sans siège propre. Pour les enfants de moins de 12 ans, une réduction de 40 % s’applique. À partir de 12 ans, le plein tarif est facturé.
+{{< children-discount >}}
+
+| Âge                                      | Réduction                       |
+| ---------------------------------------- | ------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit (sans siège propre)[^6] |
+| {{< icon "child_care" >}} 4–13 ans       | 40 % de réduction[^6]           |
+| {{< icon "person" >}} à partir de 14 ans | Tarif normal[^6]                |
+
+### Accompagnement des enfants
+
+Dans les trains `AVE` (grande vitesse), les `AVE` internationaux entre l’Espagne et la France, les trains Larga Distancia (grandes lignes) et `Avant` (grande vitesse moyenne distance), les enfants de moins de 14 ans doivent être accompagnés d’un adulte ou utiliser le service pour mineurs non accompagnés, lorsque celui-ci est proposé sur le train.[^6]
 
 ## Conditions tarifaires spéciales
 
@@ -280,3 +290,5 @@ Renfe fonctionne souvent comme une compagnie aérienne : contrôle des bagages, 
 [^3]: [Retour utilisateur : achat de billets à bord](https://github.com/fipguide/fipguide.github.io/issues/449)
 
 [^5]: [Tarifs FIP Renfe (PKP, avril 2026)](https://pkp.pl/images/fip/2026/Renfe%20dopaty%2001.04.2026.pdf)
+
+[^6]: [Renfe – Enfants](https://www.renfe.com/es/en/travel/prepare-your-trip/descuentos/ninos)

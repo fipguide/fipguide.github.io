@@ -175,7 +175,17 @@ Es können keine FIP-ermäßigte Tickets im Zug gekauft werden. Auch Reservierun
 
 ## Ermäßigungen
 
-Für reguläre Fahrkarten reisen Kinder unter 5 Jahren kostenlos. Kinder unter 10 Jahren erhalten eine Ermäßigung von 50% auf den Erwachsenentarif. Ältere Kinder zahlen den vollen Erwachsenentarif.[^1]
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung                                                                            |
+| ----------------------------------- | ------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–4 Jahre   | Kostenlos, sofern kein eigener Sitzplatz belegt wird, andernfalls 50 % Ermäßigung[^2] |
+| {{< icon "child_care" >}} 5–9 Jahre | 50 % Ermäßigung[^2]                                                                   |
+| {{< icon "person" >}} ab 10 Jahre   | Regulärer Preis[^2]                                                                   |
+
+In Zügen mit Reservierungspflicht muss die Reservierung unabhängig von der Ermäßigung in voller Höhe bezahlt werden.[^2]
+
+In Liege- und Schlafwagen wird bei 2 Kindern, die sich ein Bett teilen, nur ein einfacher Bettzuschlag berechnet. Benötigt ein Kind kein eigenes Bett, entfällt der Bettzuschlag (ein begleitetes Kind pro Bett ist erlaubt).[^2]
 
 {{% highlight tip %}}
 Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
@@ -207,3 +217,5 @@ Die CFR Călători stellt auf dem größtenteils in die Jahre gekommenen Schiene
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782289-romania.html)
+
+[^2]: [CFR Călători – Kinder](https://www.cfrcalatori.ro/en/journey-facilities-children/)

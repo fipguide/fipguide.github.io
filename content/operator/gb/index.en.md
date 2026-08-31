@@ -537,6 +537,28 @@ Through the _[Seatfrog](https://seatfrog.com/)_ app, upgrades to First Class can
 
 FIP-discounted tickets are not issued on trains, except in certain rural areas where tickets are generally only issued on trains (_Pay-Trains_).
 
+## Discounts
+
+National Rail differs from other operators in that the FIP 50 / FIP 75 can also be applied to child fares. This means the 50% discount for children can be combined with the 50% or 75% FIP Discount for regular tickets.
+
+The valid prices for children's tickets with FIP can also be checked on BRFares, see [Ticket and Reservation Purchase](#ticket-and-reservation-purchase).
+
+The following table shows only the discounts for children; the FIP Discount is not yet included there.
+
+| Age                                  | Discount           |
+| ------------------------------------ | ------------------ |
+| {{< icon "stroller" >}} 0–4 years    | Free of charge[^8] |
+| {{< icon "child_care" >}} 5–15 years | 50% discount[^8]   |
+| {{< icon "person" >}} from 16 years  | Regular price[^8]  |
+
+### 16-17 Saver
+
+The _16-17 Saver_ gives a 50% discount on Standard Anytime, Standard Off-Peak, Standard Advance and Season tickets for 16 or 17 year olds, valid for travel at any time of day.[^10]
+
+### Family & Friends Railcard
+
+With the Family & Friends Railcard, up to 4 adults and 4 children can travel together on one card, and they do not have to be related. Adults save 1/3 and children's tickets cost 60% less. The Railcard costs £35 for 1 year or £80 for 3 years.[^9]
+
 ## Special Tariff Conditions
 
 ### Ticket Barriers
@@ -729,3 +751,9 @@ Great Britain can also be explored by night trains:
 [^6]: [Greater Anglia - First Class](https://www.greateranglia.co.uk/first-class)
 
 [^7]: [Rail Delivery Group: Lumo West Coast services](https://www.raildeliverygroup.com/rst/stop-press/469782907-lumo-west-coast-services-reciprocal-travel-agreement.html)
+
+[^8]: [National Rail – Train Travel with Children](https://www.nationalrail.co.uk/on-the-train/train-travel-with-children/)
+
+[^9]: [Family & Friends Railcard](https://www.familyandfriends-railcard.co.uk/)
+
+[^10]: [National Rail – 16-17 Saver](https://www.nationalrail.co.uk/tickets-railcards-and-offers/ticket-types/promotions/16-17-saver/)
