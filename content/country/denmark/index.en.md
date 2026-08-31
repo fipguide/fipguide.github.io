@@ -4,7 +4,6 @@ title: Denmark
 country: denmark
 params:
   operators_without_fip:
-    - GoCollective (formerly Arriva Danmark)
     - Lokaltog
     - Øresundståg
     - Midtjyske Jernbaner
