@@ -16,6 +16,14 @@ booking:
   send-mail: Envoyer un e-mail
   visit-additional-information-website: Informations complémentaires
   visit-booking-website: Aller sur le site de réservation
+borderPointsMap:
+  consent:
+    accept: Charger la carte
+    text: >-
+      Cette carte est chargée depuis OpenRailwayMap et OpenStreetMap. Son
+      chargement envoie votre adresse IP à leurs serveurs.
+    title: Charger la carte des points frontières
+  optOut: Désactiver la carte
 contact:
   accessibility:
     label: 'Retour sur le site Web : Accessibilité'
