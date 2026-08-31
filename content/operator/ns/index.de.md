@@ -56,7 +56,6 @@ Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in
 #### Reservierungen
 
 Bei grenzüberschreitenden Reisen zur Hochsaison ist eine Reservierung erforderlich.
-Im Jahr 2026 ist dies vom 26.06. bis 16.08. der Fall.
 
 {{% /train-category %}}
 

@@ -46,7 +46,7 @@ Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übern
 
 #### Reservierungen
 
-Bei grenzüberschreitenden Fahrten ist eine Reservierung vom 26.06. bis 16.08.2026 verpflichtend.
+Bei grenzüberschreitenden Reisen zur Hochsaison ist eine Reservierung erforderlich.
 
 {{% /train-category %}}
 
