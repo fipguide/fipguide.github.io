@@ -6,6 +6,29 @@ params:
   fip_50: true
   reservations: false
   type: email
+  email_templates:
+    fip_50:
+      to: "helpdesk@attica-group.com"
+      subject: "FIP 50 Ticket booking request"
+      body: |-
+        Hello,
+
+        I would like to book a FIP 50 Ticket. I attach the completed FIP reservation form to this email.
+
+        Number of passengers: [Anzahl Reisende]
+        Passengers:
+          Passenger 1:
+            Name: [Name (wie im Reisepass)]
+          Passenger 2:
+            Name: [Name (wie im Reisepass)]
+          [... Reisende bei Bedarf hinzufügen oder entfernen]
+
+        [Reservierungsformular als Anhang beifügen]
+
+        Thank you in advance.
+        Kind regards,
+
+        [Dein Name]
 ---
 
 FIP 50 Tickets können per E-Mail bestellt werden.

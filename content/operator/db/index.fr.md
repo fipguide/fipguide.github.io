@@ -47,13 +47,8 @@ L’`ICE` est un train à grande vitesse et la catégorie la plus élevée de la
 #### Réservations
 
 Réservation obligatoire pour les trajets transfrontaliers vers la France.
-Obligation de réservation temporaire pour les trajets transfrontaliers:
 
-- vers/depuis le Danemark: 26.06 – 16.08.2026
-- vers/depuis la Belgique: 26.06 – 16.08.2026
-- vers/depuis les Pays-Bas: 26.06 – 31.08.2026
-
-Par le passé, une obligation de réservation existait en été pour les trajets transfrontaliers vers l’Autriche. Cela peut changer chaque année. L’obligation de réservation est indiquée dans la [recherche d’itinéraire de la DB](https://www.bahn.de).
+Par le passé, une obligation de réservation existait en été pour les trajets transfrontaliers vers l’Autriche, la Belgique et les Pays-Bas. Cela peut changer chaque année. L’obligation de réservation est indiquée dans la [recherche d’itinéraire de la DB](https://www.bahn.de).
 
 {{% /train-category %}}
 
@@ -264,6 +259,19 @@ Train express local entre Berlin Hauptbahnhof et l’aéroport Willy Brandt (BER
 {{% /train-category %}}
 
 {{% train-category
+    id="hbx"
+    title="Harz-Berlin-Express (HBX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Train d’excursion le week-end entre Berlin et Thale ou Goslar dans le Harz.
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"
@@ -277,6 +285,8 @@ Les réductions FIP ne sont pas valables dans les bus. Dans les bus de remplacem
 {{% /train-category %}}
 
 ## Achat de billets et réservations
+
+Les Billets FIP 50 sont considérés comme _Flexpreis_ et peuvent donc être annulés gratuitement jusqu’avant le 1er jour de validité du billet. Ensuite, des frais s’appliquent. Les réservations ne peuvent être annulées que de manière limitée peu après l’achat. Plus d’informations sur l’annulation sur le [site de la Deutsche Bahn](https://int.bahn.de/fr/informations-reservation/echange-remboursement).
 
 ### En ligne
 

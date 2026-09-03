@@ -1,0 +1,38 @@
+{
+	"name": "FIP Guide",
+	"image": "mcr.microsoft.com/devcontainers/base:resolute",
+	"features": {
+		"ghcr.io/devcontainers/features/hugo:1": {
+			"version": "0.160.1",
+			"extended": true
+		},
+		"ghcr.io/devcontainers/features/git-lfs:1": {},
+		"ghcr.io/devcontainers/features/node:2": {
+			"version": "22"
+		},
+		"ghcr.io/devcontainers/features/python:1": {},
+		"ghcr.io/devcontainers-extra/features/prek:1": {}
+	},
+	"postCreateCommand": "npm install && prek install -f",
+	"forwardPorts": [1313],
+	"portsAttributes": {
+		"1313": {
+			"label": "Hugo Server",
+			"onAutoForward": "openPreview"
+		}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"esbenp.prettier-vscode",
+				"redhat.vscode-yaml"
+			],
+			"settings": {
+				"editor.formatOnSave": true,
+				"[markdown]": {
+					"editor.defaultFormatter": "esbenp.prettier-vscode"
+				}
+			}
+		}
+	}
+}

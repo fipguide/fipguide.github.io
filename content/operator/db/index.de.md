@@ -47,13 +47,8 @@ Der `ICE` ist ein Hochgeschwindigkeitszug und die höchste Zugkategorie der DB. 
 #### Reservierungen
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
-Temporäre Reservierungspflicht bei grenzüberschreitenden Fahrten:
 
-- von/nach Dänemark: 26.06. – 16.08.2026
-- von/nach Belgien: 26.06. – 16.08.2026
-- von/nach Niederlande: 26.06. – 31.08.2026
-
-Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
+Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich, Belgien und in die Niederlande gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
 
 {{% /train-category %}}
 
@@ -264,6 +259,19 @@ Nahverkehrsexpresszug zwischen Berlin Hauptbahnhof und dem Berliner Flughafen Wi
 {{% /train-category %}}
 
 {{% train-category
+    id="hbx"
+    title="Harz-Berlin-Express (HBX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Ausflugszug am Wochenende zwischen Berlin und Thale bzw. Goslar im Harz.
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"
@@ -277,6 +285,8 @@ FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehr
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
+
+FIP 50 Tickets gelten als _Flexpreis_ und sind daher bis vor den 1. Geltungstag des Tickets kostenlos stornierbar. Danach wird eine Gebühr fällig. Reservierungen sind nur eingeschränkt kurz nach Kauf stornierbar. Weitere Informationen zur Stornierung auf der [Website der Deutschen Bahn](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung).
 
 ### Online
 

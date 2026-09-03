@@ -47,13 +47,8 @@ The `ICE` is a high-speed train and the highest train category of DB. It connect
 #### Reservations
 
 Reservation required for cross-border journeys to France.
-Temporary reservation requirement for cross-border journeys:
 
-- to/from Denmark: 26.06 – 16.08.2026
-- to/from Belgium: 26.06 – 16.08.2026
-- to/from the Netherlands: 26.06 – 31.08.2026
-
-In the past, there was a reservation requirement for cross-border journeys in summer months to Austria. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
+In the past, there was a reservation requirement for cross-border journeys in summer months to Austria, Belgium and the Nederlands. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
 
 {{% /train-category %}}
 
@@ -264,6 +259,19 @@ Local express train between Berlin Central Station and Berlin Willy Brandt Airpo
 {{% /train-category %}}
 
 {{% train-category
+    id="hbx"
+    title="Harz-Berlin-Express (HBX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Weekend excursion train between Berlin and Thale or Goslar in the Harz.
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"
@@ -277,6 +285,8 @@ FIP discounts do not apply on buses. On rail replacement buses, FIP discounts ap
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
+
+FIP 50 Tickets are considered _Flexpreis_ tickets and can therefore be cancelled free of charge until before the 1st day of validity of the ticket. After that, a fee applies. Reservations can only be cancelled to a limited extent shortly after purchase. Further information on cancellation is available on the [Deutsche Bahn website](https://int.bahn.de/en/booking-information/exchanges-refunds).
 
 ### Online
 

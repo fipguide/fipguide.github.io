@@ -2,6 +2,10 @@ enableRobotsTXT: true
 enableGitInfo: true
 ignoreLogs: ["warning-rendershortcodes-in-html"]
 
+security:
+  funcs:
+    getenv: ["^HUGO_", "^CI$", "^FIPGUIDE_"]
+
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true
 languages:
@@ -31,10 +35,21 @@ module:
       target: "static/css/@fontsource"
     - source: "node_modules/@material-symbols/svg-700/rounded"
       target: "static/icons/material-symbols-rounded"
-    - source: "node_modules/decap-cms/dist"
-      target: "static/admin/decap-cms"
+    - source: "node_modules/@sveltia/cms/dist"
+      target: "static/admin/sveltia-cms"
   hugoVersion:
     min: "0.164.0"
+
+mediaTypes:
+  application/x-yaml:
+    suffixes: ["yml"]
+
+outputFormats:
+  CMSConfig:
+    mediaType: "application/x-yaml"
+    baseName: "config"
+    isPlainText: true
+    notAlternative: true
 
 related:
   includeNewer: true

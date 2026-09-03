@@ -9,4 +9,4 @@ params:
 
 ## FIP Global Fare
 
-At the Eurostar ticket offices at Paris Nord and London St. Pancras International stations, tickets at the FIP Global Fare can be purchased. When booking tickets, the FIP Cards of all travelers must be presented.
+At the Eurostar ticket offices at Paris Nord, Lille Europe and London St. Pancras International stations, tickets at the FIP Global Fare can be purchased. When booking tickets, the FIP Cards of all travelers must be presented.
