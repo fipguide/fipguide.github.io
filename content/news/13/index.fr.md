@@ -1,5 +1,5 @@
 ---
-date: 2026-09-01
+date: 2026-09-03
 draft: false
 title: "GoCollective devient DSB Vores Tog"
 description: "La DSB acquiert GoCollective, étendant ainsi le réseau de lignes utilisables avec FIP."
