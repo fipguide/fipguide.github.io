@@ -60,8 +60,9 @@
         out.push(spec.quote ? '"' + value + '"' : String(value));
         return;
       }
+      var paramName = spec.name || field.name;
       out.push(
-        field.name + "=" + (spec.bare ? String(value) : '"' + value + '"'),
+        paramName + "=" + (spec.bare ? String(value) : '"' + value + '"'),
       );
     });
     return out;
@@ -186,6 +187,9 @@
       bodyMode: "required",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   CMS.registerEditorComponent({
@@ -202,6 +206,9 @@
       bodyMode: "required",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var expanderFields = [
@@ -247,6 +254,9 @@
       bodyMode: "required",
       bodySeparator: "\n\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var fipValidityFields = [
@@ -313,6 +323,9 @@
       fields: fipValidityFields,
       bodyMode: "none",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var trainCategoryFields = [
@@ -428,6 +441,9 @@
       bodySeparator: "\n\n",
       multiline: true,
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var bookingFields = [
@@ -450,14 +466,9 @@
       name: "booking_data_link",
       label: "Booking Platform Link",
       widget: "cms-edit-link",
-      get_value: function (props) {
-        return String(props.value || "")
-          .replace(/\/index$/, "")
-          .trim();
-      },
-      href: "#/collections/booking/entries/{value}/index",
-      label_template: "Edit the Booking Platform \u201c{value}\u201d \u2192",
-      empty_hint: "Select a booking platform above to edit it.",
+      static: true,
+      href: "#/collections/booking",
+      label_template: "Manage Booking Platforms \u2192",
     },
     {
       name: "subtitle",
@@ -467,18 +478,18 @@
       param: {},
     },
     {
-      name: "classes.first",
+      name: "classes_first",
       label: "1st class reservation costs (overwrite)",
       widget: "string",
       required: false,
-      param: {},
+      param: { name: "classes.first" },
     },
     {
-      name: "classes.second",
+      name: "classes_second",
       label: "2nd class reservation costs (overwrite)",
       widget: "string",
       required: false,
-      param: {},
+      param: { name: "classes.second" },
     },
     {
       name: "fip_50",
@@ -562,11 +573,11 @@
       var p = parseHugoParams(match[1]);
       var rawId = p.id ? String(p.id) : "";
       return {
-        id: rawId ? rawId + "/index" : "",
+        id: rawId,
         booking_data_link: rawId,
         subtitle: String(p.subtitle || ""),
-        "classes.first": String(p["classes.first"] || ""),
-        "classes.second": String(p["classes.second"] || ""),
+        classes_first: String(p["classes.first"] || ""),
+        classes_second: String(p["classes.second"] || ""),
         fip_50: String(p.fip_50 ?? ""),
         fip_75: String(p.fip_75 ?? ""),
         fip_global_fare: String(p.fip_global_fare ?? ""),
@@ -583,6 +594,9 @@
       firstInline: true,
       multilineThreshold: 1,
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var bookingSectionFields = [
@@ -618,6 +632,9 @@
       bodyMode: "required",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var buttonFields = [
@@ -652,6 +669,9 @@
       fields: buttonFields,
       bodyMode: "none",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var identifyOperatorFields = [
@@ -695,7 +715,7 @@
       return {
         sources: p.sources
           ? p.sources.split(",").map(function (s) {
-              return s.trim() + "/index";
+              return s.trim();
             })
           : [],
         body: match[2] ? match[2].trim() : "",
@@ -707,6 +727,9 @@
       bodyMode: "dual",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var satelliteFields = [
@@ -732,6 +755,9 @@
       bodyMode: "dual",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var dialogFields = [
@@ -774,6 +800,9 @@
       bodySeparator: "\n",
       multiline: true,
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var floatImageFields = [
@@ -812,7 +841,7 @@
       label: "Surrounding text",
       widget: "markdown",
       required: false,
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: ["button", "image"],
     },
   ];
 
@@ -837,6 +866,9 @@
       bodyMode: "optionalPaired",
       multiline: true,
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   CMS.registerEditorComponent({
@@ -848,6 +880,9 @@
       return {};
     },
     toBlock: makeToBlock("wip", { bracket: "<", fields: [], bodyMode: "none" }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var updateFields = [
@@ -881,6 +916,9 @@
       bodyMode: "required",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var columnFields = [
@@ -912,6 +950,9 @@
       bodyMode: "required",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var columnsFields = [
@@ -936,6 +977,9 @@
       bodyMode: "required",
       bodySeparator: "\n",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
 
   var fipValidityTableFields = [
@@ -950,9 +994,11 @@
       name: "validity_data_link",
       label: "FIP Validity Table",
       widget: "cms-edit-link",
-      get_value: function (props) {
-        var slug = props.entry ? props.entry.get("slug") : null;
-        return slug ? String(slug).replace(/\/[^/]+$/, "") : "";
+      get_value: function () {
+        var match = window.location.hash.match(
+          /#\/collections\/application\/entries\/([^/]+)/,
+        );
+        return match ? match[1] : "";
       },
       href: "#/collections/fip-validity/entries/{value}/validity",
       label_template:
@@ -960,6 +1006,59 @@
       empty_hint: "Save this page first to link its FIP Validity Table.",
     },
   ];
+
+  var footnoteFields = [
+    {
+      name: "id",
+      label: "Number",
+      widget: "cms-number-with-usage",
+      template:
+        "You can use this footnote by writing out [^{value}] in the text editor.",
+      param: { required: true },
+    },
+    {
+      name: "name",
+      label: "Source Name",
+      widget: "string",
+      param: { required: true },
+    },
+    {
+      name: "link",
+      label: "Link",
+      widget: "string",
+      param: { required: true },
+    },
+  ];
+
+  CMS.registerEditorComponent({
+    id: "footnote",
+    label: "Footnote",
+    fields: footnoteFields,
+    pattern: /^\[\^([^\]]+)\]: \[([^\]]*)\]\(([^)]*)\)$/,
+    fromBlock: function (match) {
+      var num = Number(match[1]);
+      var id = Number.isNaN(num) ? match[1] : num;
+      return {
+        id: id,
+        name: String(match[2] || ""),
+        link: String(match[3] || ""),
+      };
+    },
+    toBlock: function (data) {
+      return (
+        "[^" +
+        (data.id ?? "") +
+        "]: [" +
+        (data.name || "") +
+        "](" +
+        (data.link || "") +
+        ")"
+      );
+    },
+    toPreview: function () {
+      return "";
+    },
+  });
 
   CMS.registerEditorComponent({
     id: "fip-validity-table",
@@ -975,7 +1074,8 @@
       fields: fipValidityTableFields,
       bodyMode: "none",
     }),
+    toPreview: function () {
+      return "";
+    },
   });
-
-  CMS.registerRemarkPlugin({ settings: { bullet: "-", emphasis: "_" } });
 })();
