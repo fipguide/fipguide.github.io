@@ -10,7 +10,7 @@ aliases:
   - /booking/dsb-website
 ---
 
-The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/country/denmark "Denmark"). It operates the majority of passenger traffic on the Danish rail network.
+The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/country/denmark "Denmark"). It operates the majority of passenger traffic on the Danish rail network. Under the operator name "DSB Vores Tog," it has also been operating train services in Central and West Jutland and on Funen since September 1, 2026. [^3]
 
 ## Summary
 
@@ -101,6 +101,8 @@ A reservation is recommended for cross-border journeys and usually mandatory in 
 %}}
 
 Regional trains provide local connections between various locations. Outside the S-train network in Copenhagen, they stop at all stations and are therefore slower.
+
+As of September 1, 2026, the DSB Vores Tog (formerly GoCollective) routes in Central and West Jutland and on Funen can also be used. [^3]
 
 {{< highlight confusion >}}
 Trains from other operators are also displayed as `R`, so always check beforehand if the operator is DSB. \
@@ -203,3 +205,5 @@ DSB offers reliable and comfortable service. The 1st class is particularly worth
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782261-denmark.html)
 
 [^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)
+
+[^3]: [DSB Vores Tog](https://www.dsb.dk/om-dsb/baredygtighed/virksomheden/vorestog/)
