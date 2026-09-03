@@ -54,9 +54,9 @@ Regional trains that cover short distances around the capital Sarajevo with all 
 
 ## Ticket and Reservation Purchase
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 A price list with the FIP 50 fares from April 2026 is available in the [FIP Guide Community](https://discord.com/channels/1250522473188032512/1489819920299593859/1498692873518977204).
-{{< /highlight >}}
+{{% /highlight %}}
 
 ### On-Site
 
