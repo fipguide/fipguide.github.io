@@ -10,7 +10,7 @@ aliases:
   - /booking/dsb-website
 ---
 
-Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in [Dänemark](/country/denmark "Dänemark"). Sie betreibt den Großteil des Personenverkehrs auf dem dänischen Schienennetz.
+Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in [Dänemark](/country/denmark "Dänemark"). Sie betreibt den Großteil des Personenverkehrs auf dem dänischen Schienennetz. Unter dem Betreibernamen "DSB Vores Tog" betreibt sie seit dem 01.09.2026 auch Zugverkehr in Mittel- und Westjütland und auf Fünen. [^3]
 
 ## Zusammenfassung
 
@@ -101,6 +101,8 @@ Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in 
 %}}
 
 Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie halten außerhalb des S-Bahn-Netzes in Kopenhagen an allen Stationen und sind daher eher langsam.
+
+Seit dem 01.09.2026 können auch die Strecken der DSB Vores Tog (ehemals GoCollective) in Mittel- und Westjütland und auf Fünen genutzt werden. [^3]
 
 {{< highlight confusion >}}
 Auch Züge von anderen Anbietern werden als `R` angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist. \
@@ -203,3 +205,5 @@ Die DSB bietet einen zuverlässigen und komfortablen Service. Die 1. Klasse lohn
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782261-denmark.html)
 
 [^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)
+
+[^3]: [DSB Vores Tog](https://www.dsb.dk/om-dsb/baredygtighed/virksomheden/vorestog/)
