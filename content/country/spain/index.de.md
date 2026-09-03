@@ -58,9 +58,10 @@ Zurzeit gibt es keine Schienenverbindung zwischen Andorra und Spanien.
 
 Die Verbindungen zwischen Portugal und Spanien sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Lissabon nach Madrid zu kommen, werden mehrere Umstiege notwendig, unter anderem an der spanischen Grenze in Badajoz, und es müssen lange Fahrtzeiten in Regionalzügen in Kauf genommen werden. Für die Reise werden FIP Tickets / Freifahrtscheine der CP sowie ein Renfe-Ticket für den spanischen Abschnitt benötigt.
 
-Als zweite Möglichkeit gibt es die Celta-Verbindung von Porto nach Vigo, auch diese führt jedoch nicht tiefer nach Spanien hinein. Hier gilt ein FIP Globalpreis auf der gesamten Route ([Siehe Renfe – Celta](/operator/renfe#langstrecke "Renfe")). Aktuell <!-- und bis 07.04.2027 -->fährt der Celta-Zug nur auf dem portugiesischen Abschnitt von Porto bis Valença do Minho. Zum Grenzübertritt muss ein Bahnersatz-Bus benützt werden, Grund sind Bauarbeiten der spanischen Infrastrukturgesellschaft ADIF. [^2]
+Als zweite Möglichkeit gibt es die Celta-Verbindung von Porto nach Vigo, auch diese führt jedoch nicht tiefer nach Spanien hinein. Hier gilt ein FIP Globalpreis auf der gesamten Route ([Siehe Renfe – Celta](/operator/renfe#langstrecke "Renfe")). Aktuell (und bis 07.04.2027) fährt der Celta-Zug nur auf dem portugiesischen Abschnitt von Porto bis Valença do Minho. Zum Grenzübertritt muss ein Bahnersatz-Bus benützt werden, Grund sind Bauarbeiten der spanischen Infrastrukturgesellschaft ADIF. [^2]
 
 An einer durchgängigen Hochgeschwindigkeitsstrecke zwischen Lissabon und Madrid wird gearbeitet.
 
 [^1]: [Nutzerfeedback](https://github.com/fipguide/fipguide.github.io/issues/449)
-[^2]: [Meldung der CP](https://www.cp.pt/en/detalhe-aviso/transbordo-celta-2026-2027)
+
+[^2]: [Bauarbeiten Celta](https://www.cp.pt/en/detalhe-aviso/transbordo-celta-2026-2027)

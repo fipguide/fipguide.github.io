@@ -7,6 +7,7 @@ params:
   fip_global_fare: true
   additional_info_link: https://www.renfe.com/es/fr/voyager/informacion-util/donde-comprar
   type: onsite
+  fee: 5,5 %
 aliases:
   - renfe_ticket_office
 ---

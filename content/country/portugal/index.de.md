@@ -55,8 +55,8 @@ Besonders empfehlenswert ist ein Besuch der folgenden Bahnhöfe:
 
 Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Madrid nach Lissabon zu kommen, werden mehrere Umstiege notwendig, unter anderem an der spanischen Grenze in Badajoz, und es müssen lange Fahrtzeiten in Regionalzügen in Kauf genommen werden. Für die Reise werden ein Renfe-Ticket für den spanischen Abschnitt sowie FIP Tickets / Freifahrtscheine der CP benötigt.
 
-Als zweite Möglichkeit gibt es die Celta-Verbindung von Vigo nach Porto. Hier gilt ein FIP Globalpreis auf der gesamten Route ([siehe CP – Celta](/operator/cp#zugkategorien-und-reservierungen "CP")). Aktuell <!-- und bis 07.04.2027 -->muss zum Grenzübertritt ein Bahnersatz-Bus benützt werden, der Celta-Zug fährt nur von Valença do Minho bis Porto. Grund sind Bauarbeiten der spanischen Infrastrukturgesellschaft ADIF. [^1]
+Als zweite Möglichkeit gibt es die Celta-Verbindung von Vigo nach Porto. Hier gilt ein FIP Globalpreis auf der gesamten Route ([siehe CP – Celta](/operator/cp#zugkategorien-und-reservierungen "CP")). Aktuell (und nur bis 07.04.2027) muss zum Grenzübertritt ein Bahnersatz-Bus benützt werden, der Celta-Zug fährt nur von Valença do Minho bis Porto. Grund sind Bauarbeiten der spanischen Infrastrukturgesellschaft ADIF. [^1]
 
 An einer durchgängigen Hochgeschwindigkeitsstrecke zwischen Lissabon und Madrid wird gearbeitet.
 
-[^1]: [Meldung der CP](https://www.cp.pt/en/detalhe-aviso/transbordo-celta-2026-2027)
+[^1]: [Bauarbeiten Celta](https://www.cp.pt/en/detalhe-aviso/transbordo-celta-2026-2027)
