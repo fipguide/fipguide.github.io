@@ -43,7 +43,7 @@ Only commuter trains can be used without restrictions with FIP Coupons. For othe
     reservation_possible=true
 %}}
 
-Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons are not accepted.
+Long-distance connections with standard-gauge and variable-gauge high-speed trains (up to 300 km/h). FIP Coupons are not accepted.
 
 International connections from / to France have different FIP Global Fares depending on the route section. Booking is only possible directly via Renfe, which is why tickets must be purchased at a ticket counter in Spain when boarding in Spain. FIP tickets can be purchased on the train when boarding in France; card payment is accepted. [^3]
 
@@ -191,7 +191,7 @@ Reservations are required, except on the Barcelona(-Girona-Figueres)-Port Bou ro
 
 Commuter trains, comparable to suburban trains. FIP Coupons are valid without restrictions.
 
-In Barcelona, Cercanías services (including to the airport) are only accessible through ticket gates. On site, staff must be approached in order to pass through the ticket gates.
+In some cases, the Cercanías can only be accessed via access gates. On site, staff must be approached to pass through the access gates. If no staff is present at night, an access gate is left open or intercom columns are available.
 
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak

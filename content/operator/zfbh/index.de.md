@@ -54,9 +54,9 @@ Regionalzüge, die kurze Strecken rund um die Hauptstadt Sarajevo mit allen Zwis
 
 ## Ticket- und Reservierungskauf
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 In der [FIP Guide Community](https://discord.com/channels/1250522473188032512/1489819920299593859/1498692873518977204) ist eine Preisliste mit den FIP 50 Tarifen von April 2026 verfügbar.
-{{< /highlight >}}
+{{% /highlight %}}
 
 ### Vor Ort
 

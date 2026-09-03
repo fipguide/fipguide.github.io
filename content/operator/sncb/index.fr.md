@@ -46,7 +46,7 @@ Trains à grande vitesse de la Deutsche Bahn, exploités par la SNCB en Belgique
 
 #### Réservations
 
-Une réservation est obligatoire pour les trajets transfrontaliers du 26.06 au 16.08.2026.
+Une réservation est obligatoire pour les trajets transfrontaliers en haute saison.
 
 {{% /train-category %}}
 

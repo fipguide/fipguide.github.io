@@ -56,7 +56,6 @@ The supplement can be purchased [online](https://www.ns.nl/en/tickets/ice-supple
 #### Reservations
 
 A reservation is required for cross-border journeys during high season.
-In 2026, this will be the case from June 26th to August 16th.
 
 {{% /train-category %}}
 

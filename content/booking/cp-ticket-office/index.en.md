@@ -17,7 +17,7 @@ params:
 
 ## FIP 50 Tickets
 
-At CP ticket offices you can purchase FIP 50 Tickets for travel within Portugal. The ticket price is calculated on site using the fare calculator.
+At CP ticket offices you can purchase FIP 50 Tickets for travel within Portugal. The ticket price may be calculated by using the 50 %-column on the [fare tables](https://www.cp.pt/info/en/w/trains-prices-pdf).
 {{% /booking-section %}}
 
 {{% booking-section "fip_global_fare" %}}
