@@ -54,9 +54,9 @@ Trains régionaux qui relient de courtes distances autour de la capitale Sarajev
 
 ## Achat de billets et réservations
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 Une liste de prix avec les tarifs FIP 50 d’avril 2026 est disponible dans la [FIP Guide Community](https://discord.com/channels/1250522473188032512/1489819920299593859/1498692873518977204).
-{{< /highlight >}}
+{{% /highlight %}}
 
 ### En gare
 
