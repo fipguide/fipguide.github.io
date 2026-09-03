@@ -11,7 +11,7 @@ Comprehensive instructions for easy editing of information are available in the 
 
 If you need help with editing, you can contact us at any time by email or via the FIP Guide Community. Further information can be found on the [contact page](/contact).
 
-{{% update date="2026-08-22" %}}
+{{% update date="2026-09-03" %}}
 The CMS has been adjusted and now also supports editing the tables on the "FIP Application" page. In addition, the design has changed slightly, the CMS now also works on mobile devices, and it will receive further updates in the future.
 {{% /update %}}
 
