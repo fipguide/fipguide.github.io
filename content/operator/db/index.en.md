@@ -47,13 +47,8 @@ The `ICE` is a high-speed train and the highest train category of DB. It connect
 #### Reservations
 
 Reservation required for cross-border journeys to France.
-Temporary reservation requirement for cross-border journeys:
 
-- to/from Denmark: 26.06 – 16.08.2026
-- to/from Belgium: 26.06 – 16.08.2026
-- to/from the Netherlands: 26.06 – 31.08.2026
-
-In the past, there was a reservation requirement for cross-border journeys in summer months to Austria. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
+In the past, there was a reservation requirement for cross-border journeys in summer months to Austria, Belgium and the Nederlands. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
 
 {{% /train-category %}}
 
