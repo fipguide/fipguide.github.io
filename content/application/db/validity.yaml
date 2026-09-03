@@ -448,7 +448,7 @@ operators:
     fip-coupon:
       active: coupon-not-available
       active-relatives: coupon-not-available
-      retired: coupon-former-1-onetime
+      retired: coupon-not-available
       retired-relatives: coupon-not-available
     fip-reduced-ticket:
       active: reduced-50

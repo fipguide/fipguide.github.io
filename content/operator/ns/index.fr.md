@@ -56,7 +56,6 @@ Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/ice-su
 #### Réservations
 
 Une réservation est obligatoire pour les trajets transfrontaliers en haute saison.
-En 2026, ce sera le cas du 26 juin au 16 août.
 
 {{% /train-category %}}
 
