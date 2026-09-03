@@ -43,7 +43,7 @@ Seuls les trains de banlieue (Cercanías) sont accessibles sans restriction avec
     reservation_possible=true
 %}}
 
-Trains à grande vitesse à voie normale (jusqu’à 300 km/h). Les Coupons FIP gratuits ne sont pas acceptés.
+Trains longue distance à grande vitesse à voie normale et à écartement variable (jusqu’à 300 km/h). Les Coupons FIP ne sont pas acceptés.
 
 Les AVE internationaux vers/depuis la France ont des tarifs FIP Global différents selon le tronçon. La réservation des liaisons internationales se fait uniquement auprès de Renfe, donc les billets doivent être achetés dans une gare espagnole lors de l’embarquement en Espagne. Les billets FIP peuvent être achetés à bord lors de l’embarquement en France ; le paiement par carte est accepté. [^3]
 
@@ -191,7 +191,7 @@ Les réservations sont obligatoires, sauf sur la ligne Barcelone(-Gérone-Figuer
 
 Trains de banlieue, comparables à un RER/S-Bahn. Les Coupons FIP gratuits sont valables sans restriction.
 
-À Barcelone, les Cercanías (y compris vers l’aéroport) ne sont accessibles que par des portiques. Sur place, il faut s’adresser au personnel pour pouvoir franchir les portiques.
+Dans certains cas, les Cercanías ne sont accessibles que par des portiques. Sur place, il faut s’adresser au personnel pour pouvoir franchir les portiques. En l’absence de personnel la nuit, un portique reste ouvert ou des colonnes d’interphone sont disponibles.
 
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak

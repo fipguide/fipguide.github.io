@@ -5,8 +5,9 @@ description: Booking information for the Renfe ticket offices.
 params:
   fip_50: true
   fip_global_fare: true
-  additional_info_link: https://www.renfe.com/es/en/viajar/informacion-util/-donde-comprar-
+  additional_info_link: https://www.renfe.com/es/en/travel/informacion-util/where-to-buy
   type: onsite
+  fee: 5.5 %
 aliases:
   - renfe_ticket_office
 ---
@@ -16,7 +17,7 @@ aliases:
 ## FIP Global Fare
 
 At Renfe ticket offices, all reservation-required tickets at the FIP Global Fare can be booked. \
-An additional fee of €0.55 applies.
+An additional charge of 5.5 % of the ticket price applies.
 {{% /booking-section %}}
 
 {{% booking-section "fip_50" %}}
