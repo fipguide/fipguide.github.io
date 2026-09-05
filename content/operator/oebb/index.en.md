@@ -231,6 +231,8 @@ FIP Tickets are not valid on ÖBB Postbus. On rail replacement buses, FIP discou
 
 {{% /train-category %}}
 
+## Class Categories
+
 Railjet(Xpress) trains have special class categories:
 
 **Economy**: Comparable to 2nd class. \
