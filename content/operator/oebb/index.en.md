@@ -12,6 +12,7 @@ aliases:
   - /booking/oebb-ticket-office
   - /booking/oebb-website
 ---
+
 ÖBB (Austrian Federal Railways) is [Austria](/country/austria "Austria")’s national railway company and the country’s most important rail operator. It operates the majority of passenger services in Austria.
 
 ## Summary
@@ -30,13 +31,13 @@ aliases:
 
 FIP Coupons and FIP 50 Tickets are valid on ÖBB services. For cross-border journeys, either a through FIP 50 Ticket or FIP Coupons for both countries are required.
 
-{{< highlight important >}}
+{{% highlight important %}}
 When traveling with a FIP Coupon, the use of ÖBB long-distance trains in Austria (`RJX`, `RJ`, `EC`, `ICE`, `IC`, `IR`, `D`) requires a supplement. The supplement can be purchased on board during ticket inspection, or alternatively at ÖBB ticket counters and machines. The supplement is valid for a maximum of 2 days, matching the date on the FIP Coupon. Seat reservations are not included in the supplement and must be purchased separately. With FIP 50 Tickets, no additional supplement is required.
 
 Cost: \
 1st class:€ 15 \
 2nd class:€ 10
-{{< /highlight >}}
+{{% /highlight %}}
 
 ## Train Categories and Reservations
 
@@ -230,8 +231,6 @@ FIP Tickets are not valid on ÖBB Postbus. On rail replacement buses, FIP discou
 
 {{% /train-category %}}
 
-## Class Categories
-
 Railjet(Xpress) trains have special class categories:
 
 **Economy**: Comparable to 2nd class. \
@@ -300,10 +299,10 @@ Tickets can be purchased on board if you immediately contact the conductor. Howe
 
 Children under 6 travel free of charge. From the age of 6, when traveling with a FIP Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 With children, the ÖBB Vorteilscard Family for € 21 is quickly worthwhile. \
 [See ÖBB](https://www.oebb.at/en/tickets-kundenkarten/kundenkarten/vorteilscard)
-{{< /highlight >}}
+{{% /highlight %}}
 
 ## Special Tariff Conditions
 
@@ -335,9 +334,9 @@ FIP Coupons are accepted on ÖBB-operated local trains of S-Bahn line S7.
 
 Ticket counters for ÖBB and `CAT` are located in Terminal 3.
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 If you travel with regular Vienna public transport tickets (e.g., Single journeys, 24-hour tickets or 7-day tickets via the WienMobil app) on the S-Bahn, these are only valid up to the city boundary at Schwechat. For the section between Schwechat and Vienna Airport, an additional ticket must be purchased at the counter or machine. WienMobil app tickets at the standard fare are only valid on the `CAT` or Vienna Airport Bus (VAB) with the CAT or VAB add-on ticket in the app.
-{{< /highlight >}}
+{{% /highlight %}}
 
 ### Motorail
 

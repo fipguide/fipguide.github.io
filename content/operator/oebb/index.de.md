@@ -12,6 +12,7 @@ aliases:
   - /booking/oebb-ticket-office
   - /booking/oebb-website
 ---
+
 Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft [Österreich](/country/austria "Österreich") und die wichtigste Bahngesellschaft des Landes. Sie betreiben einen Großteil des Personenverkehrs in Österreich.
 
 ## Zusammenfassung
@@ -30,13 +31,13 @@ Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ÖBB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
-{{< highlight important >}}
+{{% highlight important %}}
 Bei der Fahrt mit FIP Freifahrtschein ist die Nutzung von Fernverkehrszügen der ÖBB in Österreich (`RJX`, `RJ`, `EC`, `ICE`, `IC`, `IR`, `D`) zuschlagspflichtig. Der Zuschlag kann im Zug während Fahrkartenkontrolle erworben werden. Alternativ kann der Zuschlag auch am Fahrkartenschalter und Fahrkartenautomaten der ÖBB erworben werden. Der Zuschlag ist maximal 2 Tage analog zum eingetragenen Datum im FIP Freifahrtschein gültig. Sitzplatzreservierungen sind im Zuschlag nicht enthalten und müssen separat erworben werden. Bei FIP 50 Tickets ist kein zusätzlicher Zuschlag erforderlich.
 
 Kosten: \
 1\. Klasse: 15 € \
 2\. Klasse: 10 €
-{{< /highlight >}}
+{{% /highlight %}}
 
 ## Zugkategorien und Reservierungen
 
@@ -290,10 +291,10 @@ Ein Verkauf von Tickets im Zug ist möglich, wenn der Zugbegleiter sofort aufges
 
 Kinder unter 6 werden kostenfrei mitgenommen, ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 21 €. \
 [Siehe ÖBB](https://www.oebb.at/de/tickets-kundenkarten/kundenkarten/vorteilscard)
-{{< /highlight >}}
+{{% /highlight %}}
 
 ## Tarifliche Besonderheiten
 
@@ -325,9 +326,9 @@ FIP-Fahrscheine werden jedoch auf den von der ÖBB betriebenen Nahverkehrszügen
 
 Die Fahrkartenschalter für ÖBB und `CAT` befinden sich im Terminal 3.
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 Wer mit regulären Wiener Öffi-Tickets (z. B. Einzelfahrten, 24-Stunden-Tickets oder 7-Tages-Tickets über die WienMobil-App) mit der S-Bahn fährt, kann diese nur bis zur Stadtgrenze Schwechat nutzen. Für den Abschnitt zwischen Schwechat und Flughafen Wien ist ein zusätzliches Ticket am Schalter oder Automaten erforderlich. WienMobil-App-Tickets zum Normaltarif sind für Fahrten mit dem `CAT` oder dem Vienna Airport Bus (VAB) nur mit dem CAT- bzw. VAB-Zusatzticket in der App gültig.
-{{< /highlight >}}
+{{% /highlight %}}
 
 ### Motorail
 
