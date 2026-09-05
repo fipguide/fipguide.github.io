@@ -359,8 +359,8 @@ Prices as of 2026: [^4]
 
 |                        | 1st class | 2nd class |
 | ---------------------- | --------- | --------- |
-| Paris – Luxembourg     | €61       | €88       |
-| Marseille – Luxembourg | €74       | €113      |
+| Paris – Luxembourg     | €88       | €61       |
+| Marseille – Luxembourg | €113      | €74       |
 
 {{% /train-category %}}
 
