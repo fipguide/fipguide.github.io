@@ -1,29 +1,29 @@
 ---
+draft: false
 title: Trenitalia Ticket Office
 description: Booking information for Trenitalia ticket offices.
 params:
   fip_50: true
-  fip_global_fare: false
-  fip_75: false
   reservations: true
   additional_info_link: https://www.trenitalia.com/en/information/customer-service-offices.html
   type: onsite
-draft: false
 ---
 
 {{% booking-section "fip_50" %}}
+
 ## FIP 50 Tickets
 
 FIP 50 Tickets can be purchased at Trenitalia ticket offices. A discount of 50% on the _TARIFFA REGIONALE_ fare is generally applied. For long-distance trains, the _Biglietti gratuiti FS_ supplement (calculated by the tariff _CAMBIO SERVIZIO_) is additionally required.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
+
 ## Reservations
 
 The _Biglietti gratuiti FS_ supplement (_CAMBIO SERVIZIO_) supplement for long-distance trains can only be purchased on-site at Trenitalia ticket offices.
 
 {{< highlight inofficial >}}
-Sometimes the _DIRITTO AMMISSIONE_ supplement is sold instead. This supplement is cheaper than _Biglietti gratuiti FS_  (calculated by the tariff _CAMBIO SERVIZIO_) and is officially only valid for duty travel, but we are not aware of any issues during ticket inspections when using these tickets for private travel.
+Sometimes the _DIRITTO AMMISSIONE_ supplement is sold instead. This supplement is cheaper than _Biglietti gratuiti FS_ (calculated by the tariff _CAMBIO SERVIZIO_) and is officially only valid for duty travel, but we are not aware of any issues during ticket inspections when using these tickets for private travel.
 
 **Prices for _DIRITTO AMMISSIONE_:**
 

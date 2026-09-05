@@ -1,26 +1,26 @@
 ---
+draft: false
 title: Guichet Trenitalia
 description: Informations de réservation pour les guichets Trenitalia.
 params:
   fip_50: true
-  fip_global_fare: false
-  fip_75: false
   reservations: true
   additional_info_link: https://www.trenitalia.com/en/information/customer-service-offices.html
   type: onsite
-draft: false
 ---
 
 {{% booking-section "fip_50" %}}
+
 ## Billets FIP 50
 
 Les Billets FIP 50 peuvent être achetés aux guichets Trenitalia. Une réduction de 50 % sur le tarif _TARIFFA REGIONALE_ est généralement appliquée. Pour les trains longue distance, le supplément supplément _Biglietti gratuiti FS_ (calculé selon le tarif _CAMBIO SERVIZIO_) est en outre requis.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
+
 ## Réservations
 
-Le supplément _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_)  pour les trains longue distance ne peut être acheté qu'en gare aux guichets Trenitalia.
+Le supplément _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) pour les trains longue distance ne peut être acheté qu'en gare aux guichets Trenitalia.
 
 {{< highlight inofficial >}}
 Parfois, le supplément _DIRITTO AMMISSIONE_ est vendu à la place. Ce supplément est moins cher que _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) et n'est officiellement valable que pour les voyages de service, mais nous ne sommes pas au courant de problèmes lors des contrôles de billets lors de l'utilisation de ces billets pour des voyages privés.

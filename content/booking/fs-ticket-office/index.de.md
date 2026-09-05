@@ -1,23 +1,23 @@
 ---
+draft: false
 title: Trenitalia Ticketschalter
 description: Buchungsinformationen für die Trenitalia Ticketschalter.
 params:
   fip_50: true
-  fip_global_fare: false
-  fip_75: false
   reservations: true
   additional_info_link: https://www.trenitalia.com/en/information/customer-service-offices.html
   type: onsite
-draft: false
 ---
 
 {{% booking-section "fip_50" %}}
+
 ## FIP 50 Fahrkarten
 
 An Trenitalia Fahrkartenschaltern können FIP 50 Fahrkarten erworben werden. Grundsätzlich wird ein Rabatt von 50 % auf den Tarif _TARIFFA REGIONALE_ gewährt. Bei Fernverkehrszügen wird zusätzlich der Aufschlag _Biglietti gratuiti FS_ (berechnet nach dem Tarif _CAMBIO SERVIZIO_) fällig.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
+
 ## Reservierungen
 
 Der Aufschlag _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) für Fernverkehrszüge kann ausschließlich vor Ort an Trenitalia Ticketschaltern erworben werden.
