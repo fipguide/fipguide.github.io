@@ -230,16 +230,6 @@ FIP Tickets are not valid on ÖBB Postbus. On rail replacement buses, FIP discou
 
 {{% /train-category %}}
 
-## Class Categories
-
-Railjet(Xpress) trains have special class categories:
-
-**Economy**: Comparable to 2nd class. \
-**First Class**: Comparable to 1st class. A FIP Coupon for 1st class is required. \
-**Business**: 1st class with welcome drink and private compartments. Not usable with FIP Coupon (even with supplement).
-
-[Detailed overview of ÖBB classes](https://www.oebb.at/en/reiseplanung-services/im-zug/abteile-komfortklassen)
-
 ## Ticket and Reservation Purchase
 
 ### Online
