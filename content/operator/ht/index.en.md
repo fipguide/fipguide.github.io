@@ -130,6 +130,24 @@ If you start your journey at a station where the ticket office is unstaffed, tic
 
 At public fares, children up to 4 years travel free of charge, children up to 12 years receive a 50% discount on the adult fare. From 12 years, the regular adult fare applies.[^1]
 
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+For travellers through several Balkan countries, the Balkan Flexipass could be worthwhile in terms of price. It enables unlimited travel on the rail networks of:
+
+- Bosnia and Herzegovina (ZFBH),
+- Bulgaria (BDZ),
+- North Macedonia (MŽ-Transport),
+- Greece (HT & Attica),
+- Montenegro (ŽPCG),
+- Romania (CFR Calatori & Regiotrans),
+- Serbia (SV),
+- Slovakia (ZSSK / ŽSR),
+- Turkey (TCDD).
+
+[More information on the ŽPCG website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
+
 ## Special Tariff Conditions
 
 ### Break of Journey

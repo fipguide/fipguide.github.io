@@ -16,7 +16,7 @@ params:
 
 ## Billets FIP 50
 
-Aux guichets CP, il est possible d’acheter des Billets FIP 50 pour des voyages à l’intérieur du Portugal. Le tarif est calculé sur place à l’aide du calculateur de prix.
+Aux guichets CP, il est possible d’acheter des Billets FIP 50 pour des voyages à l’intérieur du Portugal. Le tarif peut être calculé à l'aide de la colonne « 50 % » des [tableaux des tarifs](https://www.cp.pt/info/en/w/trains-prices-pdf).
 {{% /booking-section %}}
 {{% booking-section "fip_global_fare" %}}
 

@@ -4,8 +4,9 @@ description: Informations de réservation aux guichets de la Renfe.
 params:
   fip_50: true
   fip_global_fare: true
-  additional_info_link: https://www.renfe.com/es/fr/voyager/informacion-util/-donde-comprar-
+  additional_info_link: https://www.renfe.com/es/fr/voyager/informacion-util/donde-comprar
   type: onsite
+  fee: 5,5 %
 aliases:
   - renfe_ticket_office
 ---
@@ -15,7 +16,7 @@ aliases:
 ## Tarif Global FIP
 
 Aux guichets de la Renfe, tous les billets nécessitant une réservation au Tarif Global FIP peuvent y être achetés. \
-Des frais supplémentaires de 0,55€ s’appliquent.
+Des frais supplémentaires s'élevant à 5,5 % du prix du billet sont facturés.
 {{% /booking-section %}}
 
 {{% booking-section "fip_50" %}}

@@ -154,7 +154,7 @@ MS = Middle of the lake
 
 From Denmark, the direct `ECE` Copenhagen – Hamburg can be used, which runs several times a day (every 2 hours in high season). Some services operate as `RJ` on the Copenhagen – Hamburg – Berlin – Prague route. These trains are always very busy, so it is advisable to book a reservation early. Alternatively, there are several `IC` trains daily from Fredericia to Flensburg.
 
-It is also possible to enter via Tønder by regional train. However, since neither DSB on the Danish side nor DB on the German side operates here, FIP discounts are not available on this route. Alternatively, you can enter by ferry to Puttgarden or Warnemünde.
+It is also possible to enter via Tønder by regional train. DSB operates the Danish section of the route under the name "DSB Vores Tog", meaning FIP can be used. For the German section, a standard ticket or the Deutschlandticket is required, as the trains there are operated by NEG. Alternatively, you can enter by ferry to Puttgarden or Warnemünde.
 
 ### Poland
 

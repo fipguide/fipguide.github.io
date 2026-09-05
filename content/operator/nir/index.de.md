@@ -23,6 +23,21 @@ Northern Ireland Railways (NIR) ist die staatliche Bahngesellschaft in Nordirlan
 ## Zugkategorien und Reservierungen
 
 {{% train-category
+    id="enterprise"
+    title="Intercity (Enterprise)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+
+NIR betreibt zusammen mit [CIE](/operator/cie) den Enterprise Service zwischen Dublin und Belfast.
+
+Fahrgäste in _Enterprise Plus_ werden im Zug zu einem freien Sitzplatz begleitet. Die Nutzung der _Enterprise Plus_ Klasse ist nur mit einem Sitzplatz möglich.
+
+{{% /train-category %}}
+
+{{% train-category
     id="regional-trains"
     title="Regionalzüge"
     type="regional"
@@ -33,19 +48,6 @@ Northern Ireland Railways (NIR) ist die staatliche Bahngesellschaft in Nordirlan
 %}}
 
 NIR betreibt verschiedene Regionalzugverbindungen ausgehend von Belfast. Die Regionalzüge sind nicht reservierbar und mit FIP nutzbar.
-
-{{% /train-category %}}
-
-{{% train-category
-    id="enterprise"
-    title="Intercity (Enterprise)"
-    type="highspeed"
-    fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
-%}}
-
-NIR betreibt zusammen mit [CIE](/operator/cie) den Enterprise Service zwischen Dublin und Belfast.
 
 {{% /train-category %}}
 
@@ -63,10 +65,6 @@ FIP 50 / FIP 75 Tickets lassen sich online nicht erwerben.
 
 {{% booking id="irish-rail-website"
     subtitle="Reservierungen (2. Klasse) für den Enterprise Service (Dublin – Belfast)."
-/%}}
-
-{{% booking id="translink-whatsapp"
-    subtitle="Reservierungen (1. Klasse) für den Enterprise Service (Dublin – Belfast)."
 /%}}
 
 ### Vor Ort
@@ -90,6 +88,12 @@ Kinder unter 5 Jahren fahren kostenlos. Jugendliche unter 16 Jahren erhalten 50 
 ### Fahrtunterbrechung
 
 Fahrtunterbrechungen sind nur erlaubt, um Anschlusszüge zu erreichen.[^1]
+
+## Empfehlungen
+
+{{% highlight tip %}}
+Auf dem eher kleinen Streckennetz bietet die NIR einen soliden Taktverkehr auf ihren Strecken mit etwas in die Jahre gekommenen Zügen an. Vor allem rund um Belfast bietet sie dabei einen S-Bahn-ähnlichen Vorortverkehr. Die etwa stündlich angebotene Verbindung zwischen Belfast und Derry-Londonderry und hier insbesondere der Abschnitt zwischen Coleraine und Derry-Londonderry ist sehr sehenswert, da sie direkt an der nördlichen Küste entlang führt.
+{{% /highlight %}}
 
 ## Quellen
 

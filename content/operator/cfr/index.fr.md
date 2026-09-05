@@ -176,6 +176,24 @@ Il n’est pas possible d’acheter des billets à tarif réduit FIP à bord du 
 
 Pour les billets réguliers, les enfants de moins de 5 ans voyagent gratuitement. Les enfants de moins de 10 ans bénéficient d’une réduction de 50 % sur le tarif adulte. Les enfants plus âgés paient le plein tarif adulte.[^1]
 
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass peut être intéressant sur le plan tarifaire. Il permet des trajets illimités sur les réseaux ferroviaires de :
+
+- Bosnie-Herzégovine (ZFBH),
+- Bulgarie (BDZ),
+- Macédoine du Nord (MŽ-Transport),
+- Grèce (HT & Attica),
+- Monténégro (ŽPCG),
+- Roumanie (CFR Calatori & Regiotrans),
+- Serbie (SV),
+- Slovaquie (ZSSK / ŽSR),
+- Turquie (TCDD).
+
+[Plus d’informations sur le site web de ŽPCG](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
+
 ## Conditions tarifaires spéciales
 
 ### Possibilité d’interrompre le trajet

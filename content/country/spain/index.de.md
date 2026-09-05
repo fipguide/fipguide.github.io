@@ -41,11 +41,11 @@ Zudem finden bei Fernverkehrsreisen Gepäckkontrollen an den Bahnhöfen statt, d
 
 Von Paris aus verkehren direkte `TGV` Züge der französischen SNCF nach Barcelona. Auch die Renfe verkehrt grenzüberschreitend zwischen Lyon und Barcelona sowie Marseille und Madrid.
 
-Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können, siehe [TGV-Züge nach Italien, Spanien und Belgien](/operator/sncf#tgv-italy-spain-belgium). Für die von Renfe betriebenen `AVE` Züge sind FIP Globalpreistickets für 25 € / 28 € verfügbar (Stand: Mai 2026), siehe [Renfe – AVE](/operator/renfe#ave "Renfe – AVE"). Diese Tickets sind bei Renfe Ticketschaltern in Spanien erhältlich. Bei der Anreise aus Frankreich können diese Tickets auch im Zug gekauft werden. Dazu muss das Zugpersonal aufgesucht werden, bei dem auch mit Karte bezahlt werden kann. Auch wenn der Zug ausreserviert ist und keine Sitzplätze verfügbar sind, kann eine Mitfahrt in der Regel gewährleistet werden. [^1]
+Bei beiden sind FIP Globalpreise möglich, die bei der SNCF jedoch sehr teuer werden können, siehe [TGV-Züge nach Italien, Spanien und Belgien](/operator/sncf#tgv-italy-spain-belgium). Für die von Renfe betriebenen `AVE` Züge sind FIP Globalpreistickets für 25 € / 28 € verfügbar (Stand: Mai 2026), siehe [Renfe – AVE](/operator/renfe#ave "Renfe – AVE"). Diese Tickets sind bei Renfe Ticketschaltern in Spanien erhältlich. Bei der Anreise aus Frankreich können diese Tickets im Zug gekauft werden. Dazu muss das Zugpersonal aufgesucht werden, bei dem auch mit Karte bezahlt werden kann. Auch wenn der Zug ausreserviert ist und keine Sitzplätze verfügbar sind, kann eine Mitfahrt in der Regel gewährleistet werden. [^1]
 
 Mit [Euskotren](/operator/euskotren) kann mit dem speziellen FIP Ticket ab Hendaye gefahren werden.
 
-Des Weiteren gibt die Regionalzüge Rodalies de Catalunya der Renfe mit grenzüberschreitenden Verbindungen von Cerbère und Latour-de-Carol. FIP Tickets können direkt im Zug beim Zugpersonal erworben werden.
+Des Weiteren fahren die Regionalzüge Rodalies de Catalunya der Renfe mit grenzüberschreitenden Verbindungen von Cerbère und Latour-de-Carol bis Barcelona. FIP Tickets können direkt im Zug beim Zugpersonal erworben werden.
 
 Insgesamt gibt es nur sehr wenige grenzüberschreitende Verbindungen, diese waren vor wenigen Jahren schon einmal deutlich besser ausgebaut.
 
@@ -55,10 +55,12 @@ Zurzeit gibt es keine Schienenverbindung zwischen Andorra und Spanien.
 
 ### Portugal
 
-Die Verbindungen zwischen Spanien und Portugal sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Lissabon nach Madrid zu kommen muss bis mit Umstieg und langer Zeit in einem Regionalzug an die spanische Grenze nach Badajoz gefahren werden, um dort dann einen der wenigen Züge nach Madrid zu erwischen. Dafür werden FIP Tickets / Freifahrtscheine der portugiesischen CP benötigt sowie ein Renfe-Ticket für den spanischen Abschnitt.
+Die Verbindungen zwischen Portugal und Spanien sind aktuell nur sehr spärlich vorhanden. Um beispielsweise von Lissabon nach Madrid zu kommen, werden mehrere Umstiege notwendig, unter anderem an der spanischen Grenze in Badajoz, und es müssen lange Fahrtzeiten in Regionalzügen in Kauf genommen werden. Für die Reise werden FIP Tickets / Freifahrtscheine der CP sowie ein Renfe-Ticket für den spanischen Abschnitt benötigt.
 
-Ansonsten gibt es noch die Celta-Verbindung von Porto nach Vigo, auch diese führt jedoch nicht tiefer nach Spanien hinein. Hier gilt ein FIP Globalpreis auf der gesamten Route ([Siehe Renfe – Celta](/operator/renfe#langstrecke "Renfe")).
+Als zweite Möglichkeit gibt es die Celta-Verbindung von Porto nach Vigo, auch diese führt jedoch nicht tiefer nach Spanien hinein. Hier gilt ein FIP Globalpreis auf der gesamten Route ([Siehe Renfe – Celta](/operator/renfe#langstrecke "Renfe")). Aktuell (und bis 07.04.2027) fährt der Celta-Zug nur auf dem portugiesischen Abschnitt von Porto bis Valença do Minho. Zum Grenzübertritt muss ein Bahnersatz-Bus benützt werden, Grund sind Bauarbeiten der spanischen Infrastrukturgesellschaft ADIF. [^2]
 
 An einer durchgängigen Hochgeschwindigkeitsstrecke zwischen Lissabon und Madrid wird gearbeitet.
 
 [^1]: [Nutzerfeedback](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^2]: [Bauarbeiten Celta](https://www.cp.pt/en/detalhe-aviso/transbordo-celta-2026-2027)

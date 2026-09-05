@@ -46,6 +46,8 @@ Gares particulièrement recommandées :
 
 Les liaisons transfrontalières entre l’Espagne et le Portugal sont actuellement peu nombreuses. Par exemple, pour aller de Madrid à Lisbonne, plusieurs correspondances sont nécessaires, notamment à la frontière espagnole à Badajoz, et il faut accepter de longs temps de trajet sur des trains régionaux. Pour ces trajets, des Billets FIP / Coupons FIP valables pour la portion CP et un billet Renfe pour la section espagnole seront nécessaires.
 
-Il existe également la relation Celta entre Vigo et Porto. Un tarif spécial global FIP s’applique sur l’ensemble de la relation ([voir CP – Celta](/operator/cp#catégories-de-trains-et-réservations "CP")).
+Une deuxième possibilité est la liaison Celta entre Vigo et Porto. Un tarif global FIP s’applique sur l’ensemble du trajet ([voir CP – Celta](/operator/cp#catégories-de-trains-et-réservations "CP")). Actuellement (et uniquement jusqu’au 07/04/2027), le franchissement de la frontière doit s’effectuer dans un bus de remplacement ; le train Celta ne circule que de Valença do Minho à Porto. Cette situation est due à des travaux réalisés par le gestionnaire d’infrastructure espagnol ADIF. [^1]
 
-Un projet de liaison à grande vitesse continue entre Lisbonne et Madrid est en cours.
+Une ligne à grande vitesse continue entre Lisbonne et Madrid est en cours de construction.
+
+[^1]: [Travaux Celta](https://www.cp.pt/en/detalhe-aviso/transbordo-celta-2026-2027)

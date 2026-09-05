@@ -46,13 +46,8 @@ Der `ICE` ist ein Hochgeschwindigkeitszug und die höchste Zugkategorie der DB. 
 #### Reservierungen
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
-Temporäre Reservierungspflicht bei grenzüberschreitenden Fahrten:
 
-- von/nach Dänemark: 26.06. – 16.08.2026
-- von/nach Belgien: 26.06. – 16.08.2026
-- von/nach Niederlande: 26.06. – 31.08.2026
-
-Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
+Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich, Belgien und in die Niederlande gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
 
 {{% /train-category %}}
 

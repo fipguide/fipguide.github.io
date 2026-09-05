@@ -45,7 +45,7 @@ Des Tarifs Globaux FIP sont disponibles auprès des deux opérateurs, mais ceux 
 
 Avec [Euskotren](/operator/euskotren), il est possible de voyager depuis Hendaye avec le Billet FIP spécial.
 
-Il existe également des trains régionaux Rodalies de Catalunya de la Renfe avec des liaisons transfrontalières depuis Cerbère et Latour-de-Carol. Les Billets FIP peuvent être achetés directement à bord auprès du personnel du train.
+Il existe également des trains régionaux Rodalies de Catalunya de la Renfe avec des liaisons transfrontalières depuis Cerbère et Latour-de-Carol jusqu'à Barcelone. Les Billets FIP peuvent être achetés directement à bord auprès du personnel du train.
 
 Les liaisons transfrontalières restent rares, alors que le réseau était nettement plus développé il y a quelques années.
 
@@ -55,10 +55,12 @@ Il n’existe actuellement aucune liaison ferroviaire entre l’Andorre et l’E
 
 ### Portugal
 
-Les liaisons entre l’Espagne et le Portugal sont actuellement très limitées. Pour voyager de Lisbonne à Madrid, il faut prendre un train régional jusqu’à Badajoz, à la frontière espagnole, puis prendre l’un des rares trains vers Madrid. Cela nécessite un titre FIP ou pass gratuit CP (pour la partie portugaise) et un billet Renfe pour la partie espagnole.
+Les liaisons entre le Portugal et l’Espagne sont actuellement très limitées. Pour aller, par exemple, de Lisbonne à Madrid, plusieurs changements sont nécessaires, notamment à la frontière espagnole à Badajoz, et il faut accepter de longs trajets à bord de trains régionaux. Pour ce voyage, des billets FIP / titres de libre circulation de la CP ainsi qu’un billet Renfe pour le trajet en Espagne sont nécessaires.
 
-Il existe également la liaison Celta entre Porto et Vigo, mais elle ne va pas plus loin en Espagne. Le Tarif Global FIP est valable sur l’ensemble du trajet ([Voir Renfe – Celta](/operator/renfe#longue-distance "Renfe")).
+Une deuxième possibilité est la liaison Celta de Porto à Vigo, mais celle-ci ne permet pas non plus de se rendre plus loin en Espagne. Un Tarif Global FIP s’applique sur l’ensemble du trajet ([voir Renfe – Celta](/operator/renfe#longue-distance "Renfe")). Actuellement, et jusqu’au 7 avril 2027, le train Celta circule uniquement sur la section portugaise, de Porto à Valença do Minho. Pour franchir la frontière, il faut prendre un bus de remplacement, en raison de travaux réalisés par l’entreprise espagnole gestionnaire de l’infrastructure, ADIF. [^2]
 
-Une ligne à grande vitesse Lisbonne – Madrid est actuellement en cours de construction.
+Une ligne à grande vitesse continue entre Lisbonne et Madrid est en cours de construction.
 
 [^1]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)
+
+[^2]: [Travaux Celta](https://www.cp.pt/en/detalhe-aviso/transbordo-celta-2026-2027)

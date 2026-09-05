@@ -4,8 +4,9 @@ description: Buchungsinformationen für die Renfe Ticketschalter.
 params:
   fip_50: true
   fip_global_fare: true
-  additional_info_link: https://www.renfe.com/es/en/viajar/informacion-util/-donde-comprar-
+  additional_info_link: https://www.renfe.com/es/en/travel/informacion-util/where-to-buy
   type: onsite
+  fee: 5,5 %
 aliases:
   - renfe_ticket_office
 ---
@@ -15,7 +16,7 @@ aliases:
 ## FIP Globalpreis
 
 In den Verkaufsstellen der Renfe können alle reservierungspflichtigen Tickets zum Globalpreis gebucht werden. \
-Es fällt eine zusätzliche Gebühr von 0,55€ an.
+Es fällt eine zusätzliche Gebühr in Höhe von 5,5 % des Fahrkartenpreises an.
 {{% /booking-section %}}
 
 {{% booking-section "fip_50" %}}

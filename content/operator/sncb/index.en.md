@@ -45,7 +45,7 @@ High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run betwee
 
 #### Reservations
 
-A reservation is mandatory for cross-border journeys from 26.06 to 16.08.2026.
+A reservation is required for cross-border journeys during high season.
 
 {{% /train-category %}}
 

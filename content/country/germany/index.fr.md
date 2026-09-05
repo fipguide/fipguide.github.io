@@ -154,7 +154,7 @@ MS = Mitte See
 
 Depuis le Danemark, l’`ECE` direct Copenhague – Hambourg circule plusieurs fois par jour (en haute saison toutes les 2 heures). Certains trains circulent en tant que `RJ` sur l’itinéraire Copenhague – Hambourg – Berlin – Prague. Ces trains sont très fréquentés, il est donc conseillé de réserver tôt. Il existe aussi plusieurs `IC` de Fredericia à Flensburg chaque jour.
 
-En trafic régional, il est aussi possible d’entrer par Tønder. Cependant, ni la DSB côté danois ni la DB côté allemand n’y circulent, donc aucune réduction FIP n’est possible sur cet itinéraire. Il est aussi possible de rejoindre l’Allemagne par ferry à Puttgarden ou Warnemünde.
+En trafic régional, il est aussi possible d’entrer par Tønder. DSB exploite le tronçon danois de la ligne sous le nom de « DSB Vores Tog », ce qui permet d'utiliser les FIP. Pour le tronçon allemand, un billet ordinaire ou le Deutschlandticket est requis, car les trains y sont exploités par NEG. Il est aussi possible de rejoindre l’Allemagne par ferry à Puttgarden ou Warnemünde.
 
 ### Pologne
 

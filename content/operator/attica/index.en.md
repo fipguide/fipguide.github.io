@@ -114,6 +114,24 @@ Children under 4 years who do not occupy a bed, berth or seat pay €5.50 per cr
 On services to and from Ancona and Venice, children between 4 and 16 years pay 50% of the adult fare. Passengers aged 16 and over pay the full adult fare.
 On services to and from Bari, children between 4 and 12 years pay 50% of the adult fare. Passengers aged 12 and over pay the full adult fare.[^1]
 
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+For travellers through several Balkan countries, the Balkan Flexipass could be worthwhile in terms of price. It enables unlimited travel on the rail networks of:
+
+- Bosnia and Herzegovina (ZFBH),
+- Bulgaria (BDZ),
+- North Macedonia (MŽ-Transport),
+- Greece (HT & Attica),
+- Montenegro (ŽPCG),
+- Romania (CFR Calatori & Regiotrans),
+- Serbia (SV),
+- Slovakia (ZSSK / ŽSR),
+- Turkey (TCDD).
+
+[More information on the ŽPCG website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
+
 ## Special Tariff Conditions
 
 ### Upgrades

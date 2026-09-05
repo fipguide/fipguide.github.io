@@ -46,6 +46,8 @@ Particularly recommended stations to visit:
 
 There are currently only very few connections between Spain and Portugal. For example, travelling from Madrid to Lisbon requires multiple changes, including at the Spanish border in Badajoz, and long journey times on regional trains. FIP Tickets / FIP Coupons from the CP and a Renfe ticket for the Spanish section are required for the journey.
 
-There is also the Celta service from Vigo to Porto. A special FIP Global fare applies on the entire route ([see CP – Celta](/operator/cp#train-categories-and-reservations "CP")).
+A second option is the Celta connection from Vigo to Porto. Here a FIP flat fare applies for the entire route ([see CP – Celta](/operator/cp#train-categories-and-reservations "CP")). Currently (and only until 07.04.2027) a replacement bus must be used to cross the border, as the Celta train only runs between Valença do Minho and Porto. This is due to construction works by the Spanish infrastructure company ADIF. [^1]
 
-Work is underway on a continuous high-speed connection between Lisbon and Madrid.
+Work is underway on a continuous high-speed line between Lisbon and Madrid.
+
+[^1]: [Construction work Celta](https://www.cp.pt/en/detalhe-aviso/transbordo-celta-2026-2027)

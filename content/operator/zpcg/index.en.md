@@ -109,6 +109,24 @@ FIP discounted tickets can be purchased on the train. A surcharge of EUR 1 appli
 
 For public fares, children up to 6 years travel free of charge. Children up to 14 years receive a 50% discount on the adult fare. Children aged 14 and older pay the adult fare.[^2]
 
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+For travellers through several Balkan countries, the Balkan Flexipass could be worthwhile in terms of price. It enables unlimited travel on the rail networks of:
+
+- Bosnia and Herzegovina (ZFBH),
+- Bulgaria (BDZ),
+- North Macedonia (MŽ-Transport),
+- Greece (HT & Attica),
+- Montenegro (ŽPCG),
+- Romania (CFR Calatori & Regiotrans),
+- Serbia (SV),
+- Slovakia (ZSSK / ŽSR),
+- Turkey (TCDD).
+
+[More information on the ŽPCG website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
+
 ## Special Tariff Conditions
 
 ### Rail Replacement Services

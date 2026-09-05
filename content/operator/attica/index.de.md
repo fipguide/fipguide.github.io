@@ -114,6 +114,21 @@ Kinder unter 4 Jahren, die kein Bett, keine Etagenliege oder keinen Sitzplatz be
 Auf Verbindungen von und nach Ancona und Venedig zahlen Kinder zwischen 4 und 16 Jahren 50 % des Erwachsenentarifs. Personen ab 16 Jahren zahlen den vollen Erwachsenentarif.
 Auf Verbindungen von und nach Bari zahlen Kinder zwischen 4 und 12 Jahren 50 % des gewählten Erwachsenentarifs. Personen ab 12 Jahren zahlen den vollen Erwachsenentarif.[^1]
 
+{{% highlight tip %}}
+Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
+
+- Bosnien und Herzegowina (ŽFBH, ŽRS),
+- Bulgarien (BDŽ),
+- Nordmazedonien (MŽ-Transport),
+- Griechenland (HT & Attica),
+- Montenegro (ŽPCG),
+- Rumänien (CFR Calatori & Regiotrans),
+- Serbien (SV),
+- Türkei (TCDD).
+
+[Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
+
 ## Tarifliche Besonderheiten
 
 ### Upgrades
