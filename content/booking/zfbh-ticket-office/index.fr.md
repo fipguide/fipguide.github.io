@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "Guichet ŽFBH"
 description: "Informations de réservation pour les guichets ŽFBH."
 params:

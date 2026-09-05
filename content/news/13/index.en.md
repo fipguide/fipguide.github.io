@@ -1,6 +1,5 @@
 ---
 date: 2026-09-03
-draft: false
 title: "GoCollective becomes DSB Vores Tog"
 description: DSB is acquiring GoCollective, thus expanding the route network usable with FIP.
 country:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "Guichet ŽRS"
 description: "Informations de réservation pour les guichets ŽRS."
 params:
