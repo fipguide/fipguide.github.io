@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Entur Chat
 description: Buchungsinformationen für den Entur Chat.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Eurostar
 country:
   - belgium

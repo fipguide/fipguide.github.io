@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SNCB Fahrkartenautomat
 description: Buchungsinformationen für die SNCB Fahrkartenautomaten.
 params:

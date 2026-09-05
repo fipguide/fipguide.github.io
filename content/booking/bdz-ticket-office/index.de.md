@@ -1,5 +1,4 @@
 ---
-draft: false
 title: BDŽ Ticketschalter
 description: Buchungsinformationen für die BDŽ Ticketschalter.
 params:

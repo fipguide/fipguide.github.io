@@ -1,5 +1,4 @@
 ---
-draft: false
 title: DSB Website
 description: Buchungsinformationen für die DSB Website.
 params:

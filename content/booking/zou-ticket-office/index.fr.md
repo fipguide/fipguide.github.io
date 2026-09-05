@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet ZOU!
 description: Informations de réservation pour les guichets ZOU !.
 params:

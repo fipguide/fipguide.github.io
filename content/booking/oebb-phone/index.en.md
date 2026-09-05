@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ÖBB Telephone
 description: Booking information for the ÖBB hotline.
 params:

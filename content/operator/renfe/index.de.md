@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Renfe
 country:
   - spain

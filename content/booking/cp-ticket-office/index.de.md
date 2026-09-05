@@ -1,5 +1,4 @@
 ---
-draft: false
 title: CP Ticketschalter
 description: Buchungsinformationen für die CP Ticketschalter.
 params:

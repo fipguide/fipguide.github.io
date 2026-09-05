@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Liechtenstein
 country: liechtenstein
 ---

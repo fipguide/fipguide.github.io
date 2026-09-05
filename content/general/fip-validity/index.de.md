@@ -1,5 +1,4 @@
 ---
-draft: false
 title: FIP Beantragung
 pagefind_ignore: true
 aliases:

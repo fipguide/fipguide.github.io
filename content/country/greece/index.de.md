@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Griechenland
 country: greece
 params:

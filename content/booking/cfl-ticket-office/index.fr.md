@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet CFL
 description: Informations de réservation pour les guichets CFL à la gare.
 params:

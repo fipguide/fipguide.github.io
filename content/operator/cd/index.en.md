@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ČD
 country:
   - czechia

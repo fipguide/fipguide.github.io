@@ -1,5 +1,4 @@
 ---
-draft: false
 title: DB Website FIP (DB Mitarbeitende)
 description: Buchungsinformationen für FIP Fahrscheine für DB Mitarbeitende für
   deutsche Nachbarländer

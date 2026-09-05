@@ -1,5 +1,4 @@
 ---
-draft: false
 title: PKP Intercity Ticket Machine
 description: Booking information for PKP Intercity ticket machines.
 params:

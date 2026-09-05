@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Dolnośląskie Ticket Machine
 description: Booking information for the Koleje Dolnośląskie ticket machines.
 params:

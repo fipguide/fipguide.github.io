@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet Koleje Małopolskie
 description: Informations de réservation pour le guichet Koleje Małopolskie.
 params:

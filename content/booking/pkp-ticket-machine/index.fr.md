@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Distributeurs de billets PKP Intercity
 description: Informations de réservation pour les distributeurs de billets PKP Intercity.
 params:

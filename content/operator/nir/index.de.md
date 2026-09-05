@@ -1,5 +1,4 @@
 ---
-draft: false
 title: NIR
 country:
   - united-kingdom

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: DSB Ticketschalter
 description: Buchungsinformationen für die DSB Ticketschalter.
 params:

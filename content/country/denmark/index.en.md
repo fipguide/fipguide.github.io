@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Denmark
 country: denmark
 params:

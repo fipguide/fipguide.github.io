@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet DSB
 description: Informations de réservation aux guichets de la DSB.
 params:

@@ -1,6 +1,5 @@
 ---
 date: 2025-02-16
-draft: false
 author: Willy
 title: Billets FIP transfrontaliers de la SNCB
 description: La SNCB propose désormais des Billets FIP transfrontaliers en

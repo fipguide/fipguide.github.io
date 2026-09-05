@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ŽPCG
 country:
   - montenegro

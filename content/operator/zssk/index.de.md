@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ZSSK / ŽSR
 country:
   - slovakia

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Romania
 country: romania
 params:

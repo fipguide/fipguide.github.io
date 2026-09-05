@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ÖBB Website
 description: Booking information for the ÖBB website.
 params:

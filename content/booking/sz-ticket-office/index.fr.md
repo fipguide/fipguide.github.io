@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet SŽ
 description: Informations de réservation pour les guichets SŽ.
 params:

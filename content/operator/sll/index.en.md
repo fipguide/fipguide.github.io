@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Stena Line Limited
 country:
   - ireland

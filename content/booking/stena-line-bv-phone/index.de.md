@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Stena Line BV Telefon
 description: Buchungsinformationen für die Buchung per Telefon bei Stena Line BV
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Translink Ticketschalter
 description: Buchungsinformationen für den Translink Ticketschalter.
 params:

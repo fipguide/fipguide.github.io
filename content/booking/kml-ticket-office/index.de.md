@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Małopolskie Ticketschalter
 description: Buchungsinformationen für die Koleje Małopolskie Ticketschalter.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Hellenic Train
 country:
   - greece

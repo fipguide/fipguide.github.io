@@ -1,5 +1,4 @@
 ---
-draft: false
 title: GySEV / Raaberbahn
 country:
   - austria

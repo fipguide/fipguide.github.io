@@ -2,7 +2,6 @@
 date: 2026-08-08
 title: Edit the FIP Guide yourself quickly and easily
 description: From now on, information can be edited quickly and easily directly on the website without prior knowledge.
-draft: false
 ---
 
 From now on, information can be edited quickly and easily directly on the website without prior technical knowledge. If you find an error on a page or want to update information, you can do this directly on the FIP Guide website. The only requirement is a free GitHub account.

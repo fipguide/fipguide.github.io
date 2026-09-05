@@ -1,5 +1,4 @@
 ---
-draft: false
 title: NS
 country:
   - netherlands

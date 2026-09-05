@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Irish Rail Ticket Office
 description: Booking information for the Irish Rail Ticket Office.
 params:

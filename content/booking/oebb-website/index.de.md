@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ÖBB Website
 description: Buchungsinformationen für die ÖBB Website.
 params:

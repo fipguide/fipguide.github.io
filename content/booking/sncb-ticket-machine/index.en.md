@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SNCB Ticket Machine
 description: Booking information for SNCB ticket machines.
 params:

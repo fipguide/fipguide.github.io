@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "Bosnien und Herzegowina"
 country: "bosnia-and-herzegovina"
 ---

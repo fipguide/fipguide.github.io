@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet Trenitalia
 description: Informations de réservation pour les guichets Trenitalia.
 params:

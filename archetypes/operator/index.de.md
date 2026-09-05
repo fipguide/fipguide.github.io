@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "{{ .File.ContentBaseName | upper }}"
 country:
   # Füge die englischen Abkürzungen der Länder hinzu, in denen die Bahngesellschaft fährt.

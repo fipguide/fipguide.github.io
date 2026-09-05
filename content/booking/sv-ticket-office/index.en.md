@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Srbija Voz Ticket Office
 description: Booking information for Srbija Voz ticket offices.
 params:
