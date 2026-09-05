@@ -13,18 +13,17 @@ params:
 
 ## Billets FIP 50
 
-Les Billets FIP 50 peuvent être achetés aux guichets Trenitalia. Une réduction de 50 % sur le tarif _TARIFFA REGIONALE_ est généralement appliquée. Pour les trains longue distance, le supplément _CAMBIO SERVIZIO_ est en outre requis.
-
+Les Billets FIP 50 peuvent être achetés aux guichets Trenitalia. Une réduction de 50 % sur le tarif _TARIFFA REGIONALE_ est généralement appliquée. Pour les trains longue distance, le supplément supplément _Biglietti gratuiti FS_ (calculé selon le tarif _CAMBIO SERVIZIO_) est en outre requis.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
 ## Réservations
 
-Le supplément _CAMBIO SERVIZIO_ pour les trains longue distance ne peut être acheté qu'en gare aux guichets Trenitalia.
+Le supplément _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) pour les trains longue distance ne peut être acheté qu'en gare aux guichets Trenitalia.
 
 {{< highlight inofficial >}}
-Parfois, le supplément _DIRITTO AMMISSIONE_ est vendu à la place. Ce supplément est moins cher que _CAMBIO SERVIZIO_ et n'est officiellement valable que pour les voyages de service, mais nous ne sommes pas au courant de problèmes lors des contrôles de billets lors de l'utilisation de ces billets pour des voyages privés.
+Parfois, le supplément _DIRITTO AMMISSIONE_ est vendu à la place. Ce supplément est moins cher que _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) et n'est officiellement valable que pour les voyages de service, mais nous ne sommes pas au courant de problèmes lors des contrôles de billets lors de l'utilisation de ces billets pour des voyages privés.
 
 **Tarifs pour _DIRITTO AMMISSIONE_ :**
 
@@ -32,7 +31,6 @@ Le Frecce (FR, FA, FB) : 25 € (1ère/2ᵉ classe) \
 InterCity (IC) : 3 € (1ère/2ᵉ classe) \
 InterCity Notte (ICN) : 25 € (1ère/2ᵉ classe, voiture assise)
 {{< /highlight >}}
-
 {{% /booking-section %}}
 
 {{< highlight tip >}}
