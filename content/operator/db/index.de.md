@@ -348,19 +348,6 @@ Kinder unter 6 Jahren reisen immer kostenlos und benötigen kein eigenes Ticket.
 Im Nordhessischen Verkehrsverbund (NVV) werden im Regionalverkehr keine Vergünstigungen für Mitarbeitende der DB anerkannt. Somit gelten hier auch keine FIP Vergünstigungen.
 Hier gibt es eine [Übersichtskarte](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Liniennetz_Nordhessen_Schematisch.pdf) der betroffenen Regionalzug-Linien.
 
-### DB Regio Stuttgart
-
-DB Regio Stuttgart (früher SWEG Bahn Stuttgart) akzeptiert keine FIP Vergünstigungen. Dazu zählen die Linien: [^2]
-
-- RE 6: Tübingen - Stuttgart
-- RE 10a: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
-- RE 10b: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
-- RE 12: Tübingen - Stuttgart - Heilbronn
-- RE 17a: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
-- RE 17c: Stuttgart - Mühlacker - Bretten - Bruchsal
-- RE 18: Tübingen - Stuttgart - Heilbronn - Osterburken
-- RE 71: Mühlacker - Bretten - Bruchsal – Heidelberg
-
 ### DB Regio Bayern
 
 Die Züge von DB Regio Bayern zwischen Nürnberg Hbf und Regensburg Hbf werden im Auftrag für das Eisenbahnunternehmen agilis betrieben. Daher werden in diesem Abschnitt keine FIP Vergünstigungen anerkannt. [^2]
@@ -388,7 +375,7 @@ In folgendem Beispiel liegt die gewählte Verbindung im Verkehrsverbund _VRS_:
 
 ### Tarifliche Unterscheidung zwischen Nah- und Fernverkehr
 
-Bei FIP 50 Tickets können flexibel Züge auf der gleichen Strecke genutzt werden. Dabei muss aber auf die Zugkategorien geachten werden, da bei der DB wird zwischen Fahrkarten für verschiedene Zugkategorien unterschieden (sogenannte _[Produktklassen](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)_) wird. Fahrkarten (auch FIP 50 Tickets) gelten nur in der gleichen und niedriegen Produktklassen. Die Produktklasse ist auf Fahrkarten vermerkt (z.B. _ICE Fahrkarte_ oder _IC/EC Fahrkarte_) und richtet sich nach der höchsten Zugkategorie auf der gebuchten Verbindung.
+Bei FIP 50 Tickets können flexibel Züge auf der gleichen Strecke genutzt werden. Dabei muss aber auf die Zugkategorien geachten werden, da bei der DB zwischen Fahrkarten für verschiedene Zugkategorien unterschieden (sogenannte _[Produktklassen](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)_) wird. Fahrkarten (auch FIP 50 Tickets) gelten nur in der gleichen und niedriegen Produktklassen. Die Produktklasse ist auf Fahrkarten vermerkt (z.B. _ICE Fahrkarte_ oder _IC/EC Fahrkarte_) und richtet sich nach der höchsten Zugkategorie auf der gebuchten Verbindung.
 
 Es gibt folgende Produktklassen:
 
@@ -433,7 +420,9 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 
 ## Empfehlungen
 
-Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedlich sind. Beispielsweise besteht auch die Möglichkeit die Thüringer Bergbahn zu benutzen, die von Obstfelderschmiede nach Cursdorf fährt. Auch Verbindungen durch den Schwarzwald (Schwarzwaldbahn) oder durch das Rheintal an der linken Rheinstrecke sind sehr zu empfehlen. Im Fernverkehr ist ein Highlight, dass es normalerweise in jeder ´ICE´ Verbindung ein Bordrestaurant gibt. Dieses bietet zwar keine frisch gekochten Speisen, die Gerichte sind jedoch trotzdem sehr vielfältig.
+Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedlich sind. Beispielsweise besteht auch die Möglichkeit die Thüringer Bergbahn zu benutzen, die von Obstfelderschmiede nach Cursdorf fährt. Auch Verbindungen durch den Schwarzwald (Schwarzwaldbahn) oder durch das Rheintal an der linken Rheinstrecke sind sehr zu empfehlen.
+
+Im Fernverkehr ist ein Highlight, dass es normalerweise in jeder `ICE` Verbindung ein Bordrestaurant gibt. Dieses bietet zwar keine frisch gekochten Speisen, die Gerichte sind jedoch trotzdem sehr vielfältig. Die jeweils aktuelle Speisekarte kann [hier](https://db-bordgastronomie.de/digitalespeisekarte) eingesehen werden, alle zwei Monate gibt es neue saisonale Speisen und Getränke. An Bord von `ICE` Verbindungen kann zudem das [ICE Portal](https://iceportal.de) genützt werden, welches Reiseinformationen und die Live-Speisekarte anzeigt sowie eine Vielzahl an Filmen, Podcasts und Zeitungen bereithält.
 
 <!--
   Persönliche Empfehlungen und besondere persönliche Hinweise für die Fahrt
