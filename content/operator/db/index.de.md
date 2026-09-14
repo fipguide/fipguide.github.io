@@ -47,7 +47,7 @@ Der `ICE` ist ein Hochgeschwindigkeitszug und die höchste Zugkategorie der DB. 
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
 
-Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich, Belgien und in die Niederlande gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
+Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich, Belgien, Dänemark und in die Niederlande gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
 
 {{% /train-category %}}
 
@@ -60,11 +60,47 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich, Belgie
     reservation_possible=true
 %}}
 
-Grenzüberschreitende Hochgeschwindigkeitszüge der SNCF in Kooperation mit der DB. Diese verkehren von Frankfurt, Mannheim, Karlsruhe, Saarbrücken, Stuttgart und München nach Paris.
+Grenzüberschreitende Hochgeschwindigkeitszüge der SNCF in Kooperation mit der DB. Diese verkehren von Frankfurt, Mannheim, Saarbrücken, München, Stuttgart und Karlsruhe nach Paris.
+
+{{< highlight confusion >}}
+Die SNCF fährt `TGV` Züge von und nach Freiburg, welche ausschliesslich durch die SNCF betrieben werden. Hier gelten keine FIP Tickets der DB, es muss ein FIP Globalpreis der SNCF erworben werden, auch wenn die Fahrt nur innerhalb Deutschlands verkehrt.9
+{{< /highlight >}}
 
 #### Reservierungen
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ece"
+    title="Eurocity-Express (ECE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Internationale Schnellzüge der höchsten Kategorie.
+
+Sie werden betrieben von
+
+- der DSB in Kooperation mit der DB zwischen Hamburg und Kopenhagen;
+- der SBB in Kooperation mit der DB und Trenitalia auf der Strecke zwischen Frankfurt, Karlsruhe, Zürich und Mailand;
+- der SBB in Kooperation mit der DB und der ÖBB auf der Strecke zwischen München, Bregenz und Zürich.
+
+{{< highlight important >}}
+Die Züge Richtung Italien sind ab der italienischen Grenze aufschlags- und reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([siehe Anreise Italien](/country/switzerland#italien "Anreise Italien")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
+
+**Aufschlag/Reservierung Italien:**
+
+- 1\. Klasse: 13 €
+- 2\. Klasse: 11 €
+  {{< /highlight >}}
+
+#### Reservierungen
+
+Reservierungspflicht bei grenzüberschreitenden Fahrten nach Italien und der Hochsaison nach Dänemark.
 
 {{% /train-category %}}
 
@@ -81,7 +117,7 @@ Internationale Schnellzüge der höchsten Kategorie.
 
 Sie werden betrieben von
 
-- der ÖBB in Kooperation mit der DB auf der Strecke zwischen München, Österreich und Italien oder Ungarn.
+- der ÖBB in Kooperation mit der DB auf der Strecke zwischen München, Österreich und Italien oder Ungarn;
 - der ČD in Kooperation mit der DB zwischen Hamburg, Berlin, Dresden sowie Prag. Teilweise werden die Züge bis Kopenhagen verlängert und verkehren zusätzlich in Kooperation mit der DSB.
 
 Railjets mit weniger Halten werden als Railjet Xpress vermarktet. Die Züge besitzen ein Bistro.
@@ -114,32 +150,6 @@ Einige [Nightjet](#nj)-Verbindungen werden mit `IC`-Sitzwagen geführt. Diese Si
 {{% /train-category %}}
 
 {{% train-category
-    id="ece"
-    title="Eurocity-Express (ECE)"
-    type="highspeed"
-    fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
-%}}
-
-Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen München und Zürich. Seit Dezember 2025 wird die Zugkategorie auch für weitere Verkehre zwischen der Schweiz und Deutschland sowie Zügen auf der Route Hamburg – Kopenhagen genutzt.
-
-{{< highlight important >}}
-Die Züge Richtung Italien sind ab der italienischen Grenze aufschlags- und reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([siehe Anreise Italien](/country/switzerland#italien "Anreise Italien")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
-
-**Aufschlag/Reservierung Italien:**
-
-- 1\. Klasse: 13 €
-- 2\. Klasse: 11 €
-  {{< /highlight >}}
-
-#### Reservierungen
-
-Reservierungspflicht bei grenzüberschreitenden Fahrten nach Italien und der Hochsainson nach Dänemark.
-
-{{% /train-category %}}
-
-{{% train-category
     id="ec"
     title="Eurocity (EC)"
     type="highspeed"
@@ -166,10 +176,10 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Tschechien gab es i
     reservation_possible=true
 %}}
 
-Nachtzüge der ÖBB in Kooperation mit der DB in verschiedene europäische Länder. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben.
+Nachtzüge der ÖBB `NJ` sowie anderer Bahnen `EN` in Kooperation mit der DB in verschiedene europäische Länder. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an.
 
 {{< highlight important >}}
-Nationale Freifahrten für Mitarbeiter der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis erforderlich.
+Nationale Freifahrten für Mitarbeiter der Deutschen Bahn werden in `NJ` Zügen innerhalb Deutschlands nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis erforderlich.
 {{< /highlight >}}
 
 **FIP Globalpreis:** ja \
@@ -375,7 +385,7 @@ In folgendem Beispiel liegt die gewählte Verbindung im Verkehrsverbund _VRS_:
 
 ### Tarifliche Unterscheidung zwischen Nah- und Fernverkehr
 
-Bei FIP 50 Tickets können flexibel Züge auf der gleichen Strecke genutzt werden. Dabei muss aber auf die Zugkategorien geachten werden, da bei der DB zwischen Fahrkarten für verschiedene Zugkategorien unterschieden (sogenannte _[Produktklassen](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)_) wird. Fahrkarten (auch FIP 50 Tickets) gelten nur in der gleichen und niedriegen Produktklassen. Die Produktklasse ist auf Fahrkarten vermerkt (z.B. _ICE Fahrkarte_ oder _IC/EC Fahrkarte_) und richtet sich nach der höchsten Zugkategorie auf der gebuchten Verbindung.
+Bei FIP 50 Tickets können flexibel Züge auf der gleichen Strecke genutzt werden. Dabei muss aber auf die Zugkategorien geachten werden, da bei der DB zwischen Fahrkarten für verschiedene Zugkategorien (sogenannte _[Produktklassen](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)_) unterschieden wird. Fahrkarten (auch FIP 50 Tickets) gelten nur in der gleichen und niedrigeren Produktklassen. Die Produktklasse ist auf der Fahrkarte vermerkt (z.B. _ICE Fahrkarte_ oder _IC/EC Fahrkarte_) und richtet sich nach der höchsten Zugkategorie auf der gebuchten Verbindung.
 
 Es gibt folgende Produktklassen:
 
@@ -392,7 +402,7 @@ Die DB betreibt den Autoreisezug _Syltshuttle_, welcher von Niebüll Autoverladu
 
 ### Schifffahrt und Inselbahn Wangerooge
 
-FIP Freifahrtscheine gelten im Fährverkehr zwischen Harlesiel Anleger und Wangerooge und Inselbahn Wangerooge. FIP 50 Tickets sind nicht buchbar.
+FIP Freifahrtscheine gelten im Fährverkehr zwischen Harlesiel Anleger und Wangerooge und auf der Inselbahn Wangerooge. FIP 50 Tickets sind nicht buchbar.
 
 ### S-Bahn Mitteldeutschland (S5/X)
 
