@@ -60,4 +60,4 @@ Von Deutschland aus kann der durchgängige `ECE` Hamburg – Kopenhagen genutzt 
 
 Alternativ gibt es mehrfach täglich `IC` Züge von Flensburg bis Fredericia, wo gute Umsteigemöglichkeiten in Richtung Aarhus/Aalborg und Kopenhagen bestehen.
 
-Per Nahverkehr ist auch eine Einreise über Tønder möglich. Die DSB betreibt als "DSB Vores Tog" den dänischen Streckenabschnitt, auf welchem FIP genutzt werden kann. Für den deutschen Abschnitt wird ein normales Ticket oder alternativ das Deutschlandticket benötigt, da die Züge dort von der NEG betrieben werden. Alternativ gibt es die Möglichkeit per Fähre von Puttgarden oder Warnemünde aus einzureisen.
+Per Nahverkehr ist auch eine Einreise über Tønder möglich. Die DSB betreibt als "DSB Vores Tog" den dänischen Streckenabschnitt, auf welchem FIP genutzt werden kann. Für den deutschen Abschnitt wird ein normales Ticket oder alternativ das Deutschlandticket benötigt, da die Züge dort von der NEG betrieben werden. Zudem gibt es die Möglichkeit, per Fähre nach Rødby oder Gedser einzureisen; hierbei gelten jedoch keine Ermässigungen.
