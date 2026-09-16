@@ -47,7 +47,7 @@ The `ICE` is a high-speed train and the highest train category of DB. It connect
 
 Reservation required for cross-border journeys to France.
 
-In the past, there was a reservation requirement for cross-border journeys in summer months to Austria, Belgium and the Nederlands. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
+In the past, there was a reservation requirement for cross-border journeys in summer months to Austria, Belgium, Denmark and the Nederlands. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
 
 {{% /train-category %}}
 
@@ -348,19 +348,6 @@ Children under 6 years always travel free and do not need their own ticket.
 In the Nordhessischer Verkehrsverbund (NVV), no discounts for DB employees are recognized in regional transport. Therefore, no FIP discounts apply here.
 A [map](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Liniennetz_Nordhessen_Schematisch.pdf) of the affected regional train lines is available.
 
-### DB Regio Stuttgart
-
-DB Regio Stuttgart (formerly SWEG Bahn Stuttgart) does not accept FIP discounts. These include the following lines: [^2]
-
-- RE 6: Tübingen - Stuttgart
-- RE 10a: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
-- RE 10b: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
-- RE 12: Tübingen - Stuttgart - Heilbronn
-- RE 17a: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
-- RE 17c: Stuttgart - Mühlacker - Bretten - Bruchsal
-- RE 18: Tübingen - Stuttgart - Heilbronn - Osterburken
-- RE 71: Mühlacker - Bretten - Bruchsal – Heidelberg
-
 ### DB Regio Bayern
 
 The trains of DB Regio Bayern between Nürnberg Hbf and Regensburg Hbf are operated on behalf of the railway operator agilis. Therefore, no FIP discounts are recognized on this section. [^2]
@@ -421,7 +408,9 @@ On rail replacement buses, FIP discounts apply when they replace a train on whic
 
 ## Recommendations
 
-Deutsche Bahn operates a wide variety of connections. For example, you can use the Thuringian Mountain Railway from Obstfelderschmiede to Cursdorf. Connections through the Black Forest (Black Forest Railway) or along the left Rhine route are also highly recommended. In long-distance transport, a highlight is that there is usually a restaurant car on every ´ICE´ connection. Although the food is not freshly cooked, the dishes are still very varied.
+Deutsche Bahn operates a wide variety of connections. For example, you can use the Thuringian Mountain Railway from Obstfelderschmiede to Cursdorf. Connections through the Black Forest (Black Forest Railway) or along the left Rhine route are also highly recommended.
+
+In long-distance transport, a highlight is that there is usually a restaurant car on every `ICE` connection. Although the food is not freshly cooked, the dishes are still very varied. The current menu can be viewed [here](https://db-bordgastronomie.de/digitalespeisekarte); new seasonal dishes and drinks are introduced every two months. On board `ICE` services, you may also use the [ICE Portal](https://iceportal.de/uk-international-guests), which displays travel information and the currently available menu, as well as offering a wide range of films, podcasts and newspapers.
 
 <!--
     Personal recommendations and special personal notes for the journey
