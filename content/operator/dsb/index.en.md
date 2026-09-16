@@ -183,12 +183,6 @@ FIP facilities are not valid on Øresundståg services from Københavns Hovedban
 
 FIP 50 Tickets cannot be issued for trips between stations within the Copenhagen metropolitan area or the Aarhus-Grenaa region. Only trips beyond these regions are possible. FIP Coupons, however, are valid for trips within these regions.
 
-### Use of Ferries
-
-{{% highlight inofficial %}}
-Allegedly, FIP 50 Tickets are valid on Scandlines ferries in connection with a train journey through Denmark. However, this has not yet been confirmed by us. [^1]
-{{% /highlight %}}
-
 ### Connections - AJC
 
 This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
