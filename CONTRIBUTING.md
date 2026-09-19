@@ -89,7 +89,7 @@ hugo new booking/${PLATFORM} # Replace ${PLATFORM} with the name of the booking 
 
 ### Use AI for translation and quality checks
 
-We provide commands to automatically translate and check pages. To define the commands, we use the [OpenCode AI framework](https://opencode.ai/). It's open source and can be used with different providers, models (OpenAI, Github Copilot, Anthropic), and [IDEs](https://opencode.ai/docs/ide/#installation).
+We provide commands to automatically translate and check pages. To define the commands, we use the [OpenCode AI framework](https://opencode.ai/). It's open source and can be used with different providers, models (OpenAI, GitHub Copilot, Anthropic), and [IDEs](https://opencode.ai/docs/ide/#installation).
 
 #### Installation
 
@@ -98,7 +98,7 @@ We provide commands to automatically translate and check pages. To define the co
 3. Open the OpenCode CLI with `opencode` in a terminal.
 4. Run `/models` to select the model you want to use.
 
-Inside the OpenCode Terminal, you can ask any question, similarly to Github Copilot or Claude Chat. In addition, we provide helpful commands:
+Inside the OpenCode Terminal, you can ask any question, similarly to GitHub Copilot or Claude Chat. In addition, we provide helpful commands:
 
 - `/translate {page}`: Update the translations and add missing translations of the page. `{page}` can be the name of an operator, a country, a booking plattform, or a path to a file.
 - `/check {page}`: Check the page for common mistakes and report them. `{page}` can be the name of an operator, a country, a booking plattform, or a path to a file.

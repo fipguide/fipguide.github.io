@@ -1,9 +1,11 @@
 ---
-draft: false
-title: "Hellenic Train"
+title: Hellenic Train
 country:
-  - "greece"
-operator: "ht"
+  - greece
+operator: ht
+aliases:
+  - /booking/ht-ticket-office
+  - /booking/ht-website
 ---
 
 Die Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) betreibt den gesamten staatlichen Personenverkehr auf dem griechischen Normalspurnetz. Das Unternehmen betreibt Fern-, Regional- und den Vorortverkehr („Proastiakos“). Seit 2017 ist es eine hundertprozentige Tochter der italienischen Staatsbahn Ferrovie dello Stato Italiane (FS).
@@ -16,6 +18,7 @@ Die Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) bet
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Zugkategorien und Reservierungen
@@ -31,16 +34,16 @@ Die Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) bet
 
 Diese Züge verbinden Athen (Αθήνα) und Thessaloniki (Θεσσαλονίκη) sowie Larisa (Λάρισα) und andere größere Städte. Die Verbindung ist elektrifiziert und bietet die schnellsten Reisezeiten im Land. FIP wird vollständig anerkannt, jedoch ist eine kostenfreie Sitzplatzreservierung zwingend erforderlich.
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungen sind vorab zwingend zu erwerben. Sie können online oder vor Ort gekauft werden.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 Die IC-Züge sind häufiger einige Tage vorher ausgebucht. Es empfiehlt sich, sich rechtzeitig um eine Reservierung zu kümmern.
 
 Trick für Reisende mit FIP Freifahrtschein:
 Da online keine einzelnen Reservierungen verfügbar sind, buche zunächst ein FIP 50 Ticket. Dieses ist kostenfrei stornierbar. Vor Ort kannst du prüfen, ob noch Reservierungen verfügbar sind. Falls ja, storniere das FIP 50 Ticket, sonst fahre mit dem FIP 50 Ticket.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -50,15 +53,16 @@ Da online keine einzelnen Reservierungen verfügbar sind, buche zunächst ein FI
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
 
 Regionalzüge verbinden Städte und Regionen außerhalb der Hauptachse.
 
 Teilweise werden die Züge als Proastiakos oder Suburban Railway bezeichnet, was vergleichbar mit einer S-Bahn ist. In der Verbindungsauskunft erscheinen diese Verbindungen allerdings ebenfalls als Regionalzüge `REG`.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Touristische Verbindungen wie der Pelion-Train werden in der Verbindung ebenfalls als `REG` gekennzeichnet, allerdings gilt hier kein FIP.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -68,6 +72,7 @@ Touristische Verbindungen wie der Pelion-Train werden in der Verbindung ebenfall
     type="bus"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=true
 %}}
 
 Von Hellenic Train betriebene Busse erkennen FIP-Vergünstigungen an.[^1]
@@ -79,6 +84,8 @@ Von Hellenic Train betriebene Busse erkennen FIP-Vergünstigungen an.[^1]
     title="Touristische und historische Züge"
     type="regional"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Hellenic Train betreibt drei touristische bzw. historische Zugverbindungen, auf welchen allerdings kein FIP anerkannt wird.[^1]
@@ -87,7 +94,7 @@ Hellenic Train betreibt drei touristische bzw. historische Zugverbindungen, auf 
 - Zahnradbahn "Odontotos" von Diakopto (Διακοπτό) nach Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/attraction-rails)
 - Katakolo (Κατάκολο) – Olympia (Αρχαία Ολυμπία) (https://www.hellenictrain.gr/en/katakolo-olympia)
 
-{{< highlight info >}}
+{{< highlight tip >}}
 Laut Erfahrungsberichten kann die Zahnradbahn zwischen Diakopto und Kalavryta mit FIP Freifahrtschein und vor Ort erhältlicher, kostenfreier Reservierung genutzt werden. Die Nutzbarkeit mit FIP 50 können wir derzeit nicht validieren, da der Betrieb vorerst eingestellt wurde.[^3]
 {{< /highlight >}}
 
@@ -103,15 +110,15 @@ Laut Erfahrungsberichten kann die Zahnradbahn zwischen Diakopto und Kalavryta mi
 ### Online
 
 {{% booking id="ht-website"
-    fip_global_fare=nil
     fip_50=true
+    fip_global_fare=nil
 /%}}
 
 ### Vor Ort
 
 {{% booking id="ht-ticket-office"
-    fip_global_fare=nil
     fip_50=true
+    fip_global_fare=nil
 /%}}
 
 ### Im Zug
@@ -121,7 +128,28 @@ Wenn man die Reise an einem Bahnhof beginnt, an dem der Fahrkartenschalter unbes
 
 ## Ermäßigungen
 
-Bei öffentlichen Fahrpreisen reisen Kinder bis 4 Jahre kostenlos, Kinder bis 12 Jahren erhalten eine Ermäßigung von 50 % auf den Erwachsenenpreis. Ab 12 Jahren gilt der reguläre Erwachsenenfahrpreis.[^1]
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                                                                                                    |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos, sofern kein eigener Sitzplatz belegt wird; andernfalls 50% Rabatt auf den Erwachsenenpreis[^1][^6] |
+| {{< icon "child_care" >}} 4–11 Jahre | 50% Rabatt auf den Erwachsenenpreis[^1][^6]                                                                   |
+| {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis[^1]                                                                                           |
+
+{{% highlight tip %}}
+Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
+
+- Bosnien und Herzegowina (ŽFBH, ŽRS),
+- Bulgarien (BDŽ),
+- Nordmazedonien (MŽ-Transport),
+- Griechenland (HT & Attica),
+- Montenegro (ŽPCG),
+- Rumänien (CFR Calatori & Regiotrans),
+- Serbien (SV),
+- Türkei (TCDD).
+
+[Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Tarifliche Besonderheiten
 
@@ -142,7 +170,7 @@ Ein online gekauften Ticket kann am Ticketschalter oder bei der [telefonischen H
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782274-greece.html)
 
 [^2]: [Hellenic Train](https://www.hellenictrain.gr/en/ticket-sales-board)
 
@@ -151,3 +179,5 @@ Ein online gekauften Ticket kann am Ticketschalter oder bei der [telefonischen H
 [^4]: [Hellenic Train ETR PDF](https://www.hellenictrain.gr/sites/default/files/2022-11/Hellenic_Train_ETR_EN_0.pdf)
 
 [^5]: [Hellenic Train Terms and Conditions](https://www.hellenictrain.gr/sites/default/files/2024-10/2024.10.16-PASSENGER%20TERMS%20AND%20CONDITIONS-EN.pdf)
+
+[^6]: [Hellenic Train – Kinderangebote](https://www.hellenictrain.gr/en/children-offers)

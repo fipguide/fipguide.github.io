@@ -1,9 +1,10 @@
 ---
-draft: false
-title: "BDŽ"
+title: BDŽ
 country:
-  - "bulgaria"
-operator: "bdz"
+  - bulgaria
+operator: bdz
+aliases:
+  - /booking/bdz-ticket-office
 ---
 
 Balgarski Darschawni Schelesnizi (BDŽ) est la compagnie ferroviaire nationale de [Bulgarie](/country/bulgaria "Bulgarie") et exploite actuellement presque tous les services voyageurs sur le réseau ferroviaire bulgare.
@@ -17,6 +18,7 @@ Balgarski Darschawni Schelesnizi (BDŽ) est la compagnie ferroviaire nationale d
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les services BDŽ. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables dans chaque pays sont nécessaires.
@@ -24,7 +26,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les services BDŽ. Pour 
 ## Catégories de trains et réservations
 
 {{% highlight important %}}
-Les catégories de trains sont affichées dans les horaires BDŽ comme décrit ci-dessous. Dans d'autres horaires, les trains sont souvent simplement indiqués comme `R` ou `IR`.
+Les catégories de trains sont affichées dans les horaires BDŽ comme décrit ci-dessous. Dans d’autres horaires, les trains sont souvent simplement indiqués comme `R` ou `IR`.
 {{% /highlight %}}
 
 {{% train-category
@@ -33,14 +35,17 @@ Les catégories de trains sont affichées dans les horaires BDŽ comme décrit c
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=true
 %}}
-Trains internationaux reliant Bucarest (Roumanie) à Sofia ou Varna. Ces trains ne circulent directement qu'en été ; sinon, une correspondance à Ruse est nécessaire. Dans d'autres horaires, ils peuvent aussi être indiqués comme `IR`.
+
+Trains internationaux reliant Bucarest (Roumanie) à Sofia ou Varna. Ces trains ne circulent directement qu’en été ; sinon, une correspondance à Ruse est nécessaire. Dans d’autres horaires, ils peuvent aussi être indiqués comme `IR`.
 
 Certains trains de nuit comprennent également des voitures-couchettes ou des voitures-lits, qui peuvent être utilisées avec une réservation appropriée.
 
-#### Réservation
+#### Réservations
 
 La réservation de siège est obligatoire en 1ère et 2ᵉ classe.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -49,12 +54,15 @@ La réservation de siège est obligatoire en 1ère et 2ᵉ classe.
     type="highspeed"
     fip_accepted=true
     reservation_required=partially
+    reservation_possible=false
 %}}
-Trains relativement rapides reliant les grandes villes avec peu d'arrêts. Ils utilisent souvent du matériel plus moderne, par exemple d'anciennes voitures IC de la DB. Les trains de nuit peuvent inclure des voitures-couchettes ou lits, nécessitant une réservation.
 
-#### Réservation
+Trains relativement rapides reliant les grandes villes avec peu d’arrêts. Ils utilisent souvent du matériel plus moderne, par exemple d’anciennes voitures IC de la DB. Les trains de nuit peuvent inclure des voitures-couchettes ou lits, nécessitant une réservation.
+
+#### Réservations
 
 Une réservation est obligatoire pour certains trains (indiqué par _R_).
+
 {{% /train-category %}}
 
 {{% train-category
@@ -63,12 +71,15 @@ Une réservation est obligatoire pour certains trains (indiqué par _R_).
     type="highspeed"
     fip_accepted=true
     reservation_required=partially
+    reservation_possible=false
 %}}
-Trains nationaux reliant des villes avec peu d'arrêts.
 
-#### Réservation
+Trains nationaux reliant des villes avec peu d’arrêts.
+
+#### Réservations
 
 Une réservation est obligatoire pour certains trains (indiqué par _R_).
+
 {{% /train-category %}}
 
 {{% train-category
@@ -79,7 +90,9 @@ Une réservation est obligatoire pour certains trains (indiqué par _R_).
     reservation_required=false
     reservation_possible=true
 %}}
+
 Trains régionaux en trafic intérieur, généralement avec de nombreux arrêts et peu rapides. Seules des voitures de 2ᵉ classe sont disponibles.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -88,22 +101,11 @@ Trains régionaux en trafic intérieur, généralement avec de nombreux arrêts 
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Trains régionaux en trafic intérieur desservant la plupart des gares, circulant souvent à une fréquence plus élevée que les autres trains.
-{{% /train-category %}}
 
-{{% train-category
-    id="night-train"
-    title="Train de nuit"
-    type="sleeper"
-    fip_accepted=true
-    reservation_required=true
-%}}
-Trains circulant de nuit et nécessitant une réservation.
-
-{{% highlight important %}}
-Les prix de réservation pour les couchettes ou voitures-lits sont plus élevés que pour les réservations classiques.
-{{% /highlight %}}
 {{% /train-category %}}
 
 ## Achat de billets et réservations
@@ -118,7 +120,34 @@ Les billets à tarif réduit FIP ne peuvent être achetés à bord que si le dé
 
 ## Réductions
 
-Pour les billets ordinaires, les enfants de moins de 7 ans voyagent gratuitement. Sur les trajets nationaux, les enfants de moins de 10 ans, et sur les trajets internationaux, les enfants de moins de 12 ans bénéficient d’une réduction de 50 % sur le tarif adulte. Les enfants plus âgés paient le tarif adulte complet.
+{{< children-discount >}}
+
+| Âge                                     | Réduction        |
+| --------------------------------------- | ---------------- |
+| {{< icon "child_care" >}} 0–6 ans       | Gratuit[^3]      |
+| {{< icon "person" >}} à partir de 7 ans | Tarif normal[^3] |
+
+### Railway Passes
+
+La BDŽ propose des réductions supplémentaires pour les enfants, les familles, les étudiants et d’autres groupes avec des [Railway Passes](https://www.bdz.bg/en/a/railway-passes).[^2]
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass peut être intéressant sur le plan tarifaire. Il permet des trajets illimités sur les réseaux ferroviaires de :
+
+- Bosnie-Herzégovine (ZFBH),
+- Bulgarie (BDZ),
+- Macédoine du Nord (MŽ-Transport),
+- Grèce (HT & Attica),
+- Monténégro (ŽPCG),
+- Roumanie (CFR Calatori & Regiotrans),
+- Serbie (SV),
+- Slovaquie (ZSSK / ŽSR),
+- Turquie (TCDD).
+
+[Plus d’informations sur le site web de ŽPCG](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 
@@ -126,7 +155,7 @@ Pour les billets ordinaires, les enfants de moins de 7 ans voyagent gratuitement
 
 Si vous souhaitez voyager au-delà de la destination réservée, un supplément doit être payé en plus du billet pour la distance supplémentaire. [^1]
 
-### Interruption de voyage
+### Possibilité d’interrompre le trajet
 
 L’interruption de voyage n’est pas autorisée avec un billet continu.
 
@@ -138,4 +167,8 @@ La BDŽ propose encore une offre relativement large sur un réseau vieillissant.
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782242-bulgaria.html)
+
+[^2]: [BDŽ – Railway Passes](https://www.bdz.bg/en/a/railway-passes)
+
+[^3]: [BDŽ – Railway Passes and Discounts](https://www.bdz.bg/en/a/railway-passes-and-discounts)

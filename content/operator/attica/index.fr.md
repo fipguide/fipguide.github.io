@@ -1,13 +1,16 @@
 ---
-draft: false
-title: "Attica"
+title: Attica
 country:
-  - "greece"
-  - "italy"
-operator: "attica"
+  - greece
+  - italy
+operator: attica
+aliases:
+  - /booking/attica-agents
+  - /booking/attica-email
+  - /booking/attica-phone
 ---
 
-Le groupe Attica est un important opérateur grec de ferries exploitant plusieurs marques, dont Superfast Ferries, Blue Star Ferries, Hellenic Seaways et Anek Lines. L'entreprise exploite des liaisons maritimes nationales et internationales entre la Grèce continentale, l'Italie et les îles grecques.
+Le groupe Attica est un important opérateur grec de ferries exploitant plusieurs marques, dont Superfast Ferries, Blue Star Ferries, Hellenic Seaways et Anek Lines. L’entreprise exploite des liaisons maritimes nationales et internationales entre la Grèce continentale, l’Italie et les îles grecques.
 
 ## Résumé
 
@@ -17,7 +20,8 @@ Le groupe Attica est un important opérateur grec de ferries exploitant plusieur
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
-{{< fip-validity type="fip-reduced-ticket" subtitle="FIP 50" status="valid" disable_dialog=true >}}
+
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" disable_dialog=true >}}
 
 ## Catégories de navires et réservations
 
@@ -31,7 +35,7 @@ Le groupe Attica est un important opérateur grec de ferries exploitant plusieur
     additional_information_url="https://www.superfast.com/de-de/hafen-und-destinationen"
 %}}
 
-Les bénéficiaires FIP obtiennent une réduction de 50 % sur les classes de cabines ou de sièges, quelle que soit la classe d'ayant droit.[^2]
+Les bénéficiaires FIP obtiennent une réduction de 50 % sur les classes de cabines ou de sièges, quelle que soit la classe d’ayant droit.[^2]
 
 #### Lignes régulières
 
@@ -56,19 +60,19 @@ Les bénéficiaires FIP obtiennent une réduction de 50 % sur les classes de cab
 
 Les bénéficiaires FIP obtiennent une réduction de 50 % sur les classes de cabines ou de sièges.
 
-- Les bénéficiaires FIP de 1ère classe peuvent voyager en Business Class ou sur des sièges de type avion. Sur les lignes Le Pirée – Héraklion et Le Pirée – La Canée, la réduction s'applique également à une cabine partagée AB4 (4 couchettes intérieures).
-- Les bénéficiaires FIP de 2ᵉ classe peuvent voyager en Economy Class sur le pont. Sur les lignes Le Pirée – Héraklion et Le Pirée – La Canée, la réduction s'applique également aux sièges de type avion.[^2]
+- Les bénéficiaires FIP de 1ère classe peuvent voyager en Business Class ou sur des sièges de type avion. Sur les lignes Le Pirée – Héraklion et Le Pirée – La Canée, la réduction s’applique également à une cabine partagée AB4 (4 couchettes intérieures).
+- Les bénéficiaires FIP de 2ᵉ classe peuvent voyager en Economy Class sur le pont. Sur les lignes Le Pirée – Héraklion et Le Pirée – La Canée, la réduction s’applique également aux sièges de type avion.[^2]
 
-La réduction ne s'applique qu'au personnel en activité et à leurs proches, pas aux retraités et à leurs proches.[^2]
+La réduction ne s’applique qu’au personnel en activité et à leurs proches, pas aux retraités et à leurs proches.[^2]
 
-Aucun avantage FIP n'est accordé en juillet et août.[^2]
+Aucun avantage FIP n’est accordé en juillet et août.[^2]
 
 #### Lignes régulières
 
 - Cyclades
 - Dodécanèse
 - Îles Saroniques
-- Îles de l'Égée du Nord
+- Îles de l’Égée du Nord
 - Crète
 
 {{% /train-category %}}
@@ -84,11 +88,11 @@ Les cabines LUX sont exclues de tous les avantages FIP.[^2]
 
 ## Achat de billets et réservations
 
-Les billets de ferry doivent impérativement être réservés avant le départ ; l'enregistrement au bureau du port est obligatoire.[^1]
+Les billets de ferry doivent impérativement être réservés avant le départ ; l’enregistrement au bureau du port est obligatoire.[^1]
 
-Sur les liaisons internationales, des suppléments carburant, des suppléments environnementaux, des frais EU ETS et des taxes portuaires s'appliquent.[^2]
-Pour les lignes intérieures, il n'est pas nécessaire de payer les taxes portuaires séparément, car elles sont incluses dans le tarif.
-Aucune réduction n'est accordée pour le transport de véhicules.[^1]
+Sur les liaisons internationales, des suppléments carburant, des suppléments environnementaux, des frais EU ETS et des taxes portuaires s’appliquent.[^2]
+Pour les lignes intérieures, il n’est pas nécessaire de payer les taxes portuaires séparément, car elles sont incluses dans le tarif.
+Aucune réduction n’est accordée pour le transport de véhicules.[^1]
 
 ### En ligne
 
@@ -102,22 +106,46 @@ Aucune réduction n'est accordée pour le transport de véhicules.[^1]
 
 {{% booking id="attica-agents" /%}}
 
-Le jour du voyage, des réservations peuvent être effectuées sur place sous réserve de disponibilité. L'achat à bord des navires n'est pas possible.[^1]
+Le jour du voyage, des réservations peuvent être effectuées sur place sous réserve de disponibilité. L’achat à bord des navires n’est pas possible.[^1]
 
 ## Réductions
 
-Les enfants de moins de 4 ans n'occupant pas de lit, de couchette ou de siège paient 5,50 € par traversée.
-Sur les liaisons vers et depuis Ancône et Venise, les enfants de 4 à 16 ans paient 50 % du tarif adulte. Les personnes de 16 ans et plus paient le plein tarif adulte.
-Sur les liaisons vers et depuis Bari, les enfants de 4 à 12 ans paient 50 % du tarif adulte. Les personnes de 12 ans et plus paient le plein tarif adulte.[^1]
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                                                                                                                  |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| {{< icon "stroller" >}} 0–3 ans          | 6,00 € par traversée, à condition de n’occuper ni lit, ni couchette, ni siège inclinable ; sinon réduction de 50 % sur le tarif adulte[^3] |
+| {{< icon "child_care" >}} 4–12 ans       | Réduction de 50 % sur le tarif adulte, sur toutes les lignes[^3]                                                                           |
+| {{< icon "person" >}} à partir de 13 ans | Tarif normal[^3]                                                                                                                           |
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass peut être intéressant sur le plan tarifaire. Il permet des trajets illimités sur les réseaux ferroviaires de :
+
+- Bosnie-Herzégovine (ZFBH),
+- Bulgarie (BDZ),
+- Macédoine du Nord (MŽ-Transport),
+- Grèce (HT & Attica),
+- Monténégro (ŽPCG),
+- Roumanie (CFR Calatori & Regiotrans),
+- Serbie (SV),
+- Slovaquie (ZSSK / ŽSR),
+- Turquie (TCDD).
+
+[Plus d’informations sur le site web de ŽPCG](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 
 ### Surclassements
 
-Un surclassement de siège vers toute cabine (sauf LUX) est possible avec une réduction de 25 % sur la différence de prix entre l'arrangement initial et celui demandé. Les surclassements sont disponibles sous réserve de disponibilité dans les agences portuaires de Blue Star Ferries/Hellenic Seaways/Superfast Ferries/Anek Lines ou au bureau du commissaire de bord.[^2]
+Un surclassement de siège vers toute cabine (sauf LUX) est possible avec une réduction de 25 % sur la différence de prix entre l’arrangement initial et celui demandé. Les surclassements sont disponibles sous réserve de disponibilité dans les agences portuaires de Blue Star Ferries/Hellenic Seaways/Superfast Ferries/Anek Lines ou au bureau du commissaire de bord.[^2]
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782274-greece.html)
 
 [^2]: [Superfast Ferries](https://www.superfast.com/de-de/generic-information-pages/fip-mitglieder)
+
+[^3]: [Superfast Ferries – 50 % de réduction enfants](https://www.superfast.com/fr-fr/offres-speciales/50-de-reduction-enfants)

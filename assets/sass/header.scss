@@ -78,6 +78,10 @@
   @media print {
     display: none;
   }
+
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
 }
 
 #overlay.overlay--show {
@@ -90,11 +94,6 @@
 #header:has(.overlay--contentNavigation),
 .overlay--contentNavigation {
   z-index: 6;
-}
-
-#header:has(.overlay--search),
-.overlay--search {
-  z-index: 10;
 }
 
 #header:has(.overlay--mobileMenu),

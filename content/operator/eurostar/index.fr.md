@@ -1,13 +1,19 @@
 ---
-draft: false
-title: "Eurostar"
+title: Eurostar
 country:
-  - "belgium"
-  - "germany"
-  - "netherlands"
-  - "united-kingdom"
-  - "france"
-operator: "eurostar"
+  - belgium
+  - germany
+  - netherlands
+  - united-kingdom
+  - france
+operator: eurostar
+aliases:
+  - /booking/eurostar-phone
+  - /booking/eurostar-ticket-office
+  - /booking/ffestiniogtravel-email
+  - /booking/ffestiniogtravel-phone
+  - /booking/internationalrail-email
+  - /booking/railtourguide-website
 ---
 
 Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. À l’origine, seuls les trains bleus entre Londres et Paris/Bruxelles/Amsterdam via l’Eurotunnel étaient désignés comme Eurostar. Depuis la fusion entre Thalys et Eurostar, les anciens trains rouges Thalys sont désormais appelés Eurostar (Rouge). Eurostar circule en [Allemagne](/country/germany "Allemagne"), [France](/country/france "France"), au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), en [Belgique](/country/belgium "Belgique") et aux [Pays-Bas](/country/netherlands "Pays-Bas").
@@ -20,7 +26,9 @@ Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. �
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="invalid" subtitle="FIP 50 / FIP 75" disable_dialog=true >}}
+
 {{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 Les billets à Tarif Global FIP peuvent être achetés à prix fixe. Tous les billets sont spécifiques à un train, en raison de la réservation obligatoire. Il est toutefois possible de modifier ou annuler les Billets FIP via le [site Eurostar](https://www.eurostar.com/). Les Billets FIP ne peuvent pas être combinés dans un trajet continu avec correspondance. [^1]
@@ -67,8 +75,8 @@ Train à grande vitesse entre Belgique, France, Pays-Bas et Allemagne.
 | Trajet                   | Standard       | Plus           |
 | ------------------------ | -------------- | -------------- |
 | Trajet dans un seul pays | Non disponible | Non disponible |
-| Trajet entre 2 pays      | 18 €           | 35 €           |
-| Trajet entre 3 pays      | 20 €           | 40 €           |
+| Trajet entre 2 pays      | 18 € / 15,50 £ | 35 € / 30,50 £ |
+| Trajet entre 3 pays      | 20 € / 17,50 £ | 40 € / 35 £    |
 
 {{% /train-category %}}
 
@@ -99,13 +107,28 @@ Lors de la réservation, les prix en euros sont généralement plus avantageux q
 
 Les billets sont émis exclusivement sous forme numérique (email requis).
 
+La carte FIP doit être présentée lors de l'embarquement.
+
 ### En ligne
 
-Réservation en ligne non disponible. Mais la gestion du billet (annulation, échange, rebooking) est possible via le site Eurostar, plus d'informations sous [Modifications & Annulations](#modifications--annulations)
+Mais la gestion du billet (annulation, échange, rebooking) est possible via le site Eurostar, plus d’informations sous [Modifications & Annulations](#modifications--annulations). Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
 
-Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
+{{% booking id="railtourguide-website"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+/%}}
 
-{{% booking id="internationalrail-email" fip_50=nil fip_75=nil /%}}
+{{% booking id="ffestiniogtravel-email"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
+/%}}
+
+{{% booking id="internationalrail-email"
+    fip_50=nil
+    fip_75=nil
+/%}}
 
 ### Par téléphone
 
@@ -123,6 +146,12 @@ La réservation de Billets FIP vers ou depuis Londres (Eurostar Bleu) n’est pa
     fip_50=nil
     fip_global_fare=true
     reservations=nil
+/%}}
+
+{{% booking id="ffestiniogtravel-phone"
+    fip_50=nil
+    fip_75=nil
+    fip_global_fare=true
 /%}}
 
 ### En gare
@@ -157,19 +186,29 @@ Impossible d’acheter un billet à bord. Achat préalable obligatoire.
 
 ## Réductions
 
-Enfants jusqu’à 3 ans inclus: gratuit, mais sans place attribuée. Pas d’autres réductions enfants. Les enfants de moins de 12 ans doivent être accompagnés d’un adulte. [^2]
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                                          |
+| ---------------------------------------- | ------------------------------------------------------------------ |
+| {{< icon "stroller" >}} 0–4 ans          | Gratuit (sans place assise propre, sur les genoux d’un adulte)[^1] |
+| {{< icon "child_care" >}} 4–11 ans       | Réduction de 30 à 50 %[^2]                                         |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal[^2]                                                   |
+
+### Accompagnement Des Mineurs
+
+Les enfants de moins de 12 ans doivent être accompagnés par un adulte. Les enfants de 12 à 15 ans peuvent voyager avec une personne responsable de 16 ans ou plus, ou comme mineur non accompagné muni des documents requis.[^2]
 
 ## Conditions tarifaires spéciales
 
 ### Modifications & Annulations
 
-Les Billets FIP peuvent être modifiés ou annulés gratuitement jusqu'à une heure avant le départ. Passé ce délai, toute modification ou annulation est impossible.
+Les Billets FIP peuvent être modifiés ou annulés gratuitement jusqu’à l’heure de départ prévue du train. Passé ce délai, toute modification ou annulation est impossible.
 
-En principe, il n'est possible de rebooker que sur d'autres trains disponibles disposant encore de contingents suffisants, voir aussi [Quotas de billets](#quotas-de-billets). Lors d'une modification, il est également possible de passer d'Eurostar Standard à Eurostar Plus en payant la différence. En revanche, un déclassement d'Eurostar Plus à Eurostar Standard ne donnera pas lieu à un remboursement de la différence.
+En principe, il n’est possible de rebooker que sur d’autres trains disponibles disposant encore de contingents suffisants, voir aussi [Quotas de billets](#quotas-de-billets). Lors d’une modification, il est également possible de passer d’Eurostar Standard à Eurostar Plus en payant la différence. En revanche, un déclassement d’Eurostar Plus à Eurostar Standard ne donnera pas lieu à un remboursement de la différence.
 
-En cas d'annulation, le prix total des Billets FIP est remboursé. Les éventuels frais de réservation facturés par des prestataires externes ne sont pas remboursés.
+En cas d’annulation, le prix total des Billets FIP est remboursé. Les éventuels frais de réservation facturés par des prestataires externes ne sont pas remboursés.
 
-La modification, l'annulation et le passage à une classe supérieure sont possibles avec le numéro de réservation via le [site Eurostar](https://www.eurostar.com/customer-dashboard/en/get-booking).
+La modification, l’annulation et le passage à une classe supérieure sont possibles avec le numéro de réservation via le [site Eurostar](https://www.eurostar.com/customer-dashboard/en/get-booking).
 
 ### Quotas de billets
 
@@ -177,22 +216,13 @@ La modification, l'annulation et le passage à une classe supérieure sont possi
 Les Billets FIP sont soumis à quota. Il est conseillé de réserver tôt.
 {{% /highlight %}}
 
-La vérification des contingents de billets disponibles est possible via les sites suivants :
-
-- [Site Interrail](https://www.interrail.eu/fr/book-reservations) \
-   Uniquement pour vérifier les contingents de réservation. Les réservations achetées ne sont valables qu’avec un billet Interrail !
-- [Traivelling](https://traivelling.com/home) \
-   Indiquer la réduction _FIP 50%_. Des billets sont également vendus ici, mais nous ne pouvons pas nous prononcer sur la légitimité de cette offre.
+La disponibilité des quotas de billets peut être vérifiée via le [site Interrail](https://www.interrail.eu/fr/book-reservations). Il ne peut être utilisé que pour vérifier les quotas de réservation. Les réservations achetées ne sont valables qu’avec un billet Interrail.
 
 ### Correspondances
 
 #### HOTNAT (Correspondance à Bruxelles, Cologne, Paris)
 
-Pour Eurostar, l'achat de billets directs n'est pas possible. Cependant, pour garantir la correspondance lors d'un changement, il est possible d'utiliser [HOTNAT (Hop on the next available train)](https://www.railteam.eu/fr/am-i-eligible-for-hotnat/).
-
-Si la correspondance entre deux trains à grande vitesse est manquée en raison d'un retard ou d'une suppression, il est possible d'emprunter le prochain train disponible du même opérateur ou d'un autre membre Railteam. Pour cela, il faut demander le changement de réservation au guichet sur place.
-
-HOTNAT s'applique uniquement lors d'une correspondance entre trains à grande vitesse de membres Railteam (DB, Eurostar, NS, SBB, SNCB, SNCF, ÖBB) et dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle et Zurich. L'utilisation dépend du taux d'occupation des trains.
+Pour Eurostar, l’achat de billets directs n’est pas possible. Cependant, HOTNAT (Hop on the Next Available Train) peut être utilisé pour sécuriser la correspondance lors d’un changement. [Plus d’informations dans la FAQ.](/general/faq/#hotnat)
 
 #### London International CIV (Correspondance à Londres)
 
@@ -217,7 +247,7 @@ Cela garantit une protection en cas de retard d’un train britannique entraîna
 
 Si l’arrivée se fait dans une autre gare terminus de Londres et qu’il est nécessaire d’utiliser le métro pour rejoindre St Pancras, les billets vers London International incluent le trajet en métro.
 
-##### Réservation des billets
+##### Réservations des billets
 
 Les Billets FIP vers London International CIV ne peuvent probablement être achetés qu’au guichet dans les gares britanniques.
 
@@ -225,8 +255,8 @@ Sans réduction FIP, la réservation en ligne est possible via [Trainsplit](http
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782237-eurostar.html)
 
-[^2]: DB Travel Market
+[^2]: [Eurostar](https://www.eurostar.com/rw-en/travel-info/travel-planning/travel-with-children)
 
 [^3]: [Seat61](https://www.seat61.com/european-travel-from-uk-regions.htm)

@@ -1,9 +1,12 @@
 ---
-draft: false
-title: "KW"
+title: KW
 country:
-  - "poland"
-operator: "kw"
+  - poland
+operator: kw
+aliases:
+  - /booking/kw-ticket-machine
+  - /booking/kw-ticket-office
+  - /booking/kw-website
 ---
 
 Die Koleje Wielkopolskie, kurz KW, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Großpolen anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland) FIP anbietet.
@@ -16,9 +19,10 @@ Auf der Website der KW können alle [derzeit im Linienverkehr befahrenen Strecke
 - Nur 2. Klasse in den Zügen vorhanden und keine Reservierungen möglich.
 - Einige spezielle Fahrten sind von FIP ausgenommen.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der KW gültig.
@@ -29,37 +33,46 @@ Bei Fahrten mit verschiedenen Betreibern innerhalb Polens muss entweder ein durc
 
 Die KW unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel "KW" und im Anschluss eine konkrete Zugnummer, Liniennummern werden nicht genutzt. Es werden nur Tickets der 2. Klasse angeboten, da es in KW-Zügen keine 1. Klasse gibt. Zudem besteht keine Reservierungsmöglichkeit.
 
+FIP-Fahrkarten sind in Bussen der KW grundsätzlich nicht gültig. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
 ## Ticket- und Reservierungskauf
 
 ### Online
 
-{{% booking id="kw-website"
-%}}
+{{% booking id="kw-website" %}}
 FIP 50 Tickets sind für nationale Verbindungen und internationale Verbindungen verfügbar. Bei internationalen Verbindungen wird der FIP 50 Rabatt nur innerhalb Polens berücksichtigt. Außerhalb Polens wird der reguläre Preis berechnet.
 {{% /booking %}}
 
 {{% booking id="koleo-website"
     reservations=nil
-%}}
-{{% /booking %}}
+/%}}
 
 {{% booking id="db-website-fip-db"
-    reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+    reservations=nil
 /%}}
 
 {{% booking id="db-website-fip-international"
-    reservations=nil
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
+    reservations=nil
+/%}}
+
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Polen, mit Ticketanteil nur für den polnischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+    reservations=nil
 /%}}
 
 ### Vor Ort
 
-{{% booking id="kw-ticket-machine"/%}}
+{{% booking id="kw-ticket-machine" /%}}
 
-{{% booking id="kw-ticket-office"/%}}
+{{% booking id="kw-ticket-office" /%}}
 
-{{% booking id="db-ticket-office" reservations=nil /%}}
+{{% booking id="db-ticket-office"
+    reservations=nil
+/%}}
 
 ### Im Zug
 
@@ -67,7 +80,13 @@ FIP 50 Fahrkarten können auch direkt im Zug erworben werden. Dafür muss direkt
 
 ## Ermäßigungen
 
-Für reguläre Fahrkarten reisen Kinder unter 4 Jahren kostenlos. Kinder bis einschließlich 11 Jahren erhalten 50% Ermäßigung auf den Erwachsenentarif. Personen ab 12 Jahren zahlen den vollen Erwachsenentarif.[^1]
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung          |
+| ------------------------------------ | ------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos[^1]       |
+| {{< icon "child_care" >}} 4–11 Jahre | 50% Ermäßigung[^1]  |
+| {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis[^1] |
 
 {{% highlight tip %}}
 Unabhängig von FIP gibt es von Polregio ein preisgünstiges Wochenendticket, das in der Form des "BILET TURYSTYCZNY" auch für Züge der KW gültig ist. Damit können von Freitag 18 Uhr bis Montag 6 Uhr alle "Regio"-Züge der Polregio sowie alle Züge der KW, KMŁ, Arriva RP und ŁKA (außer ŁKA Sprinter) genutzt werden. Weitere Informationen auf der [Polregio Website](https://bilety.polregio.pl/en/sieciowe/47).
@@ -79,13 +98,13 @@ Unabhängig von FIP gibt es von Polregio ein preisgünstiges Wochenendticket, da
 
 In von der KW betriebenen Sonderzügen sind FIP-Fahrkarten nicht gültig.
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Fahrtunterbrechungen sind jederzeit möglich, es werden dafür keinerlei Nachweise benötigt.
 
-### Busse
+### Schienenersatzverkehr
 
-FIP-Fahrkarten sind nur in Bussen der KW gültig, die als Ersatz für einen Zug verkehren.
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 
@@ -95,4 +114,4 @@ FIP-Fahrkarten sind nur in Bussen der KW gültig, die als Ersatz für einen Zug 
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

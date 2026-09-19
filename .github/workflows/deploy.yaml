@@ -32,7 +32,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.155.1
+      HUGO_VERSION: 0.164.0
     steps:
       - name: Install Hugo CLI
         run: |
@@ -61,6 +61,7 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
+          FIPGUIDE_BRANCH: ${{ github.ref_name }}
           TZ: Europe/Berlin
         run: |
           hugo \

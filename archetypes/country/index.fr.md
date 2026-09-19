@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "{{ .File.ContentBaseName | title }}" # Change le nom par le nom du pays français
 country: "{{ .File.ContentBaseName }}"
 params:
@@ -39,7 +38,7 @@ params:
 ## Arrivée et points frontières
 
 <!--
-Uniquement les points frontaliers situés à la frontière nationale avec d’autres pays. Ils doivent être listés sous la forme : pays (opérateur ferroviaire) et leurs points de frontière.
+Uniquement les points frontaliers situés à la frontière nationale avec d’autres pays. Ils doivent être listés sous la forme : pays (opérateur ferroviaire) et leurs points de frontière. La liste est présentée dans le sens horaire, en commençant par le nord du pays.
 -->
 
 {{% expander "Points frontières" border %}}

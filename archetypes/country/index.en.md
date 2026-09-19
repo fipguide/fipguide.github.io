@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "{{ .File.ContentBaseName | title }}" # Change the name to the English country name
 country: "{{ .File.ContentBaseName }}"
 params:
@@ -39,7 +38,7 @@ params:
 ## Arrival and Border Points
 
 <!--
-Only border points at the national border with other countries. These should be listed as country (railway operator) and their border points.
+Only border points at the national border with other countries. These should be listed as country (railway operator) and their border points. The list is arranged in a clockwise direction, starting in the north of the country.
 -->
 
 {{% expander "Border Points" border %}}

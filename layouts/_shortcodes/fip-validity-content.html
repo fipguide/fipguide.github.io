@@ -1,0 +1,25 @@
+{{- $page := .Page -}}
+{{- $issuers := slice -}}
+{{- range where $page.Site.RegularPages "Type" "operator" -}}
+  {{- $appPage := .GetPage (printf "/application/%s" .File.ContentBaseName) -}}
+  {{- if and $appPage ($appPage.Resources.Get "validity.yaml") -}}
+    {{- $issuers = $issuers | append $appPage -}}
+  {{- end -}}
+{{- end -}}
+<div class="o-fip-validity__controls">
+  <span>
+    {{ T "fipValidity.selectIssuer" }}
+  </span>
+  {{ partial "fip-validity/issuer-dropdown" (dict
+    "id" "fip-validity-issuer"
+    "issuers" $issuers
+    )
+  }}
+</div>
+<p data-fip-select-first>{{ T "fipValidity.selectIssuerFirst" }}</p>
+
+{{- range $issuers -}}
+  <div data-fip-issuer="{{ .File.ContentBaseName }}" hidden>
+    {{ .Content | safeHTML }}
+  </div>
+{{- end -}}

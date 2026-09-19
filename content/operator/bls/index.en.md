@@ -1,8 +1,9 @@
 ---
-draft: false
-title: "BLS"
+title: BLS
 country:
-  - "switzerland"
+  - switzerland
+aliases:
+  - /booking/bls-ticket-office
 ---
 
 The BLS (formerly Bern-Lötschberg-Simplon-Bahn) is a public railway company in [Switzerland](/country/switzerland "Switzerland"). It operates many train, bus and ship connections and primarily runs in the Canton of Bern.
@@ -12,12 +13,13 @@ The BLS offers a [network map of its routes](https://www.bls.ch/-/media/bls/pdf/
 ## Summary
 
 - BLS accepts FIP Coupon and FIP 50 Tickets.
-- The use of all trains (except for car trains), buses, and ships with FIP is possible.
+- The use of all trains (except for Motorail trains), buses, and ships with FIP is possible.
 - No reservation is required.
 
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Train Categories and Reservations
@@ -25,35 +27,40 @@ The BLS offers a [network map of its routes](https://www.bls.ch/-/media/bls/pdf/
 There is no reservation requirement on any BLS train.
 
 {{% train-category
-        id="ir"
-        title="InterRegio (IR) / RegioExpress (RE)"
-        type="regional"
-        fip_accepted=true
-        reservation_required=false
-        reservation_possible=true
+    id="ir"
+    title="InterRegio (IR) / RegioExpress (RE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
 %}}
+
 National trains with stops in larger cities.
+
 {{% /train-category %}}
 
 {{% train-category
-        id="r"
-        title="Regio (R) / S-Bahn (S)"
-        type="regional"
-        fip_accepted=true
-        reservation_required=false
-        reservation_possible=false
+    id="r"
+    title="Regio (R) / S-Bahn (S)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Trains that stop at all stations. In urban areas also referred to as S-Bahn.
+
 {{% /train-category %}}
 
 {{% train-category
-        id="r"
-        title="Panorama Express (PE)"
-        type="regional"
-        fip_accepted=true
-        reservation_required=partially
-        reservation_possible=true
+    id="r"
+    title="Panorama Express (PE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
 %}}
+
 The GoldenPassExpress is a continuous train connection from Montreux to Interlaken Ost operated by the BLS in cooperation with the [MOB](/operator/sp#mob). The MOB operates the train on the narrow-gauge section between Montreux and Zweisimmen, and the BLS on the standard-gauge section between Zweisimmen and Interlaken Ost. In the connection information, these trains are marked as `PE`.
 
 This means that both the SP and BLS Coupons must be present to travel the entire route. FIP 50 Tickets can be booked continuously.
@@ -61,50 +68,59 @@ This means that both the SP and BLS Coupons must be present to travel the entire
 #### Reservations
 
 Traveling without a seat reservation is only possible if there are free seats available. Otherwise, a paid reservation can be purchased through the MOB website.
+
 {{% /train-category %}}
 
 {{% train-category
-        id="at"
-        title="Car Transport (AT)"
-        fip_accepted=false
-        type="regional"
+    id="at"
+    title="Car Transport (AT)"
+    type="regional"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Car trains on the routes Kandersteg – Göppenstein, Brig – Iselle, and Kandersteg – Iselle.
 
 FIP is not valid on these trains, but the parallel running trains of the `RE 1` can be used.
+
 {{% /train-category %}}
 
 ### Other Transport Means
 
 {{% train-category
-        id="bus"
-        title="Bus"
-        type="bus"
-        fip_accepted=true
-        reservation_required=false
-        reservation_possible=false
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
-FIP is valid on all BLS buses, including those of _Busland AG_.
+
+FIP is valid on all BLS buses, including those of _Busland AG_ and buses used for rail replacement services.
+
 {{% /train-category %}}
 
 {{% train-category
-        id="ship"
-        title="Ship"
-        type="ship"
-        fip_accepted=true
-        reservation_required=false
-        reservation_possible=false
+    id="ship"
+    title="Ship"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 FIP is valid on BLS ships on Lake Thun and Lake Brienz.
+
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
 
 ### Online
 
-{{% booking id="sbb-website"/%}}
+{{% booking id="sbb-website" /%}}
 
-{{% booking id="db-website"/%}}
+{{% booking id="db-website" /%}}
 
 {{% booking id="db-website-fip-db"
     subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. Only for Deutsche Bahn employees."
@@ -118,11 +134,19 @@ For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
 For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
 {{% /booking %}}
 
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. Only for Deutsche Bahn employees."
+%}}
+For BLS, continuous FIP 50 Tickets can only be booked for selected connections.
+{{% /booking %}}
+
 ### On-Site
 
-{{% booking id="bls-ticket-office"/%}}
+{{% booking id="bls-ticket-office" /%}}
 
-{{% booking id="sbb-ticket-office"/%}}
+{{% booking id="sbb-ticket-office" /%}}
 
 ### On the Train
 
@@ -130,7 +154,20 @@ Purchasing FIP tickets on the train is not possible. A penalty fee is charged fo
 
 ## Discounts
 
-For regular journeys, children up to and including 5 years travel for free. Children up to and including 15 years receive a 50% discount on the adult fare. Persons aged 16 and older pay the regular adult fare.[^1]
+{{< children-discount >}}
+
+| Age                                 | Discount          |
+| ----------------------------------- | ----------------- |
+| {{< icon "child_care" >}} 0–5 years | Free[^3]          |
+| {{< icon "person" >}} from 6 years  | Regular price[^1] |
+
+### Junior Travelcard for Accompanied Children
+
+In addition, there is the option to purchase a _Junior Travelcard_ for CHF 30. This allows your own children up to and including 15 years of age to travel when accompanied by a parent. The accompanying parent must hold their own valid ticket for the journey (e.g. FIP Coupon or FIP 50 Ticket). The Junior Travelcard can be purchased on-site at public transport points of sale in Switzerland. See the SBB website: [Junior Travelcard](https://www.sbb.ch/en/offers/junior-travelcard).
+
+### Day Pass for Children
+
+Alternatively, the _Day Pass for Children_ offers children aged 6 to under 16 unlimited travel on public transport for one day for CHF 19 (2nd class) or CHF 33 (1st class). See the SBB website: [Day Pass for Children](https://www.sbb.ch/en/offers/day-pass-children).
 
 ## Special Tariff Conditions
 
@@ -147,6 +184,14 @@ The Swiss railway companies SBB and BLS partially accept each other's FIP Coupon
 
 However, the SBB Coupons are not valid on BLS ships on Lake Thun and Lake Brienz, nor on BLS buses that primarily operate in the Emmental.
 
+### Connections - AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
 ## Recommendations
 
 {{% highlight tip %}}
@@ -155,6 +200,8 @@ At some operators, family members are not entitled to FIP Coupons from SBB. With
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)
+
+[^3]: [BLS – Reisen mit Kindern](https://www.bls.ch/de/fahren/fahrgastinformation/familien)

@@ -1,10 +1,13 @@
 ---
-draft: false
-title: "Stena Line BV"
+title: Stena Line BV
 country:
-  - "netherlands"
-  - "united-kingdom"
-operator: "stl"
+  - netherlands
+  - united-kingdom
+operator: stl
+aliases:
+  - /booking/stena-line-bv-email
+  - /booking/stena-line-bv-phone
+  - /booking/stena-line-bv-ticket-office
 ---
 
 Das Unternehmen Stena Line betreibt diverse Personen- und Fahrzeugfähren. Der Betrieb der Strecke zwischen Harwich ([Vereinigtes Königreich](/country/united-kingdom)) und Hoek van Holland ([Niederlande](/country/netherlands)) wird im Kontext von FIP als Stena Line BV (StL) genannt.
@@ -20,17 +23,20 @@ Die Fährverbindungen auf der irischen See werden als eigenständiger FIP-Betrei
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Schiffskategorien und Reservierungen
 
 {{% train-category
-  title="Fähre (Tagfahrt)"
-  type="ship"
-  fip_accepted=true
-  reservation_possible=true
-  reservation_required=false
+    id="day"
+    title="Fähre (Tagfahrt)"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
 %}}
+
 Pro Richtung verkehrt eine Fähre:
 
 - Hoek van Holland nach Harwich: 14:15 – 19:45, 6:30h (Stena Britannica)
@@ -46,15 +52,18 @@ An Bord gibt es eine Vielzahl an Services:
 - Deck Bar mit Ausblick
 
 Eine Kabine kann optional dazugebucht werden.
+
 {{% /train-category %}}
 
 {{% train-category
-  title="Fähre (Nachtfahrt)"
-  type="ship"
-  fip_accepted=true
-  reservation_possible=true
-  reservation_required=true
+    id="night"
+    title="Fähre (Nachtfahrt)"
+    type="ship"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
 %}}
+
 Pro Richtung verkehrt eine Fähre:
 
 - Hoek van Holland nach Harwich: 22:00 – 06:30 Uhr, 9:30h (Stena Hollandica)
@@ -70,6 +79,7 @@ An Bord gibt es eine Vielzahl an Services:
 - Deck Bar mit Ausblick
 
 Die Reservierung einer Kabine ist obligatorisch.[^2]
+
 {{% /train-category %}}
 
 ## Klassenkategorien
@@ -89,49 +99,41 @@ Im Allgemeinen ist die Überfahrt über Nacht teurer als die Überfahrt am Tag. 
 {{% expander "Kosten online herausfinden" info %}}
 
 {{% float-image
-  src="determine_costs_1.webp"
-  alt="Step 1"
-  width="40%"
-  position="right"
+    src="determine_costs_1.webp"
+    alt="Step 1"
+    width="40%"
+    position="right"
 %}}
-
 Die anfallenden Kosten für Tag- und Nachtfahrten können bereits vor der Buchung über die Website von Stena Line eingesehen werden. Hierzu muss zunächst die [Website der Stena Line (UK)](https://www.stenaline.co.uk/) aufgerufen werden. Wenn die Preise in Euro gewünscht sind, kann unten auf der Startseite eine entsprechende Sprache gewählt werden.
-
 {{% /float-image %}}
 
 {{% float-image
-  src="determine_costs_2.webp"
-  alt="Step 2"
-  width="40%"
-  position="right"
+    src="determine_costs_2.webp"
+    alt="Step 2"
+    width="40%"
+    position="right"
 %}}
-
 Im nächsten Schritt musst du zur alten Buchung wechseln. Bei der neuen Buchung werden die Kosten nicht aufgeschlüsselt angezeigt.
-
 {{% /float-image %}}
 
 {{% float-image
-  src="determine_costs_3.webp"
-  alt="Step 3"
-  width="40%"
-  position="right"
+    src="determine_costs_3.webp"
+    alt="Step 3"
+    width="40%"
+    position="right"
 %}}
-
 Anschließend können die Buchungsschritte durchlaufen werden. Bei der Wahl des Tarifs kann Flexi oder Economy ausgewählt werden.
-
 {{% /float-image %}}
 
 {{% float-image
-  src="determine_costs_4.webp"
-  alt="Step 4"
-  width="40%"
-  position="right"
+    src="determine_costs_4.webp"
+    alt="Step 4"
+    width="40%"
+    position="right"
 %}}
-
 Nachdem du alle gewünschten Zusatzoptionen und Kabinen ausgewählt hast, erhältst du in der Seitenleiste eine Kostenaufschlüsselung. Mit FIP Freifahrtschein werden die Fahrtkosten (angegeben als Economy oder Flexi) auf 0 gesetzt, der Restbetrag bleibt bestehen. Daher können die Fahrtkosten einfach abgezogen werden, um die Kosten mit FIP Freifahrtschein zu ermitteln.
 
 Stand 22.12.2025 betragen die Hafengebühren 3 £ / 3 € und die Umweltgebühren 10,30 £ / 12 € pro Person und Fahrt. Hinzu kommen die Kabinenkosten sowie andere Zusatzoptionen, die zum vollen Preis berechnet werden.
-
 {{% /float-image %}}
 
 {{% /expander %}}
@@ -146,13 +148,19 @@ Stand 22.12.2025 betragen die Hafengebühren 3 £ / 3 € und die Umweltgebühre
 
 ### Vor Ort
 
-Am Tag der Reise können vor Ort Buchungen vorgenommen werden, je nach Verfügbarkeit. [^4]
+{{% booking id="stena-line-bv-ticket-office" /%}}
 
 Der Kauf an Bord der Schiffe ist nicht möglich.
 
 ## Ermäßigungen
 
-Kinder bis 4 Jahren reisen kostenlos, Kinder im Alter von 4 bis 14 Jahren sind berechtigt für ein Rabatt von 50% auf den Erwachsenen-Tarif, ab 14 Jahren zahlen sie den Erwachsenen-Tarif. [^2]
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                               |
+| ------------------------------------ | ---------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos[^5]                            |
+| {{< icon "child_care" >}} 4–15 Jahre | 50% Rabatt auf den Erwachsenen-Tarif[^2] |
+| {{< icon "person" >}} ab 16 Jahre    | Regulärer Preis[^2]                      |
 
 {{% highlight tip %}}
 Stena Line und bietet Tickets an, die eine kombinierte Zug- und Fährfahrt zu einem vergünstigten Preis ermöglichen. Einen zusätzlichen FIP-Rabatt gibt es auf diese Tickets nicht.
@@ -170,9 +178,11 @@ Die Anreise zur Station _Hoek van Holland Haven_ erfolgt in der Regel mit der Me
 
 - Station _Schiedam Centrum_: direkte Umsteigemöglichkeit zu `IC`- und `RE`-Zügen der NS.
 - Station _Rotterdam Centraal_: Umsteigemöglichkeiten zu Zügen der NS. Nach Hoek van Holland muss von Metro-Linie D an der Station _Beurs_ umgestiegen werden.
+- Station _Rotterdam Alexander_: direkte Umsteigemöglichkeit zu Zügen der NS zum zentralen niederländischen Bahnknoten _Utrecht Centraal_.
 
 {{% highlight important %}}
 RET N.V. akzeptiert kein FIP, sodass für die Metro-Fahrt ein reguläres Ticket erworben werden muss. Dies funktioniert auch kontaktlos und mit ApplePay.
+Da Hoek van Holland weit vom Zentrum Rotterdams entfernt ist, ist es je nach Ziel günstiger ein 2-Stundenticket zu erwerben (5,50 € Stand 2026), zu den üblichen Umstiegshaltestellen ist derzeit nur nach _Schiedam Centrum_ der Kilometertarif günstiger (5,28 €), am größten ist die Ersparnis bei _Rotterdam Centraal_ (8,28 €).
 {{% /highlight %}}
 
 In Harwich besteht an der Station _Harwich International_ Anschluss an Züge von Greater Anglia aus / in Richtung London.
@@ -183,8 +193,10 @@ Stena Line bietet eine tolle Möglichkeit, um vor 10 Uhr in London zu sein, wenn
 
 ## Quellen
 
-[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-79)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782236-stena.html#StenaBV)
 
 [^3]: [Website Stena Line](https://www.stenaline.de/routen/hoek-van-holland-harwich)
 
 [^4]: [E-Mail-Anfrage des FIP Guide Teams bei Stena Line](https://github.com/fipguide/fipguide.github.io/issues/528)
+
+[^5]: [Stena Line – Altersgruppen](https://www.stenaline.de/kundenservice/buchung/welche-altersgruppen-gibt-es-bei-stena-line)

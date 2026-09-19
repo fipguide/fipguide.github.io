@@ -1,9 +1,13 @@
 ---
-draft: false
-title: "PKP"
+title: PKP
 country:
-  - "poland"
-operator: "pkp"
+  - poland
+operator: pkp
+aliases:
+  - /booking/pkp-ticket-machine
+  - /booking/pkp-ticket-office
+  - /booking/pkp-website
+  - /booking/koleo-website
 ---
 
 The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together with its subsidiaries PKP Intercity and Polregio, a large part of passenger rail transport in [Poland](/country/poland "Poland").
@@ -17,6 +21,7 @@ The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together wit
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid with PKP. This includes:
@@ -50,7 +55,7 @@ Polish long-distance trains are partially reservation-required. The reservation 
 High-speed trains with tilting technology (Pendolino), operated by PKP Intercity and mainly running between Gdynia/Gdańsk and Kraków/Katowice via Warsaw, but also occasionally found on other routes.
 In 1st class, small meals and drinks are included at the seat in the ticket price. [^2]
 
-#### Reservation
+#### Reservations
 
 The trains require a surcharge with an increased reservation fee. Tickets and reservations cannot be purchased on board the train.
 
@@ -72,7 +77,7 @@ For reservations not sold at the corresponding price by PKP, payment of a surcha
 Comfortable trains with modernized passenger cars, operated by PKP Intercity and stopping only in the most important cities. Cross-border EICs are also designated as EC in other countries. [^3]
 In 1st and 2nd class, there is a free bottle of water per person.
 
-#### Reservation
+#### Reservations
 
 Some trains require reservations. The reservation requirement can be checked in the [PKP travel information](https://ebilet.intercity.pl/)
 
@@ -91,9 +96,28 @@ Express trains with passenger cars or modern multiple units, operated by PKP Int
 
 Some trains also operate with sleeping and couchette cars (see [category "EN"](#en)).
 
-#### Reservation
+#### Reservations
 
 Some trains require reservations. The reservation requirement can be checked in the [PKP travel information](https://ebilet.intercity.pl/).
+
+{{% /train-category %}}
+
+{{% train-category
+    id="icn"
+    title="IC Nieśpieszny (ICN)"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+The IC Nieśpieszny is a retro-style experience train operated by PKP Intercity, with a focus on consciously relaxed and slow travel in historic restored coaches.
+
+Neither FIP Coupons nor FIP 50 Tickets are valid on this train.
+
+#### Reservations
+
+Reservation is required.
 
 {{% /train-category %}}
 
@@ -110,7 +134,7 @@ Interregional trains operated by PKP Intercity, characterized by particularly af
 
 Some trains also operate with sleeping and couchette cars (see [category "EN"](#en)).
 
-#### Reservation
+#### Reservations
 
 Some trains require reservations. The reservation requirement can be checked in the [PKP travel information](https://ebilet.intercity.pl/).
 
@@ -128,7 +152,7 @@ Some trains require reservations. The reservation requirement can be checked in 
 International night train connections operated by PKP Intercity, running from or to Germany, Czech Republic, Austria, Hungary and Ukraine.
 Night train connections that only run within Poland are operated as `IC` or `TLK`. Connections to Ukraine are marked as `D`.
 
-#### Reservation
+#### Reservations
 
 Reservation is required in sleeping and couchette cars.
 
@@ -154,9 +178,9 @@ Different prices for international connections. [More information](https://www.i
 
 Regional train connections stopping at most stations, operated by Polregio. These trains do not have 1st class.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Regional trains in Poland are sometimes also operated by railway companies other than Polregio. These sometimes have their own FIP discounts. [See Poland](/country/poland "Poland")
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -183,6 +207,19 @@ Direct trains between Łódź and Warsaw, operated by Polregio and in a higher f
 %}}
 
 Interregional trains operated by Polregio and equipped with higher comfort than normal regional trains.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="warsaw-modlin-bus"
+    title="Warsaw Modlin Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+FIP Tickets are not valid on KM buses between Modlin and Warsaw Modlin Airport.
 
 {{% /train-category %}}
 
@@ -216,7 +253,13 @@ Alternatively, you can also book directly through the [Polregio website](https:/
     subtitle="Cross-border FIP 50 Tickets between Germany and Poland for the entire route (not valid in the issuing country of the FIP Card)"
 /%}}
 
-### On Site
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+/%}}
+
+### On-Site
 
 {{% booking id="pkp-ticket-office" /%}}
 
@@ -259,6 +302,14 @@ No fee is charged for issuing a ticket on the train for the following passengers
 
 ## Discounts
 
+{{< children-discount >}}
+
+| Age                                  | Discount           |
+| ------------------------------------ | ------------------ |
+| {{< icon "stroller" >}} 0–3 years    | Free of charge[^1] |
+| {{< icon "child_care" >}} 4–11 years | 50% discount[^1]   |
+| {{< icon "person" >}} from 12 years  | Regular price[^1]  |
+
 {{% highlight tip %}}
 Regardless of FIP, Polregio offers an affordable weekend ticket, available either as "MINI BILET TURYSTYCZNY" for "Regio" trains of Polregio only, or as "BILET TURYSTYCZNY" which is also valid on all trains of KW, KMŁ, Arriva RP and ŁKA (except ŁKA Sprinter). It allows travel from Friday 18:00 to Monday 06:00 on the corresponding trains. More information on the [Polregio website](https://bilety.polregio.pl/en/sieciowe/47).
 {{% /highlight %}}
@@ -294,7 +345,7 @@ The validity of tickets depends on the distance:
 - 51 km to 100 km: 6 hours from the date and time of issue or at the passenger's choice,
 - from 101 km: 1 day (one day is valid from 00:01 to 24:00).
 
-### Break of journey
+### Break of Journey
 
 #### PKP Intercity (EIP, EIC, IC, TLK)
 
@@ -324,21 +375,21 @@ FIP Tickets of both KŚ and PKP are valid on the following KŚ routes:
 - Pszczyna – Wisła Głębce
 - Kluczbork – Katowice
 
-### Warsaw Modlin Buses
-
-FIP Tickets are not valid on KM buses between Modlin and Warsaw Modlin Airport.
-
 ### Słoneczny Special Trains
 
 FIP Tickets are not valid on the KM Słoneczny special train (Warsaw to Gdansk/Gdynia).
 
-### Buses and Replacement Services
-
-FIP Tickets are also valid on rail replacement services (buses) operated by PKP.
-
 ### Cable Cars and Rack Railways
 
 FIP Tickets are not valid on cable cars and rack railways operated by PKP.
+
+### Connections - AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 
@@ -348,7 +399,7 @@ FIP Coupons for 1st class are only conditionally worthwhile with PKP. If journey
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [PKP Intercity - EIP](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/express-intercity-premium-eip.html)
 

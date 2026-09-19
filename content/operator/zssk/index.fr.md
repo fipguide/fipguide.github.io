@@ -1,11 +1,12 @@
 ---
-draft: false
-title: "ZSSK / ZSR"
+title: ZSSK / ZSR
 country:
-  - "slovakia"
-operator: "zssk"
+  - slovakia
+operator: zssk
 aliases:
   - zsr
+  - /booking/zssk-ticket-office
+  - /booking/zssk-website
 ---
 
 La ŽSR (Železnice Slovenskej republiky) et son exploitant ferroviaire ZSSK (Železničná spoločnosť Slovensko) sont les chemins de fer nationaux slovaques et constituent l’opérateur ferroviaire principal du [Slovaquie](/country/slovakia "Slovaquie").
@@ -20,6 +21,7 @@ La ŽSR (Železnice Slovenskej republiky) et son exploitant ferroviaire ZSSK (Ž
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les trains ZSSK, mais certaines restrictions s’appliquent : une réservation est nécessaire dans certains trains, notamment tous en 1ʳᵉ classe. Pour les trajets internationaux, un Billet FIP 50 continu ou les Coupons FIP des deux pays sont requis.
@@ -41,7 +43,7 @@ Réservation obligatoire dans les trains `SC` et `IC`. Les autres trains ZSSK ne
 
 Trains rapides pendulaires (Pendolino) circulant entre Prague (République tchèque) et Košice, avec peu d’arrêts.
 
-#### Réservation
+#### Réservations
 
 **Coût :** à partir de 7 €, selon le trajet et l’occupation (incluant un supplément pour la catégorie de train)
 
@@ -60,7 +62,7 @@ _Actuellement, l’exploitation des trains Intercity est suspendue pour des rais
 
 Trains longue distance transfrontaliers exploités commercialement par ZSSK et CD, généralement entre Prague et Bratislava/Zilina, avec peu d’arrêts et une vitesse moyenne élevée.
 
-#### Réservation
+#### Réservations
 
 **Coût :** à partir de 7 €, selon le trajet et l’occupation (incluant un supplément pour la catégorie de train).
 
@@ -77,13 +79,14 @@ Trains longue distance transfrontaliers exploités commercialement par ZSSK et C
 
 Trains transfrontaliers entre la Slovaquie et la République tchèque, l’Autriche ou la Hongrie. Ils circulent souvent avec peu d’arrêts et une vitesse moyenne relativement élevée. Les trains `RJ` sont des Railjet des chemins de fer autrichiens, utilisables avec les coupons ZSSK sur la section slovaque.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `RJ` est aussi l’abréviation de RegioJet, où les Billets FIP ne sont pas valables.
-{{% /highlight %}}
+{{< /highlight >}}
 
-#### Réservation
+#### Réservations
 
 Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -97,7 +100,7 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 
 Les `EN` sont des trains de nuit internationaux nécessitant une réservation et offrant la possibilité de payer un supplément pour une couchette ou une place en voiture-lit. Sinon, ils sont similaires aux trains `EC`.
 
-#### Réservation
+#### Réservations
 
 **Coût :** Selon le trajet, l’occupation et la catégorie de voiture (incluant un supplément pour la catégorie de train).
 
@@ -114,9 +117,10 @@ Les `EN` sont des trains de nuit internationaux nécessitant une réservation et
 
 Type de train InterRégional avec moins d’arrêts qu’un train régional, mais plus que, par exemple, les trains `IC`. Ils disposent souvent d’une voiture-restaurant et circulent avec des trains tractés confortables.
 
-#### Réservation
+#### Réservations
 
 Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -130,7 +134,7 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 
 Trains régionaux rapides desservant les principales gares de la région, un type d’express régional avec du matériel roulant très varié.
 
-#### Réservation
+#### Réservations
 
 Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 
@@ -147,13 +151,26 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 
 Trains régionaux standards qui s’arrêtent généralement partout (il existe des exceptions). Surtout sur les lignes secondaires, ils circulent souvent avec du matériel roulant ancien. Ils sont parfois présentés comme des trains S-Bahn, mais sans vraiment respecter une grille S-Bahn.
 
-#### Réservation
+#### Réservations
 
 Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
 
 {{% /train-category %}}
 
-## Achat de billets et de réservations
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Les bus sont exclus des réductions FIP. Dans les bus de remplacement ferroviaire, les réductions FIP s'appliquent lorsqu’ils remplacent un train sur lequel le FIP aurait été valable.[^1]
+
+{{% /train-category %}}
+
+## Achat de billets et réservations
 
 ### En ligne
 
@@ -179,32 +196,46 @@ En l’absence de guichet ouvert, un billet ou une réservation (Ex) peut être 
 
 ## Réductions
 
-Les enfants jusqu’à 6 ans voyagent gratuitement sur les trains ZSSK lorsqu’ils sont accompagnés d’une personne âgée d’au moins 16 ans. En 1ʳᵉ classe, cette gratuité est limitée à 2 enfants ; à partir du 3ᵉ enfant, 50 % du prix du billet est dû. Dans les trains `EC`, un supplément de 1 € par enfant est appliqué en 1ʳᵉ classe à partir du 3ᵉ enfant. Dans les trains `SC`, un supplément de 1 € par enfant est toujours appliqué en 2ᵉ classe et de 3 € en 1ʳᵉ classe. Dans les trains `IC`, une réservation incluant un supplément pour la catégorie de train doit être achetée pour chaque enfant.[^1]
+{{< children-discount >}}
 
-### Gratuité 6–16 ans (sans FIP)
+| Âge                                      | Réduction             |
+| ---------------------------------------- | --------------------- |
+| {{< icon "child_care" >}} 0–5 ans        | Gratuit[^3]           |
+| {{< icon "child_care" >}} 6–15 ans       | Réduction de 50 %[^3] |
+| {{< icon "person" >}} à partir de 16 ans | Tarif normal[^3]      |
 
-Pour obtenir la gratuité pour les enfants de 6 à 16 ans, il faut présenter une photo (2x3 cm) et une pièce d’identité (ou un acte de naissance accompagné de la pièce d’identité du parent) au guichet pour l’enregistrement. Le traitement peut prendre jusqu’à trois jours ouvrables, après quoi une attestation est délivrée et doit être présentée à bord. Le billet gratuit (0 €) doit ensuite être réservé sur le site ZSSK en sélectionnant « bénéficiaire de la réduction 100 % ».
+### Suppléments pour les enfants
 
-Dans les trains `EC` : supplément 1 € par enfant \
+Des suppléments s’ajoutent au prix du billet pour les enfants :
+
+Dans les trains `EC` : supplément de 1 € par enfant (sauf pour les enfants jusqu’à 6 ans, qui voyagent gratuitement) \
 Dans les trains `SC` : 1 € (2ᵉ cl.) / 3 € (1ʳᵉ cl.) \
-Dans les trains `IC` : supplément avec réservation obligatoire
+Dans les trains `IC` : supplément avec réservation obligatoire[^1]
 
-### Gratuité pour les étudiants et les seniors (sans FIP)
+### Gratuité 6–16 ans
+
+Pour obtenir la gratuité pour les enfants de 6 à 16 ans, il faut présenter une photo (2x3 cm) et une pièce d’identité (ou un acte de naissance accompagné de la pièce d’identité du parent) au guichet pour l’enregistrement. Le traitement peut prendre jusqu’à trois jours ouvrables, après quoi une attestation est délivrée et doit être présentée à bord. Le billet gratuit (0 €) doit ensuite être réservé sur le site ZSSK en sélectionnant « bénéficiaire de la réduction 100 % ».
+
+Des suppléments supplémentaires s’appliquent, voir [Suppléments pour les enfants](#suppléments-pour-les-enfants).
+
+### Gratuité pour les étudiants et les seniors
 
 Les étudiants de moins de 26 ans et les seniors de 62 ans et plus originaires de l’UE, ainsi que les étudiants internationaux en Slovaquie, peuvent également voyager gratuitement. Les étudiants doivent s’enregistrer au guichet ZSSK au moins 3 jours avant leur premier voyage avec un formulaire d’inscription signé par l’école/université. Plus de détails sont disponibles sur la page [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/).
 
 ## Conditions tarifaires spéciales
 
-### Interruption de trajet
+### Possibilité d’interrompre le trajet
 
 Possible uniquement pour les trajets de 101 km ou plus.
 
-### Bus et remplacements
+### Services de remplacement ferroviaire
 
-Les bus ne sont pas valables avec FIP\*\*, sauf s’ils remplacent un train éligible FIP (service de substitution). [^1]
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.[^1]
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782291-slovakia.html)
 
 [^2]: [ZSSK Réservations](https://www.zssk.sk/en/seat-reservations)
+
+[^3]: [ZSSK – Enfants et étudiants](https://www.zssk.sk/en/children-and-students/)

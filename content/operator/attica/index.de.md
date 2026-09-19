@@ -1,10 +1,13 @@
 ---
-draft: false
-title: "Attica"
+title: Attica
 country:
-  - "greece"
-  - "italy"
-operator: "attica"
+  - greece
+  - italy
+operator: attica
+aliases:
+  - /booking/attica-agents
+  - /booking/attica-email
+  - /booking/attica-phone
 ---
 
 Die Attica Group ist ein großer griechischer Fähranbieter und Betreiber mehrerer Marken, darunter Superfast Ferries, Blue Star Ferries, Hellenic Seaways und Anek Lines. Das Unternehmen betreibt nationale sowie internationale Schiffsverbindungen zwischen dem griechischen Festland, Italien und den griechischen Inseln.
@@ -17,7 +20,8 @@ Die Attica Group ist ein großer griechischer Fähranbieter und Betreiber mehrer
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
-{{< fip-validity type="fip-reduced-ticket" subtitle="FIP 50" status="valid" disable_dialog=true >}}
+
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" disable_dialog=true >}}
 
 ## Schiffskategorien und Reservierungen
 
@@ -106,9 +110,28 @@ Am Tag der Reise können vor Ort Buchungen vorgenommen werden, je nach Verfügba
 
 ## Ermäßigungen
 
-Kinder unter 4 Jahren, die kein Bett, keine Etagenliege oder keinen Sitzplatz belegen, zahlen 5,50 € pro Überfahrt.
-Auf Verbindungen von und nach Ancona und Venedig zahlen Kinder zwischen 4 und 16 Jahren 50 % des Erwachsenentarifs. Personen ab 16 Jahren zahlen den vollen Erwachsenentarif.
-Auf Verbindungen von und nach Bari zahlen Kinder zwischen 4 und 12 Jahren 50 % des gewählten Erwachsenentarifs. Personen ab 12 Jahren zahlen den vollen Erwachsenentarif.[^1]
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                                                                                                                                                             |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | €6,00 pro Überfahrt, sofern kein eigenes Bett, keine eigene Liege oder kein eigener Schlafsessel belegt wird; andernfalls 50 % Ermäßigung auf den Erwachsenenpreis[^3] |
+| {{< icon "child_care" >}} 4–12 Jahre | 50 % Ermäßigung auf den Erwachsenenpreis, auf allen Strecken[^3]                                                                                                       |
+| {{< icon "person" >}} ab 13 Jahre    | Regulärer Preis[^3]                                                                                                                                                    |
+
+{{% highlight tip %}}
+Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
+
+- Bosnien und Herzegowina (ŽFBH, ŽRS),
+- Bulgarien (BDŽ),
+- Nordmazedonien (MŽ-Transport),
+- Griechenland (HT & Attica),
+- Montenegro (ŽPCG),
+- Rumänien (CFR Calatori & Regiotrans),
+- Serbien (SV),
+- Türkei (TCDD).
+
+[Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Tarifliche Besonderheiten
 
@@ -118,6 +141,8 @@ Ein Sitzplatz-Upgrade für jede Kabine (außer LUX) ist mit einem Rabatt von 25 
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782274-greece.html)
 
 [^2]: [Superfast Ferries](https://www.superfast.com/de-de/generic-information-pages/fip-mitglieder)
+
+[^3]: [Superfast Ferries – 50 % Ermäßigung für Kinder](https://www.superfast.com/de-de/angebote/50-ermaessigung-fur-kinder)

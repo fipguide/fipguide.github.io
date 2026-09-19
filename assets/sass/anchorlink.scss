@@ -57,6 +57,10 @@
     background-color 0.3s ease,
     opacity 0.3s ease;
 
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
+
   &:hover,
   &:focus {
     background-color: var(--bg-neutral);
@@ -89,6 +93,10 @@
   margin: 1rem;
   text-wrap: balance;
   z-index: 22;
+
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
 }
 
 .a-snackbar--show {
@@ -103,8 +111,6 @@
   color: inherit;
   cursor: pointer;
   margin-left: 1rem;
-  padding: 0;
-  width: 2.4rem;
-  height: 2.4rem;
+  padding: 0.4rem;
   display: flex;
 }

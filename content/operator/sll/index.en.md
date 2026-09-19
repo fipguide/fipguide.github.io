@@ -1,10 +1,12 @@
 ---
-draft: false
-title: "Stena Line Limited"
+title: Stena Line Limited
 country:
-  - "ireland"
-  - "united-kingdom"
-operator: "sll"
+  - ireland
+  - united-kingdom
+operator: sll
+aliases:
+  - /booking/stena-line-limited-email
+  - /booking/stena-line-limited-phone
 ---
 
 The company Stena Line operates various passenger and vehicle ferries. The ferry connections on the Irish Sea are referred to as Stena Line Limited (SLL) in the context of FIP.
@@ -19,14 +21,16 @@ The service between Harwich ([United Kingdom](/country/united-kingdom)) and Hoek
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 ## Ship Categories and Reservations
 
 {{% float-image
-  src="stena_line_limited_route_map.svg"
-  width="40%"
-  position="right"
+    src="stena_line_limited_route_map.svg"
+    alt="Stena Line Limited route map"
+    width="40%"
+    position="right"
 %}}
 Ferry services on the Irish Sea do not differentiate between categories. Depending on the route, different ships with varying amenities are used.
 
@@ -56,50 +60,58 @@ With a FIP Coupon, the fare is free of charge.
 {{% expander "Find costs online" info %}}
 
 {{% float-image
-  src="determine_costs_1.webp"
-  alt="Step 1"
-  width="40%"
-  position="right"
+    src="determine_costs_1.webp"
+    alt="Step 1"
+    width="40%"
+    position="right"
 %}}
-
 The costs can be viewed on the Stena Line website before booking. To do this, first visit the [Stena Line website (UK)](https://www.stenaline.co.uk/). If you want prices in Euro, select the appropriate language at the bottom of the homepage.
-
 {{% /float-image %}}
 
 {{% float-image
-  src="determine_costs_2.webp"
-  alt="Step 2"
-  width="40%"
-  position="right"
+    src="determine_costs_2.webp"
+    alt="Step 2"
+    width="40%"
+    position="right"
 %}}
-
 In the next step, you need to switch to the old booking system. The new booking system does not show a detailed cost breakdown.
-
 {{% /float-image %}}
 
 {{% float-image
-  src="determine_costs_3.webp"
-  alt="Step 3"
-  width="40%"
-  position="right"
+    src="determine_costs_3.webp"
+    alt="Step 3"
+    width="40%"
+    position="right"
 %}}
-
 Then you can proceed through the booking steps. When choosing the fare, you can select Flexi or Economy.
-
 {{% /float-image %}}
 
 {{% float-image
-  src="determine_costs_4.webp"
-  alt="Step 4"
-  width="40%"
-  position="right"
+    src="determine_costs_4.webp"
+    alt="Step 4"
+    width="40%"
+    position="right"
 %}}
-
 After selecting all desired additional options and cabins, you will receive a cost breakdown in the sidebar. With a FIP Coupon, the travel costs (listed as Economy or Flexi) are set to 0, while the remaining amount stays the same. Therefore, the travel costs can simply be subtracted to determine the costs with a FIP Coupon.
-
-As of 25.02.2026, port fees are £ 1,50 and environmental charges are £ 2,00 per person per crossing. In addition, there are cabin costs and other additional options, which are charged at full price.
-
 {{% /float-image %}}
+
+Port fees and environmental charges are added to the fare according to the following information (as of 09.05.2026): [^2]
+
+### Port fees
+
+| Route                | Adult   | Child (4-15 years) |
+| -------------------- | ------- | ------------------ |
+| Fishguard – Rosslare | £ 5,00  | £ 3,00             |
+| Rosslare – Fishguard | € 7,00  | € 4,00             |
+| Holyhead – Dublin    | £ 5,00  | £ 3,00             |
+| Dublin – Holyhead    | € 7,00  | € 4,00             |
+| Cairnryan – Belfast  | £ 5,00  | £ 3,00             |
+| Liverpool – Belfast  | £ 15,00 | £ 13,00            |
+| Belfast – Liverpool  | £ 15,00 | £ 13,00            |
+
+### Environmental charges
+
+Environmental charges are £ 2,00 / € 2,00 for passengers, £ 3,00 / € 3,00 for vehicles, and £ 1,00 / € 1,00 for children (4-15 years).
 
 {{% /expander %}}
 
@@ -113,7 +125,13 @@ Purchase on board the ships is not possible.
 
 ## Discounts
 
-Children up to 4 years travel free of charge, children aged 4 to 16 are entitled to a 50% discount on the adult fare, from 16 years they pay the adult fare. [^1]
+{{< children-discount >}}
+
+| Age                                  | Discount                           |
+| ------------------------------------ | ---------------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free of charge[^3]                 |
+| {{< icon "child_care" >}} 4–15 years | 50% discount on the adult fare[^1] |
+| {{< icon "person" >}} from 16 years  | Regular price[^1]                  |
 
 {{% highlight tip %}}
 Stena Line and Irish Ferries offer tickets that allow combined train and ferry travel at a reduced price. No additional FIP discount is available on these tickets.
@@ -124,4 +142,8 @@ Stena Line and Irish Ferries offer tickets that allow combined train and ferry t
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-98)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782236-stena.html#SLL)
+
+[^2]: [Rail Delivery Group - Staff Travel guides for holders of the Rail Staff Leisure Card - 8.7 Other transport undertakings in Great Britain, including ferries and heritage railways - Stena Line Irish Services](https://www.raildeliverygroup.com/rst/guides.html#tab-8-other-transport-undertakings-in-great-britain-including-ferries-and-heritage-railways)
+
+[^3]: [Stena Line – Age Groups](https://www.stenaline.de/kundenservice/buchung/welche-altersgruppen-gibt-es-bei-stena-line)

@@ -1,9 +1,12 @@
 ---
-draft: false
-title: "KŚ"
+title: KŚ
 country:
-  - "poland"
-operator: "ks"
+  - poland
+operator: ks
+aliases:
+  - /booking/ks-ticket-machine
+  - /booking/ks-ticket-office
+  - /booking/ks-website
 ---
 
 Koleje Śląskie, short KŚ, is a Polish railway operator that primarily offers regional transport in the Silesian Voivodeship. It is one of five different companies that offers FIP in [Poland](/country/poland).
@@ -20,6 +23,7 @@ On its website, KŚ provides a [route map overview](https://www.kolejeslaskie.pl
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid with KŚ.
@@ -30,39 +34,49 @@ For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons from
 
 KŚ does not distinguish between different train categories. Trains usually have a line number starting with "S", which is often not provided in information systems (here it often just says "KŚ" followed by a train number). Only 2nd class tickets are offered, as there is no 1st class on KŚ trains. Additionally, no reservations are possible.
 
+FIP tickets are generally not valid on KŚ buses. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
 ## Ticket and Reservation Purchase
 
 ### Online
 
 {{% booking id="ks-website"
-        subtitle="For domestic connections"
-%}}
-{{% /booking %}}
+    subtitle="For domestic connections"
+/%}}
 
 {{% booking id="koleo-website"
-        reservations=nil
-        subtitle="For domestic connections"
+    subtitle="For domestic connections"
+    reservations=nil
 %}}
 FIP 50 Tickets can only be sold for domestic connections.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-        reservations=nil
-        subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+    subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+    reservations=nil
 /%}}
 
 {{% booking id="db-website-fip-international"
-        reservations=nil
-        subtitle="Cross-border FIP 50 Tickets between Germany and Poland for the entire journey (not valid in the country of issue of the FIP Card)"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Poland for the entire journey (not valid in the country of issue of the FIP Card)"
+    reservations=nil
+/%}}
+
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Poland, with ticket portion only for the Polish section. For Deutsche Bahn employees only."
+    reservations=nil
 /%}}
 
 ### On-Site
 
-{{% booking id="ks-ticket-machine"/%}}
+{{% booking id="ks-ticket-machine" /%}}
 
-{{% booking id="ks-ticket-office"/%}}
+{{% booking id="ks-ticket-office" /%}}
 
-{{% booking id="db-ticket-office" reservations=nil /%}}
+{{% booking id="db-ticket-office"
+    reservations=nil
+/%}}
 
 ### On the Train
 
@@ -70,7 +84,13 @@ FIP 50 Tickets can also be purchased directly on the train. To do this, you must
 
 ## Discounts
 
-For regular tickets, children under 4 years travel free. Children under 26 years receive a 20% discount on the adult fare. Passengers aged 26 and over pay the full adult fare.[^1]
+{{< children-discount >}}
+
+| Age                                  | Discount                              |
+| ------------------------------------ | ------------------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free[^1]                              |
+| {{< icon "child_care" >}} 4–25 years | 20% discount on the regular price[^1] |
+| {{< icon "person" >}} from 26 years  | Regular price[^1]                     |
 
 ## Special Tariff Conditions
 
@@ -94,9 +114,9 @@ On the following KŚ routes, both FIP tickets from KŚ and PKP are valid:
 
 Breaks of journey are possible at any time; no documentation is required for this.
 
-### Buses
+### Rail Replacement Services
 
-FIP tickets are only valid on KŚ buses that operate as a replacement service for a train.
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 
@@ -106,4 +126,4 @@ Similar to other regional railway companies in Poland that accept FIP, using FIP
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "{{ .File.ContentBaseName | upper }}"
 country:
   # Ajoutez les abréviations des pays dans lesquels la compagnie ferroviaire opère en anglais.
@@ -43,7 +42,7 @@ operator: "{{ .File.ContentBaseName }}"
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
-{{< fip-validity type="fip-global-fare" status="valid" disable_dialog="true" >}}
+{{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
 
 <!--
   Où les Billets FIP 50 / Coupons FIP sont-ils valables et quelles sont les restrictions ? Quel billet est nécessaire pour le voyage (par ex. Billet FIP 50 continu ou Coupons FIP des deux pays) ?
@@ -86,7 +85,7 @@ Ce bloc peut être ajouté s’il y a un risque que la catégorie de train soit 
 D’autres informations importantes peuvent être ajoutées ici.
 {{% /highlight %}}
 
-#### Réservation
+#### Réservations
 
 <!--
   Description des conditions de réservation pour cette catégorie de train.
@@ -141,11 +140,11 @@ D’autres informations importantes peuvent être ajoutées ici.
 
 {{% booking id="booking_id"
     subtitle="Ce sous-titre s’affiche dans le résumé de l’expander et doit rester concis."
-    reservations=nil
-    fip_50=false
-    fip_global_fare=true
     classes.first="20€"
     classes.second="10€"
+    fip_50=false
+    fip_global_fare=true
+    reservations=nil
 %}}
 
 <!-- Ceci est un texte informatif qui peut contenir des informations spécifiques au pays et qui s’affiche dans la partie développée. -->

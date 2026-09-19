@@ -1,9 +1,11 @@
 ---
-draft: false
-title: "CFL"
+title: CFL
 country:
-  - "luxembourg"
-operator: "cfl"
+  - luxembourg
+operator: cfl
+aliases:
+  - /booking/cfl-phone
+  - /booking/cfl-ticket-office
 ---
 
 CFL (Société nationale des chemins de fer luxembourgeois) is the Luxembourgish state railway and the main railway company in [Luxembourg](/country/luxembourg "Luxembourg").
@@ -12,25 +14,29 @@ CFL (Société nationale des chemins de fer luxembourgeois) is the Luxembourgish
 
 - Free travel also without FIP in second class
 - Surcharge for first class possible
+- Employees of [SNCB / NMBS](/operator/sncb) and [NS](/operator/ns) can get an _Unlimited Pass_.
 
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
-{{< highlight important >}}
+{{% highlight important %}}
 Luxembourg offers free public transport for domestic journeys regardless of FIP. This includes all train services (except TGV), trams, and buses. Travel with CFL is therefore free of charge in second class and no additional ticket is required. Travel in first class requires a FIP Coupon or FIP 50 Ticket for first class. For journeys beyond Luxembourg, e.g. towards Germany or Belgium, a ticket from the border point is required. This means that, for example, a through ticket, a valid FIP Coupon, or a national travel concession is needed for journeys to Germany to travel into the neighboring country. A ticket from the first station after the border is not sufficient.
-{{< /highlight >}}
+{{% /highlight %}}
+
+Employees of [SNCB / NMBS](/operator/sncb) and [NS](/operator/ns) can get an _Unlimited Pass_, which allows them to use CFL trains in Luxembourg for the entire year. However, this pass is subject to a charge for NS employees. [^2]
 
 ## Train Categories and Reservations
 
 {{% train-category
-  id="intercity"
-  title="InterCity (IC)"
-  type="highspeed"
-  fip_accepted=true
-  reservation_possible=true
-  reservation_required=false
+    id="intercity"
+    title="InterCity (IC)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 InterCity trains connect Luxembourg with Liège and Brussels in Belgium.
@@ -38,11 +44,12 @@ InterCity trains connect Luxembourg with Liège and Brussels in Belgium.
 {{% /train-category %}}
 
 {{% train-category
-  id="regionalexpress"
-  title="Regionalexpress (RE)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+    id="regionalexpress"
+    title="Regionalexpress (RE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Trains stopping at some stations.
@@ -50,11 +57,12 @@ Trains stopping at some stations.
 {{% /train-category %}}
 
 {{% train-category
-  id="regionalbahn"
-  title="Regionalbahn (RB)"
-  type="regional"
-  fip_accepted=true
-  reservation_possible=false
+    id="regionalbahn"
+    title="Regionalbahn (RB)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Trains stopping at all stations.
@@ -62,11 +70,12 @@ Trains stopping at all stations.
 {{% /train-category %}}
 
 {{% train-category
-  id="bus"
-  title="Bus"
-  type="bus"
-  fip_accepted=false
-  reservation_possible=false
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 CFL also operates interregional bus lines. These do not accept FIP, but due to free public transport, no ticket is required.
@@ -74,11 +83,12 @@ CFL also operates interregional bus lines. These do not accept FIP, but due to f
 {{% /train-category %}}
 
 {{% train-category
-  id="standseilbahn"
-  title="Funicular Pfaffenthal-Kirchberg"
-  type="funicular"
-  fip_accepted=true
-  reservation_possible=false
+    id="standseilbahn"
+    title="Funicular Pfaffenthal-Kirchberg"
+    type="funicular"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 The funicular connects the Pfaffenthal-Kirchberg railway stop with the interchange platform on the Kirchberg plateau.
@@ -99,24 +109,23 @@ At [CFL Ticket Offices](#on-site), first class tickets are available with a 50% 
 
 {{% booking id="db-website-fip-international"
     subtitle="Cross-border FIP 50 Tickets between Germany and Luxembourg for the entire route (not valid in the issuing country of the FIP Card)"
+    reservations=nil
 /%}}
 
 {{% booking id="sncb-website"
-subtitle="Only for cross-border connections to/from Belgium"
+    subtitle="Only for cross-border connections to/from Belgium"
 /%}}
 
 ### Telephone
 
 {{% booking id="cfl-phone"
-fip_global_fare=nil
-fip_50=true
+    fip_50=true
+    fip_global_fare=nil
 %}}
-
 Due to the booking fee, it may be worthwhile to purchase a regular first class ticket via the CFL app or ticket machine.
-
 {{% /booking %}}
 
-### On-site
+### On-Site
 
 {{% booking id="cfl-ticket-office" /%}}
 
@@ -126,8 +135,20 @@ Tickets for first class travel or upgrades from second to first class must be pu
 
 ## Discounts
 
-For public fares, children up to 6 years travel free of charge, children between 6 and 12 years receive a 50% discount on the adult fare. From 12 years, the regular adult fare applies.[^1]
-Travel in second class is generally free of charge, so this is only relevant for first class.
+{{< children-discount >}}
+
+Travel in second class is generally free of charge.
+
+For 1st class, the following child discounts apply:
+
+| Age                                  | Discount                                                                                          |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–11 years | Free (when accompanied by a person holding a valid 1st class ticket, limited to two children)[^3] |
+| {{< icon "person" >}} from 12 years  | Regular price[^3]                                                                                 |
+
+### Accompaniment of Young Children
+
+Children who have not yet reached the age of 4 must be accompanied by a person who is at least 12 years old.[^3]
 
 ### Special Tariff Conditions
 
@@ -141,6 +162,14 @@ There are no further FIP discounts on this connection.
 CFL operates an express bus between Luxembourg and _Lorraine TGV_ station in France as a TGV feeder. Free travel is not generally possible on this bus. Fares can be found on the [CFL website](https://www.cfl.lu/en-gb/ticket/internationaldetail/gare-lorraine). The buses require a reservation and a ticket can be purchased up to 2.5 hours before departure. \
 We have no official information regarding the validity of FIP discounts.
 
+### Connections - AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-75)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782281-luxembourg.html)
+
+[^2]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470057862993543220)
+
+[^3]: [CFL – Children and Young People](https://www.cfl.lu/en-gb/customerservices/detail/enfants-et-jeunes)

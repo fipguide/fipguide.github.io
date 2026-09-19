@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "{{ .File.ContentBaseName | title }}" # Ändere den Name auf den deutschen Ländernamen
 country: "{{ .File.ContentBaseName }}"
 params:
@@ -39,7 +38,7 @@ params:
 ## Anreise und Grenzpunkte
 
 <!--
-Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgeführt sein als Land (Bahngesellschaft) und ihre Grenzpunkte.
+Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgeführt sein als Land (Bahngesellschaft) und ihre Grenzpunkte. Die Auflistung erfolgt im Uhrzeigersinn, startend im Norden des Landes.
 -->
 
 {{% expander "Grenzpunkte" border %}}

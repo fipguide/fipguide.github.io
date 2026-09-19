@@ -1,4 +1,5 @@
 import * as mq from "./mediaqueries";
+import { closeOverlay } from "./overlay.js";
 
 function resizeObserver() {
   const navContainer = document.querySelector(".o-header__nav");
@@ -9,6 +10,7 @@ function resizeObserver() {
     if (window.matchMedia(mq.minMD).matches) {
       navContainer.classList.remove("o-header__nav--open");
       menuButton.setAttribute("aria-expanded", false);
+      closeOverlay();
     }
   });
 }

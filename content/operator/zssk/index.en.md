@@ -1,11 +1,12 @@
 ---
-draft: false
-title: "ZSSK / ZSR"
+title: ZSSK / ZSR
 country:
-  - "slovakia"
-operator: "zssk"
+  - slovakia
+operator: zssk
 aliases:
   - zsr
+  - /booking/zssk-ticket-office
+  - /booking/zssk-website
 ---
 
 The ŽSR (Železnice Slovenskej republiky) and its associated train operator ZSSK (Železničná spoločnosť Slovensko) are the Slovak state railways and the most important railway operator in [Slovaika](/country/slovakia "Slovakia").
@@ -20,6 +21,7 @@ The ŽSR (Železnice Slovenskej republiky) and its associated train operator ZSS
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on ZSSK connections with the restriction that some (or all in 1st class) trains require reservations. For cross-border journeys, either a continuous FIP 50 ticket or FIP Coupons from both countries must be available.
@@ -41,7 +43,7 @@ Reservation required for `SC` and `IC` trains. Other ZSSK trains only require a 
 
 Fast tilting trains (Pendolino) running between Prague (Czech Republic) and Košice, with few stops.
 
-#### Reservation
+#### Reservations
 
 **Cost:** From € 7, depending on route and occupancy (including surcharge for train category).
 
@@ -60,7 +62,7 @@ _Currently, the operation of Intercity trains has been suspended for economic re
 
 Cross-border long-distance trains operated commercially by ZSSK and CD, usually running between Prague and Bratislava/Zilina with few stops and high average speed.
 
-#### Reservation
+#### Reservations
 
 **Cost:** From € 7, depending on route and occupancy (including surcharge for train category).
 
@@ -77,11 +79,11 @@ Cross-border long-distance trains operated commercially by ZSSK and CD, usually 
 
 Cross-border trains between Slovakia and the Czech Republic, Austria, or Hungary. They often run with few stops and relatively high average speed. `RJ` trains are Railjet trains of the Austrian Federal Railways, which can also be used with ZSSK Coupons on the Slovak section.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 `RJ` is also the abbreviation for RegioJet, where no FIP Tickets are valid.
-{{% /highlight %}}
+{{< /highlight >}}
 
-#### Reservation
+#### Reservations
 
 Reservations are required only in 1st class.
 
@@ -98,7 +100,7 @@ Reservations are required only in 1st class.
 
 `EN` are international night trains that require reservations and offer the option to pay a surcharge for couchette or sleeper cars. Otherwise, they are similar to `EC` trains.
 
-#### Reservation
+#### Reservations
 
 **Cost:** Depending on route and occupancy as well as car category (including surcharge for train category).
 
@@ -115,7 +117,7 @@ Reservations are required only in 1st class.
 
 A type of InterRegional train with fewer stops than a regional train but more than, for example, `IC` trains. They often have a dining car and run with comfortable locomotive-hauled trains.
 
-#### Reservation
+#### Reservations
 
 Reservations are required only in 1st class.
 
@@ -132,7 +134,7 @@ Reservations are required only in 1st class.
 
 Fast regional trains stopping at the main stations in the region, a type of regional express with very varied rolling stock.
 
-#### Reservation
+#### Reservations
 
 Reservations are required only in 1st class.
 
@@ -149,9 +151,22 @@ Reservations are required only in 1st class.
 
 Standard regional trains that usually stop everywhere (there are exceptions). Especially on branch lines, they often run with outdated rolling stock. They are sometimes marketed as S-Bahn trains, but without really running on an S-Bahn schedule.
 
-#### Reservation
+#### Reservations
 
 Reservations are required only in 1st class.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Buses are excluded from FIP discounts. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
 
 {{% /train-category %}}
 
@@ -167,7 +182,7 @@ Reservations are required only in 1st class.
     subtitle="Excluding IC & SC"
 /%}}
 
-### On site
+### On-Site
 
 {{% booking id="zssk-ticket-office" /%}}
 
@@ -175,23 +190,35 @@ Reservations are required only in 1st class.
     subtitle="Excluding IC & SC"
 /%}}
 
-### On the train
+### On the Train
 
 If no ticket counter is available or open, a ticket (or reservation in Ex) can be purchased on board the train from the conductor if approached immediately.[^1]
 
 ## Discounts
 
-Children up to 6 years travel free on ZSSK trains when accompanied by a person aged at least 16 years. In 1st class, this is limited to 2 children; from the 3rd child, 50% of the ticket price is due. In `EC` trains, an additional 1€ per child is charged in 1st class from the 3rd child. In `SC` trains, € 1 per child is always charged in 2nd class and € 3 in 1st class. In `IC` trains, a reservation including a surcharge for the train category must be purchased for each child.[^1]
+{{< children-discount >}}
 
-### Free 6-16 years (without FIP)
+| Age                                  | Discount          |
+| ------------------------------------ | ----------------- |
+| {{< icon "child_care" >}} 0–5 years  | Free[^3]          |
+| {{< icon "child_care" >}} 6–15 years | 50% discount[^3]  |
+| {{< icon "person" >}} from 16 years  | Regular price[^3] |
+
+### Surcharges for Children
+
+Additional surcharges apply to children on top of the ticket price:
+
+On `EC` trains: surcharge of €1 per child (except children up to 6 years, who travel free of charge) \
+On `SC` trains: €1 (2nd class) / €3 (1st class) \
+On `IC` trains: surcharge with mandatory reservation[^1]
+
+### Free 6-16 years
 
 To obtain free travel for children aged 6–16, a photo (2x3cm) and proof of identity (or birth certificate plus parent's ID) must be presented at the ticket office for registration. Processing takes up to three working days, after which an attestation is issued and must be shown on board. The free ticket (€ 0) should then be reserved on the ZSSK website by selecting "beneficiary of the 100% discount".
 
-On `EC` trains: surcharge of € 1 per child \
-On `SC` trains: € 1 (2nd class) / € 3 (1st class) \
-On `IC` trains: surcharge with mandatory reservation
+Additional surcharges apply, see [Surcharges for Children](#surcharges-for-children).
 
-### Free travel for students and seniors (without FIP)
+### Free travel for students and seniors
 
 Students under 26 years old and seniors aged 62 and over from the EU, as well as international students in Slovakia, can also travel for free. For students, registration at a ZSSK counter is required at least 3 days before the first trip. A registration form must be completed and signed by the school/university. More details can be found on the [ZSSK Zero Fare](https://www.zssk.sk/en/zero-fare/) page.
 
@@ -201,12 +228,14 @@ Students under 26 years old and seniors aged 62 and over from the EU, as well as
 
 A break in the journey is only possible for distances of 101 km and more.
 
-### Busses and replacement services
+### Rail Replacement Services
 
-Buses are excluded from FIP discounts, except when they replace a train where FIP would have been recognized (rail replacement service).[^1]
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782291-slovakia.html)
 
 [^2]: [ZSSK Reservierungen](https://www.zssk.sk/en/seat-reservations)
+
+[^3]: [ZSSK – Children and Students](https://www.zssk.sk/en/children-and-students/)

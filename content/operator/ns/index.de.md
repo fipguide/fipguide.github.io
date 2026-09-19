@@ -1,9 +1,11 @@
 ---
-draft: false
-title: "NS"
+title: NS
 country:
-  - "netherlands"
-operator: "ns"
+  - netherlands
+operator: ns
+aliases:
+  - /booking/ns-phone
+  - /booking/ns-ticket-office
 ---
 
 Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der [Niederlande](/country/netherlands "Niederlande") und betreibt den Großteil des Personenverkehrs auf dem niederländischen Schienennetz.
@@ -14,17 +16,21 @@ Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der [Ni
 - Reservierung ist grundsätzlich nicht erforderlich.
 - Zuschlag teilweise für Eurocity Direct (`ECD`) und Intercity Direct (`ICD`) erforderlich.
 - Zur FIP Freifahrt ist ein Gate-Pass-Coupon für Zugang durch die Schranken an den Stationen erforderlich.
+- Mitarbeitende der [SNCB / NMBS](/operator/sncb) können einen _Unlimited Pass_ erhalten.
 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der NS gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
+Mitarbeitende der [SNCB / NMBS](/operator/sncb) können einen _Unlimited Pass_ erhalten, mit dem sie das gesamte Jahr die Züge der NS in den Niederlanden nutzen können. [^5]
+
 ## Zugkategorien und Reservierungen
 
-Innerhalb der Niederlande ist bei der NS keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Bei grenzüberschreitenden `ICE` und `IC` nach Deutschland ist eine Reservierung möglich und beispielsweise im Sommer 2025 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
+Innerhalb der Niederlande ist bei der NS keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Bei grenzüberschreitenden `ICE` nach Deutschland ist eine Reservierung möglich und beispielsweise im Sommer 2026 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
 
 Zuschläge müssen teilweise für Eurocity Direct und Intercity Direct Züge gezahlt werden.
 
@@ -37,15 +43,16 @@ Zuschläge müssen teilweise für Eurocity Direct und Intercity Direct Züge gez
     reservation_possible=true
     additional_information_url="https://www.nsinternational.com/en/trains/ice"
 %}}
+
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in den Niederlanden von der NS übernommen werden. Sie verkehren zwischen Amsterdam und Deutschland (Köln / Frankfurt am Main bzw. Hannover / Berlin), können jedoch auch innerhalb der Niederlande zwischen Amsterdam und Arnhem bzw. Hengelo mit FIP Freifahrtschein ohne Aufschlag genutzt werden. Bei FIP 50 Tickets ist jedoch ein Zuschlag erforderlich.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Bei der Nutzung von FIP 50 Tickets im niederländischen Binnenverkehr muss ein [ICE Aufschlag](https://www.ns.nl/en/tickets/ice-supplement) in Höhe von 3 € pro Fahrt gezahlt werden. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich.
 
 Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
-{{% /highlight %}}
+{{< /highlight >}}
 
-#### Reservierung
+#### Reservierungen
 
 Bei grenzüberschreitenden Reisen zur Hochsaison ist eine Reservierung erforderlich.
 
@@ -57,8 +64,10 @@ Bei grenzüberschreitenden Reisen zur Hochsaison ist eine Reservierung erforderl
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
+
 Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen.
 
 {{< highlight important >}}
@@ -92,11 +101,14 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
+
 Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten.
 
 ![Eurocity (Direct) Netz](eurocity-map.de.svg)
+
 {{% /train-category %}}
 
 {{% train-category
@@ -105,8 +117,10 @@ Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
     additional_information_url="https://www.ns.nl/en/travel-information/special-routes/intercity-direct.html"
 %}}
+
 Teilweise zuschlagspflichtiger Schnellzug zwischen Lelystad oder Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal und Breda.
 
 {{< highlight important >}}
@@ -127,8 +141,11 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
     type="highspeed"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -137,12 +154,16 @@ Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Regionalzüge mit mehr Halten als beim Intercity, aber trotzdem nur an wichtigeren Stationen.
 
-{{% highlight confusion %}}
-Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo – Hamm (Deutschland), Maastricht – Aachen (Deutschland) und Arnhem – Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
-{{% /highlight %}}
+{{< highlight confusion >}}
+Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo – Hamm (Deutschland) und Arnhem – Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
+
+Eine Ausnahme gilt für den Dreiländerzug (Liège-Guillemins – Maastricht – Heerlen – Aachen): Zwischen Maastricht und Liège-Guillemins wird der Zug im Auftrag der NS und SNCB betrieben, NS/SNCB-Tickets einschließlich FIP bleiben gültig. Zwischen Maastricht und Aachen (über Heerlen) wird der Zug von Arriva betrieben und FIP ist nicht gültig.
+{{< /highlight >}}
 {{% /train-category %}}
 
 {{% train-category
@@ -151,8 +172,30 @@ Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Ver
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="r-net"
+    title="R-net NS Sprinter"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Regionalzüge mit rot-grauem R-net Branding auf der Strecke von von Alphen aan den Rijn nach Gouda.
+
+{{< highlight confusion >}}
+R-net (Randstadnet) ist ein Verkehrskonzept in der Metropolregion Randstad, welches von mehreren Betreibern in einheitlichem rot-grauem Fahrzeug-Branding betrieben wird. Es umfasst Züge, U-Bahnen, Straßenbahnen und Busse. Mit FIP ist ausschließlich die R-net Verbindung von Alphen aan den Rijn nach Gouda nutzbar, die von der NS betrieben wird. [^6] Alle anderen R-net Verbindungen, insbesondere die Linie Geldermalsen - Dordrecht (Qbuzz Stoptrein), sind mit FIP nicht nutzbar.
+
+In der Verbindungsauskunft der NS werden die Verbindungen als `R-net NS Sprinter` gekennzeichnet. Nicht zu verwechseln mit dem `R-net Qbuzz Stoptrein`, der nicht mit FIP genutzt werden darf. In anderen Auskunftsmedien, z. B. der DB, wird die Verbindung gegebenenfalls nur als `RE` des Betreibers "R-net" angegeben. Hier ist eine Unterscheidung zum R-net Qbuzz Stoptrein nur anhand der Linie möglich!
+{{< /highlight >}}
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -181,6 +224,10 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="ns-phone" /%}}
 
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und den Niederlanden, mit Ticketanteil nur für den niederländischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+/%}}
+
 ### Vor Ort
 
 {{% booking id="ns-ticket-office" /%}}
@@ -193,7 +240,17 @@ FIP 50 Tickets können nicht im Zug gekauft werden. [^1]
 
 ## Ermäßigungen
 
-Kinder unter 4 Jahren reisen kostenlos. Kinder zwischen 4 und einschließlich 11 Jahren benötigen ein [Railrunner-Ticket](https://www.ns.nl/en/tickets/railrunner) für 2,50 €, das für einen ganzen Tag gilt. Alternativ kann für Kinder zwischen 4 und einschließlich 11 Jahren, die in Begleitung eines Erwachsenen reisen, die kostenlose Zeitkarte [„Kids Vrij"](https://www.ns.nl/en/season-tickets/kids-vrij.html) erworben werden. Dafür wird eine OV-chipkaart benötigt (einmalig 7,50 €). Ab 12 Jahren gilt der reguläre FIP Erwachsenentarif.
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                                                                                 |
+| ------------------------------------ | ------------------------------------------------------------------------------------------ |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos                                                                                  |
+| {{< icon "child_care" >}} 4–11 Jahre | [Railrunner-Ticket](https://www.ns.nl/en/tickets/railrunner) für 2,50 € (ganztägig gültig) |
+| {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis                                                                            |
+
+### Kostenfreie Zeitkarte „Kids Vrij"
+
+Alternativ kann für Kinder zwischen 4 und einschließlich 11 Jahre, die in Begleitung eines Erwachsenen reisen, die kostenlose Zeitkarte [„Kids Vrij"](https://www.ns.nl/en/season-tickets/kids-vrij.html) erworben werden. Dafür wird eine OV-chipkaart benötigt (einmalig 7,50 €).
 
 ## Tarifliche Besonderheiten
 
@@ -209,6 +266,18 @@ Dies ist kein Ticket, sondern ein Zugangspass, gültig für:
 
 Falls benötigt, kann ein neuer Zugangscoupon am NS-Schalter angefordert werden.
 
+### Anschlüsse
+
+#### HOTNAT
+
+Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
+
+Dieser Betreiber ist Teil von HOTNAT (Hop on the Next Available Train). [Weitere Informationen im FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
+
 ## Empfehlungen
 
 {{% highlight tip %}}
@@ -217,10 +286,14 @@ Die NS überzeugt durch einen dichten Takt und guten Anschlüssen. Verspätungen
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782283-netherlands.html)
 
 [^2]: [FIP Guide Community ICD / ECD Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1470087243040428176)
 
 [^3]: [NS Intercity Direct Supplement](https://www.ns.nl/en/tickets/icd-supplement)
 
 [^4]: [NS Tickets: Intercity Direct Supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html)
+
+[^5]: [FIP Guide Community: NS Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470489435937312788)
+
+[^6]: [FIP Guide Community: R-net NS Sprinter](https://discord.com/channels/1250522473188032512/1518627741459677204/1519419404272668733)

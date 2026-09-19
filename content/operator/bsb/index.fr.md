@@ -1,11 +1,12 @@
 ---
-draft: false
-title: "BSB"
+title: BSB
 country:
-  - "austria"
-  - "germany"
-  - "switzerland"
-operator: "bsb"
+  - austria
+  - germany
+  - switzerland
+operator: bsb
+aliases:
+  - /booking/bsb-ticket-office
 ---
 
 Les BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) exploitent les ferries sur le lac de Constance entre l’[Allemagne](/country/germany "Allemagne"), l’[Autriche](/country/austria "Autriche") et la [Suisse](/country/switzerland "Suisse").
@@ -19,23 +20,25 @@ Les remises FIP sont valables auprès des opérateurs suivants :
 
 ## Résumé
 
-- Les Billets FIP 50 et les Coupons FIP sont acceptés
-- Achat possible au guichet et à bord du ferry
+- Les Billets FIP 50 et les Coupons FIP sont acceptés.
+- Achat possible au guichet et à bord du ferry.
 
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Catégories de trains et réservations
 
 {{% train-category
-  id="ferry"
-  title="Fähre"
-  type="ship"
-  fip_accepted=true
-  reservation_possible=false
-  route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
+    id="ferry"
+    title="Fähre"
+    type="ship"
+    fip_accepted=partially
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
 %}}
 
 Ferries sur le lac de Constance.
@@ -47,18 +50,21 @@ Sur les itinéraires suivants, il est possible d’embarquer des voitures :
 
 Certains navires disposent d’un restaurant ou proposent des snacks et des boissons.
 
+{{< highlight important >}}
+Les réductions FIP ne sont pas acceptées sur le ferry SBS entre Altnau-Hagnau et Immenstaad.[^3]
+{{< /highlight >}}
+
 {{% /train-category %}}
 
 ## Catégories de classes
 
 Il existe une classe unique, accessible avec les Cartes FIP de 1ère et 2ème classe.[^1]
 
-## Achat de billets et de réservations
+## Achat de billets et réservations
 
 ### En gare
 
-{{% booking id="bsb-ticket-office" %}}
-{{% /booking %}}
+{{% booking id="bsb-ticket-office" /%}}
 
 ### À bord du ferry
 
@@ -66,14 +72,25 @@ Les Billets FIP 50 peuvent être achetés à bord du ferry.
 
 ## Réductions
 
-Pour les tarifs publics, les enfants jusqu’à 6 ans voyagent gratuitement, les enfants de 6 à 16 ans bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 16 ans, le tarif adulte s’applique.[^1]
+{{< children-discount >}}
+
+| Âge                                     | Réduction        |
+| --------------------------------------- | ---------------- |
+| {{< icon "child_care" >}} 0–5 ans       | Gratuit[^1]      |
+| {{< icon "person" >}} à partir de 6 ans | Tarif normal[^1] |
+
+### Carte enfance Lac de Constance
+
+La _Carte enfance Lac de Constance_ (Bodensee-Kinderkarte) coûte 10 € par jour et permet à tous les enfants d’une famille de 6 à 15 ans de voyager, à condition qu’au moins un parent soit titulaire d’un billet régulier et accompagne le trajet. Voir le site BSB : [Carte enfance Lac de Constance](https://www.bsb.de/en/timetable/prices/interesting-offers).
+
+### Gratuité pour les enfants le jour de leur anniversaire
 
 Toute personne fêtant son anniversaire voyage gratuitement sur les lignes régulières le jour de son anniversaire, sur présentation de la carte d’identité (original).
 Le billet anniversaire doit être retiré avant le départ aux points de vente.[^2]
 
 ## Conditions tarifaires spéciales
 
-### Interruption de voyage
+### Possibilité d’interrompre le trajet
 
 Une interruption de voyage est autorisée sans formalités.[^1]
 
@@ -82,8 +99,14 @@ Une interruption de voyage est autorisée sans formalités.[^1]
 Le tarif plein s’applique pour les vélos.
 Aucune réduction n’est accordée pour les véhicules entre Friedrichshafen et Romanshorn.
 
+### zellerSEEticket (zSEEt)
+
+Titulaires de la carte FIP bénéficient d’une réduction de 50 % sur le zellerSEEticket (zSEEt). Aucune autre réduction n’est acceptée.[^3]
+
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-69)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782279-lake-constance-ferries.html)
 
-[^2]: [Bodensee-Schiffsbetriebe](https://www.bsb.de/de/fahrplan/preise)
+[^2]: [Bodensee-Schiffsbetriebe – Offres](https://www.bsb.de/de/fahrplan/preise/interessante-preisangebote)
+
+[^3]: [Bodensee-Personentarif (BP)](https://schiffe-am-bodensee.ch/images/befoerderungsbedingungen/Bodensee_Personentarif_2022_website.pdf)

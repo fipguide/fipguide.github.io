@@ -26,8 +26,10 @@
     const effectiveTheme = getEffectiveTheme(theme);
     if (effectiveTheme === DARK_THEME) {
       document.documentElement.setAttribute("data-theme", DARK_THEME);
+      document.documentElement.setAttribute("data-pf-theme", DARK_THEME);
     } else {
       document.documentElement.removeAttribute("data-theme");
+      document.documentElement.removeAttribute("data-pf-theme");
     }
   }
 
@@ -68,6 +70,10 @@
       const iconElement = button.querySelector(".a-icon");
       if (iconElement) {
         iconElement.dataset.icon = icon;
+        iconElement.style.setProperty(
+          "--icon-url",
+          `url('/icons/material-symbols-rounded/${icon}.svg')`,
+        );
       }
       button.setAttribute("title", label);
       button.setAttribute("aria-label", label);

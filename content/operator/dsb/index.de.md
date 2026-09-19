@@ -1,12 +1,15 @@
 ---
-draft: false
-title: "DSB"
+title: DSB
 country:
-  - "denmark"
-operator: "dsb"
+  - denmark
+operator: dsb
+aliases:
+  - /booking/dsb-international-website
+  - /booking/dsb-ticket-office
+  - /booking/dsb-website
 ---
 
-Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in [Dänemark](/country/denmark "Dänemark"). Sie betreibt den Großteil des Personenverkehrs auf dem dänischen Schienennetz.
+Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in [Dänemark](/country/denmark "Dänemark"). Sie betreibt den Großteil des Personenverkehrs auf dem dänischen Schienennetz. Unter dem Betreibernamen "DSB Vores Tog" betreibt sie seit dem 01.09.2026 auch Zugverkehr in Mittel- und Westjütland und auf Fünen. [^4]
 
 ## Zusammenfassung
 
@@ -16,13 +19,14 @@ Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in [Dänema
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der DSB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 
 ## Zugkategorien und Reservierungen
 
-Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. Bei den grenzüberschreitenden Reisen von und nach Deutschland sind die `ECE` Züge Hamburg – Kopenhagen im Normalfall im Sommer reservierungspflichtig.
+Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. Bei den grenzüberschreitenden Reisen von und nach Deutschland sind die `ECE` und `RAIL JET` Züge Hamburg – Kopenhagen im Normalfall im Sommer reservierungspflichtig. Wird eine Reservierung erst im Zug gekauft, wird ein Bordzuschlag von 50 DKK pro Reservierung erhoben.
 
 {{% train-category
     id="intercity-lyn"
@@ -61,7 +65,26 @@ Intercity-Züge sind ähnlich wie die `ICL` Züge, halten jedoch öfter und sind
 
 Eurocity-Express-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg und Kopenhagen, die aktuell u. a. über Padborg, Kolding und Odense fahren.
 
-#### Reservierung
+#### Reservierungen
+
+Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in der Hauptsaison (Sommer) meist auch verpflichtend.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="rj"
+    title="Railjet (RAIL JET)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Railjet-Züge verkehren grenzüberschreitend auf der Strecke zwischen Kopenhagen und Prag via Hamburg und Berlin.
+
+In der Verbindungsauskunft der DSB werden diese Züge als `RAIL JET` angezeigt, in anderen Auskunftssystemen wie z. B. der DB als `RJ`.
+
+#### Reservierungen
 
 Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in der Hauptsaison (Sommer) meist auch verpflichtend.
 
@@ -69,17 +92,22 @@ Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in 
 
 {{% train-category
     id="regional"
-    title="Regionalzug (R)"
+    title="Regionalzug (R / RE)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie halten außerhalb des S-Bahn-Netzes in Kopenhagen an allen Stationen und sind daher eher langsam.
 
-{{% highlight confusion %}}
-Auch Züge von anderen Anbietern werden als `R` angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist.
-{{% /highlight %}}
+Seit dem 01.09.2026 können auch die Strecken der DSB Vores Tog (ehemals GoCollective) in Mittel- und Westjütland und auf Fünen genutzt werden. [^4]
+
+{{< highlight confusion >}}
+Auch Züge von anderen Anbietern werden als `R` angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist. \
+Züge, die als `RA` gekennzeichnet sind, werden nicht von der DSB betrieben und sind daher nicht mit FIP nutzbar. \
+Züge, die als `RE` gekennzeichnet sind, werden in der Regel von der DSB betrieben.
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -88,6 +116,7 @@ Auch Züge von anderen Anbietern werden als `R` angezeigt, daher unbedingt vorhe
     title="S-tog (S)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -123,6 +152,12 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Dänemark für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)"
 /%}}
 
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Dänemark, mit Ticketanteil nur für den dänischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+/%}}
+
 ### Vor Ort
 
 {{% booking id="dsb-ticket-office" /%}}
@@ -131,12 +166,17 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 
 ## Ermäßigungen
 
-Kinder unter 5 Jahren reisen kostenlos. \
-Kinder unter 16 Jahren erhalten 50% Rabatt auf den Erwachsenen-Tarif.[^1]
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                                                                        |
+| ------------------------------------ | --------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–11 Jahre | Kostenlos für zwei Kinder in Begleitung eines Erwachsenen mit gültigem Ticket[^3] |
+| {{< icon "child_hat" >}} 12–15 Jahre | 50 % Ermäßigung[^3]                                                               |
+| {{< icon "person" >}} ab 16 Jahre    | Regulärer Preis[^3]                                                               |
 
 ## Tarifliche Besonderheiten
 
-### Fahrtunterberchungen
+### Fahrtunterbrechungen
 
 Bei FIP 50 Tickets kann die Reise zwischenzeitlich unterbrochen werden, muss jedoch vom Zugpersonal bestätigt werden.[^1]
 
@@ -154,14 +194,22 @@ FIP 50 Tickets können nicht zwischen Bahnhöfen im Großraum Kopenhagen oder im
 Angeblich sind FIP 50 Tickets gültig auf Fähren von Scandlines in Verbindung mit einer Zugreise durch Dänemark. Jedoch konnte dies bisher nicht von uns bestätigt werden. [^1]
 {{% /highlight %}}
 
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
+
 ## Empfehlungen
 
 {{% highlight tip %}}
-Die DSB bietet einen zuverlässigen und komfortablen Service. Die 1. Klasse lohnt sich für FIP-Fahrten in Dänemark besonders, da hier jederzeit Tee, Kaffee, Wasser und Snacks zuschlagsfrei zur Verfügung stehen und morgens auch oft ein kleines Frühstück serviert wird. Zudem erlaubt sie Zugang zur DSB Lounge in Kopenhagen, Odense und Aarhus. Außerdem besteht die Möglichkeit am Bahnhof bei 7/11 ein kostenloses Getränk (Kaffee, Tee, Wasser) zu bekommen. [^2]
+Die DSB bietet einen zuverlässigen und komfortablen Service. Die 1. Klasse lohnt sich für FIP-Fahrten in Dänemark besonders, da hier jederzeit Tee, Kaffee, Wasser und Snacks zuschlagsfrei zur Verfügung stehen und morgens zwischen 05.00 und 09.30 Uhr ein kleines Frühstück serviert wird. Zudem erlaubt sie Zugang zur DSB Lounge in Kopenhagen, Odense und Aarhus. Außerdem besteht am Bahnhof bei 7/11 die Möglichkeit, ein kostenloses Getränk (Kaffee, Tee, Wasser) zu bekommen. [^2]
 {{% /highlight %}}
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782261-denmark.html)
 
 [^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)
+
+[^3]: [DSB – Dänemark mit dem Zug erkunden](https://www.dsb.dk/en/explore-denmark-by-train/)
+
+[^4]: [DSB Vores Tog](https://www.dsb.dk/om-dsb/baredygtighed/virksomheden/vorestog/)

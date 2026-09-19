@@ -1,15 +1,17 @@
 ---
-draft: false
-title: "France"
-country: "france"
+title: France
+country: france
 params:
   operators_without_fip:
     - CFC (Chemins de fer de la Corse / Chemins de fer corses)
-    - ’[Frecciarossa (Trenitalia)](/operator/fs/#trains-frecciarossa-internationaux-vers-paris "Frecciarossa (Trenitalia)")’
+    - ’[Frecciarossa
+      (Trenitalia)](/operator/fs/#trains-frecciarossa-internationaux-vers-paris
+      "Frecciarossa (Trenitalia)")’
     - Getlink (Eurotunnel LeShuttle)
+    - GoVolta
+    - ’[OUIGO](/operator/sncf#Fernverkehr "OUIGO")’
     - RATP
     - Transdev
-    - ’[OUIGO](/operator/sncf#Fernverkehr "OUIGO")’
 ---
 
 ## Informations FIP
@@ -36,13 +38,13 @@ Un point fort particulier est la ligne régionale le long de la Côte d’Azur d
 
 | Pays                                                                             | Points frontières                                                                                                                            |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Eurostar](/operator/eurostar)                                                   | Paris, Lille                                                                                                                                 |
+| [Belgique](/country/belgium) ([SNCB](/operator/sncb))                            | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                          |
 | [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl))                         | Bettembourg (fr), Rodange (fr)                                                                                                               |
 | [Allemagne](/country/germany) ([DB](/operator/db))                               | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr)                                   |
-| [Eurostar](/operator/eurostar)                                                   | Paris, Lille                                                                                                                                 |
+| [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS et [SP](/operator/sp)) | Annemasse, Bâle SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
 | [Italie](/country/italy) ([FS](/operator/fs))                                    | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                                                                    |
 | [Espagne](/country/spain) ([Renfe](/operator/renfe))                             | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg                                                                              |
-| [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS et [SP](/operator/sp)) | Annemasse, Bâle SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
-| [Belgique](/country/belgium) ([SNCB](/operator/sncb))                            | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                          |
 
 {{% /expander %}}
 
@@ -62,19 +64,22 @@ Il existe aussi différentes liaisons régionales `TER` entre la Belgique et la 
 
 ### Luxembourg
 
-Depuis le Luxembourg, la SNCF exploite des trains internationaux `TGV` vers Paris. Pour ces trains, il faut acheter des billets au Tarif Global FIP, qui sont coûteux. Il existe aussi plusieurs liaisons régionales entre le Luxembourg et la France via Rodange ou Bettembourg, accessibles avec FIP. Les Billets FIP 50 et les Coupons FIP CFL sont valables sur le tronçon luxembourgeois, et à partir du point-frontière, les Coupons FIP SNCF sont requis.
-{{% highlight tip %}}
-Au Luxembourg, les voyages en 2ᵉ classe sont gratuits, donc un Coupon FIP CFL n’est pas forcément nécessaire. Pour voyager vers la France, il faut toutefois disposer d’un billet transfrontalier (ex. un Billet FIP 50).
-{{% /highlight %}}
+Depuis le Luxembourg, la SNCF exploite des trains internationaux `TGV` vers Paris, Strasbourg, Lyon, Montpellier et Marseille. Pour ces trains, il faut acheter des billets au Tarif Global FIP, qui sont coûteux. Il existe aussi plusieurs liaisons régionales entre le Luxembourg et la France via Rodange ou Bettembourg, accessibles avec FIP. Dans la section luxembourgeoise, les billets FIP 50 et les Coupons FIP CFL sont valables, et du côté français, les billets FIP de la SNCF sont valables jusqu’au point frontière.
+
+Bien que les voyages en 2ᵉ classe au Luxembourg soient gratuits, un billet ou un Coupon FIP est nécessaire à partir du point-frontière pour les voyages transfrontaliers. Cela signifie qu’il faut disposer soit d’un billet continu, soit au minimum d’un Coupon FIP SNCF valable. En 1ʳᵉ classe, ceci est également requis sur le tronçon luxembourgeois.
+
+Le voyage sur les lignes d’embranchement de Luxembourg vers Volmerange-les-Mines et Audun-le-Tiche est entièrement couvert par la CFL. Aucun billet supplémentaire n’est requis ici (sauf pour la 1ʳᵉ classe).
 
 ### Allemagne
 
 Entre la France et l’Allemagne circulent des trains longue distance en coopération entre la SNCF et la Deutsche Bahn, exploités en tant que `TGV` ou `ICE` entre Paris, Munich, Strasbourg, Karlsruhe/Sarrebruck, Mannheim et Francfort. En juillet et août, il existe également des [trains directs entre Francfort (Main) et Bordeaux les samedis](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux). La réservation est obligatoire uniquement en France. En Allemagne, les trains peuvent être utilisés sans réservation. Comme l’obligation de réservation commence dès le point-frontière Kehl (Gr), une réservation est également nécessaire pour les trajets entre l’Allemagne et Strasbourg. Ces billets FIP transfrontaliers peuvent également être achetés en ligne par les employés de la Deutsche Bahn, voir [Options de réservation – en ligne](/operator/sncf#en-ligne "Options de réservation – en ligne").
 
 {{% highlight tip %}}
-Une option économique pour rejoindre Strasbourg depuis l'Allemagne est la ligne Ortenau S-Bahn RS4, exploitée par SWEG Südwestdeutsche Landesverkehrs-GmbH, d'Offenburg à Kehl. FIP n'est pas valable sur cette ligne, mais le Deutschlandticket et les réductions nationales DB pour les employés[^3] (TagesTicket M Fern F, DB Job-Ticket M, NetzCard + billet supplémentaire NE) sont acceptés. Depuis Kehl, le tram dessert Strasbourg, pour lequel un ticket de tram bon marché est nécessaire.
+Une option économique pour rejoindre Strasbourg depuis l’Allemagne est la ligne Ortenau S-Bahn RS4, exploitée par SWEG Südwestdeutsche Landesverkehrs-GmbH, d’Offenburg à Kehl. FIP n’est pas valable sur cette ligne, mais le Deutschlandticket et les réductions nationales DB pour les employés[^3] (TagesTicket M Fern F, DB Job-Ticket M, NetzCard + billet supplémentaire NE) sont acceptés. Depuis Kehl, le tram dessert Strasbourg, pour lequel un ticket de tram bon marché est nécessaire.
 {{% /highlight %}}
-
+{{% highlight important %}}
+Quelques trains `TGV` circulent de Fribourg à Paris et sont entièrement exploités par la SNCF, y compris en Allemagne. Pour ces trains, seule la SNCF est indiquée comme exploitant, voir [Identifier l’exploitant du train et rechercher des liaisons](#informations-fip). Dans ces trains, les Coupons FIP DB et les réductions nationales pour les employés DB ne sont pas valables en Allemagne. À la place, des billets au Tarif Global FIP de la SNCF peuvent être achetés.
+{{% /highlight %}}
 Il existe aussi plusieurs liaisons régionales exploitées par la DB et la SNCF entre l’Allemagne et la France, accessibles avec FIP. Les Billets FIP 50 classiques et les Coupons FIP DB sont valables sur le tronçon allemand, et à partir du point-frontière, les Coupons FIP SNCF sont requis. Billets FIP 50 pour ces liaisons peuvent être achetés en ligne, voir [Options de réservation – en ligne](/operator/sncf#en-ligne "Achat de billets et réservations – en ligne").
 
 {{% highlight tip %}}
@@ -83,7 +88,7 @@ Le Deutschlandticket, une option économique pour le trafic régional allemand, 
 
 ### Suisse
 
-Depuis la Suisse, des TGV transfrontaliers relient Zurich à Paris via Bâle. En Suisse, ces trains sont accessibles sans réservation avec des Billets FIP 50 ou un Coupon FIP SBB. Pour les liaisons transfrontalières, il faut acheter un billet au Tarif Global FIP, voir [TGV inOui / ICE transfrontaliers](/operator/sncf#trains-tgv-inoui--ice-internationaux "TGV inOui / ICE internationaux").
+Depuis la Suisse, des TGV transfrontaliers relient Zurich à Paris via Bâle. En Suisse, ces trains sont accessibles sans réservation avec des Billets FIP 50 ou un Coupon FIP SBB. Pour les liaisons transfrontalières, il faut acheter un billet au Tarif Global FIP, voir [TGV Lyria vers la Suisse](/operator/sncf#tgv-lyria).
 
 Il existe aussi plusieurs liaisons régionales transfrontalières. À Bâle, la gare de Bâle SBB est la gare frontière à partir de laquelle les Coupons FIP SNCF sont valables pour les trains tels que `TER` en direction de Strasbourg.
 
@@ -95,21 +100,9 @@ Les trains régionaux `TER` de Lyon à Genève peuvent être utilisés jusqu’�
 
 Depuis Milan, des trains Frecciarossa internationaux relient Paris. Ces trains ne sont pas accessibles avec FIP en France.
 
-Entre Turin et Paris circulent aussi des trains `TGV` SNCF. Ceux-ci sont accessibles avec FIP en France, mais il faut acheter des billets au Tarif Global FIP, voir [TGV inOui / ICE transfrontaliers](/operator/sncf#grenzüberschreitende-tgv-inoui--ice-züge "TGV inOui / ICE transfrontaliers").
+Entre Turin et Paris circulent aussi des trains `TGV` SNCF. Ceux-ci sont accessibles avec FIP en France, mais il faut acheter des billets au Tarif Global FIP, voir [TGV vers l’Italie, l’Espagne et la Belgique](/operator/sncf#tgv-italy-spain-belgium).
 
 Des trains régionaux SNCF relient Grasse/Cannes/Nice à Monaco puis Ventimiglia. Les Billets FIP 50 et les Coupons FIP SNCF sont valables jusqu’à Ventimiglia.
-
-### Espagne
-
-Au départ de Barcelone, des trains directs `TGV` de la SNCF relient Paris. Renfe assure également des liaisons transfrontalières entre Barcelone et Lyon ainsi qu’entre Madrid et Marseille.
-
-Des Tarifs Globaux FIP sont disponibles auprès des deux opérateurs, mais ceux de la SNCF sont souvent très élevés (voir [TGV inOui / ICE internationaux](/operator/sncf#trains-tgv-inoui--ice-internationaux "TGV inOui / ICE internationaux")). Pour les trains `AVE` exploités par Renfe, des billets au Tarif Global FIP sont disponibles à partir de 15 € (à jour : octobre 2025). Ces billets peuvent être achetés aux guichets Renfe en Espagne. [^1]
-
-Avec [Euskotren](/operator/euskotren), il est possible de voyager jusqu’à Hendaye sur la côte atlantique avec un Billet FIP spécial.
-
-Il existe également des trains régionaux Rodalies de Catalunya de Renfe avec des liaisons transfrontalières vers Cerbère et Latour-de-Carol. Les Billets FIP peuvent être achetés directement à bord auprès du personnel du train ou au guichet Renfe en Espagne.
-
-Au total, il existe très peu de liaisons transfrontalières, alors qu’il y en avait beaucoup plus il y a quelques années.
 
 ### Monaco
 
@@ -117,6 +110,22 @@ Il n’y a pas de point-frontière tarifaire entre les deux pays, Monaco faisant
 
 [^1]: [Retour utilisateur](https://github.com/fipguide/fipguide.github.io/issues/449)
 
-[^2]: [Communauté FIP Guide - Retour d'information](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
+[^2]: [Communauté FIP Guide - Retour d’information](https://discord.com/channels/1250522473188032512/1441391294189408269/1453338148678664284)
 
-[^3]: [DB Mobidig - Où ma réduction de voyage s'applique](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
+[^3]: [DB Mobidig - Où ma réduction de voyage s’applique](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792#9077818)
+
+### Espagne
+
+Au départ de Barcelone, des trains directs `TGV` de la SNCF relient Paris. Renfe assure également des liaisons transfrontalières entre Barcelone et Lyon ainsi qu’entre Madrid et Marseille.
+
+Des Tarifs Globaux FIP sont disponibles auprès des deux opérateurs, mais ceux de la SNCF sont souvent très élevés (voir [TGV vers l’Italie, l’Espagne et la Belgique](/operator/sncf#tgv-italy-spain-belgium)). Pour les trains `AVE` exploités par Renfe, des billets au Tarif Global FIP sont disponibles à 25 € / 28 € (à jour : mai 2026), voir [Renfe – AVE](/operator/renfe#ave "Renfe – AVE"). Ces billets peuvent être achetés aux guichets Renfe en Espagne. [^1]
+
+Avec [Euskotren](/operator/euskotren), il est possible de voyager jusqu’à Hendaye sur la côte atlantique avec un Billet FIP spécial.
+
+Il existe également des trains régionaux Rodalies de Catalunya de Renfe avec des liaisons transfrontalières vers Cerbère et Latour-de-Carol. Les Billets FIP peuvent être achetés directement à bord auprès du personnel du train ou au guichet Renfe en Espagne.
+
+Au total, il existe très peu de liaisons transfrontalières, alors qu’il y en avait beaucoup plus il y a quelques années.
+
+### Andorre
+
+Il n’existe actuellement aucune liaison ferroviaire entre l’Andorre et la France.

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "{{ .File.ContentBaseName | title }}" # Change the title to the name of the booking platform
 description: "" # Add a description for the booking platform
 params:
@@ -13,7 +12,7 @@ params:
   reservations: true # Define if reservations can be booked with this booking platform
   booking_link: "https://example.com" # Add a link to the booking platform
   additional_info_link: "https://example.com/additional-info" # Add a link with additional information
-  type: "onsite" # Accepted types are: website, onsite, phone, email, socialmedia and machine
+  type: "onsite" # Accepted types are: website, online, onsite, phone, email, socialmedia and machine
 ---
 
 {{% booking-section "fip_50" %}}

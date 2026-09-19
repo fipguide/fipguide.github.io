@@ -1,8 +1,11 @@
 ---
-draft: false
-title: "SBB CFF FFS"
+title: SBB CFF FFS
 country:
-  - "switzerland"
+  - switzerland
+aliases:
+  - /booking/sbb-ticket-machine
+  - /booking/sbb-ticket-office
+  - /booking/sbb-website
 ---
 
 Die SBB (Schweizerische Bundesbahnen) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) ist die nationale Eisenbahngesellschaft der [Schweiz](/country/switzerland "Schweiz"). Sie betreibt einen Großteil des schweizerischen Schienennetzes. Die SBB ist bekannt für ihre Pünktlichkeit und Zuverlässigkeit.
@@ -17,6 +20,7 @@ Die SBB stellt eine [Übersichtskarte ihrer Strecken](https://www.raildeliverygr
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SBB ohne Einschränkung gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -31,7 +35,9 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SBB ohne Einsc
     reservation_required=false
     reservation_possible=true
 %}}
+
 Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Zürich, Bern oder Interlaken. Wegen Verspätungen in Deutschland enden diese Züge teilweise außerplanmäßig in Basel und werden dann innerhalb der Schweiz durch einen Ersatzzug ersetzt.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -42,11 +48,13 @@ Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Z
     reservation_required=partially
     reservation_possible=true
 %}}
+
 Hochgeschwindigkeitszüge aus Frankreich nach Zürich über Basel.
 
-#### Reservierung
+#### Reservierungen
 
 Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren reservierungspflichtig.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -57,9 +65,10 @@ Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren rese
     reservation_required=partially
     reservation_possible=true
 %}}
+
 Internationale Züge Richtung Deutschland und Italien.
 
-#### Reservierung
+#### Reservierungen
 
 1\. Klasse: 13€ \
 2\. Klasse: 11€
@@ -76,7 +85,11 @@ Für den italienischen Abschnitt sind eine Reservierung und ein Zuschlag erforde
     reservation_required=false
     reservation_possible=true
 %}}
+
 Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen.
+
+Einige [Nightjet](#nj)-Verbindungen werden mit `IC`-Sitzwagen geführt. Diese Sitzwagen können ohne Reservierung genutzt werden. Die `IC`-Verbindung wird in den Auskunftsmedien zusätzlich zum Nightjet dargestellt.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -87,11 +100,37 @@ Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegs
     reservation_required=partially
     reservation_possible=true
 %}}
+
 Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb.
 
-#### Reservierung
+Einige Nightjet-Verbindungen werden mit [Intercity](#ic)-Sitzwagen geführt. Diese Sitzwagen können ohne Reservierung genutzt werden. Die `IC`-Verbindung wird in den Auskunftsmedien zusätzlich zum Nightjet dargestellt.
+
+#### Reservierungen
 
 Eine Reservierung ist erforderlich, außer in Sitzwagen bei Intercity, Eurocity und Regionalzügen.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="pe"
+    title="Panorama Express (PE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+    additional_information_url="https://www.sbb.ch/de/freizeit-ferien/zuege-schiffe/panoramareisen/gotthard-panorama-express.html"
+%}}
+
+Panoramazüge der SBB über die Gotthardbergstrecke von Mitte April bis Mitte Oktober. Beworben wird eine Fahrt in Kombination mit dem Schiff der Schifffahrtsgesellschaft des Vierwaldstättersee (SGV), dort gelten die Fahrvergünstigungen SP, siehe [Schweizer Privatbahnen - SGV](/operator/sp#sgv). Für Reisende auf der Gesamtstrecke mit Zug und Schiff zwischen Lugano und Luzern (und umgekehrt) wird ein kostenloser Gepäcktransport angeboten.
+
+#### Reservierungen
+
+Eine besondere Reservierung für 24 CHF ist erforderlich.
+
+{{< highlight important >}}
+Die Züge führen nur Wagen der 1. Klasse. Zu einem Freifahrschein der 2. Klasse ist daher ein Klassenübergang notwendig. Mit einem FIP-Ausweis der 2. Klasse gibt es keine Ermäßigung.
+{{< /highlight >}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -102,7 +141,9 @@ Eine Reservierung ist erforderlich, außer in Sitzwagen bei Intercity, Eurocity 
     reservation_required=false
     reservation_possible=true
 %}}
+
 Nationale Züge mit Halten in größeren Städten.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -111,17 +152,33 @@ Nationale Züge mit Halten in größeren Städten.
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
 
 ### Online
 
-{{% booking id="sbb-website"/%}}
+{{% booking id="sbb-website" /%}}
 
-{{% booking id="db-website"/%}}
+{{% booking id="db-website" /%}}
 
 {{% booking id="db-website-fip-db"
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz, mit Ticketanteil nur für den schweizerischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
@@ -137,15 +194,24 @@ Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mai
 
 ### Telefon
 
-{{% booking id="oebb-phone" subtitle="Nightjet Buchung" fip_50=nil /%}}
+{{% booking id="oebb-phone"
+    subtitle="Nightjet Buchung"
+    fip_50=nil
+/%}}
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz, mit Ticketanteil nur für den schweizerischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+%}}
+Für den `ECE` Frankfurt – Mailand können durchgehende FIP 50 Tickets bis Mailand gebucht werden.
+{{% /booking %}}
 
 ### Vor Ort
 
-{{% booking id="sbb-ticket-office"/%}}
+{{% booking id="sbb-ticket-office" /%}}
 
-{{% booking id="sbb-ticket-machine"/%}}
+{{% booking id="sbb-ticket-machine" /%}}
 
-{{% booking id="db-ticket-office"/%}}
+{{% booking id="db-ticket-office" /%}}
 
 ### Im Zug
 
@@ -153,13 +219,22 @@ Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben
 
 ## Ermäßigungen
 
-Kinder reisen bei normalen Fahrten (keine Sonderfahrten) bis einschließlich 5 Jahren kostenlos. Kinder bis einschließlich 15 Jahre erhalten eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Ab dem vollendeten 16. Lebensjahr gilt der reguläre Fahrpreis für Erwachsene.
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung          |
+| ----------------------------------- | ------------------- |
+| {{< icon "child_care" >}} 0–5 Jahre | Kostenlos[^3]       |
+| {{< icon "person" >}} ab 6 Jahre    | Regulärer Preis[^3] |
+
+### SBB Junior-Karte
+
+Zusätzlich gibt es die Möglichkeit eine _SBB Junior-Karte_ für 30 CHF zu erwerben. Diese berechtigt eigene Kinder bis einschließlich 15 Jahre zur Fahrt in Begleitung eines Elternteils. Der mitreisende Elternteil benötigt für die Fahrt eine eigene gültige Fahrkarte (z. B. FIP Freifahrtschein oder FIP 50 Ticket). Die Junior-Karte kann vor Ort an [Verkaufsstellen des öffentlichen Verkehrs](https://www.sbb.ch/de/reiseinformationen/bahnhoefe/bahnhof-finden.html) in der Schweiz erworben werden. Siehe SBB Website: [Junior-Karte](https://www.sbb.ch/de/angebote/junior-karte).
+
+### Kinder-Tageskarte
+
+Alternativ bietet die _Kinder-Tageskarte_ für 19 CHF (2. Klasse) bzw. 33 CHF (1. Klasse) Kindern von 6 bis unter 16 Jahren einen Tag lang unbeschränkte Fahrt im öffentlichen Verkehr. Siehe SBB Website: [Kinder-Tageskarte](https://www.sbb.ch/de/angebote/kinder-tageskarte).
 
 ## Tarifliche Besonderheiten
-
-### Busse und Schienenersatzverkehr
-
-FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.
 
 ### Gegenseitige Anerkennung von Freifahrtscheinen der SBB und BLS
 
@@ -178,6 +253,22 @@ Auf einigen Routen der Schweizerischen Südostbahn (SOB) gelten FIP Freifahrtsch
 
 Für grenzüberschreitenden `EC`-Züge nach Italien und `TGV`-Züge nach Frankreich ist außerhalb der Schweiz ein Zuschlag zum FIP Freifahrtschein erforderlich. Der Zuschlag kann am Schalter (in der Schweiz, Frankreich oder Italien) erworben werden. In den EC Zügen nach Italien ist auch ein Erwerb im Zug oder vergünstigt über die Deutsche Bahn möglich. [Siehe Einreise Italien](/country/switzerland#italien "Einreise Italien")
 
+### Anschlüsse
+
+#### HOTNAT
+
+Wird ein Anschlusszug an den Bahnhöfen Paris, Brüssel, Köln, München, Basel oder Zürich verpasst, kann HOTNAT genutzt werden.
+
+Dieser Betreiber ist Teil von HOTNAT (Hop on the Next Available Train). [Weitere Informationen im FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
+
+### Schienenersatzverkehr
+
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
 ## Empfehlungen
 
 {{% highlight tip %}}
@@ -186,6 +277,8 @@ Der FIP-Freifahrtschein lohnt sich für die SBB CFF FSS besonders, da hier mit w
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)
+
+[^3]: [SBB – Fahrkarten und Abonnemente für Kinder und Jugendliche](https://www.sbb.ch/en/travel-information/individual-needs/travelling-with-children/tickets-travelcards.html)

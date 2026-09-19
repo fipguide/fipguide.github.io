@@ -1,0 +1,13 @@
+{{ $logo := resources.Get "images/logo.svg" }}
+
+
+<a id="skip-link" class="o-header__skip-link" href="#content"
+  >{{ T "skipToContent" }}</a
+>
+<a
+  href="{{ .Site.Home.RelPermalink }}"
+  aria-label="{{ T "home-page-text" }}"
+  class="o-header__logo"
+>
+  {{ partial "header-logo" }}
+</a>

@@ -1,0 +1,11 @@
+{{ $date := .Get "date" | time.AsTime }}
+{{ .Page.Store.Set "updated" $date }}
+<div class="m-text-highlight m-text-highlight--default">
+  <div class="m-text-highlight__roofline">
+    {{- partial "icon" "update" -}}
+    <span>{{ T "news.updated" }} {{ $date | time.Format ":date_long" }}</span>
+  </div>
+  <div>
+    {{ .Inner }}
+  </div>
+</div>

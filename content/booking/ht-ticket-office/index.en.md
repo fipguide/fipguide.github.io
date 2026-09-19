@@ -1,16 +1,14 @@
 ---
-draft: false
-title: "Hellenic Train Ticket Office"
-description: "Booking information for Hellenic Train ticket offices."
-
+title: Hellenic Train Ticket Office
+description: Booking information for Hellenic Train ticket offices.
 params:
   classes:
-    first: "free"
-    second: "free"
+    first: free
+    second: free
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.hellenictrain.gr/en/sale-points"
-  type: "onsite"
+  additional_info_link: https://www.hellenictrain.gr/en/sale-points
+  type: onsite
 ---
 
 {{% booking-section "fip_50" %}}
@@ -18,13 +16,11 @@ params:
 ## FIP 50 Tickets
 
 FIP 50 Tickets can be purchased on site.
-
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
 ## Reservations
 
-Free reservations for IC trains are available on site.
-
+Free reservations for rail replacement buses and IC trains are available on site. It is important to select the "FIP Ticket" fare, not "FIP Card."
 {{% /booking-section %}}

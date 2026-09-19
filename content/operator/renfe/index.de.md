@@ -1,25 +1,28 @@
 ---
-draft: false
-title: "Renfe"
+title: Renfe
 country:
-  - "spain"
-  - "france"
-operator: "renfe"
+  - spain
+  - france
+operator: renfe
+aliases:
+  - /booking/renfe-ticket-office
 ---
 
 Renfe Operadora ist das staatliche Eisenbahnunternehmen in [Spanien](/country/spain "Spanien"). Hierzu gehören komfortable Hochgeschwindkeitszüge, diverse Regionalzüge und S-Bahnen.
 
 ## Zusammenfassung
 
-- FIP Freifahrtscheine werden in Pendlerzügen (hauptsächlich S-Bahnen) akzeptiert, jedoch nicht in reservierungspflichtigen Zügen.
+- FIP Freifahrtscheine werden in Pendlerzügen (hauptsächlich S-Bahnen) akzeptiert, nicht jedoch in reservierungspflichtigen Zügen.
 - Für reservierungspflichtige Züge können Tickets zum FIP Globalpreis (Distanzunabhängig) inkl. Reservierung erworden werden, FIP Freifahrtscheine werden nicht benötigt.
 - In Avlo-Zügen wird FIP nicht akzeptiert.
-- Für die grenzüberschreitenden AVE zwischen Madrid und Marseille sowie Lyon und Barcelona gibt es die gleichen FIP-Gloablpreise wie für inländische.
+- Für die grenzüberschreitenden AVE zwischen Madrid und Marseille sowie Lyon und Barcelona gibt es abweichende FIP-Globalpreise für den internationalen Streckenabschnitt.
 
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" text="Außer reservierungspflichtige Züge" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" text="Außer reservierungspflichtige Züge" >}}
+
 {{< fip-validity type="fip-global-fare" status="valid" text="Für reservierungspflichtige Züge außer Avlo" disable_dialog=true >}}
 
 ## Zugkategorien und Reservierungen
@@ -39,15 +42,17 @@ Nur S-Bahnen sind mit FIP Freifahrtscheinen uneingeschränkt nutzbar. In anderen
     reservation_possible=true
 %}}
 
-Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtscheine werden nicht anerkannt.
+Langstreckenverbindungen mit normalspurigen und umspurbaren Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtscheine werden nicht anerkannt.
 
-Die internationalen AVE von / nach Frankreich sind zu den gleichen Konditionen wie inländische AVE buchbar, wobei es keine Premium Kategorie gibt. Die Buchung von internationalen Verbindungen ist ausschließlich über Renfe direkt möglich, weshalb Tickets an einem Ticketschalter in Spanien erworben werden müssen. Ein Verkauf im Zug sollte beim Zustieg in Frankreich möglich sein, allerdings liegen noch keine Praxiserfahrungen vor.
+Die internationalen AVE von / nach Frankreich haben je nach Streckenabschnitt unterschiedliche FIP Globalpreise. Die Buchung von internationalen Verbindungen ist ausschließlich über Renfe direkt möglich, weshalb Tickets bei Einstieg in Spanien an einem Ticketschalter in Spanien erworben werden müssen. Bei Zustieg in Frankreich können FIP Tickets im Zug erworben werden, Kartenzahlung ist möglich. [^3]
 
-**FIP Globalpreis (Distanzunabhängig):**
+**FIP Globalpreis (Distanzunabhängig):**[^5]
 
-- Elige: 10 €
-- Elige Confort: 13 €
-- Premium: 23,50 €
+| Strecke                                                       | Elige | Elige Confort | Prémium |
+| ------------------------------------------------------------- | ----- | ------------- | ------- |
+| Innerspanisch                                                 | 10 €  | 13 €          | 23,50 € |
+| Innerfranzösisch                                              | 10 €  | 13 €          | –       |
+| International (Spanien {{< icon "arrow_range" >}} Frankreich) | 25 €  | 28 €          | –       |
 
 {{% /train-category %}}
 
@@ -73,13 +78,13 @@ Niedrigpreis-Hochgeschwindigkeitszüge (bis 300 km/h).
     reservation_possible=true
 %}}
 
-Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtscheine werden nicht anerkannt.
+Umspurbare Hochgeschwindigkeitszüge (Figueres {{< icon "arrow_range" >}} Alicante). FIP Freifahrtscheine werden nicht anerkannt.
 
-**FIP Globalpreis (Distanzunabhängig):**
+**FIP Globalpreis (Distanzunabhängig):**[^5]
 
 - Elige: 6,50 €
 - Elige Confort: 10 €
-- Premium: 23,50 €
+- Prémium: 23,50 €
 
 {{% /train-category %}}
 
@@ -94,10 +99,11 @@ Umspurbare Hochgeschwindigkeitszüge (Figueres <-> Alicante). FIP Freifahrtschei
 
 Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtscheine werden nicht anerkannt.
 
-**FIP Globalpreis (Distanzunabhängig):**
+**FIP Globalpreis (Distanzunabhängig):**[^5]
 
 - Elige: 6,50 €
 - Elige Confort: 10 €
+- Prémium: 23,50 €
 
 {{% /train-category %}}
 
@@ -112,10 +118,11 @@ Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtscheine werden
 
 Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP Freifahrtscheine werden nicht anerkannt.
 
-**FIP Globalpreis (Distanzunabhängig):**
+**FIP Globalpreis (Distanzunabhängig):**[^5]
 
 - Elige: 6,50 €
 - Elige Confort: 10 €
+- Prémium: 23,50 €
 
 {{% /train-category %}}
 
@@ -147,7 +154,7 @@ Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der por
 
 Hochgeschwindkeitszüge, Reisedauer < 90 Minuten. FIP Freifahrtscheine werden nicht anerkannt.
 
-**FIP Globalpreis (Distanzunabhängig):** 4 €
+**FIP Globalpreis (Distanzunabhängig):** 4 € [^5]
 
 {{% /train-category %}}
 
@@ -162,9 +169,9 @@ Hochgeschwindkeitszüge, Reisedauer < 90 Minuten. FIP Freifahrtscheine werden ni
 
 Beschleunigter Regionalverkehr. FIP Freifahrtscheine werden nur auf nicht reservierungspflichtigen Zügen dieser Kategorie anerkannt. Aktuell ist das nur auf der Route Barcelona(-Girona-Figueres)-Port Bou der Fall.
 
-**FIP Globalpreis (Distanzunabhängig):** 4 €
+**FIP Globalpreis (Distanzunabhängig):** 4 € [^5]
 
-#### Reservierung
+#### Reservierungen
 
 Es besteht Reservierungspflicht, außer auf der Route Barcelona(-Girona-Figueres)-Port Bou[^1].
 
@@ -183,7 +190,7 @@ Es besteht Reservierungspflicht, außer auf der Route Barcelona(-Girona-Figueres
 
 Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtscheine sind hier uneingeschränkt gültig.
 
-In Barcelona sind die Cercanías (auch zum Flughafen) nur über Zugangsschranken erreichbar. An einem personenbesetzten Ticketschalter kann ein „Bono Gratuit" (für den FIP Freifahrtschein) angefordert werden – ein kostenloses Ticket, das die Schranken öffnet. Es ist nur für eine einzelne Fahrt gültig.[^4]
+Teilweise sind die Cercanías nur über Zugangsschranken erreichbar. Vor Ort muss das Personal angesprochen werden, um durch die Zugangsschranken zu gelangen. Bei fehlender Besetzung durch Personal nachts ist eine Zugangsschranke offen oder es sind Sprechsäulen vorhanden.
 
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
@@ -220,7 +227,7 @@ Eine telefonische Buchung bei Renfe scheint nicht möglich zu sein. Bei der Hotl
 
 {{% booking id="db-ticket-office"
     fip_global_fare=true
-    reservations="nil"
+    reservations=nil
 %}}
 
 #### FIP Globalpreis
@@ -239,7 +246,17 @@ Tickets für internationale `AVE` Züge können bei Zustieg in Frankreich im Zug
 
 ## Ermäßigungen
 
-Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter 12 Jahren gilt eine Ermäßigung von 40 %. Ab 12 Jahren wird der volle Preis berechnet.
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                             |
+| ------------------------------------ | -------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos (ohne eigenen Sitzplatz)[^6] |
+| {{< icon "child_care" >}} 4–13 Jahre | 40 % Ermäßigung[^6]                    |
+| {{< icon "person" >}} ab 14 Jahre    | Regulärer Preis[^6]                    |
+
+### Begleitung von Kindern
+
+In `AVE` (Hochgeschwindigkeit), internationalen `AVE`-Zügen zwischen Spanien und Frankreich, Larga Distancia (Fernverkehr) und `Avant` (Mittelstrecken-Hochgeschwindigkeit) müssen Kinder unter 14 Jahren von einem Erwachsenen begleitet werden oder den Service für unbegleitete Minderjährige nutzen, sofern dieser im jeweiligen Zug angeboten wird.[^6]
 
 ## Tarifliche Besonderheiten
 
@@ -250,6 +267,10 @@ Bei FIP 50 und FIP Globalpreis Tickets darf die Reise zwischenzeitlich nicht unt
 ### Renfe Feve
 
 FIP Fahrvergünstigungen gelten auch auch auf dem Meterspurnetz der Renfe Feve (Ferrocarriles de Vía Estrecha) zwischen Ferrol und Bilbao in Nordspanien.
+
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
 
 ## Empfehlungen
 
@@ -263,8 +284,10 @@ Die Renfe ist in vielen Fällen mehr mit einer Fluggesellschaft als mit anderen 
 
 [^1]: [ShowMeTheJourney](https://showmethejourney.com/travel-on/train/129-md-media-distancia-spain/)
 
-[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782293-spain.html)
 
 [^3]: [Nutzerfeedback: Ticketkauf im Zug](https://github.com/fipguide/fipguide.github.io/issues/449)
 
-[^4]: [Nutzerfeedback: Zugangsschranken Barcelona](https://github.com/fipguide/fipguide.github.io/issues/796)
+[^5]: [Renfe FIP-Preise (PKP, April 2026)](https://pkp.pl/images/fip/2026/Renfe%20dopaty%2001.04.2026.pdf)
+
+[^6]: [Renfe – Kinder](https://www.renfe.com/es/en/travel/prepare-your-trip/descuentos/ninos)

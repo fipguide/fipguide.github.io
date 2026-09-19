@@ -1,9 +1,13 @@
 ---
-draft: false
-title: "GySEV / Raaberbahn"
+title: GySEV / Raaberbahn
 country:
-  - "austria"
-operator: "gysev"
+  - austria
+  - hungary
+operator: gysev
+aliases:
+  - /booking/mav-ticket-machine
+  - /booking/mav-ticket-office
+  - /booking/mav-website
 ---
 
 The Raab-Oedenburg-Ebenfurter Eisenbahn AG (Hungarian: Győr-Sopron-Ebenfurti Vasút Zrt.), short: GySEV or Raaberbahn, is a private Hungarian railway company that operates regional trains in Hungary and [Austria](/country/austria "Austria"). They primarily operate passenger services south and east of Lake Neusiedl (Western Hungary), partly even on their own infrastructure.
@@ -17,6 +21,7 @@ The Raab-Oedenburg-Ebenfurter Eisenbahn AG (Hungarian: Győr-Sopron-Ebenfurti Va
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 {{% highlight important %}}
@@ -44,11 +49,11 @@ The following lines can be used with the GySEV FIP Coupon in Austria in the spec
 
 GySEV operates Scarbantia IC trains between Sopron and Budapest.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 In Hungary, InterCity trains are also operated by MÁV, the Hungarian state railway.
-{{% /highlight %}}
+{{< /highlight >}}
 
-#### Reservation
+#### Reservations
 
 Reservations are only mandatory between Győr and Budapest. For journeys between Sopron and Győr, no reservation is required.
 
@@ -59,14 +64,15 @@ Reservations are only mandatory between Győr and Budapest. For journeys between
     title="Regionalexpress (REX)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Fast local train with fewer stops and modern rolling stock.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Regionalexpress trains are sometimes also operated by ÖBB where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [bahn.de](https://int.bahn.de/en).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -75,14 +81,15 @@ Regionalexpress trains are sometimes also operated by ÖBB where GySEV FIP Ticke
     title="Regionalzug (R)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Local train stopping at most stations.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Regional trains are sometimes also operated by ÖBB where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [bahn.de](https://int.bahn.de/en).
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -91,14 +98,28 @@ Regional trains are sometimes also operated by ÖBB where GySEV FIP Tickets are 
     title="Személyvonat (Sz)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Local train stopping at most stations.
 
-{{% highlight confusion %}}
-Személyvonat trains are sometimes also operated by MÁV where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [bahn.de](https://int.bahn.de/en).
-{{% /highlight %}}
+{{< highlight confusion >}}
+Személyvonat trains are sometimes also operated by [MÁV](/operator/mav#sz) where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [bahn.de](https://int.bahn.de/en).
+{{< /highlight >}}
+
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+FIP discounts are not valid on GySEV bus connections. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 {{% /train-category %}}
 
@@ -108,9 +129,11 @@ Személyvonat trains are sometimes also operated by MÁV where GySEV FIP Tickets
 
 {{% booking id="mav-website" /%}}
 
-### Phone
+### Telephone
 
-{{% booking id="oebb-phone" reservations=nil /%}}
+{{% booking id="oebb-phone"
+    reservations=nil
+/%}}
 
 ### On-Site
 
@@ -118,36 +141,54 @@ Személyvonat trains are sometimes also operated by MÁV where GySEV FIP Tickets
 
 {{% booking id="mav-ticket-machine" /%}}
 
-{{% booking id="oebb-ticket-office" reservations=nil /%}}
+{{% booking id="oebb-ticket-office"
+    reservations=nil
+/%}}
 
-### On the train
+### On the Train
 
 Tickets with FIP discount cannot be purchased on board. [^1]
 
 ## Discounts
 
+{{< children-discount >}}
+
 Discounts differ depending on the country in which you travel with GySEV.
 
 ### Hungary
 
-With public fares, children under 6 travel free of charge. Children up to 14 years can receive a 50% discount on the adult fare. Persons from 14 years pay the adult fare.
+| Age                                  | Discount                              |
+| ------------------------------------ | ------------------------------------- |
+| {{< icon "stroller" >}} 0–5 years    | Free of charge[^3]                    |
+| {{< icon "child_care" >}} 6–13 years | 50% discount on the regular price[^3] |
+| {{< icon "person" >}} from 14 years  | Regular price[^3]                     |
 
 ### Austria
 
-With public fares, children under 6 travel free of charge. Children up to 15 years can receive a 50% discount on the adult fare. Persons from 15 years pay the adult fare.
+| Age                                  | Discount                              |
+| ------------------------------------ | ------------------------------------- |
+| {{< icon "stroller" >}} 0–5 years    | Free of charge[^3]                    |
+| {{< icon "child_care" >}} 6–14 years | 50% discount on the regular price[^3] |
+| {{< icon "person" >}} from 15 years  | Regular price[^3]                     |
 
 ## Special Tariff Conditions
 
-### Bus Services
-
-FIP discounts are not valid on GySEV bus connections.
-
-### Break of journey
+### Break of Journey
 
 For a break of journey, the ticket must be stamped at the station where the break should be.
 
+### Connections - AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
 
 [^2]: [GySEV Support Neusiedel am See - Pamhagen](https://github.com/fipguide/fipguide.github.io/issues/278)
+
+[^3]: [GySEV – International Travel](https://www2.gysev.hu/en/travel-offers/international-travel)

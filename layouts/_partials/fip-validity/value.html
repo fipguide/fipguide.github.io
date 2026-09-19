@@ -1,0 +1,26 @@
+{{- $iconMapping := dict
+  "valid" "check_circle"
+  "invalid" "cancel"
+  "unknown" "help"
+-}}
+
+{{- $status := "unknown" -}}
+{{- $text := T "fipValidity.unknown" -}}
+{{- if .entry -}}
+  {{- $groupName := index .entry .field -}}
+  {{- if $groupName -}}
+    {{- $group := index .groups $groupName -}}
+    {{- if $group -}}
+      {{- $status = $group.status -}}
+      {{- $text = index $group.text .lang -}}
+    {{- else -}}
+      {{- warnf "fip-validity: group %q not found (field %q, page: %s)" $groupName .field $.page.File.Path -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+
+<div class="o-fip-validity-dialog-value o-fip-validity--{{ $status }}">
+  {{ partial "icon" (index $iconMapping $status) }}
+  {{ $text | $.page.RenderString }}
+</div>

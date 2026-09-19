@@ -1,0 +1,39 @@
+<!doctype html>
+<html
+  lang="{{ site.Language.Locale }}"
+  dir="{{ or site.Language.Direction `ltr` }}"
+>
+  <head>
+    {{ partial "head" . }}
+  </head>
+  <body>
+    <div id="header">
+      <div class="o-container o-header">
+        <div id="overlay" aria-hidden="true"></div>
+        <header>{{ partial "header.html" . }}</header>
+        <nav class="o-header__nav o-container">
+          {{ partial "navigation.html" . }}
+        </nav>
+      </div>
+    </div>
+    <main
+      id="content"
+      {{- if .IsHome -}}
+        class="o-startpage"
+      {{- else if eq .Page.Type "news" -}}
+        class="o-newspage"
+      {{- else if eq .Page.Type "booking" -}}
+        class="o-bookingpage"
+      {{- end -}}
+    >
+      <div class="o-container">
+        {{ block "main" . }}{{ end }}
+      </div>
+    </main>
+    {{ partial "search" . }}
+    <footer class="o-footer o-container">{{ partial "footer.html" . }}</footer>
+    {{ if or (eq .Page.Type "country") (eq .Page.Type "operator") (eq .Page.Type "general") }}
+      {{ partial "snackbar" . }}
+    {{ end }}
+  </body>
+</html>

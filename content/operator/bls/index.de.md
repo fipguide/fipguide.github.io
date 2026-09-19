@@ -1,8 +1,9 @@
 ---
-draft: false
-title: "BLS"
+title: BLS
 country:
-  - "switzerland"
+  - switzerland
+aliases:
+  - /booking/bls-ticket-office
 ---
 
 Die BLS (ehemals Bern-Lötschberg-Simplon-Bahn) ist eine öffentliche Eisenbahngesellschaft in der [Schweiz](/country/switzerland "Schweiz"). Sie betreibt viele Zug-, Bus- und Schiffsverbindungen und fährt primär im Kanton Bern.
@@ -18,6 +19,7 @@ Auf ihrer Website bietet die BLS eine [Übersichtskarte der Strecken](https://ww
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Zugkategorien und Reservierungen
@@ -32,7 +34,9 @@ In keinem Zug der BLS gibt es eine Reservierungspflicht.
     reservation_required=false
     reservation_possible=true
 %}}
+
 Nationale Züge mit Halten in größeren Städten.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -43,7 +47,9 @@ Nationale Züge mit Halten in größeren Städten.
     reservation_required=false
     reservation_possible=false
 %}}
+
 Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -54,6 +60,7 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
     reservation_required=partially
     reservation_possible=true
 %}}
+
 Der GoldenPassExpress ist eine durchgehende Zugverbindung von Montreux bis Interlaken Ost, welcher von der BLS in Kooperation mit der [MOB](/operator/sp#mob) betrieben wird. Die MOB betreibt den Zug im meterspurigen Abschnitt zwischen Montreux und Zweisimmen und die BLS im normalspurigen Abschnitt zwischen Zweisimmen und Interlaken Ost. In der Verbindungsauskunft werden diese Züge als `PE` gekennzeichnet.
 
 Das bedeutet, dass Freifahrtscheine sowohl der SP als auch der BLS vorhanden sein müssen, um die komplette Strecke zu befahren. FIP 50 Tickets können durchgehend gebucht werden.
@@ -61,17 +68,22 @@ Das bedeutet, dass Freifahrtscheine sowohl der SP als auch der BLS vorhanden sei
 #### Reservierungen
 
 Eine Mitfahrt ohne Sitzplatzreservierung ist nur möglich, wenn noch Plätze frei sind. Ansonsten kann über die Website der MOB eine kostenpflichtige Reservierung erworben werden.
+
 {{% /train-category %}}
 
 {{% train-category
     id="at"
     title="Autoverlad (AT)"
-    fip_accepted=false
     type="regional"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
+
 Autozüge auf den Strecken Kandersteg – Göppenstein, Brig – Iselle und Kandersteg – Iselle.
 
 FIP ist in diesen Zügen nicht gültig, jedoch können die parallen fahrenden Züge des `RE 1` genutzt werden.
+
 {{% /train-category %}}
 
 ### Weitere Verkehrsmittel
@@ -84,7 +96,9 @@ FIP ist in diesen Zügen nicht gültig, jedoch können die parallen fahrenden Z�
     reservation_required=false
     reservation_possible=false
 %}}
-FIP ist in allen Bussen der BLS gültig, inklusive der Busse der _Busland AG_.
+
+FIP ist in allen Bussen der BLS gültig, inklusive der Busse der _Busland AG_ und Bussen des Schienenersatzverkehrs.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -95,16 +109,18 @@ FIP ist in allen Bussen der BLS gültig, inklusive der Busse der _Busland AG_.
     reservation_required=false
     reservation_possible=false
 %}}
+
 FIP ist auf den Schiffen der BLS auf dem Thunersee und Brienzersee gültig.
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
 
 ### Online
 
-{{% booking id="sbb-website"/%}}
+{{% booking id="sbb-website" /%}}
 
-{{% booking id="db-website"/%}}
+{{% booking id="db-website" /%}}
 
 {{% booking id="db-website-fip-db"
     subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz, mit Ticketanteil nur für den schweizerischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
@@ -118,11 +134,19 @@ Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tick
 Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tickets gebucht werden.
 {{% /booking %}}
 
+### Telefon
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Grenzüberschreitende FIP 50 Tickets zwischen Deutschland und der Schweiz, mit Ticketanteil nur für den schweizerischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
+%}}
+Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tickets gebucht werden.
+{{% /booking %}}
+
 ### Vor Ort
 
-{{% booking id="bls-ticket-office"/%}}
+{{% booking id="bls-ticket-office" /%}}
 
-{{% booking id="sbb-ticket-office"/%}}
+{{% booking id="sbb-ticket-office" /%}}
 
 ### Im Zug
 
@@ -130,7 +154,20 @@ Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben
 
 ## Ermäßigungen
 
-Für reguläre Fahrten reisen Kinder bis einschließlich 5 Jahre kostenlos. Kinder bis einschließlich 15 Jahre erhalten eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Personen ab 16 Jahren zahlen den regulären Erwachsenentarif.[^1]
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung          |
+| ----------------------------------- | ------------------- |
+| {{< icon "child_care" >}} 0–5 Jahre | Kostenlos[^3]       |
+| {{< icon "person" >}} ab 6 Jahre    | Regulärer Preis[^1] |
+
+### Junior-Karte für Begleitete Kinder
+
+Zusätzlich gibt es die Möglichkeit eine _Junior-Karte_ für 30 CHF zu erwerben. Diese berechtigt eigene Kinder bis einschließlich 15 Jahre zur Fahrt in Begleitung eines Elternteils. Der mitreisende Elternteil benötigt für die Fahrt eine eigene gültige Fahrkarte (z. B. FIP Freifahrtschein oder FIP 50 Ticket). Die Junior-Karte kann vor Ort an Verkaufsstellen des öffentlichen Verkehrs in der Schweiz erworben werden. Siehe SBB Website: [Junior-Karte](https://www.sbb.ch/de/angebote/junior-karte).
+
+### Kinder-Tageskarte
+
+Alternativ bietet die _Kinder-Tageskarte_ für 19 CHF (2. Klasse) bzw. 33 CHF (1. Klasse) Kindern von 6 bis unter 16 Jahren einen Tag lang unbeschränkte Fahrt im öffentlichen Verkehr. Siehe SBB Website: [Kinder-Tageskarte](https://www.sbb.ch/de/angebote/kinder-tageskarte).
 
 ## Tarifliche Besonderheiten
 
@@ -147,6 +184,14 @@ Die Schweizer Bahnunternehmen SBB und BLS akzeptieren teilweise gegenseitig FIP 
 
 Nicht gültig sind die Freifahrtscheine der SBB jedoch auf den BLS-Schiffen auf dem Thuner- und Brienzersee sowie in den Bussen der BLS, die hauptsächlich im Emmental verkehren.
 
+### Anschlüsse – AJC
+
+Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
+
+### Schienenersatzverkehr
+
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+
 ## Empfehlungen
 
 {{% highlight tip %}}
@@ -155,6 +200,8 @@ Angehörige haben teilweise keine Berechtigung auf FIP Freifahrtscheine der SBB.
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)
+
+[^3]: [BLS – Reisen mit Kindern](https://www.bls.ch/de/fahren/fahrgastinformation/familien)

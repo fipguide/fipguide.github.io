@@ -1,15 +1,14 @@
 ---
-draft: false
-title: "Guichet ČD"
-description: "Informations de réservation pour les guichets České dráhy."
+title: Guichet ČD
+description: Informations de réservation pour les guichets České dráhy.
 params:
   classes:
-    first: "35 CZK"
-    second: "35 CZK"
+    first: 35 CZK
+    second: 35 CZK
   fip_50: true
   reservations: true
-  additional_info_link: "https://www.cd.cz/en/typy-jizdenek/jak-koupit-jizdenku/-28750/"
-  type: "onsite"
+  additional_info_link: https://www.cd.cz/en/typy-jizdenek/jak-koupit-jizdenku/-28750/
+  type: onsite
 ---
 
 {{% booking-section "fip_50" %}}
@@ -18,6 +17,9 @@ params:
 
 Aux guichets ČD, il est possible d’acheter des Billets FIP 50 pour voyager en Tchéquie et vers d’autres pays européens.
 
+{{< highlight tip >}}
+La ČD peut aussi vendre des billets vers des points frontières et pas seulement vers des gares réelles. Cela est particulièrement utile pour les trajets vers d’autres pays pour lesquels un Coupon FIP est disponible.
+{{< /highlight >}}
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
@@ -25,5 +27,4 @@ Aux guichets ČD, il est possible d’acheter des Billets FIP 50 pour voyager en
 ## Réservations
 
 Les guichets České dráhy proposent des réservations pour la Tchéquie et certains autres pays européens. Il est également possible de réserver des places spécifiques.
-
 {{% /booking-section %}}

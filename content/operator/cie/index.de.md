@@ -1,9 +1,11 @@
 ---
-draft: false
-title: "CIE"
+title: CIE
 country:
-  - "ireland"
-operator: "cie"
+  - ireland
+operator: cie
+aliases:
+  - /booking/irish-rail-ticket-office
+  - /booking/irish-rail-website
 ---
 
 Córas lompair Éireann (CIE) ist die staatliche Bahngesellschaft [Irlands](/country/ireland) und das Mutterunternehmen von Irish Rail (Iarnród Éireann). Die Tochtergesellschaft betreibt den Großteil des Schienenverkehrs in der Republik Irland, einschließlich der Hauptstrecken zwischen Dublin, Cork, Galway und Limerick sowie regionaler Verbindungen in der Gegend von Dublin und Cork.
@@ -19,6 +21,7 @@ Auf ihrer Website bietet Irish Rail eine [Übersichtskarte der Strecken](https:/
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 ## Zugkategorien und Reservierungen
@@ -35,13 +38,15 @@ Auf ihrer Website bietet Irish Rail eine [Übersichtskarte der Strecken](https:/
 
 InterCity-Züge verbinden die wichtigsten Städte Irlands, darunter Dublin, Cork, Galway und Limerick. FIP wird auf allen InterCity-Verbindungen akzeptiert. Zudem wird der Enterprise Service zwischen Dublin und Belfast von InterCity-Zügen bedient. Mehr Informationen zum Enterprise sind auf der [Irland-Seite](/country/ireland#vereinigtes-königreich) zu finden.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Die First Class zwischen Dublin und Cork darf nicht mit FIP genutzt werden. Mehr Informationen zu den Klassenkategorien sind [weiter unten](#klassenkategorien) zu finden.
-{{% /highlight %}}
+{{< /highlight >}}
 
-#### Reservierung
+#### Reservierungen
 
 Reservierungen sind optional, werden aber für viele Verbindungen kostenfrei ausgegeben und sind daher in der 2. Klasse empfehlenswert.
+
+Fahrgäste der 1. Klasse (First Class / Premiere Class) werden im Zug zu einem freien Sitzplatz begleitet. Die Nutzung der 1. Klasse ist nur mit einem Sitzplatz möglich.
 
 {{% /train-category %}}
 
@@ -107,7 +112,7 @@ FIP ist auf Busverbindungen von Dublin Bus nicht gültig.
   - Dublin – Cork Premier Class Verbindungen: 10:00 Uhr (Montag – Samstag), 12:00 Uhr (Montag – Freitag) und 14:00 Uhr (Montag – Freitag)
   - Cork – Dublin Premier Class Verbindungen: 13:25 Uhr (Montag – Samstag), 14:25 Uhr (nur Sonntag), 15:25 Uhr (Montag – Freitag) und 17:25 Uhr (Montag – Donnerstag und Samstag)
 
-  Eine aktuelle Liste kann [hier](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel) abgerufen werden.
+  Eine aktuelle Liste und weitere Informationen zu den Klassen kann [hier](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel) abgerufen werden.
 
 - **Enterprise Plus**: Erste Klasse auf der Verbindung Dublin – Belfast. Kann mit FIP Fahrscheinen der 1. Klasse genutzt werden, mit Zuschlag auch mit FIP Fahrscheinen der 2. Klasse.
 
@@ -130,11 +135,29 @@ Zuschläge von der 2. Klasse auf die Premier Class können im Zug gebucht werden
 
 ## Ermäßigungen
 
-Kinder unter 5 Jahren fahren kostenlos. Jugendliche unter 16 Jahren erhalten 50 % Ermäßigung auf den Erwachsenentarif. Personen ab 16 Jahren zahlen den vollen FIP Erwachsenentarif.[^2]
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung                                     |
+| ----------------------------------- | ---------------------------------------------- |
+| {{< icon "stroller" >}} 0–4 Jahre   | Kostenlos, in Begleitung eines Erwachsenen[^3] |
+| {{< icon "child_hat" >}} 5–18 Jahre | Child Ticket[^4]                               |
+| {{< icon "person" >}} ab 19 Jahre   | Regulärer Preis[^4]                            |
+
+### Kinder bis 4 Jahre in reservierungspflichtigen Zügen
+
+Für reservierungspflichtige Züge kann ein Sitzplatz für ein Kind bis einschließlich 4 Jahre gebucht werden, indem die Option „Reservation only“ im Reiseplaner ausgewählt wird.[^3]
+
+### Young Adult/Student-Ticket
+
+Personen von 19 bis 25 Jahren können ein Young Adult/Student-Ticket nutzen, wenn sie im Besitz einer [TFI Young Adult (19-25 years) Leap Card](https://about.leapcard.ie/young-adult-and-student-card-launch) sind.[^4]
+
+{{% highlight tip %}}
+Generell sollte verglichen werden, ob der FIP-Erwachsenentarif oder ein "Child Ticket" / "Young Adult/Student-Ticket" günstiger sind.
+{{% /highlight %}}
 
 ## Tarifliche Besonderheiten
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Fahrtunterbrechungen sind mit FIP-Tickets erlaubt, müssen jedoch im Bahnhof, in dem die Fahrt unterbrochen wurde, durch einen Vermerk dokumentiert werden.
 
@@ -142,4 +165,8 @@ Fahrtunterbrechungen sind mit FIP-Tickets erlaubt, müssen jedoch im Bahnhof, in
 
 [^1]: [Irish Rail First Class Travel](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel)
 
-[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-123)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782276-ireland.html)
+
+[^3]: [Irish Rail – Altersanforderungen für Kindertickets](https://www.irishrail.ie/en-ie/faqs/what-are-the-age-requirements-for-child-tickets)
+
+[^4]: [Irish Rail – Rail Tickets Explained](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/tickets-explained)

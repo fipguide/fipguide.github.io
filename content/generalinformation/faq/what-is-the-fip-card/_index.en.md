@@ -1,7 +1,0 @@
----
-title: "What is the FIP Card?"
-weight: 4
----
-
-The FIP Card is the proof of entitlement for discounted travel with FIP members abroad.
-It enables free or discounted travel with participating railway and shipping companies.

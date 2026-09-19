@@ -5,7 +5,7 @@ booking:
   bookable: réservable
   classes:
     first: 1re classe
-    second: 2nd classe
+    second: 2re classe
   fee: Frais de réservation
   fip-50: Billets FIP 50
   fip-75: Billets FIP 75
@@ -13,18 +13,88 @@ booking:
   not-bookable: non réservable
   reservation: Réservation
   reservation-costs: Frais de réservation
+  send-mail: Envoyer un e-mail
   visit-additional-information-website: Informations complémentaires
   visit-booking-website: Aller sur le site de réservation
+childrenDiscount: >-
+  La Remise FIP s’applique en principe aux tarifs adultes et non aux tarifs
+  enfants. Pour cette raison, il convient de vérifier si les tarifs publics sont
+  plus avantageux. Les réductions du tableau suivant se réfèrent donc uniquement
+  aux tarifs publics et ne s’appliquent pas en plus de la FIP. Plus
+  d’informations dans la [FAQ](/general/faq/#children-travel).
 contact:
+  accessibility:
+    label: 'Retour sur le site Web : Accessibilité'
+    message: 'Veuillez décrire comment nous pouvons nous améliorer :'
+    webpage: Page concernée (URL)
+  content:
+    label: 'Retour sur le site Web : Ajout ou correction de contenu'
   emailLabel: 'E-mail :'
   emailSubject: Nouveau message depuis FIP Guide
+  empty: Veuillez sélectionner …
+  feedback:
+    label: 'Retour sur le site Web : Éloges et critiques'
+    note: >-
+      Nous accueillons tous les retours pour améliorer le site Web pour nos
+      collègues membres FIP.
+  fipcard:
+    label: Demande de Carte FIP et de Coupon FIP
+    note: >-
+      Malheureusement, nous ne pouvons pas vous aider dans ce cas. Nous sommes
+      un projet communautaire indépendant et ne pouvons donc pas influencer la
+      délivrance des Cartes FIP et Coupons FIP. Toutes les informations dont
+      nous disposons concernant la demande de Cartes FIP et de Coupons FIP se
+      trouvent sur la page [Demande FIP](/general/fip-validity).
+
+      Pour plus d'informations, veuillez contacter votre service des ressources
+      humaines compétent.
   formAriaLabel: Formulaire de contact
+  general:
+    label: Question générale sur l'utilisation du FIP
+    note: >-
+      Nous répondons aux questions générales sur la page [Informations
+      générales](/general/generalinformation). N'hésitez pas à utiliser la
+      recherche pour des termes spécifiques.
+
+      Des informations détaillées se trouvent sur les [pages des pays](/country)
+      et les [pages des opérateurs](/operator).
+
+
+      Les questions spécifiques sont répondues par la communauté et l'équipe FIP
+      Guide sur [Discord](https://discord.gg/5nWS9Eu9zz).
   messageLabel: 'Message :'
   nameLabel: 'Nom :'
+  others:
+    label: Autre
+    topicLabel: 'Résumé :'
+  routes:
+    label: Question sur les itinéraires et les trains
+    note: >-
+      Utilisez la recherche pour trouver des informations pertinentes pour votre
+      voyage.
+
+      Des informations détaillées se trouvent sur les [pages des pays](/country)
+      et les [pages des opérateurs](/operator).
+
+
+      Les questions spécifiques sont répondues par la communauté et l'équipe FIP
+      Guide sur [Discord](https://discord.gg/5nWS9Eu9zz).
   submitButton: Envoyer
   successMessage: >-
     Merci ! Votre message a été envoyé avec succès. Nous vous répondrons dès que
     possible.
+  tickets:
+    label: Question sur l'achat de billets et les réservations
+    note: >-
+      Nous ne pouvons pas vendre de billets et de réservations pour les trains.
+
+      Des informations sur les possibilités de réservation se trouvent sur la
+      [page de l'opérateur](/operator) de l'entreprise concernée.
+
+
+      Les questions spécifiques sont répondues par la communauté et l'équipe FIP
+      Guide sur [Discord](https://discord.gg/5nWS9Eu9zz).
+  topicLabel: 'Catégorie :'
 contentNavigation:
   button: Ouvrir et fermer l’aperçu du contenu
   relatedCountries: Pays dans lesquels l'opérateur est actif
@@ -39,7 +109,6 @@ country:
   many: pays
   one: pays
   other: pays
-countryselection: Choisir un pays
 dialog:
   close: Fermer
   open: Ouvre le dialogue
@@ -60,7 +129,8 @@ fipValidity:
     Sélectionnez d'abord l'émetteur de votre Carte FIP. Si vous êtes éligible,
     vous pouvez demander les Coupons FIP auprès de votre employeur. Veuillez
     noter que nous ne sommes pas en mesure d'aider à l'obtention des Coupons
-    FIP. Vous trouverez un aperçu de tous les Coupons FIP [ici](/fip-validity).
+    FIP. Vous trouverez un aperçu de tous les Coupons FIP dans la [Demande
+    FIP](/general/fip-validity).
   fip-global-fare: Tarif Global FIP
   fip-reduced-ticket: Billet FIP à tarif réduit
   fip-reduced-ticket-description: >-
@@ -68,7 +138,9 @@ fipValidity:
     également connue sous le nom de FIP 50 ou FIP 75. La réduction est
     habituellement de 50 %, parfois de 75 %. Pour savoir quelle réduction
     s'applique à votre cas, sélectionnez d'abord l'émetteur de votre Carte FIP.
-    Vous trouverez un aperçu de toutes les réductions [ici](/fip-validity).
+    Vous trouverez un aperçu de toutes les réductions dans la [Demande
+    FIP](/general/fip-validity).
+  general: Général
   issuer: Émetteur de la carte FIP
   national-discountsHeading: Réductions nationales (non-FIP)
   national-discountsMissingInfo: >-
@@ -86,11 +158,15 @@ fipValidity:
   taxationHeading: Imposition
   taxationMissingInfo: Nous ne disposons actuellement d’aucune information sur l’imposition.
   unknown: Inconnu
-  validity: validité
+  validity: Validité
   widows: Veuves, veufs et orphelins
 footer-love:
   aria-label: Fait avec amour en Europe
   text: Fait avec ♥️ en Europe
+gallery:
+  aria-label: Galerie d'images
+  next: Image suivante
+  previous: Image précédente
 general: Général
 highlight:
   confusion: Risque de confusion
@@ -127,6 +203,11 @@ menu:
     dropdown-label: Pays disponibles
     label: Pays
     title: Menu déroulant du pays ouvert
+  generalinformation-dropdown:
+    aria-label: Ouvrir le menu déroulant Général
+    dropdown-label: Pages disponibles dans Général
+    label: Général
+    title: Ouvrir le menu déroulant Général
   open:
     label: Menu
     title: Ouvrir le menu
@@ -135,9 +216,6 @@ menu:
     dropdown-label: Opérateurs disponibles
     label: Opérateurs
     title: Ouvrir la liste déroulante de l'opérateur
-  search:
-    close: Fermer la recherche
-    open: Ouvrir la recherche
   theme:
     switch-to-auto: Passer en mode automatique
     switch-to-dark: Passer en mode sombre
@@ -147,11 +225,12 @@ news:
   all: Toutes les actualités
   further: Autres actualités
   headline: Quoi de neuf ?
+  updated: Mis à jour le
 operators:
   descriptionTemplate: >-
     Informations sur les conditions FIP chez %s : Validité, Achat de billets et
     réservations, Conditions tarifaires spéciales
-  listTitle: Opérateurs prenant en charge la FIP
+  listTitle: Opérateurs acceptant FIP
   withoutFIP: Opérateurs sans FIP
 related:
   booking: Utilisable avec ces opérateurs
@@ -168,15 +247,18 @@ satellite:
     résidence allemande est requise pour l'inscription et l'inscription peut
     prendre quelques jours.
 search:
-  label: Rechercher dans tout le contenu de la page
-  placeholder: Rechercher
+  open-aria-label: Ouvrir la zone de recherche
 skipToContent: Aller au contenu
 support:
   text: >-
-    Souhaitez-vous partager vos connaissances sur la réglementation FIP ?
-    Visitez notre [dépôt GitHub](https://github.com/fipguide/fipguide.github.io)
-    pour contribuer au contenu. Vous pouvez également nous écrire via le
-    [formulaire de contact](/contact).
+    Vous souhaitez partager vos connaissances sur les réglementations FIP ?
+    Consultez la section [Contribuer](/contribution) pour mettre à jour et
+    compléter le contenu. Vous pouvez également nous [contacter](/contact).
+
+
+    Le Guide FIP est un projet Open Source. Les informations peuvent être
+    modifiées directement via notre [dépôt
+    GitHub](https://github.com/fipguide/fipguide.github.io).
 taxation:
   add-month: Ajouter un mois
   add-national: Ajouter une réduction nationale
@@ -310,6 +392,7 @@ trainCategory:
     accepted: FIP accepté
     notAccepted: FIP non accepté
     partiallyAccepted: FIP partiellement accepté
+    unknown: Acceptation FIP inconnue
   additionalInformation: Informations complémentaires
   importantInformation: Informations importantes
   reservation:

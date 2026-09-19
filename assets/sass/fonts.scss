@@ -105,16 +105,24 @@
 }
 
 body,
-button {
-  font-family: "Roboto", Arial, Helvetica, sans-serif;
+input,
+textarea,
+select,
+button,
+.a-button {
+  font-family: var(--font-family);
   word-wrap: break-word;
   hyphens: auto;
+  font-size: 1.8rem;
+  line-height: 1.5;
 }
 
 .a-icon {
   display: inline-block;
+  font-size: 2rem;
   width: 1em;
   height: 1em;
+  aspect-ratio: 1 / 1;
   line-height: 1;
   vertical-align: text-bottom;
   text-decoration: none;

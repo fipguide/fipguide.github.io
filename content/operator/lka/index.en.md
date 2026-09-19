@@ -1,9 +1,11 @@
 ---
-draft: false
-title: "ŁKA"
+title: ŁKA
 country:
-  - "poland"
-operator: "lka"
+  - poland
+operator: lka
+aliases:
+  - /booking/lka-ticket-machine
+  - /booking/lka-ticket-office
 ---
 
 Łódzka Kolej Aglomeracyjna, short ŁKA, is a Polish railway operator that primarily offers regional transport in the Łódź Voivodeship. It is one of five different companies that offers FIP in [Poland](/country/poland).
@@ -19,6 +21,7 @@ On its website, ŁKA provides a [route map overview](https://lka.lodzkie.pl/kole
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid with ŁKA.
@@ -40,7 +43,7 @@ For journeys with different operators within Poland, either a continuous FIP 50 
 
 Regional trains operating between Łódź and Warsaw, stopping at only a few stations along the way. Some trains only stop at the most important stations of the two cities and not at all in between. Trains have the abbreviation `ŁS` at the beginning in journey planners followed by a specific train number.
 
-#### Reservation
+#### Reservations
 
 A free reservation is possible on these trains. However, they can also be used without a reservation. More information on the [ŁKA website in Polish](https://lka.lodzkie.pl/strona-glowna/Nowe-zasady-rezerwacji-miejsc-w-Sprinterach/). Only 2nd class tickets are offered, as there is no 1st class on ŁKA trains.
 
@@ -59,6 +62,19 @@ All ŁKA trains that do not operate on the Sprinter route between Łódź and Wa
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=unknown
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+We currently have no information about the validity of FIP tickets on buses operated by ŁKA. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
+{{% /train-category %}}
+
 ## Ticket and Reservation Purchase
 
 ### Online
@@ -74,9 +90,9 @@ Reservations for `ŁS` trains can be booked free of charge directly when purchas
 
 ### On-Site
 
-{{% booking id="lka-ticket-machine"/%}}
+{{% booking id="lka-ticket-machine" /%}}
 
-{{% booking id="lka-ticket-office"/%}}
+{{% booking id="lka-ticket-office" /%}}
 
 ### On the Train
 
@@ -84,7 +100,15 @@ FIP 50 Tickets can also be purchased directly on the train. To do this, you must
 
 ## Discounts
 
-For regular tickets, children under 4 years travel free. Children up to and including 11 years receive a 50% discount on the adult fare. From age 12, the full adult fare applies. [^1]
+{{< children-discount >}}
+
+For regular tickets, the following child discounts apply:
+
+| Age                                  | Discount          |
+| ------------------------------------ | ----------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free[^1]          |
+| {{< icon "child_care" >}} 4–11 years | 50% discount[^1]  |
+| {{< icon "person" >}} from 12 years  | Regular price[^1] |
 
 {{% highlight tip %}}
 Regardless of FIP, Polregio offers an affordable weekend ticket which, in the form of "BILET TURYSTYCZNY", is also valid on regular ŁKA trains. It allows travel from Friday 18:00 to Monday 06:00 on all "Regio" trains of Polregio as well as all trains of KW, KMŁ, Arriva RP and ŁKA (except ŁKA Sprinter). More information on the [Polregio website](https://bilety.polregio.pl/en/sieciowe/47).
@@ -100,9 +124,9 @@ FIP tickets are not valid on special trains operated by ŁKA.
 
 Breaks of journey are possible at any time; no documentation is required for this.
 
-### Buses
+### Rail Replacement Services
 
-We currently have no information about the validity of FIP tickets on buses operated by ŁKA. However, we assume that at least the buses that replace a train can be used with FIP benefits.
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 
@@ -114,6 +138,6 @@ On its website, ŁKA offers a [live map](https://infoportal.lka.lodzkie.pl/#!/) 
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [ŁKA Ticket sales on the train](https://lka.lodzkie.pl/obsluga-pociagu/)

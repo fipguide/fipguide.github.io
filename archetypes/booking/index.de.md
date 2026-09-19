@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "{{ .File.ContentBaseName | title }}" # Ändere den Titel auf den Name der Buchungsplattform
 description: "" # Ergänze eine Beschreibung für die Buchungsplattform
 params:
@@ -13,7 +12,7 @@ params:
   reservations: true # Definiere, ob Reservierungen bei dem Buchungsanbieter gebucht werden können.
   booking_link: "https://example.com" # Füge ein Link zur Buchungsplattform hinzu
   additional_info_link: "https://example.com/additional-info" # Füge einen Link zu zusätzlichen Informationen hinzu
-  type: "onsite" # Akzeptierte Typen sind: website, onsite, phone, email, socialmedia und machine
+  type: "onsite" # Akzeptierte Typen sind: website, online, onsite, phone, email, socialmedia und machine
 ---
 
 {{% booking-section "fip_50" %}}

@@ -1,10 +1,8 @@
 ---
-draft: false
-title: "Danemark"
-country: "denmark"
+title: Danemark
+country: denmark
 params:
   operators_without_fip:
-    - GoCollective (anciennement Arriva Danmark)
     - Lokaltog
     - Øresundståg
     - Midtjyske Jernbaner
@@ -42,18 +40,10 @@ Les trains danois circulent généralement à horaires réguliers et sont ponctu
 
 | Pays                                               | Points frontières                                                              |
 | -------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [Allemagne](/country/germany) ([DB](/operator/db)) | Flensburg (Gr), Puttgarden (via Rødby Faerge), Tønder, Warnemünde (via Gedser) |
 | Suède (SJ)                                         | Helsingborg (via Helsingør)                                                    |
+| [Allemagne](/country/germany) ([DB](/operator/db)) | Flensburg (Gr), Puttgarden (via Rødby Faerge), Tønder, Warnemünde (via Gedser) |
 
 {{% /expander %}}
-
-### Allemagne
-
-Depuis l’Allemagne, l’ `EC` direct Hambourg – Copenhague est disponible plusieurs fois par jour (toutes les 2h en haute saison). Ces trains sont souvent très fréquentés, il est donc conseillé de réserver à l’avance.
-
-Alternativement, plusieurs trains `IC` relient Flensburg à Fredericia, avec bonnes correspondances vers Aarhus, Aalborg et Copenhague.
-
-L’entrée via Tønder est aussi possible par des trains locaux, mais comme ni DB ni DSB n’opèrent ce trajet, les réductions FIP n’y sont pas valables. Une autre option est d’utiliser les ferries depuis Puttgarden ou Warnemünde pour entrer au Danemark.
 
 ### Suède
 
@@ -63,3 +53,11 @@ Depuis la Suède, l’entrée au Danemark peut se faire :
 - soit via Helsingborg avec le ferry vers Helsingør.
 
 Cependant, les réductions FIP ne sont pas valables en Suède, et la liaison de l’Øresund est exploitée par Øresundståg, non éligible FIP. Il faut donc acheter un billet classique pour tout le trajet Malmö – Copenhague.
+
+### Allemagne
+
+Depuis l’Allemagne, l’`ECE` direct Hambourg – Copenhague est disponible plusieurs fois par jour (toutes les 2h en haute saison). Certains trains circulent en tant que `RJ` sur l’itinéraire Prague – Berlin – Hambourg – Copenhague. Ces trains sont souvent très fréquentés, il est donc conseillé de réserver à l’avance.
+
+Alternativement, plusieurs trains `IC` relient Flensburg à Fredericia, avec bonnes correspondances vers Aarhus, Aalborg et Copenhague.
+
+Il est également possible d'accéder à l'itinéraire via Tønder en empruntant des trains locaux. La DSB exploite le tronçon danois sous la marque « DSB Vores Tog », ce qui permet d'utiliser les FIP. Pour le tronçon allemand, un billet ordinaire ou le « Deutschlandticket » est nécessaire, car les trains y sont exploités par la NEG. Une autre option est d’utiliser les ferries depuis Puttgarden ou Warnemünde pour entrer au Danemark.

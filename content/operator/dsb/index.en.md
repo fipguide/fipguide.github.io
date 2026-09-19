@@ -1,12 +1,15 @@
 ---
-draft: false
-title: "DSB"
+title: DSB
 country:
-  - "denmark"
-operator: "dsb"
+  - denmark
+operator: dsb
+aliases:
+  - /booking/dsb-international-website
+  - /booking/dsb-ticket-office
+  - /booking/dsb-website
 ---
 
-The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/country/denmark "Denmark"). It operates the majority of passenger traffic on the Danish rail network.
+The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/country/denmark "Denmark"). It operates the majority of passenger traffic on the Danish rail network. Under the operator name "DSB Vores Tog," it has also been operating train services in Central and West Jutland and on Funen since September 1, 2026. [^4]
 
 ## Summary
 
@@ -16,13 +19,14 @@ The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/cou
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on DSB connections. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries must be available.
 
 ## Train Categories and Reservations
 
-Within Denmark, reservations are possible but not mandatory. For cross-border journeys to and from Germany, the `ECE` trains Hamburg – Copenhagen are usually reservation-required during the summer.
+Within Denmark, reservations are possible but not mandatory. For cross-border journeys to and from Germany, the `ECE` and `RAIL JET` trains Hamburg – Copenhagen are usually reservation-required during the summer. If a reservation is bought on the train, an on-board surcharge of 50 DKK per reservation will be levied.
 
 {{% train-category
     id="intercity-lyn"
@@ -61,25 +65,49 @@ Intercity trains are similar to `ICL` trains but stop more frequently and are sl
 
 Eurocity-Express trains operate cross-border on the route between Hamburg and Copenhagen, currently via Padborg, Kolding, and Odense.
 
-#### Reservation
+#### Reservations
 
 A reservation is recommended for cross-border journeys and usually mandatory during the peak season (summer).
 
 {{% /train-category %}}
 
 {{% train-category
+    id="rj"
+    title="Railjet (RAIL JET)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Railjet trains operate cross-border on the route between Copenhagen and Prague via Hamburg and Berlin.
+
+In the DSB journey planner, these trains are shown as `RAIL JET`; in other journey planners such as DB, they are shown as `RJ`.
+
+#### Reservations
+
+A reservation is recommended for cross-border journeys and usually mandatory in the peak season (summer).
+
+{{% /train-category %}}
+
+{{% train-category
     id="regional"
-    title="Regional Train (R)"
+    title="Regional Train (R / RE)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
 Regional trains provide local connections between various locations. Outside the S-train network in Copenhagen, they stop at all stations and are therefore slower.
 
-{{% highlight confusion %}}
-Trains from other operators are also displayed as `R`, so always check beforehand if the operator is DSB.
-{{% /highlight %}}
+As of September 1, 2026, the DSB Vores Tog (formerly GoCollective) routes in Central and West Jutland and on Funen can also be used. [^4]
+
+{{< highlight confusion >}}
+Trains from other operators are also displayed as `R`, so always check beforehand if the operator is DSB. \
+Trains marked as `RA` are not operated by DSB and therefore not included in FIP. \
+Trains marked as `RE` are usually DSB operated trains.
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -88,6 +116,7 @@ Trains from other operators are also displayed as `R`, so always check beforehan
     title="S-tog (S)"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -112,7 +141,7 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 /%}}
 
 {{% booking id="oebb-website"
-    subtitle="Für nationale und grenzüberschreitende Verbindungen"
+    subtitle="For national and cross-border connections"
 /%}}
 
 {{% booking id="db-website-fip-db"
@@ -123,6 +152,12 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
     subtitle="Cross-border FIP 50 Tickets between Germany and Denmark for the entire route (not valid in the issuing country of the FIP Card)"
 /%}}
 
+### Telephone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Denmark, with ticket portion only for the Danish section. For Deutsche Bahn employees only."
+/%}}
+
 ### On-Site
 
 {{% booking id="dsb-ticket-office" /%}}
@@ -131,12 +166,17 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 
 ## Discounts
 
-Children under 5 years travel for free. \
-Children under 16 years receive a 50% discount on the adult fare.[^1]
+{{< children-discount >}}
+
+| Age                                  | Discount                                                                   |
+| ------------------------------------ | -------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–11 years | Free for two children when accompanied by an adult with a valid ticket[^3] |
+| {{< icon "child_hat" >}} 12–15 years | 50% discount[^3]                                                           |
+| {{< icon "person" >}} from 16 years  | Regular price[^3]                                                          |
 
 ## Special Tariff Conditions
 
-### Break of journey
+### Break of Journey
 
 With FIP 50 Tickets, the journey can be interrupted, but it must be confirmed by train staff.[^1]
 
@@ -154,14 +194,22 @@ FIP 50 Tickets cannot be issued for trips between stations within the Copenhagen
 Allegedly, FIP 50 Tickets are valid on Scandlines ferries in connection with a train journey through Denmark. However, this has not yet been confirmed by us. [^1]
 {{% /highlight %}}
 
+### Connections - AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ## Recommendations
 
 {{% highlight tip %}}
-DSB offers reliable and comfortable service. The 1st class is particularly worthwhile for FIP journeys in Denmark, as it provides complimentary tea, coffee, water, and snacks at all times, and often a small breakfast in the morning. It also grants access to the DSB Lounge in Copenhagen, Odense, and Aarhus. Additionally, a free drink (coffee, tea, water) can be obtained at 7/11 at the station. [^2]
+DSB offers reliable and comfortable service. The 1st class is particularly worthwhile for FIP journeys in Denmark, as it provides complimentary tea, coffee, water, and snacks at all times, a small breakfast is served in the morning between 5.00 am and 9.30 am. It also grants access to the DSB Lounge in Copenhagen, Odense, and Aarhus. Additionally, a free drink (coffee, tea, water) can be obtained at 7/11 at the station. [^2]
 {{% /highlight %}}
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#Tips)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782261-denmark.html)
 
 [^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)
+
+[^3]: [DSB – Explore Denmark by Train](https://www.dsb.dk/en/explore-denmark-by-train/)
+
+[^4]: [DSB Vores Tog](https://www.dsb.dk/om-dsb/baredygtighed/virksomheden/vorestog/)

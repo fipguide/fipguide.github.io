@@ -1,9 +1,9 @@
 ---
-date: "2025-02-16"
-draft: false
-author: "Willy"
-title: "Cross-border FIP Tickets of SNCB"
-description: "SNCB now offers cross-border FIP Tickets online, making it easier to book discounted international train journeys from Belgium."
+date: 2025-02-16
+author: Willy
+title: Cross-border FIP Tickets of SNCB
+description: SNCB now offers cross-border FIP Tickets online, making it easier
+  to book discounted international train journeys from Belgium.
 country:
   - belgium
   - netherlands
@@ -25,5 +25,6 @@ The offer includes the following options:
 
 Feel free to write to us via our contact form if you have any experiences with the discounts on the website.
 
-**Update 05.11.2025:** \
+{{% update date="2025-11-05" %}}
 The option to book FIP 50 Tickets has since been removed. It is now only possible to book tickets that take the FIP Coupon into account.
+{{% /update %}}

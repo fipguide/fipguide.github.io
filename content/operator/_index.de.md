@@ -1,6 +1,8 @@
 ---
-title: "Übersicht der Betreiber"
-description: "Übersicht über die Betreiber, die FIP-Vergünstigungen anbieten."
+title: Übersicht der Betreiber
+description: Übersicht über die Betreiber, die FIP-Vergünstigungen anbieten.
+aliases:
+  - /booking
 ---
 
 Finde auf den nachfolgenden Seiten die FIP-Regelungen für Deinen gewünschten Betreiber.

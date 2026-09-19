@@ -1,7 +1,6 @@
 ---
-draft: false
-title: "United Kingdom"
-country: "united-kingdom"
+title: United Kingdom
+country: united-kingdom
 params:
   operators_without_fip:
     - Blackpool Tramway
@@ -18,7 +17,8 @@ params:
     - London Trams (formerly Croydon Tramlink)
     - Transport for Greater Manchester
     - Tyne and Wear Metro
-    - Wightlink ferry (Portsmouth Harbour to Ryde Pier Head station on the Isle of Wight)
+    - Wightlink ferry (Portsmouth Harbour to Ryde Pier Head station on the Isle
+      of Wight)
 ---
 
 <!-- The UK is a bit different. There are no train categories, but many operators, so you have to check where FIP is valid. It makes sense to list other operators without FIP, even if they are often trams and subways. Otherwise, it's hard for users to understand why FIP is valid on the Elizabeth Line but not on other Underground lines. -->
@@ -51,13 +51,38 @@ Additionally, there are many leisure and tourist attractions that offer "2FOR1" 
 
 | Country                                                                                                                      | Border Points                    |
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| [Netherlands](/country/netherlands) ([Stena Line BV](/operator/stl))                                                         | Harwich P.Q.                     |
 | [France](/country/france), [Belgium](/country/belgium), [Netherlands](/country/netherlands) ([Eurostar](/operator/eurostar)) | London St. Pancras International |
 | [Ireland](/country/ireland) ([CIE](/operator/cie))                                                                           | Dundalk                          |
 | [Ireland](/country/ireland) ([Stena Line Limited](/operator/sll))                                                            | Holyhead, Fishguard              |
-| [Netherlands](/country/netherlands) ([Stena Line BV](/operator/stl))                                                         | Harwich P.Q.                     |
 | [United Kingdom](/country/united-kingdom) ([Stena Line Limited](/operator/sll))                                              | Cairnryan, Liverpool, Belfast    |
 
 {{% /expander %}}
+
+### Netherlands
+
+From Amsterdam and Rotterdam, direct [Eurostar](/operator/eurostar "Eurostar") trains run to London St. Pancras. Alternatively, [Eurostar Red](/operator/eurostar "Eurostar Red") and [Eurocity](/operator/ns#train-categories-and-reservations "Eurocity") trains run to Brussels Midi (Belgium), where you can transfer to a [Eurostar Blue](/operator/eurostar "Eurostar Blue") train to London St. Pancras. Eurostar trains always require reservations and FIP Global Fare tickets must be purchased.
+
+Additionally, there is a [ferry connection from Stena Line BV](/operator/stl) from Hoek van Holland to Harwich, which can be used at a discount with FIP. Note that the RET Metro from Rotterdam / Nesselande to Hoek van Holland does not grant FIP discounts.
+
+### France and Belgium
+
+From Paris Nord, Lille Europe, and Brussels Midi, [Eurostar trains](/operator/eurostar "Eurostar page") run to London St. Pancras International. These trains require reservations and FIP Global Fare tickets must be purchased.
+
+From Calais, there is also the LeShuttle Motorail train through the Eurotunnel, but no FIP discount is granted. Additionally, there are various ferry connections between France/Belgium and Great Britain, but no FIP discount is granted on these.
+
+### Ireland
+
+From Dublin, Irish Ferries and [Stena Line Limited](/operator/sll) operate ferries to Holyhead in Wales. From Rosslare, Irish Ferries operates ferries to Pembroke in Wales and [Stena Line Limited](/operator/sll) operates ferries to Fishguard in Wales. Ferry connections from [Stena Line Limited](/operator/sll) can be used at a discount with Stena Line FIP Coupons or FIP 50 Tickets.
+
+{{% highlight tip %}}
+Stena Line Limited and Irish Ferries offer tickets that allow combined train and ferry travel at a reduced price. No additional FIP discount is available on these tickets.
+
+- [Information at Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
+- [Information at Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
+  {{% /highlight %}}
+
+From Dublin, the Enterprise train also runs to Belfast in Northern Ireland, which can be used at a discount with FIP. To use this train, a FIP Coupon for Ireland (CIE) and Northern Ireland (NIR) or a through FIP 50 Ticket is required.
 
 ### Travel between Great Britain and Northern Ireland
 
@@ -71,28 +96,3 @@ Stena Line Limited and Irish Ferries offer tickets that allow combined train and
 - [Information at Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
 - [Information at Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
   {{% /highlight %}}
-
-### France and Belgium
-
-From Paris Nord, Lille Europe, and Brussels Midi, [Eurostar trains](/operator/eurostar "Eurostar page") run to London St. Pancras International. These trains require reservations and FIP Global Fare tickets must be purchased.
-
-From Calais, there is also the LeShuttle car train through the Eurotunnel, but no FIP discount is granted. Additionally, there are various ferry connections between France/Belgium and Great Britain, but no FIP discount is granted on these.
-
-### Netherlands
-
-From Amsterdam and Rotterdam, direct [Eurostar](/operator/eurostar "Eurostar") trains run to London St. Pancras. Alternatively, [Eurostar Red](/operator/eurostar "Eurostar Red") and [Eurocity](/operator/ns#train-categories-and-reservations "Eurocity") trains run to Brussels Midi (Belgium), where you can transfer to a [Eurostar Blue](/operator/eurostar "Eurostar Blue") train to London St. Pancras. Eurostar trains always require reservations and FIP Global Fare tickets must be purchased.
-
-Additionally, there is a [ferry connection from Stena Line BV](/operator/stl) from Hoek van Holland to Harwich, which can be used at a discount with FIP. Note that the RET Metro from Rotterdam / Nesselande to Hoek van Holland does not grant FIP discounts.
-
-### Ireland
-
-From Dublin and Rosslare, Irish Ferries and Stena Line Limited ferries operate to Holyhead and Fishguard in Wales. Ferry connections from [Stena Line Limited](/operator/sll) can be used at a discount with Stena Line FIP Coupons or FIP 50 Tickets.
-
-{{% highlight tip %}}
-Stena Line Limited and Irish Ferries offer tickets that allow combined train and ferry travel at a reduced price. No additional FIP discount is available on these tickets.
-
-- [Information at Stena Line (Rail & Sail)](https://www.stenaline.co.uk/rail-and-sail)
-- [Information at Irish Ferries (Sail & Rail)](https://www.irishferries.com/uk-en/special-offer-pages/ferry-rail)
-  {{% /highlight %}}
-
-From Dublin, the Enterprise train also runs to Belfast in Northern Ireland, which can be used at a discount with FIP. To use this train, a FIP Coupon for Ireland (CIE) and Northern Ireland (NIR) or a through FIP 50 Ticket is required.

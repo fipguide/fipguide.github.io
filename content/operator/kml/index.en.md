@@ -1,9 +1,10 @@
 ---
-draft: false
-title: "KMŁ"
+title: KMŁ
 country:
-  - "poland"
-operator: "kml"
+  - poland
+operator: kml
+aliases:
+  - /booking/kml-ticket-office
 ---
 
 Koleje Małopolskie, abbreviated KMŁ, is a Polish railway company that mainly provides regional services in the Lesser Poland Voivodeship. It is one of five different companies offering FIP in [Poland](/country/poland).
@@ -18,6 +19,7 @@ On its website, KMŁ provides an [overview of the operated lines](https://koleje
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on KMŁ.
@@ -28,7 +30,7 @@ For journeys with different operators within Poland, either a continuous FIP 50 
 
 KMŁ does not differentiate between train categories. The trains are indicated in the timetable with the abbreviation "KMŁ" at the beginning, followed by a specific train number. Line numbers do exist but are usually not displayed in the timetable. Only 2nd class tickets are offered, as there is no 1st class on KMŁ trains. Additionally, there is no possibility to make reservations.
 
-Whether FIP tickets are also valid on KMŁ buses is currently unknown to us. However, on rail replacement services, they should be accepted as with other operators.
+Whether FIP tickets are also valid on KMŁ buses is currently unknown to us. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Ticket and Reservation Purchase
 
@@ -38,7 +40,7 @@ Since KMŁ has only been a FIP member since 01.04.2026, the booking options are 
 
 ### On-Site
 
-{{% booking id="kml-ticket-office"/%}}
+{{% booking id="kml-ticket-office" /%}}
 
 ### On the Train
 
@@ -47,6 +49,12 @@ FIP 50 Tickets must be purchased before departure at stations where the ticket o
 ## Discounts
 
 We currently have no information about discounts.
+
+## Special Tariff Conditions
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Recommendations
 
@@ -58,4 +66,4 @@ Travel highlights with KMŁ include the well-known amusement park Energylandia (
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

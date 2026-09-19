@@ -1,9 +1,11 @@
 ---
-draft: false
-title: "CIE"
+title: CIE
 country:
-  - "ireland"
-operator: "cie"
+  - ireland
+operator: cie
+aliases:
+  - /booking/irish-rail-ticket-office
+  - /booking/irish-rail-website
 ---
 
 Córas Iompair Éireann (CIE) is the state railway company of [Ireland](/country/ireland) and the parent company of Irish Rail (Iarnród Éireann). The subsidiary operates the majority of rail services in the Republic of Ireland, including the main routes between Dublin, Cork, Galway and Limerick, as well as regional connections in the Dublin and Cork areas.
@@ -19,6 +21,7 @@ On its website, Irish Rail provides an [overview map of the routes](https://www.
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 ## Train Categories and Reservations
@@ -35,13 +38,15 @@ On its website, Irish Rail provides an [overview map of the routes](https://www.
 
 InterCity trains connect the major cities of Ireland, including Dublin, Cork, Galway and Limerick. FIP is accepted on all InterCity services. The Enterprise Service between Dublin and Belfast is also operated by InterCity trains. More information about the Enterprise can be found on the [Ireland page](/country/ireland#united-kingdom).
 
-{{% highlight important %}}
+{{< highlight important >}}
 First Class between Dublin and Cork may not be used with FIP. More information about class categories can be found [below](#class-categories).
-{{% /highlight %}}
+{{< /highlight >}}
 
-#### Reservation
+#### Reservations
 
 Reservations are optional, but are issued free of charge for many services and are therefore recommended in 2nd class.
+
+First Class (First Class / Premiere Class) passengers are escorted to an available seat on board the train. Travel in First Class is only permitted when a seat is available
 
 {{% /train-category %}}
 
@@ -107,7 +112,7 @@ FIP is not valid on Dublin Bus bus services.
   - Dublin – Cork Premier Class services: 10:00 (Monday – Saturday), 12:00 (Monday – Friday) and 14:00 (Monday – Friday)
   - Cork – Dublin Premier Class services: 13:25 (Monday – Saturday), 14:25 (Sunday only), 15:25 (Monday – Friday) and 17:25 (Monday – Thursday and Saturday)
 
-  An up-to-date list can be found [here](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel).
+  A current list and further information about the classes can be found [here](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel).
 
 - **Enterprise Plus**: First class on the Dublin – Belfast connection. Can be used with 1st class FIP Coupons, and with a surcharge also with 2nd class FIP Coupons.
 
@@ -130,7 +135,25 @@ Upgrades from 2nd class to Premier Class can be purchased on the train if no tic
 
 ## Discounts
 
-Children up to 5 years of age travel free of charge. Young people up to 16 years of age receive a 50% discount on the adult fare. Persons aged 16 and over pay the full FIP adult fare.[^2]
+{{< children-discount >}}
+
+| Age                                 | Discount                                    |
+| ----------------------------------- | ------------------------------------------- |
+| {{< icon "stroller" >}} 0–4 years   | Free of charge, accompanied by an adult[^3] |
+| {{< icon "child_hat" >}} 5–18 years | Child Ticket[^4]                            |
+| {{< icon "person" >}} from 19 years | Regular price[^4]                           |
+
+### Children up to 4 Years on Reservation-Required Trains
+
+On reservation-required trains, a seat can be booked for a child up to and including 4 years of age by selecting the "Reservation only" option on the journey planner.[^3]
+
+### Young Adult/Student Ticket
+
+Persons aged 19 to 25 can use a Young Adult/Student ticket if they hold a [TFI Young Adult (19-25 years) Leap Card](https://about.leapcard.ie/young-adult-and-student-card-launch).[^4]
+
+{{% highlight tip %}}
+In general, it should be compared whether the FIP adult fare or a "Child Ticket" / "Young Adult/Student Ticket" is cheaper.
+{{% /highlight %}}
 
 ## Special Tariff Conditions
 
@@ -142,4 +165,8 @@ Break of journey is permitted with FIP tickets, but must be documented with a no
 
 [^1]: [Irish Rail First Class Travel](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/first-class-travel)
 
-[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-123)
+[^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782276-ireland.html)
+
+[^3]: [Irish Rail – Child Ticket Age Requirements](https://www.irishrail.ie/en-ie/faqs/what-are-the-age-requirements-for-child-tickets)
+
+[^4]: [Irish Rail – Rail Tickets Explained](https://www.irishrail.ie/en-ie/rail-fares-and-tickets/tickets-explained)

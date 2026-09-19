@@ -1,6 +1,8 @@
 ---
-title: "Liste des opérateurs"
-description: "Liste des opérateurs acceptant les réductions FIP."
+title: Liste des opérateurs
+description: Liste des opérateurs acceptant les réductions FIP.
+aliases:
+  - /booking
 ---
 
 Retrouvez les règles FIP pour l’opérateur souhaité sur les pages suivantes.

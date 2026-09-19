@@ -1,9 +1,11 @@
 ---
-draft: false
-title: "ŁKA"
+title: ŁKA
 country:
-  - "poland"
-operator: "lka"
+  - poland
+operator: lka
+aliases:
+  - /booking/lka-ticket-machine
+  - /booking/lka-ticket-office
 ---
 
 Łódzka Kolej Aglomeracyjna, abrégées ŁKA, est une entreprise de transport ferroviaire polonaise qui propose principalement des services régionaux dans la voïvodie de Łódź. C’est l’une des cinq entreprises différentes qui proposent le FIP en [Pologne](/country/poland).
@@ -19,6 +21,7 @@ Sur son site Web, ŁKA propose une [carte d’aperçu des lignes](https://lka.lo
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valides chez ŁKA.
@@ -40,7 +43,7 @@ Pour les trajets avec différents exploitants en Pologne, un Billet FIP 50 inint
 
 Trains régionaux circulant entre Łódź et Varsovie, ne s’arrêtant qu’à quelques gares en chemin. Certains trains ne s’arrêtent qu’aux gares les plus importantes des deux villes et pas du tout entre les deux. Les trains portent l’abréviation `ŁS` au début dans les systèmes d’information, suivie d’un numéro de train spécifique.
 
-#### Réservation
+#### Réservations
 
 Une réservation gratuite est possible dans ces trains. Cependant, ils peuvent également être utilisés sans réservation. Plus d’informations sur le [site Web de ŁKA en polonais](https://lka.lodzkie.pl/strona-glowna/Nowe-zasady-rezerwacji-miejsc-w-Sprinterach/). Seuls les billets de 2ème classe sont proposés, car il n’y a pas de 1ère classe dans les trains ŁKA.
 
@@ -59,6 +62,19 @@ Tous les trains ŁKA qui ne circulent pas sur la ligne Sprinter entre Łódź et
 
 {{% /train-category %}}
 
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=unknown
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Nous ne disposons actuellement d’aucune information sur la validité des Billets FIP dans les autobus exploités par ŁKA. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+
+{{% /train-category %}}
+
 ## Achat de billets et réservations
 
 ### En ligne
@@ -74,9 +90,9 @@ Les réservations pour les trains `ŁS` peuvent être réservées gratuitement d
 
 ### En gare
 
-{{% booking id="lka-ticket-machine"/%}}
+{{% booking id="lka-ticket-machine" /%}}
 
-{{% booking id="lka-ticket-office"/%}}
+{{% booking id="lka-ticket-office" /%}}
 
 ### À bord du train
 
@@ -84,7 +100,15 @@ Les Billets FIP 50 peuvent également être achetés directement dans le train. 
 
 ## Réductions
 
-Pour les billets réguliers, les enfants de moins de 4 ans voyagent gratuitement. Les enfants jusqu’à 11 ans inclus bénéficient de 50 % de réduction sur le tarif adulte. À partir de 12 ans, plein tarif adulte. [^1]
+{{< children-discount >}}
+
+Pour les billets réguliers, les réductions suivantes s’appliquent aux enfants :
+
+| Âge                                      | Réduction          |
+| ---------------------------------------- | ------------------ |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit[^1]        |
+| {{< icon "child_care" >}} 4–11 ans       | 50 % de remise[^1] |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal[^1]   |
 
 {{% highlight tip %}}
 Indépendamment du FIP, Polregio propose un billet week-end avantageux qui, sous la forme du « BILET TURYSTYCZNY », est également valable dans les trains ŁKA normaux. Il permet de voyager du vendredi 18h au lundi 6h dans tous les trains « Regio » de Polregio ainsi que dans tous les trains de KW, KMŁ, Arriva RP et ŁKA (sauf ŁKA Sprinter). Plus d’informations sur le [site Web de Polregio](https://bilety.polregio.pl/en/sieciowe/47).
@@ -96,13 +120,13 @@ Indépendamment du FIP, Polregio propose un billet week-end avantageux qui, sous
 
 Les Billets FIP ne sont pas valides dans les trains spéciaux exploités par ŁKA.
 
-### Interruption de voyage
+### Possibilité d’interrompre le trajet
 
 Les interruptions de voyage sont possibles à tout moment et aucune preuve n’est requise pour cela.
 
-### Autobus
+### Services de remplacement ferroviaire
 
-Nous ne disposons actuellement d’aucune information sur la validité des Billets FIP dans les autobus exploités par ŁKA. Nous supposons cependant qu’au moins les autobus qui remplacent un train peuvent être utilisés avec les avantages FIP.
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandations
 
@@ -114,6 +138,6 @@ Sur son site Web, ŁKA propose une [carte en temps réel](https://infoportal.lka
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [ŁKA Vente de billets dans le train](https://lka.lodzkie.pl/obsluga-pociagu/)

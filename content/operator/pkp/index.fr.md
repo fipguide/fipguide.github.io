@@ -1,9 +1,13 @@
 ---
-draft: false
-title: "PKP"
+title: PKP
 country:
-  - "poland"
-operator: "pkp"
+  - poland
+operator: pkp
+aliases:
+  - /booking/pkp-ticket-machine
+  - /booking/pkp-ticket-office
+  - /booking/pkp-website
+  - /booking/koleo-website
 ---
 
 Les chemins de fer polonais PKP (Polskie Koleje Państwowe) exploitent, avec leurs filiales PKP Intercity et Polregio, une grande partie du transport ferroviaire de voyageurs en [Pologne](/country/poland "Pologne").
@@ -17,6 +21,7 @@ Les chemins de fer polonais PKP (Polskie Koleje Państwowe) exploitent, avec leu
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables chez PKP. Cela inclut :
@@ -50,7 +55,7 @@ Les trains grandes lignes polonais nécessitent partiellement une réservation. 
 Trains à grande vitesse avec technologie pendulaire (Pendolino), exploités par PKP Intercity et circulant principalement entre Gdynia/Gdańsk et Kraków/Katowice via Varsovie, mais aussi occasionnellement sur d’autres itinéraires.
 En 1ère classe, de petits repas et boissons sont inclus à la place dans le prix du billet. [^2]
 
-#### Réservation
+#### Réservations
 
 Les trains nécessitent un supplément avec des frais de réservation majorés. Les billets et réservations ne peuvent pas être achetés à bord du train.
 
@@ -72,7 +77,7 @@ Pour les réservations non vendues au prix correspondant par PKP, le paiement d�
 Trains confortables avec voitures voyageurs modernisées, exploités par PKP Intercity et ne s’arrêtant que dans les villes les plus importantes. Les EIC transfrontaliers sont également désignés comme EC dans d’autres pays. [^3]
 En 1ère et 2ᵉ classe, il y a une bouteille d’eau gratuite par personne.
 
-#### Réservation
+#### Réservations
 
 Certains trains nécessitent une réservation. L’obligation de réservation peut être vérifiée dans les [informations de voyage PKP](https://ebilet.intercity.pl/).
 
@@ -91,9 +96,28 @@ Trains rapides avec voitures voyageurs ou rames automotrices modernes, exploité
 
 Certains trains circulent aussi avec des voitures-lits et couchettes (voir [catégorie "EN"](#en)).
 
-#### Réservation
+#### Réservations
 
 Certains trains nécessitent une réservation. L’obligation de réservation peut être vérifiée dans les [informations de voyage PKP](https://ebilet.intercity.pl/).
+
+{{% /train-category %}}
+
+{{% train-category
+    id="icn"
+    title="IC Nieśpieszny (ICN)"
+    type="highspeed"
+    fip_accepted=false
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+L’IC Nieśpieszny est un train d’expérience de style rétro exploité par PKP Intercity, axé sur des voyages délibérément détendus et lents dans des voitures historiques restaurées.
+
+Ni les Coupons FIP ni les Billets FIP 50 ne sont valables dans ce train.
+
+#### Réservations
+
+Une réservation est obligatoire.
 
 {{% /train-category %}}
 
@@ -109,7 +133,7 @@ Certains trains nécessitent une réservation. L’obligation de réservation pe
 Trains interrégionaux exploités par PKP Intercity, caractérisés par des prix de billets particulièrement abordables avec des caractéristiques de confort de base. [^5]
 Certains trains circulent aussi avec des voitures-lits et couchettes (voir [catégorie "EN"](#en)).
 
-#### Réservation
+#### Réservations
 
 Certains trains nécessitent une réservation. L’obligation de réservation peut être vérifiée dans les [informations de voyage PKP](https://ebilet.intercity.pl/).
 
@@ -127,7 +151,7 @@ Certains trains nécessitent une réservation. L’obligation de réservation pe
 Connexions de trains de nuit internationaux exploitées par PKP Intercity, circulant depuis ou vers l’Allemagne, la République tchèque, l’Autriche, la Hongrie et l’Ukraine.
 Les connexions de trains de nuit qui ne circulent qu’en Pologne sont exploitées comme `IC` ou `TLK`. Les connexions vers l’Ukraine sont marquées `D`.
 
-#### Réservation
+#### Réservations
 
 **Coût :**
 
@@ -151,9 +175,9 @@ Prix différents pour les connexions internationales. [Plus d’informations](ht
 
 Connexions de trains régionaux s’arrêtant à la plupart des gares, exploitées par Polregio. Ces trains n’ont pas de 1ère classe.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Les trains régionaux en Pologne sont parfois aussi exploités par d’autres compagnies ferroviaires que Polregio. Celles-ci ont parfois leurs propres réductions FIP. [Voir Pologne](/country/poland "Pologne")
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -180,6 +204,19 @@ Trains directs entre Łódź et Varsovie, exploités par Polregio et dans une cl
 %}}
 
 Trains interrégionaux exploités par Polregio et équipés d’un confort supérieur aux trains régionaux normaux.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="bus-varsovie-modlin"
+    title="Bus Varsovie Modlin"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Les Billets FIP ne sont pas valables dans les bus KM entre Modlin et l’aéroport de Varsovie Modlin.
 
 {{% /train-category %}}
 
@@ -211,6 +248,12 @@ Alternativement, vous pouvez aussi réserver directement via le [site web de Pol
 
 {{% booking id="db-website-fip-international"
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne pour l’ensemble du trajet (non valables dans le pays d’émission de la Carte FIP)"
+/%}}
+
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, avec part de billet uniquement pour la section polonaise. Réservé aux employés de la Deutsche Bahn."
 /%}}
 
 ### En gare
@@ -256,6 +299,14 @@ Aucun frais n’est facturé pour l’émission d’un billet dans le train pour
 
 ## Réductions
 
+{{< children-discount >}}
+
+| Âge                                      | Réduction             |
+| ---------------------------------------- | --------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit[^1]           |
+| {{< icon "child_care" >}} 4–11 ans       | Réduction de 50 %[^1] |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal[^1]      |
+
 {{% highlight tip %}}
 Indépendamment du FIP, Polregio propose un billet week-end avantageux, disponible soit en tant que « MINI BILET TURYSTYCZNY » uniquement pour les trains « Regio » de Polregio, soit en tant que « BILET TURYSTYCZNY » qui est également valable dans tous les trains de KW, KMŁ, Arriva RP et ŁKA (sauf ŁKA Sprinter). Il permet de voyager du vendredi 18h au lundi 6h dans les trains correspondants. Plus d’informations sur le [site Web de Polregio](https://bilety.polregio.pl/en/sieciowe/47).
 {{% /highlight %}}
@@ -291,7 +342,7 @@ La validité des billets dépend de la distance :
 - 51 km à 100 km : 6 heures à partir de la date et de l’heure d’émission ou au choix du voyageur,
 - à partir de 101 km : 1 jour (un jour est valable de 00h01 à 24h00).
 
-### Interruption de voyage
+### Possibilité d’interrompre le trajet
 
 #### PKP Intercity (EIP, EIC, IC, TLK)
 
@@ -321,21 +372,21 @@ Sur les lignes suivantes de [KŚ](/operator/ks), les billets FIP de KŚ et de PK
 - Pszczyna – Wisła Głębce
 - Kluczbork – Katowice
 
-### Bus Varsovie Modlin
-
-Les Billets FIP ne sont pas valables dans les bus KM entre Modlin et l’aéroport de Varsovie Modlin.
-
 ### Trains spéciaux Słoneczny
 
 Les Billets FIP ne sont pas valables dans le train spécial Słoneczny de KM (Varsovie vers Gdansk/Gdynia).
 
-### Bus et services de remplacement
-
-Les Billets FIP sont également valables sur les services de remplacement ferroviaire (bus) exploités par PKP.
-
 ### Téléphériques et chemins de fer à crémaillère
 
 Les Billets FIP ne sont pas valables sur les téléphériques et chemins de fer à crémaillère exploités par PKP.
+
+### Correspondances - AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
+### Services de remplacement ferroviaire
+
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandations
 
@@ -345,7 +396,7 @@ Les Coupons FIP pour la 1ère classe ne valent la peine chez PKP que de manière
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
 
 [^2]: [PKP Intercity - EIP](https://www.intercity.pl/de/site/fur-fahrgast/informacje/unsere-zuge/express-intercity-premium-eip.html)
 

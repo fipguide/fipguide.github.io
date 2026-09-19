@@ -1,9 +1,10 @@
 ---
-draft: false
-title: "BDŽ"
+title: BDŽ
 country:
-  - "bulgaria"
-operator: "bdz"
+  - bulgaria
+operator: bdz
+aliases:
+  - /booking/bdz-ticket-office
 ---
 
 Die Balgarski Darschawni Schelesnizi (BDŽ) ist die staatliche Eisenbahngesellschaft von [Bulgarien](/country/bulgaria "Bulgarien") und betreibt derzeit fast alle Verbindungen im Personenverkehr auf dem bulgarischen Schienennetz.
@@ -17,6 +18,7 @@ Die Balgarski Darschawni Schelesnizi (BDŽ) ist die staatliche Eisenbahngesellsc
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der BDŽ gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -33,14 +35,17 @@ Die Zugkategorien werden bei der BDŽ wie unten beschrieben in der Reiseauskunft
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=true
 %}}
+
 Internationale Züge, die zwischen Bukarest in Rumänien nach Sofia oder Varna verkehren. Diese Züge verkehren nur in dem Sommerhalbjahr direkt, ansonsten ist ein Umstieg in Ruse nötig. Sie werden in der Verbindungsauskunft bei anderen Anbietern auch teilweise als `IR` gekennzeichnet.
 
 Bei Zügen über Nacht sind auch teilweise Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -49,12 +54,15 @@ Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
     type="highspeed"
     fip_accepted=true
     reservation_required=partially
+    reservation_possible=false
 %}}
+
 Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Meistens verkehren sie mit modernerem Wagenmaterial, bspw. ehemaligen IC-Wagen der Deutschen Bahn. Bei Zügen über Nacht sind auch teilweise Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist für einige Züge erforderlich (mit _R_ gekennzeichnet).
+
 {{% /train-category %}}
 
 {{% train-category
@@ -63,12 +71,15 @@ Eine Reservierung ist für einige Züge erforderlich (mit _R_ gekennzeichnet).
     type="highspeed"
     fip_accepted=true
     reservation_required=partially
+    reservation_possible=false
 %}}
+
 Nationale Züge, die mit wenig Zwischenhalten Städte miteinander verbinden.
 
-#### Reservierung
+#### Reservierungen
 
 Eine Reservierung ist für einige Züge erforderlich (mit _R_ gekennzeichnet).
+
 {{% /train-category %}}
 
 {{% train-category
@@ -79,7 +90,9 @@ Eine Reservierung ist für einige Züge erforderlich (mit _R_ gekennzeichnet).
     reservation_required=false
     reservation_possible=true
 %}}
+
 Regionalzüge im innerbulgarischen Verkehr, die meist viele Zwischenhalte haben und nicht besonders schnell sind. Sie besitzen nur Wagen der 2. Klasse.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -88,8 +101,11 @@ Regionalzüge im innerbulgarischen Verkehr, die meist viele Zwischenhalte haben 
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Regionalbahnen im innerbulgarischen Verkehr mit Halt an meist allen Stationen, die oft in einem dichteren Takt als die meisten anderen Züge verkehren.
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -104,7 +120,31 @@ FIP-ermäßigte Fahrkarten können nur im Zug gekauft werden, wenn die Abfahrt v
 
 ## Ermäßigungen
 
-Für reguläre Fahrkarten reisen Kinder unter 7 Jahren kostenlos. Auf nationalen Relationen erhalten Kinder unter 10 Jahren, auf internationalen Routen Kinder unter 12 Jahren eine Ermäßigung von 50% auf den Erwachsenentarif. Ältere Kinder zahlen den vollen Erwachsenentarif.
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung          |
+| ----------------------------------- | ------------------- |
+| {{< icon "child_care" >}} 0–6 Jahre | Kostenlos[^3]       |
+| {{< icon "person" >}} ab 7 Jahre    | Regulärer Preis[^3] |
+
+### Railway Passes
+
+Die BDŽ bietet weitere Ermäßigungen für Kinder, Familien, Studierende und andere Gruppen mit [Railway Passes](https://www.bdz.bg/en/a/railway-passes).[^2]
+
+{{% highlight tip %}}
+Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
+
+- Bosnien und Herzegowina (ŽFBH, ŽRS),
+- Bulgarien (BDŽ),
+- Nordmazedonien (MŽ-Transport),
+- Griechenland (HT & Attica),
+- Montenegro (ŽPCG),
+- Rumänien (CFR Calatori & Regiotrans),
+- Serbien (SV),
+- Türkei (TCDD).
+
+[Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Tarifliche Besonderheiten
 
@@ -112,7 +152,7 @@ Für reguläre Fahrkarten reisen Kinder unter 7 Jahren kostenlos. Auf nationalen
 
 Soll die Fahrt weiter als zum gebuchten Zielbahnhof führen, muss neben dem Ticket, das die zusätzliche Distanz abbildet, auch ein Zuschlag gezahlt werden. [^1]
 
-### Fahrtunterbrechungen
+### Fahrtunterbrechung
 
 Eine Fahrtunterbrechung ist bei einem durchgängigen Ticket nicht gestattet.
 
@@ -124,4 +164,8 @@ Die BDŽ betreibt auf einem etwas in die Jahre gekommenen Schienennetz noch ein 
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782242-bulgaria.html)
+
+[^2]: [BDŽ – Railway Passes](https://www.bdz.bg/en/a/railway-passes)
+
+[^3]: [BDŽ – Railway Passes and Discounts](https://www.bdz.bg/en/a/railway-passes-and-discounts)

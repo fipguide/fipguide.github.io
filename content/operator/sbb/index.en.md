@@ -1,8 +1,11 @@
 ---
-draft: false
-title: "SBB CFF FFS"
+title: SBB CFF FFS
 country:
-  - "switzerland"
+  - switzerland
+aliases:
+  - /booking/sbb-ticket-machine
+  - /booking/sbb-ticket-office
+  - /booking/sbb-website
 ---
 
 SBB (Swiss Federal Railways) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) is the national railway company of [Switzerland](/country/switzerland "Switzerland"). It operates most of the Swiss rail network and is known for its punctuality and reliability.
@@ -17,6 +20,7 @@ SBB provides a [network map of its routes](https://www.raildeliverygroup.com/fil
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid without restriction on SBB connections. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries are required.
@@ -31,7 +35,9 @@ FIP Coupons and FIP 50 Tickets are valid without restriction on SBB connections.
     reservation_required=false
     reservation_possible=true
 %}}
+
 High-speed trains from Germany to Basel and sometimes further to Zurich, Bern, or Interlaken. Due to delays in Germany, these trains sometimes terminate unexpectedly in Basel and are replaced by substitute trains within Switzerland.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -42,11 +48,13 @@ High-speed trains from Germany to Basel and sometimes further to Zurich, Bern, o
     reservation_required=partially
     reservation_possible=true
 %}}
+
 High-speed trains from France to Zurich via Basel.
 
-#### Reservation
+#### Reservations
 
 Reservations are mandatory outside Switzerland and for cross-border journeys.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -57,9 +65,10 @@ Reservations are mandatory outside Switzerland and for cross-border journeys.
     reservation_required=partially
     reservation_possible=true
 %}}
+
 International trains to Germany and Italy.
 
-#### Reservation
+#### Reservations
 
 1st class: €13 \
 2nd class: €11
@@ -76,7 +85,11 @@ A reservation and surcharge are required for the Italian section. It is cheaper 
     reservation_required=false
     reservation_possible=true
 %}}
+
 Fast national trains stopping only in major cities and transfer stations.
+
+Some [Nightjet](#nj) services are operated using `IC` coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -87,11 +100,37 @@ Fast national trains stopping only in major cities and transfer stations.
     reservation_required=partially
     reservation_possible=true
 %}}
+
 Nightjet night trains of ÖBB and EuroNight night trains of ČD, MÁV, and HŽ, operated by SBB in Switzerland. These run to Berlin, Dresden, Leipzig, Prague, Budapest, Ljubljana, and Zagreb, among others.
 
-#### Reservation
+Some Nightjet services operate with [Intercity](#ic) coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
+
+#### Reservations
 
 A reservation is required except in seat cars when operating as Intercity, Eurocity, or regional trains.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="pe"
+    title="Panorama Express (PE)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+    additional_information_url="https://www.sbb.ch/en/leisure-holidays/trains-boats/panoramic-journeys/gotthard-panorama-express.html"
+%}}
+
+SBB Panoramic trains via the classic Gotthard route running mid-April to mid-October. Advertised as a journey in combination with a boat of Schifffahrtsgesellschaft des Vierwaldstättersee (SGV), where SP discounts apply, see [Schweizer Privatbahnen - SGV](/operator/sp#sgv). For travellers doing the full journey by rail and ship between Lugano and Lucerne (and vice versa) a free luggage transfer is offered.
+
+#### Reservations
+
+A special reservation for 24 CHF is required.
+
+{{< highlight important >}}
+These trains are 1st class only. With a 2nd class coupon a 1st class upgrade is necessary. With a 2nd class FIP card there is no discount.
+{{< /highlight >}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -102,7 +141,9 @@ A reservation is required except in seat cars when operating as Intercity, Euroc
     reservation_required=false
     reservation_possible=true
 %}}
+
 National trains stopping in larger cities.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -111,17 +152,33 @@ National trains stopping in larger cities.
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 Trains stopping at all stations. In metropolitan areas also called S-Bahn.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+FIP Tickets are not valid on SBB-operated bus lines. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
 {{% /train-category %}}
 
 ## Ticket and Reservation Purchase
 
 ### Online
 
-{{% booking id="sbb-website"/%}}
+{{% booking id="sbb-website" /%}}
 
-{{% booking id="db-website"/%}}
+{{% booking id="db-website" /%}}
 
 {{% booking id="db-website-fip-db"
     subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. For Deutsche Bahn employees only."
@@ -137,15 +194,24 @@ Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt – Milan rou
 
 ### By Phone
 
-{{% booking id="oebb-phone" subtitle="Nightjet booking" fip_50=nil /%}}
+{{% booking id="oebb-phone"
+    subtitle="Nightjet booking"
+    fip_50=nil
+/%}}
 
-### On Site
+{{% booking id="db-phone-fip-db"
+    subtitle="Cross-border FIP 50 Tickets between Germany and Switzerland, with ticket portion only for the Swiss section. For Deutsche Bahn employees only."
+%}}
+Through FIP 50 Tickets, continuous journeys on the `ECE` Frankfurt – Milan route can be booked up to Milan.
+{{% /booking %}}
 
-{{% booking id="sbb-ticket-office"/%}}
+### On-Site
 
-{{% booking id="sbb-ticket-machine"/%}}
+{{% booking id="sbb-ticket-office" /%}}
 
-{{% booking id="db-ticket-office"/%}}
+{{% booking id="sbb-ticket-machine" /%}}
+
+{{% booking id="db-ticket-office" /%}}
 
 ### On the Train
 
@@ -153,13 +219,22 @@ FIP Tickets cannot be purchased on the train. A penalty fee is charged for passe
 
 ## Discounts
 
-Children travel free on regular journeys (not special trips) up to and including 5 years of age. Children up to and including 15 years receive a 50% discount on the adult fare. From the age of 16, the regular adult fare applies.
+{{< children-discount >}}
+
+| Age                                 | Discount          |
+| ----------------------------------- | ----------------- |
+| {{< icon "child_care" >}} 0–5 years | Free[^3]          |
+| {{< icon "person" >}} from 6 years  | Regular price[^3] |
+
+### SBB Junior Travelcard
+
+In addition, there is the option to purchase an _SBB Junior Travelcard_ for CHF 30. This allows your own children up to and including 15 years of age to travel when accompanied by a parent. The accompanying parent must hold their own valid ticket for the journey (e.g. FIP Coupon or FIP 50 Ticket). The Junior Travelcard can be purchased on-site at [public transport points of sale](https://www.sbb.ch/en/travel-information/stations/find-station.html) in Switzerland. See the SBB website: [Junior Travelcard](https://www.sbb.ch/en/offers/junior-travelcard).
+
+### Day Pass for Children
+
+Alternatively, the _Day Pass for Children_ offers children aged 6 to under 16 unlimited travel on public transport for one day for CHF 19 (2nd class) or CHF 33 (1st class). See the SBB website: [Day Pass for Children](https://www.sbb.ch/en/offers/day-pass-children).
 
 ## Special Tariff Conditions
-
-### Buses and Rail Replacement Services
-
-FIP Tickets are not valid on SBB-operated bus lines unless they are rail replacement services.
 
 ### Mutual Recognition of SBB and BLS Coupons
 
@@ -178,6 +253,22 @@ SBB FIP Coupons are valid on some routes of the Schweizerische Südostbahn (SOB)
 
 For cross-border `EC` trains to Italy and `TGV` trains to France, a surcharge is required outside Switzerland in addition to the FIP Coupon. The surcharge can be purchased at ticket counters (in Switzerland, France, or Italy). On EC trains to Italy, it can also be purchased on board or at a reduced price via Deutsche Bahn. [See Travel to Italy](/country/switzerland#italy "Travel to Italy")
 
+### Connections
+
+#### HOTNAT
+
+If a connecting train is missed at the stations Paris, Brussels, Cologne, Munich, Basel, or Zurich, HOTNAT can be used.
+
+This operator is part of HOTNAT (Hop on the Next Available Train). [More information in the FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
+### Rail Replacement Services
+
+On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+
 ## Recommendations
 
 {{% highlight tip %}}
@@ -186,6 +277,8 @@ The FIP Coupon is especially worthwhile for SBB CFF FFS, as you can travel a den
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)
+
+[^3]: [SBB – Tickets and travelcards for children and young people](https://www.sbb.ch/en/travel-information/individual-needs/travelling-with-children/tickets-travelcards.html)

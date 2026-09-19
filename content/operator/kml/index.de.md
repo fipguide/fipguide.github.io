@@ -1,9 +1,10 @@
 ---
-draft: false
-title: "KMŁ"
+title: KMŁ
 country:
-  - "poland"
-operator: "kml"
+  - poland
+operator: kml
+aliases:
+  - /booking/kml-ticket-office
 ---
 
 Die Koleje Małopolskie, kurz KMŁ, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Kleinpolen anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland) FIP anbietet.
@@ -15,9 +16,10 @@ Auf der Website bietet die KMŁ eine [Übersicht der betriebenen Linien](https:/
 - KMŁ akzeptiert FIP Freifahrt und FIP 50 Tickets.
 - Nur 2. Klasse in den Zügen vorhanden und keine Reservierungen möglich.
 
-## Gültigkeit FIP-Tickets
+## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der KMŁ gültig.
@@ -28,7 +30,7 @@ Bei Fahrten mit verschiedenen Betreibern innerhalb Polens muss entweder ein durc
 
 Die KMŁ unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel "KMŁ" und im Anschluss eine konkrete Zugnummer. Liniennummern sind zwar vorhanden, werden aber in der Verbindungsauskunft meist nicht angezeigt. Es werden nur Tickets der 2. Klasse angeboten, da es in KMŁ-Zügen keine 1. Klasse gibt. Zudem besteht keine Reservierungsmöglichkeit.
 
-Ob auch in den Bussen der KMŁ FIP-Fahrkarten möglich sind, ist uns aktuell nicht bekannt. Im Schienenersatzverkehr sollten sie aber wie bei anderen Betreibern auch akzeptiert werden.
+Ob auch in den Bussen der KMŁ FIP-Fahrkarten möglich sind, ist uns aktuell nicht bekannt. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Ticket- und Reservierungskauf
 
@@ -38,7 +40,7 @@ Da die KMŁ erst seit dem 01.04.2026 FIP-Mitglied ist sind die Buchungsmöglichk
 
 ### Vor Ort
 
-{{% booking id="kml-ticket-office"/%}}
+{{% booking id="kml-ticket-office" /%}}
 
 ### Im Zug
 
@@ -47,6 +49,12 @@ FIP 50 Fahrkarten müssen bei Einstieg an Bahnhöfen, an denen der Ticketschalte
 ## Ermäßigungen
 
 Uns sind derzeit noch keine Informationen über Ermäßigungen bekannt.
+
+## Tarifliche Besonderheiten
+
+### Schienenersatzverkehr
+
+In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Empfehlungen
 
@@ -58,4 +66,4 @@ Reisehighlights mit der KMŁ sind u. a. zum bekannten Freizeitpark Energylandia 
 
 ## Quellen
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)

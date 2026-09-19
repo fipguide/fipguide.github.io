@@ -1,11 +1,12 @@
 ---
-draft: false
-title: "BSB"
+title: BSB
 country:
-  - "austria"
-  - "germany"
-  - "switzerland"
-operator: "bsb"
+  - austria
+  - germany
+  - switzerland
+operator: bsb
+aliases:
+  - /booking/bsb-ticket-office
 ---
 
 BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) operate the ferries on Lake Constance between [Germany](/country/germany "Germany"), [Austria](/country/austria "Austria"), and [Switzerland](/country/switzerland "Switzerland").
@@ -19,23 +20,25 @@ FIP discounts apply with the following operators:
 
 ## Summary
 
-- FIP 50 Tickets and FIP Coupons are accepted
-- Booking options at the Ticket Office and on the ferry
+- FIP 50 Tickets and FIP Coupons are accepted.
+- Booking options at the Ticket Office and on the ferry.
 
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Train Categories and Reservations
 
 {{% train-category
-  id="ferry"
-  title="Fähre"
-  type="ship"
-  fip_accepted=true
-  reservation_possible=false
-  route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
+    id="ferry"
+    title="Fähre"
+    type="ship"
+    fip_accepted=partially
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
 %}}
 
 Ferries on Lake Constance.
@@ -47,6 +50,10 @@ On the following routes, cars can be transported:
 
 Some ships offer a restaurant or snacks and drinks.
 
+{{< highlight important >}}
+FIP discounts are not accepted on the SBS ferry between Altnau-Hagnau and Immenstaad.[^3]
+{{< /highlight >}}
+
 {{% /train-category %}}
 
 ## Class Categories
@@ -57,8 +64,7 @@ There is a single class, which can be used with FIP Cards of both 1st and 2nd cl
 
 ### On-Site
 
-{{% booking id="bsb-ticket-office" %}}
-{{% /booking %}}
+{{% booking id="bsb-ticket-office" /%}}
 
 ### On the Ferry
 
@@ -66,14 +72,25 @@ FIP 50 Tickets can be purchased on the ferry.
 
 ## Discounts
 
-For public fares, children up to 6 years travel free of charge, children between 6 and 16 years receive a 50% discount on the adult fare. From 16 years, the regular adult fare applies.[^1]
+{{< children-discount >}}
+
+| Age                                 | Discount           |
+| ----------------------------------- | ------------------ |
+| {{< icon "child_care" >}} 0–5 years | Free of charge[^1] |
+| {{< icon "person" >}} from 6 years  | Regular price[^1]  |
+
+### Lake Constance Children's Card
+
+The _Lake Constance Children's Card_ (Bodensee-Kinderkarte) costs €10 per day and allows all children of a family between 6 and 15 years of age to travel, provided at least one parent holds a regular ticket and accompanies the journey. See the BSB website: [Lake Constance Children's Card](https://www.bsb.de/en/timetable/prices/interesting-offers).
+
+### Free Travel for Birthday Children
 
 All birthday children travel free of charge on their birthday in regular service upon presentation of their original ID card.
 The birthday ticket must be obtained at the sales points before departure.[^2]
 
 ## Special Tariff Conditions
 
-### Break of journey
+### Break of Journey
 
 A break of journey is permitted without formalities.[^1]
 
@@ -82,8 +99,14 @@ A break of journey is permitted without formalities.[^1]
 The full regular fare applies for bicycles.
 There is no discount for vehicles between Friedrichshafen and Romanshorn.
 
+### zellerSEEticket (zSEEt)
+
+FIP Card Holders receive a 50% discount on the zellerSEEticket (zSEEt). No other discounts are accepted.[^3]
+
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html#uk-accordion-69)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782279-lake-constance-ferries.html)
 
-[^2]: [Bodensee-Schiffsbetriebe](https://www.bsb.de/de/fahrplan/preise)
+[^2]: [Bodensee-Schiffsbetriebe – Offers](https://www.bsb.de/de/fahrplan/preise/interessante-preisangebote)
+
+[^3]: [Bodensee-Personentarif (BP)](https://schiffe-am-bodensee.ch/images/befoerderungsbedingungen/Bodensee_Personentarif_2022_website.pdf)

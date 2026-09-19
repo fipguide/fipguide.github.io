@@ -1,6 +1,8 @@
 ---
-title: "Overview of operators"
-description: "Overview of the operators providing FIP benefits."
+title: Overview of operators
+description: Overview of the operators providing FIP benefits.
+aliases:
+  - /booking
 ---
 
 Find the FIP regulations for your desired operator on the following pages.

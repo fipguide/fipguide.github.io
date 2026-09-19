@@ -1,9 +1,12 @@
 ---
-draft: false
-title: "KD"
+title: KD
 country:
-  - "pologne"
-operator: "kd"
+  - pologne
+operator: kd
+aliases:
+  - /booking/kd-ticket-machine
+  - /booking/kd-ticket-office
+  - /booking/kd-website
 ---
 
 Koleje Dolnośląskie (KD) est une compagnie ferroviaire polonaise assurant principalement des services régionaux dans la voïvodie de Basse-Silésie. C’est l’une des cinq compagnies différentes de [Pologne](/country/poland) qui proposent le FIP.
@@ -19,6 +22,7 @@ Sur son site Web, KD propose une [carte d’ensemble des lignes](https://kolejed
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont acceptés chez KD.
@@ -28,6 +32,19 @@ Pour les voyages transfrontaliers, il faut soit un Billet FIP 50 continu, soit d
 ## Catégories de trains et réservations
 
 KD ne distingue pas de catégories de trains différentes. Les trains ont en général un numéro de ligne commençant par "D", mais dans les moteurs de recherche de voyages il n’est souvent indiqué que "KD" et un numéro de train. Certains trains sont commercialisés comme "KD Sprinter" ou "KD Supersprinter", mais restent néanmoins des trains régionaux. Seuls les billets de 2ème classe sont proposés, car il n’y a pas de 1ère classe dans les trains KD. Il n’est pas possible de réserver.
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Le FIP est accepté sur toutes les lignes de bus KD. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+
+{{% /train-category %}}
 
 ## Achat de billets et réservations
 
@@ -40,37 +57,52 @@ Les Billets FIP 50 sont disponibles pour les trajets nationaux et internationaux
 {{% /booking %}}
 
 {{% booking id="koleo-website"
-    reservations=nil
     subtitle="Pour trajets nationaux"
+    reservations=nil
 %}}
 Les Billets FIP 50 peuvent être vendus uniquement pour les trajets nationaux.
 {{% /booking %}}
 
 {{% booking id="db-website-fip-db"
-    reservations=nil
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, valables uniquement pour la partie polonaise du trajet. Réservé au personnel de la Deutsche Bahn."
+    reservations=nil
 /%}}
 
 {{% booking id="db-website-fip-international"
-    reservations=nil
     subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne pour toute la trajectoire (non valables dans le pays d’émission de la Carte FIP)"
+    reservations=nil
+/%}}
+
+### Par téléphone
+
+{{% booking id="db-phone-fip-db"
+    subtitle="Billets FIP 50 transfrontaliers entre l’Allemagne et la Pologne, valables uniquement pour la partie polonaise du trajet. Réservé au personnel de la Deutsche Bahn."
+    reservations=nil
 /%}}
 
 ### En gare
 
-{{% booking id="kd-ticket-office"/%}}
+{{% booking id="kd-ticket-office" /%}}
 
-{{% booking id="kd-ticket-machine"/%}}
+{{% booking id="kd-ticket-machine" /%}}
 
-{{% booking id="db-ticket-office" reservations=nil /%}}
+{{% booking id="db-ticket-office"
+    reservations=nil
+/%}}
 
 ### À bord du train
 
-Les Billets FIP 50 peuvent également être achetés directement à bord du train. Pour cela, le personnel de bord doit être contacté immédiatement après l'embarquement. En cas d'embarquement aux gares disposant également d'un guichet ou d'un distributeur de billets, des frais de délivrance à bord peuvent s'ajouter au prix du billet. Paiement en espèces ou par carte bancaire sans contact (Visa, Visa Electron, V Pay, Mastercard, Maestro) accepté. Paiement uniquement possible en zloty polonais.[^1]
+Les Billets FIP 50 peuvent également être achetés directement à bord du train. Pour cela, le personnel de bord doit être contacté immédiatement après l’embarquement. En cas d’embarquement aux gares disposant également d’un guichet ou d’un distributeur de billets, des frais de délivrance à bord peuvent s’ajouter au prix du billet. Paiement en espèces ou par carte bancaire sans contact (Visa, Visa Electron, V Pay, Mastercard, Maestro) accepté. Paiement uniquement possible en zloty polonais.[^1]
 
 ## Réductions
 
-Pour les billets ordinaires, les enfants de moins de 4 ans voyagent gratuitement. Les enfants jusqu’à 11 ans inclus bénéficient de 50% de réduction sur le tarif adulte. À partir de 12 ans, plein tarif adulte.[^1]
+{{< children-discount >}}
+
+| Âge                                      | Réduction            |
+| ---------------------------------------- | -------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit[^1]          |
+| {{< icon "child_care" >}} 4–11 ans       | 50% de réduction[^1] |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal[^1]     |
 
 {{% highlight tip %}}
 Indépendamment du FIP, un billet spécial week-end permet, en Basse-Silésie, de voyager sur tous les trains régionaux du vendredi 18h au lundi 6h. Plus d’informations sur le [site KD](https://kolejedolnoslaskie.pl/oferty-taryfowe/dolnoslaski-bilet-weekendowy/).
@@ -88,9 +120,9 @@ En saison estivale, KD propose aussi des trains spéciaux "KD Premium", reliant 
 
 D’ordinaire, les avantages FIP KD ne sont valables qu’en Pologne. Pour les trajets transfrontaliers Zgorzelec (Pologne) – Görlitz (Allemagne), exception : aucun billet supplémentaire n’est exigé entre ces deux gares ; tous les billets valables jusqu’à Zgorzelec sont aussi valables jusqu’à Görlitz et inversement.
 
-### Bus
+### Services de remplacement ferroviaire
 
-Le FIP est accepté sur toutes les lignes de bus KD, qui circulent en général comme remplacement ferroviaire ou en prévision de réouverture future de lignes ferroviaires.
+Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Recommandations
 
@@ -100,4 +132,4 @@ L’utilisation du FIP chez KD est simple et pratique, avec très peu d’except
 
 ## Sources
 
-[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip.html)
+[^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
