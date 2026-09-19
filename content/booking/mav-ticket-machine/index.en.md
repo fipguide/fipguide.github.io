@@ -1,5 +1,4 @@
 ---
-draft: false
 title: MÁV Ticket Machine
 description: Booking information for MÁV ticket machines.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Trenitalia
 country:
   - italy

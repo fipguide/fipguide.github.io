@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Hongrie
 country: hungary
 params:

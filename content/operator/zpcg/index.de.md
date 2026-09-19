@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ŽPCG
 country:
   - montenegro
@@ -116,6 +115,21 @@ FIP-ermäßigte Fahrkarten können im Zug gekauft werden. Es fällt ein Aufpreis
 | {{< icon "child_care" >}} 6–13 Jahre | 50 % Rabatt[^6]     |
 | {{< icon "child_hat" >}} 14–25 Jahre | 30 % Rabatt[^6]     |
 | {{< icon "person" >}} ab 26 Jahre    | Regulärer Preis[^6] |
+
+{{% highlight tip %}}
+Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
+
+- Bosnien und Herzegowina (ŽFBH, ŽRS),
+- Bulgarien (BDŽ),
+- Nordmazedonien (MŽ-Transport),
+- Griechenland (HT & Attica),
+- Montenegro (ŽPCG),
+- Rumänien (CFR Calatori & Regiotrans),
+- Serbien (SV),
+- Türkei (TCDD).
+
+[Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Tarifliche Besonderheiten
 

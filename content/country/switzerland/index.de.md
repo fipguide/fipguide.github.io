@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Schweiz
 country: switzerland
 params:

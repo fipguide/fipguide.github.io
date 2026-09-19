@@ -1,5 +1,4 @@
 ---
-draft: false
 title: RhB Website
 description: Buchungsinformationen für FIP Fahrscheine bei der RhB.
 params:

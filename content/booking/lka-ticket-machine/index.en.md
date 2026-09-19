@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ŁKA Ticket Machine
 description: Booking information for the ŁKA ticket machines.
 params:

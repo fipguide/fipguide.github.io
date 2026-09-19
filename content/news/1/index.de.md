@@ -1,6 +1,5 @@
 ---
 date: 2025-01-01
-draft: false
 author: Lennart
 title: "Neues FIP Mitglied: LTG Link (Litauen)"
 description: Seit 1. Januar 2024 ist LTG Link (Litauen) Teil des FIP-Programms.

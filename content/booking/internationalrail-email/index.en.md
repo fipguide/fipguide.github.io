@@ -1,5 +1,4 @@
 ---
-draft: false
 title: International Rail Ltd. Email
 description: Booking information for booking by email with International Rail Ltd.
 params:

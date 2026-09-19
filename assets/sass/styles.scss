@@ -330,7 +330,7 @@ figure {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
-    overflow-x: auto;
+    overflow-x: visible;
 
     p {
       text-align: justify;

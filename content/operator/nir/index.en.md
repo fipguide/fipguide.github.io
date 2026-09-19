@@ -1,5 +1,4 @@
 ---
-draft: false
 title: NIR
 country:
   - united-kingdom
@@ -24,6 +23,21 @@ Northern Ireland Railways (NIR) is the state railway company in Northern Ireland
 ## Train Categories and Reservations
 
 {{% train-category
+    id="enterprise"
+    title="Intercity (Enterprise)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+
+NIR operates the Enterprise Service between Dublin and Belfast together with [CIE](/operator/cie).
+
+_Enterprise Plus_ passengers are escorted to an available seat on board the train. Travel in _Enterprise Plus_ is only permitted when a seat is available.
+
+{{% /train-category %}}
+
+{{% train-category
     id="regional-trains"
     title="Regional Trains"
     type="regional"
@@ -34,19 +48,6 @@ Northern Ireland Railways (NIR) is the state railway company in Northern Ireland
 %}}
 
 NIR operates various regional train services from Belfast. Regional trains cannot be reserved and can be used with FIP.
-
-{{% /train-category %}}
-
-{{% train-category
-    id="enterprise"
-    title="Intercity (Enterprise)"
-    type="highspeed"
-    fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
-%}}
-
-NIR operates the Enterprise Service between Dublin and Belfast together with [CIE](/operator/cie).
 
 {{% /train-category %}}
 
@@ -64,10 +65,6 @@ FIP 50 / FIP 75 Tickets cannot be purchased online.
 
 {{% booking id="irish-rail-website"
     subtitle="Reservations (2nd class) for the Enterprise Service (Dublin – Belfast)."
-/%}}
-
-{{% booking id="translink-whatsapp"
-    subtitle="Reservations (1st class) for the Enterprise Service (Dublin – Belfast)."
 /%}}
 
 ### On-Site
@@ -105,6 +102,12 @@ yLink is a smartcard for 16 to 23 year olds using Translink services within Nort
 ### Break of Journey
 
 Break of journey is only permitted in order to catch connecting trains.[^1]
+
+## Recommendations
+
+{{% highlight tip %}}
+On its relatively small network, NIR offers a reliable regular service using somewhat ageing trains. Around Belfast in particular, it provides a suburban service similar to an S-Bahn. The roughly hourly service between Belfast and Derry-Londonderry is especially scenic on the section between Coleraine and Derry-Londonderry, which runs directly along the northern coast.
+{{% /highlight %}}
 
 ## Sources
 

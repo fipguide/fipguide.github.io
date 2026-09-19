@@ -1,5 +1,4 @@
 ---
-draft: false
 title: CFL Telephone
 description: Booking information for the CFL hotline.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SNCF Ticketschalter
 description: Buchungsinformationen für die SNCF Ticketschalter.
 params:

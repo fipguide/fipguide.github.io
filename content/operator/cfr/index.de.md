@@ -1,5 +1,4 @@
 ---
-draft: false
 title: CFR Călători
 country:
   - romania
@@ -186,6 +185,21 @@ Es können keine FIP-ermäßigte Tickets im Zug gekauft werden. Auch Reservierun
 In Zügen mit Reservierungspflicht muss die Reservierung unabhängig von der Ermäßigung in voller Höhe bezahlt werden.[^2]
 
 In Liege- und Schlafwagen wird bei 2 Kindern, die sich ein Bett teilen, nur ein einfacher Bettzuschlag berechnet. Benötigt ein Kind kein eigenes Bett, entfällt der Bettzuschlag (ein begleitetes Kind pro Bett ist erlaubt).[^2]
+
+{{% highlight tip %}}
+Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
+
+- Bosnien und Herzegowina (ŽFBH, ŽRS),
+- Bulgarien (BDŽ),
+- Nordmazedonien (MŽ-Transport),
+- Griechenland (HT & Attica),
+- Montenegro (ŽPCG),
+- Rumänien (CFR Calatori & Regiotrans),
+- Serbien (SV),
+- Türkei (TCDD).
+
+[Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Tarifliche Besonderheiten
 

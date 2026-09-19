@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SŽ Ticketschalter
 description: Buchungsinformationen für die SŽ Ticketschalter.
 params:

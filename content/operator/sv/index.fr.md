@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SV
 country:
   - serbia
@@ -169,6 +168,24 @@ Actuellement, un bus navette entre Novi Sad et Petrovaradin peut toutefois être
 | {{< icon "child_care" >}} 0–5 ans        | Gratuit (sans place assise propre, accompagné d’un adulte muni d’un billet valable)[^7] |
 | {{< icon "child_care" >}} 6–14 ans       | 50 % de réduction[^7]                                                                   |
 | {{< icon "person" >}} à partir de 15 ans | Tarif normal[^7]                                                                        |
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass peut être intéressant sur le plan tarifaire. Il permet des trajets illimités sur les réseaux ferroviaires de :
+
+- Bosnie-Herzégovine (ZFBH),
+- Bulgarie (BDZ),
+- Macédoine du Nord (MŽ-Transport),
+- Grèce (HT & Attica),
+- Monténégro (ŽPCG),
+- Roumanie (CFR Calatori & Regiotrans),
+- Serbie (SV),
+- Slovaquie (ZSSK / ŽSR),
+- Turquie (TCDD).
+
+[Plus d’informations sur le site web de ŽPCG](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 

@@ -7,10 +7,15 @@
 {{- $status := "unknown" -}}
 {{- $text := T "fipValidity.unknown" -}}
 {{- if .entry -}}
-  {{- $fieldData := index .entry .field -}}
-  {{- if $fieldData -}}
-    {{- $status = $fieldData.status -}}
-    {{- $text = index $fieldData.text .lang -}}
+  {{- $groupName := index .entry .field -}}
+  {{- if $groupName -}}
+    {{- $group := index .groups $groupName -}}
+    {{- if $group -}}
+      {{- $status = $group.status -}}
+      {{- $text = index $group.text .lang -}}
+    {{- else -}}
+      {{- warnf "fip-validity: group %q not found (field %q, page: %s)" $groupName .field $.page.File.Path -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
 

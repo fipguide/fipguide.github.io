@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Śląskie Ticket Machine
 description: Booking information for Koleje Śląskie ticket machines.
 params:

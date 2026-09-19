@@ -1,5 +1,4 @@
 ---
-draft: false
 title: CFR Călători
 country:
   - romania
@@ -186,6 +185,24 @@ FIP-discounted tickets cannot be purchased on the train. Reservations must also 
 On trains with a reservation requirement, the full reservation fare must be paid regardless of the discount.[^2]
 
 On board berth and sleeping coaches, if 2 children share one bed, only a single bed supplement is paid. If a child does not require a separate bed, no bed supplement is due (one accompanied child per bed is allowed).[^2]
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+For travellers through several Balkan countries, the Balkan Flexipass could be worthwhile in terms of price. It enables unlimited travel on the rail networks of:
+
+- Bosnia and Herzegovina (ZFBH),
+- Bulgaria (BDZ),
+- North Macedonia (MŽ-Transport),
+- Greece (HT & Attica),
+- Montenegro (ŽPCG),
+- Romania (CFR Calatori & Regiotrans),
+- Serbia (SV),
+- Slovakia (ZSSK / ŽSR),
+- Turkey (TCDD).
+
+[More information on the ŽPCG website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Special Tariff Conditions
 

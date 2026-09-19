@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet Euskotren
 params:
   fip_50: nil

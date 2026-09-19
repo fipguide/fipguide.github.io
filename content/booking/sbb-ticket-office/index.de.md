@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SBB Ticketschalter
 description: Buchungsinformationen für die SBB Reisezentren.
 params:

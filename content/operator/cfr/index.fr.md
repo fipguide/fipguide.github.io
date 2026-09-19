@@ -1,5 +1,4 @@
 ---
-draft: false
 title: CFR Călători
 country:
   - romania
@@ -186,6 +185,24 @@ Il n’est pas possible d’acheter des billets à tarif réduit FIP à bord du 
 Dans les trains à réservation obligatoire, le tarif complet de la réservation doit être payé, indépendamment de la réduction.[^2]
 
 Dans les voitures-couchettes et voitures-lits, si 2 enfants partagent un même lit, seul un supplément de lit simple est facturé. Si un enfant n’a pas besoin d’un lit séparé, aucun supplément de lit n’est dû (un enfant accompagné par lit est autorisé).[^2]
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass peut être intéressant sur le plan tarifaire. Il permet des trajets illimités sur les réseaux ferroviaires de :
+
+- Bosnie-Herzégovine (ZFBH),
+- Bulgarie (BDZ),
+- Macédoine du Nord (MŽ-Transport),
+- Grèce (HT & Attica),
+- Monténégro (ŽPCG),
+- Roumanie (CFR Calatori & Regiotrans),
+- Serbie (SV),
+- Slovaquie (ZSSK / ŽSR),
+- Turquie (TCDD).
+
+[Plus d’informations sur le site web de ŽPCG](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Entur Ticketschalter
 description: Buchungsinformationen für die Entur Ticketschalter.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: PKP Intercity Fahrkartenautomat
 description: Buchungsinformationen für die PKP Intercity Fahrkartenautomaten.
 params:

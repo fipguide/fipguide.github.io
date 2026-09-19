@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Trenitalia Ticketschalter
 description: Buchungsinformationen für die Trenitalia Ticketschalter.
 params:

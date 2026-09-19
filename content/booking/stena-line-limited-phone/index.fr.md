@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Stena Line Limited Téléphone
 description: Informations de réservation pour la réservation par téléphone chez
   Stena Line Limited

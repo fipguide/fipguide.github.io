@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Translink Ticket Office
 description: Booking information for the Translink Ticket Office.
 params:

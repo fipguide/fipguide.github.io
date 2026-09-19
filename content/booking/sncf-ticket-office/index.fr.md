@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet SNCF
 description: Informations de réservation pour les guichets SNCF.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ČD Ticket Office
 description: Booking information for České dráhy ticket offices.
 params:

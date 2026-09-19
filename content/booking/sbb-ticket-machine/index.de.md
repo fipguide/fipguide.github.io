@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SBB Fahrkartenautomat
 description: Buchungsinformationen für FIP Fahrscheine an SBB Fahrkartenautomaten
 params:

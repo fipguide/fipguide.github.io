@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ŽPCG
 country:
   - montenegro
@@ -116,6 +115,24 @@ Des billets avec réduction FIP peuvent être achetés à bord du train. Un supp
 | {{< icon "child_care" >}} 6–13 ans       | 50 % de remise[^6] |
 | {{< icon "child_hat" >}} 14–25 ans       | 30 % de remise[^6] |
 | {{< icon "person" >}} à partir de 26 ans | Tarif normal[^6]   |
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass peut être intéressant sur le plan tarifaire. Il permet des trajets illimités sur les réseaux ferroviaires de :
+
+- Bosnie-Herzégovine (ZFBH),
+- Bulgarie (BDZ),
+- Macédoine du Nord (MŽ-Transport),
+- Grèce (HT & Attica),
+- Monténégro (ŽPCG),
+- Roumanie (CFR Calatori & Regiotrans),
+- Serbie (SV),
+- Slovaquie (ZSSK / ŽSR),
+- Turquie (TCDD).
+
+[Plus d’informations sur le site web de ŽPCG](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 

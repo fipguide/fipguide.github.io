@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Attica
 country:
   - greece
@@ -118,6 +117,24 @@ Le jour du voyage, des réservations peuvent être effectuées sur place sous r�
 | {{< icon "stroller" >}} 0–3 ans          | 6,00 € par traversée, à condition de n’occuper ni lit, ni couchette, ni siège inclinable ; sinon réduction de 50 % sur le tarif adulte[^3] |
 | {{< icon "child_care" >}} 4–12 ans       | Réduction de 50 % sur le tarif adulte, sur toutes les lignes[^3]                                                                           |
 | {{< icon "person" >}} à partir de 13 ans | Tarif normal[^3]                                                                                                                           |
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass peut être intéressant sur le plan tarifaire. Il permet des trajets illimités sur les réseaux ferroviaires de :
+
+- Bosnie-Herzégovine (ZFBH),
+- Bulgarie (BDZ),
+- Macédoine du Nord (MŽ-Transport),
+- Grèce (HT & Attica),
+- Monténégro (ŽPCG),
+- Roumanie (CFR Calatori & Regiotrans),
+- Serbie (SV),
+- Slovaquie (ZSSK / ŽSR),
+- Turquie (TCDD).
+
+[Plus d’informations sur le site web de ŽPCG](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 

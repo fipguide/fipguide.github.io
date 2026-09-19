@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Vy Group
 country:
   - norway

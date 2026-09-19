@@ -1,6 +1,5 @@
 ---
 date: 2025-06-15
-draft: false
 title: Abschaffung DB Familienreservierung
 description: Die Deutsche Bahn schafft ab dem 15. Juni 2025 die
   Familienreservierung ab. Neue Preise und Einzelreservierungen für alle

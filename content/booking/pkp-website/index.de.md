@@ -1,5 +1,4 @@
 ---
-draft: false
 title: PKP Intercity Website / App
 description: Buchungsinformationen für die PKP Intercity Website und App.
 params:

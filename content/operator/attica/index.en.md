@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Attica
 country:
   - greece
@@ -118,6 +117,24 @@ On the day of travel, bookings can be made on site subject to availability. Purc
 | {{< icon "stroller" >}} 0–3 years    | €6.00 per crossing, if not occupying a bed, berth or reclining seat; otherwise 50% discount on the adult fare[^3] |
 | {{< icon "child_care" >}} 4–12 years | 50% discount on the adult fare, on all routes[^3]                                                                 |
 | {{< icon "person" >}} from 13 years  | Regular price[^3]                                                                                                 |
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+For travellers through several Balkan countries, the Balkan Flexipass could be worthwhile in terms of price. It enables unlimited travel on the rail networks of:
+
+- Bosnia and Herzegovina (ZFBH),
+- Bulgaria (BDZ),
+- North Macedonia (MŽ-Transport),
+- Greece (HT & Attica),
+- Montenegro (ŽPCG),
+- Romania (CFR Calatori & Regiotrans),
+- Serbia (SV),
+- Slovakia (ZSSK / ŽSR),
+- Turkey (TCDD).
+
+[More information on the ŽPCG website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Special Tariff Conditions
 

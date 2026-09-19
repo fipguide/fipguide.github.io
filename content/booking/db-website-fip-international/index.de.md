@@ -1,5 +1,4 @@
 ---
-draft: false
 title: DB Website FIP (International)
 description: Buchungsinformationen für FIP Fahrscheine mit Teilabschnitt in Deutschland.
 params:

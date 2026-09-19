@@ -1,5 +1,4 @@
 ---
-draft: false
 title: BSB
 country:
   - austria

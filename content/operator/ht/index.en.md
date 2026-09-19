@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Hellenic Train
 country:
   - greece
@@ -136,6 +135,24 @@ If you start your journey at a station where the ticket office is unstaffed, tic
 | {{< icon "stroller" >}} 0–3 years    | Free of charge, if not occupying own seat; otherwise 50% discount on the adult fare[^1][^6] |
 | {{< icon "child_care" >}} 4–11 years | 50% discount on the adult fare[^1][^6]                                                      |
 | {{< icon "person" >}} from 12 years  | Regular price[^1]                                                                           |
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+For travellers through several Balkan countries, the Balkan Flexipass could be worthwhile in terms of price. It enables unlimited travel on the rail networks of:
+
+- Bosnia and Herzegovina (ZFBH),
+- Bulgaria (BDZ),
+- North Macedonia (MŽ-Transport),
+- Greece (HT & Attica),
+- Montenegro (ŽPCG),
+- Romania (CFR Calatori & Regiotrans),
+- Serbia (SV),
+- Slovakia (ZSSK / ŽSR),
+- Turkey (TCDD).
+
+[More information on the ŽPCG website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Special Tariff Conditions
 

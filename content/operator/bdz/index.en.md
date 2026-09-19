@@ -1,5 +1,4 @@
 ---
-draft: false
 title: BDŽ
 country:
   - bulgaria
@@ -131,6 +130,24 @@ FIP-discounted tickets can only be purchased on board if departing from a statio
 ### Railway Passes
 
 BDŽ offers additional discounts for Children, Family, Students and other groups with [Railway Passes](https://www.bdz.bg/en/a/railway-passes).[^2]
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+For travellers through several Balkan countries, the Balkan Flexipass could be worthwhile in terms of price. It enables unlimited travel on the rail networks of:
+
+- Bosnia and Herzegovina (ZFBH),
+- Bulgaria (BDZ),
+- North Macedonia (MŽ-Transport),
+- Greece (HT & Attica),
+- Montenegro (ŽPCG),
+- Romania (CFR Calatori & Regiotrans),
+- Serbia (SV),
+- Slovakia (ZSSK / ŽSR),
+- Turkey (TCDD).
+
+[More information on the ŽPCG website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Special Tariff Conditions
 
