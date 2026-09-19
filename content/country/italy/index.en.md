@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Italy
 country: italy
 params:

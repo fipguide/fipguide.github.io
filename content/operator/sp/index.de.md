@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Schweizer Privatbahnen
 description: Informationen über die FIP-Bedingungen bei den Schweizer Privatbahnen.
 country:
@@ -955,7 +954,20 @@ Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben
 
 ## Ermäßigungen
 
-Kinder reisen bei normalen Fahrten (keine Sonderfahrten) bis einschließlich 5 Jahren kostenlos. Kinder bis einschließlich 15 Jahren erhalten eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Ab dem vollendeten 16. Lebensjahr gilt der reguläre Fahrpreis für Erwachsene.
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung          |
+| ----------------------------------- | ------------------- |
+| {{< icon "child_care" >}} 0–5 Jahre | Kostenlos[^4]       |
+| {{< icon "person" >}} ab 6 Jahre    | Regulärer Preis[^4] |
+
+### Junior-Karte
+
+Zusätzlich gibt es die Möglichkeit eine _Junior-Karte_ für 30 CHF zu erwerben. Diese berechtigt eigene Kinder bis einschließlich 15 Jahre zur Fahrt in Begleitung eines Elternteils. Der mitreisende Elternteil benötigt für die Fahrt eine eigene gültige Fahrkarte (z. B. FIP Freifahrtschein oder FIP 50 Ticket). Die Junior-Karte kann vor Ort an Verkaufsstellen des öffentlichen Verkehrs in der Schweiz erworben werden. Siehe SBB Website: [Junior-Karte](https://www.sbb.ch/de/angebote/junior-karte).
+
+### Kinder-Tageskarte
+
+Alternativ bietet die _Kinder-Tageskarte_ für 19 CHF (2. Klasse) bzw. 33 CHF (1. Klasse) Kindern von 6 bis unter 16 Jahren einen Tag lang unbeschränkte Fahrt im öffentlichen Verkehr. Siehe SBB Website: [Kinder-Tageskarte](https://www.sbb.ch/de/angebote/kinder-tageskarte).
 
 ## Tarifliche Besonderheiten
 
@@ -981,6 +993,12 @@ Die Pilatusbahn ist kein Mitglied von FIP, bietet jedoch aktuell trotzdem bei Vo
 
 Dieses Sonderangebot kann jederzeit von der Pilatusbahn widerrufen werden.
 
+### Brienz-Rothorn-Bahn
+
+Die Brienz-Rothorn-Bahn ist kein Mitglied von FIP, bietet jedoch aktuell trotzdem bei Vorlage des FIP-Ausweises 50% Rabatt auf Tickets beim Kauf an einem Schalter der Brienz-Rothorn-Bahn. [^3]
+
+Dieses Sonderangebot kann jederzeit von der Brienz-Rothorn-Bahn widerrufen werden.
+
 ## Empfehlungen
 
 {{% highlight tip %}}
@@ -994,3 +1012,7 @@ Bei Fahrt mit einem Freifahrtschein ist es empfehlenswert, falls möglich auch d
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [Feedback RBS](https://discord.com/channels/1250522473188032512/1477450999454236892)
+
+[^3]: [Brienz-Rothorn-Bahn](https://brienz-rothorn-bahn.ch/fragen-und-antworten)
+
+[^4]: [SBB – Fahrkarten und Abonnemente für Kinder und Jugendliche](https://www.sbb.ch/en/travel-information/individual-needs/travelling-with-children/tickets-travelcards.html)

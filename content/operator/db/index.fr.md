@@ -1,5 +1,4 @@
 ---
-draft: false
 title: DB
 country:
   - germany
@@ -47,13 +46,8 @@ L’`ICE` est un train à grande vitesse et la catégorie la plus élevée de la
 #### Réservations
 
 Réservation obligatoire pour les trajets transfrontaliers vers la France.
-Obligation de réservation temporaire pour les trajets transfrontaliers:
 
-- vers/depuis le Danemark: 26.06 – 16.08.2026
-- vers/depuis la Belgique: 26.06 – 16.08.2026
-- vers/depuis les Pays-Bas: 26.06 – 31.08.2026
-
-Par le passé, une obligation de réservation existait en été pour les trajets transfrontaliers vers l’Autriche. Cela peut changer chaque année. L’obligation de réservation est indiquée dans la [recherche d’itinéraire de la DB](https://www.bahn.de).
+Par le passé, une obligation de réservation existait en été pour les trajets transfrontaliers vers l’Autriche, la Belgique et les Pays-Bas. Cela peut changer chaque année. L’obligation de réservation est indiquée dans la [recherche d’itinéraire de la DB](https://www.bahn.de).
 
 {{% /train-category %}}
 
@@ -328,7 +322,13 @@ Les billets FIP 50 ne peuvent pas être achetés à bord.
 
 ## Réductions
 
-Pour les tarifs publics, les enfants jusqu’à 6 ans voyagent gratuitement, les enfants de 6 à 14 ans bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 14 ans, le tarif adulte s’applique.
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                |
+| ---------------------------------------- | ---------------------------------------- |
+| {{< icon "child_care" >}} 0–5 ans        | Gratuit                                  |
+| {{< icon "child_care" >}} 6–14 ans       | Réduction de 50 %, si voyageant seul[^3] |
+| {{< icon "person" >}} à partir de 15 ans | Tarif normal[^3]                         |
 
 ### Enfants voyageant gratuitement
 
@@ -434,3 +434,5 @@ La Deutsche Bahn exploite une multitude de liaisons très variées. Par exemple,
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782273-germany.html)
 
 [^2]: [DB Mobidig : Où ma réduction de voyage est-elle valable](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)
+
+[^3]: [DB – Votre voyage avec des enfants](https://www.bahn.de/service/individuelle-reise/kinder)

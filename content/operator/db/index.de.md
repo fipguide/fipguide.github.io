@@ -1,5 +1,4 @@
 ---
-draft: false
 title: DB
 country:
   - germany
@@ -47,13 +46,8 @@ Der `ICE` ist ein Hochgeschwindigkeitszug und die höchste Zugkategorie der DB. 
 #### Reservierungen
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
-Temporäre Reservierungspflicht bei grenzüberschreitenden Fahrten:
 
-- von/nach Dänemark: 26.06. – 16.08.2026
-- von/nach Belgien: 26.06. – 16.08.2026
-- von/nach Niederlande: 26.06. – 31.08.2026
-
-Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
+Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich, Belgien und in die Niederlande gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
 
 {{% /train-category %}}
 
@@ -328,7 +322,13 @@ FIP 50 Fahrkarten können nicht im Zug erworben werden.
 
 ## Ermäßigungen
 
-Bei öffentlichen Fahrpreisen reisen Kinder bis 6 Jahre kostenlos, Kinder zwischen 6 und 14 Jahren erhalten eine Ermäßigung von 50 % auf den Erwachsenenpreis. Ab 14 Jahren gilt der reguläre Erwachsenenfahrpreis.
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                             |
+| ------------------------------------ | -------------------------------------- |
+| {{< icon "child_care" >}} 0–5 Jahre  | Kostenlos                              |
+| {{< icon "child_care" >}} 6–14 Jahre | 50% Ermäßigung, wenn alleinreisend[^3] |
+| {{< icon "person" >}} ab 15 Jahre    | Regulärer Preis[^3]                    |
 
 ### Kostenlos mitreisende Kinder
 
@@ -345,7 +345,7 @@ Kostenlos mitreisende Kinder müssen im Gegensatz zu öffentlichen Tarifen expli
 
 Kinder, die nicht von einer über 15 Jahre alten Person mit Reiseberechtigung begleitet werden, müssen ein eigenes Ticket kaufen.
 
-Kinder unter 6 Jahren reisen immer kostenlos und benötigen kein eigenes Ticket.
+Kinder bis einschließlich 5 Jahre reisen immer kostenlos und benötigen kein eigenes Ticket.[^1]
 
 ## Tarifliche Besonderheiten
 
@@ -450,3 +450,5 @@ Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedl
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782273-germany.html)
 
 [^2]: [DB Mobidig: Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)
+
+[^3]: [DB – Ihre Reise mit Kind und Bahn](https://www.bahn.de/service/individuelle-reise/kinder)

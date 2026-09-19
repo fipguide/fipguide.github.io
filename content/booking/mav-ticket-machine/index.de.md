@@ -1,5 +1,4 @@
 ---
-draft: false
 title: MÁV Fahrkartenautomat
 description: Buchungsinformationen für die MÁV Fahrkartenautomaten.
 params:

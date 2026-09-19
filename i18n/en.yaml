@@ -13,8 +13,15 @@ booking:
   not-bookable: not bookable
   reservation: Reservation
   reservation-costs: Reservation Costs
+  send-mail: Send email
   visit-additional-information-website: Additional Information
   visit-booking-website: To Booking Website
+childrenDiscount: >-
+  The FIP Discount generally applies to adult fares and not to children's fares.
+  For this reason, it should be checked whether public fares are cheaper. The
+  discounts in the following table therefore only apply to public fares and are
+  not additionally applicable to FIP. More information in the
+  [FAQs](/general/faq/#children-travel).
 contact:
   accessibility:
     label: 'Website Feedback: Accessibility'
@@ -148,6 +155,10 @@ fipValidity:
 footer-love:
   aria-label: Made with love in Europe
   text: Made with ♥️ in Europe
+gallery:
+  aria-label: Image gallery
+  next: Next Image
+  previous: Previous Image
 highlight:
   confusion: Risk of Confusion
   important: Important Information

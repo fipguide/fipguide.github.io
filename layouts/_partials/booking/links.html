@@ -15,5 +15,6 @@
       )
     -}}
   {{- end -}}
+  {{- partial "booking/email-links" (dict "params" .page.Params "metaFields" .metaFields) -}}
   {{- partial "anchorlink-button" .id -}}
 </div>

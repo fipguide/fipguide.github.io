@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Site Web CFF
 description: Informations sur la réservation de Billets FIP via le site web et
   l'application des CFF.

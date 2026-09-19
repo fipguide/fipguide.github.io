@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SNCF Voyageurs
 country:
   - france
@@ -209,7 +208,7 @@ In the Geneva area, cross-border regional trains operate under the name Léman E
 
 In the SNCF timetable information, Léman Express connections are displayed as `LEX` + line number (L1, L2, etc.). In the SBB timetable information, the trains are sometimes displayed as `RL`, and occasionally as `TER`.
 
-Within France and Switzerland, FIP discounts apply as usual. FIP discounts do not apply to cross-border journeys; instead, regular fare tickets must be purchased. [^6]
+Within France and Switzerland, FIP discounts apply as usual. FIP discounts do not apply to cross-border journeys; instead, regular fare tickets must be purchased. [^7]
 
 {{% /train-category %}}
 
@@ -296,7 +295,24 @@ FIP tickets cannot be purchased on board.
 
 ## Discounts
 
-With regular tickets, children up to and including 4 years travel free. Children up to and including 12 years receive a 50% discount on the adult fare. From 12 years, the full adult fare applies.
+{{< children-discount >}}
+
+| Age                                | Discount           |
+| ---------------------------------- | ------------------ |
+| {{< icon "stroller" >}} 0–3 years  | Free of charge[^6] |
+| {{< icon "person" >}} from 4 years | Regular price      |
+
+### Forfait Bambin
+
+Children under 4 travel free of charge on an adult's lap, without a booked seat, on `TGV` inOui, `TER` and Intercités trains; this must be mentioned when booking, and only one child per passenger is permitted. If a separate seat is preferred, the _Forfait Bambin_ is available at a fixed price of €9. On OUIGO, children under 4 also travel free of charge on an adult's lap; a child's own seat is available for €8 on OUIGO Grande Vitesse and €5 on OUIGO Vitesse Classique. In all cases, the child's age must be proven with a form of ID.[^6]
+
+### Avantage Adulte Card
+
+The _Avantage Adulte_ card offers a 60% discount for accompanying children aged 4 to 11.[^6]
+
+### Familles Nombreuses Card
+
+Large families with 3 or more children can request the _Familles Nombreuses_ card. [More information](https://www.sncf-connect.com/en-en/help/offer-children-and-families#ancre-11001)[^6]
 
 ## Special Tariff Conditions
 
@@ -490,4 +506,6 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 
 [^5]: [FIP Guide Community: ICE Frankfurt–Bordeaux](https://discord.com/channels/1250522473188032512/1482738819982950462)
 
-[^6]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
+[^6]: [SNCF Connect – Children and Family Offers](https://www.sncf-connect.com/en-en/help/offer-children-and-families#ancre-11001)
+
+[^7]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)

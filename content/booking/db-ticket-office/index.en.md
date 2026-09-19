@@ -1,5 +1,4 @@
 ---
-draft: false
 title: DB Ticket Office
 description: Booking information for Deutsche Bahn ticket offices.
 params:

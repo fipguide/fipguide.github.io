@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SNCF Voyageurs
 country:
   - france
@@ -211,7 +210,7 @@ Dans la région genevoise, les trains régionaux transfrontaliers circulent sous
 
 Sur le site de la SNCF, les correspondances Léman Express sont indiquées par `LEX` suivi du numéro de ligne (L1, L2, etc.). Sur le site des CFF, les trains sont parfois indiqués par `RL`, et occasionnellement par `TER`.
 
-En France et en Suisse, les réductions FIP s'appliquent comme d'habitude. Les réductions FIP ne s'appliquent pas aux trajets transfrontaliers ; il est alors nécessaire d'acheter des billets au tarif normal. [^6]
+En France et en Suisse, les réductions FIP s'appliquent comme d'habitude. Les réductions FIP ne s'appliquent pas aux trajets transfrontaliers ; il est alors nécessaire d'acheter des billets au tarif normal. [^7]
 
 {{% /train-category %}}
 
@@ -298,7 +297,24 @@ Les Billets FIP ne peuvent pas être achetés à bord.
 
 ## Réductions
 
-Avec les billets classiques, les enfants jusqu’à 4 ans inclus voyagent gratuitement. Les enfants jusqu’à 12 ans inclus bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 12 ans, le tarif adulte s’applique.
+{{< children-discount >}}
+
+| Âge                                     | Réduction    |
+| --------------------------------------- | ------------ |
+| {{< icon "stroller" >}} 0–3 ans         | Gratuit[^6]  |
+| {{< icon "person" >}} à partir de 4 ans | Tarif normal |
+
+### Forfait Bambin
+
+Les enfants de moins de 4 ans voyagent gratuitement sur les genoux d’un adulte, sans siège réservé, dans les trains `TGV` inOui, `TER` et Intercités ; cela doit être mentionné lors de la réservation, et seul un enfant par voyageur est autorisé. Si un siège individuel est souhaité pour plus de confort, le _Forfait Bambin_ est disponible au tarif fixe de 9 €. Sur OUIGO, les enfants de moins de 4 ans voyagent également gratuitement sur les genoux d’un adulte ; un siège individuel est disponible au tarif unique de 8 € sur OUIGO Grande Vitesse et 5 € sur OUIGO Vitesse Classique. Dans tous les cas, l’âge de l’enfant doit pouvoir être justifié par une pièce d’identité.[^6]
+
+### Carte Avantage Adulte
+
+La carte _Avantage Adulte_ offre une réduction de 60 % pour les enfants accompagnants âgés de 4 à 11 ans.[^6]
+
+### Carte Familles Nombreuses
+
+Les familles nombreuses avec 3 enfants ou plus peuvent demander la carte _Familles Nombreuses_. [Plus d’informations](https://www.sncf-connect.com/en-en/help/offer-children-and-families#ancre-11001)[^6]
 
 ## Conditions tarifaires spéciales
 
@@ -491,4 +507,6 @@ La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent ac
 
 [^5]: [Communauté FIP Guide : ICE Francfort–Bordeaux](https://discord.com/channels/1250522473188032512/1482738819982950462)
 
-[^6]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
+[^6]: [SNCF Connect – Offres enfants et familles](https://www.sncf-connect.com/en-en/help/offer-children-and-families#ancre-11001)
+
+[^7]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Śląskie Fahrkartenautomat
 description: Buchungsinformationen für die Koleje Śląskie Fahrkartenautomaten.
 params:

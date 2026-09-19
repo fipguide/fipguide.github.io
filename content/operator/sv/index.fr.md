@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SV
 country:
   - serbia
@@ -162,7 +161,31 @@ Actuellement, un bus navette entre Novi Sad et Petrovaradin peut toutefois être
 
 ## Réductions
 
-Dans le trafic intérieur ainsi que dans le trafic grandes lignes vers le Monténégro, les enfants jusqu’à six ans inclus voyagent gratuitement, à condition qu’ils n’aient pas besoin de leur propre place assise et qu’ils soient accompagnés d’un adulte muni d’un billet valable. Les enfants entre six et 14 ans ainsi que les enfants plus jeunes pour lesquels une place assise propre est nécessaire bénéficient d’une réduction de 50 % sur le tarif adulte régulier.[^7]
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                                                               |
+| ---------------------------------------- | --------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–5 ans        | Gratuit (sans place assise propre, accompagné d’un adulte muni d’un billet valable)[^7] |
+| {{< icon "child_care" >}} 6–14 ans       | 50 % de réduction[^7]                                                                   |
+| {{< icon "person" >}} à partir de 15 ans | Tarif normal[^7]                                                                        |
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass peut être intéressant sur le plan tarifaire. Il permet des trajets illimités sur les réseaux ferroviaires de :
+
+- Bosnie-Herzégovine (ZFBH),
+- Bulgarie (BDZ),
+- Macédoine du Nord (MŽ-Transport),
+- Grèce (HT & Attica),
+- Monténégro (ŽPCG),
+- Roumanie (CFR Calatori & Regiotrans),
+- Serbie (SV),
+- Slovaquie (ZSSK / ŽSR),
+- Turquie (TCDD).
+
+[Plus d’informations sur le site web de ŽPCG](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 

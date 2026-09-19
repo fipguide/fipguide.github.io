@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ŁKA Ticketschalter
 description: Buchungsinformationen für die Łódzka Kolej Aglomeracyjna Ticketschalter.
 params:

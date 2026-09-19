@@ -1,6 +1,5 @@
 ---
 date: 2026-04-09
-draft: false
 title: "Belgium: SNCB Ends On-Board Ticket Sales from 1 July 2026"
 description: Starting 1 July 2026, SNCB will no longer sell any tickets on board
   their trains. This also affects the purchase of FIP discounted tickets.

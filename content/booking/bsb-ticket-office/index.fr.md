@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet BSB
 description: Informations de réservation pour les guichets BSB.
 params:

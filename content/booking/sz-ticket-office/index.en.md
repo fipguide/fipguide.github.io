@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SŽ Ticket Office
 description: Booking information for SŽ ticket offices.
 params:

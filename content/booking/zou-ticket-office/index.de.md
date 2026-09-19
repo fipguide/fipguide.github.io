@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ZOU! Ticketschalter
 description: Buchungsinformationen für die ZOU ! Ticketschalter.
 params:

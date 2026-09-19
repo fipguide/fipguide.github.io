@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Bulgarie
 country: bulgaria
 params:

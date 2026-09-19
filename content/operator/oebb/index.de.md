@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ÖBB
 country:
   - austria
@@ -289,7 +288,15 @@ Ein Verkauf von Tickets im Zug ist möglich, wenn der Zugbegleiter sofort aufges
 
 ## Ermäßigungen
 
-Kinder unter 6 werden kostenfrei mitgenommen, ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung          |
+| ------------------------------------ | ------------------- |
+| {{< icon "stroller" >}} 0–5 Jahre    | Kostenlos[^2]       |
+| {{< icon "child_care" >}} 6–14 Jahre | 50% Ermäßigung[^2]  |
+| {{< icon "person" >}} ab 15 Jahre    | Regulärer Preis[^2] |
+
+Ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
 
 {{% highlight tip %}}
 Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 21 €. \
@@ -327,7 +334,7 @@ FIP-Fahrscheine werden jedoch auf den von der ÖBB betriebenen Nahverkehrszügen
 Die Fahrkartenschalter für ÖBB und `CAT` befinden sich im Terminal 3.
 
 {{% highlight tip %}}
-Wer mit regulären Wiener Öffi-Tickets (z. B. Einzelfahrten, 24-Stunden-Tickets oder 7-Tages-Tickets über die WienMobil-App) mit der S-Bahn fährt, kann diese nur bis zur Stadtgrenze Schwechat nutzen. Für den Abschnitt zwischen Schwechat und Flughafen Wien ist ein zusätzliches Ticket am Schalter oder Automaten erforderlich. WienMobil-App-Tickets zum Normaltarif sind für Fahrten mit dem `CAT` oder den Vienna Airport Lines VAL Bussen nur mit dem CAT- bzw. VAL-Zusatzticket in der App gültig.
+Wer mit regulären Wiener Öffi-Tickets (z. B. Einzelfahrten, 24-Stunden-Tickets oder 7-Tages-Tickets über die WienMobil-App) mit der S-Bahn fährt, kann diese nur bis zur Stadtgrenze Schwechat nutzen. Für den Abschnitt zwischen Schwechat und Flughafen Wien ist ein zusätzliches Ticket am Schalter oder Automaten erforderlich. WienMobil-App-Tickets zum Normaltarif sind für Fahrten mit dem `CAT` oder dem Vienna Airport Bus (VAB) nur mit dem CAT- bzw. VAB-Zusatzticket in der App gültig.
 {{% /highlight %}}
 
 ### Motorail
@@ -371,3 +378,5 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
+
+[^2]: [ÖBB – Unterwegs mit Kindern](https://www.oebb.at/de/reiseplanung-services/vor-ihrer-reise/mit-kindern-unterwegs)

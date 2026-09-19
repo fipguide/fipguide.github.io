@@ -1,0 +1,5 @@
+{{- $map := dict -}}
+{{- range $g := index . "groups" -}}
+  {{- $map = merge $map (dict $g.name $g) -}}
+{{- end -}}
+{{- return $map -}}

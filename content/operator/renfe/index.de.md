@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Renfe
 country:
   - spain
@@ -13,7 +12,7 @@ Renfe Operadora ist das staatliche Eisenbahnunternehmen in [Spanien](/country/sp
 
 ## Zusammenfassung
 
-- FIP Freifahrtscheine werden in Pendlerzügen (hauptsächlich S-Bahnen) akzeptiert, jedoch nicht in reservierungspflichtigen Zügen.
+- FIP Freifahrtscheine werden in Pendlerzügen (hauptsächlich S-Bahnen) akzeptiert, nicht jedoch in reservierungspflichtigen Zügen.
 - Für reservierungspflichtige Züge können Tickets zum FIP Globalpreis (Distanzunabhängig) inkl. Reservierung erworden werden, FIP Freifahrtscheine werden nicht benötigt.
 - In Avlo-Zügen wird FIP nicht akzeptiert.
 - Für die grenzüberschreitenden AVE zwischen Madrid und Marseille sowie Lyon und Barcelona gibt es abweichende FIP-Globalpreise für den internationalen Streckenabschnitt.
@@ -43,7 +42,7 @@ Nur S-Bahnen sind mit FIP Freifahrtscheinen uneingeschränkt nutzbar. In anderen
     reservation_possible=true
 %}}
 
-Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtscheine werden nicht anerkannt.
+Langstreckenverbindungen mit normalspurigen und umspurbaren Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtscheine werden nicht anerkannt.
 
 Die internationalen AVE von / nach Frankreich haben je nach Streckenabschnitt unterschiedliche FIP Globalpreise. Die Buchung von internationalen Verbindungen ist ausschließlich über Renfe direkt möglich, weshalb Tickets bei Einstieg in Spanien an einem Ticketschalter in Spanien erworben werden müssen. Bei Zustieg in Frankreich können FIP Tickets im Zug erworben werden, Kartenzahlung ist möglich. [^3]
 
@@ -191,7 +190,7 @@ Es besteht Reservierungspflicht, außer auf der Route Barcelona(-Girona-Figueres
 
 Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtscheine sind hier uneingeschränkt gültig.
 
-In Barcelona sind die Cercanías (auch zum Flughafen) nur über Zugangsschranken erreichbar. Vor Ort muss das Personal angesprochen werden, um durch die Zugangsschranken zu gelangen.
+Teilweise sind die Cercanías nur über Zugangsschranken erreichbar. Vor Ort muss das Personal angesprochen werden, um durch die Zugangsschranken zu gelangen. Bei fehlender Besetzung durch Personal nachts ist eine Zugangsschranke offen oder es sind Sprechsäulen vorhanden.
 
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
@@ -247,7 +246,17 @@ Tickets für internationale `AVE` Züge können bei Zustieg in Frankreich im Zug
 
 ## Ermäßigungen
 
-Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter 12 Jahren gilt eine Ermäßigung von 40 %. Ab 12 Jahren wird der volle Preis berechnet.
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                             |
+| ------------------------------------ | -------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos (ohne eigenen Sitzplatz)[^6] |
+| {{< icon "child_care" >}} 4–13 Jahre | 40 % Ermäßigung[^6]                    |
+| {{< icon "person" >}} ab 14 Jahre    | Regulärer Preis[^6]                    |
+
+### Begleitung von Kindern
+
+In `AVE` (Hochgeschwindigkeit), internationalen `AVE`-Zügen zwischen Spanien und Frankreich, Larga Distancia (Fernverkehr) und `Avant` (Mittelstrecken-Hochgeschwindigkeit) müssen Kinder unter 14 Jahren von einem Erwachsenen begleitet werden oder den Service für unbegleitete Minderjährige nutzen, sofern dieser im jeweiligen Zug angeboten wird.[^6]
 
 ## Tarifliche Besonderheiten
 
@@ -280,3 +289,5 @@ Die Renfe ist in vielen Fällen mehr mit einer Fluggesellschaft als mit anderen 
 [^3]: [Nutzerfeedback: Ticketkauf im Zug](https://github.com/fipguide/fipguide.github.io/issues/449)
 
 [^5]: [Renfe FIP-Preise (PKP, April 2026)](https://pkp.pl/images/fip/2026/Renfe%20dopaty%2001.04.2026.pdf)
+
+[^6]: [Renfe – Kinder](https://www.renfe.com/es/en/travel/prepare-your-trip/descuentos/ninos)

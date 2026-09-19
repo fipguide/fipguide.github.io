@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet SNCB
 description: Informations de réservation aux guichets de la SNCB.
 params:

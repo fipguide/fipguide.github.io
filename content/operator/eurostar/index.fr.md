@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Eurostar
 country:
   - belgium
@@ -114,13 +113,6 @@ La carte FIP doit être présentée lors de l'embarquement.
 
 Mais la gestion du billet (annulation, échange, rebooking) est possible via le site Eurostar, plus d’informations sous [Modifications & Annulations](#modifications--annulations). Si vous indiquez un e-mail lié à un compte Eurostar existant, le billet s’affichera automatiquement dans votre espace personnel.
 
-{{% booking id="traivelling-website"
-    fip_50=nil
-    fip_75=nil
-    fip_global_fare=true
-    reservations=nil
-/%}}
-
 {{% booking id="railtourguide-website"
     fip_50=nil
     fip_75=nil
@@ -194,9 +186,15 @@ Impossible d’acheter un billet à bord. Achat préalable obligatoire.
 
 ## Réductions
 
-Les enfants de moins de 4 ans voyagent gratuitement sans billet mais doivent être assis sur les genoux d’un adulte. Un billet séparé peut être acheté si une place séparée est souhaitée. Les enfants dès 4 ans paient le tarif adulte FIP complet.[^1]
+{{< children-discount >}}
 
-Il n’y a pas d’autre réduction FIP pour les enfants, cependant les tarifs publics offrent une réduction de 30 à 50 %, ce qui rend une comparaison judicieuse.[^2]
+| Âge                                      | Réduction                                                          |
+| ---------------------------------------- | ------------------------------------------------------------------ |
+| {{< icon "stroller" >}} 0–4 ans          | Gratuit (sans place assise propre, sur les genoux d’un adulte)[^1] |
+| {{< icon "child_care" >}} 4–11 ans       | Réduction de 30 à 50 %[^2]                                         |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal[^2]                                                   |
+
+### Accompagnement Des Mineurs
 
 Les enfants de moins de 12 ans doivent être accompagnés par un adulte. Les enfants de 12 à 15 ans peuvent voyager avec une personne responsable de 16 ans ou plus, ou comme mineur non accompagné muni des documents requis.[^2]
 
@@ -218,12 +216,7 @@ La modification, l’annulation et le passage à une classe supérieure sont pos
 Les Billets FIP sont soumis à quota. Il est conseillé de réserver tôt.
 {{% /highlight %}}
 
-La vérification des contingents de billets disponibles est possible via les sites suivants :
-
-- [Site Interrail](https://www.interrail.eu/fr/book-reservations) \
-   Uniquement pour vérifier les contingents de réservation. Les réservations achetées ne sont valables qu’avec un billet Interrail !
-- [Traivelling](https://traivelling.com/home) \
-   Plus d'informations dans la [section de réservation correspondante](#traivelling-website).
+La disponibilité des quotas de billets peut être vérifiée via le [site Interrail](https://www.interrail.eu/fr/book-reservations). Il ne peut être utilisé que pour vérifier les quotas de réservation. Les réservations achetées ne sont valables qu’avec un billet Interrail.
 
 ### Correspondances
 

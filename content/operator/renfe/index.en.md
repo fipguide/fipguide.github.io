@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Renfe
 country:
   - spain
@@ -43,7 +42,7 @@ Only commuter trains can be used without restrictions with FIP Coupons. For othe
     reservation_possible=true
 %}}
 
-Long-distance connections with high-speed trains (up to 300 km/h). FIP Coupons are not accepted.
+Long-distance connections with standard-gauge and variable-gauge high-speed trains (up to 300 km/h). FIP Coupons are not accepted.
 
 International connections from / to France have different FIP Global Fares depending on the route section. Booking is only possible directly via Renfe, which is why tickets must be purchased at a ticket counter in Spain when boarding in Spain. FIP tickets can be purchased on the train when boarding in France; card payment is accepted. [^3]
 
@@ -191,7 +190,7 @@ Reservations are required, except on the Barcelona(-Girona-Figueres)-Port Bou ro
 
 Commuter trains, comparable to suburban trains. FIP Coupons are valid without restrictions.
 
-In Barcelona, Cercanías services (including to the airport) are only accessible through ticket gates. On site, staff must be approached in order to pass through the ticket gates.
+In some cases, the Cercanías can only be accessed via access gates. On site, staff must be approached to pass through the access gates. If no staff is present at night, an access gate is left open or intercom columns are available.
 
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
@@ -247,7 +246,17 @@ Tickets for international `AVE` trains can be purchased on board when boarding i
 
 ## Discounts
 
-Children under 4 years travel free of charge without their own seat. For children under 12 years, a 40% discount applies. From 12 years onwards, the full fare is charged.
+{{< children-discount >}}
+
+| Age                                  | Discount                    |
+| ------------------------------------ | --------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free (without own seat)[^6] |
+| {{< icon "child_care" >}} 4–13 years | 40% discount[^6]            |
+| {{< icon "person" >}} from 14 years  | Regular price[^6]           |
+
+### Accompaniment of Minors
+
+On `AVE` (high-speed), international `AVE` between Spain and France, Larga Distancia (Long Distance) and `Avant` (mid-distance high-speed) trains, children under 14 must be accompanied by an adult or must use the unaccompanied minors service on trains that provide this option.[^6]
 
 ## Special Tariff Conditions
 
@@ -280,3 +289,5 @@ Renfe can often be compared more to an airline than to other railway companies. 
 [^3]: [User feedback: ticket purchase on the train](https://github.com/fipguide/fipguide.github.io/issues/449)
 
 [^5]: [Renfe FIP prices (PKP, April 2026)](https://pkp.pl/images/fip/2026/Renfe%20dopaty%2001.04.2026.pdf)
+
+[^6]: [Renfe – Children](https://www.renfe.com/es/en/travel/prepare-your-trip/descuentos/ninos)

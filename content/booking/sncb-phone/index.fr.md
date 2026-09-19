@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Téléphone SNCB
 description: Informations de réservation pour la hotline SNCB.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Hellenic Train Website / App
 description: Booking information for the Hellenic Train website and app.
 params:

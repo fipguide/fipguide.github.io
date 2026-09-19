@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ÖBB
 country:
   - austria
@@ -299,7 +298,15 @@ Tickets can be purchased on board if you immediately contact the conductor. Howe
 
 ## Discounts
 
-Children under 6 travel free of charge. From the age of 6, when traveling with a FIP Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
+{{< children-discount >}}
+
+| Age                                  | Discount           |
+| ------------------------------------ | ------------------ |
+| {{< icon "stroller" >}} 0–5 years    | Free of charge[^2] |
+| {{< icon "child_care" >}} 6–14 years | 50% discount[^2]   |
+| {{< icon "person" >}} from 15 years  | Regular price[^2]  |
+
+From the age of 6, when traveling with a FIP Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
 
 {{% highlight tip %}}
 With children, the ÖBB Vorteilscard Family for € 21 is quickly worthwhile. \
@@ -337,7 +344,7 @@ FIP Coupons are accepted on ÖBB-operated local trains of S-Bahn line S7.
 Ticket counters for ÖBB and `CAT` are located in Terminal 3.
 
 {{% highlight tip %}}
-If you travel with regular Vienna public transport tickets (e.g., Single journeys, 24-hour tickets or 7-day tickets via the WienMobil app) on the S-Bahn, these are only valid up to the city boundary at Schwechat. For the section between Schwechat and Vienna Airport, an additional ticket must be purchased at the counter or machine. WienMobil app tickets at the standard fare are only valid on the `CAT` or Vienna Airport Lines VAL buses with the CAT or VAL add-on ticket in the app.
+If you travel with regular Vienna public transport tickets (e.g., Single journeys, 24-hour tickets or 7-day tickets via the WienMobil app) on the S-Bahn, these are only valid up to the city boundary at Schwechat. For the section between Schwechat and Vienna Airport, an additional ticket must be purchased at the counter or machine. WienMobil app tickets at the standard fare are only valid on the `CAT` or Vienna Airport Bus (VAB) with the CAT or VAB add-on ticket in the app.
 {{% /highlight %}}
 
 ### Motorail
@@ -369,3 +376,5 @@ On rail replacement buses, FIP discounts apply when they replace a train on whic
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
+
+[^2]: [ÖBB – Travelling with children](https://www.oebb.at/en/reiseplanung-services/vor-ihrer-reise/mit-kindern-unterwegs)

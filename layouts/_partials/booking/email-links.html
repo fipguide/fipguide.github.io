@@ -1,0 +1,14 @@
+{{- $params := .params -}}
+{{- $emailTemplates := $params.email_templates -}}
+{{- $emailButtons := slice -}}
+{{- range .metaFields -}}
+  {{- $template := and $emailTemplates (index $emailTemplates .key) -}}
+  {{- $showEmailButton := and (eq $params.type "email") (eq .value true) $template $template.to $template.subject $template.body -}}
+  {{- if $showEmailButton -}}
+    {{- partial "button" (dict
+      "Destination" (printf "mailto:%s?subject=%s&body=%s" $template.to (replace ($template.subject | urlquery) "+" "%20") (replace ($template.body | urlquery) "+" "%20"))
+      "Text" (printf "%s (%s)" (T "booking.send-mail") (T .label))
+      )
+    -}}
+  {{- end -}}
+{{- end -}}

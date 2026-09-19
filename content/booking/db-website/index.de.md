@@ -1,5 +1,4 @@
 ---
-draft: false
 title: DB Website
 description: Buchungsinformationen für die Deutsche Bahn Website.
 params:

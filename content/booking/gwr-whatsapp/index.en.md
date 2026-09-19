@@ -1,5 +1,4 @@
 ---
-draft: false
 title: GWR WhatsApp
 description: Booking information for GWR WhatsApp customer service.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Entur Chat
 description: Informations de réservation pour le chat Entur.
 params:

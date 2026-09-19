@@ -1,5 +1,4 @@
 ---
-draft: false
 title: DSB
 country:
   - denmark
@@ -10,7 +9,7 @@ aliases:
   - /booking/dsb-website
 ---
 
-La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du [Danemark](/country/denmark "Danemark"). Elle exploite la majorité du trafic voyageurs sur le réseau ferroviaire danois.
+La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du [Danemark](/country/denmark "Danemark"). Elle exploite la majorité du trafic voyageurs sur le réseau ferroviaire danois. Sous le nom d'exploitation « DSB Vores Tog », elle exploite également des services ferroviaires dans le Jutland central et occidental et sur l'île de Fionie depuis le 1er septembre 2026. [^4]
 
 ## Résumé
 
@@ -102,6 +101,8 @@ Une réservation est recommandée pour les trajets transfrontaliers et général
 
 Trains régionaux desservant toutes les gares hors du réseau S-tog de Copenhague.
 
+À compter du 1er septembre 2026, les itinéraires de DSB Vores Tog (anciennement GoCollective) dans le Jutland central et occidental et sur l'île de Fionie peuvent également être utilisés. [^4]
+
 {{< highlight confusion >}}
 D’autres opérateurs utilisent aussi la catégorie `R` — vérifiez toujours que le train est bien exploité par DSB. \
 Les trains marqués `RA` ne sont pas exploités par DSB et ne sont donc pas inclus dans FIP. \
@@ -165,8 +166,13 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
 
 ## Réductions
 
-Les enfants de moins de 5 ans voyagent gratuitement. \
-Les enfants de moins de 16 ans bénéficient d’une réduction de 50 % sur le tarif adulte.[^1]
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                                                     |
+| ---------------------------------------- | ----------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–11 ans       | Gratuit pour deux enfants accompagnés par un adulte avec un billet valide[^3] |
+| {{< icon "child_hat" >}} 12–15 ans       | Réduction de 50 %[^3]                                                         |
+| {{< icon "person" >}} à partir de 16 ans | Tarif normal[^3]                                                              |
 
 ## Conditions tarifaires spéciales
 
@@ -203,3 +209,7 @@ La DSB offre un service fiable et confortable. La 1ʳᵉ classe est particulièr
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782261-denmark.html)
 
 [^2]: [DSB 1’](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)
+
+[^3]: [DSB – Explore Denmark by Train](https://www.dsb.dk/en/explore-denmark-by-train/)
+
+[^4]: [DSB Vores Tog](https://www.dsb.dk/om-dsb/baredygtighed/virksomheden/vorestog/)

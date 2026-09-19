@@ -1,5 +1,4 @@
 ---
-draft: false
 title: NIR
 country:
   - united-kingdom
@@ -24,6 +23,21 @@ Northern Ireland Railways (NIR) is the state railway company in Northern Ireland
 ## Train Categories and Reservations
 
 {{% train-category
+    id="enterprise"
+    title="Intercity (Enterprise)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+
+NIR operates the Enterprise Service between Dublin and Belfast together with [CIE](/operator/cie).
+
+_Enterprise Plus_ passengers are escorted to an available seat on board the train. Travel in _Enterprise Plus_ is only permitted when a seat is available.
+
+{{% /train-category %}}
+
+{{% train-category
     id="regional-trains"
     title="Regional Trains"
     type="regional"
@@ -34,19 +48,6 @@ Northern Ireland Railways (NIR) is the state railway company in Northern Ireland
 %}}
 
 NIR operates various regional train services from Belfast. Regional trains cannot be reserved and can be used with FIP.
-
-{{% /train-category %}}
-
-{{% train-category
-    id="enterprise"
-    title="Intercity (Enterprise)"
-    type="highspeed"
-    fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
-%}}
-
-NIR operates the Enterprise Service between Dublin and Belfast together with [CIE](/operator/cie).
 
 {{% /train-category %}}
 
@@ -66,10 +67,6 @@ FIP 50 / FIP 75 Tickets cannot be purchased online.
     subtitle="Reservations (2nd class) for the Enterprise Service (Dublin – Belfast)."
 /%}}
 
-{{% booking id="translink-whatsapp"
-    subtitle="Reservations (1st class) for the Enterprise Service (Dublin – Belfast)."
-/%}}
-
 ### On-Site
 
 {{% booking id="translink-ticket-office" /%}}
@@ -84,7 +81,21 @@ FIP 50 / FIP 75 Tickets must be purchased before boarding. On the Enterprise Ser
 
 ## Discounts
 
-Children up to 5 years of age travel free of charge. Young people up to 16 years of age receive a 50% discount on the adult fare. Persons aged 16 and over pay the full FIP adult fare.[^1]
+{{< children-discount >}}
+
+| Age                                  | Discount           |
+| ------------------------------------ | ------------------ |
+| {{< icon "stroller" >}} 0–4 years    | Free of charge[^1] |
+| {{< icon "child_care" >}} 5–15 years | 50% discount[^1]   |
+| {{< icon "person" >}} from 16 years  | Regular price[^1]  |
+
+### Family & Friends Ticket
+
+Translink offers a Family & Friends ticket for £24, valid for unlimited day travel on all Translink services within Northern Ireland, or for £10 for the Metro and Glider Family Day Ticket. The ticket is valid for up to 2 adults and 4 children (minimum 1 adult and 1 child). Additional children under 16 are charged £4.00. Tickets are available from the driver on the day of travel, from main bus and train stations, or from ticket vending machines at halts.[^2]
+
+### yLink
+
+yLink is a smartcard for 16 to 23 year olds using Translink services within Northern Ireland. The first card is free and gives 50% off standard adult full fares on NIR singles, as well as up to 50% off Enterprise singles. No further discount is available on Translink promotional fares.[^3]
 
 ## Special Tariff Conditions
 
@@ -92,6 +103,16 @@ Children up to 5 years of age travel free of charge. Young people up to 16 years
 
 Break of journey is only permitted in order to catch connecting trains.[^1]
 
+## Recommendations
+
+{{% highlight tip %}}
+On its relatively small network, NIR offers a reliable regular service using somewhat ageing trains. Around Belfast in particular, it provides a suburban service similar to an S-Bahn. The roughly hourly service between Belfast and Derry-Londonderry is especially scenic on the section between Coleraine and Derry-Londonderry, which runs directly along the northern coast.
+{{% /highlight %}}
+
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782285-northern-ireland.html)
+
+[^2]: [Translink – Family & Friends Tickets](https://www.translink.co.uk/tickets/offers/family-friends-tickets)
+
+[^3]: [Translink – yLink](https://www.translink.co.uk/tickets/travelcards/ylink)

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet Koleje Śląskie
 description: Informations de réservation pour le guichet Koleje Śląskie.
 params:

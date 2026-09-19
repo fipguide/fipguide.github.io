@@ -1,5 +1,4 @@
 ---
-draft: false
 title: NS Telefon
 description: Buchungsinformationen für die NS Hotline.
 params:

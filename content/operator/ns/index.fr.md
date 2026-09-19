@@ -1,5 +1,4 @@
 ---
-draft: false
 title: NS
 country:
   - netherlands
@@ -56,7 +55,6 @@ Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/ice-su
 #### Réservations
 
 Une réservation est obligatoire pour les trajets transfrontaliers en haute saison.
-En 2026, ce sera le cas du 26 juin au 16 août.
 
 {{% /train-category %}}
 
@@ -242,7 +240,17 @@ Les Billets FIP 50 ne peuvent pas être achetés à bord. [^1]
 
 ## Réductions
 
-Les enfants de moins de 4 ans voyagent gratuitement. Les enfants entre 4 et 11 ans inclus ont besoin d’un [billet Railrunner](https://www.ns.nl/en/tickets/railrunner) à 2,50 €, valable toute une journée. Alternativement, pour les enfants entre 4 et 11 ans inclus voyageant accompagnés d’un adulte, l’abonnement saisonnier gratuit [« Kids Vrij »](https://www.ns.nl/en/season-tickets/kids-vrij.html) peut être obtenu. Une OV chipkaart est nécessaire à cet effet (frais uniques de 7,50 €). À partir de 12 ans, le tarif FIP adulte normal s’applique.
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                                                                         |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit                                                                                           |
+| {{< icon "child_care" >}} 4–11 ans       | [Billet Railrunner](https://www.ns.nl/en/tickets/railrunner) à 2,50 € (valable toute une journée) |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal                                                                                      |
+
+### Abonnement gratuit « Kids Vrij »
+
+Alternativement, pour les enfants entre 4 et 11 ans inclus voyageant accompagnés d’un adulte, l’abonnement saisonnier gratuit [« Kids Vrij »](https://www.ns.nl/en/season-tickets/kids-vrij.html) peut être obtenu. Une OV chipkaart est nécessaire à cet effet (frais uniques de 7,50 €).
 
 ## Conditions tarifaires spéciales
 

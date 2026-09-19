@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Slovaquie
 country: slovakia
 params:

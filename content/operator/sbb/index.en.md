@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SBB CFF FFS
 country:
   - switzerland
@@ -174,7 +173,7 @@ In the Geneva area, cross-border regional trains operate under the name Léman E
 
 In the SNCF timetable information, Léman Express connections are displayed as `LEX` + line number (L1, L2, etc.). In the SBB timetable information, the trains are sometimes displayed as `RL`, and occasionally as `TER`.
 
-Within France and Switzerland, FIP discounts apply as usual. FIP discounts do not apply to cross-border journeys; instead, regular fare tickets must be purchased. [^3]
+Within France and Switzerland, FIP discounts apply as usual. FIP discounts do not apply to cross-border journeys; instead, regular fare tickets must be purchased. [^4]
 
 {{% /train-category %}}
 
@@ -238,9 +237,20 @@ FIP Tickets cannot be purchased on the train. A penalty fee is charged for passe
 
 ## Discounts
 
-Children travel free on regular journeys (not special trips) up to and including 5 years of age. Children up to and including 15 years receive a 50% discount on the adult fare. From the age of 16, the regular adult fare applies.
+{{< children-discount >}}
+
+| Age                                 | Discount          |
+| ----------------------------------- | ----------------- |
+| {{< icon "child_care" >}} 0–5 years | Free[^3]          |
+| {{< icon "person" >}} from 6 years  | Regular price[^3] |
+
+### SBB Junior Travelcard
 
 In addition, there is the option to purchase an _SBB Junior Travelcard_ for CHF 30. This allows your own children up to and including 15 years of age to travel when accompanied by a parent. The accompanying parent must hold their own valid ticket for the journey (e.g. FIP Coupon or FIP 50 Ticket). The Junior Travelcard can be purchased on-site at [public transport points of sale](https://www.sbb.ch/en/travel-information/stations/find-station.html) in Switzerland. See the SBB website: [Junior Travelcard](https://www.sbb.ch/en/offers/junior-travelcard).
+
+### Day Pass for Children
+
+Alternatively, the _Day Pass for Children_ offers children aged 6 to under 16 unlimited travel on public transport for one day for CHF 19 (2nd class) or CHF 33 (1st class). See the SBB website: [Day Pass for Children](https://www.sbb.ch/en/offers/day-pass-children).
 
 ## Special Tariff Conditions
 
@@ -289,4 +299,6 @@ The FIP Coupon is especially worthwhile for SBB CFF FFS, as you can travel a den
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)
 
-[^3]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
+[^3]: [SBB – Tickets and travelcards for children and young people](https://www.sbb.ch/en/travel-information/individual-needs/travelling-with-children/tickets-travelcards.html)
+
+[^4]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)

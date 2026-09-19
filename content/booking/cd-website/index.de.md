@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ČD Website
 description: Buchungsinformationen für die České dráhy Website.
 params:

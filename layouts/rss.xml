@@ -13,7 +13,9 @@
             {{ $cleanedHTML := .Summary | plainify | transform.XMLEscape | safeHTML }}
             <description>{{ $cleanedHTML }}</description>
             <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-            <enclosure url="{{ (partial "helper/contentImage" . ).Permalink }}" />
+            {{- with (partial "helper/contentImage" .).firstImage -}}
+            <enclosure url="{{- .Permalink -}}" />
+            {{- end -}}
         </item>
         {{ end }}
     </channel>

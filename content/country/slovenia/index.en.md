@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Slovenia
 country: slovenia
 params:

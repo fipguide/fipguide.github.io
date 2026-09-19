@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Eurostar
 country:
   - belgium
@@ -114,13 +113,6 @@ The FIP Card should be ready for inspection when boarding.
 
 Checking in, rebooking, canceling, and upgrading tickets is possible via the Eurostar website, more information under [Rebookings & Cancellations](#rebookings--cancellations). If an email address associated with an existing Eurostar account is provided during booking, the ticket will be linked to that account and can be displayed directly in the account.
 
-{{% booking id="traivelling-website"
-    fip_50=nil
-    fip_75=nil
-    fip_global_fare=true
-    reservations=nil
-/%}}
-
 {{% booking id="railtourguide-website"
     fip_50=nil
     fip_75=nil
@@ -194,9 +186,15 @@ Tickets must be purchased before boarding the train. Ticket sales onboard are no
 
 ## Discounts
 
-Children under 4 travel free of charge without a ticket but must sit on an adult's lap. A separate ticket can be purchased if a separate seat is desired. Children aged 4 and over pay the full FIP adult fare.[^1]
+{{< children-discount >}}
 
-There are no further FIP discounts for children, however, public fares offer a 30 to 50% discount, making a comparison worthwhile.[^2]
+| Age                                  | Discount                                                |
+| ------------------------------------ | ------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–4 years    | Free (without own seat, must sit on an adult's lap)[^1] |
+| {{< icon "child_care" >}} 4–11 years | 30–50% discount[^2]                                     |
+| {{< icon "person" >}} from 12 years  | Regular price[^2]                                       |
+
+### Accompaniment of Minors
 
 Children under 12 must be accompanied by an adult. Children aged 12–15 can travel with a responsible person aged 16 or over, or as an unaccompanied minor with the correct paperwork.[^2]
 
@@ -218,12 +216,7 @@ Rebooking, canceling, and upgrading tickets is possible using the booking refere
 All FIP fares are subject to quotas, so early booking is recommended.
 {{% /highlight %}}
 
-Checking available ticket quotas is possible via the following websites:
-
-- [Interrail Website](https://www.interrail.eu/en/book-reservations) \
-   Only for checking reservation quotas. Purchased reservations are only valid with an Interrail ticket!
-- [Traivelling](https://traivelling.com/home) \
-   More information in the [corresponding booking section](#traivelling-website).
+The availability of ticket quotas can be checked via the [Interrail Website](https://www.interrail.eu/en/book-reservations). It can only be used to check reservation quotas. Purchased reservations are only valid with an Interrail ticket.
 
 ### Connections
 

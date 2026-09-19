@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Site Web RhB
 description: Informations sur la réservation de Billets FIP via le site web des RhB.
 params:

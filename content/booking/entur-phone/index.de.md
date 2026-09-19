@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Entur Telefon
 description: Buchungsinformationen für die Entur Hotline.
 params:

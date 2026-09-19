@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SBB CFF FFS
 country:
   - switzerland
@@ -174,7 +173,7 @@ Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léma
 
 In der Fahrplanauskunft der SNCF werden Verbindungen des Léman Express als `LEX` + Liniennummer (L1, L2, usw.) angezeigt. In der Fahrplanauskunft der SBB werden die Züge manchmal als `RL` angezeigt, teilweise auch als `TER`.
 
-Innerhalb Frankreichs und innerhalb der Schweiz gelten FIP Vergünstigungen wie gewohnt. Auf grenzüberschreitenden Fahrten gilt kein FIP, stattdessen müssen Normalpreistickets erworben werden. [^3]
+Innerhalb Frankreichs und innerhalb der Schweiz gelten FIP Vergünstigungen wie gewohnt. Auf grenzüberschreitenden Fahrten gilt kein FIP, stattdessen müssen Normalpreistickets erworben werden. [^4]
 
 {{% /train-category %}}
 
@@ -238,9 +237,20 @@ Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben
 
 ## Ermäßigungen
 
-Kinder reisen bei normalen Fahrten (keine Sonderfahrten) bis einschließlich 5 Jahren kostenlos. Kinder bis einschließlich 15 Jahre erhalten eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Ab dem vollendeten 16. Lebensjahr gilt der reguläre Fahrpreis für Erwachsene.
+{{< children-discount >}}
 
-Zusätzlich gibt es die Möglichkeit eine _SBB Junior-Karte_ für 30 CHF zu erwerben. Diese berechtigt eigene Kinder bis einschließlich 15 Jahren zur Fahrt in Begleitung eines Elternteils. Der mitreisende Elternteil benötigt für die Fahrt eine eigene gültige Fahrkarte (z. B. FIP Freifahrtschein oder FIP 50 Ticket). Die Junior-Karte kann vor Ort an [Verkaufsstellen des öffentlichen Verkehrs](https://www.sbb.ch/de/reiseinformationen/bahnhoefe/bahnhof-finden.html) in der Schweiz erworben werden. Siehe SBB Website: [Junior-Karte](https://www.sbb.ch/de/angebote/junior-karte).
+| Alter                               | Ermäßigung          |
+| ----------------------------------- | ------------------- |
+| {{< icon "child_care" >}} 0–5 Jahre | Kostenlos[^3]       |
+| {{< icon "person" >}} ab 6 Jahre    | Regulärer Preis[^3] |
+
+### SBB Junior-Karte
+
+Zusätzlich gibt es die Möglichkeit eine _SBB Junior-Karte_ für 30 CHF zu erwerben. Diese berechtigt eigene Kinder bis einschließlich 15 Jahre zur Fahrt in Begleitung eines Elternteils. Der mitreisende Elternteil benötigt für die Fahrt eine eigene gültige Fahrkarte (z. B. FIP Freifahrtschein oder FIP 50 Ticket). Die Junior-Karte kann vor Ort an [Verkaufsstellen des öffentlichen Verkehrs](https://www.sbb.ch/de/reiseinformationen/bahnhoefe/bahnhof-finden.html) in der Schweiz erworben werden. Siehe SBB Website: [Junior-Karte](https://www.sbb.ch/de/angebote/junior-karte).
+
+### Kinder-Tageskarte
+
+Alternativ bietet die _Kinder-Tageskarte_ für 19 CHF (2. Klasse) bzw. 33 CHF (1. Klasse) Kindern von 6 bis unter 16 Jahren einen Tag lang unbeschränkte Fahrt im öffentlichen Verkehr. Siehe SBB Website: [Kinder-Tageskarte](https://www.sbb.ch/de/angebote/kinder-tageskarte).
 
 ## Tarifliche Besonderheiten
 
@@ -289,4 +299,6 @@ Der FIP-Freifahrtschein lohnt sich für die SBB CFF FSS besonders, da hier mit w
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)
 
-[^3]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
+[^3]: [SBB – Fahrkarten und Abonnemente für Kinder und Jugendliche](https://www.sbb.ch/en/travel-information/individual-needs/travelling-with-children/tickets-travelcards.html)
+
+[^4]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)

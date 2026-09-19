@@ -1,5 +1,4 @@
 ---
-draft: false
 title: NIR
 country:
   - united-kingdom
@@ -24,6 +23,21 @@ Northern Ireland Railways (NIR) ist die staatliche Bahngesellschaft in Nordirlan
 ## Zugkategorien und Reservierungen
 
 {{% train-category
+    id="enterprise"
+    title="Intercity (Enterprise)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+%}}
+
+NIR betreibt zusammen mit [CIE](/operator/cie) den Enterprise Service zwischen Dublin und Belfast.
+
+Fahrgäste in _Enterprise Plus_ werden im Zug zu einem freien Sitzplatz begleitet. Die Nutzung der _Enterprise Plus_ Klasse ist nur mit einem Sitzplatz möglich.
+
+{{% /train-category %}}
+
+{{% train-category
     id="regional-trains"
     title="Regionalzüge"
     type="regional"
@@ -34,19 +48,6 @@ Northern Ireland Railways (NIR) ist die staatliche Bahngesellschaft in Nordirlan
 %}}
 
 NIR betreibt verschiedene Regionalzugverbindungen ausgehend von Belfast. Die Regionalzüge sind nicht reservierbar und mit FIP nutzbar.
-
-{{% /train-category %}}
-
-{{% train-category
-    id="enterprise"
-    title="Intercity (Enterprise)"
-    type="highspeed"
-    fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
-%}}
-
-NIR betreibt zusammen mit [CIE](/operator/cie) den Enterprise Service zwischen Dublin und Belfast.
 
 {{% /train-category %}}
 
@@ -66,10 +67,6 @@ FIP 50 / FIP 75 Tickets lassen sich online nicht erwerben.
     subtitle="Reservierungen (2. Klasse) für den Enterprise Service (Dublin – Belfast)."
 /%}}
 
-{{% booking id="translink-whatsapp"
-    subtitle="Reservierungen (1. Klasse) für den Enterprise Service (Dublin – Belfast)."
-/%}}
-
 ### Vor Ort
 
 {{% booking id="translink-ticket-office" /%}}
@@ -84,7 +81,21 @@ FIP 50 / FIP 75 Tickets müssen vor Fahrtantritt erworben werden. Im Enterprise 
 
 ## Ermäßigungen
 
-Kinder unter 5 Jahren fahren kostenlos. Jugendliche unter 16 Jahren erhalten 50 % Ermäßigung auf den Erwachsenentarif. Personen ab 16 Jahren zahlen den vollen FIP Erwachsenentarif.[^1]
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung          |
+| ------------------------------------ | ------------------- |
+| {{< icon "stroller" >}} 0–4 Jahre    | Kostenlos[^1]       |
+| {{< icon "child_care" >}} 5–15 Jahre | 50% Ermäßigung[^1]  |
+| {{< icon "person" >}} ab 16 Jahre    | Regulärer Preis[^1] |
+
+### Family & Friends Ticket
+
+Translink bietet ein Family & Friends Ticket für 24 £ an, das an einem Tag unbegrenzte Fahrten auf allen Translink-Verbindungen innerhalb Nordirlands ermöglicht, oder für 10 £ als Metro- und Glider-Family-Day-Ticket. Das Ticket gilt für bis zu 2 Erwachsene und 4 Kinder (mindestens 1 Erwachsener und 1 Kind). Weitere Kinder unter 16 Jahren werden mit 4,00 £ berechnet. Die Tickets sind beim Fahrpersonal am Reisetag, an den größeren Bus- und Bahnhöfen oder an Fahrkartenautomaten an Haltestellen erhältlich.[^2]
+
+### yLink
+
+yLink ist eine Chipkarte für 16- bis 23-Jährige, die Translink-Verbindungen innerhalb Nordirlands nutzen. Die erste Karte ist kostenlos und gewährt 50 % Ermäßigung auf den regulären Erwachsenenpreis für NIR-Einzeltickets, sowie bis zu 50 % Ermäßigung auf Enterprise-Einzeltickets. Auf Aktionstarife der Translink wird keine weitere Ermäßigung gewährt.[^3]
 
 ## Tarifliche Besonderheiten
 
@@ -92,6 +103,16 @@ Kinder unter 5 Jahren fahren kostenlos. Jugendliche unter 16 Jahren erhalten 50 
 
 Fahrtunterbrechungen sind nur erlaubt, um Anschlusszüge zu erreichen.[^1]
 
+## Empfehlungen
+
+{{% highlight tip %}}
+Auf dem eher kleinen Streckennetz bietet die NIR einen soliden Taktverkehr auf ihren Strecken mit etwas in die Jahre gekommenen Zügen an. Vor allem rund um Belfast bietet sie dabei einen S-Bahn-ähnlichen Vorortverkehr. Die etwa stündlich angebotene Verbindung zwischen Belfast und Derry-Londonderry und hier insbesondere der Abschnitt zwischen Coleraine und Derry-Londonderry ist sehr sehenswert, da sie direkt an der nördlichen Küste entlang führt.
+{{% /highlight %}}
+
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782285-northern-ireland.html)
+
+[^2]: [Translink – Family & Friends Tickets](https://www.translink.co.uk/tickets/offers/family-friends-tickets)
+
+[^3]: [Translink – yLink](https://www.translink.co.uk/tickets/travelcards/ylink)

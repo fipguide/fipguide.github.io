@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Wielkopolskie Website
 description: Booking information for the Koleje Wielkopolskie website.
 params:

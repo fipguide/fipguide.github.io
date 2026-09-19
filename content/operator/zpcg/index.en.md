@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ŽPCG
 country:
   - montenegro
@@ -108,7 +107,32 @@ FIP discounted tickets can be purchased on the train. A surcharge of EUR 1 appli
 
 ## Discounts
 
-For public fares, children up to 6 years travel free of charge. Children up to 14 years receive a 50% discount on the adult fare. Children aged 14 and older pay the adult fare.[^2]
+{{< children-discount >}}
+
+| Age                                  | Discount          |
+| ------------------------------------ | ----------------- |
+| {{< icon "child_care" >}} 0–5 years  | Free[^6]          |
+| {{< icon "child_care" >}} 6–13 years | 50% discount[^6]  |
+| {{< icon "child_hat" >}} 14–25 years | 30% discount[^6]  |
+| {{< icon "person" >}} from 26 years  | Regular price[^6] |
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+For travellers through several Balkan countries, the Balkan Flexipass could be worthwhile in terms of price. It enables unlimited travel on the rail networks of:
+
+- Bosnia and Herzegovina (ZFBH),
+- Bulgaria (BDZ),
+- North Macedonia (MŽ-Transport),
+- Greece (HT & Attica),
+- Montenegro (ŽPCG),
+- Romania (CFR Calatori & Regiotrans),
+- Serbia (SV),
+- Slovakia (ZSSK / ŽSR),
+- Turkey (TCDD).
+
+[More information on the ŽPCG website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Special Tariff Conditions
 
@@ -136,3 +160,5 @@ For travellers with an FIP Coupon, no fee is charged for carrying travel luggage
 [^4]: [ŽPCG - Conditions of carriage, section 314](https://api.zpcg.me/storage/downloads/Putnicka%20tarifa%202025.pdf)
 
 [^5]: [Reddit: How to book the Bar to Belgrade railway?](https://www.reddit.com/r/Interrail/comments/1ke2y08/comment/nbzx6ut/)
+
+[^6]: [ŽPCG – Discounts in local transport](https://zpcg.me/en/lokalni-prevoz/povlastice)

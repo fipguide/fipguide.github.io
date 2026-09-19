@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet Stena Line BV
 description: Informations de réservation pour le guichet Stena Line BV.
 params:

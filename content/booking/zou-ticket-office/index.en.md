@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ZOU! Ticket Office
 description: Booking information for ZOU ! ticket offices.
 params:

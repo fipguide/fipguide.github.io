@@ -1,5 +1,4 @@
 ---
-draft: false
 title: RailTourGuide Website
 description: Buchungsinformationen für die RailTourGuide Website.
 params:

@@ -13,8 +13,15 @@ booking:
   not-bookable: non réservable
   reservation: Réservation
   reservation-costs: Frais de réservation
+  send-mail: Envoyer un e-mail
   visit-additional-information-website: Informations complémentaires
   visit-booking-website: Aller sur le site de réservation
+childrenDiscount: >-
+  La Remise FIP s’applique en principe aux tarifs adultes et non aux tarifs
+  enfants. Pour cette raison, il convient de vérifier si les tarifs publics sont
+  plus avantageux. Les réductions du tableau suivant se réfèrent donc uniquement
+  aux tarifs publics et ne s’appliquent pas en plus de la FIP. Plus
+  d’informations dans la [FAQ](/general/faq/#children-travel).
 contact:
   accessibility:
     label: 'Retour sur le site Web : Accessibilité'
@@ -156,6 +163,10 @@ fipValidity:
 footer-love:
   aria-label: Fait avec amour en Europe
   text: Fait avec ♥️ en Europe
+gallery:
+  aria-label: Galerie d'images
+  next: Image suivante
+  previous: Image précédente
 general: Général
 highlight:
   confusion: Risque de confusion
