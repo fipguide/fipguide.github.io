@@ -240,55 +240,73 @@
 
     var loading = false;
 
-    async function loadWithFallback(onError) {
-      if (loading) return;
-      loading = true;
+    // Query the Local Network Access permission state.
+    // Returns "granted" | "prompt" | "denied", or null if the Permissions
+    // API (or this specific permission) is not available in the browser.
+    async function queryLocalNetworkPermission() {
+      var permissions =
+        typeof navigator !== "undefined" && navigator.permissions;
+      if (!permissions || typeof permissions.query !== "function") {
+        return null;
+      }
       try {
-        await attemptLoad();
+        var status = await permissions.query({
+          name: "local-network-access",
+        });
+        return status;
       } catch (_error) {
-        (onError || renderWarning)();
-      } finally {
-        loading = false;
+        return null;
       }
     }
 
     async function initOnce() {
-      var permissions =
-        typeof navigator !== "undefined" && navigator.permissions;
-      if (!permissions || typeof permissions.query !== "function") {
-        // No Permissions API: a failure is a network/intranet problem.
-        loadWithFallback(renderWarning);
-        return;
-      }
+      if (loading) return;
+      loading = true;
 
-      var status;
+      // Capture the permission state before attempting to load. A blocked
+      // Local Network Access request will change this state (to "denied" or
+      // "granted"); an unreachable remote (e.g. not connected to the
+      // intranet) leaves it unchanged.
+      var statusBefore = await queryLocalNetworkPermission();
+      var stateBefore = statusBefore ? statusBefore.state : null;
+
       try {
-        status = await permissions.query({ name: "local-network-access" });
+        // 1. Show loading and query the remote. The request triggers the
+        //    browser's Local Network Access permission prompt (if applicable).
+        await attemptLoad();
       } catch (_error) {
-        // Permission name not supported in this browser: treat a failure
-        // as a network/intranet problem.
-        loadWithFallback(renderWarning);
-        return;
-      }
+        // 2. Loading failed. Re-check the Permissions API to decide which
+        //    notice to show.
+        var statusAfter = await queryLocalNetworkPermission();
+        var stateAfter = statusAfter ? statusAfter.state : null;
 
-      function react() {
-        if (status.state === "granted") {
-          // Permission granted: a failure is a network/intranet problem.
-          loadWithFallback(renderWarning);
-        } else if (status.state === "prompt") {
-          // In "prompt" state the load attempt triggers the native
-          // permission prompt; the notice explains why it is needed and is
-          // shown again if the request fails (e.g. permission not granted).
+        // Only show the local network permission notice when the Permissions
+        // API tells us the permission is the actual blocker: either it is
+        // explicitly denied, or the load attempt changed the state away from
+        // its initial value (i.e. the LNA prompt was triggered). If the state
+        // is unchanged (e.g. still "prompt" because the remote was never
+        // reachable), treat it as a network/intranet problem.
+        var permissionIsBlocker =
+          statusAfter &&
+          (stateAfter === "denied" ||
+            (stateAfter !== "granted" && stateAfter !== stateBefore));
+
+        if (permissionIsBlocker) {
           renderPermissionNotice();
-          loadWithFallback(renderPermissionNotice);
+          statusAfter.onchange = function () {
+            if (statusAfter.state === "granted") {
+              loading = false;
+              initOnce();
+            }
+          };
         } else {
-          // denied: show the notice and wait for the user to allow access.
-          renderPermissionNotice();
+          // No permission info available, permission already granted, or the
+          // state is unchanged: the failure is a network/intranet problem.
+          renderWarning();
         }
+      } finally {
+        loading = false;
       }
-
-      status.onchange = react;
-      react();
     }
 
     if (document.readyState === "loading") {
