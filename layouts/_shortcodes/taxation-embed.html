@@ -240,13 +240,13 @@
 
     var loading = false;
 
-    async function loadWithFallback() {
+    async function loadWithFallback(onError) {
       if (loading) return;
       loading = true;
       try {
         await attemptLoad();
       } catch (_error) {
-        renderPermissionNotice();
+        (onError || renderWarning)();
       } finally {
         loading = false;
       }
@@ -256,7 +256,8 @@
       var permissions =
         typeof navigator !== "undefined" && navigator.permissions;
       if (!permissions || typeof permissions.query !== "function") {
-        loadWithFallback();
+        // No Permissions API: a failure is a network/intranet problem.
+        loadWithFallback(renderWarning);
         return;
       }
 
@@ -264,19 +265,22 @@
       try {
         status = await permissions.query({ name: "local-network-access" });
       } catch (_error) {
-        // Permission name not supported in this browser: just try to load.
-        loadWithFallback();
+        // Permission name not supported in this browser: treat a failure
+        // as a network/intranet problem.
+        loadWithFallback(renderWarning);
         return;
       }
 
       function react() {
-        if (status.state === "granted" || status.state === "prompt") {
+        if (status.state === "granted") {
+          // Permission granted: a failure is a network/intranet problem.
+          loadWithFallback(renderWarning);
+        } else if (status.state === "prompt") {
           // In "prompt" state the load attempt triggers the native
-          // permission prompt; the notice explains why it is needed.
-          if (status.state === "prompt") {
-            renderPermissionNotice();
-          }
-          loadWithFallback();
+          // permission prompt; the notice explains why it is needed and is
+          // shown again if the request fails (e.g. permission not granted).
+          renderPermissionNotice();
+          loadWithFallback(renderPermissionNotice);
         } else {
           // denied: show the notice and wait for the user to allow access.
           renderPermissionNotice();
