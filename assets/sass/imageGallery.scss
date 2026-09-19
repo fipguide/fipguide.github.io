@@ -14,8 +14,6 @@
   scroll-behavior: smooth;
   list-style: none;
   border-radius: var(--border-radius-l);
-
-  -ms-overflow-style: none;
   scrollbar-width: none;
 
   &::-webkit-scrollbar {

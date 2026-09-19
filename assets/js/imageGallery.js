@@ -12,7 +12,6 @@ const getItemWidth = () =>
   galleryPictures.clientWidth;
 
 const updateButtonState = () => {
-  console.log("updateButtonState");
   const maxScrollLeft =
     galleryPictures.scrollWidth - galleryPictures.clientWidth;
 
