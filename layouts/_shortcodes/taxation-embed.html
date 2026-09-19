@@ -57,11 +57,6 @@
   data-taxation-remote-warning="{{ $warning }}"
   data-taxation-remote-i18n="{{ $i18nPayload | jsonify }}"
 >
-  <div class="o-taxation-embed__loading m-text-highlight m-text-highlight--tip">
-    <div class="o-taxation-embed__loading-content">
-      {{ partial "icon" "pending" }}<span>Loading...</span>
-    </div>
-  </div>
   <template data-taxation-remote-warning-template>
     {{ partial "highlight" (dict
       "Type" "important"
@@ -204,8 +199,6 @@
       var i18nPayload = root.getAttribute("data-taxation-remote-i18n") || "{}";
       var i18n = JSON.parse(i18nPayload);
 
-      renderLoading();
-
       var checkResponse = await fetchWithTimeout(
         baseUrl + "data/index.json",
         { method: "GET", cache: "no-store", credentials: "omit" },
@@ -263,36 +256,69 @@
       if (loading) return;
       loading = true;
 
-      // Capture the permission state before attempting to load. A blocked
-      // Local Network Access request will change this state (to "denied" or
-      // "granted"); an unreachable remote (e.g. not connected to the
-      // intranet) leaves it unchanged.
+      // A single shared delay for every status message (loading and notices),
+      // so nothing flashes for quick loads and the view does not switch too
+      // rapidly. Each new message replaces any pending one.
+      var MESSAGE_DELAY = 600;
+      var messageTimer = null;
+
+      function showDelayed(renderFn) {
+        if (messageTimer !== null) {
+          clearTimeout(messageTimer);
+        }
+        messageTimer = setTimeout(function () {
+          messageTimer = null;
+          renderFn();
+        }, MESSAGE_DELAY);
+      }
+
+      function cancelDelayedMessage() {
+        if (messageTimer !== null) {
+          clearTimeout(messageTimer);
+          messageTimer = null;
+        }
+      }
+
+      // Query the permission state before loading. If the Permissions API is
+      // available and access is not yet granted, the upcoming request will
+      // trigger the browser's Local Network Access prompt.
       var statusBefore = await queryLocalNetworkPermission();
       var stateBefore = statusBefore ? statusBefore.state : null;
 
+      // Show either the loading indicator or, when access is not yet granted,
+      // the permission notice alongside the prompt the request will trigger.
+      if (statusBefore && stateBefore !== "granted") {
+        showDelayed(renderPermissionNotice);
+      } else {
+        showDelayed(renderLoading);
+      }
+
       try {
-        // 1. Show loading and query the remote. The request triggers the
-        //    browser's Local Network Access permission prompt (if applicable).
+        // The request triggers the browser's Local Network Access prompt
+        // (if applicable). On success the calculator shell is rendered
+        // immediately, cancelling any pending status message.
         await attemptLoad();
+        cancelDelayedMessage();
       } catch (_error) {
-        // 2. Loading failed. Re-check the Permissions API to decide which
-        //    notice to show.
+        // Loading failed. Re-check the Permissions API to decide which
+        // notice to show.
         var statusAfter = await queryLocalNetworkPermission();
         var stateAfter = statusAfter ? statusAfter.state : null;
 
-        // Only show the local network permission notice when the Permissions
-        // API tells us the permission is the actual blocker: either it is
-        // explicitly denied, or the load attempt changed the state away from
-        // its initial value (i.e. the LNA prompt was triggered). If the state
-        // is unchanged (e.g. still "prompt" because the remote was never
-        // reachable), treat it as a network/intranet problem.
+        // Show the permission notice only when the Permissions API tells us
+        // the permission is the actual blocker: either it is explicitly
+        // denied, or the load attempt changed the state away from its initial
+        // value (i.e. the LNA prompt was actually triggered). If the state is
+        // unchanged (e.g. still "prompt" because the remote was never
+        // reachable — such as running locally without intranet), it is a
+        // network/intranet problem and we show the intranet notice instead.
         var permissionIsBlocker =
           statusAfter &&
           (stateAfter === "denied" ||
             (stateAfter !== "granted" && stateAfter !== stateBefore));
 
         if (permissionIsBlocker) {
-          renderPermissionNotice();
+          showDelayed(renderPermissionNotice);
           statusAfter.onchange = function () {
             if (statusAfter.state === "granted") {
               loading = false;
@@ -300,9 +326,7 @@
             }
           };
         } else {
-          // No permission info available, permission already granted, or the
-          // state is unchanged: the failure is a network/intranet problem.
-          renderWarning();
+          showDelayed(renderWarning);
         }
       } finally {
         loading = false;
