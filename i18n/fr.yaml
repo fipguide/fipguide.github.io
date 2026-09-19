@@ -265,30 +265,6 @@ taxation:
   add-operator: Ajouter un opérateur
   add-other: Ajouter un avantage imposable
   calculator: Calculateur d’imposition {{ .Year }}
-  calculator-description: >
-    Le calculateur fiscal vous permet de déterminer la valeur imposable de vos
-
-    avantages de voyage.
-
-
-    1. Sélectionnez le nombre de personnes pour lesquelles vous souhaitez
-    calculer des coupons internationaux.
-
-    2. Sélectionnez les coupons et le nombre de champs nécessaires (la même
-    classe et la même quantité sont prises en compte pour chaque personne, dans
-    la mesure du possible).
-
-    3. Ajoutez les réductions nationales et, si nécessaire, d’autres avantages
-       imposables.
-
-    Le total imposable est ensuite calculé.
-
-
-    Dans la section [Planification et optimisation](#planning-optimization),
-
-    vous pouvez réduire la charge fiscale en répartissant les montants sur
-
-    plusieurs mois.
   category-international: Coupons FIP internationaux
   category-national: Réductions nationales
   category-other: Autres
@@ -298,7 +274,6 @@ taxation:
     Nous n’assumons aucune responsabilité ni garantie quant à l’exactitude des
     données calculées. Le calcul est fourni à titre indicatif uniquement.
   first-class: 1re classe
-  general-heading: Général
   increase: Augmenter
   info:
     db: |
@@ -326,7 +301,6 @@ taxation:
     Le calculateur d’imposition n’est accessible que depuis l’intranet de la
     Deutsche Bahn.
   lock: Définir l’attribution
-  missing-info: Nous ne disposons actuellement d’aucune information sur l’imposition.
   no-first-class: 2nd classe uniquement
   optimization-month: Mois
   optimize: Optimiser

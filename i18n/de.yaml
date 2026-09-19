@@ -264,25 +264,7 @@ taxation:
   add-national: Nationale Vergünstigung hinzufügen
   add-operator: Betreiber hinzufügen
   add-other: Sachbezug hinzufügen
-  calculator: Steuerrechner {{ .Year }}
-  calculator-description: >
-    Hier kannst du den Sachbezugswert deiner Fahrvergünstigungen berechnen.
-
-
-    1. Wähle die Anzahl der Personen aus, für die Freifahrtscheine
-
-    2. Wähle die Betreiber und die Anzahl der Felder aus
-
-    3. Füge nationale Vergünstigungen und weitere steuerpflichtige
-    Sachbezugswerte hinzu
-
-
-    Anschließend wird die Summe deiner Sachbezugswerte berechnet.
-
-
-    Im Bereich [Planung & Optimierung](#planning-optimization) kannst du deine
-
-    Steuerlast optimieren, indem du sie auf mehrere Monate verteilst.
+  calculator: DB Steuerrechner {{ .Year }}
   category-international: Internationale FIP Freifahrtscheine
   category-national: Nationale Vergünstigungen
   category-other: Sonstiges
@@ -292,7 +274,6 @@ taxation:
     Wir übernehmen keine Haftung oder Garantie für die Richtigkeit der
     berechneten Daten. Die Berechnung dient ausschließlich zur Orientierung.
   first-class: 1. Klasse
-  general-heading: Allgemein
   increase: Erhöhen
   info:
     db: |
@@ -319,7 +300,6 @@ taxation:
       Geldwerter Vorteil berechnet.
   intranet-only-warning: Der Steuerrechner ist nur aus dem Intranet der Deutschen Bahn erreichbar.
   lock: Zuordnung festlegen
-  missing-info: Derzeit liegen uns keine Informationen zur Versteuerung vor.
   no-first-class: Nur 2. Klasse
   optimization-month: Monat
   optimize: Optimieren

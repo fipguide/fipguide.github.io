@@ -38,7 +38,6 @@
   "category-national" (T "taxation.category-national")
   "sum" (T "taxation.sum")
   "reset" (T "taxation.reset")
-  "calculator-description" (printf "%s" (T "taxation.calculator-description" | markdownify))
 -}}
 {{- $i18nPayload := dict
   "taxation" $i18nTaxation
@@ -163,23 +162,6 @@
         '<div class="o-taxation-embed__calculator" data-taxation-calculator-host></div>';
     }
 
-    function getSelectedIssuerSlug() {
-      return localStorage.getItem("fipguide-issuer") || "";
-    }
-
-    async function mountFromCurrentSelection() {
-      if (mountFromCurrentSelection.loading) {
-        return;
-      }
-      mountFromCurrentSelection.loading = true;
-      try {
-        await initOnce();
-      } finally {
-        mountFromCurrentSelection.loading = false;
-      }
-    }
-    mountFromCurrentSelection.loading = false;
-
     async function initOnce() {
       var baseUrl = normalizeBaseUrl(
         root.getAttribute("data-taxation-remote-base-url"),
@@ -190,13 +172,9 @@
       }
 
       var lang = root.getAttribute("data-taxation-remote-lang") || "en";
-      var issuer = getSelectedIssuerSlug();
+      var issuer = "db";
       var i18nPayload = root.getAttribute("data-taxation-remote-i18n") || "{}";
       var i18n = JSON.parse(i18nPayload);
-      if (!issuer) {
-        root.innerHTML = "";
-        return;
-      }
 
       renderLoading();
 
@@ -235,23 +213,12 @@
       }
     }
 
-    document.addEventListener("fip-issuer-selected", function (event) {
-      if (
-        !event ||
-        !event.detail ||
-        event.detail.dropdownId !== "taxation-issuer"
-      ) {
-        return;
-      }
-      mountFromCurrentSelection();
-    });
-
     if (document.readyState === "loading") {
-      document.addEventListener("DOMContentLoaded", mountFromCurrentSelection, {
+      document.addEventListener("DOMContentLoaded", initOnce, {
         once: true,
       });
     } else {
-      mountFromCurrentSelection();
+      initOnce();
     }
   })();
 </script>

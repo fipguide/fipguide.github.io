@@ -1,38 +1,5 @@
-{{- $issuers := slice -}}
-{{- range where .Site.RegularPages "Type" "operator" -}}
-  {{- $issuerSlug := .File.ContentBaseName -}}
-  {{- $infoKey := printf "taxation.info.%s" $issuerSlug -}}
-  {{- if ne (T $infoKey) $infoKey -}}
-    {{- $issuers = $issuers | append . -}}
-  {{- end -}}
-{{- end -}}
-
-
-<div class="o-fip-validity__controls">
-  <span>
-    {{ T "fipValidity.selectIssuer" }}
-  </span>
-  {{ partial "fip-validity/issuer-dropdown" (dict
-    "id" "taxation-issuer"
-    "issuers" $issuers
-    )
-  }}
+<div>
+  {{ T "taxation.info.db" | .Page.RenderString }}
 </div>
-
-<h2 id="general">{{ T "taxation.general-heading" }}</h2>
-
-<p data-fip-select-first>{{ T "fipValidity.selectIssuerFirst" }}</p>
-
-{{- range $issuers -}}
-  {{- $issuerSlug := .File.ContentBaseName -}}
-  {{- $infoKey := printf "taxation.info.%s" $issuerSlug -}}
-  {{- $text := T $infoKey -}}
-  {{- if eq $text $infoKey -}}
-    {{- $text = T "taxation.missing-info" -}}
-  {{- end -}}
-  <div data-fip-issuer="{{ $issuerSlug }}" hidden>
-    {{ $text | $.Page.RenderString }}
-  </div>
-{{- end -}}
 
 {{ partial "intersector" }}
