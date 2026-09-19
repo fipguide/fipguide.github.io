@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "{{ .File.ContentBaseName | upper }}"
 country:
   # Ajoutez les abréviations des pays dans lesquels la compagnie ferroviaire opère en anglais.

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Schweizer Privatbahnen
 description: Informationen über die FIP-Bedingungen bei den Schweizer Privatbahnen.
 country:

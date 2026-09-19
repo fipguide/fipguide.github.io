@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet BDŽ
 description: Informations de réservation pour les guichets BDŽ.
 params:

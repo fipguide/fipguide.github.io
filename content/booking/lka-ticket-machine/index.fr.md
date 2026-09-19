@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Distributeurs de billets ŁKA
 description: Informations de réservation pour les distributeurs de billets ŁKA.
 params:

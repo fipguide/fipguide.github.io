@@ -1,5 +1,4 @@
 ---
-draft: false
 title: RhB Website
 description: Booking information for FIP Tickets at RhB.
 params:

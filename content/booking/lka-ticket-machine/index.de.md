@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ŁKA Fahrkartenautomat
 description: Buchungsinformationen für die ŁKA Fahrkartenautomaten.
 params:

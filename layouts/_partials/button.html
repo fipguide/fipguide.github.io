@@ -4,6 +4,7 @@
   <a
     href="{{ .Destination }}"
     {{- if $isExternal }}target="_blank" rel="noopener noreferrer"{{- end }}
+    {{- with .ID }}id="{{ . }}"{{- end -}}
     class="a-button a-button__external o-link__external"
   >
     {{- if $isMailto }}
@@ -15,6 +16,7 @@
 {{- else -}}
   <button
     class="a-button a-button__internal"
+    {{- with .ID }}id="{{ . }}"{{- end -}}
     {{- with .Title }}title="{{ . }}"{{- end -}}
   >
     {{- .Text -}}

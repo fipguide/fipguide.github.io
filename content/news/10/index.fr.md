@@ -1,6 +1,5 @@
 ---
 date: 2026-04-09
-draft: false
 title: "Belgique : la SNCB met fin à la vente de billets à bord à partir du 1er
   juillet 2026"
 description: À partir du 1er juillet 2026, la SNCB ne vendra plus de billets à

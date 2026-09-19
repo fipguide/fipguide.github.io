@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Site Web MÁV
 description: Informations de réservation pour le site Web / application de réservation MÁV.
 params:

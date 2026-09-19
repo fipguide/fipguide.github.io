@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet Entur
 description: Informations de réservation pour les guichets Entur.
 params:

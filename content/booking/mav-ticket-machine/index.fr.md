@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Distributeur de billets MÁV
 description: Informations de réservation pour les distributeurs de billets MÁV.
 params:

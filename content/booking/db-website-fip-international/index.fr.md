@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Site Web FIP DB (International)
 description: Informations de réservation pour les Billets FIP incluant une
   section en Allemagne.

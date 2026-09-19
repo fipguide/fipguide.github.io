@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet CFF
 description: Informations de réservation aux guichets des CFF.
 params:

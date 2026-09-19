@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Dolnośląskie Website
 description: Booking information for the Koleje Dolnośląskie Website.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: DB Ticketschalter
 description: Buchungsinformationen für die Deutsche Bahn Reisezentren.
 params:

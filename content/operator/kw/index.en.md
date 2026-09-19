@@ -1,5 +1,4 @@
 ---
-draft: false
 title: KW
 country:
   - poland

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet ŽPCG
 description: Informations de réservation pour les guichets ŽPCG.
 params:

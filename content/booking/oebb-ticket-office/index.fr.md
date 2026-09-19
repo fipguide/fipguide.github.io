@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet ÖBB
 description: Informations de réservation aux guichets ÖBB.
 params:

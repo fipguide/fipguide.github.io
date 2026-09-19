@@ -1,5 +1,4 @@
 ---
-draft: false
 title: CFL Ticketschalter
 description: Buchungsinformationen für die CFL Ticketschalter im Bahnhof.
 params:

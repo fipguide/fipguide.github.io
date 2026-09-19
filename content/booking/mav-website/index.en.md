@@ -1,5 +1,4 @@
 ---
-draft: false
 title: MÁV Website
 description: Booking information for MÁV booking website and app.
 params:

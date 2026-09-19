@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Ireland
 country: ireland
 params:

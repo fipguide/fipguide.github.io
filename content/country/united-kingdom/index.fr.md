@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Royaume-Uni
 country: united-kingdom
 params:

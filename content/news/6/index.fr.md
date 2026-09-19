@@ -1,6 +1,5 @@
 ---
 date: 2025-08-25
-draft: false
 title: Avantages FIP Rigi-Bahnen (Suisse)
 description: À partir du 01.01.2025, les réductions FIP sont également valables
   sur certaines lignes des Rigi-Bahnen en Suisse.

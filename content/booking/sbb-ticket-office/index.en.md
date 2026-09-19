@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SBB Ticket Office
 description: Booking information for SBB ticket offices.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Autriche
 country: austria
 params:

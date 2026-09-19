@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Site Web ÖBB
 description: Informations de réservation via le site web ÖBB.
 params:

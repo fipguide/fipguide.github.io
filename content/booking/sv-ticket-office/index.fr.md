@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet Srbija Voz
 description: Informations de réservation pour les guichets Srbija Voz.
 params:

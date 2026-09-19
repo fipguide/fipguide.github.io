@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet DB
 description: Informations de réservation pour les guichets de la Deutsche Bahn.
 params:

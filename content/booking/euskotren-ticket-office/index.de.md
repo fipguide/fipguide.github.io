@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Euskotren Ticketschalter
 params:
   fip_50: nil

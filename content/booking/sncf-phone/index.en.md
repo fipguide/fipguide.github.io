@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SNCF Telephone
 description: Booking information for the SNCF hotline.
 params:

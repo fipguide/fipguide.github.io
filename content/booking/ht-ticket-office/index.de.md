@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Hellenic Train Ticketschalter
 description: Buchungsinformationen für die Hellenic Train Ticketschalter.
 params:
