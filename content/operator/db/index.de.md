@@ -43,6 +43,8 @@ Es existiert keine Reservierungspflicht, außer bei bestimmten grenzüberschreit
 
 Der `ICE` ist ein Hochgeschwindigkeitszug und die höchste Zugkategorie der DB. Er verbindet große Städte in Deutschland mit bis zu 300 km/h und verkeht auch in einige Nachbarländer. Besonders schnelle Verbindungen mit wenigen Zwischenhalten werden als `ICE Sprinter` bezeichnet.
 
+Bei Halten in Frankreich ist der Zugang zum Bahnsteig (bei Stationen mit Bahnsteigschranken) sowie zu den Zügen bis zwei Minuten vor der Abfahrt möglich. Die Türen schließen zwei Minuten vor Abfahrt des Zuges. Das Ticket sollte bereitgehalten werden, da das Zugpersonal diese vor dem Einstieg in den Zug kontrollieren könnte.[^4] In Deutschland gelten diese Regelungen nicht.[^5]
+
 #### Reservierungen
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
@@ -61,6 +63,8 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich, Belgie
 %}}
 
 Grenzüberschreitende Hochgeschwindigkeitszüge der SNCF in Kooperation mit der DB. Diese verkehren von Frankfurt, Mannheim, Karlsruhe, Saarbrücken, Stuttgart und München nach Paris.
+
+Bei Halten in Frankreich ist der Zugang zum Bahnsteig (bei Stationen mit Bahnsteigschranken) sowie zu den Zügen bis zwei Minuten vor der Abfahrt möglich. Die Türen schließen zwei Minuten vor Abfahrt des Zuges. Das Ticket sollte bereitgehalten werden, da das Zugpersonal diese vor dem Einstieg in den Zug kontrollieren könnte.[^4] In Deutschland gelten diese Regelungen nicht.[^5]
 
 #### Reservierungen
 
@@ -452,3 +456,7 @@ Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedl
 [^2]: [DB Mobidig: Wo gilt meine Fahrvergünstigung](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)
 
 [^3]: [DB – Ihre Reise mit Kind und Bahn](https://www.bahn.de/service/individuelle-reise/kinder)
+
+[^4]: [SNCF Connect – Boarding Train](https://www.sncf-connect.com/en-en/help/boarding-train)
+
+[^5]: [DB – Was muss ich bei meiner Reise mit der SNCF beachten?](https://www.bahn.de/faq/internationale-reise-sncf-was-beachten)

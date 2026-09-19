@@ -39,6 +39,8 @@ FIP Freifahrtscheine und FIP 50 / FIP 75 Tickets sind auf Verbindungen der SNCF 
 
 Es gilt eine Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie einigen Regionalzügen (`TER`). FIP hat in OUIGO-Zügen keine Gültigkeit. In den reservierungspflichtigen Zügen ist im FIP 50 / FIP 75 Ticketpreis immer eine Reservierung enthalten.
 
+An Bahnhöfen der SNCF wird das Gleis in der Regel 20 Minuten vor der Abfahrt bekannt gegeben.[^7]
+
 ### Fernverkehr
 
 {{% train-category
@@ -52,6 +54,8 @@ Es gilt eine Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie e
 %}}
 
 Der `TGV` inOui ist der Hochgeschwindigkeitszug von SNCF Voyageurs und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele (z. B. München, Frankfurt am Main, Barcelona, Luxemburg, Brüssel, Mailand). Zusätzlich fahren `TGV` Lyria Züge von Frankreich in die Schweiz (Basel, Zürich, Lausanne, Genf).
+
+Der Zugang zum Bahnsteig (bei Stationen mit Bahnsteigschranken) sowie zu den Zügen ist bis zwei Minuten vor der Abfahrt möglich. Die Türen schließen zwei Minuten vor Abfahrt des Zuges. Das Ticket sollte bereitgehalten werden, da das Zugpersonal diese vor dem Einstieg in den Zug kontrollieren könnte.[^7] In Deutschland gelten diese Regelungen nicht.[^8]
 
 {{< highlight confusion >}}
 Die SNCF betreibt auch Low-Cost-Fernzüge unter dem Namen OUIGO, diese sind jedoch nicht mit FIP nutzbar.
@@ -83,6 +87,8 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 
 Der OUIGO (Grand Vitesse) ist der Low-Cost-Hochgeschwindigkeitszug der SNCF und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele. Zusätzlich gibt es OUIGO Classique Züge, die aus herkömmlichen Reisezugwagen bestehen.
 
+Der Zugang zum Zug ist fünf Minuten vor der Abfahrt nicht mehr gewährleistet.[^7]
+
 {{< highlight confusion >}}
 Die SNCF betreibt auch `TGV` Züge unter dem Namen inOui, welche mit FIP nutzbar sind.
 {{< /highlight >}}
@@ -99,6 +105,8 @@ Die SNCF betreibt auch `TGV` Züge unter dem Namen inOui, welche mit FIP nutzbar
 %}}
 
 Internationale Hochgeschwindigkeitszüge der SNCF in Kooperation mit der Deutschen Bahn, die zwischen Frankreich (Paris Est, Straßburg) und Deutschland (Karlsruhe, Mannheim, Frankfurt am Main, Erfurt, Halle (Saale) und Berlin bzw. Stuttgart und München) verkehren. Im Juli und August gibt es samstags zudem [Direktzüge zwischen Frankfurt (Main) und Bordeaux](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux).
+
+Der Zugang zum Bahnsteig (bei Stationen mit Bahnsteigschranken) sowie zu den Zügen ist bis zwei Minuten vor der Abfahrt möglich. Die Türen schließen zwei Minuten vor Abfahrt des Zuges. Das Ticket sollte bereitgehalten werden, da das Zugpersonal diese vor dem Einstieg in den Zug kontrollieren könnte.[^7] In Deutschland gelten diese Regelungen nicht.[^8]
 
 {{< highlight important >}}
 Es gelten Besonderheiten für grenzüberschreitende Verbindungen, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
@@ -128,6 +136,8 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 Intercity-Züge der SNCF, die verschiedene Städte in Frankreich verbinden und meistens reservierungspflichtig sind.
 
 Auf der [Intercité-Website](https://www.sncf-voyageurs.com/de/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) der SNCF werden Verbindungen mit und ohne Reservierungspflicht aufgelistet. Alternativ kann über die [Zugsuche](https://www.sncf-voyageurs.com/de/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) der SNCF für jede Zugnummer die Reservierungsbedingungen abgerufen werden.
+
+Der Zugang zum Bahnsteig (bei Stationen mit Bahnsteigschranken) sowie zu den Zügen ist bis zwei Minuten vor der Abfahrt möglich. Die Türen schließen zwei Minuten vor Abfahrt des Zuges. Das Ticket sollte bereitgehalten werden, da das Zugpersonal diese vor dem Einstieg in den Zug kontrollieren könnte.[^7]
 
 #### Reservierungen
 
@@ -170,6 +180,8 @@ Kosten abhängig von Strecke und Auslastung.
 
 Der `TER` ist ein Regionalzug, der verschiedene Städte in Frankreich verbindet.
 Auf einigen Linien von Paris aus gibt es eine Reservierungspflicht, siehe [Reservierungspflicht im Regionalverkehr](#reservierungspflicht-im-regionalverkehr).
+
+Der Zugang zum Bahnsteig (bei Stationen mit Bahnsteigschranken) sowie zu den Zügen ist bis zwei Minuten vor der Abfahrt möglich. Die Türen schließen zwei Minuten vor Abfahrt des Zuges. Das Ticket sollte bereitgehalten werden, da das Zugpersonal diese vor dem Einstieg in den Zug kontrollieren könnte.[^7]
 
 {{< highlight confusion >}}
 Auf der Strecke Marseille – Nice betreibt Transdev die Züge, weshalb FIP nicht akzeptiert wird. Auf der Strecke Marseille – Toulon werden jedoch auch Züge der SNCF eingesetzt, bei denen FIP akzeptiert wird. Eine vorige Prüfung des Betreibers ist hier zwingend notwendig.
@@ -501,3 +513,7 @@ Die SNCF ist nicht die einfachste Bahngesellschaft, was FIP betrifft, da in viel
 [^5]: [FIP Guide Community: ICE Frankfurt–Bordeaux](https://discord.com/channels/1250522473188032512/1482738819982950462)
 
 [^6]: [SNCF Connect – Angebote für Kinder und Familien](https://www.sncf-connect.com/en-en/help/offer-children-and-families#ancre-11001)
+
+[^7]: [SNCF Connect – Boarding Train](https://www.sncf-connect.com/en-en/help/boarding-train)
+
+[^8]: [DB – Was muss ich bei meiner Reise mit der SNCF beachten?](https://www.bahn.de/faq/internationale-reise-sncf-was-beachten)

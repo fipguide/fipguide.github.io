@@ -53,6 +53,8 @@ La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC
 
 Le `TGV` inOui est le train à grande vitesse des SNCF Voyageurs, reliant de nombreuses villes françaises et des destinations internationales (ex. Munich, Francfort, Barcelone, Luxembourg, Bruxelles, Milan). Des trains `TGV` Lyria relient également la France à la Suisse (Bâle, Zurich, Lausanne, Genève).
 
+L’accès au quai (dans les gares avec barrières de quai) ainsi qu’aux trains est possible jusqu’à deux minutes avant le départ. Les portes se ferment deux minutes avant le départ. Le billet doit être prêt, car le personnel peut le contrôler avant l’embarquement.[^7] Ces règles ne s’appliquent pas en Allemagne.[^8]
+
 {{< highlight confusion >}}
 La SNCF exploite aussi des trains longue distance low-cost sous la marque OUIGO, mais ceux-ci ne sont pas valables avec FIP.
 {{< /highlight >}}
@@ -83,6 +85,8 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 
 OUIGO (Grande Vitesse) est le service grande vitesse low-cost de la SNCF, reliant de nombreuses villes en France et quelques destinations internationales. Il existe également des OUIGO Classique composés de matériel conventionnel.
 
+L’accès au train n’est plus garanti cinq minutes avant le départ.[^7]
+
 {{< highlight confusion >}}
 La SNCF exploite aussi des `TGV` sous la marque inOui, qui sont valables avec le FIP.
 {{< /highlight >}}
@@ -99,6 +103,8 @@ La SNCF exploite aussi des `TGV` sous la marque inOui, qui sont valables avec le
 %}}
 
 Trains à grande vitesse internationaux exploités par la SNCF en coopération avec la Deutsche Bahn, entre la France (Paris Est, Strasbourg) et l’Allemagne (Karlsruhe, Mannheim, Francfort-sur-le-Main, Erfurt, Halle-sur-Saale et Berlin ou Stuttgart et Munich). En juillet et août, il existe également des [trains directs entre Francfort (Main) et Bordeaux les samedis](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux).
+
+L’accès au quai (dans les gares avec barrières de quai) ainsi qu’aux trains est possible jusqu’à deux minutes avant le départ. Les portes se ferment deux minutes avant le départ. Le billet doit être prêt, car le personnel peut le contrôler avant l’embarquement.[^7] Ces règles ne s’appliquent pas en Allemagne.[^8]
 
 {{< highlight important >}}
 Des conditions particulières s’appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux).
@@ -130,6 +136,8 @@ Pour les trains directs entre Francfort (Main) et Bordeaux en juillet et août, 
 Trains Intercités de la SNCF reliant différentes villes françaises, généralement à réservation obligatoire.
 
 Sur le [site Intercités](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) de la SNCF, les liaisons avec ou sans obligation de réservation sont indiquées. Il est également possible de consulter les conditions de réservation pour chaque numéro de train via la [recherche de train](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) de la SNCF.
+
+L’accès au quai (dans les gares avec barrières de quai) ainsi qu’aux trains est possible jusqu’à deux minutes avant le départ. Les portes se ferment deux minutes avant le départ. Le billet doit être prêt, car le personnel peut le contrôler avant l’embarquement.[^7]
 
 #### Réservations
 
@@ -172,6 +180,8 @@ Coût selon la ligne et l’affluence.
 
 Le `TER` est le train régional reliant différentes villes françaises.
 Certaines lignes au départ de Paris sont à réservation obligatoire, voir [Réservation obligatoire en TER](#réservation-obligatoire-en-ter).
+
+L’accès au quai (dans les gares avec barrières de quai) ainsi qu’aux trains est possible jusqu’à deux minutes avant le départ. Les portes se ferment deux minutes avant le départ. Le billet doit être prêt, car le personnel peut le contrôler avant l’embarquement.[^7]
 
 {{< highlight confusion >}}
 Sur la ligne Marseille – Nice, Transdev exploite les trains, c’est pourquoi FIP n’est pas accepté. Cependant, sur la ligne Marseille – Toulon, des trains de la SNCF sont également utilisés, où FIP est accepté. Une vérification préalable de l’exploitant est donc indispensable ici.
@@ -490,3 +500,7 @@ La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent ac
 [^5]: [Communauté FIP Guide : ICE Francfort–Bordeaux](https://discord.com/channels/1250522473188032512/1482738819982950462)
 
 [^6]: [SNCF Connect – Offres enfants et familles](https://www.sncf-connect.com/en-en/help/offer-children-and-families#ancre-11001)
+
+[^7]: [SNCF Connect – Boarding Train](https://www.sncf-connect.com/en-en/help/boarding-train)
+
+[^8]: [DB – Was muss ich bei meiner Reise mit der SNCF beachten?](https://www.bahn.de/faq/internationale-reise-sncf-was-beachten)
