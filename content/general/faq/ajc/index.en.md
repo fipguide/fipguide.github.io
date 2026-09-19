@@ -1,5 +1,6 @@
 ---
-title: "How does AJC (Agreement on Journey Continuation) help me if I miss my connecting train?"
+title: How does AJC (Agreement on Journey Continuation) help me if I miss my
+  connecting train?
 weight: 19
 ---
 

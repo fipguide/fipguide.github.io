@@ -1,8 +1,9 @@
 ---
-date: "2025-06-15"
-draft: false
-title: "Suppression de la réservation familiale DB"
-description: "À partir du 15 juin 2025, la Deutsche Bahn ne proposera plus de réservation familiale. Nouveaux tarifs et réservations individuelles pour tous les voyageurs."
+date: 2025-06-15
+title: Suppression de la réservation familiale DB
+description: À partir du 15 juin 2025, la Deutsche Bahn ne proposera plus de
+  réservation familiale. Nouveaux tarifs et réservations individuelles pour tous
+  les voyageurs.
 country:
   - germany
 operator:

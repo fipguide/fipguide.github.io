@@ -1,5 +1,5 @@
 ---
-title: "404 – Page introuvable"
+title: 404 – Page introuvable
 params:
   pagefind_ignore: true
 ---

@@ -1,7 +1,6 @@
 ---
-draft: false
-title: "Montenegro"
-country: "montenegro"
+title: Montenegro
+country: montenegro
 ---
 
 ## FIP Information
@@ -35,24 +34,6 @@ From Serbia, Montenegro can be reached by the [only cross-border night train](/o
 ### Kosovo
 
 There is no rail connection between Kosovo and Montenegro.
-
-{{% highlight tip %}}
-**Balkan Flexipass**
-
-For travellers through several Balkan countries, the Balkan Flexipass could be worthwhile in terms of price. It enables unlimited travel on the rail networks of:
-
-- Bosnia and Herzegovina (ZFBH),
-- Bulgaria (BDZ),
-- North Macedonia (MŽ-Transport),
-- Greece (HT & Attica),
-- Montenegro (ŽPCG),
-- Romania (CFR Calatori & Regiotrans),
-- Serbia (SV),
-- Slovakia (ZSSK / ŽSR),
-- Turkey (TCDD).
-
-[More information on the ŽPCG website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
-{{% /highlight %}}
 
 ### Albania
 

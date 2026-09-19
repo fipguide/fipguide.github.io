@@ -1,8 +1,9 @@
 ---
-date: "2026-06-17"
-draft: false
+date: 2026-06-17
 title: "Großbritannien: Keine FIP Vergünstigung mehr bei der Dartmouth Steam Railway"
-description: "Bei der Dartmouth Steam Railway and River Boat Company wird keine FIP Vergünstigung mehr gewährt. Zuvor galt ein Rabatt von 75% auf den regulären Erwachsenenfahrpreis."
+description: Bei der Dartmouth Steam Railway and River Boat Company wird keine
+  FIP Vergünstigung mehr gewährt. Zuvor galt ein Rabatt von 75% auf den
+  regulären Erwachsenenfahrpreis.
 country:
   - united-kingdom
 operator:

@@ -1,7 +1,6 @@
 ---
-draft: false
-title: "Monténégro"
-country: "montenegro"
+title: Monténégro
+country: montenegro
 ---
 
 ## Informations FIP
@@ -35,24 +34,6 @@ Depuis la Serbie, le Monténégro est accessible avec le [seul train de nuit tra
 ### Kosovo
 
 Il n’existe pas de liaison ferroviaire entre le Kosovo et le Monténégro.
-
-{{% highlight tip %}}
-**Balkan Flexipass**
-
-Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass peut être intéressant sur le plan tarifaire. Il permet des trajets illimités sur les réseaux ferroviaires de :
-
-- Bosnie-Herzégovine (ZFBH),
-- Bulgarie (BDZ),
-- Macédoine du Nord (MŽ-Transport),
-- Grèce (HT & Attica),
-- Monténégro (ŽPCG),
-- Roumanie (CFR Calatori & Regiotrans),
-- Serbie (SV),
-- Slovaquie (ZSSK / ŽSR),
-- Turquie (TCDD).
-
-[Plus d’informations sur le site web de ŽPCG](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
-{{% /highlight %}}
 
 ### Albanie
 

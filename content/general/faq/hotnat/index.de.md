@@ -1,5 +1,6 @@
 ---
-title: "Wie hilft mir HOTNAT (Hop on the Next Available Train), wenn ich meinen Anschlusszug verpasse?"
+title: Wie hilft mir HOTNAT (Hop on the Next Available Train), wenn ich meinen
+  Anschlusszug verpasse?
 weight: 18
 ---
 

@@ -15,6 +15,13 @@
       "Text" $contactPage.Title
       )
     -}}
+    {{ $contributionPage := site.GetPage "contribution" }}
+    {{- partial "link"
+      (dict
+      "Destination" $contributionPage.RelPermalink
+      "Text" $contributionPage.Title
+      )
+    -}}
     {{ $aboutUsPage := site.GetPage "about-us" }}
     {{- partial "link"
       (dict

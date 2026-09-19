@@ -1,5 +1,5 @@
 ---
-title: "What does a field on an FIP Coupon mean?"
+title: What does a field on an FIP Coupon mean?
 weight: 11
 ---
 

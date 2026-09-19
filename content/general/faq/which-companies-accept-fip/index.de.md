@@ -1,5 +1,5 @@
 ---
-title: "Welche Bahngesellschaften akzeptieren FIP?"
+title: Welche Bahngesellschaften akzeptieren FIP?
 weight: 14
 ---
 

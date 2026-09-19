@@ -1,5 +1,5 @@
 ---
-title: "Welche Vergünstigungen erhalte ich durch FIP?"
+title: Welche Vergünstigungen erhalte ich durch FIP?
 weight: 6
 ---
 

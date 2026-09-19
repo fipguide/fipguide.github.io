@@ -1,6 +1,5 @@
 ---
-draft: false
-title: "Générales"
+title: Générales
 ---
 
 Sur ces pages, vous trouverez des informations générales et utiles concernant la FIP.

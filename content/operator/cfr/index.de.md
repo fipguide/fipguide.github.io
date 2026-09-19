@@ -1,10 +1,8 @@
 ---
-draft: false
-title: "CFR Călători"
+title: CFR Călători
 country:
-  - "romania"
-operator: "cfr"
-
+  - romania
+operator: cfr
 aliases:
   - /booking/cfr-ticket-office
 ---
@@ -20,6 +18,7 @@ Die Societatea Natională de Transport Feroviar de Călători “CFR Călători�
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der CFR Călători gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -34,18 +33,21 @@ Die Zugkategorien werden teilweise auch von anderen Betreibern in Rumänien genu
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=true
 %}}
+
 Nationale Fernverkehrszüge mit wenige Zwischenhalten und einem vergleichsweise höherem Komfort. Sie fahren hauptsächlich von Bukarest aus in die verschiedenen Richtungen des Landes.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die `IC` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
 Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
 **Kosten für Reservierung:** 6,5 RON
+
 {{% /train-category %}}
 
 {{% train-category
@@ -54,18 +56,21 @@ Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die R
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=true
 %}}
+
 Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Teilweise verkehren sie auch grenzüberschreitend, insbesondere nach Ungarn.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die `IR` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
 Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die Reservierung für einen Stehplatz erworben werden.
 
 **Kosten für Reservierung:** 6,5 RON bei nationalen Relationen
+
 {{% /train-category %}}
 
 {{% train-category
@@ -74,14 +79,16 @@ Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die R
     type="highspeed"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=true
 %}}
+
 Meist internationale Züge, die über Nacht verkehren. Sie werden in der Verbindungsauskunft bei anderen Anbietern auch teilweise als `D` gekennzeichnet.
 
 Bei den Zügen sind meist auch Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die `IRN` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
@@ -90,6 +97,7 @@ Eine Reservierung ist verpflichtend, entweder für einen Sitz-, Liege- oder Schl
 **Kosten für Reservierung:** 6,5 RON für Sitz- und Stehplätze auf nationalen Relationen
 
 Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [Preisliste Liege- und Schlafwagen](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
+
 {{% /train-category %}}
 
 {{% train-category
@@ -98,14 +106,16 @@ Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [P
     type="highspeed"
     fip_accepted=true
     reservation_required=partially
+    reservation_possible=false
 %}}
+
 Internationale Züge nach Bulgarien, Moldau und der Ukraine verkehren ohne eigene Zugkategorie und haben lediglich eine Zugnummer.
 
 Bei den Zügen sind oft auch Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
@@ -114,6 +124,7 @@ Eine Reservierung ist oft verpflichtend (erkennbar an einem _R_ in der Verbindun
 **Kosten für Reservierung:** 6,5 RON für Sitz- und Stehplätze auf nationalen Relationen
 
 Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [Preisliste Liege- und Schlafwagen](https://www.cfrcalatori.ro/en/supplements-sleeping-car-berth-car/)
+
 {{% /train-category %}}
 
 {{% train-category
@@ -122,18 +133,21 @@ Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [P
     type="regional"
     fip_accepted=true
     reservation_required=partially
+    reservation_possible=false
 %}}
+
 Regionalzüge, die auch kleinere Orte mit anbinden. Dabei haben die verschiedenen Züge auf einer Strecke oft kein festes Halteschema, d. h. die kleineren Halte werden nur von manchen `R` Zügen angefahren.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Die `R` Züge werden teilweise auch von anderen Betreibern in Rumänien betrieben. Für die FIP-Nutzung ist es wichtig zu beachten, dass der Betreiber die CFR Călători ist.
-{{% /highlight %}}
+{{< /highlight >}}
 
 #### Reservierungen
 
 Eine Reservierung ist für einige Züge erforderlich, diese sind mit _R_ gekennzeichnet.
 
 **Kosten für Reservierung:** 4,5 RON
+
 {{% /train-category %}}
 
 ## Ticket- und Reservierungskauf
@@ -148,7 +162,9 @@ Eine Reservierung ist für einige Züge erforderlich, diese sind mit _R_ gekennz
 
 {{% booking id="cfr-ticket-office" /%}}
 
-{{% booking id="db-ticket-office" subtitle="Für den Nachtzug Wien – Bukarest und InterCitys" %}}
+{{% booking id="db-ticket-office"
+    subtitle="Für den Nachtzug Wien – Bukarest und InterCitys"
+%}}
 Im DB Reisezentrum können FIP 50 Tickets und Reservierungen für den Nachtzug Wien – Bukarest erworben werden. Die Buchung ist 90 Tage im Voraus möglich. Für InterCitys sind Reservierungen erhältlich.
 {{% /booking %}}
 
@@ -159,6 +175,21 @@ Es können keine FIP-ermäßigte Tickets im Zug gekauft werden. Auch Reservierun
 ## Ermäßigungen
 
 Für reguläre Fahrkarten reisen Kinder unter 5 Jahren kostenlos. Kinder unter 10 Jahren erhalten eine Ermäßigung von 50% auf den Erwachsenentarif. Ältere Kinder zahlen den vollen Erwachsenentarif.[^1]
+
+{{% highlight tip %}}
+Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
+
+- Bosnien und Herzegowina (ŽFBH, ŽRS),
+- Bulgarien (BDŽ),
+- Nordmazedonien (MŽ-Transport),
+- Griechenland (HT & Attica),
+- Montenegro (ŽPCG),
+- Rumänien (CFR Calatori & Regiotrans),
+- Serbien (SV),
+- Türkei (TCDD).
+
+[Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Tarifliche Besonderheiten
 

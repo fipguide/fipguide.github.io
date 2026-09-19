@@ -1,5 +1,5 @@
 ---
-title: "Que signifie une case sur un Coupon FIP ?"
+title: Que signifie une case sur un Coupon FIP ?
 weight: 11
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: "Wie hilft mir AJC (Agreement on Journey Continuation), wenn ich meinen Anschlusszug verpasse?"
+title: Wie hilft mir AJC (Agreement on Journey Continuation), wenn ich meinen
+  Anschlusszug verpasse?
 weight: 19
 ---
 

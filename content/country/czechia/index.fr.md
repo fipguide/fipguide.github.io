@@ -1,7 +1,6 @@
 ---
-draft: false
-title: "Tchéquie"
-country: "czechia"
+title: Tchéquie
+country: czechia
 params:
   operators_without_fip:
     - ARRIVA vlaky s. r. o.

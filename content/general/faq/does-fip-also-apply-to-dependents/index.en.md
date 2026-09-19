@@ -1,5 +1,5 @@
 ---
-title: "Does FIP also apply to dependents?"
+title: Does FIP also apply to dependents?
 weight: 3
 ---
 

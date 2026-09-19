@@ -1,6 +1,5 @@
 ---
-title: "Plateformes de réservation"
-
+title: Plateformes de réservation
 cascade:
   - build:
       list: false

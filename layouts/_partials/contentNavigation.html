@@ -62,7 +62,7 @@
         <li>
           {{ partial "link"
             (dict
-            "Destination" (print .Site.Params.githubDevUrl "blob/main/content/" .File.Path)
+            "Destination" (partial "helper/cmsEditUrl" .)
             "Text" ((print (partial "icon" "edit_square" ) (T "editPage")) | safeHTML)
             )
           }}

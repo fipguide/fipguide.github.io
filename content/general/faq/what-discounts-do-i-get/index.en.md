@@ -1,5 +1,5 @@
 ---
-title: "What discounts do I get through FIP?"
+title: What discounts do I get through FIP?
 weight: 6
 ---
 

@@ -1,8 +1,8 @@
 ---
-date: "2025-08-25"
-draft: false
-title: "FIP Vergünstigungen Rigi-Bahnen (Schweiz)"
-description: "Ab dem 01.01.2025 gelten FIP Vergünstigungen auch auf einigen Strecken der Rigi-Bahnen in der Schweiz."
+date: 2025-08-25
+title: FIP Vergünstigungen Rigi-Bahnen (Schweiz)
+description: Ab dem 01.01.2025 gelten FIP Vergünstigungen auch auf einigen
+  Strecken der Rigi-Bahnen in der Schweiz.
 country:
   - switzerland
 operator:

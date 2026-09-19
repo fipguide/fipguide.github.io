@@ -1,10 +1,8 @@
 ---
-draft: false
-title: "NIR"
+title: NIR
 country:
-  - "united-kingdom"
-operator: "nir"
-
+  - united-kingdom
+operator: nir
 aliases:
   - /booking/translink-ticket-office
   - /booking/translink-whatsapp
@@ -19,32 +17,37 @@ Northern Ireland Railways (NIR) est la compagnie ferroviaire nationale d’Irlan
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
 
 ## Catégories de trains et réservations
-
-{{% train-category
-    id="regional-trains"
-    title="Trains régionaux"
-    type="regional"
-    fip_accepted=true
-    reservation_possible=false
-    route_overview_url="https://en.wikipedia.org/wiki/NI_Railways#/media/File:NIRailways_Map.png"
-%}}
-
-NIR exploite diverses liaisons de trains régionaux au départ de Belfast. Les trains régionaux ne sont pas réservables et peuvent être utilisés avec le FIP.
-
-{{% /train-category %}}
 
 {{% train-category
     id="enterprise"
     title="Intercity (Enterprise)"
     type="highspeed"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=true
 %}}
 
 NIR exploite le service Enterprise entre Dublin et Belfast conjointement avec [CIE](/operator/cie).
+
+Les voyageurs de la classe _Enterprise Plus_ sont accompagnés jusqu’à une place libre à bord du train. L’accès à de la classe _Enterprise Plus_ n’est autorisé que lorsqu’une place assise est disponible.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="regional-trains"
+    title="Trains régionaux"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://en.wikipedia.org/wiki/NI_Railways#/media/File:NIRailways_Map.png"
+%}}
+
+NIR exploite diverses liaisons de trains régionaux au départ de Belfast. Les trains régionaux ne sont pas réservables et peuvent être utilisés avec le FIP.
 
 {{% /train-category %}}
 
@@ -62,10 +65,6 @@ Les Billets FIP 50 / FIP 75 ne peuvent pas être achetés en ligne.
 
 {{% booking id="irish-rail-website"
     subtitle="Réservations (2e classe) pour le service Enterprise (Dublin – Belfast)."
-/%}}
-
-{{% booking id="translink-whatsapp"
-    subtitle="Réservations (1re classe) pour le service Enterprise (Dublin – Belfast)."
 /%}}
 
 ### En gare
@@ -89,6 +88,12 @@ Les enfants jusqu’à 5 ans voyagent gratuitement. Les jeunes jusqu’à 16 ans
 ### Possibilité d’interrompre le trajet
 
 Les interruptions de voyage ne sont autorisées que pour prendre des trains de correspondance.[^1]
+
+## Recommandations
+
+{{% highlight tip %}}
+Sur son réseau plutôt compact, la NIR propose un service cadencé fiable avec des trains quelque peu vieillissants. Elle offre notamment un service suburbain similaire à un réseau de S-Bahn autour de Belfast. La liaison proposée environ toutes les heures entre Belfast et Derry-Londonderry, et en particulier le tronçon entre Coleraine et Derry-Londonderry, vaut particulièrement le détour, car elle longe directement la côte nord.
+{{% /highlight %}}
 
 ## Sources
 

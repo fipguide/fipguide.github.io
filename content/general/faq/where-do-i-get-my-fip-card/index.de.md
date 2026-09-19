@@ -1,5 +1,5 @@
 ---
-title: "Wo erhalte ich meinen FIP-Ausweis?"
+title: Wo erhalte ich meinen FIP-Ausweis?
 weight: 5
 ---
 

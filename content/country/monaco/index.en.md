@@ -1,7 +1,6 @@
 ---
-draft: false
-title: "Monaco"
-country: "monaco"
+title: Monaco
+country: monaco
 ---
 
 ## FIP Information

@@ -1,10 +1,8 @@
 ---
-draft: false
-title: "DB"
+title: DB
 country:
-  - "germany"
-operator: "db"
-
+  - germany
+operator: db
 aliases:
   - /booking/db-ticket-office
   - /booking/db-website
@@ -23,6 +21,7 @@ La Deutsche Bahn (DB) est la plus grande entreprise ferroviaire d’[Allemagne](
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Pour les trajets transfrontaliers, il faut soit un billet FIP 50 continu, soit des FIP Coupons des deux pays.
@@ -47,13 +46,8 @@ L’`ICE` est un train à grande vitesse et la catégorie la plus élevée de la
 #### Réservations
 
 Réservation obligatoire pour les trajets transfrontaliers vers la France.
-Obligation de réservation temporaire pour les trajets transfrontaliers:
 
-- vers/depuis le Danemark: 26.06 – 16.08.2026
-- vers/depuis la Belgique: 26.06 – 16.08.2026
-- vers/depuis les Pays-Bas: 26.06 – 31.08.2026
-
-Par le passé, une obligation de réservation existait en été pour les trajets transfrontaliers vers l’Autriche. Cela peut changer chaque année. L’obligation de réservation est indiquée dans la [recherche d’itinéraire de la DB](https://www.bahn.de).
+Par le passé, une obligation de réservation existait en été pour les trajets transfrontaliers vers l’Autriche, la Belgique et les Pays-Bas. Cela peut changer chaque année. L’obligation de réservation est indiquée dans la [recherche d’itinéraire de la DB](https://www.bahn.de).
 
 {{% /train-category %}}
 
@@ -116,6 +110,7 @@ Pour les Railjets à destination de l’Italie, un supplément est requis à par
 Les trains Intercity complètent le réseau ICE. Ils circulent à une vitesse inférieure à celle des ICE, relient de nombreuses villes et desservent aussi de nombreuses régions de vacances.
 
 Certains [services Nightjet](#nj) utilisent des voitures Intercity (IC). Ces voitures peuvent être utilisées sans réservation. Le service IC est affiché dans les systèmes d’information en plus du service Nightjet.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -129,15 +124,14 @@ Certains [services Nightjet](#nj) utilisent des voitures Intercity (IC). Ces voi
 
 Train express international entre Francfort et Milan ainsi qu’entre Munich et Zurich. Depuis décembre 2025, la catégorie est aussi utilisée pour d’autres liaisons entre la Suisse et l’Allemagne ainsi que sur de trains sur la route Hambourg – Copenhague.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Les trains vers l’Italie sont soumis à supplément et réservation obligatoire à partir de la frontière italienne. Il est plus avantageux de voyager vers l’Italie avec un changement à Chiasso ([voir Arrivée Italie](/country/switzerland#italien "Arrivée Italie")). Le supplément peut être acheté au guichet DB ou SBB ou à bord.
 
 **Supplément/Réservation Italie :**
 
 - 1ʳᵉ classe : 13€
 - 2ᵉ classe : 11€
-
-{{% /highlight %}}
+  {{< /highlight >}}
 
 #### Réservations
 
@@ -174,9 +168,9 @@ Pour les trajets transfrontaliers en été vers la République tchèque, une obl
 
 Trains de nuit de l’ÖBB en coopération avec la DB vers différents pays européens. Les trains proposent des voitures-lits, couchettes et places assises et sont exploités à l’étranger avec d’autres compagnies.
 
-{{% highlight important %}}
+{{< highlight important >}}
 Les trajets nationaux gratuits pour les employés de la Deutsche Bahn ne sont pas reconnus en Allemagne. Si une partie du trajet Nightjet est en Allemagne (départ, arrivée ou transit), les employés de la DB doivent acheter un billet au Tarif Global FIP pour tout le trajet. Pour les trajets hors d’Allemagne avec FIP Coupon, une réservation/supplément est nécessaire.
-{{% /highlight %}}
+{{< /highlight >}}
 
 **Tarif Global FIP :** oui \
 _Astuce :_ Pour les trajets Allemagne - Italie, utiliser les trajets nationaux gratuits jusqu’à Salzbourg puis prendre le Nightjet pour éviter le Tarif Global FIP.
@@ -210,9 +204,9 @@ Une orientation est fournie par les [cartes d’aperçu](https://www.schienennah
 
 Les trains Regionalexpress relient des villes avec des arrêts dans les principales gares. Certains circulent aussi sur de longues distances.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Les trains de la catégorie `RE` sont souvent exploités par d’autres opérateurs.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -227,9 +221,9 @@ Les trains de la catégorie `RE` sont souvent exploités par d’autres opérate
 
 Les trains Regionalbahn relient des villes avec des arrêts dans presque toutes les gares.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Les trains de la catégorie `RB` sont souvent exploités par d’autres opérateurs.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -244,9 +238,9 @@ Les trains de la catégorie `RB` sont souvent exploités par d’autres opérate
 
 Trains de proximité dans les grandes villes et régions métropolitaines avec arrêt à toutes les gares.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Les trains de la catégorie `S` sont souvent exploités par d’autres opérateurs.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -264,10 +258,25 @@ Train express local entre Berlin Hauptbahnhof et l’aéroport Willy Brandt (BER
 {{% /train-category %}}
 
 {{% train-category
+    id="hbx"
+    title="Harz-Berlin-Express (HBX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Train d’excursion le week-end entre Berlin et Thale ou Goslar dans le Harz.
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Les réductions FIP ne sont pas valables dans les bus. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.[^1]
@@ -275,6 +284,8 @@ Les réductions FIP ne sont pas valables dans les bus. Dans les bus de remplacem
 {{% /train-category %}}
 
 ## Achat de billets et réservations
+
+Les Billets FIP 50 sont considérés comme _Flexpreis_ et peuvent donc être annulés gratuitement jusqu’avant le 1er jour de validité du billet. Ensuite, des frais s’appliquent. Les réservations ne peuvent être annulées que de manière limitée peu après l’achat. Plus d’informations sur l’annulation sur le [site de la Deutsche Bahn](https://int.bahn.de/fr/informations-reservation/echange-remboursement).
 
 ### En ligne
 
@@ -286,7 +297,11 @@ Les réductions FIP ne sont pas valables dans les bus. Dans les bus de remplacem
 
 ### Par téléphone
 
-{{% booking id="oebb-phone" subtitle="Incl. réservation Nightjet" classes.first="6,90 €" classes.second="5,50 €" %}}
+{{% booking id="oebb-phone"
+    subtitle="Incl. réservation Nightjet"
+    classes.first="6,90 €"
+    classes.second="5,50 €"
+%}}
 Les réservations pour les trajets intérieurs allemands coûtent 5,50 € (2e classe) ou 6,90 € (1re classe). Les connexions transfrontalières coûtent 3 €.
 {{% highlight inofficial %}}
 Actuellement, aucun Billet FIP 50 pour les trajets domestiques en Allemagne ne peut être vendu via la hotline ÖBB. Cependant, les réservations transfrontalières de Billets FIP 50 restent possibles (voir [Retours de la communauté Discord FIP sur la hotline ÖBB](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
@@ -295,7 +310,9 @@ Actuellement, aucun Billet FIP 50 pour les trajets domestiques en Allemagne ne p
 
 ### En gare
 
-{{% booking id="db-ticket-office" subtitle="Incl. réservation Nightjet" %}}
+{{% booking id="db-ticket-office"
+    subtitle="Incl. réservation Nightjet"
+%}}
 La réservation de trains directs sans correspondance est moins chère via l’ÖBB.
 {{% /booking %}}
 
@@ -361,15 +378,17 @@ Pour s’orienter, il est aussi possible de vérifier dans DB Navigator ou sur l
 {{% /highlight %}}
 
 {{% expander "Exemple de réseaux de transport sur Bahn.de" info %}}
+
 Dans l’exemple suivant, la connexion choisie se trouve dans le réseau de transport _VRS_ :
 
 ![Recherche de connexion VRS](search_vrs.webp)
 ![Sélection de billet VRS](ticket_vrs.fr.webp)
+
 {{% /expander %}}
 
 ### Distinction tarifaire entre trains longue distance et trains locaux
 
-Avec les billets FIP 50, il est possible d’utiliser différents trains sur le même trajet. Il faut cependant faire attention aux catégories de trains, car la DB distingue les billets selon différentes catégories de trains (appelées [_classes de produit_](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)). Les billets (y compris les billets FIP 50) ne sont valables que dans la même classe de produit ou une classe inférieure. La classe de produit est indiquée sur le billet (par exemple _ICE Fahrkarte_ ou _IC/EC Fahrkarte_) et dépend de la catégorie de train la plus élevée sur le trajet réservé.
+Avec les billets FIP 50, il est possible d’utiliser différents trains sur le même trajet. Il faut cependant faire attention aux catégories de trains, car la DB distingue les billets selon différentes catégories de trains (appelées _[classes de produit](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)_). Les billets (y compris les billets FIP 50) ne sont valables que dans la même classe de produit ou une classe inférieure. La classe de produit est indiquée sur le billet (par exemple _ICE Fahrkarte_ ou _IC/EC Fahrkarte_) et dépend de la catégorie de train la plus élevée sur le trajet réservé.
 
 Les classes de produit sont les suivantes :
 

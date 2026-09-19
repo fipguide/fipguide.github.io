@@ -1,5 +1,5 @@
 ---
-title: "Combien de temps est valable un Coupon FIP ?"
+title: Combien de temps est valable un Coupon FIP ?
 weight: 12
 ---
 

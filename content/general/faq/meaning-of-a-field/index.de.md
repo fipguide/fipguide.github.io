@@ -1,5 +1,5 @@
 ---
-title: "Was bedeutet ein Feld auf dem FIP Freifahrtschein?"
+title: Was bedeutet ein Feld auf dem FIP Freifahrtschein?
 weight: 11
 ---
 

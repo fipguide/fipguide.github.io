@@ -1,7 +1,6 @@
 ---
-title: "Übersicht der Betreiber"
-description: "Übersicht über die Betreiber, die FIP-Vergünstigungen anbieten."
-
+title: Übersicht der Betreiber
+description: Übersicht über die Betreiber, die FIP-Vergünstigungen anbieten.
 aliases:
   - /booking
 ---

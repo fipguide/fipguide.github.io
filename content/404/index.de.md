@@ -1,5 +1,5 @@
 ---
-title: "404 – Seite nicht gefunden"
+title: 404 – Seite nicht gefunden
 params:
   pagefind_ignore: true
 ---

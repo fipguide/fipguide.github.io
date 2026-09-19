@@ -1,6 +1,5 @@
 ---
-title: "Betreiber identifizieren"
-
+title: Betreiber identifizieren
 cascade:
   - build:
       list: false

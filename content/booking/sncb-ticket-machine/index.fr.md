@@ -1,13 +1,11 @@
 ---
-draft: false
-title: "Distributeurs de billets SNCB"
-description: "Informations de réservation pour les distributeurs de billets SNCB."
-
+title: Distributeurs de billets SNCB
+description: Informations de réservation pour les distributeurs de billets SNCB.
 params:
   fip_50: true
   fip_75: false
   reservations: false
-  type: "machine"
+  type: machine
 ---
 
 {{% booking-section "fip_50" %}}

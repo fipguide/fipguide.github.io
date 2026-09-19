@@ -1,5 +1,5 @@
 ---
-title: "Quelles réductions j’obtiens grâce au FIP ?"
+title: Quelles réductions j’obtiens grâce au FIP ?
 weight: 6
 ---
 

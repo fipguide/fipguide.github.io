@@ -1,5 +1,5 @@
 ---
-title: "Benötige ich eine Reservierung, um Züge mit FIP nutzen zu können?"
+title: Benötige ich eine Reservierung, um Züge mit FIP nutzen zu können?
 weight: 16
 ---
 

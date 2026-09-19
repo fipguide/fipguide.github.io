@@ -1,10 +1,8 @@
 ---
-draft: false
-title: "KMŁ"
+title: KMŁ
 country:
-  - "poland"
-operator: "kml"
-
+  - poland
+operator: kml
 aliases:
   - /booking/kml-ticket-office
 ---
@@ -21,6 +19,7 @@ Auf der Website bietet die KMŁ eine [Übersicht der betriebenen Linien](https:/
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der KMŁ gültig.
@@ -41,7 +40,7 @@ Da die KMŁ erst seit dem 01.04.2026 FIP-Mitglied ist sind die Buchungsmöglichk
 
 ### Vor Ort
 
-{{% booking id="kml-ticket-office"/%}}
+{{% booking id="kml-ticket-office" /%}}
 
 ### Im Zug
 

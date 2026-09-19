@@ -1,11 +1,9 @@
 ---
-draft: false
-title: "Attica"
+title: Attica
 country:
-  - "greece"
-  - "italy"
-operator: "attica"
-
+  - greece
+  - italy
+operator: attica
 aliases:
   - /booking/attica-agents
   - /booking/attica-email
@@ -22,7 +20,8 @@ Le groupe Attica est un important opérateur grec de ferries exploitant plusieur
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
-{{< fip-validity type="fip-reduced-ticket" subtitle="FIP 50" status="valid" disable_dialog=true >}}
+
+{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" disable_dialog=true >}}
 
 ## Catégories de navires et réservations
 
@@ -114,6 +113,24 @@ Le jour du voyage, des réservations peuvent être effectuées sur place sous r�
 Les enfants de moins de 4 ans n’occupant pas de lit, de couchette ou de siège paient 5,50 € par traversée.
 Sur les liaisons vers et depuis Ancône et Venise, les enfants de 4 à 16 ans paient 50 % du tarif adulte. Les personnes de 16 ans et plus paient le plein tarif adulte.
 Sur les liaisons vers et depuis Bari, les enfants de 4 à 12 ans paient 50 % du tarif adulte. Les personnes de 12 ans et plus paient le plein tarif adulte.[^1]
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass peut être intéressant sur le plan tarifaire. Il permet des trajets illimités sur les réseaux ferroviaires de :
+
+- Bosnie-Herzégovine (ZFBH),
+- Bulgarie (BDZ),
+- Macédoine du Nord (MŽ-Transport),
+- Grèce (HT & Attica),
+- Monténégro (ŽPCG),
+- Roumanie (CFR Calatori & Regiotrans),
+- Serbie (SV),
+- Slovaquie (ZSSK / ŽSR),
+- Turquie (TCDD).
+
+[Plus d’informations sur le site web de ŽPCG](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 

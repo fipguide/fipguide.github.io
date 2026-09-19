@@ -1,9 +1,8 @@
 ---
-draft: false
-title: "SV"
+title: SV
 country:
-  - "serbia"
-operator: "sv"
+  - serbia
+operator: sv
 ---
 
 Srbija Voz (Србија Воз) ist die staatliche Eisenbahngesellschaft in Serbien und betreibt den Großteil des Personenverkehrs im Land.
@@ -16,6 +15,7 @@ Srbija Voz (Србија Воз) ist die staatliche Eisenbahngesellschaft in Ser
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SV gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP rabattiertes Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
@@ -65,6 +65,7 @@ Die [Kosten für Liege- und Schlafwagenreservierungen](https://zpcg.me/en/red-vo
 Für Liege- oder Schlafwagenreservierungen fällt eine zusätzliche Servicegebühr von 10 % an.[^3]
 
 Reservierungen können [via Telefon](#telefon) vorgenommen werden.
+
 {{% /train-category %}}
 
 {{% train-category
@@ -123,6 +124,7 @@ Auf einigen Verbindungen sind Reservierungen verpflichtend, auf anderen Verbindu
     title="BG:VOZ"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -135,6 +137,7 @@ Als BG:VOZ betreibt die SV im Ballungsraum Belgrad zwei Linien ähnlich zu einer
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=nil
 %}}
 
@@ -148,8 +151,7 @@ Aktuell ist jedoch ein Shuttle Bus zwischen Novi Sad und Petrovaradin kostenlos 
 
 ### Telefon
 
-{{% booking
-    id="sv-phone"
+{{% booking id="sv-phone"
     subtitle="Reservierung von internationalen Fahrten zwischen Serbien und Montenegro"
 /%}}
 
@@ -160,6 +162,21 @@ Aktuell ist jedoch ein Shuttle Bus zwischen Novi Sad und Petrovaradin kostenlos 
 ## Ermäßigungen
 
 Im Inlandsverkehr sowie Fernverkehr nach Montenegro reisen Kinder bis einschließlich sechs Jahre kostenlos, sofern sie keinen eigenen Sitzplatz benötigen und von einem Erwachsenen mit gültiger Fahrkarte begleitet werden. Kinder zwischen sechs und 14 Jahren sowie jüngere Kinder, für die ein eigener Sitzplatz erforderlich ist, erhalten 50 % Ermäßigung auf den regulären Fahrpreis für Erwachsene.[^7]
+
+{{% highlight tip %}}
+Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
+
+- Bosnien und Herzegowina (ŽFBH, ŽRS),
+- Bulgarien (BDŽ),
+- Nordmazedonien (MŽ-Transport),
+- Griechenland (HT & Attica),
+- Montenegro (ŽPCG),
+- Rumänien (CFR Calatori & Regiotrans),
+- Serbien (SV),
+- Türkei (TCDD).
+
+[Weitere Informationen auf der ŽPCG-Website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Tarifliche Besonderheiten
 

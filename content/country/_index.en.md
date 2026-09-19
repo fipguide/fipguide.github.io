@@ -1,7 +1,7 @@
 ---
-title: "Overview of countries"
-description: "A clear overview of all countries where FIP benefits are available. Find out in which countries FIP 50 tickets and FIP coupons can be used."
-
+title: Overview of countries
+description: A clear overview of all countries where FIP benefits are available.
+  Find out in which countries FIP 50 tickets and FIP coupons can be used.
 params:
   countriesWithoutFip:
     - Åland Islands

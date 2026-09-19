@@ -1,7 +1,6 @@
 ---
-draft: false
-title: "Hongrie"
-country: "hungary"
+title: Hongrie
+country: hungary
 params:
   operators_without_fip:
     - RegioJet

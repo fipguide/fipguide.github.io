@@ -1,9 +1,8 @@
 ---
-draft: false
-title: "ŽPCG"
+title: ŽPCG
 country:
-  - "montenegro"
-operator: "zpcg"
+  - montenegro
+operator: zpcg
 ---
 
 ŽPCG (Željeznički prevoz Crne Gore, Жељезнички превоз Црне Горе) est l’opérateur national de transport de voyageurs au Monténégro.
@@ -16,6 +15,7 @@ operator: "zpcg"
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les liaisons de ŽPCG. Pour les trajets transfrontaliers, il faut disposer soit d’un Billet FIP 50 continu, soit des Coupons FIP des deux pays.
@@ -28,7 +28,9 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les liaisons de ŽPCG. P
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
+
 ŽPCG exploite des trains régionaux en trafic intérieur, qui ne proposent que la deuxième classe.
 Les trains n’ont pas de désignation de ligne, mais uniquement un numéro de train.
 
@@ -47,6 +49,7 @@ Sur présentation de la Carte FIP, une réduction de 50 % est accordée sur les 
     type="sleeper"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=true
 %}}
 
 Entre le Monténégro et la Serbie, ŽPCG exploite des trains de jour pendant les mois d’été ainsi que des trains de nuit toute l’année avec voitures assises, voitures-couchettes et voitures-lits, ainsi que (partiellement) des voitures-restaurants.
@@ -68,6 +71,7 @@ Pour les réservations en voiture-couchette/voiture-lits, des frais de service s
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=nil
 %}}
 
@@ -85,8 +89,7 @@ Nous ne disposons toutefois pas d’informations officielles sur cette procédur
 
 ### Par téléphone
 
-{{% booking
-    id="sv-phone"
+{{% booking id="sv-phone"
     subtitle="Réservation de voyages internationaux entre la Serbie et le Monténégro"
 /%}}
 
@@ -105,6 +108,24 @@ Des billets avec réduction FIP peuvent être achetés à bord du train. Un supp
 ## Réductions
 
 Pour les tarifs publics, les enfants jusqu’à 6 ans voyagent gratuitement. Les enfants jusqu’à 14 ans bénéficient d’une réduction de 50 % sur le tarif adulte. Les enfants à partir de 14 ans paient le tarif adulte.[^2]
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass peut être intéressant sur le plan tarifaire. Il permet des trajets illimités sur les réseaux ferroviaires de :
+
+- Bosnie-Herzégovine (ZFBH),
+- Bulgarie (BDZ),
+- Macédoine du Nord (MŽ-Transport),
+- Grèce (HT & Attica),
+- Monténégro (ŽPCG),
+- Roumanie (CFR Calatori & Regiotrans),
+- Serbie (SV),
+- Slovaquie (ZSSK / ŽSR),
+- Turquie (TCDD).
+
+[Plus d’informations sur le site web de ŽPCG](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 

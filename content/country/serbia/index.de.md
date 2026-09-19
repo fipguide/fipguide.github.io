@@ -1,7 +1,6 @@
 ---
-draft: false
-title: "Serbien"
-country: "serbia"
+title: Serbien
+country: serbia
 params:
   operators_without_fip:
     - Optima Express
@@ -13,8 +12,7 @@ In Serbien können Züge der Staatsbahn [Srbija Voz](/operator/sv "SV") mit FIP 
 
 Der Kosovo wird zwar von Serbien als Teil des Landes beansprucht, allerdings verkehren dort ausschließlich Züge vom Betreiber Trainkos, bei dem FIP keine Gültigkeit hat. Kosovo ist damit nicht mit FIP-Rabatten befahrbar.
 
-{{< identify-operator sources="sv-website,db-website,vagonweb" >}}
-{{< /identify-operator >}}
+{{< identify-operator sources="sv-website,db-website,vagonweb" />}}
 
 ## Wissenswertes
 
@@ -28,15 +26,15 @@ Die Züge in Serbien sind abseits der Hauptstrecken meist eher älter und wenige
 
 {{% expander "Grenzpunkte" border %}}
 
-| Land                                                       | Grenzpunkte                                              |
-| ---------------------------------------------------------- | -------------------------------------------------------- |
-| [Ungarn](/country/hungary) ([MÁV](/operator/mav))          | Röszke (Gr), Subotica (Gr)                               |
-| [Rumänien](/country/romania) ([CFR](/operator/cfr))        | Jimbolia (fr), Vršac (fr)                                |
-| [Bulgarien](/country/bulgaria) ([BDZ](/operator/bdz))      | Dimitrovgrad (fr)                                        |
-| Nordmazedonien (ŽRSM)                                      | Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc) |
-| [Montenegro](/country/montenegro) ([ŽPCG](/operator/zpcg)) | Bijelo Polje (Gr)                                        |
-| Bosnien und Herzegowina (ZRS/ZFBH)                         | Savski Brežovljani, Zvornik                              |
-| Kroatien (HŽ)                                              | Erdut (Gr) (Serbisch: Ердут), Šid (Gr) (Serbisch: Шид)   |
+| Land                                                                                                       | Grenzpunkte                                              |
+| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| [Ungarn](/country/hungary) ([MÁV](/operator/mav))                                                          | Röszke (Gr), Subotica (Gr)                               |
+| [Rumänien](/country/romania) ([CFR](/operator/cfr))                                                        | Jimbolia (fr), Vršac (fr)                                |
+| [Bulgarien](/country/bulgaria) ([BDZ](/operator/bdz))                                                      | Dimitrovgrad (fr)                                        |
+| Nordmazedonien (ŽRSM)                                                                                      | Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc) |
+| [Montenegro](/country/montenegro) ([ŽPCG](/operator/zpcg))                                                 | Bijelo Polje (Gr)                                        |
+| [Bosnien und Herzegowina](/country/bosnia-and-herzegovina) ([ŽFBH](/operator/zfbh) / [ŽRS](/operator/zrs)) | Zvornik                                                  |
+| Kroatien (HŽ)                                                                                              | Erdut (Gr) (Serbisch: Ердут), Šid (Gr) (Serbisch: Шид)   |
 
 {{% /expander %}}
 

@@ -1,0 +1,2 @@
+{{- $entryPath := print (strings.TrimPrefix (print .Type "/") .File.Dir) .File.TranslationBaseName -}}
+{{- return print .Site.BaseURL "admin/#/collections/" .Type "/entries/" $entryPath -}}

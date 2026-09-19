@@ -1,6 +1,10 @@
 <span class="a-tag a-tag--{{ .Type }}">
   {{ if .Icon }}{{ partial "icon" .Icon }}{{ end }}
   <span class="a-tag__text"
-    >{{ if .RawText }}{{ .RawText }}{{ else }}{{ i18n .Text }}{{ end }}</span
+    >{{ if .RawText }}
+      {{ .RawText }}
+    {{ else }}
+      {{ i18n .Text }}
+    {{ end }}</span
   >
 </span>

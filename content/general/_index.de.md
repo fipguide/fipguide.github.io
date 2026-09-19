@@ -1,6 +1,5 @@
 ---
-draft: false
-title: "Allgemeines"
+title: Allgemeines
 ---
 
 Hier findest du nützliche, allgemeine Informationen zur Reise mit FIP.

@@ -1,9 +1,9 @@
 ---
-date: "2025-02-16"
-draft: false
-author: "Willy"
-title: "Grenzüberschreitende FIP Tickets der SNCB"
-description: "Die SNCB bietet nun grenzüberschreitende FIP-Tickets online an. So lassen sich internationale Fahrten mit Ermäßigung bequem buchen."
+date: 2025-02-16
+author: Willy
+title: Grenzüberschreitende FIP Tickets der SNCB
+description: Die SNCB bietet nun grenzüberschreitende FIP-Tickets online an. So
+  lassen sich internationale Fahrten mit Ermäßigung bequem buchen.
 country:
   - belgium
   - netherlands

@@ -1,5 +1,5 @@
 ---
-title: "Are there exceptions when using FIP Coupons?"
+title: Are there exceptions when using FIP Coupons?
 weight: 15
 ---
 

@@ -1,8 +1,9 @@
 ---
-date: "2025-06-15"
-draft: false
-title: "Discontinuity of DB Family Reservation"
-description: "Starting June 15, 2025, Deutsche Bahn will no longer offer family seat reservations. New prices and individual bookings now apply to all travelers."
+date: 2025-06-15
+title: Discontinuity of DB Family Reservation
+description: Starting June 15, 2025, Deutsche Bahn will no longer offer family
+  seat reservations. New prices and individual bookings now apply to all
+  travelers.
 country:
   - germany
 operator:

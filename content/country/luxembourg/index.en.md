@@ -1,7 +1,6 @@
 ---
-draft: false
-title: "Luxembourg"
-country: "luxembourg"
+title: Luxembourg
+country: luxembourg
 ---
 
 ## FIP Information

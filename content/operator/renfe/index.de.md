@@ -1,11 +1,9 @@
 ---
-draft: false
-title: "Renfe"
+title: Renfe
 country:
-  - "spain"
-  - "france"
-operator: "renfe"
-
+  - spain
+  - france
+operator: renfe
 aliases:
   - /booking/renfe-ticket-office
 ---
@@ -14,7 +12,7 @@ Renfe Operadora ist das staatliche Eisenbahnunternehmen in [Spanien](/country/sp
 
 ## Zusammenfassung
 
-- FIP Freifahrtscheine werden in Pendlerzügen (hauptsächlich S-Bahnen) akzeptiert, jedoch nicht in reservierungspflichtigen Zügen.
+- FIP Freifahrtscheine werden in Pendlerzügen (hauptsächlich S-Bahnen) akzeptiert, nicht jedoch in reservierungspflichtigen Zügen.
 - Für reservierungspflichtige Züge können Tickets zum FIP Globalpreis (Distanzunabhängig) inkl. Reservierung erworden werden, FIP Freifahrtscheine werden nicht benötigt.
 - In Avlo-Zügen wird FIP nicht akzeptiert.
 - Für die grenzüberschreitenden AVE zwischen Madrid und Marseille sowie Lyon und Barcelona gibt es abweichende FIP-Globalpreise für den internationalen Streckenabschnitt.
@@ -22,7 +20,9 @@ Renfe Operadora ist das staatliche Eisenbahnunternehmen in [Spanien](/country/sp
 ## Gültigkeit FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" text="Außer reservierungspflichtige Züge" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" text="Außer reservierungspflichtige Züge" >}}
+
 {{< fip-validity type="fip-global-fare" status="valid" text="Für reservierungspflichtige Züge außer Avlo" disable_dialog=true >}}
 
 ## Zugkategorien und Reservierungen
@@ -42,7 +42,7 @@ Nur S-Bahnen sind mit FIP Freifahrtscheinen uneingeschränkt nutzbar. In anderen
     reservation_possible=true
 %}}
 
-Langstreckenverbindungen mit normalspurigen Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtscheine werden nicht anerkannt.
+Langstreckenverbindungen mit normalspurigen und umspurbaren Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtscheine werden nicht anerkannt.
 
 Die internationalen AVE von / nach Frankreich haben je nach Streckenabschnitt unterschiedliche FIP Globalpreise. Die Buchung von internationalen Verbindungen ist ausschließlich über Renfe direkt möglich, weshalb Tickets bei Einstieg in Spanien an einem Ticketschalter in Spanien erworben werden müssen. Bei Zustieg in Frankreich können FIP Tickets im Zug erworben werden, Kartenzahlung ist möglich. [^3]
 
@@ -190,7 +190,7 @@ Es besteht Reservierungspflicht, außer auf der Route Barcelona(-Girona-Figueres
 
 Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtscheine sind hier uneingeschränkt gültig.
 
-In Barcelona sind die Cercanías (auch zum Flughafen) nur über Zugangsschranken erreichbar. Vor Ort muss das Personal angesprochen werden, um durch die Zugangsschranken zu gelangen.
+Teilweise sind die Cercanías nur über Zugangsschranken erreichbar. Vor Ort muss das Personal angesprochen werden, um durch die Zugangsschranken zu gelangen. Bei fehlender Besetzung durch Personal nachts ist eine Zugangsschranke offen oder es sind Sprechsäulen vorhanden.
 
 - Cercanías Asturias
 - Cercanías Bilbao – Bilboko Aldiriak
@@ -227,7 +227,7 @@ Eine telefonische Buchung bei Renfe scheint nicht möglich zu sein. Bei der Hotl
 
 {{% booking id="db-ticket-office"
     fip_global_fare=true
-    reservations="nil"
+    reservations=nil
 %}}
 
 #### FIP Globalpreis

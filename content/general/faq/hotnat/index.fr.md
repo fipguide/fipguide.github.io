@@ -1,5 +1,6 @@
 ---
-title: "Comment HOTNAT (Hop on the Next Available Train) m'aide-t-il si je rate ma correspondance ?"
+title: Comment HOTNAT (Hop on the Next Available Train) m'aide-t-il si je rate
+  ma correspondance ?
 weight: 18
 ---
 

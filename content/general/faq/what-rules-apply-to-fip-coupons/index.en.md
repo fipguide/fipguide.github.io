@@ -1,5 +1,5 @@
 ---
-title: "What rules apply to FIP Coupons?"
+title: What rules apply to FIP Coupons?
 weight: 8
 ---
 

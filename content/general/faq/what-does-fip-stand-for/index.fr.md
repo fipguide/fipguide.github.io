@@ -1,5 +1,5 @@
 ---
-title: "Que signifie FIP ?"
+title: Que signifie FIP ?
 weight: 1
 ---
 

@@ -1,9 +1,11 @@
 ---
-title: "General Information"
-description: "General information about FIP, the FIP Card (International Discount Card for Railway Staff), and the use of international travel concessions such as FIP 50 Tickets and FIP Coupons (free international travel)."
+title: General Information
+description: General information about FIP, the FIP Card (International Discount
+  Card for Railway Staff), and the use of international travel concessions such
+  as FIP 50 Tickets and FIP Coupons (free international travel).
 toc: true
 aliases:
-  - "/generalinformation/"
+  - /generalinformation/
 ---
 
 ## General
@@ -49,7 +51,7 @@ FIP discounts come in various forms; a FIP Card is always required to use them.
 FIP Coupons (colloquially known as international free travel passes) entitle you to travel on trains operated by the company indicated on the coupon. An _FIP Coupon_ consists of several _fields_. Each field is valid for two consecutive days. You must enter the first day of validity on the ticket; the ticket is then valid on that day and the following day. The different fields do not have to be used on consecutive days, but the dates must fall within the printed validity period. Some railway companies have different rules for FIP Coupons for their own employees.
 
 {{% highlight tip %}}
-In practice, the 2-day rule is not always known. On the train, it can help to have [this translated explanatory table](/en/generalinformation/2-day-rule.pdf) printed out.
+In practice, the 2-day rule is not always known. On the train, it can help to have [this translated explanatory table](/en//general/generalinformation/2-day-rule.pdf) printed out.
 {{% /highlight %}}
 
 You can apply for one FIP Coupon per operator per calendar year. Some railway companies may have different rules for their own employees. This means you can order one FIP Coupon with one to four fields from as many operators as you like each year. The relevant calendar year is determined by the date the validity begins. The application for the international free travel pass is usually made through your railway company's personnel service or travel center. Some companies also offer online portals.
@@ -65,11 +67,13 @@ Officially, the _FIP Card_ does not have to be shown on the train when using _FI
 {{% /highlight %}}
 
 {{% expander "Example of using an FIP Coupon" info %}}
+
 Suppose I'm an employee of a European railway company (e.g., Deutsche Bahn) and want to travel for a total of eight days on various trains within Austria. To do this, I need to order an FIP Coupon for the Austrian Federal Railways (ÖBB) with four fields (4 fields = up to 8 days of free travel with that operator).
 
 The FIP Coupon is valid for three months; I can only travel during this time (example validity: 10.02.2026 - 09.05.2026). I enter the country on 01.03.2026 and, before my first train journey in Austria, I fill in 01.03.2026 in the first field. Now I can use ÖBB trains on 01.03 and 02.03.2026 (exceptions and special rules are found on the respective [operator page](/operator "operator page")).
 
 On 03.03.2026 I don't travel by train, but I do on 04.03. So I fill in 04.03.2026 in the second field, allowing me to travel on 05.03 as well. This continues until I've used all four fields. I use the last field, for example, on 10.03.2026 and travel back out of Austria on 11.03.2026.
+
 {{% /expander %}}
 
 {{% highlight tip %}}
@@ -95,9 +99,11 @@ Since FIP 50 Tickets only discount flexible tickets, they can be more expensive 
 {{% /highlight %}}
 
 {{% expander "Example of using an FIP 50 Ticket" info %}}
+
 I am FIP-eligible at Deutsche Bahn and want to travel from Frankfurt am Main to Amsterdam on 01.03.2026. I purchase an FIP 50 Ticket from Frankfurt Hbf to Amsterdam Centraal at the DB travel center (in this case, it would also be possible online via a special DB page). If the ticket is not linked to a reservation, it is flexible and valid on any connection of the same operator and train category (e.g., ICE) on that day. However, this ticket is only valid for the Dutch section, since the ticket is not valid in your home operator's country. I therefore need another ticket for the German section, for example an employee discount for DB staff.
 
 The situation is different if, for example, I book a ticket from Vienna to Budapest; in this case I get an FIP 50 Ticket valid for the entire route.
+
 {{% /expander %}}
 
 ### FIP Global Fares
@@ -132,19 +138,23 @@ While an FIP Coupon is always issued for exactly one railway company, an FIP 50 
 Which border stations and border tariff points exist between two countries or railway companies are listed in the FIP Guide on the respective country page.
 
 {{% expander "Example of dealing with border stations" info %}}
+
 I am FIP-eligible at Deutsche Bahn and want to travel from Frankfurt am Main to Vienna on 01.03.2026. I have two options: either order an FIP Coupon for ÖBB or book an FIP 50 Ticket from Frankfurt Hbf to Vienna Hbf. Both are only valid for the Austrian section since I cannot use FIP in Germany. The journey typically takes place via Passau Hbf, which is the border station between Germany and Austria.
 
 I therefore need an additional ticket for the journey between Frankfurt Hbf and Passau Hbf, such as a regularly purchased ticket or an employee discount for DB staff within Germany. From Passau Hbf onwards, both the ÖBB coupon and the FIP 50 Ticket are valid.
 
 ![Example graphic border station](borderstation.en.svg)
+
 {{% /expander %}}
 
 {{% expander "Example of dealing with border points" info %}}
+
 I am FIP-eligible at Deutsche Bahn and want to travel from Frankfurt am Main to Copenhagen on 01.03.2026. I have two options: either order an FIP Coupon for DSB or book an FIP 50 Ticket from Frankfurt Hbf to Kobenhavn H. Both are only valid for the Danish section since I cannot use FIP in Germany. The journey typically goes via the border point Padborg (Gr), which is only a virtual border point between Flensburg and Padborg, not an actual railway station.
 
 I therefore need an additional ticket for the journey between Frankfurt Hbf and this border point, such as a regularly purchased ticket to the first Danish station Padborg or an employee discount for DB staff within Germany that is valid up to the border. A ticket, for example, to the last German station (Schleswig) where the train stops, or to Flensburg is not sufficient. From the border point onwards, both the DSB coupon and the FIP 50 Ticket are valid.
 
 ![Example graphic border point](borderpoint.en.svg)
+
 {{% /expander %}}
 
 ## Taxation

@@ -1,0 +1,15 @@
+.o-cms-edit-link__info {
+  font-size: 0.85rem;
+  color: #6b7280;
+  margin: 0;
+}
+
+.o-cms-edit-link__info a {
+  color: #3a69c7;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.o-cms-edit-link__info a:hover {
+  text-decoration: underline;
+}

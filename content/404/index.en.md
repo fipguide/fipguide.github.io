@@ -1,5 +1,5 @@
 ---
-title: "404 – Page not found"
+title: 404 – Page not found
 aliases:
   - ../404.html
 params:

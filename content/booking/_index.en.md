@@ -1,6 +1,5 @@
 ---
-title: "Booking Platforms"
-
+title: Booking Platforms
 cascade:
   - build:
       list: false

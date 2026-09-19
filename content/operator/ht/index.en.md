@@ -1,10 +1,8 @@
 ---
-draft: false
-title: "Hellenic Train"
+title: Hellenic Train
 country:
-  - "greece"
-operator: "ht"
-
+  - greece
+operator: ht
 aliases:
   - /booking/ht-ticket-office
   - /booking/ht-website
@@ -20,6 +18,7 @@ Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) operate
 ## Validity of FIP Tickets
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 ## Train Categories and Reservations
@@ -39,12 +38,12 @@ These trains connect Athens (Αθήνα) and Thessaloniki (Θεσσαλονίκ�
 
 Reservations must be obtained in advance. They can be purchased online or on site.
 
-{{% highlight tip %}}
+{{< highlight tip >}}
 IC trains are frequently sold out a few days in advance. It is advisable to arrange a reservation in good time.
 
 Tip for travellers with an FIP Coupon:
 Since individual reservations are not available online, first book an FIP 50 Ticket. This can be cancelled free of charge. On site, you can check whether reservations are still available. If so, cancel the FIP 50 Ticket; otherwise, travel with the FIP 50 Ticket.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -54,15 +53,16 @@ Since individual reservations are not available online, first book an FIP 50 Tic
     type="regional"
     fip_accepted=true
     reservation_required=false
+    reservation_possible=false
 %}}
 
 Regional trains connect cities and regions outside the main axis.
 
 Some trains are referred to as Proastiakos or Suburban Railway, which is comparable to an S-Bahn. In the journey planner, these services also appear as regional trains `REG`.
 
-{{% highlight confusion %}}
+{{< highlight confusion >}}
 Tourist services such as the Pelion Train are also shown as `REG` in the journey planner, but FIP is not valid on these.
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /train-category %}}
 
@@ -72,6 +72,7 @@ Tourist services such as the Pelion Train are also shown as `REG` in the journey
     type="bus"
     fip_accepted=true
     reservation_required=true
+    reservation_possible=true
 %}}
 
 Buses operated by Hellenic Train accept FIP benefits.[^1]
@@ -83,6 +84,8 @@ Buses operated by Hellenic Train accept FIP benefits.[^1]
     title="Tourist and historic trains"
     type="regional"
     fip_accepted=false
+    reservation_required=false
+    reservation_possible=false
 %}}
 
 Hellenic Train operates three tourist or historic train services on which FIP is not accepted.[^1]
@@ -91,7 +94,7 @@ Hellenic Train operates three tourist or historic train services on which FIP is
 - Rack railway "Odontotos" from Diakopto (Διακοπτό) to Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/attraction-rails)
 - Katakolo (Κατάκολο) – Olympia (Αρχαία Ολυμπία) (https://www.hellenictrain.gr/en/katakolo-olympia)
 
-{{< highlight info >}}
+{{< highlight tip >}}
 According to experience reports, the rack railway between Diakopto and Kalavryta can be used with an FIP Coupon and a free reservation obtainable on site. We are currently unable to verify usability with FIP 50, as services have been temporarily suspended.[^3]
 {{< /highlight >}}
 
@@ -107,15 +110,15 @@ According to experience reports, the rack railway between Diakopto and Kalavryta
 ### Online
 
 {{% booking id="ht-website"
-    fip_global_fare=nil
     fip_50=true
+    fip_global_fare=nil
 /%}}
 
 ### On-Site
 
 {{% booking id="ht-ticket-office"
-    fip_global_fare=nil
     fip_50=true
+    fip_global_fare=nil
 /%}}
 
 ### On the Train
@@ -126,6 +129,24 @@ If you start your journey at a station where the ticket office is unstaffed, tic
 ## Discounts
 
 At public fares, children up to 4 years travel free of charge, children up to 12 years receive a 50% discount on the adult fare. From 12 years, the regular adult fare applies.[^1]
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+For travellers through several Balkan countries, the Balkan Flexipass could be worthwhile in terms of price. It enables unlimited travel on the rail networks of:
+
+- Bosnia and Herzegovina (ZFBH),
+- Bulgaria (BDZ),
+- North Macedonia (MŽ-Transport),
+- Greece (HT & Attica),
+- Montenegro (ŽPCG),
+- Romania (CFR Calatori & Regiotrans),
+- Serbia (SV),
+- Slovakia (ZSSK / ŽSR),
+- Turkey (TCDD).
+
+[More information on the ŽPCG website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Special Tariff Conditions
 

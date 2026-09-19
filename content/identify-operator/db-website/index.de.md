@@ -1,7 +1,7 @@
 ---
-title: "DB Website"
+title: DB Website
 params:
-  url: "https://bahn.de"
+  url: https://bahn.de
 ---
 
 Über die Verbindungsauskunft können Fahrten und Züge gesucht werden. Für jeden Zug einer Verbindung ist in den _Weiteren Informationen_ des Zuges der Betreiber (_Beförderer_) angegeben. Bei grenzüberschreitenden Verbindungen sind oftmals mehrere Betreiber beteiligt.

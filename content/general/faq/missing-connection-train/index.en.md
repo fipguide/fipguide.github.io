@@ -1,5 +1,5 @@
 ---
-title: "What happens if I miss my connecting train?"
+title: What happens if I miss my connecting train?
 weight: 17
 ---
 

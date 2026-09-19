@@ -1,7 +1,6 @@
 ---
-draft: false
-title: "Italie"
-country: "italy"
+title: Italie
+country: italy
 params:
   operators_without_fip:
     - Azienda Regionale Sarda Trasporti
@@ -9,7 +8,8 @@ params:
     - Circumvesuviana
     - Cumana
     - European Sleeper
-    - ’[Ferrovie Sud Est](/operator/fs#validité-des-billets-fip "Ferrovie Sud Est")’
+    - ’[Ferrovie Sud Est](/operator/fs#validité-des-billets-fip "Ferrovie Sud
+      Est")’
     - Italo / NTV
     - ’[Trenord](/operator/fs#validité-des-billets-fip "Trenord")’
 ---

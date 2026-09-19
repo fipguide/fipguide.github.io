@@ -1,6 +1,6 @@
 ---
-title: "Imprint"
-description: "Legal notice and provider information of the FIP Guide website."
+title: Imprint
+description: Legal notice and provider information of the FIP Guide website.
 ---
 
 **Lennart Rommeiß**\

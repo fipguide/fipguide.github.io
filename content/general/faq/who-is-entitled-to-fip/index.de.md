@@ -1,5 +1,5 @@
 ---
-title: "Wer hat Anspruch auf FIP?"
+title: Wer hat Anspruch auf FIP?
 weight: 2
 ---
 

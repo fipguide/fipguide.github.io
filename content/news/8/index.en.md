@@ -1,8 +1,8 @@
 ---
-date: "2026-03-09"
-draft: false
+date: 2026-03-09
 title: "Czechia: Further FIP Restrictions by ČD"
-description: "České dráhy (ČD) has expanded the restrictions on FIP usage in Czechia. New regions, higher surcharges, and more affected train categories."
+description: České dráhy (ČD) has expanded the restrictions on FIP usage in
+  Czechia. New regions, higher surcharges, and more affected train categories.
 country:
   - czechia
 operator:

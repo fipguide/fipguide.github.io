@@ -1,9 +1,8 @@
 ---
-draft: false
-title: "SV"
+title: SV
 country:
-  - "serbia"
-operator: "sv"
+  - serbia
+operator: sv
 ---
 
 Srbija Voz (Србија Воз) est la compagnie ferroviaire nationale de Serbie et exploite la majeure partie du trafic voyageurs dans le pays.
@@ -16,6 +15,7 @@ Srbija Voz (Србија Воз) est la compagnie ferroviaire nationale de Serbi
 ## Validité des Billets FIP
 
 {{< fip-validity type="fip-coupon" status="valid" >}}
+
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les relations de SV. Pour les trajets transfrontaliers, il faut disposer soit d’un billet FIP à tarif réduit direct, soit de Coupons FIP des deux pays.
@@ -65,6 +65,7 @@ Les [coûts des réservations en voiture-couchettes et en voiture-lits](https://
 Pour les réservations en voiture-couchettes ou en voiture-lits, des frais de service supplémentaires de 10 % s’appliquent.[^3]
 
 Les réservations peuvent être effectuées [par téléphone](#par-téléphone).
+
 {{% /train-category %}}
 
 {{% train-category
@@ -123,6 +124,7 @@ Sur certaines relations, les réservations sont obligatoires ; sur d’autres re
     title="BG:VOZ"
     type="regional"
     fip_accepted=true
+    reservation_required=false
     reservation_possible=false
 %}}
 
@@ -135,6 +137,7 @@ Sous la marque BG:VOZ, SV exploite deux lignes dans l’agglomération de Belgra
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_required=false
     reservation_possible=nil
 %}}
 
@@ -148,8 +151,7 @@ Actuellement, un bus navette entre Novi Sad et Petrovaradin peut toutefois être
 
 ### Par téléphone
 
-{{% booking
-    id="sv-phone"
+{{% booking id="sv-phone"
     subtitle="Réservation de voyages internationaux entre la Serbie et le Monténégro"
 /%}}
 
@@ -160,6 +162,24 @@ Actuellement, un bus navette entre Novi Sad et Petrovaradin peut toutefois être
 ## Réductions
 
 Dans le trafic intérieur ainsi que dans le trafic grandes lignes vers le Monténégro, les enfants jusqu’à six ans inclus voyagent gratuitement, à condition qu’ils n’aient pas besoin de leur propre place assise et qu’ils soient accompagnés d’un adulte muni d’un billet valable. Les enfants entre six et 14 ans ainsi que les enfants plus jeunes pour lesquels une place assise propre est nécessaire bénéficient d’une réduction de 50 % sur le tarif adulte régulier.[^7]
+
+{{% highlight tip %}}
+**Balkan Flexipass**
+
+Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass peut être intéressant sur le plan tarifaire. Il permet des trajets illimités sur les réseaux ferroviaires de :
+
+- Bosnie-Herzégovine (ZFBH),
+- Bulgarie (BDZ),
+- Macédoine du Nord (MŽ-Transport),
+- Grèce (HT & Attica),
+- Monténégro (ŽPCG),
+- Roumanie (CFR Calatori & Regiotrans),
+- Serbie (SV),
+- Slovaquie (ZSSK / ŽSR),
+- Turquie (TCDD).
+
+[Plus d’informations sur le site web de ŽPCG](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Conditions tarifaires spéciales
 
