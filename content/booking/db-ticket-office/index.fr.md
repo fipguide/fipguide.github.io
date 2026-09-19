@@ -15,6 +15,13 @@ aliases:
 
 Les guichets de la Deutsche Bahn sont appelés _DB Reisezentrum_ et se trouvent dans de nombreuses grandes gares en Allemagne.
 
+{{% highlight inofficial %}}
+Dans de nombreux pays, il existe des agences DB qui peuvent vraisemblablement vendre des billets FIP au même titre que les agences DB en Allemagne. Cette information étant une hypothèse de l'équipe du Guide FIP, nous vous invitons à nous faire part de vos commentaires.
+
+La liste des agences DB internationales est disponible sur le [site web de la Deutsche Bahn](https://assets.static-bahn.de/dam/jcr:cfb35ea3-642e-4a17-9a2a-4a40af5d22b8/20241010_Internationale%20DB-Agenturen.pdf).
+
+{{% /highlight %}}
+
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

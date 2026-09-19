@@ -15,6 +15,12 @@ aliases:
 
 Deutsche Bahn ticket offices are called _DB Reisezentrum_ and are located in many larger stations throughout Germany.
 
+{{% highlight inofficial %}}
+Many countries have DB agencies that can likely sell FIP tickets to the same extent as DB travel centers in Germany. As this is an assumption made by the FIP Guide team, we would appreciate feedback from users based on their experiences.
+
+The list of international DB agencies can be found on the [Deutsche Bahn website](https://assets.static-bahn.de/dam/jcr:cfb35ea3-642e-4a17-9a2a-4a40af5d22b8/20241010_Internationale%20DB-Agenturen.pdf).
+{{% /highlight %}}
+
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets
