@@ -1,7 +1,6 @@
 {{- $lang := .Page.Language.Lang -}}
 {{- $base := .Site.Params.taxationRemoteBaseURL | default "" -}}
 {{- $warning := T "taxation.intranet-only-warning" -}}
-{{- $headingYear := T "taxation.year" -}}
 {{- $i18nTaxation := dict
   "first-class" (T "taxation.first-class")
   "second-class" (T "taxation.second-class")
@@ -56,9 +55,6 @@
   data-taxation-remote-warning="{{ $warning }}"
   data-taxation-remote-i18n="{{ $i18nPayload | jsonify }}"
 >
-  <h2 id="calculator">
-    {{ T "taxation.calculator" (dict "Year" $headingYear) }}
-  </h2>
   <div class="o-taxation-embed__loading m-text-highlight m-text-highlight--tip">
     <div class="o-taxation-embed__loading-content">
       {{ partial "icon" "pending" }}<span>Loading...</span>
@@ -81,7 +77,6 @@
       "[data-taxation-remote-warning-template]",
     );
     var warningHtml = warningTemplate ? warningTemplate.innerHTML : "";
-    var headingHtml = '<h2 id="calculator">{{ T "taxation.calculator" (dict "Year" $headingYear) }}</h2>';
     var loadingHtml = '<div class="o-taxation-embed__loading m-text-highlight m-text-highlight--tip"><div class="o-taxation-embed__loading-content">{{ partial "icon" "pending" }}<span>Loading...</span></div></div>';
 
     function normalizeBaseUrl(rawUrl) {
@@ -92,7 +87,6 @@
 
     function renderWarning() {
       root.innerHTML = "";
-      root.insertAdjacentHTML("beforeend", headingHtml);
       if (warningHtml) {
         root.insertAdjacentHTML("beforeend", warningHtml);
       }
@@ -100,7 +94,6 @@
 
     function renderLoading() {
       root.innerHTML = "";
-      root.insertAdjacentHTML("beforeend", headingHtml);
       root.insertAdjacentHTML("beforeend", loadingHtml);
     }
 
@@ -158,7 +151,6 @@
 
     function renderShell() {
       root.innerHTML =
-        headingHtml +
         '<div class="o-taxation-embed__calculator" data-taxation-calculator-host></div>';
     }
 

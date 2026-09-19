@@ -264,39 +264,13 @@ taxation:
   add-national: Ajouter une réduction nationale
   add-operator: Ajouter un opérateur
   add-other: Ajouter un avantage imposable
-  calculator: Calculateur d’imposition {{ .Year }}
   category-international: Coupons FIP internationaux
   category-national: Réductions nationales
   category-other: Autres
   children: Enfants
   decrease: Diminuer
-  disclaimer: >-
-    Nous n’assumons aucune responsabilité ni garantie quant à l’exactitude des
-    données calculées. Le calcul est fourni à titre indicatif uniquement.
   first-class: 1re classe
   increase: Augmenter
-  info:
-    db: |
-      Les Coupons FIP pour les employés en Allemagne sont considérés comme une
-      _réduction non monétaire_ assujettie à l’article 8 de la Loi de l’impôt
-      sur le revenu allemand (EStG). Les Coupons FIP sont donc assujettis à
-      l’impôt sur le revenu et aux cotisations de sécurité sociale.
-
-      La valeur évaluée varie selon la longueur du réseau qui peut être couverte
-      avec le coupon respectif et est mise à jour annuellement. Une liste des
-      montants actuels est disponible sur le marché des voyages DB ou le portail
-      des employés DB.
-
-      Chaque mois, tous les avantages imposables sont additionnés (y compris les
-      autres avantages non monétaires tels que les réductions FIP de voyage
-      nationales). Si la somme dépasse un certain seuil (50 € en 2025), le
-      montant entier (pas seulement ce qui dépasse le seuil, mais tout) est
-      ajouté au revenu imposable (généralement le salaire brut). En conséquence,
-      les impôts et les cotisations sociales sont plus élevés ce mois-là.
-
-      Les Coupons FIP et les réductions FIP de voyage nationales des ayants
-      droit sont comptabilisés auprès de l’employé. Aucune réduction non
-      monétaire n’est calculée pour les billets FIP 50.
   intranet-only-warning: >-
     Le calculateur d’imposition n’est accessible que depuis l’intranet de la
     Deutsche Bahn.
@@ -345,7 +319,6 @@ taxation:
     imposition supplémentaire ne s’applique.
   unassigned: Non attribué
   unlock: Supprimer l’attribution
-  year: '2026'
 teamMembers:
   lennart:
     name: Lennart Rommeiß

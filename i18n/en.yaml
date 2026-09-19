@@ -253,38 +253,13 @@ taxation:
   add-national: Add national discount
   add-operator: Add operator
   add-other: Add taxable benefit
-  calculator: Tax Calculator {{ .Year }}
   category-international: International FIP Coupons
   category-national: National Discounts
   category-other: Other
   children: Children
   decrease: Decrease
-  disclaimer: >-
-    We assume no liability or guarantee for the accuracy of the calculated data.
-    The calculation is for orientation purposes only.
   first-class: 1st Class
   increase: Increase
-  info:
-    db: |
-      FIP Coupons for employees in Germany are considered _non-monetary
-      compensation_ subject to § 8 of the German Income Tax Act (EStG). FIP
-      Coupons are therefore subject to income tax and social security
-      contributions.
-
-      The assessed value differs depending on the network length that can be
-      covered with the respective coupon and is updated annually. A list of the
-      current amounts is available in the DB Reisemarkt or DB employee portal.
-
-      Each month, all taxable benefits are added together (including other
-      non-monetary benefits such as national FIP discounts). If the sum exceeds
-      a certain threshold (€50 in 2025), the entire amount (not just what
-      exceeds the threshold, but everything) is added to taxable income (usually
-      gross salary). Accordingly, taxes and social contributions are higher that
-      month.
-
-      FIP Coupons and national travel discounts of dependents are counted toward
-      the employee. No non-monetary compensation is calculated for FIP 50
-      tickets.
   intranet-only-warning: The tax calculator is only accessible from Deutsche Bahn’s intranet.
   lock: Set assignment
   no-first-class: 2nd Class only
@@ -327,7 +302,6 @@ taxation:
     applies.
   unassigned: Unassigned
   unlock: Remove assignment
-  year: '2026'
 teamMembers:
   lennart:
     name: Lennart Rommeiß

@@ -264,40 +264,13 @@ taxation:
   add-national: Nationale Vergünstigung hinzufügen
   add-operator: Betreiber hinzufügen
   add-other: Sachbezug hinzufügen
-  calculator: DB Steuerrechner {{ .Year }}
   category-international: Internationale FIP Freifahrtscheine
   category-national: Nationale Vergünstigungen
   category-other: Sonstiges
   children: Kinder
   decrease: Verringern
-  disclaimer: >-
-    Wir übernehmen keine Haftung oder Garantie für die Richtigkeit der
-    berechneten Daten. Die Berechnung dient ausschließlich zur Orientierung.
   first-class: 1. Klasse
   increase: Erhöhen
-  info:
-    db: |
-      FIP Freifahrtscheine von Mitarbeitenden in Deutschland gelten als
-      _Geldwerter Vorteil_ und unterliegen § 8 des Einkommensteuergesetzes
-      (EStG). Die FIP Freifahrtscheine sind somit steuer- und
-      sozialversicherungspflichtig.
-
-      Der angerechnete Wert unterscheidet sich je nach Streckennetzlänge die mit
-      dem jeweiligen Freifahrtschein gefahren werden kann und wird jährlich
-      aktualisiert. Mit dem [FIP Guide Steuerrechner](#calculator) kannst du den
-      Wert aller deiner Freifahrten berechnen.
-
-      Monatlich werden alle Sachbezugswerte zusammengerechnet (auch andere
-      geldwerte Vorteile wie nationale Freifahrten). Wenn die Summe einen
-      gewissen Grenzwert übersteigt (50 € in 2025) wird der gesamte Betrag
-      (nicht nur, was über dem Grenzwert liegt, sondern alles) auf das zu
-      versteuernde Einkommen (üblicherweise das Bruttogehalt) aufgeschlagen.
-      Dementsprechend höher fallen in diesem Monat dann Steuer- und
-      Sozialabgaben aus.
-
-      FIP Freifahrtscheine und nationale Fahrvergünstigungen von Angehörigen
-      werden dem Mitarbeitenden angerechnet. Für FIP 50 Tickets wird kein
-      Geldwerter Vorteil berechnet.
   intranet-only-warning: Der Steuerrechner ist nur aus dem Intranet der Deutschen Bahn erreichbar.
   lock: Zuordnung festlegen
   no-first-class: Nur 2. Klasse
@@ -343,7 +316,6 @@ taxation:
     keine zusätzliche Versteuerung.
   unassigned: Nicht zugewiesen
   unlock: Zuordnung aufheben
-  year: '2026'
 teamMembers:
   lennart:
     name: Lennart Rommeiß
