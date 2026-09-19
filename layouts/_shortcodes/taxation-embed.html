@@ -1,7 +1,6 @@
 {{- $lang := .Page.Language.Lang -}}
 {{- $base := .Site.Params.taxationRemoteBaseURL | default "" -}}
 {{- $warning := T "taxation.intranet-only-warning" -}}
-{{- $permissionHeading := T "taxation.local-network-permission-heading" -}}
 {{- $permissionInfo := T "taxation.local-network-permission-info" -}}
 {{- $i18nTaxation := dict
   "first-class" (T "taxation.first-class")
@@ -67,7 +66,7 @@
   <template data-taxation-remote-permission-template>
     {{ partial "highlight" (dict
       "Type" "important"
-      "Content" (printf "**%s**\n\n%s" $permissionHeading $permissionInfo | markdownify)
+      "Content" $permissionInfo
       )
     }}
   </template>
@@ -85,7 +84,7 @@
       "[data-taxation-remote-permission-template]",
     );
     var permissionHtml = permissionTemplate ? permissionTemplate.innerHTML : "";
-    var loadingHtml = '<div class="o-taxation-embed__loading m-text-highlight m-text-highlight--tip"><div class="o-taxation-embed__loading-content">{{ partial "icon" "pending" }}<span>Loading...</span></div></div>';
+    var loadingHtml = '<div class="o-taxation-embed__loading m-text-highlight m-text-highlight--tip"><div class="o-taxation-embed__loading-content">{{ partial "icon" "pending" }}<span>{{ T "taxation.loading" }}</span></div></div>';
 
     function normalizeBaseUrl(rawUrl) {
       var trimmed = String(rawUrl || "").trim();
