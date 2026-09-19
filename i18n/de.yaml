@@ -272,6 +272,13 @@ taxation:
   first-class: 1. Klasse
   increase: Erhöhen
   intranet-only-warning: Der Steuerrechner ist nur aus dem Intranet der Deutschen Bahn erreichbar.
+  local-network-permission-heading: Zugriff auf das lokale Netzwerk erforderlich
+  local-network-permission-info: >-
+    Der Steuerrechner lädt seine Daten aus dem Intranet der Deutschen Bahn. Dein
+    Browser fragt dich daher, ob diese Seite auf andere Geräte in deinem lokalen
+    Netzwerk zugreifen darf. Bitte wähle „Zulassen“, damit der Rechner geladen
+    werden kann. Ohne diese Berechtigung können die Daten nicht abgerufen
+    werden.
   lock: Zuordnung festlegen
   no-first-class: Nur 2. Klasse
   optimization-month: Monat

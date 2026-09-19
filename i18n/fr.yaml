@@ -274,6 +274,13 @@ taxation:
   intranet-only-warning: >-
     Le calculateur d’imposition n’est accessible que depuis l’intranet de la
     Deutsche Bahn.
+  local-network-permission-heading: Accès au réseau local requis
+  local-network-permission-info: >-
+    Le calculateur d’imposition charge ses données depuis l’intranet de la
+    Deutsche Bahn. Votre navigateur vous demande donc si ce site peut accéder à
+    d’autres appareils de votre réseau local. Veuillez choisir « Autoriser »
+    afin que le calculateur puisse se charger. Sans cette autorisation, les
+    données ne peuvent pas être récupérées.
   lock: Définir l’attribution
   no-first-class: 2nd classe uniquement
   optimization-month: Mois

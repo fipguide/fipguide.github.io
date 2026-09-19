@@ -1,6 +1,8 @@
 {{- $lang := .Page.Language.Lang -}}
 {{- $base := .Site.Params.taxationRemoteBaseURL | default "" -}}
 {{- $warning := T "taxation.intranet-only-warning" -}}
+{{- $permissionHeading := T "taxation.local-network-permission-heading" -}}
+{{- $permissionInfo := T "taxation.local-network-permission-info" -}}
 {{- $i18nTaxation := dict
   "first-class" (T "taxation.first-class")
   "second-class" (T "taxation.second-class")
@@ -67,6 +69,13 @@
       )
     }}
   </template>
+  <template data-taxation-remote-permission-template>
+    {{ partial "highlight" (dict
+      "Type" "important"
+      "Content" (printf "**%s**\n\n%s" $permissionHeading $permissionInfo | markdownify)
+      )
+    }}
+  </template>
 </div>
 
 <script>
@@ -77,6 +86,10 @@
       "[data-taxation-remote-warning-template]",
     );
     var warningHtml = warningTemplate ? warningTemplate.innerHTML : "";
+    var permissionTemplate = root.querySelector(
+      "[data-taxation-remote-permission-template]",
+    );
+    var permissionHtml = permissionTemplate ? permissionTemplate.innerHTML : "";
     var loadingHtml = '<div class="o-taxation-embed__loading m-text-highlight m-text-highlight--tip"><div class="o-taxation-embed__loading-content">{{ partial "icon" "pending" }}<span>Loading...</span></div></div>';
 
     function normalizeBaseUrl(rawUrl) {
@@ -95,6 +108,15 @@
     function renderLoading() {
       root.innerHTML = "";
       root.insertAdjacentHTML("beforeend", loadingHtml);
+    }
+
+    function renderPermissionNotice() {
+      root.innerHTML = "";
+      if (permissionHtml) {
+        root.insertAdjacentHTML("beforeend", permissionHtml);
+      } else if (warningHtml) {
+        root.insertAdjacentHTML("beforeend", warningHtml);
+      }
     }
 
     function loadModule(src, id) {
@@ -154,13 +176,27 @@
         '<div class="o-taxation-embed__calculator" data-taxation-calculator-host></div>';
     }
 
-    async function initOnce() {
+    function fetchWithTimeout(url, options, timeoutMs) {
+      if (typeof AbortController === "undefined") {
+        return fetch(url, options);
+      }
+      var controller = new AbortController();
+      var timer = setTimeout(function () {
+        controller.abort();
+      }, timeoutMs);
+      var opts = Object.assign({}, options, { signal: controller.signal });
+      return fetch(url, opts).finally(function () {
+        clearTimeout(timer);
+      });
+    }
+
+    async function attemptLoad() {
       var baseUrl = normalizeBaseUrl(
         root.getAttribute("data-taxation-remote-base-url"),
       );
       if (!baseUrl) {
         renderWarning();
-        return;
+        return true;
       }
 
       var lang = root.getAttribute("data-taxation-remote-lang") || "en";
@@ -170,39 +206,85 @@
 
       renderLoading();
 
-      try {
-        var checkResponse = await fetch(baseUrl + "data/index.json", {
-          method: "GET",
-          cache: "no-store",
-          credentials: "omit",
-        });
-        if (!checkResponse.ok) {
-          throw new Error("remote-unreachable");
-        }
-
-        await loadCss(baseUrl);
-        await loadModule(
-          baseUrl + "js/calculatorEmbed.js",
-          "taxation-remote-module",
-        );
-
-        renderShell();
-        var host = root.querySelector("[data-taxation-calculator-host]");
-        if (!host || !window.mountTaxationCalculator) {
-          throw new Error("calculator-mount-unavailable");
-        }
-
-        await window.mountTaxationCalculator({
-          host: host,
-          remoteBaseUrl: baseUrl,
-          iconBaseUrl: "/icons/material-symbols-rounded/",
-          lang: lang,
-          issuer: issuer,
-          i18n: i18n,
-        });
-      } catch (_error) {
-        renderWarning();
+      var checkResponse = await fetchWithTimeout(
+        baseUrl + "data/index.json",
+        { method: "GET", cache: "no-store", credentials: "omit" },
+        8000,
+      );
+      if (!checkResponse.ok) {
+        throw new Error("remote-unreachable");
       }
+
+      await loadCss(baseUrl);
+      await loadModule(
+        baseUrl + "js/calculatorEmbed.js",
+        "taxation-remote-module",
+      );
+
+      renderShell();
+      var host = root.querySelector("[data-taxation-calculator-host]");
+      if (!host || !window.mountTaxationCalculator) {
+        throw new Error("calculator-mount-unavailable");
+      }
+
+      await window.mountTaxationCalculator({
+        host: host,
+        remoteBaseUrl: baseUrl,
+        iconBaseUrl: "/icons/material-symbols-rounded/",
+        lang: lang,
+        issuer: issuer,
+        i18n: i18n,
+      });
+      return true;
+    }
+
+    var loading = false;
+
+    async function loadWithFallback() {
+      if (loading) return;
+      loading = true;
+      try {
+        await attemptLoad();
+      } catch (_error) {
+        renderPermissionNotice();
+      } finally {
+        loading = false;
+      }
+    }
+
+    async function initOnce() {
+      var permissions =
+        typeof navigator !== "undefined" && navigator.permissions;
+      if (!permissions || typeof permissions.query !== "function") {
+        loadWithFallback();
+        return;
+      }
+
+      var status;
+      try {
+        status = await permissions.query({ name: "local-network-access" });
+      } catch (_error) {
+        // Permission name not supported in this browser: just try to load.
+        loadWithFallback();
+        return;
+      }
+
+      function react() {
+        if (status.state === "granted" || status.state === "prompt") {
+          // In "prompt" state the load attempt triggers the native
+          // permission prompt; the notice explains why it is needed.
+          if (status.state === "prompt") {
+            renderPermissionNotice();
+          }
+          loadWithFallback();
+        } else {
+          // denied: show the notice and wait for the user to allow access.
+          renderPermissionNotice();
+        }
+      }
+
+      status.onchange = react;
+      react();
     }
 
     if (document.readyState === "loading") {

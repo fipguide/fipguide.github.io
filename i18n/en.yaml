@@ -261,6 +261,12 @@ taxation:
   first-class: 1st Class
   increase: Increase
   intranet-only-warning: The tax calculator is only accessible from Deutsche Bahn’s intranet.
+  local-network-permission-heading: Local network access required
+  local-network-permission-info: >-
+    The tax calculator loads its data from Deutsche Bahn’s intranet. Your
+    browser therefore asks whether this site may access other devices on your
+    local network. Please choose “Allow” so the calculator can load. Without
+    this permission, the data cannot be retrieved.
   lock: Set assignment
   no-first-class: 2nd Class only
   optimization-month: Month
