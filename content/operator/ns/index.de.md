@@ -124,11 +124,18 @@ Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten
 Teilweise zuschlagspflichtiger Schnellzug zwischen Lelystad oder Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal und Breda.
 
 {{< highlight important >}}
+{{% float-image
+    src="toeslag-supplement.webp"
+    alt="Zuschlagsautomat am Schiphol Airport"
+    width="30%"
+    position="right"
+%}}
 Bei Fahrten auf dem Abschnitt zwischen Rotterdam und Schiphol ist für FIP 50 Tickets ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3,20 € zu entrichten.
 
 Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
 
-Inhaber einer OV-Chipkarte, Debit- oder Kreditkarte [^7] können an roten Zuschlagsautomaten im Bahnhof (siehe Bild rechts) zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,92 € (40 % Rabatt) erwerben. [^1] [^2] [^3] [^4]
+Inhaber einer OV-Chipkarte, Debit- oder Kreditkarte [^7] können an roten Zuschlagsautomaten mit der Beschriftung "Toeslag / Zuschlag" im Bahnhof (siehe Bild rechts) zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,92 € (40 % Rabatt) erwerben. [^1] [^2] [^3] [^4]
+{{% /float-image %}}
 {{< /highlight >}}
 
 ![Intercity Direct Netz, Spag85, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg)](intercity-direct-map.webp)
