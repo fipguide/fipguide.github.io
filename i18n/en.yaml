@@ -253,13 +253,14 @@ taxation:
   add-national: Add national discount
   add-operator: Add operator
   add-other: Add taxable benefit
-  card-persons-one: For 1 person · number of fields
-  card-persons-other: For {{ .Count }} persons · number of fields per person
+  card-persons-one: For 1 person
+  card-persons-other: For {{ .Count }} persons
   category-international: International FIP Coupons
   category-national: National Discounts
   category-other: Other
   children: Children
   decrease: Decrease
+  field-count-heading: Fields per person
   first-class: 1st Class
   increase: Increase
   intranet-only-warning: >-

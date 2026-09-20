@@ -264,13 +264,14 @@ taxation:
   add-national: Nationale Vergünstigung hinzufügen
   add-operator: Betreiber hinzufügen
   add-other: Sachbezug hinzufügen
-  card-persons-one: Für 1 Person · Anzahl der Felder
-  card-persons-other: Für {{ .Count }} Personen · Anzahl der Felder jeweils pro Person
+  card-persons-one: Für 1 Person
+  card-persons-other: Für {{ .Count }} Personen
   category-international: Internationale FIP Freifahrtscheine
   category-national: Nationale Vergünstigungen
   category-other: Sonstiges
   children: Kinder
   decrease: Verringern
+  field-count-heading: Felder pro Person
   first-class: 1. Klasse
   increase: Erhöhen
   intranet-only-warning: >-
