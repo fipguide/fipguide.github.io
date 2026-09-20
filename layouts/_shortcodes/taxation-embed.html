@@ -143,33 +143,25 @@
     }
 
     async function loadCss(baseUrl) {
-      var cssUrl = baseUrl + "css/styles.min.css";
-      var cssResponse = await fetch(cssUrl, {
-        method: "GET",
-        cache: "no-store",
-        credentials: "omit",
+      var cssUrl = baseUrl + "css/taxation.min.css";
+      var existing = document.getElementById("taxation-remote-style-link");
+      if (existing) {
+        return;
+      }
+      await new Promise(function (resolve, reject) {
+        var link = document.createElement("link");
+        link.id = "taxation-remote-style-link";
+        link.rel = "stylesheet";
+        link.href = cssUrl;
+        link.crossOrigin = "anonymous";
+        link.onload = function () {
+          resolve();
+        };
+        link.onerror = function () {
+          reject(new Error("style-load-failed"));
+        };
+        document.head.appendChild(link);
       });
-      if (!cssResponse.ok) {
-        throw new Error("style-load-failed");
-      }
-      var cssText = await cssResponse.text();
-      var rewritten = String(cssText)
-        .replace(
-          /url\((['"]?)\/icons\//g,
-          "url($1" + window.location.origin + "/icons/",
-        )
-        .replace(
-          /url\((['"]?)\/css\//g,
-          "url($1" + window.location.origin + "/css/",
-        );
-
-      var style = document.getElementById("taxation-remote-style");
-      if (!style) {
-        style = document.createElement("style");
-        style.id = "taxation-remote-style";
-        document.head.appendChild(style);
-      }
-      style.textContent = rewritten;
     }
 
     function renderShell() {
