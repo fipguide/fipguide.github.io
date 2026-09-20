@@ -1,11 +1,11 @@
 ---
+aliases:
+  - /booking/ns-phone
+  - /booking/ns-ticket-office
 title: NS
 country:
   - netherlands
 operator: ns
-aliases:
-  - /booking/ns-phone
-  - /booking/ns-ticket-office
 ---
 
 Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des [Pays-Bas](/country/netherlands "Pays-Bas") et assurent la majorité du trafic voyageurs dans le pays.
