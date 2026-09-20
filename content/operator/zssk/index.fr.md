@@ -228,6 +228,10 @@ Les étudiants de moins de 26 ans et les seniors de 62 ans et plus originaires d
 
 Possible uniquement pour les trajets de 101 km ou plus.
 
+### Correspondances – AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ### Services de remplacement ferroviaire
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.[^1]

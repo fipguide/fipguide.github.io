@@ -177,7 +177,7 @@ Les réductions diffèrent selon le pays dans lequel vous voyagez avec GySEV.
 
 Pour un arrêt intermédiaire, le billet doit être composté à la gare où l’arrêt doit avoir lieu.
 
-### Correspondances - AJC
+### Correspondances – AJC
 
 Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 

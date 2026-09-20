@@ -425,6 +425,18 @@ Le 1er août 2026, Regionalverkehre Start GmbH a été intégrée à DB Regio AG
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.[^1]
 
+### Correspondances
+
+#### HOTNAT
+
+Si un train de correspondance est manqué dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle ou Zurich, HOTNAT peut être utilisé.
+
+Cet opérateur fait partie de HOTNAT (Hop on the Next Available Train). [Plus d’informations dans la FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ## Recommandations
 
 La Deutsche Bahn exploite une multitude de liaisons très variées. Par exemple, il est possible d’emprunter le Thüringer Bergbahn entre Obstfelderschmiede et Cursdorf. Les liaisons à travers la Forêt-Noire (Schwarzwaldbahn) ou la vallée du Rhin sur la rive gauche sont aussi très recommandées. En longue distance, il est à noter qu’il y a normalement un restaurant à bord sur chaque liaison ´ICE´. Celui-ci ne propose pas de plats fraîchement cuisinés, mais l’offre est tout de même très variée.
