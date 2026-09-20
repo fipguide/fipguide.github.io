@@ -264,8 +264,8 @@ taxation:
   add-national: Ajouter une réduction nationale
   add-operator: Ajouter un opérateur
   add-other: Ajouter un avantage imposable
-  card-persons-one: Pour 1 personne
-  card-persons-other: Pour {{ .Count }} personnes
+  card-persons-one: 1 personne
+  card-persons-other: '{{ .Count }} personnes'
   category-international: Coupons FIP internationaux
   category-national: Réductions nationales
   category-other: Autres

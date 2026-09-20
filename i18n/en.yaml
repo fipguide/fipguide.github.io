@@ -253,8 +253,8 @@ taxation:
   add-national: Add national discount
   add-operator: Add operator
   add-other: Add taxable benefit
-  card-persons-one: For 1 person
-  card-persons-other: For {{ .Count }} persons
+  card-persons-one: 1 person
+  card-persons-other: '{{ .Count }} persons'
   category-international: International FIP Coupons
   category-national: National Discounts
   category-other: Other

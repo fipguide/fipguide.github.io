@@ -264,8 +264,8 @@ taxation:
   add-national: Nationale Vergünstigung hinzufügen
   add-operator: Betreiber hinzufügen
   add-other: Sachbezug hinzufügen
-  card-persons-one: Für 1 Person
-  card-persons-other: Für {{ .Count }} Personen
+  card-persons-one: 1 Person
+  card-persons-other: '{{ .Count }} Personen'
   category-international: Internationale FIP Freifahrtscheine
   category-national: Nationale Vergünstigungen
   category-other: Sonstiges
