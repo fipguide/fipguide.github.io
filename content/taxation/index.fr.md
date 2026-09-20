@@ -25,4 +25,6 @@ Le total imposable est ensuite calculé.
 
 Dans la section [Planification et optimisation](#planning-optimization), vous pouvez réduire la charge fiscale en répartissant les montants sur plusieurs mois.
 
+## Calculateur d’imposition
+
 {{< taxation-embed >}}

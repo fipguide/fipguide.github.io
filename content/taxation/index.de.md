@@ -26,4 +26,6 @@ Anschließend wird die Summe deiner Sachbezugswerte berechnet.
 
 Im Bereich [Planung & Optimierung](#planning-optimization) kannst du deine Steuerlast optimieren, indem du sie auf mehrere Monate verteilst.
 
+## Steuerrechner
+
 {{< taxation-embed >}}

@@ -25,4 +25,6 @@ The total taxable amount is then calculated.
 
 In [Planning & Optimization](#planning-optimization), you can reduce your tax impact by distributing amounts across multiple months.
 
+## Tax Calculator
+
 {{< taxation-embed >}}
