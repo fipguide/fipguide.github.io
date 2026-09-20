@@ -28,7 +28,7 @@ Die Züge in Serbien sind abseits der Hauptstrecken meist eher älter und wenige
 
 | Land                                                                                                       | Grenzpunkte                                              |
 | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| [Ungarn](/country/hungary) ([MÁV](/operator/mav))                                                          | Röszke (Gr), Subotica (Gr)                               |
+| [Ungarn](/country/hungary) ([MÁV-START](/operator/mav))                                                          | Röszke (Gr), Subotica (Gr)                               |
 | [Rumänien](/country/romania) ([CFR](/operator/cfr))                                                        | Jimbolia (fr), Vršac (fr)                                |
 | [Bulgarien](/country/bulgaria) ([BDZ](/operator/bdz))                                                      | Dimitrovgrad (fr)                                        |
 | Nordmazedonien (ŽRSM)                                                                                      | Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc) |
@@ -40,7 +40,7 @@ Die Züge in Serbien sind abseits der Hauptstrecken meist eher älter und wenige
 
 ### Ungarn
 
-Von Budapest kommend ist es möglich mit zwei Umstiegen (Szeged und Subotica) nach Belgrad zu gelangen. Der grenzüberschreitende Abschnitt von Szeged in Ungarn nach Subotica in Serbien findet im Regionalverkehr statt. Die Verbindungen werden von der ungarischen Bahn MÁV und in Serbien von der SV betrieben. Bei grenzüberschreitenden Fahrten wird ein durchgehendes FIP ermäßigtes Ticket oder FIP Freifahrtscheine beider Bahngesellschaften benötigt. Auf der Schnellfahrstrecke zwischen Budapest und Belgrad sollen zukünftig durchgängige Züge, teilweise sogar aus Wien kommend, verkehren.
+Von Budapest kommend ist es möglich mit zwei Umstiegen (Szeged und Subotica) nach Belgrad zu gelangen. Der grenzüberschreitende Abschnitt von Szeged in Ungarn nach Subotica in Serbien findet im Regionalverkehr statt. Die Verbindungen werden von der ungarischen Bahn MÁV-START und in Serbien von der SV betrieben. Bei grenzüberschreitenden Fahrten wird ein durchgehendes FIP ermäßigtes Ticket oder FIP Freifahrtscheine beider Bahngesellschaften benötigt. Auf der Schnellfahrstrecke zwischen Budapest und Belgrad sollen zukünftig durchgängige Züge, teilweise sogar aus Wien kommend, verkehren.
 
 ### Rumänien
 

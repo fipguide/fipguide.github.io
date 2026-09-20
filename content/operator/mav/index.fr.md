@@ -1,18 +1,18 @@
 ---
-title: MÁV
+title: MÁV-START
 country:
   - hungary
 operator: mav
 ---
 
-MÁV (Magyar Államvasutak, Chemins de fer d'État hongrois) est la principale compagnie ferroviaire en [Hongrie](/country/hungary) et exploite la majorité du trafic longue distance et régional.
+MÁV-START (Magyar Államvasutak, Chemins de fer d'État hongrois) est la principale compagnie ferroviaire en [Hongrie](/country/hungary) et exploite la majorité du trafic longue distance et régional.
 
-Un aperçu du trafic offert est fourni par la [carte du réseau de routes de la Hongrie](https://www.mavcsoport.hu/sites/default/files/upload/page/trkp_mav_palyahalozat_2023_a0_1211_web.pdf) ainsi que par la [carte des lignes de MÁV](https://www.mavcsoport.hu/sites/default/files/res/vasuthalozat_trkp_hu_2022_a3_0701_web.pdf).
+Un aperçu du trafic offert est fourni par la [carte du réseau de routes de la Hongrie](https://www.mavcsoport.hu/sites/default/files/upload/page/trkp_mav_palyahalozat_2023_a0_1211_web.pdf) ainsi que par la [carte des lignes de MÁV-START](https://www.mavcsoport.hu/sites/default/files/res/vasuthalozat_trkp_hu_2022_a3_0701_web.pdf).
 
 ## Résumé
 
-- Les Coupons FIP et les Billets FIP 50 sont acceptés à MÁV.
-- FIP n'est pas valable sur les bus MÁV, sauf en service de substitution ferroviaire.
+- Les Coupons FIP et les Billets FIP 50 sont acceptés à MÁV-START.
+- FIP n'est pas valable sur les bus MÁV-START, sauf en service de substitution ferroviaire.
 - La réservation des billets FIP 50 et des réservations est possible en ligne, au guichet et à la machine.
 
 ## Validité des Billets FIP
@@ -21,7 +21,7 @@ Un aperçu du trafic offert est fourni par la [carte du réseau de routes de la 
 
 {{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="Billet FIP 50" >}}
 
-Les Coupons FIP et les Billets FIP 50 sont valables sur les connexions MÁV. Pour les voyages transfrontaliers, soit un billet FIP 50 continu, soit des Coupons FIP des deux pays doivent être disponibles.
+Les Coupons FIP et les Billets FIP 50 sont valables sur les connexions MÁV-START . Pour les voyages transfrontaliers, soit un billet FIP 50 continu, soit des Coupons FIP des deux pays doivent être disponibles.
 
 ## Catégories de trains et réservations
 
@@ -41,7 +41,7 @@ Trains internationaux longue distance en coopération avec ÖBB et d'autres chem
 La classe affaires n'est pas disponible pour les vols intérieurs en Hongrie. Pour les vols internationaux, elle peut être réservée avec un coupon FIP 1re classe ou un billet FIP 50 ; un supplément de 22 € est appliqué.
 
 {{< highlight confusion >}}
-`RJ` peut aussi signifier RegioJet. Les billets FIP pour MÁV ne sont pas valables sur les trains RegioJet.
+`RJ` peut aussi signifier RegioJet. Les billets FIP pour MÁV-START ne sont pas valables sur les trains RegioJet.
 {{< /highlight >}}
 
 #### Réservations
@@ -69,7 +69,7 @@ Il y a parfois jusqu'à trois catégories de voitures :
 
 - **2e Classe** : Catégorie standard sur la plupart des connexions nationales, utilisable avec autorisation FIP pour la 2e classe.
 - **1ère Classe** : Catégorie premium sur certaines connexions, utilisable avec autorisation FIP pour la 1ère classe.
-- **Classe Premium (1+)** : Catégorie premium sur les routes InterCity les plus importantes, offrant une norme supérieure à la 1ère classe. Un supplément s'applique à l'utilisation.[^1] [Des informations supplémentaires sur la classe premium peuvent être trouvées sur le site Web de MÁV.](https://www.mavcsoport.hu/mav-szemelyszallitas/szolgaltatasok/premium-osztaly)
+- **Classe Premium (1+)** : Catégorie premium sur les routes InterCity les plus importantes, offrant une norme supérieure à la 1ère classe. Un supplément s'applique à l'utilisation.[^1] [Des informations supplémentaires sur la classe premium peuvent être trouvées sur le site Web de MÁV-START .](https://www.mavcsoport.hu/mav-szemelyszallitas/szolgaltatasok/premium-osztaly)
 
 #### Réservations
 
@@ -137,7 +137,7 @@ Les connexions InterRegio sont des trains rapides dans le trafic intérieur et f
 
 Trains express qui ne circulent généralement que les week-ends et pendant les vacances. Divers types de voitures sont utilisés et la plupart des trains ont 2e et 1ère classe.
 
-Dans les systèmes d'information de connexion en dehors de MÁV, les trains peuvent être répertoriés avec une catégorie de train différente.
+Dans les systèmes d'information de connexion en dehors de MÁV-START , les trains peuvent être répertoriés avec une catégorie de train différente.
 
 #### Réservations
 
@@ -157,7 +157,7 @@ Une réservation est obligatoire.
 Les trains rapides utilisés sur de nombreuses lignes principales – principalement où aucun train InterCity n'opère. Les trains s'arrêtent dans les villes de taille moyenne et plus grande.
 Généralement, des voitures compartiment plus anciennes, mais modernisées, sont utilisées.
 
-Dans les systèmes d'information de connexion en dehors de MÁV, les trains peuvent être répertoriés comme `IC`.
+Dans les systèmes d'information de connexion en dehors de MÁV-START , les trains peuvent être répertoriés comme `IC`.
 
 {{% /train-category %}}
 
@@ -234,7 +234,7 @@ Les lignes BHÉV ou courtes lignes HÉV relient Budapest avec les banlieues de l
 
 Les trains S font partie du S-Bahn de Budapest et sont les trains les plus lents. Ils sont identifiés par la lettre S suivie du numéro de ligne.
 
-Les trains express _Sebesvonat_ de MÁV sont également abrégés en `S`, mais ceux-ci ne sont pas suivis d'un numéro de ligne.
+Les trains express _Sebesvonat_ de MÁV-START sont également abrégés en `S`, mais ceux-ci ne sont pas suivis d'un numéro de ligne.
 
 {{% /train-category %}}
 
@@ -290,7 +290,7 @@ Le TramTrain entre Szeged et Hódmezővásárhely peut être utilisé avec FIP.[
     additional_information_url="https://www.mavcsoport.hu/mav-szemelyszallitas/szolgaltatasok/balatonfenyvesi-kisvasut"
 %}}
 
-Le chemin de fer à voie étroite de Balatonfenyves à Somogyszentpál et Csisztafürdő sur la rive sud du Lac Balaton est le dernier chemin de fer à voie étroite exploité par MÁV. Il peut être utilisé avec FIP.[^1]
+Le chemin de fer à voie étroite de Balatonfenyves à Somogyszentpál et Csisztafürdő sur la rive sud du Lac Balaton est le dernier chemin de fer à voie étroite exploité par MÁV-START . Il peut être utilisé avec FIP.[^1]
 
 {{% /train-category %}}
 
@@ -303,7 +303,7 @@ Le chemin de fer à voie étroite de Balatonfenyves à Somogyszentpál et Csiszt
     reservation_possible=false
 %}}
 
-Les billets FIP ne sont pas valables sur les bus MÁV. Sur les bus en service de substitution ferroviaire, les avantages FIP s'appliquent s'ils remplacent un train sur lequel FIP aurait été valable.[^1]
+Les billets FIP ne sont pas valables sur les bus MÁV-START . Sur les bus en service de substitution ferroviaire, les avantages FIP s'appliquent s'ils remplacent un train sur lequel FIP aurait été valable.[^1]
 
 {{% /train-category %}}
 
@@ -335,7 +335,7 @@ Lors de l'achat de billets à tarif réduit FIP ou lors d'un changement de class
 
 ### Accompagnement des enfants lors de voyages internationaux
 
-Pour les voyages internationaux, les enfants de moins de 10 ans ne peuvent pas voyager sans être accompagnés d'un adulte. Les enfants à partir de 10 ans doivent porter un [formulaire de consentement parental](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_FIP_MAV_Parental_Consent_form_v2.pdf) signé. MÁV ne assume pas la responsabilité des enfants non accompagnés. Les parents sont responsables de tous les dommages causés par l'enfant. Si un enfant est trouvé voyageant sans accompagnement et sans formulaire de consentement parental, les autorités seront notifiées.[^1]
+Pour les voyages internationaux, les enfants de moins de 10 ans ne peuvent pas voyager sans être accompagnés d'un adulte. Les enfants à partir de 10 ans doivent porter un [formulaire de consentement parental](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_FIP_MAV_Parental_Consent_form_v2.pdf) signé. MÁV-START ne assume pas la responsabilité des enfants non accompagnés. Les parents sont responsables de tous les dommages causés par l'enfant. Si un enfant est trouvé voyageant sans accompagnement et sans formulaire de consentement parental, les autorités seront notifiées.[^1]
 
 ## Conditions tarifaires spéciales
 
@@ -349,7 +349,7 @@ Les réservations pour la 1+ classe coûtent 3.990 HUF et peuvent être effectu�
 
 ### Pas d'exigence de réservation entre Budapest-Keleti et Budapest-Kelenföld
 
-Sur les trains RJ, RJX, IC, EC et EX, une réservation est généralement obligatoire pour le trafic intérieur. La relation Budapest-Keleti – Budapest-Kelenföld est exemptée de cette règle. Les réglementations pour le train respectif doivent être vérifiées dans l'information de connexion de MÁV avant de voyager.
+Sur les trains RJ, RJX, IC, EC et EX, une réservation est généralement obligatoire pour le trafic intérieur. La relation Budapest-Keleti – Budapest-Kelenföld est exemptée de cette règle. Les réglementations pour le train respectif doivent être vérifiées dans l'information de connexion de MÁV-START avant de voyager.
 
 ### Lounge Premium à Budapest-Keleti
 
@@ -359,7 +359,7 @@ Pour connaître les conditions générales et obtenir des informations compléme
 
 ### Possibilité d'interrompre le trajet
 
-Une interruption du trajet est possible chez MÁV sans formalités supplémentaires.[^1]
+Une interruption du trajet est possible chez MÁV-START sans formalités supplémentaires.[^1]
 
 ### Service de substitution ferroviaire
 
@@ -368,11 +368,11 @@ Sur les bus en service de substitution ferroviaire, les avantages FIP s'applique
 ## Recommandations
 
 {{% highlight tip %}}
-Pour les voyages longue distance, une réservation anticipée des réservations vaut la peine, en particulier sur les axes internationaux vers Vienne, Bratislava (et plus loin vers Prague) et la Roumanie. Pour les excursions régionales dans l'ouest de la Hongrie, une combinaison de connexions MÁV et GySEV est la solution la plus flexible. Le matériel roulant de MÁV est très différent. Les deux voitures de voyageurs modernes sont utilisées dans le trafic longue distance et les trains Stadler sur les connexions régionales, ainsi que le matériel roulant assez ancien sans climatisation, mais avec fenêtres ouvrables. Les trains longue distance avec voitures restaurant sont particulièrement recommandés, car la cuisine fraîche est parfois faite ici et le menu offre une grande sélection.
+Pour les voyages longue distance, une réservation anticipée des réservations vaut la peine, en particulier sur les axes internationaux vers Vienne, Bratislava (et plus loin vers Prague) et la Roumanie. Pour les excursions régionales dans l'ouest de la Hongrie, une combinaison de connexions MÁV-START et GySEV est la solution la plus flexible. Le matériel roulant de MÁV-START est très différent. Les deux voitures de voyageurs modernes sont utilisées dans le trafic longue distance et les trains Stadler sur les connexions régionales, ainsi que le matériel roulant assez ancien sans climatisation, mais avec fenêtres ouvrables. Les trains longue distance avec voitures restaurant sont particulièrement recommandés, car la cuisine fraîche est parfois faite ici et le menu offre une grande sélection.
 {{% /highlight %}}
 
 ## Sources
 
 [^1]: [Rail Delivery Group – Hungary](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782275-hungary.html)
 
-[^2]: [MÁV Domestic Travel - Prices and discounts](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/faq-domestic-travel)
+[^2]: [MÁV-START Domestic Travel - Prices and discounts](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/faq-domestic-travel)

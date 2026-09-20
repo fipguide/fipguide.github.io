@@ -37,7 +37,7 @@ Besonders sehenswert sind die Strecken entlang der Karpaten, beispielsweise zwis
 | Moldau (CFM)                                          | Iasi, Ungheni (fr)                                                                                                       |
 | [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (bulgarisch: Русе), Vidin (fr)                                                                                 |
 | [Serbien](/country/serbia) ([SV](/operator/sv))       | Jimbolia (fr) (serbisch: Жомбољ), Vršac (fr) (serbisch: Вршац)                                                           |
-| [Ungarn](/country/hungary) ([MÁV](/operator/mav))     | Biharkeresztes (fr), Curtici (fr) (ungarisch: Kürtös), Nyirábrány (fr), Salonta (fr) (ungarisch: Nagyszalonta, Szalonta) |
+| [Ungarn](/country/hungary) ([MÁV-START](/operator/mav))     | Biharkeresztes (fr), Curtici (fr) (ungarisch: Kürtös), Nyirábrány (fr), Salonta (fr) (ungarisch: Nagyszalonta, Szalonta) |
 
 {{% /expander %}}
 
@@ -63,4 +63,4 @@ Zurzeit verkehren leider keine Personenzüge zwischen Serbien und Rumänien.
 
 ### Ungarn
 
-Die meisten internationalen Verbindungen nach Rumänien kommen aus Ungarn. Darunter befinden sich sowohl Züge, die tagsüber fahren, aber auch Nachtzugverbindungen wie der berühmte _Dacia_, der vom österreichischen Wien kommend über Budapest nach Bukarest fährt. Die Verbindungen können auf kompletter Strecke mit FIP genutzt werden. Dafür muss entweder ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine der CFR und MÁV vorhanden sein (wenn aus Österreich gefahren wird ist auch noch ein Ticket für den Abschnitt der ÖBB notwendig).
+Die meisten internationalen Verbindungen nach Rumänien kommen aus Ungarn. Darunter befinden sich sowohl Züge, die tagsüber fahren, aber auch Nachtzugverbindungen wie der berühmte _Dacia_, der vom österreichischen Wien kommend über Budapest nach Bukarest fährt. Die Verbindungen können auf kompletter Strecke mit FIP genutzt werden. Dafür muss entweder ein durchgängiges FIP 50 Ticket oder FIP-Freifahrtscheine der CFR und MÁV-START vorhanden sein (wenn aus Österreich gefahren wird ist auch noch ein Ticket für den Abschnitt der ÖBB notwendig).

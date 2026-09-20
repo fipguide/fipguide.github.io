@@ -101,7 +101,7 @@ Certains services [Nightjet](#nj) sont exploités avec des voitures à sièges `
     reservation_possible=true
 %}}
 
-Trains de nuit Nightjet de l’ÖBB et trains de nuit EuroNight de la ČD, MÁV et HŽ, exploités par les CFF en Suisse. Ils desservent notamment Berlin, Dresde, Leipzig, Prague, Budapest, Ljubljana et Zagreb.
+Trains de nuit Nightjet de l’ÖBB et trains de nuit EuroNight de la ČD, MÁV-START et HŽ, exploités par les CFF en Suisse. Ils desservent notamment Berlin, Dresde, Leipzig, Prague, Budapest, Ljubljana et Zagreb.
 
 Certains services Nightjet sont assurés par des voitures [Intercity](#ic). Ces voitures peuvent être utilisées sans réservation. Le service IC est affiché dans les systèmes d’information, en plus du service Nightjet.
 

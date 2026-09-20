@@ -31,7 +31,7 @@ Die schönste Bahnstrecke des Landes ist die Wocheinerbahn von Jesenice nach Nov
 | [Italien](/country/italy) ([FS](/operator/fs))         | Nova Gorica (fr), Villa-Opicina (fr) (Sloweenisch: Opčine, Triestisch: Opcina)                                       |
 | Kroatien (HŽ)                                          | Buzet (Gr), Čakovec (Gr), Dobova (Gr), Kumrovec (Gr), Metlika (Gr), Mursko Središće (Gr), Rogatec (Gr), Šapjane (Gr) |
 | [Österreich](/country/austria) ([ÖBB](/operator/oebb)) | Bleiburg (Gr) (Slowenisch: Pliberk), Jesenice (Gr) (Deutsch: Assling), Spielfeld (Gr) (Slowenisch: Špilje)           |
-| Ungarn (MÁV, [GySEV](/operator/gysev))                 | Hodoš (Gr) (auch Őrihodos genannt)                                                                                   |
+| Ungarn (MÁV-START, [GySEV](/operator/gysev))                 | Hodoš (Gr) (auch Őrihodos genannt)                                                                                   |
 
 {{% /expander %}}
 
@@ -59,6 +59,6 @@ Von Graz aus erreicht man Maribor mit Fern- und Regionalzügen sogar stündlich 
 
 ### Ungarn
 
-Ungarn und Slowenien sind nur über den Grenzübergang Hodoš im Schienenverkehr direkt verbunden. Über den Grenzübergang verkehren täglich ein bis zwei Fernzüge von Budapest nach Ljubljana, teils weiter bis an die Adriaküste nach Koper. Sie werden auf ungarischer Seite von der MÁV und auf dem slowenischen Abschnitt von der SŽ betrieben.
+Ungarn und Slowenien sind nur über den Grenzübergang Hodoš im Schienenverkehr direkt verbunden. Über den Grenzübergang verkehren täglich ein bis zwei Fernzüge von Budapest nach Ljubljana, teils weiter bis an die Adriaküste nach Koper. Sie werden auf ungarischer Seite von der MÁV-START und auf dem slowenischen Abschnitt von der SŽ betrieben.
 
 Für eine durchgängige Fahrt ist entweder ein FIP ermäßigtes Ticket oder FIP Freifahrtscheine beider Gesellschaften nötig. Wichtig ist zuvor zu prüfen, ob die Züge tatsächlich über Hodoš fahren, da es von Ungarn auch Direktverbindungen über Österreich nach Slowenien gibt. In diesem Fall wäre bei der Nutzung von Freifahrtscheinen zusätzlich ein ÖBB‑Freifahrtschein erforderlich. Darüber hinaus existieren vom ungarischen Zalaegerszeg ins slowenische Hodoš noch Regionalzüge, die von GySEV und SŽ betrieben werden. Hier ist also anders als bei den beschriebenen Fernzügen für den ungarischen Abschnitt ein Freifahrtschein der GySEV nötig.

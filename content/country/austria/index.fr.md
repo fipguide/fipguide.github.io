@@ -48,7 +48,7 @@ Ces deux lignes sont bien développées, avec une fréquence d’un train toutes
 | [République tchèque](/country/czechia) ([ČD](/operator/cd))   | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr)                                                   |
 | [Slovaquie](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg (Gr), Kittsee (Gr)                                                                                            |
 | Hongrie ([GySEV](/operator/gysev))                            | Pamhagen (Gr), Szentgotthárd, Sopron                                                                                   |
-| Hongrie (MÁV)                                                 | Hegyeshalom (Gr), Sopron                                                                                               |
+| Hongrie (MÁV-START)                                                 | Hegyeshalom (Gr), Sopron                                                                                               |
 | [Slovénie](/country/slovenia) ([SŽ](/operator/sz))            | Bleiburg (Gr), Spielfeld-Strass (Gr), Rosenbach (Gr)                                                                   |
 | [Italie](/country/italy) ([FS](/operator/fs))                 | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                                            |
 | [Suisse](/country/switzerland) ([CFF](/operator/sbb))         | Buchs SG, St. Margrethen                                                                                               |
@@ -73,7 +73,7 @@ Il existe également quelques liaisons `EC`.
 
 ### Hongrie
 
-Depuis la Hongrie, des trains régionaux et EuroCity/Railjet sont disponibles. Sur la ligne Vienne–Budapest via Hegyeshalom, un Billet FIP MÁV est nécessaire à partir de la frontière.
+Depuis la Hongrie, des trains régionaux et EuroCity/Railjet sont disponibles. Sur la ligne Vienne–Budapest via Hegyeshalom, un Billet FIP MÁV-START est nécessaire à partir de la frontière.
 Sinon, un Billet FIP GySEV est requis pour les lignes GySEV.
 
 ### Slovénie

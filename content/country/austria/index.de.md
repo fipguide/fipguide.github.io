@@ -48,7 +48,7 @@ Beide Strecken sind und werden weiter gut ausgebaut, Züge verkehren zwischen de
 | [Tschechien](/country/czechia) ([ČD](/operator/cd))          | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr),                                     |
 | [Slowakei](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg(Gr), Kittsee(Gr)                                                                                 |
 | Ungarn ([GySEV](/operator/gysev))                            | Pamhagen (Gr), Szentgotthárd, Sopron                                                                      |
-| Ungarn (MÁV)                                                 | Hegyshalom (Gr), Sopron                                                                                   |
+| Ungarn (MÁV-START)                                                 | Hegyshalom (Gr), Sopron                                                                                   |
 | [Slowenien](/country/slovenia) ([SŽ](/operator/sz))          | Bleiburg(Gr) , Spielfeld-Strass(Gr), Rosenbach(Gr)                                                        |
 | [Italien](/country/italy) ([FS](/operator/fs))               | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                               |
 | [Schweiz](/country/switzerland) ([SBB](/operator/sbb))       | Buchs SG, St. Margrethen                                                                                  |

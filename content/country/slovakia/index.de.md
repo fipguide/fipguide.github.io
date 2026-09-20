@@ -35,7 +35,7 @@ Ein besonderes Highlight ist die Fahrt in der hohen Tatra mit der Tatranská že
 | Land                                                  | Grenzpunkte                                                                                                 |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | [Ungarn](/country/hungary) ([GySEV](/operator/gysev)) | Rajka (Gr)                                                                                                  |
-| [Ungarn](/country/hungary) ([MÁV](/operator/mav))     | Bánréve (Gr), Čaňa (Gr), Fiľakovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr)                       |
+| [Ungarn](/country/hungary) ([MÁV-START](/operator/mav))     | Bánréve (Gr), Čaňa (Gr), Fiľakovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr)                       |
 | [Tschechien](/country/czechia) ([ČD](/operator/cd))   | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
 
 {{% /expander %}}

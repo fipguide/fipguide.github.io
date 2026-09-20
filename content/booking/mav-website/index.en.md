@@ -1,6 +1,6 @@
 ---
-title: MÁV Website
-description: Booking information for MÁV booking website and app.
+title: MÁV-START Website
+description: Booking information for MÁV-START booking website and app.
 params:
   classes:
     first: HUF 990
@@ -11,15 +11,15 @@ params:
   type: online
 ---
 
-FIP 50 Tickets and reservations for MÁV and GySEV connections are sold on the MÁV booking website.
+FIP 50 Tickets and reservations for MÁV-START and GySEV connections are sold on the MÁV-START booking website.
 
-MÁV also offers an [app](https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/mav-applikacio) through which FIP 50 tickets and reservations can be purchased.
+MÁV-START also offers an [app](https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/mav-applikacio) through which FIP 50 tickets and reservations can be purchased.
 
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets
 
-FIP 50 Tickets for MÁV and GySEV connections are sold on the MÁV booking website, though for international connections only the Hungarian section is discounted.
+FIP 50 Tickets for MÁV-START and GySEV connections are sold on the MÁV-START booking website, though for international connections only the Hungarian section is discounted.
 
 How the discount can be selected in the connection search is described in the [Select Discount](#mav-website:select-discount) section.
 
@@ -39,7 +39,7 @@ How the discount can be selected in the connection search is described in the [S
 
 ## Reservations
 
-Reservations for MÁV and GySEV trains can be purchased online for 990 HUF.
+Reservations for MÁV-START and GySEV trains can be purchased online for 990 HUF.
 
 The correct discount option can be found in the following table. How the discount can be selected in the connection search is described in the [Select Discount](#mav-website:select-discount) section.
 
@@ -52,7 +52,7 @@ The correct discount option can be found in the following table. How the discoun
 
 \* The class surcharge (_különbözeti díj_) is automatically added to the price. No separate option needs to be selected.[^1]
 
-For international journeys using FIP Coupons, you must hold FIP Coupons for all carriers along the route (e.g., for Budapest–Vienna, both an MÁV and an ÖBB Coupon are needed). If a Coupon is held for only one country, booking continuous cross-border connections via the MÁV website is not possible. Booking to border fare points is also not possible via the website.
+For international journeys using FIP Coupons, you must hold FIP Coupons for all carriers along the route (e.g., for Budapest–Vienna, both an MÁV-START and an ÖBB Coupon are needed). If a Coupon is held for only one country, booking continuous cross-border connections via the MÁV-START website is not possible. Booking to border fare points is also not possible via the website.
 
 ## Select Discount
 
@@ -60,7 +60,7 @@ For international journeys using FIP Coupons, you must hold FIP Coupons for all 
 
 {{% float-image
   src="mav-website-birthday.webp"
-  alt="MÁV Date of Birth"
+  alt="MÁV-START Date of Birth"
   width="50%"
   position="right"
 %}}
@@ -69,7 +69,7 @@ To add a discount option, on the connection search page under _Passengers and Di
 
 {{% float-image
   src="mav-website-discounts.webp"
-  alt="MÁV Discounts"
+  alt="MÁV-START Discounts"
   width="50%"
   position="right"
 %}}
@@ -88,7 +88,7 @@ The option "I only need seat reservation" can be found in the connection informa
 
 {{< highlight "important" >}}
 
-The option "FIP egyországos szabadjegy" may still appear in the MÁV system. It is a legacy entry and **must not be used**, even though an infobox claims it is not valid for international travel. MÁV is working on removing it.[^1]
+The option "FIP egyországos szabadjegy" may still appear in the MÁV-START system. It is a legacy entry and **must not be used**, even though an infobox claims it is not valid for international travel. MÁV-START is working on removing it.[^1]
 
 {{< /highlight >}}
 

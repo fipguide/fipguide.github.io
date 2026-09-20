@@ -1,6 +1,6 @@
 ---
-title: MÁV Ticketschalter
-description: Buchungsinformationen für die MÁV Ticketschalter.
+title: MÁV-START Ticketschalter
+description: Buchungsinformationen für die MÁV-START Ticketschalter.
 params:
   classes:
     first: 990 HUF
@@ -10,7 +10,7 @@ params:
   type: onsite
 ---
 
-An Ticketschaltern der MÁV wird zwischen nationalen und internationalen Ticketschaltern unterschieden. In der Regel spricht das Personal an den internationalen Ticketschaltern Fremdsprachen wie Englisch oder Deutsch.
+An Ticketschaltern der MÁV-START wird zwischen nationalen und internationalen Ticketschaltern unterschieden. In der Regel spricht das Personal an den internationalen Ticketschaltern Fremdsprachen wie Englisch oder Deutsch.
 
 Zahlungen in bar werden auf die nächsten 5 Forint (HUF) gerundet.[^1]
 
@@ -20,14 +20,14 @@ Zahlungen in bar werden auf die nächsten 5 Forint (HUF) gerundet.[^1]
 
 ## FIP 50 Fahrkarten
 
-Am MÁV Ticketschalter können FIP 50 Fahrkarten für Reisen innerhalb Ungarns für die MÁV sowie GySEV und grenzüberschreitende Verbindungen erworben werden.
+Am MÁV-START Ticketschalter können FIP 50 Fahrkarten für Reisen innerhalb Ungarns für die MÁV-START sowie GySEV und grenzüberschreitende Verbindungen erworben werden.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
 
 ## Reservierungen
 
-Reservierungen für Züge der MÁV sowie GySEV können vor Ort zu einem Preis von 990 HUF erworben werden.
+Reservierungen für Züge der MÁV-START sowie GySEV können vor Ort zu einem Preis von 990 HUF erworben werden.
 {{% /booking-section %}}
 
 [^1]: [Rail Delivery Group - Hungary](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782275-hungary.html)

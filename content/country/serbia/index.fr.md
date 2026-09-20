@@ -28,7 +28,7 @@ Les trains en Serbie sont majoritairement plus anciens et moins modernes, à l�
 
 | Pays                                                                                                  | Points frontières                                       |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [Hongrie](/country/hungary) ([MÁV](/operator/mav))                                                    | Röszke (Gr), Subotica (Gr)                              |
+| [Hongrie](/country/hungary) ([MÁV-START](/operator/mav))                                                    | Röszke (Gr), Subotica (Gr)                              |
 | [Roumanie](/country/romania) ([CFR](/operator/cfr))                                                   | Jimbolia (fr), Vršac (fr)                               |
 | [Bulgarie](/country/bulgaria) ([BDZ](/operator/bdz))                                                  | Dimitrovgrad (fr)                                       |
 | Macédoine du Nord (ŽRSM)                                                                              | Tabanovci (fr) (serbe : Табановце ; albanais : Tabanoc) |
@@ -40,7 +40,7 @@ Les trains en Serbie sont majoritairement plus anciens et moins modernes, à l�
 
 ### Hongrie
 
-En venant de Budapest, il est possible de rejoindre Belgrade avec deux correspondances (Szeged et Subotica). La section transfrontalière entre Szeged en Hongrie et Subotica en Serbie est exploitée en trafic régional. Les liaisons sont exploitées par les chemins de fer hongrois MÁV et en Serbie par SV. Pour les trajets transfrontaliers, un billet FIP à tarif réduit direct ou des Coupons FIP des deux compagnies ferroviaires sont nécessaires. À l’avenir, des trains directs, en partie même en provenance de Vienne, doivent circuler sur la ligne à grande vitesse entre Budapest et Belgrade.
+En venant de Budapest, il est possible de rejoindre Belgrade avec deux correspondances (Szeged et Subotica). La section transfrontalière entre Szeged en Hongrie et Subotica en Serbie est exploitée en trafic régional. Les liaisons sont exploitées par les chemins de fer hongrois MÁV-START et en Serbie par SV. Pour les trajets transfrontaliers, un billet FIP à tarif réduit direct ou des Coupons FIP des deux compagnies ferroviaires sont nécessaires. À l’avenir, des trains directs, en partie même en provenance de Vienne, doivent circuler sur la ligne à grande vitesse entre Budapest et Belgrade.
 
 ### Roumanie
 

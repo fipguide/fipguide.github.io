@@ -1,5 +1,5 @@
 ---
-title: MÁV Plusz Website
+title: MÁV-START Plusz Website
 params:
   url: https://mavplusz.hu
 ---

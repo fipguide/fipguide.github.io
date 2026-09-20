@@ -28,7 +28,7 @@ The trains in Serbia are mostly older and less modern, away from the main routes
 
 | Country                                                                                                   | Border Points                                          |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [Hungary](/country/hungary) ([MÁV](/operator/mav))                                                        | Röszke (Gr), Subotica (Gr)                             |
+| [Hungary](/country/hungary) ([MÁV-START](/operator/mav))                                                        | Röszke (Gr), Subotica (Gr)                             |
 | [Romania](/country/romania) ([CFR](/operator/cfr))                                                        | Jimbolia (fr), Vršac (fr)                              |
 | [Bulgaria](/country/bulgaria) ([BDZ](/operator/bdz))                                                      | Dimitrovgrad (fr)                                      |
 | North Macedonia (ŽRSM)                                                                                    | Tabanovci (fr) (Serbian: Табановце; Albanian: Tabanoc) |
@@ -40,7 +40,7 @@ The trains in Serbia are mostly older and less modern, away from the main routes
 
 ### Hungary
 
-Coming from Budapest, it is possible to reach Belgrade with two changes (Szeged and Subotica). The cross-border section from Szeged in Hungary to Subotica in Serbia is operated as regional traffic. The services are operated by Hungarian Railways MÁV and by SV in Serbia. For cross-border journeys, a through FIP discounted ticket or FIP Coupons of both railway companies is required. In the future, through trains, partly even coming from Vienna, are to run on the high-speed line between Budapest and Belgrade.
+Coming from Budapest, it is possible to reach Belgrade with two changes (Szeged and Subotica). The cross-border section from Szeged in Hungary to Subotica in Serbia is operated as regional traffic. The services are operated by Hungarian Railways MÁV-START and by SV in Serbia. For cross-border journeys, a through FIP discounted ticket or FIP Coupons of both railway companies is required. In the future, through trains, partly even coming from Vienna, are to run on the high-speed line between Budapest and Belgrade.
 
 ### Romania
 

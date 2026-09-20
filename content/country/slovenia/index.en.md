@@ -31,7 +31,7 @@ The most scenic railway line in the country is the Bohinj Railway from Jesenice 
 | [Italy](/country/italy) ([FS](/operator/fs))        | Nova Gorica (fr), Villa Opicina (fr) (Slovenian: Opčine, Triestine: Opcina)                                          |
 | Croatia (HŽ)                                        | Buzet (Gr), Čakovec (Gr), Dobova (Gr), Kumrovec (Gr), Metlika (Gr), Mursko Središće (Gr), Rogatec (Gr), Šapjane (Gr) |
 | [Austria](/country/austria) ([ÖBB](/operator/oebb)) | Bleiburg (Gr) (Slovenian: Pliberk), Jesenice (Gr) (German: Assling), Spielfeld (Gr) (Slovenian: Špilje)              |
-| Hungary (MÁV, [GySEV](/operator/gysev))             | Hodoš (Gr) (also called Őrihodos)                                                                                    |
+| Hungary (MÁV-START, [GySEV](/operator/gysev))             | Hodoš (Gr) (also called Őrihodos)                                                                                    |
 
 {{% /expander %}}
 
@@ -59,6 +59,6 @@ From Graz, Maribor can be reached hourly by long-distance and regional trains di
 
 ### Hungary
 
-Hungary and Slovenia are directly connected by rail only via the Hodoš border crossing. One or two long-distance trains run daily from Budapest to Ljubljana, sometimes continuing to the Adriatic coast at Koper. These services are operated by MÁV on the Hungarian section and by SŽ on the Slovenian section.
+Hungary and Slovenia are directly connected by rail only via the Hodoš border crossing. One or two long-distance trains run daily from Budapest to Ljubljana, sometimes continuing to the Adriatic coast at Koper. These services are operated by MÁV-START on the Hungarian section and by SŽ on the Slovenian section.
 
 For a through journey, either a reduced FIP ticket or FIP Coupons for both railways are required. It is important to check whether the trains actually travel via Hodoš, because there are also direct Hungarian services to Slovenia via Austria. In that case, an additional ÖBB FIP Coupon would be required for the Austrian section. There are also regional trains from Zalaegerszeg in Hungary to Hodoš in Slovenia operated by GySEV and SŽ. For these services, a GySEV FIP Coupon is required for the Hungarian section.

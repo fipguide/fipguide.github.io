@@ -101,7 +101,7 @@ Some [Nightjet](#nj) services are operated using `IC` coaches. These coaches may
     reservation_possible=true
 %}}
 
-Nightjet night trains of ÖBB and EuroNight night trains of ČD, MÁV, and HŽ, operated by SBB in Switzerland. These run to Berlin, Dresden, Leipzig, Prague, Budapest, Ljubljana, and Zagreb, among others.
+Nightjet night trains of ÖBB and EuroNight night trains of ČD, MÁV-START, and HŽ, operated by SBB in Switzerland. These run to Berlin, Dresden, Leipzig, Prague, Budapest, Ljubljana, and Zagreb, among others.
 
 Some Nightjet services operate with [Intercity](#ic) coaches. These coaches may be used without a reservation. The `IC` service is displayed in travel information systems in addition to the Nightjet.
 

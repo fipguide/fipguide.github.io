@@ -37,7 +37,7 @@ Les lignes longeant les Carpates sont particulièrement pittoresques, par exempl
 | Moldavie (CFM)                                       | Iasi, Ungheni (fr)                                                                                                       |
 | [Bulgarie](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (bulgare : Русе), Vidin (fr)                                                                                   |
 | [Serbie](/country/serbia) ([SV](/operator/sv))       | Jimbolia (fr) (serbe : Жомбољ), Vršac (fr) (serbe : Вршац)                                                               |
-| [Hongrie](/country/hungary) ([MÁV](/operator/mav))   | Biharkeresztes (fr), Curtici (fr) (hongrois : Kürtös), Nyirábrány (fr), Salonta (fr) (hongrois : Nagyszalonta, Szalonta) |
+| [Hongrie](/country/hungary) ([MÁV-START](/operator/mav))   | Biharkeresztes (fr), Curtici (fr) (hongrois : Kürtös), Nyirábrány (fr), Salonta (fr) (hongrois : Nagyszalonta, Szalonta) |
 
 {{% /expander %}}
 
@@ -63,4 +63,4 @@ Actuellement, aucun train de voyageurs ne circule entre la Serbie et la Roumanie
 
 ### Hongrie
 
-La plupart des liaisons internationales vers la Roumanie proviennent de Hongrie. Parmi celles-ci, on trouve aussi bien des trains de jour que des trains de nuit, comme le célèbre _Dacia_, qui relie Vienne en Autriche à Bucarest via Budapest. Ces liaisons peuvent être utilisées avec la FIP sur l’ensemble du trajet. Pour cela, il faut soit un Billet FIP 50 continu, soit des Coupons FIP de la CFR et de MÁV (en cas de départ depuis l’Autriche, un billet pour la section ÖBB est également nécessaire).
+La plupart des liaisons internationales vers la Roumanie proviennent de Hongrie. Parmi celles-ci, on trouve aussi bien des trains de jour que des trains de nuit, comme le célèbre _Dacia_, qui relie Vienne en Autriche à Bucarest via Budapest. Ces liaisons peuvent être utilisées avec la FIP sur l’ensemble du trajet. Pour cela, il faut soit un Billet FIP 50 continu, soit des Coupons FIP de la CFR et de MÁV-START (en cas de départ depuis l’Autriche, un billet pour la section ÖBB est également nécessaire).

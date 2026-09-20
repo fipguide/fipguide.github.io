@@ -1,6 +1,6 @@
 ---
-title: Site Web MÁV
-description: Informations de réservation pour le site Web / application de réservation MÁV.
+title: Site Web MÁV-START
+description: Informations de réservation pour le site Web / application de réservation MÁV-START.
 params:
   classes:
     first: 990 HUF
@@ -11,15 +11,15 @@ params:
   type: online
 ---
 
-Les billets FIP 50 et les réservations pour les connexions MÁV et GySEV sont vendus sur le site Web de réservation MÁV.
+Les billets FIP 50 et les réservations pour les connexions MÁV-START et GySEV sont vendus sur le site Web de réservation MÁV-START.
 
-MÁV propose également une [application](https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/mav-applikacio) grâce à laquelle des billets et des réservations FIP 50 peuvent être achetés.
+MÁV-START propose également une [application](https://www.mavcsoport.hu/mav-szemelyszallitas/belfoldi-utazas/mav-applikacio) grâce à laquelle des billets et des réservations FIP 50 peuvent être achetés.
 
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50
 
-Les billets FIP 50 pour les connexions MÁV et GySEV sont vendus sur le site Web de réservation MÁV, mais pour les connexions internationales, seule la section hongroise est réduite.
+Les billets FIP 50 pour les connexions MÁV-START et GySEV sont vendus sur le site Web de réservation MÁV-START, mais pour les connexions internationales, seule la section hongroise est réduite.
 
 La manière de sélectionner la réduction dans la recherche de connexion est décrite dans la section [Sélectionner la réduction](#mav-website:sélectionner-la-réduction).
 
@@ -39,7 +39,7 @@ La manière de sélectionner la réduction dans la recherche de connexion est d�
 
 ## Réservations
 
-Les réservations pour les trains MÁV et GySEV peuvent être achetées en ligne pour 990 HUF.
+Les réservations pour les trains MÁV-START et GySEV peuvent être achetées en ligne pour 990 HUF.
 
 La bonne option de réduction se trouve dans le tableau suivant. La manière de sélectionner la réduction dans la recherche de connexion est décrite dans la section [Sélectionner la réduction](#mav-website:sélectionner-la-réduction).
 
@@ -52,7 +52,7 @@ La bonne option de réduction se trouve dans le tableau suivant. La manière de 
 
 \* Le supplément de classe (_különbözeti díj_) est automatiquement ajouté au prix. Aucune option distincte ne doit être sélectionnée.[^1]
 
-Pour les trajets internationaux avec des Coupons FIP, vous devez détenir des Coupons FIP pour tous les transporteurs le long du trajet (par exemple, pour Budapest–Vienne, un Coupon MÁV et un Coupon ÖBB sont nécessaires). Si un Coupon n’est disponible que pour un seul pays, la réservation de connexions transfrontalières continues via le site Web de MÁV n’est pas possible. Une réservation vers des points frontière tarifaires n’est également pas possible via le site Web.
+Pour les trajets internationaux avec des Coupons FIP, vous devez détenir des Coupons FIP pour tous les transporteurs le long du trajet (par exemple, pour Budapest–Vienne, un Coupon MÁV-START et un Coupon ÖBB sont nécessaires). Si un Coupon n’est disponible que pour un seul pays, la réservation de connexions transfrontalières continues via le site Web de MÁV-START n’est pas possible. Une réservation vers des points frontière tarifaires n’est également pas possible via le site Web.
 
 ## Sélectionner la réduction
 
@@ -60,7 +60,7 @@ Pour les trajets internationaux avec des Coupons FIP, vous devez détenir des Co
 
 {{% float-image
   src="mav-website-birthday.webp"
-  alt="Date de naissance MÁV"
+  alt="Date de naissance MÁV-START"
   width="50%"
   position="right"
 %}}
@@ -69,7 +69,7 @@ Pour ajouter une option de réduction, sur la page de recherche de connexion sou
 
 {{% float-image
   src="mav-website-discounts.webp"
-  alt="Réductions MÁV"
+  alt="Réductions MÁV-START"
   width="50%"
   position="right"
 %}}
@@ -88,10 +88,10 @@ L’option « I only need seat reservation » se trouve dans les informations de
 
 {{< highlight "important" >}}
 
-L’option « FIP egyországos szabadjegy » peut encore apparaître dans le système MÁV. Il s’agit d’une entrée obsolète qui **ne doit pas être utilisée**, bien qu’une info-box prétende qu’elle n’est pas valable pour les trajets internationaux. MÁV travaille à la supprimer.[^1]
+L’option « FIP egyországos szabadjegy » peut encore apparaître dans le système MÁV-START. Il s’agit d’une entrée obsolète qui **ne doit pas être utilisée**, bien qu’une info-box prétende qu’elle n’est pas valable pour les trajets internationaux. MÁV-START travaille à la supprimer.[^1]
 
 {{< /highlight >}}
 
 {{% /booking-section %}}
 
-[^1]: [Retour d’expérience sur le site Web de réservation MÁV](https://github.com/fipguide/fipguide.github.io/issues/1178)
+[^1]: [Retour d’expérience sur le site Web de réservation MÁV-START](https://github.com/fipguide/fipguide.github.io/issues/1178)

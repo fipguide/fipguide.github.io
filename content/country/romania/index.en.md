@@ -37,7 +37,7 @@ Particularly scenic are the routes along the Carpathians, for example between Pl
 | Moldova (CFM)                                        | Iasi, Ungheni (fr)                                                                                                       |
 | [Bulgaria](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (Bulgarian: Русе), Vidin (fr)                                                                                  |
 | [Serbia](/country/serbia) ([SV](/operator/sv))       | Jimbolia (fr) (Serbian: Жомбољ), Vršac (fr) (Serbian: Вршац)                                                             |
-| [Hungary](/country/hungary) ([MÁV](/operator/mav))   | Biharkeresztes (fr), Curtici (fr) (Hungarian: Kürtös), Nyirábrány (fr), Salonta (fr) (Hungarian: Nagyszalonta, Szalonta) |
+| [Hungary](/country/hungary) ([MÁV-START](/operator/mav))   | Biharkeresztes (fr), Curtici (fr) (Hungarian: Kürtös), Nyirábrány (fr), Salonta (fr) (Hungarian: Nagyszalonta, Szalonta) |
 
 {{% /expander %}}
 
@@ -63,4 +63,4 @@ Currently, there are no passenger trains between Serbia and Romania.
 
 ### Hungary
 
-Most international connections to Romania come from Hungary. These include both daytime trains and night train services such as the famous _Dacia_, which runs from Vienna in Austria via Budapest to Bucharest. The connections can be used with FIP for the entire route. For this, either a continuous FIP 50 Ticket or FIP Coupons from CFR and MÁV are required (if travelling from Austria, a ticket for the ÖBB section is also needed).
+Most international connections to Romania come from Hungary. These include both daytime trains and night train services such as the famous _Dacia_, which runs from Vienna in Austria via Budapest to Bucharest. The connections can be used with FIP for the entire route. For this, either a continuous FIP 50 Ticket or FIP Coupons from CFR and MÁV-START are required (if travelling from Austria, a ticket for the ÖBB section is also needed).

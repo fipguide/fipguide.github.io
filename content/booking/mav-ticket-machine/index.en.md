@@ -1,6 +1,6 @@
 ---
-title: MÁV Ticket Machine
-description: Booking information for MÁV ticket machines.
+title: MÁV-START Ticket Machine
+description: Booking information for MÁV-START ticket machines.
 params:
   classes:
     first: HUF 990
@@ -10,13 +10,13 @@ params:
   type: machine
 ---
 
-Ticket machines from MÁV are available at many major train stations. FIP 50 Tickets and reservations for MÁV and GySEV are sold here.
+Ticket machines from MÁV-START are available at many major train stations. FIP 50 Tickets and reservations for MÁV-START and GySEV are sold here.
 
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets
 
-FIP 50 Tickets can be purchased at MÁV ticket machines for travel within Hungary for MÁV and GySEV as well as for cross-border connections.
+FIP 50 Tickets can be purchased at MÁV-START ticket machines for travel within Hungary for MÁV-START and GySEV as well as for cross-border connections.
 
 To book FIP 50 Tickets, select the option _Further Discounts_ in the passenger discounts section. You can then choose _FIP 50% domestic discount 1st class (50%)_ or _FIP 50% domestic discount 2nd class (50%)_. The class refers to eligibility, not the desired class of the ticket.
 
@@ -28,7 +28,7 @@ To book FIP 50 Tickets, select the option _Further Discounts_ in the passenger d
 
 ## Reservations
 
-Reservations for MÁV and GySEV trains can be purchased on-site for 990 HUF.
+Reservations for MÁV-START and GySEV trains can be purchased on-site for 990 HUF.
 
 To book reservations without a ticket, select _Further settings_ in the passenger overview. You can then select the option _I only need a seat reservation_.
 
