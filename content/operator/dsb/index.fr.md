@@ -188,13 +188,7 @@ Les titres FIP ne sont pas valables sur les trains Øresundståg entre Copenhagu
 
 Les Billets FIP 50 ne peuvent pas être émis pour des trajets uniquement internes à la région de Copenhague ou au secteur Aarhus-Grenaa. Seuls les trajets au-delà de ces régions sont autorisés. Les Coupons FIP, eux, restent valables partout, y compris dans ces zones.
 
-### Utilisation des ferries
-
-{{% highlight inofficial %}}
-Selon certaines sources, les Billets FIP 50 seraient valables sur les ferries Scandlines en lien avec un trajet en train au Danemark. Cela n’a pas encore été officiellement confirmé. [^1]
-{{% /highlight %}}
-
-### Correspondances – AJC
+### Correspondances - AJC
 
 Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 
