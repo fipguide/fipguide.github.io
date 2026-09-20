@@ -287,7 +287,7 @@ taxation:
     afin que le calculateur puisse se charger. Sans cette autorisation, les
     données ne peuvent pas être récupérées.
   lock: Définir l’attribution
-  no-first-class: 2nd classe uniquement
+  no-first-class: 2nde classe uniquement
   optimization-month: Mois
   optimize: Optimiser
   other-placeholder: Saisir le montant en €
@@ -301,21 +301,20 @@ taxation:
   person-other: Personnes
   planning: Planification et optimisation
   planning-description: |
-    En mode Planification et optimisation, « Optimiser » répartit vos coupons de
-    manière optimale sur les mois.
+    Ici, vous pouvez répartir de manière optimale vos coupons sur plusieurs mois
+    grâce à la fonction « Optimiser ».
 
-    Si vous avez besoin d’un coupon dans un mois
-    précis, déplacez-le par glisser-déposer. Il reste alors affecté à ce mois
-    jusqu’à ce que vous le déverrouilliez. La fonction « Optimiser » tient
-    compte de ces affectations fixes et ajuste la répartition des coupons
-    restants en conséquence. Les coupons qui dépassent à eux seuls le seuil sont
-    regroupés le plus tôt possible.
+    Si vous avez besoin d’un coupon au cours d’un mois donné, vous pouvez le
+    déplacer par glisser-déposer. Il sera alors définitivement attribué à ce
+    mois, jusqu’à ce que vous supprimiez cette attribution à l’aide du cadenas.
+    La fonction « Optimiser » tient compte de votre attribution et adapte en
+    conséquence la répartition des autres coupons.
   planning-focus: Optimiser les impôts
   price-per-field: par champ
   price-per-ticket: par billet
   remove: Supprimer
   reset: Réinitialiser
-  second-class: 2nd classe
+  second-class: 2nde classe
   sum: Total
   summary-all-assigned-ok: >-
     Tous les coupons sont répartis par mois et aucun mois ne dépasse {{
