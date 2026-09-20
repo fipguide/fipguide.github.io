@@ -1,11 +1,11 @@
 ---
+aliases:
+  - /booking/ns-phone
+  - /booking/ns-ticket-office
 title: NS
 country:
   - netherlands
 operator: ns
-aliases:
-  - /booking/ns-phone
-  - /booking/ns-ticket-office
 ---
 
 Nederlandse Spoorwegen (NS) is the state railway company of the [Netherlands](/country/netherlands "Netherlands") and operates the majority of passenger traffic on the Dutch rail network.
@@ -164,6 +164,7 @@ Trains of the Sneltrein / Regional-Express `RE` category, including the connecti
 
 An exception applies to the Three-Country Train (Liège-Guillemins – Maastricht – Heerlen – Aachen): between Maastricht and Liège-Guillemins, the train is operated on behalf of NS and SNCB, and NS/SNCB tickets including FIP remain valid. Between Maastricht and Aachen (via Heerlen), the train is operated by Arriva and FIP is not valid.
 {{< /highlight >}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -242,11 +243,11 @@ FIP 50 Tickets cannot be purchased on the train. [^1]
 
 {{< children-discount >}}
 
-| Age                                  | Discount                                                                                        |
-| ------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| {{< icon "stroller" >}} 0–3 years    | Free                                                                                            |
+| Age | Discount |
+| --- | --- |
+| {{< icon "stroller" >}} 0–3 years | Free |
 | {{< icon "child_care" >}} 4–11 years | [Railrunner ticket](https://www.ns.nl/en/tickets/railrunner) for € 2.50 (valid for a whole day) |
-| {{< icon "person" >}} from 12 years  | Regular price                                                                                   |
+| {{< icon "person" >}} from 12 years | Regular price |
 
 ### Free "Kids Vrij" Season Ticket
 
@@ -261,8 +262,8 @@ This is not a ticket, but an access pass, valid for:
 
 - Up to 8 separate days within a 3-month period.
 - Each day (from 00:00 to 23:59):
-  - Up to 6 entries/exits at the same station.
-  - Up to 12 passages in total per day.
+    - Up to 6 entries/exits at the same station.
+    - Up to 12 passages in total per day.
 
 If needed, a new access coupon can be requested at the NS ticket office.
 
