@@ -289,7 +289,7 @@ taxation:
   no-first-class: Nur 2. Klasse
   optimization-month: Monat
   optimize: Optimieren
-  other-placeholder: Sonstige Sachbezüge (€)
+  other-placeholder: Wert in € eingeben
   person: Person
   person-limit: Anzahl Personen
   person-limit-not-supported-warning: >-

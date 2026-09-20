@@ -289,7 +289,7 @@ taxation:
   no-first-class: 2nd classe uniquement
   optimization-month: Mois
   optimize: Optimiser
-  other-placeholder: Autres avantages imposables (€)
+  other-placeholder: Saisir le montant en €
   person: Personne
   person-limit: Nombre de personnes
   person-limit-not-supported-warning: >-

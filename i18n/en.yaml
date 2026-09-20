@@ -276,7 +276,7 @@ taxation:
   no-first-class: 2nd Class only
   optimization-month: Month
   optimize: Optimize
-  other-placeholder: Other taxable benefits (€)
+  other-placeholder: Enter value in €
   person: Person
   person-limit: Number of persons
   person-limit-not-supported-warning: >-
