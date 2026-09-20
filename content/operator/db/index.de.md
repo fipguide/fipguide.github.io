@@ -63,7 +63,7 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich, Belgie
 Grenzüberschreitende Hochgeschwindigkeitszüge der SNCF in Kooperation mit der DB. Diese verkehren von Frankfurt, Mannheim, Saarbrücken, München, Stuttgart und Karlsruhe nach Paris.
 
 {{< highlight confusion >}}
-Die SNCF fährt `TGV` Züge von und nach Freiburg, welche ausschliesslich durch die SNCF betrieben werden. Hier gelten keine FIP Tickets der DB, es muss ein FIP Globalpreis der SNCF erworben werden, auch wenn die Fahrt nur innerhalb Deutschlands verkehrt.9
+Einige wenige `TGV` Züge verkehren von Paris nach Freiburg und werden vollständig (auch in Deutschland) von der SNCF betrieben. Als Betreiber wird für diese Züge nur die SNCF aufgeführt, siehe [Zugbetreiber identifizieren und Verbindungen suchen](/country/germany#fip-nutzung). In diesen Zügen gelten in Deutschland keine DB Freifahrtscheine und keine nationalen Fahrvergünstigungen für DB Mitarbeitende. Stattdessen können FIP Globalpreistickets der SNCF erworben werden.
 {{< /highlight >}}
 
 #### Reservierungen

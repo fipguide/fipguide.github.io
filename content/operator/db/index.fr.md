@@ -62,6 +62,10 @@ Par le passé, une obligation de réservation existait en été pour les trajets
 
 Trains à grande vitesse transfrontaliers de la SNCF en coopération avec la DB. Ils relient Francfort, Mannheim, Karlsruhe, Sarrebruck, Stuttgart et Munich à Paris.
 
+{{< highlight confusion >}}
+Quelques trains `TGV` circulent de Paris à Fribourg et sont entièrement exploités par la SNCF, y compris en Allemagne. Pour ces trains, seule la SNCF est indiquée comme exploitant, voir [Identifier l’exploitant du train et rechercher des liaisons](#informations-fip). Dans ces trains, les Coupons FIP DB et les réductions nationales pour les employés DB ne sont pas valables en Allemagne. À la place, des billets au Tarif Global FIP de la SNCF peuvent être achetés.
+{{< /highlight >}}
+
 #### Réservations
 
 Réservation obligatoire pour les trajets transfrontaliers vers la France.
