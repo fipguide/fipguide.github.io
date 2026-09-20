@@ -260,6 +260,7 @@ taxation:
   category-other: Other
   children: Children
   decrease: Decrease
+  distribution: Distribution
   field-count-heading: Fields per person
   first-class: 1st Class
   increase: Increase

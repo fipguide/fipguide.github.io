@@ -271,6 +271,7 @@ taxation:
   category-other: Sonstiges
   children: Kinder
   decrease: Verringern
+  distribution: Aufteilung
   field-count-heading: Felder pro Person
   first-class: 1. Klasse
   increase: Erhöhen
