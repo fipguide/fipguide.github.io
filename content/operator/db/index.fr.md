@@ -43,6 +43,8 @@ Il n’existe pas d’obligation de réservation, sauf sur certaines liaisons tr
 
 L’`ICE` est un train à grande vitesse et la catégorie la plus élevée de la DB. Il relie les grandes villes allemandes à jusqu’à 300 km/h et circule aussi vers certains pays voisins. Les liaisons particulièrement rapides avec peu d’arrêts sont appelées `ICE Sprinter`.
 
+Aux arrêts en France, l’accès au quai (dans les gares avec barrières de quai) ainsi qu’aux trains est possible jusqu’à deux minutes avant le départ. Les portes se ferment deux minutes avant le départ. Le billet doit être prêt, car le personnel peut le contrôler avant l’embarquement.[^4] Ces règles ne s’appliquent pas en Allemagne.[^5]
+
 #### Réservations
 
 Réservation obligatoire pour les trajets transfrontaliers vers la France.
@@ -61,6 +63,8 @@ Par le passé, une obligation de réservation existait en été pour les trajets
 %}}
 
 Trains à grande vitesse transfrontaliers de la SNCF en coopération avec la DB. Ils relient Francfort, Mannheim, Karlsruhe, Sarrebruck, Stuttgart et Munich à Paris.
+
+Aux arrêts en France, l’accès au quai (dans les gares avec barrières de quai) ainsi qu’aux trains est possible jusqu’à deux minutes avant le départ. Les portes se ferment deux minutes avant le départ. Le billet doit être prêt, car le personnel peut le contrôler avant l’embarquement.[^4] Ces règles ne s’appliquent pas en Allemagne.[^5]
 
 #### Réservations
 
@@ -436,3 +440,7 @@ La Deutsche Bahn exploite une multitude de liaisons très variées. Par exemple,
 [^2]: [DB Mobidig : Où ma réduction de voyage est-elle valable](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)
 
 [^3]: [DB – Votre voyage avec des enfants](https://www.bahn.de/service/individuelle-reise/kinder)
+
+[^4]: [SNCF Connect – Boarding Train](https://www.sncf-connect.com/en-en/help/boarding-train)
+
+[^5]: [DB – Was muss ich bei meiner Reise mit der SNCF beachten?](https://www.bahn.de/faq/internationale-reise-sncf-was-beachten)

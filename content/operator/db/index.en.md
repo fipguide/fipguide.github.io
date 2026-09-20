@@ -43,6 +43,8 @@ There is no reservation requirement except for certain cross-border connections 
 
 The `ICE` is a high-speed train and the highest train category of DB. It connects major cities in Germany at up to 300 km/h and also operates to some neighboring countries. Especially fast connections with few stops are called `ICE Sprinter`.
 
+At stops in France, access to the platform (at stations with platform barriers) and to the trains is possible up to two minutes before departure. The doors close two minutes before departure. The ticket should be kept ready, as staff may check it before boarding the train.[^4] These rules do not apply in Germany.[^5]
+
 #### Reservations
 
 Reservation required for cross-border journeys to France.
@@ -61,6 +63,8 @@ In the past, there was a reservation requirement for cross-border journeys in su
 %}}
 
 Cross-border high-speed trains of SNCF in cooperation with DB. These run from Frankfurt, Mannheim, Karlsruhe, Saarbrücken, Stuttgart, and Munich to Paris.
+
+At stops in France, access to the platform (at stations with platform barriers) and to the trains is possible up to two minutes before departure. The doors close two minutes before departure. The ticket should be kept ready, as staff may check it before boarding the train.[^4] These rules do not apply in Germany.[^5]
 
 #### Reservations
 
@@ -440,3 +444,7 @@ Deutsche Bahn operates a wide variety of connections. For example, you can use t
 [^2]: [DB Mobidig: Where is my travel pass valid](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)
 
 [^3]: [DB – Your Journey with Children](https://www.bahn.de/service/individuelle-reise/kinder)
+
+[^4]: [SNCF Connect – Boarding Train](https://www.sncf-connect.com/en-en/help/boarding-train)
+
+[^5]: [DB – Was muss ich bei meiner Reise mit der SNCF beachten?](https://www.bahn.de/faq/internationale-reise-sncf-was-beachten)
