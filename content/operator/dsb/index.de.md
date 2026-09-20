@@ -9,7 +9,7 @@ aliases:
   - /booking/dsb-website
 ---
 
-Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in [Dänemark](/country/denmark "Dänemark"). Sie betreibt den Großteil des Personenverkehrs auf dem dänischen Schienennetz. Unter dem Betreibernamen "DSB Vores Tog" betreibt sie seit dem 01.09.2026 auch Zugverkehr in Mittel- und Westjütland und auf Fünen. [^3]
+Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in [Dänemark](/country/denmark "Dänemark"). Sie betreibt den Großteil des Personenverkehrs auf dem dänischen Schienennetz. Unter dem Betreibernamen "DSB Vores Tog" betreibt sie seit dem 01.09.2026 auch Zugverkehr in Mittel- und Westjütland und auf Fünen. [^4]
 
 ## Zusammenfassung
 
@@ -101,7 +101,7 @@ Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in 
 
 Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie halten außerhalb des S-Bahn-Netzes in Kopenhagen an allen Stationen und sind daher eher langsam.
 
-Seit dem 01.09.2026 können auch die Strecken der DSB Vores Tog (ehemals GoCollective) in Mittel- und Westjütland und auf Fünen genutzt werden. [^3]
+Seit dem 01.09.2026 können auch die Strecken der DSB Vores Tog (ehemals GoCollective) in Mittel- und Westjütland und auf Fünen genutzt werden. [^4]
 
 {{< highlight confusion >}}
 Auch Züge von anderen Anbietern werden als `R` angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist. \
@@ -166,8 +166,13 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 
 ## Ermäßigungen
 
-Kinder unter 5 Jahren reisen kostenlos. \
-Kinder unter 16 Jahren erhalten 50% Rabatt auf den Erwachsenen-Tarif.[^1]
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                                                                        |
+| ------------------------------------ | --------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–11 Jahre | Kostenlos für zwei Kinder in Begleitung eines Erwachsenen mit gültigem Ticket[^3] |
+| {{< icon "child_hat" >}} 12–15 Jahre | 50 % Ermäßigung[^3]                                                               |
+| {{< icon "person" >}} ab 16 Jahre    | Regulärer Preis[^3]                                                               |
 
 ## Tarifliche Besonderheiten
 
@@ -199,4 +204,6 @@ Die DSB bietet einen zuverlässigen und komfortablen Service. Die 1. Klasse lohn
 
 [^2]: [DSB 1'](https://www.dsb.dk/find-produkter-og-services/dsb-1-billetter/dsb-1-tillaeg/)
 
-[^3]: [DSB Vores Tog](https://www.dsb.dk/om-dsb/baredygtighed/virksomheden/vorestog/)
+[^3]: [DSB – Dänemark mit dem Zug erkunden](https://www.dsb.dk/en/explore-denmark-by-train/)
+
+[^4]: [DSB Vores Tog](https://www.dsb.dk/om-dsb/baredygtighed/virksomheden/vorestog/)

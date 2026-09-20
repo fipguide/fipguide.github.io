@@ -37,11 +37,11 @@ Besonders ist in den Niederlanden, dass sich an allen etwas größeren Bahnhöfe
 
 {{% expander "Grenzpunkte" border %}}
 
-| Land                                                                               | Grenzpunkte                                                              |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [Deutschland](/country/germany) ([DB](/operator/db))                               | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| [Belgien](/country/belgium) ([SNCB](/operator/sncb))                               | Roosendaal (fr), Visé                                                    |
-| [Vereinigtes Königreich](/country/united-kingdom) ([Stena Line BV](/operator/stl)) | Hoek van Holland                                                         |
+| Land                                                                               | Grenzpunkte                                                                                       |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [Deutschland](/country/germany) ([DB](/operator/db))                               | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
+| [Belgien](/country/belgium) ([SNCB](/operator/sncb))                               | Roosendaal (fr), Visé                                                                             |
+| [Vereinigtes Königreich](/country/united-kingdom) ([Stena Line BV](/operator/stl)) | Hoek van Holland                                                                                  |
 
 {{% /expander %}}
 

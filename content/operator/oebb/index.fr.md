@@ -298,7 +298,15 @@ L’achat de billets à bord du train est possible si vous contactez immédiatem
 
 ## Réductions
 
-Les enfants de moins de 6 ans voyagent gratuitement ; à partir de 6 ans, lors d’un voyage avec un Coupon FIP sur les trains grandes lignes, le [supplément](#validite-des-billets-fip) doit être payé pour chaque enfant.
+{{< children-discount >}}
+
+| Âge                                      | Réduction             |
+| ---------------------------------------- | --------------------- |
+| {{< icon "stroller" >}} 0–5 ans          | Gratuit[^2]           |
+| {{< icon "child_care" >}} 6–14 ans       | Réduction de 50 %[^2] |
+| {{< icon "person" >}} à partir de 15 ans | Tarif normal[^2]      |
+
+À partir de 6 ans, lors d’un voyage avec un Coupon FIP sur les trains grandes lignes, le [supplément](#validite-des-billets-fip) doit être payé pour chaque enfant.
 
 {{% highlight tip %}}
 La carte ÖBB Vorteilscard Family à 21 € est vite rentabilisée avec enfants. \
@@ -361,6 +369,18 @@ Les trains grandes lignes ÖBB circulent entre Salzbourg et Kufstein sur le rés
 
 Arrêts intermédiaires sont possible uniquement pour les distances de 101 km ou plus et ne nécessite aucune formalité supplémentaire.
 
+### Correspondances
+
+#### HOTNAT
+
+Si un train de correspondance est manqué dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle ou Zurich, HOTNAT peut être utilisé.
+
+Cet opérateur fait partie de HOTNAT (Hop on the Next Available Train). [Plus d’informations dans la FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ### Services de remplacement ferroviaire
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
@@ -368,3 +388,5 @@ Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lors
 ## Sources
 
 [^1]: [Rail Delivery Group – Europe & FIP](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
+
+[^2]: [ÖBB – Voyager avec des enfants](https://www.oebb.at/en/reiseplanung-services/vor-ihrer-reise/mit-kindern-unterwegs)

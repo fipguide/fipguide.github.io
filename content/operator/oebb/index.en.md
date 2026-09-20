@@ -298,7 +298,15 @@ Tickets can be purchased on board if you immediately contact the conductor. Howe
 
 ## Discounts
 
-Children under 6 travel free of charge. From the age of 6, when traveling with a FIP Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
+{{< children-discount >}}
+
+| Age                                  | Discount           |
+| ------------------------------------ | ------------------ |
+| {{< icon "stroller" >}} 0–5 years    | Free of charge[^2] |
+| {{< icon "child_care" >}} 6–14 years | 50% discount[^2]   |
+| {{< icon "person" >}} from 15 years  | Regular price[^2]  |
+
+From the age of 6, when traveling with a FIP Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
 
 {{% highlight tip %}}
 With children, the ÖBB Vorteilscard Family for € 21 is quickly worthwhile. \
@@ -361,6 +369,18 @@ Apart from the supplement for the FIP Coupon, there is no distinction between lo
 
 Interrupting a journey is only possible for distances of 101 km or more and does not require additional formalities.
 
+### Connections
+
+#### HOTNAT
+
+If a connecting train is missed at the stations Paris, Brussels, Cologne, Munich, Basel, or Zurich, HOTNAT can be used.
+
+This operator is part of HOTNAT (Hop on the Next Available Train). [More information in the FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ### Rail Replacement Services
 
 On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
@@ -368,3 +388,5 @@ On rail replacement buses, FIP discounts apply when they replace a train on whic
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
+
+[^2]: [ÖBB – Travelling with children](https://www.oebb.at/en/reiseplanung-services/vor-ihrer-reise/mit-kindern-unterwegs)

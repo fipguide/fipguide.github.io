@@ -326,7 +326,13 @@ FIP 50 Tickets cannot be purchased on the train.
 
 ## Discounts
 
-For public fares, children up to 6 years travel free, children between 6 and 14 years receive a 50% discount on the adult fare. From 14 years, the regular adult fare applies.
+{{< children-discount >}}
+
+| Age                                  | Discount                                      |
+| ------------------------------------ | --------------------------------------------- |
+| {{< icon "child_care" >}} 0–5 years  | Free                                          |
+| {{< icon "child_care" >}} 6–14 years | 50% discount, if travelling unaccompanied[^3] |
+| {{< icon "person" >}} from 15 years  | Regular price[^3]                             |
 
 ### Children Traveling Free
 
@@ -410,6 +416,18 @@ On August 1, 2026, Regionalverkehre Start GmbH was integrated into DB Regio AG. 
 
 On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
 
+### Connections
+
+#### HOTNAT
+
+If a connecting train is missed at the stations Paris, Brussels, Cologne, Munich, Basel, or Zurich, HOTNAT can be used.
+
+This operator is part of HOTNAT (Hop on the Next Available Train). [More information in the FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ## Recommendations
 
 Deutsche Bahn operates a wide variety of connections. For example, you can use the Thuringian Mountain Railway from Obstfelderschmiede to Cursdorf. Connections through the Black Forest (Black Forest Railway) or along the left Rhine route are also highly recommended.
@@ -425,3 +443,5 @@ In long-distance transport, a highlight is that there is usually a restaurant ca
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782273-germany.html)
 
 [^2]: [DB Mobidig: Where is my travel pass valid](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)
+
+[^3]: [DB – Your Journey with Children](https://www.bahn.de/service/individuelle-reise/kinder)
