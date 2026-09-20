@@ -253,6 +253,8 @@ taxation:
   add-national: Add national discount
   add-operator: Add operator
   add-other: Add taxable benefit
+  card-persons-one: For 1 person · number of fields
+  card-persons-other: For {{ .Count }} persons · number of fields per person
   category-international: International FIP Coupons
   category-national: National Discounts
   category-other: Other
@@ -292,6 +294,7 @@ taxation:
     coupons accordingly. Individual coupons that exceed the threshold on their
     own are grouped as early as possible.
   planning-focus: Optimize taxes
+  price-per-field: per field
   remove: Remove
   reset: Reset
   second-class: 2nd Class

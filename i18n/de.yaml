@@ -264,6 +264,8 @@ taxation:
   add-national: Nationale Vergünstigung hinzufügen
   add-operator: Betreiber hinzufügen
   add-other: Sachbezug hinzufügen
+  card-persons-one: Für 1 Person · Anzahl der Felder
+  card-persons-other: Für {{ .Count }} Personen · Anzahl der Felder jeweils pro Person
   category-international: Internationale FIP Freifahrtscheine
   category-national: Nationale Vergünstigungen
   category-other: Sonstiges
@@ -306,6 +308,7 @@ taxation:
     „Optimieren“-Funktion berücksichtigt deine Zuordnung und passt die
     Verteilung der übrigen Freifahrtscheine entsprechend an.
   planning-focus: Steuer optimieren
+  price-per-field: pro Feld
   remove: Entfernen
   reset: Zurücksetzen
   second-class: 2. Klasse

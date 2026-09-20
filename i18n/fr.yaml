@@ -264,6 +264,8 @@ taxation:
   add-national: Ajouter une réduction nationale
   add-operator: Ajouter un opérateur
   add-other: Ajouter un avantage imposable
+  card-persons-one: Pour 1 personne · nombre de champs
+  card-persons-other: Pour {{ .Count }} personnes · nombre de champs par personne
   category-international: Coupons FIP internationaux
   category-national: Réductions nationales
   category-other: Autres
@@ -307,6 +309,7 @@ taxation:
     restants en conséquence. Les coupons qui dépassent à eux seuls le seuil sont
     regroupés le plus tôt possible.
   planning-focus: Optimiser les impôts
+  price-per-field: par champ
   remove: Supprimer
   reset: Réinitialiser
   second-class: 2nd classe
