@@ -36,7 +36,7 @@ Les Coupons FIP n’entrent pas dans cet abattement sur les réductions et reste
 
 De plus amples informations sont disponibles sur MeineDB.
 
-#### Exemple d’un abattement épuisé
+{{% expander "Exemple d’un abattement épuisé" info %}}
 
 Au cours de l’année, un employé de DB Fernverkehr AG utilise à plusieurs reprises le TagesTicket M Fern F en 2e classe (valeur d’avantage en nature de 49,96 € chacun). Le tableau suivant montre quelle part relève de l’abattement annuel sur les réductions (1 080 €), quelle part est imposée individuellement et à partir de quand la franchise mensuelle de 50 € s’applique :
 
@@ -47,12 +47,14 @@ Au cours de l’année, un employé de DB Fernverkehr AG utilise à plusieurs re
 | **même mois :**<br>Autres TagesTicket M Fern F (2e classe)                | 49,96 € chacun              | –                                              | 49,96 € chacun          | –                                               |
 | **à partir du mois suivant :**<br>Autres TagesTicket M Fern F (2e classe) | 49,96 € chacun              | –                                              | –                       | 49,96 € chacun                                  |
 
-Explication :
+**Explication :**
 
 - **Billets 1 à 21 :** La valeur d’avantage en nature de 21 × 49,96 € = 1 049,16 € reste entièrement dans l’abattement annuel de 1 080 €. Aucune imposition ne s’applique ; l’abattement est ensuite épuisé, à l’exception de 30,84 €.
 - **22e billet :** La valeur d’avantage en nature de 49,96 € est répartie. 30,84 € sont imputés sur l’abattement restant (RFB ensuite à 0 €), et les 19,12 € excédentaires sont imposés individuellement.
 - **Billets suivants le même mois :** L’abattement est épuisé. Tous les autres TagesTickets M Fern du même mois sont intégralement imposés individuellement (49,96 € chacun). La franchise mensuelle ne s’applique pas ce mois-là, car l’abattement a été dépassé au cours de ce même mois.
 - **À partir du mois suivant :** Les variantes du TagesTicket M Fern F sont désormais soumises à la franchise mensuelle de 50 €, laquelle inclut également les facilités de transport internationales (p. ex. les Coupons FIP). Avec 49,96 €, un billet seul reste juste en dessous ; si la limite est dépassée par d’autres facilités, la totalité du montant mensuel est imposable.
+
+{{% /expander %}}
 
 ## Réductions nationales (non-FIP)
 

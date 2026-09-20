@@ -36,7 +36,7 @@ FIP Coupons are not covered by this discount allowance and continue to be taxed 
 
 Further information can be found in MeineDB.
 
-#### Example of an exhausted discount allowance
+{{% expander "Example of an exhausted discount allowance" info %}}
 
 Over the course of the year, an employee of DB Fernverkehr AG repeatedly redeems the TagesTicket M Fern F in 2nd class (non-cash benefit value of €49.96 each). The following table shows which portion falls under the annual discount allowance (€1,080), which portion is taxed individually, and from when the monthly exemption limit of €50 applies:
 
@@ -47,12 +47,14 @@ Over the course of the year, an employee of DB Fernverkehr AG repeatedly redeems
 | **same month:**<br>Further TagesTicket M Fern F (2nd class)               | €49.96 each            | –                                  | €49.96 each         | –                                                |
 | **from the following month:**<br>Further TagesTicket M Fern F (2nd class) | €49.96 each            | –                                  | –                   | €49.96 each                                      |
 
-Explanation:
+**Explanation:**
 
 - **Tickets 1–21:** The non-cash benefit value of 21 × €49.96 = €1,049.16 lies entirely within the annual discount allowance of €1,080. No taxation applies; afterward the discount allowance is used up except for €30.84.
 - **22nd ticket:** The non-cash benefit value of €49.96 is split. €30.84 is counted toward the remaining discount allowance (RFB then €0), and the exceeding €19.12 is taxed individually.
 - **Further tickets in the same month:** The discount allowance is exhausted. All further TagesTickets M Fern in the same month are taxed individually in full (€49.96 each). The monthly exemption limit does not apply in this month, because the discount allowance was exceeded within it.
 - **From the following month:** The variants of the TagesTicket M Fern F are now subject to the monthly exemption limit of €50, which also includes international travel benefits (e.g. FIP Coupons). At €49.96 a single ticket stays just below; if the limit is exceeded by additional benefits, the entire monthly amount is taxable.
+
+{{% /expander %}}
 
 ## National Discounts (Non-FIP)
 

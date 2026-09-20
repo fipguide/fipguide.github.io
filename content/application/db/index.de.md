@@ -36,7 +36,7 @@ FIP Freifahrtscheine fallen nicht in diesen Rabattfreibetrag und werden weiterhi
 
 Weiterführende Informationen sind in MeineDB zu finden.
 
-#### Beispiel für einen ausgeschöpften Rabattfreibetrag
+{{% expander "Beispiel für einen ausgeschöpften Rabattfreibetrag" info %}}
 
 Eine Person der DB Fernverkehr AG löst im Laufe des Jahres wiederholt das TagesTicket M Fern F der 2. Klasse ein (Sachbezugswert je 49,96 €). Die folgende Tabelle zeigt, welcher Anteil in den jährlichen Rabattfreibetrag (1.080 €) fällt, welcher Anteil individuell versteuert wird und ab wann die monatliche Freigrenze von 50 € greift:
 
@@ -47,12 +47,14 @@ Eine Person der DB Fernverkehr AG löst im Laufe des Jahres wiederholt das Tages
 | **gleicher Monat:**<br>Weitere TagesTicket M Fern F (2. Klasse)    | je 49,96 €     | –                                     | je 49,96 €             | –                                                 |
 | **ab dem Folgemonat:**<br>Weitere TagesTicket M Fern F (2. Klasse) | je 49,96 €     | –                                     | –                      | je 49,96 €                                        |
 
-Erläuterung:
+**Erläuterung:**
 
 - **Tickets 1–21:** Der Sachbezugswert von 21 × 49,96 € = 1.049,16 € liegt vollständig innerhalb des jährlichen Rabattfreibetrags von 1.080 €. Es fällt keine Versteuerung an; der Rabattfreibetrag ist danach bis auf 30,84 € ausgeschöpft.
 - **22. Ticket:** Der Sachbezugswert von 49,96 € wird aufgeteilt. 30,84 € werden auf den verbleibenden Rabattfreibetrag angerechnet (Rabattfreibetrag danach 0 €), die übersteigenden 19,12 € werden individuell versteuert.
 - **Weitere Tickets im selben Monat:** Der Rabattfreibetrag ist ausgeschöpft. Alle weiteren TagesTickets M Fern desselben Monats werden vollständig individuell versteuert (je 49,96 €). Die monatliche Freigrenze greift in diesem Monat nicht mehr, da der Rabattfreibetrag genau in diesem Monat überschritten wurde.
 - **Ab dem Folgemonat:** Für die Varianten des TagesTicket M Fern F gilt nun die monatliche Freigrenze von 50 €, in die auch internationale Fahrvergünstigungen (z. B. FIP Freifahrtscheine) einfließen. Mit 49,96 € bleibt ein einzelnes Ticket knapp darunter; wird die Grenze durch weitere Vergünstigungen überschritten, ist der gesamte Monatsbetrag steuerpflichtig.
+
+{{% /expander %}}
 
 ## Nationale Vergünstigungen (kein FIP)
 
