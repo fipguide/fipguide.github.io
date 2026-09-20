@@ -234,7 +234,9 @@ FIP Fahrkarten sind im ÖBB Postbus nicht gültig. In Bussen des Schienenersatzv
 
 ### Online
 
-{{% booking id="oebb-website" /%}}
+{{% booking id="oebb-website"
+    brennerzuschlag=true
+/%}}
 
 {{% booking id="db-website" %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
