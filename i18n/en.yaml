@@ -296,6 +296,7 @@ taxation:
     own are grouped as early as possible.
   planning-focus: Optimize taxes
   price-per-field: per field
+  price-per-ticket: per ticket
   remove: Remove
   reset: Reset
   second-class: 2nd Class
@@ -312,6 +313,7 @@ taxation:
   summary-under-limit: >-
     The total is within the €{{ .Threshold }} threshold. No additional taxation
     applies.
+  ticket-count-heading: Number of tickets
   unassigned: Unassigned
   unlock: Remove assignment
 teamMembers:

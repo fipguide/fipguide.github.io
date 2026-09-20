@@ -310,6 +310,7 @@ taxation:
     Verteilung der übrigen Freifahrtscheine entsprechend an.
   planning-focus: Steuer optimieren
   price-per-field: pro Feld
+  price-per-ticket: pro Ticket
   remove: Entfernen
   reset: Zurücksetzen
   second-class: 2. Klasse
@@ -328,6 +329,7 @@ taxation:
   summary-under-limit: >-
     Die Summe liegt innerhalb des {{ .Threshold }} € Grenzwerts. Es entsteht
     keine zusätzliche Versteuerung.
+  ticket-count-heading: Anzahl Tickets
   unassigned: Nicht zugewiesen
   unlock: Zuordnung aufheben
 teamMembers:

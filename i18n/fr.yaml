@@ -311,6 +311,7 @@ taxation:
     regroupés le plus tôt possible.
   planning-focus: Optimiser les impôts
   price-per-field: par champ
+  price-per-ticket: par billet
   remove: Supprimer
   reset: Réinitialiser
   second-class: 2nd classe
@@ -329,6 +330,7 @@ taxation:
   summary-under-limit: >-
     Le total reste dans la limite du seuil de {{ .Threshold }} €. Aucune
     imposition supplémentaire ne s’applique.
+  ticket-count-heading: Nombre de billets
   unassigned: Non attribué
   unlock: Supprimer l’attribution
 teamMembers:
