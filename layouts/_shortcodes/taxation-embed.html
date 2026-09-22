@@ -80,7 +80,7 @@
       "[data-taxation-remote-warning-template]",
     );
     var warningHtml = warningTemplate ? warningTemplate.innerHTML : "";
-    var loadingHtml = '<div class="o-taxation-embed__loading m-text-highlight m-text-highlight--tip"><div class="o-taxation-embed__loading-content">{{ partial "icon" "pending" }}<span>{{ T "taxation.loading" }}</span></div></div>';
+    var loadingHtml = '<div class="o-taxation-embed__loading m-text-highlight m-text-highlight--tip"><div class="o-taxation-embed__loading-content">{{ partial "icon" "downloading" }}<span>{{ T "taxation.loading" }}</span></div></div>';
 
     function normalizeBaseUrl(rawUrl) {
       var trimmed = String(rawUrl || "").trim();
