@@ -67,14 +67,7 @@
   <template data-taxation-remote-warning-template>
     {{ partial "highlight" (dict
       "Type" "important"
-      "Content" $warning
-      )
-    }}
-  </template>
-  <template data-taxation-remote-permission-template>
-    {{ partial "highlight" (dict
-      "Type" "important"
-      "Content" $permissionInfo
+      "Content" (printf "<p>%s</p><p>%s</p>" $warning $permissionInfo | safeHTML)
       )
     }}
   </template>
@@ -88,10 +81,6 @@
       "[data-taxation-remote-warning-template]",
     );
     var warningHtml = warningTemplate ? warningTemplate.innerHTML : "";
-    var permissionTemplate = root.querySelector(
-      "[data-taxation-remote-permission-template]",
-    );
-    var permissionHtml = permissionTemplate ? permissionTemplate.innerHTML : "";
     var loadingHtml = '<div class="o-taxation-embed__loading m-text-highlight m-text-highlight--tip"><div class="o-taxation-embed__loading-content">{{ partial "icon" "pending" }}<span>{{ T "taxation.loading" }}</span></div></div>';
 
     function normalizeBaseUrl(rawUrl) {
@@ -110,15 +99,6 @@
     function renderLoading() {
       root.innerHTML = "";
       root.insertAdjacentHTML("beforeend", loadingHtml);
-    }
-
-    function renderPermissionNotice() {
-      root.innerHTML = "";
-      if (permissionHtml) {
-        root.insertAdjacentHTML("beforeend", permissionHtml);
-      } else if (warningHtml) {
-        root.insertAdjacentHTML("beforeend", warningHtml);
-      }
     }
 
     function loadModule(src) {
@@ -260,7 +240,7 @@
       // Track which notice is currently shown so we never re-render (and thus
       // never "reset" or hide) a message that is already visible. Re-rendering
       // the same notice would disrupt assistive technology.
-      var currentNotice = null; // "loading" | "permission" | "warning" | null
+      var currentNotice = null; // "loading" | "notice" | null
 
       function showNotice(kind, renderFn) {
         if (currentNotice === kind) return;
@@ -269,9 +249,9 @@
       }
 
       // Poll the Local Network Access permission until it becomes "granted",
-      // then load. This replaces any timeout-based hiding of the permission
-      // notice: the message stays visible for as long as the permission is not
-      // granted, which is accessible (no content disappears on its own).
+      // then load. This "retry" is what recovers automatically when the user
+      // switches from block to allow later. No timeout ever hides or changes
+      // the notice, which keeps the flow accessible.
       var POLL_INTERVAL = 1000;
       var pollTimer = null;
 
@@ -288,25 +268,23 @@
         try {
           await attemptLoad();
         } catch (_error) {
-          // Access was granted (or the API is unavailable) but the remote is
-          // still unreachable -- a genuine network/intranet problem.
-          showNotice("warning", renderWarning);
-        } finally {
+          // Access is granted but the remote is still unreachable. Show the
+          // combined notice; the poll keeps running in case it recovers.
+          showNotice("notice", renderWarning);
           loading = false;
         }
       }
 
       var status = await queryLocalNetworkPermission();
 
-      // No Permissions API (or permission not supported): fall back to a plain
-      // load attempt. The request still triggers the browser prompt; on
-      // failure we show the intranet warning.
+      // No Permissions API: plain load attempt. The request still triggers the
+      // browser prompt; on failure show the combined notice.
       if (!status) {
         showNotice("loading", renderLoading);
         try {
           await attemptLoad();
         } catch (_error) {
-          showNotice("warning", renderWarning);
+          showNotice("notice", renderWarning);
         } finally {
           loading = false;
         }
@@ -318,28 +296,19 @@
         return;
       }
 
-      // Not granted yet. Show the permission notice right away so the user
-      // sees the explanation next to the browser's Local Network Access
-      // prompt. We keep polling the permission for as long as the calculator
-      // is not mounted, so switching from "block" to "allow" later reloads
-      // automatically (no timeout ever hides or freezes the flow).
-      //
-      // The permission state "prompt" is ambiguous: on the intranet it means a
-      // prompt is (about to be) shown; off the intranet no prompt appears
-      // because the server is unreachable. We disambiguate via the request
-      // outcome: if the request fails while the state never moved away from its
-      // initial value, no prompt happened -> show the intranet warning instead.
-      var initialState = status.state;
-
+      // Not granted (prompt or denied). We do NOT distinguish "not on the
+      // intranet" from "blocked in the browser": in both cases we show the
+      // same combined notice (intranet connection + browser confirmation) and
+      // keep it visible. The fetch below only triggers the browser prompt; the
+      // notice never changes based on its outcome. A repeated permission query
+      // (onchange + polling) reloads automatically once access is granted.
       function loadWhenGranted(state) {
         if (state === "granted" && !mounted) {
-          stopPolling();
-          loading = false;
           loadCalculator();
         }
       }
 
-      showNotice("permission", renderPermissionNotice);
+      showNotice("notice", renderWarning);
 
       status.onchange = function () {
         loadWhenGranted(status.state);
@@ -356,35 +325,11 @@
         }
       }, POLL_INTERVAL);
 
-      // Trigger the request. This is what makes the browser show the prompt
-      // (when applicable). On success the calculator mounts. On failure we
-      // check whether a prompt actually occurred.
-      try {
-        await attemptLoad();
-        stopPolling();
-        loading = false;
-      } catch (_error) {
-        var after = await queryLocalNetworkPermission();
-        var afterState = after ? after.state : null;
-        if (afterState === "denied") {
-          // Access is blocked (whether it was pre-set before load or just
-          // declined): the permission is the blocker -> tell the user to allow
-          // it in the browser. The poll keeps running so switching to "allow"
-          // later reloads automatically.
-          showNotice("permission", renderPermissionNotice);
-        } else if (afterState && afterState !== initialState) {
-          // The state moved (a prompt actually happened): keep the permission
-          // notice visible; the poll will reload once granted.
-          showNotice("permission", renderPermissionNotice);
-        } else {
-          // State never moved away from "prompt" (or no Permissions API): no
-          // prompt appeared, so the remote is simply unreachable (not on the
-          // intranet). Show the intranet warning. The poll keeps running in
-          // case access becomes possible later.
-          showNotice("warning", renderWarning);
-        }
-        loading = false;
-      }
+      // Trigger the request to make the browser show the prompt (when
+      // applicable). Its outcome is intentionally ignored: the notice stays
+      // put and the permission poll decides when to load.
+      attemptLoad().catch(function () {});
+      loading = false;
     }
 
     if (document.readyState === "loading") {
