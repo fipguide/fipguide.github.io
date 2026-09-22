@@ -276,17 +276,14 @@ taxation:
   first-class: 1re classe
   highlight-important: Avertissement
   increase: Augmenter
-  intranet-only-warning: >-
+  intranet-only-warning: |-
     Le calculateur d’imposition n’est accessible que depuis l’intranet de la
-    Deutsche Bahn. Veuillez vous assurer que vous êtes connecté à l’intranet
-    pour y accéder.
+    Deutsche Bahn.
+
+    Votre navigateur vous demande donc si d’autres appareils du réseau local
+    peuvent être utilisés – veuillez choisir « Autoriser » afin que le
+    calculateur d’imposition puisse se charger.
   loading: Chargement …
-  local-network-permission-info: >-
-    Le calculateur d’imposition charge ses données depuis l’intranet de la
-    Deutsche Bahn. Votre navigateur vous demande donc si ce site peut accéder à
-    d’autres appareils de votre réseau local. Veuillez choisir « Autoriser »
-    afin que le calculateur puisse se charger. Sans cette autorisation, les
-    données ne peuvent pas être récupérées.
   lock: Définir l’attribution
   no-first-class: 2nde classe uniquement
   optimization-month: Mois

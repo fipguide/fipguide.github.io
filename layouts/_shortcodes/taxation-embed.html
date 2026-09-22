@@ -1,7 +1,6 @@
 {{- $lang := .Page.Language.Lang -}}
 {{- $base := .Site.Params.taxationRemoteBaseURL | default "" -}}
 {{- $warning := T "taxation.intranet-only-warning" -}}
-{{- $permissionInfo := T "taxation.local-network-permission-info" -}}
 {{- $i18nTaxation := dict
   "first-class" (T "taxation.first-class")
   "second-class" (T "taxation.second-class")
@@ -67,7 +66,7 @@
   <template data-taxation-remote-warning-template>
     {{ partial "highlight" (dict
       "Type" "important"
-      "Content" (printf "<p>%s</p><p>%s</p>" $warning $permissionInfo | safeHTML)
+      "Content" ($warning | $.Page.RenderString)
       )
     }}
   </template>
