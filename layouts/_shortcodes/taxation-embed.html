@@ -366,18 +366,22 @@
       } catch (_error) {
         var after = await queryLocalNetworkPermission();
         var afterState = after ? after.state : null;
-        if (
-          !afterState ||
-          (afterState !== "granted" && afterState === initialState)
-        ) {
-          // The state never moved: no prompt appeared, so the remote is simply
-          // unreachable (not on the intranet). Show the intranet warning. The
-          // poll keeps running in case access becomes possible later.
-          showNotice("warning", renderWarning);
-        } else {
-          // A prompt occurred (state changed or was denied). Keep the
-          // permission notice visible; the poll will reload once granted.
+        if (afterState === "denied") {
+          // Access is blocked (whether it was pre-set before load or just
+          // declined): the permission is the blocker -> tell the user to allow
+          // it in the browser. The poll keeps running so switching to "allow"
+          // later reloads automatically.
           showNotice("permission", renderPermissionNotice);
+        } else if (afterState && afterState !== initialState) {
+          // The state moved (a prompt actually happened): keep the permission
+          // notice visible; the poll will reload once granted.
+          showNotice("permission", renderPermissionNotice);
+        } else {
+          // State never moved away from "prompt" (or no Permissions API): no
+          // prompt appeared, so the remote is simply unreachable (not on the
+          // intranet). Show the intranet warning. The poll keeps running in
+          // case access becomes possible later.
+          showNotice("warning", renderWarning);
         }
         loading = false;
       }
