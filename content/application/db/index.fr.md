@@ -10,14 +10,14 @@ La Carte FIP est valable pour une période fixe de trois ans. La période actuel
 
 Les Coupons FIP pour les employés en Allemagne sont considérés comme une _réduction non monétaire_ assujettie à l’article 8, alinéa 2 de la Loi de l’impôt sur le revenu allemand (EStG). Les Coupons FIP sont donc assujettis à l’impôt sur le revenu et aux cotisations de sécurité sociale.
 
-La valeur évaluée varie selon la longueur du réseau qui peut être couverte avec le coupon respectif et est mise à jour annuellement. Une liste des montants actuels est disponible dans le [calculateur d’imposition](/taxation/), sur le marché des voyages DB ou le portail des employés DB.
+La valeur évaluée varie selon la longueur du réseau qui peut être couverte avec le coupon respectif et est mise à jour annuellement. Une liste des montants actuels est disponible dans le [calculateur d’imposition](/general/taxation/), sur le marché des voyages DB ou le portail des employés DB.
 
 Chaque mois, tous les avantages imposables sont additionnés (y compris les autres avantages non monétaires tels que les réductions FIP de voyage nationales). Si la somme dépasse le seuil mensuel (50 € en 2026), le montant entier (pas seulement ce qui dépasse le seuil, mais tout) est ajouté au revenu imposable (généralement le salaire brut). En conséquence, les impôts et les cotisations sociales sont plus élevés ce mois-là.
 
 Cette règle constitue une franchise (Freigrenze). Cela signifie que même un dépassement minime entraîne l’imposition intégrale.
 
 {{% highlight tip %}}
-Avec le [Calculateur d’imposition DB](/taxation/), vous pouvez calculer la valeur de l’avantage en nature de vos facilités de transport et optimiser votre charge fiscale sur l’année.
+Avec le [Calculateur d’imposition DB](/general/taxation/), vous pouvez calculer la valeur de l’avantage en nature de vos facilités de transport et optimiser votre charge fiscale sur l’année.
 {{% /highlight %}}
 
 Les Coupons FIP et les réductions FIP de voyage nationales des ayants droit sont comptabilisés auprès de l’employé.
@@ -32,7 +32,7 @@ Pour les employés de DB Fernverkehr AG, DB InfraGO AG, DB Bahnbau Gruppe GmbH e
 
 Ces employés bénéficient d’un abattement annuel supplémentaire (1 080 € en 2026), jusqu’à concurrence duquel aucune valeur d’avantage en nature n’est due pour les TagesTickets M Fern. Contrairement à la franchise mensuelle, il s’agit d’un abattement (Freibetrag). Cela signifie qu’en cas de dépassement, seule la part excédentaire est imposable, et non le montant total. En cas de dépassement de cet abattement, seule la part excédentaire est imposée individuellement au cours de ce mois (c’est-à-dire directement, sans application de la franchise mensuelle de 50 € pour les avantages en nature). À partir du mois suivant, la franchise mensuelle de 50 € s’applique aux valeurs d’avantage en nature suivantes, laquelle inclut également les facilités de transport internationales.
 
-Les Coupons FIP n’entrent pas dans cet abattement sur les réductions et restent imposés selon les règles générales applicables aux avantages en nature.
+La carte réseau personnelle est également incluse dans cet abattement sur les réductions. Les titres de transport gratuits FIP ne sont toutefois pas concernés par cet abattement et continuent d’être imposés selon les règles générales applicables aux avantages en nature.
 
 De plus amples informations sont disponibles sur MeineDB.
 

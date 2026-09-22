@@ -168,7 +168,7 @@ highlight:
   confusion: Verwechslungsgefahr
   important: Wichtige Information
   inofficial: Inoffizielle Information
-  success: Erfolgreich
+  success: Erfolg
   tip: Persönlicher Tipp
 home-page-text: FIP Guide Startseite
 identify-operator:
@@ -274,6 +274,7 @@ taxation:
   distribution: Aufteilung
   field-count-heading: Felder pro Person
   first-class: 1. Klasse
+  highlight-important: Warnung
   increase: Erhöhen
   intranet-only-warning: >-
     Der Steuerrechner ist nur aus dem Intranet der Deutschen Bahn erreichbar.

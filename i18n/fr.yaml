@@ -172,7 +172,7 @@ highlight:
   confusion: Risque de confusion
   important: Informations importantes
   inofficial: Informations non officielles
-  success: Réussi
+  success: Succès
   tip: Conseil personnel
 home-page-text: Page d'accueil du FIP Guide
 identify-operator:
@@ -274,6 +274,7 @@ taxation:
   distribution: Répartition
   field-count-heading: Champs par personne
   first-class: 1re classe
+  highlight-important: Avertissement
   increase: Augmenter
   intranet-only-warning: >-
     Le calculateur d’imposition n’est accessible que depuis l’intranet de la

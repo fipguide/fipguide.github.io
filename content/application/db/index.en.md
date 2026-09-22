@@ -10,14 +10,14 @@ The FIP Card is valid for a fixed period of three years. The current period is 2
 
 FIP Coupons for employees in Germany are considered _non-monetary compensation_ subject to § 8 (2) of the German Income Tax Act (EStG). FIP Coupons are therefore subject to income tax and social security contributions.
 
-The assessed value differs depending on the network length that can be covered with the respective coupon and is updated annually. A list of the current amounts is available in the [Tax Calculator](/taxation/), the DB Reisemarkt, or the DB employee portal.
+The assessed value differs depending on the network length that can be covered with the respective coupon and is updated annually. A list of the current amounts is available in the [Tax Calculator](/general/taxation/), the DB Reisemarkt, or the DB employee portal.
 
 Each month, all taxable benefits are added together (including other non-monetary benefits such as national FIP discounts). If the sum exceeds the monthly threshold (€50 in 2026), the entire amount (not just what exceeds the threshold, but everything) is added to taxable income (usually gross salary). Accordingly, taxes and social contributions are higher that month.
 
 This rule constitutes an exemption limit (Freigrenze). This means that even a marginal excess results in full taxation.
 
 {{% highlight tip %}}
-With the [DB Tax Calculator](/taxation/), you can calculate the taxable value of your travel benefits and optimize your tax impact across the year.
+With the [DB Tax Calculator](/general/taxation/), you can calculate the taxable value of your travel benefits and optimize your tax impact across the year.
 {{% /highlight %}}
 
 FIP Coupons and national travel discounts of dependents are counted toward the employee.
@@ -32,7 +32,7 @@ For employees of DB Fernverkehr AG, DB InfraGO AG, DB Bahnbau Gruppe GmbH and DB
 
 These employees receive an additional annual allowance (€1,080 in 2026), up to which no non-cash benefit value accrues for TagesTickets M Fern. Unlike the monthly exemption limit, this is an allowance (Freibetrag). This means that when it is exceeded, only the exceeding portion is taxable, not the entire amount. When this allowance is exceeded, only the exceeding portion is taxed individually in that month (i.e. directly, without applying the monthly €50 non-cash benefit exemption limit). From the following month, the monthly exemption limit of €50 applies to subsequent non-cash benefit values, which also includes international travel benefits.
 
-FIP Coupons are not covered by this discount allowance and continue to be taxed according to the general rules for non-cash benefits.
+The personal NetzCard also falls under this discount allowance. However, FIP Coupons do not fall under this discount allowance and continue to be taxed according to the general rules for non-cash benefits.
 
 Further information can be found in MeineDB.
 

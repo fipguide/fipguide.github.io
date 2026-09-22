@@ -10,14 +10,14 @@ Der FIP Ausweis ist für eine feste Periode von drei Jahren gültig. Die aktuell
 
 FIP Freifahrtscheine von Mitarbeitenden in Deutschland gelten als _Geldwerter Vorteil_ und unterliegen § 8 Abs. 2 des Einkommensteuergesetzes (EStG). Die FIP Freifahrtscheine sind somit steuer- und sozialversicherungspflichtig.
 
-Der angerechnete Wert unterscheidet sich je nach Streckennetzlänge die mit dem jeweiligen Freifahrtschein gefahren werden kann und wird jährlich aktualisiert. Eine Liste der genauen aktuellen Beträge ist im [Steuerrechner](/taxation/), im DB Reisemarkt oder DB Personalportal verfügbar.
+Der angerechnete Wert unterscheidet sich je nach Streckennetzlänge die mit dem jeweiligen Freifahrtschein gefahren werden kann und wird jährlich aktualisiert. Eine Liste der genauen aktuellen Beträge ist im [Steuerrechner](/general/taxation/), im DB Reisemarkt oder DB Personalportal verfügbar.
 
 Monatlich werden alle Sachbezugswerte zusammengerechnet (auch andere geldwerte Vorteile wie nationale Freifahrten). Wenn die Summe den monatlichen Grenzwert übersteigt (50 € in 2026) wird der gesamte Betrag (nicht nur, was über dem Grenzwert liegt, sondern alles) auf das zu versteuernde Einkommen (üblicherweise das Bruttogehalt) aufgeschlagen. Dementsprechend höher fallen in diesem Monat dann Steuer- und Sozialabgaben aus.
 
 Diese Regelung stellt eine Freigrenze dar. Das bedeutet, dass bereits bei geringfügigem Überschreiten die vollständige Besteuerung erfolgt.
 
 {{% highlight tip %}}
-Mit dem [DB Steuerrechner](/taxation/) kannst du den Sachbezugswert deiner Fahrvergünstigungen berechnen und deine Steuerlast über das Jahr optimieren.
+Mit dem [DB Steuerrechner](/general/taxation/) kannst du den Sachbezugswert deiner Fahrvergünstigungen berechnen und deine Steuerlast über das Jahr optimieren.
 {{% /highlight %}}
 
 FIP Freifahrtscheine und nationale Fahrvergünstigungen von Angehörigen werden dem Mitarbeitenden angerechnet.
@@ -32,7 +32,7 @@ Für Mitarbeitende der DB Fernverkehr AG, der DB InfraGO AG, der DB Bahnbau Grup
 
 Diese Mitarbeitenden erhalten einen zusätzlichen jährlichen Freibetrag (1.080 € in 2026), bis zu dem kein Sachbezugswert für Tagestickets M Fern anfällt. Im Unterschied zur monatlichen Freigrenze handelt es sich um einen Freibetrag. Das bedeutet, dass bei Überschreiten nicht der Gesamtbetrag, sondern nur der übersteigende Anteil steuerpflichtig ist. Bei Überschreitung dieses Freibetrags, wird nur der übersteigende Anteil in diesem Monat individual versteuert (also direkt ohne Berücksichtigung der monatlichen 50 € Geldwerten Vorteil Freigrenze). Ab dem Folgemonat gilt für folgende Sachbezugswerte die monatliche Freigrenze von 50 €, in die auch internationale Fahrvergünstigungen eingerechnet werden.
 
-FIP Freifahrtscheine fallen nicht in diesen Rabattfreibetrag und werden weiterhin nach den allgemeinen Regeln für geldwerte Vorteile besteuert.
+Auch die persönliche Netzcard fällt in diesen Rabattfreibetrag. FIP Freifahrtscheine fallen jedoch nicht in diesen Rabattfreibetrag und werden weiterhin nach den allgemeinen Regeln für geldwerte Vorteile besteuert.
 
 Weiterführende Informationen sind in MeineDB zu finden.
 

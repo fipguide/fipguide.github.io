@@ -31,6 +31,7 @@
   "optimization-month" (T "taxation.optimization-month")
   "unassigned" (T "taxation.unassigned")
   "distribution" (T "taxation.distribution")
+  "highlight-important" (T "taxation.highlight-important")
   "person" (T "taxation.person")
   "person-one" (T "taxation.person-one")
   "person-other" (T "taxation.person-other")
@@ -120,15 +121,15 @@
       }
     }
 
-    function loadModule(src, id) {
+    function loadModule(src) {
       return new Promise(function (resolve, reject) {
-        var existing = document.getElementById(id);
+        var existing = document.getElementById("taxation-remote-module");
         if (existing) {
           resolve();
           return;
         }
         var script = document.createElement("script");
-        script.id = id;
+        script.id = "taxation-remote-module";
         script.type = "module";
         script.src = src;
         script.crossOrigin = "anonymous";
@@ -208,8 +209,7 @@
 
       await loadCss(baseUrl);
       await loadModule(
-        baseUrl + "js/calculatorEmbed.js",
-        "taxation-remote-module",
+        baseUrl + "js/calculatorEmbed.js"
       );
 
       renderShell();

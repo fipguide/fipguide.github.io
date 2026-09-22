@@ -4,7 +4,7 @@ title: "Jetzt für DB Mitarbeitende: FIP Steuerrechner"
 description: Der neue Steuerrechner für DB Mitarbeitende in Deutschland ist jetzt im FIP Guide verfügbar.
 ---
 
-Der neue DB FIP Steuerrechner 2026 ist jetzt im FIP Guide verfügbar. Du findest ihn auf der Seite [DB Steuerrechner 2026](/taxation/).
+Der neue DB FIP Steuerrechner 2026 ist jetzt im FIP Guide verfügbar. Du findest ihn auf der Seite [DB Steuerrechner 2026](/general/taxation/).
 
 Mit dem Rechner kannst du internationale FIP Freifahrtscheine, nationale Vergünstigungen und sonstige steuerpflichtige Sachbezugswerte erfassen. Zusätzlich hilft dir der Bereich Planung und Optimierung dabei, geldwerte Vorteile automatisch auf mehrere Monate zu verteilen, um deine persönliche Steuerlast zu optimieren.
 
