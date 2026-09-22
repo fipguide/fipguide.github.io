@@ -185,6 +185,7 @@
     }
 
     async function attemptLoad() {
+      if (mounted) return true;
       var baseUrl = normalizeBaseUrl(
         root.getAttribute("data-taxation-remote-base-url"),
       );
@@ -226,10 +227,12 @@
         issuer: issuer,
         i18n: i18n,
       });
+      mounted = true;
       return true;
     }
 
     var loading = false;
+    var mounted = false;
 
     // Query the Local Network Access permission state.
     // Returns "granted" | "prompt" | "denied", or null if the Permissions
@@ -315,34 +318,87 @@
         return;
       }
 
-      // Not granted yet: show the permission notice and keep it visible. The
-      // fetch inside attemptLoad triggers the browser's Local Network Access
-      // prompt; we do not act on its result here. Instead we wait for the
-      // permission to actually change to "granted".
-      showNotice("permission", renderPermissionNotice);
+      // Not granted yet. The permission state "prompt" is ambiguous: it can
+      // mean the browser is about to show the Local Network Access prompt (we
+      // are on the intranet and the request reaches the server), or that no
+      // prompt will ever appear because the server is unreachable (we are not
+      // on the intranet). We therefore do NOT assume a prompt is coming. We
+      // remember the initial state, show the loading indicator, and let the
+      // actual signals decide:
+      //   - permission becomes "granted"  -> load
+      //   - permission becomes "denied"   -> permission notice (user declined)
+      //   - permission moves away from its initial value -> a prompt really
+      //     happened -> permission notice
+      //   - the request fails while the state is unchanged -> no prompt
+      //     appeared -> intranet warning
+      var initialState = status.state;
+      var settled = false;
 
-      // React to permission changes without any timeout. onchange is the
-      // primary mechanism; a slow poll is a fallback for browsers where
-      // onchange does not fire reliably for local-network-access.
+      function settle(fn) {
+        if (settled) return;
+        settled = true;
+        stopPolling();
+        fn();
+      }
+
+      showNotice("loading", renderLoading);
+
       status.onchange = function () {
         if (status.state === "granted") {
-          loadCalculator();
+          settle(function () {
+            loading = false;
+            loadCalculator();
+          });
+        } else if (status.state === "denied") {
+          settle(function () {
+            showNotice("permission", renderPermissionNotice);
+            loading = false;
+          });
         }
       };
 
       pollTimer = setInterval(async function () {
         var latest = await queryLocalNetworkPermission();
-        if (latest && latest.state === "granted") {
-          loadCalculator();
+        if (!latest) return;
+        if (latest.state === "granted") {
+          settle(function () {
+            loading = false;
+            loadCalculator();
+          });
+        } else if (latest.state === "denied") {
+          settle(function () {
+            showNotice("permission", renderPermissionNotice);
+            loading = false;
+          });
         }
       }, POLL_INTERVAL);
 
-      // Trigger the browser prompt. We intentionally ignore the outcome here:
-      // whether it succeeds or times out, the permission state (via onchange /
-      // polling) decides what happens next, so the notice never vanishes on
-      // its own.
-      attemptLoad().catch(function () {});
-      loading = false;
+      // Trigger the request. This is what makes the browser show the prompt
+      // (when applicable). Its outcome tells us whether a prompt appeared.
+      try {
+        await attemptLoad();
+        settle(function () {
+          loading = false;
+        });
+      } catch (_error) {
+        var after = await queryLocalNetworkPermission();
+        var afterState = after ? after.state : null;
+        settle(function () {
+          if (
+            afterState === "denied" ||
+            (afterState && afterState !== "granted" && afterState !== initialState)
+          ) {
+            // A prompt actually occurred (state changed or was denied): the
+            // permission is the blocker.
+            showNotice("permission", renderPermissionNotice);
+          } else {
+            // State unchanged and the request failed: no prompt appeared, so
+            // this is a network/intranet problem, not a permission one.
+            showNotice("warning", renderWarning);
+          }
+          loading = false;
+        });
+      }
     }
 
     if (document.readyState === "loading") {
