@@ -67,7 +67,14 @@
   <template data-taxation-remote-warning-template>
     {{ partial "highlight" (dict
       "Type" "important"
-      "Content" (printf "<p>%s</p><p>%s</p>" $warning $permissionInfo | safeHTML)
+      "Content" $warning
+      )
+    }}
+  </template>
+  <template data-taxation-remote-permission-template>
+    {{ partial "highlight" (dict
+      "Type" "important"
+      "Content" $permissionInfo
       )
     }}
   </template>
@@ -81,6 +88,10 @@
       "[data-taxation-remote-warning-template]",
     );
     var warningHtml = warningTemplate ? warningTemplate.innerHTML : "";
+    var permissionTemplate = root.querySelector(
+      "[data-taxation-remote-permission-template]",
+    );
+    var permissionHtml = permissionTemplate ? permissionTemplate.innerHTML : "";
     var loadingHtml = '<div class="o-taxation-embed__loading m-text-highlight m-text-highlight--tip"><div class="o-taxation-embed__loading-content">{{ partial "icon" "pending" }}<span>{{ T "taxation.loading" }}</span></div></div>';
 
     function normalizeBaseUrl(rawUrl) {
@@ -99,6 +110,15 @@
     function renderLoading() {
       root.innerHTML = "";
       root.insertAdjacentHTML("beforeend", loadingHtml);
+    }
+
+    function renderPermissionNotice() {
+      root.innerHTML = "";
+      if (permissionHtml) {
+        root.insertAdjacentHTML("beforeend", permissionHtml);
+      } else if (warningHtml) {
+        root.insertAdjacentHTML("beforeend", warningHtml);
+      }
     }
 
     function loadModule(src) {
@@ -211,13 +231,32 @@
 
     var loading = false;
 
+    // Query the Local Network Access permission state.
+    // Returns "granted" | "prompt" | "denied", or null if the Permissions
+    // API (or this specific permission) is not available in the browser.
+    async function queryLocalNetworkPermission() {
+      var permissions =
+        typeof navigator !== "undefined" && navigator.permissions;
+      if (!permissions || typeof permissions.query !== "function") {
+        return null;
+      }
+      try {
+        var status = await permissions.query({
+          name: "local-network-access",
+        });
+        return status;
+      } catch (_error) {
+        return null;
+      }
+    }
+
     async function initOnce() {
       if (loading) return;
       loading = true;
 
-      // A single shared delay for every status message (loading and notice),
-      // so nothing flashes for quick loads. Each new message replaces any
-      // pending one.
+      // A single shared delay for every status message (loading and notices),
+      // so nothing flashes for quick loads and the view does not switch too
+      // rapidly. Each new message replaces any pending one.
       var MESSAGE_DELAY = 600;
       var messageTimer = null;
 
@@ -238,7 +277,19 @@
         }
       }
 
-      showDelayed(renderLoading);
+      // Query the permission state before loading. If the Permissions API is
+      // available and access is not yet granted, the upcoming request will
+      // trigger the browser's Local Network Access prompt.
+      var statusBefore = await queryLocalNetworkPermission();
+      var stateBefore = statusBefore ? statusBefore.state : null;
+
+      // Show either the loading indicator or, when access is not yet granted,
+      // the permission notice alongside the prompt the request will trigger.
+      if (statusBefore && stateBefore !== "granted") {
+        showDelayed(renderPermissionNotice);
+      } else {
+        showDelayed(renderLoading);
+      }
 
       try {
         // The request triggers the browser's Local Network Access prompt
@@ -247,10 +298,34 @@
         await attemptLoad();
         cancelDelayedMessage();
       } catch (_error) {
-        // Loading failed — either the intranet is unreachable or the browser
-        // prompt was not confirmed. Show the combined notice covering both
-        // reasons (intranet-only access and confirming the browser prompt).
-        showDelayed(renderWarning);
+        // Loading failed. Re-check the Permissions API to decide which
+        // notice to show.
+        var statusAfter = await queryLocalNetworkPermission();
+        var stateAfter = statusAfter ? statusAfter.state : null;
+
+        // Show the permission notice only when the Permissions API tells us
+        // the permission is the actual blocker: either it is explicitly
+        // denied, or the load attempt changed the state away from its initial
+        // value (i.e. the LNA prompt was actually triggered). If the state is
+        // unchanged (e.g. still "prompt" because the remote was never
+        // reachable — such as running locally without intranet), it is a
+        // network/intranet problem and we show the intranet notice instead.
+        var permissionIsBlocker =
+          statusAfter &&
+          (stateAfter === "denied" ||
+            (stateAfter !== "granted" && stateAfter !== stateBefore));
+
+        if (permissionIsBlocker) {
+          showDelayed(renderPermissionNotice);
+          statusAfter.onchange = function () {
+            if (statusAfter.state === "granted") {
+              loading = false;
+              initOnce();
+            }
+          };
+        } else {
+          showDelayed(renderWarning);
+        }
       } finally {
         loading = false;
       }
