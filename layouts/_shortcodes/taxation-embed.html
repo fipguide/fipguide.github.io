@@ -254,81 +254,95 @@
       if (loading) return;
       loading = true;
 
-      // A single shared delay for every status message (loading and notices),
-      // so nothing flashes for quick loads and the view does not switch too
-      // rapidly. Each new message replaces any pending one.
-      var MESSAGE_DELAY = 600;
-      var messageTimer = null;
+      // Track which notice is currently shown so we never re-render (and thus
+      // never "reset" or hide) a message that is already visible. Re-rendering
+      // the same notice would disrupt assistive technology.
+      var currentNotice = null; // "loading" | "permission" | "warning" | null
 
-      function showDelayed(renderFn) {
-        if (messageTimer !== null) {
-          clearTimeout(messageTimer);
+      function showNotice(kind, renderFn) {
+        if (currentNotice === kind) return;
+        currentNotice = kind;
+        renderFn();
+      }
+
+      // Poll the Local Network Access permission until it becomes "granted",
+      // then load. This replaces any timeout-based hiding of the permission
+      // notice: the message stays visible for as long as the permission is not
+      // granted, which is accessible (no content disappears on its own).
+      var POLL_INTERVAL = 1000;
+      var pollTimer = null;
+
+      function stopPolling() {
+        if (pollTimer !== null) {
+          clearInterval(pollTimer);
+          pollTimer = null;
         }
-        messageTimer = setTimeout(function () {
-          messageTimer = null;
-          renderFn();
-        }, MESSAGE_DELAY);
       }
 
-      function cancelDelayedMessage() {
-        if (messageTimer !== null) {
-          clearTimeout(messageTimer);
-          messageTimer = null;
+      async function loadCalculator() {
+        stopPolling();
+        showNotice("loading", renderLoading);
+        try {
+          await attemptLoad();
+        } catch (_error) {
+          // Access was granted (or the API is unavailable) but the remote is
+          // still unreachable -- a genuine network/intranet problem.
+          showNotice("warning", renderWarning);
+        } finally {
+          loading = false;
         }
       }
 
-      // Query the permission state before loading. If the Permissions API is
-      // available and access is not yet granted, the upcoming request will
-      // trigger the browser's Local Network Access prompt.
-      var statusBefore = await queryLocalNetworkPermission();
-      var stateBefore = statusBefore ? statusBefore.state : null;
+      var status = await queryLocalNetworkPermission();
 
-      // Show either the loading indicator or, when access is not yet granted,
-      // the permission notice alongside the prompt the request will trigger.
-      if (statusBefore && stateBefore !== "granted") {
-        showDelayed(renderPermissionNotice);
-      } else {
-        showDelayed(renderLoading);
-      }
-
-      try {
-        // The request triggers the browser's Local Network Access prompt
-        // (if applicable). On success the calculator shell is rendered
-        // immediately, cancelling any pending status message.
-        await attemptLoad();
-        cancelDelayedMessage();
-      } catch (_error) {
-        // Loading failed. Re-check the Permissions API to decide which
-        // notice to show.
-        var statusAfter = await queryLocalNetworkPermission();
-        var stateAfter = statusAfter ? statusAfter.state : null;
-
-        // Show the permission notice only when the Permissions API tells us
-        // the permission is the actual blocker: either it is explicitly
-        // denied, or the load attempt changed the state away from its initial
-        // value (i.e. the LNA prompt was actually triggered). If the state is
-        // unchanged (e.g. still "prompt" because the remote was never
-        // reachable — such as running locally without intranet), it is a
-        // network/intranet problem and we show the intranet notice instead.
-        var permissionIsBlocker =
-          statusAfter &&
-          (stateAfter === "denied" ||
-            (stateAfter !== "granted" && stateAfter !== stateBefore));
-
-        if (permissionIsBlocker) {
-          showDelayed(renderPermissionNotice);
-          statusAfter.onchange = function () {
-            if (statusAfter.state === "granted") {
-              loading = false;
-              initOnce();
-            }
-          };
-        } else {
-          showDelayed(renderWarning);
+      // No Permissions API (or permission not supported): fall back to a plain
+      // load attempt. The request still triggers the browser prompt; on
+      // failure we show the intranet warning.
+      if (!status) {
+        showNotice("loading", renderLoading);
+        try {
+          await attemptLoad();
+        } catch (_error) {
+          showNotice("warning", renderWarning);
+        } finally {
+          loading = false;
         }
-      } finally {
-        loading = false;
+        return;
       }
+
+      if (status.state === "granted") {
+        await loadCalculator();
+        return;
+      }
+
+      // Not granted yet: show the permission notice and keep it visible. The
+      // fetch inside attemptLoad triggers the browser's Local Network Access
+      // prompt; we do not act on its result here. Instead we wait for the
+      // permission to actually change to "granted".
+      showNotice("permission", renderPermissionNotice);
+
+      // React to permission changes without any timeout. onchange is the
+      // primary mechanism; a slow poll is a fallback for browsers where
+      // onchange does not fire reliably for local-network-access.
+      status.onchange = function () {
+        if (status.state === "granted") {
+          loadCalculator();
+        }
+      };
+
+      pollTimer = setInterval(async function () {
+        var latest = await queryLocalNetworkPermission();
+        if (latest && latest.state === "granted") {
+          loadCalculator();
+        }
+      }, POLL_INTERVAL);
+
+      // Trigger the browser prompt. We intentionally ignore the outcome here:
+      // whether it succeeds or times out, the permission state (via onchange /
+      // polling) decides what happens next, so the notice never vanishes on
+      // its own.
+      attemptLoad().catch(function () {});
+      loading = false;
     }
 
     if (document.readyState === "loading") {
