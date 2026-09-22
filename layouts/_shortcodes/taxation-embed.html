@@ -318,86 +318,68 @@
         return;
       }
 
-      // Not granted yet. The permission state "prompt" is ambiguous: it can
-      // mean the browser is about to show the Local Network Access prompt (we
-      // are on the intranet and the request reaches the server), or that no
-      // prompt will ever appear because the server is unreachable (we are not
-      // on the intranet). We therefore do NOT assume a prompt is coming. We
-      // remember the initial state, show the loading indicator, and let the
-      // actual signals decide:
-      //   - permission becomes "granted"  -> load
-      //   - permission becomes "denied"   -> permission notice (user declined)
-      //   - permission moves away from its initial value -> a prompt really
-      //     happened -> permission notice
-      //   - the request fails while the state is unchanged -> no prompt
-      //     appeared -> intranet warning
+      // Not granted yet. Show the permission notice right away so the user
+      // sees the explanation next to the browser's Local Network Access
+      // prompt. We keep polling the permission for as long as the calculator
+      // is not mounted, so switching from "block" to "allow" later reloads
+      // automatically (no timeout ever hides or freezes the flow).
+      //
+      // The permission state "prompt" is ambiguous: on the intranet it means a
+      // prompt is (about to be) shown; off the intranet no prompt appears
+      // because the server is unreachable. We disambiguate via the request
+      // outcome: if the request fails while the state never moved away from its
+      // initial value, no prompt happened -> show the intranet warning instead.
       var initialState = status.state;
-      var settled = false;
 
-      function settle(fn) {
-        if (settled) return;
-        settled = true;
-        stopPolling();
-        fn();
+      function loadWhenGranted(state) {
+        if (state === "granted" && !mounted) {
+          stopPolling();
+          loading = false;
+          loadCalculator();
+        }
       }
 
-      showNotice("loading", renderLoading);
+      showNotice("permission", renderPermissionNotice);
 
       status.onchange = function () {
-        if (status.state === "granted") {
-          settle(function () {
-            loading = false;
-            loadCalculator();
-          });
-        } else if (status.state === "denied") {
-          settle(function () {
-            showNotice("permission", renderPermissionNotice);
-            loading = false;
-          });
-        }
+        loadWhenGranted(status.state);
       };
 
       pollTimer = setInterval(async function () {
+        if (mounted) {
+          stopPolling();
+          return;
+        }
         var latest = await queryLocalNetworkPermission();
-        if (!latest) return;
-        if (latest.state === "granted") {
-          settle(function () {
-            loading = false;
-            loadCalculator();
-          });
-        } else if (latest.state === "denied") {
-          settle(function () {
-            showNotice("permission", renderPermissionNotice);
-            loading = false;
-          });
+        if (latest) {
+          loadWhenGranted(latest.state);
         }
       }, POLL_INTERVAL);
 
       // Trigger the request. This is what makes the browser show the prompt
-      // (when applicable). Its outcome tells us whether a prompt appeared.
+      // (when applicable). On success the calculator mounts. On failure we
+      // check whether a prompt actually occurred.
       try {
         await attemptLoad();
-        settle(function () {
-          loading = false;
-        });
+        stopPolling();
+        loading = false;
       } catch (_error) {
         var after = await queryLocalNetworkPermission();
         var afterState = after ? after.state : null;
-        settle(function () {
-          if (
-            afterState === "denied" ||
-            (afterState && afterState !== "granted" && afterState !== initialState)
-          ) {
-            // A prompt actually occurred (state changed or was denied): the
-            // permission is the blocker.
-            showNotice("permission", renderPermissionNotice);
-          } else {
-            // State unchanged and the request failed: no prompt appeared, so
-            // this is a network/intranet problem, not a permission one.
-            showNotice("warning", renderWarning);
-          }
-          loading = false;
-        });
+        if (
+          !afterState ||
+          (afterState !== "granted" && afterState === initialState)
+        ) {
+          // The state never moved: no prompt appeared, so the remote is simply
+          // unreachable (not on the intranet). Show the intranet warning. The
+          // poll keeps running in case access becomes possible later.
+          showNotice("warning", renderWarning);
+        } else {
+          // A prompt occurred (state changed or was denied). Keep the
+          // permission notice visible; the poll will reload once granted.
+          showNotice("permission", renderPermissionNotice);
+        }
+        loading = false;
       }
     }
 
