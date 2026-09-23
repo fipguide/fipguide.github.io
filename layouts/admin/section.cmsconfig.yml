@@ -17,6 +17,16 @@ logo:
   show_in_header: true
 media_folder: assets/images
 public_folder: /images
+media_libraries:
+  all:
+    slugify_filename: true
+    max_file_size: 5 MB
+    transformations:
+      raster_image:
+        format: webp
+        quality: 85
+      svg:
+        optimize: true
 issue_reports:
   url: https://github.com/fipguide/fipguide.github.io/issues/new
 display_url: https://fipguide.org/
@@ -454,19 +464,50 @@ collections:
                 i18n: duplicate
           - label: "FIP 50"
             name: fip_50
-            widget: boolean
-            default: false
+            widget: select
+            options:
+              - label: "Yes"
+                value: true
+              - label: "No"
+                value: false
+              - label: "Not relevant"
+                value: null
+            required: false
+            i18n: duplicate
+          - label: "FIP Coupon"
+            name: fip_coupon
+            widget: select
+            options:
+              - label: "Yes"
+                value: true
+              - label: "No"
+                value: false
+              - label: "Not relevant"
+                value: null
+            required: false
             i18n: duplicate
           - label: "FIP Global Fare"
             name: fip_global_fare
-            widget: boolean
-            default: false
+            widget: select
+            options:
+              - label: "Yes"
+                value: true
+              - label: "No"
+                value: false
+              - label: "Not relevant"
+                value: null
             required: false
             i18n: duplicate
           - label: "FIP 75"
             name: fip_75
-            widget: boolean
-            default: false
+            widget: select
+            options:
+              - label: "Yes"
+                value: true
+              - label: "No"
+                value: false
+              - label: "Not relevant"
+                value: null
             required: false
             i18n: duplicate
           - label: "Reservations"
