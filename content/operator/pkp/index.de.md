@@ -3,14 +3,13 @@ title: PKP
 country:
   - poland
 operator: pkp
+content_images:
+  - image.webp
 aliases:
   - /booking/pkp-ticket-machine
   - /booking/pkp-ticket-office
   - /booking/pkp-website
   - /booking/koleo-website
-
-content_images:
-  - image.webp
 ---
 
 Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Tochtergesellschaften PKP Intercity und Polregio einen Großteil des Schienenpersonenverkehrs in [Polen](/country/poland "Polen").

@@ -4,12 +4,11 @@ country:
   - ireland
   - united-kingdom
 operator: sll
+content_images:
+  - image.webp
 aliases:
   - /booking/stena-line-limited-email
   - /booking/stena-line-limited-phone
-
-content_images:
-  - image.webp
 ---
 
 L’entreprise Stena Line exploite divers ferries pour passagers et véhicules. Les liaisons en mer d’Irlande sont assurées par Stena Line Limited (SLL) dans le cadre de l’accord FIP.

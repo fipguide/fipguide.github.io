@@ -3,11 +3,10 @@ title: CFR Călători
 country:
   - romania
 operator: cfr
-aliases:
-  - /booking/cfr-ticket-office
-
 content_images:
   - image.webp
+aliases:
+  - /booking/cfr-ticket-office
 ---
 
 La Societatea Natională de Transport Feroviar de Călători « CFR Călători » S.A., en abrégé CFR Călători, est la compagnie ferroviaire nationale de [Roumanie](/country/romania "Roumanie") et exploite la majorité des services voyageurs sur le réseau ferroviaire roumain.

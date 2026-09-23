@@ -3,13 +3,12 @@ title: DSB
 country:
   - denmark
 operator: dsb
+content_images:
+  - image.webp
 aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
   - /booking/dsb-website
-
-content_images:
-  - image.webp
 ---
 
 La DSB (Danske Statsbaner) est la compagnie ferroviaire publique du [Danemark](/country/denmark "Danemark"). Elle exploite la majorité du trafic voyageurs sur le réseau ferroviaire danois. Sous le nom d'exploitation « DSB Vores Tog », elle exploite également des services ferroviaires dans le Jutland central et occidental et sur l'île de Fionie depuis le 1er septembre 2026. [^4]

@@ -7,6 +7,8 @@ country:
   - united-kingdom
   - france
 operator: eurostar
+content_images:
+  - image.webp
 aliases:
   - /booking/eurostar-phone
   - /booking/eurostar-ticket-office
@@ -14,9 +16,6 @@ aliases:
   - /booking/ffestiniogtravel-phone
   - /booking/internationalrail-email
   - /booking/railtourguide-website
-
-content_images:
-  - image.webp
 ---
 
 Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. À l’origine, seuls les trains bleus entre Londres et Paris/Bruxelles/Amsterdam via l’Eurotunnel étaient désignés comme Eurostar. Depuis la fusion entre Thalys et Eurostar, les anciens trains rouges Thalys sont désormais appelés Eurostar (Rouge). Eurostar circule en [Allemagne](/country/germany "Allemagne"), [France](/country/france "France"), au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), en [Belgique](/country/belgium "Belgique") et aux [Pays-Bas](/country/netherlands "Pays-Bas").

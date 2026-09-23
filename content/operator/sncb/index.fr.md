@@ -3,13 +3,12 @@ title: SNCB / NMBS
 country:
   - belgium
 operator: sncb
+content_images:
+  - image.webp
 aliases:
   - /booking/sncb-phone
   - /booking/sncb-ticket-office
   - /booking/sncb-website
-
-content_images:
-  - image.webp
 ---
 
 La SNCB (Société nationale des chemins de fer belges) ou NMBS (Nationale Maatschappij der Belgische Spoorwegen) est l’opérateur ferroviaire national belge et le plus important de [Belgique](/country/belgium "Belgique").

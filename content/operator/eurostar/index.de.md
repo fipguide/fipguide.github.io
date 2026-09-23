@@ -7,6 +7,8 @@ country:
   - united-kingdom
   - france
 operator: eurostar
+content_images:
+  - image.webp
 aliases:
   - /booking/eurostar-phone
   - /booking/eurostar-ticket-office
@@ -14,9 +16,6 @@ aliases:
   - /booking/ffestiniogtravel-phone
   - /booking/internationalrail-email
   - /booking/railtourguide-website
-
-content_images:
-  - image.webp
 ---
 
 Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprünglich wurden nur die blauen Züge zwischen London und Paris/Brüssel/Amsterdam durch den Eurotunnel als Eurostar bezeichnet. Nach dem Zusammenschluss zwischen Thalys und Eurostar werden auch die roten Thalys-Züge als Eurostar (Red) bezeichnet. Eurostar verkehrt in [Deutschland](/country/germany "Deutschland"), [Frankreich](/country/france "Frankreich"), dem [Vereinigten Königreich](/country/united-kingdom "Vereinigtes Königreich"), [Belgien](/country/belgium "Belgien") und den [Niederlanden](/country/netherlands "Niederlande").

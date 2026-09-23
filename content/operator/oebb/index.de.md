@@ -4,15 +4,14 @@ country:
   - austria
   - liechtenstein
 operator: oebb
+content_images:
+  - image.webp
 aliases:
   - obb
   - /booking/oebb-phone
   - /booking/oebb-ticket-machine
   - /booking/oebb-ticket-office
   - /booking/oebb-website
-
-content_images:
-  - image.webp
 ---
 
 Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft [Österreich](/country/austria "Österreich") und die wichtigste Bahngesellschaft des Landes. Sie betreiben einen Großteil des Personenverkehrs in Österreich.

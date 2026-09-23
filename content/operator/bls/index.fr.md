@@ -2,11 +2,10 @@
 title: BLS
 country:
   - switzerland
-aliases:
-  - /booking/bls-ticket-office
-
 content_images:
   - image.webp
+aliases:
+  - /booking/bls-ticket-office
 ---
 
 La BLS (anciennement Bern-Lötschberg-Simplon-Bahn) est une entreprise ferroviaire publique de la [Suisse](/country/switzerland "Suisse"). Elle exploite de nombreuses liaisons de trains, de bus et de bateaux et circule principalement dans le canton de Berne.
