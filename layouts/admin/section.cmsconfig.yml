@@ -468,12 +468,10 @@ collections:
                 name: first
                 widget: string
                 required: false
-                i18n: duplicate
               - label: "Second Class"
                 name: second
                 widget: string
                 required: false
-                i18n: duplicate
           - label: "FIP 50"
             name: fip_50
             widget: select
