@@ -8,6 +8,9 @@ aliases:
   - /booking/attica-agents
   - /booking/attica-email
   - /booking/attica-phone
+
+content_images:
+  - image.webp
 ---
 
 The Attica Group is a major Greek ferry operator running several brands, including Superfast Ferries, Blue Star Ferries, Hellenic Seaways and Anek Lines. The company operates domestic and international shipping services between the Greek mainland, Italy and the Greek islands.

@@ -8,6 +8,9 @@ aliases:
   - /booking/stena-line-bv-email
   - /booking/stena-line-bv-phone
   - /booking/stena-line-bv-ticket-office
+
+content_images:
+  - image.webp
 ---
 
 The company Stena Line operates various passenger and vehicle ferries. The service between Harwich ([United Kingdom](/country/united-kingdom)) and Hoek van Holland ([Netherlands](/country/netherlands)) is referred to as Stena Line BV (StL) in the context of FIP.

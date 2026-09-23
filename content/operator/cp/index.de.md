@@ -5,6 +5,9 @@ country:
 operator: cp
 aliases:
   - /booking/cp-ticket-office
+
+content_images:
+  - image.webp
 ---
 
 Die CP (Comboios de Portugal) ist die portugiesische Staatsbahn und die wichtigste Bahngesellschaft in [Portugal](/country/portugal "Portugal").

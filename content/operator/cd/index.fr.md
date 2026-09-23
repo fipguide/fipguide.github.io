@@ -6,6 +6,9 @@ operator: cd
 aliases:
   - /booking/cd-ticket-office
   - /booking/cd-website
+
+content_images:
+  - image.webp
 ---
 
 České dráhy (ČD) est la compagnie ferroviaire nationale de la [République tchèque](/country/czechia "République tchèque") et exploite une grande partie des services voyageurs sur le réseau ferroviaire tchèque.

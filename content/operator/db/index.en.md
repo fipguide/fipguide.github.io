@@ -8,6 +8,9 @@ aliases:
   - /booking/db-website
   - /booking/db-website-fip-db
   - /booking/db-website-fip-international
+
+content_images:
+  - image.webp
 ---
 
 Deutsche Bahn (DB) is the largest railway company in [Germany](/country/germany "Germany"), operating most long-distance services as well as many regional connections.

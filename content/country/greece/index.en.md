@@ -5,6 +5,9 @@ params:
   operators_without_fip:
     - STASY (Urban Rail Transport S.A.)
     - THEMA S.A. – Thessaloniki Metro
+
+content_images:
+  - image.webp
 ---
 
 ## FIP Information

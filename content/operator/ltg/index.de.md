@@ -6,6 +6,9 @@ country:
 operator: ltg
 aliases:
   - /booking/ltg-website
+
+content_images:
+  - image.webp
 ---
 
 Die LTG ist die staatliche Eisenbahngesellschaft der Republik Litauen und betreibt mit ihrer Tochtergesellschaft LTG-Link alle Verbindungen im Personenverkehr auf dem litauischen Schienennetz sowie ins Ausland.

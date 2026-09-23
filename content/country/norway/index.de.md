@@ -7,6 +7,9 @@ params:
     - Flåmbahn
     - Flytoget Airport Express
     - SJ Sverige
+
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

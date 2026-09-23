@@ -7,6 +7,9 @@ aliases:
   - /booking/kd-ticket-machine
   - /booking/kd-ticket-office
   - /booking/kd-website
+
+content_images:
+  - image.webp
 ---
 
 Koleje Dolnośląskie (KD) is a Polish railway company offering regional services in the Lower Silesia Province. It is one of five different operators in [Poland](/country/poland) which provide FIP benefits.

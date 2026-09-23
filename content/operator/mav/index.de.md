@@ -3,6 +3,9 @@ title: MÁV
 country:
   - hungary
 operator: mav
+
+content_images:
+  - image.webp
 ---
 
 Die MÁV (Magyar Államvasutak, ungarische Staatsbahnen) ist die wichtigste Bahngesellschaft in [Ungarn](/country/hungary) und betreibt den Großteil des Fern- und Regionalverkehrs.

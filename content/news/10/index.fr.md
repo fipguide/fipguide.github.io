@@ -9,6 +9,9 @@ country:
   - belgium
 operator:
   - sncb
+
+content_images:
+  - image.webp
 ---
 
 À partir du 1er juillet 2026, la compagnie ferroviaire nationale belge SNCB / NMBS mettra fin à la vente de billets à bord. Cela vise à garantir que tous les voyageurs soient en possession d’un billet valable avant de monter à bord.

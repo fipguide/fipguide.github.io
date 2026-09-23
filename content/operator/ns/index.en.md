@@ -6,6 +6,9 @@ operator: ns
 aliases:
   - /booking/ns-phone
   - /booking/ns-ticket-office
+
+content_images:
+  - image.webp
 ---
 
 Nederlandse Spoorwegen (NS) is the state railway company of the [Netherlands](/country/netherlands "Netherlands") and operates the majority of passenger traffic on the Dutch rail network.

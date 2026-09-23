@@ -7,6 +7,9 @@ country:
   - belgium
 operator:
   - sncb
+
+content_images:
+  - image.webp
 ---
 
 From 1 July 2026, the Belgian national railway SNCB / NMBS will end ticket sales on board their trains. This ensures that all passengers are in possession of a valid ticket before boarding.
