@@ -282,8 +282,8 @@ taxation:
   person: Person
   person-limit: Number of persons
   person-limit-not-supported-warning: >-
-    For this operator, coupons for relatives are not available. The calculation
-    therefore always uses one person, even if more persons were selected.
+    For one or more of the selected operators, coupons for relatives are not
+    issued. The calculation for these operators is done with only one person.
   person-one: Person
   person-other: Persons
   planning: Planning & Optimization

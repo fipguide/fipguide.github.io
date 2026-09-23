@@ -295,9 +295,9 @@ taxation:
   person: Personne
   person-limit: Nombre de personnes
   person-limit-not-supported-warning: >-
-    Pour cet opérateur, les coupons pour les ayants droit ne sont pas
-    disponibles. Le calcul est donc toujours effectué avec une seule personne,
-    même si plusieurs personnes ont été sélectionnées.
+    Un ou plusieurs des opérateurs sélectionnés ne prennent pas en charge les
+    coupons pour les ayants droit. Le calcul pour ces opérateurs est effectué
+    avec une seule personne.
   person-one: Personne
   person-other: Personnes
   planning: Planification et optimisation
