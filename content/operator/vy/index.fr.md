@@ -7,6 +7,9 @@ aliases:
   - /booking/entur-chat
   - /booking/entur-phone
   - /booking/entur-ticket-office
+
+content_images:
+  - image.webp
 ---
 
 Vy Group (anciennement Norges Statsbaner) est la compagnie ferroviaire nationale de la [Norvège](/country/norway). Avec ses filiales, elle assure la majeure partie du transport ferroviaire de voyageurs en Norvège.

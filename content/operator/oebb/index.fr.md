@@ -10,6 +10,9 @@ aliases:
   - /booking/oebb-ticket-machine
   - /booking/oebb-ticket-office
   - /booking/oebb-website
+
+content_images:
+  - image.webp
 ---
 
 Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale d’[Autriche](/country/austria "Autriche") et l’opérateur ferroviaire le plus important du pays. Elle assure la majorité des services voyageurs.

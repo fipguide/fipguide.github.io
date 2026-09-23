@@ -129,6 +129,14 @@ collections:
         widget: "string"
         required: false
         i18n: true
+      - label: "Content Images"
+        name: "content_images"
+        widget: "image"
+        multiple: true
+        required: false
+        i18n: duplicate
+        hint: "Images shown for this page. Prefer .webp images."
+        accept: "image/webp"
       - label: "Countries"
         name: "country"
         widget: "relation"
@@ -186,6 +194,14 @@ collections:
         name: "country"
         widget: "string"
         i18n: duplicate
+      - label: "Content Images"
+        name: "content_images"
+        widget: "image"
+        multiple: true
+        required: false
+        i18n: duplicate
+        hint: "Images shown for this page. Prefer .webp images."
+        accept: "image/webp"
       - label: "Body"
         name: "body"
         widget: "markdown"
@@ -232,6 +248,14 @@ collections:
         widget: "string"
         i18n: duplicate
         hint: A unique identifier of the operator (slug).
+      - label: "Content Images"
+        name: "content_images"
+        widget: "image"
+        multiple: true
+        required: false
+        i18n: duplicate
+        hint: "Images shown for this page. Prefer .webp images."
+        accept: "image/webp"
       - label: "Body"
         name: "body"
         widget: "markdown"

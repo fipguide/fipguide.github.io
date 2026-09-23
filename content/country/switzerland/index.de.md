@@ -9,6 +9,9 @@ params:
     - Gondelbahn Grindelwald – Männlichen (GGM)
     - Seilbahn Mürren – Allmendhubel (SMA)
     - Luftseilbahn Stechelberg (Mürren – Schilthorn) (LSMS)
+
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

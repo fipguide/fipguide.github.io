@@ -19,6 +19,9 @@ params:
     - Tyne and Wear Metro
     - Wightlink ferry (Portsmouth Harbour nach Ryde Pier Head station auf der
       Isle of Wight)
+
+content_images:
+  - image.webp
 ---
 
 <!-- UK ist ein bisschen anders. Hier gibt es keine Zugkategorien, sondern ganz viele Betreiber, bei den man gucken muss, ob FIP dort gilt. Daher ist es hier wahrscheinlich sinnvoll auch andere Betreiber aufzuführen ohne FIP, auch wenn es oft Straßenbahnen und U-Bahnen sind. Für den User ist es sonst schwer zu unterscheiden warum auf der Elizabeth Line FIP gilt, auf anderen U-Bahn Linien aber beispielsweise nicht. -->

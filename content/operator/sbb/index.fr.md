@@ -6,6 +6,9 @@ aliases:
   - /booking/sbb-ticket-machine
   - /booking/sbb-ticket-office
   - /booking/sbb-website
+
+content_images:
+  - image.webp
 ---
 
 Les CFF (Chemins de fer fédéraux suisses, SBB en allemand, FFS en italien) sont la compagnie ferroviaire nationale de la [Suisse](/country/switzerland "Suisse"). Ils exploitent la majeure partie du réseau ferroviaire suisse et sont réputés pour leur ponctualité et leur fiabilité.

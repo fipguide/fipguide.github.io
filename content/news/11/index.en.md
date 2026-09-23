@@ -8,6 +8,9 @@ country:
   - united-kingdom
 operator:
   - gb
+
+content_images:
+  - image.webp
 ---
 
 The Dartmouth Steam Railway and River Boat Company in Great Britain no longer grants any FIP discount. Previously, a 75% discount on the regular adult fare was granted when the FIP Card was presented on site. [^1]

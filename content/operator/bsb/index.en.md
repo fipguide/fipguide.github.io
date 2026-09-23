@@ -7,6 +7,9 @@ country:
 operator: bsb
 aliases:
   - /booking/bsb-ticket-office
+
+content_images:
+  - image.webp
 ---
 
 BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) operate the ferries on Lake Constance between [Germany](/country/germany "Germany"), [Austria](/country/austria "Austria"), and [Switzerland](/country/switzerland "Switzerland").

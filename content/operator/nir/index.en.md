@@ -6,6 +6,9 @@ operator: nir
 aliases:
   - /booking/translink-ticket-office
   - /booking/translink-whatsapp
+
+content_images:
+  - image.webp
 ---
 
 Northern Ireland Railways (NIR) is the state railway company in Northern Ireland and is part of Translink, a state transport company. The rail network is compact and mainly consists of connections to and from Belfast.

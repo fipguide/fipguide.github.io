@@ -7,6 +7,9 @@ aliases:
   - /booking/kw-ticket-machine
   - /booking/kw-ticket-office
   - /booking/kw-website
+
+content_images:
+  - image.webp
 ---
 
 Koleje Wielkopolskie, abrégées KW, est une entreprise de transport ferroviaire polonaise qui propose principalement des services régionaux dans la voïvodie de Grande-Pologne. C’est l’une des cinq entreprises différentes qui proposent le FIP en [Pologne](/country/poland).

@@ -6,6 +6,9 @@ aliases:
   - /booking/sbb-ticket-machine
   - /booking/sbb-ticket-office
   - /booking/sbb-website
+
+content_images:
+  - image.webp
 ---
 
 Die SBB (Schweizerische Bundesbahnen) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) ist die nationale Eisenbahngesellschaft der [Schweiz](/country/switzerland "Schweiz"). Sie betreibt einen Großteil des schweizerischen Schienennetzes. Die SBB ist bekannt für ihre Pünktlichkeit und Zuverlässigkeit.

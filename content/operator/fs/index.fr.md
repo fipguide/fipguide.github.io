@@ -7,6 +7,9 @@ aliases:
   - /booking/fs-ticket-machine
   - /booking/fs-ticket-office
   - /booking/fs-website
+
+content_images:
+  - image.webp
 ---
 
 Ferrovie dello Stato Italiane (FS) est la compagnie ferroviaire nationale italienne. Les rabais FIP ne s’appliquent qu’à sa filiale Trenitalia en [Italie](/country/italy "Italie").

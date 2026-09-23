@@ -8,6 +8,9 @@ country:
   - lithuania
 operator:
   - ltg
+
+content_images:
+  - image.webp
 ---
 
 As of January 1, 2024, the Lithuanian State Railways (LTG Link) is an official member of FIP. Railway employees benefit from free rides and discounted tickets on international rail routes. This cooperation strengthens cross-border mobility and makes it even more attractive for railway employees to use the railways for private travel.

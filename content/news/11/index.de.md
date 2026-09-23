@@ -8,6 +8,9 @@ country:
   - united-kingdom
 operator:
   - gb
+
+content_images:
+  - image.webp
 ---
 
 Bei der Dartmouth Steam Railway and River Boat Company in Großbritannien wird keine FIP Vergünstigung mehr gewährt. Zuvor wurde auf den regulären Fahrpreis für Erwachsene ein Rabatt von 75% eingeräumt, wenn der FIP Ausweis vor Ort vorgezeigt wurde. [^1]

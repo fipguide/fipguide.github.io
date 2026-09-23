@@ -7,6 +7,9 @@ operator: sll
 aliases:
   - /booking/stena-line-limited-email
   - /booking/stena-line-limited-phone
+
+content_images:
+  - image.webp
 ---
 
 Das Unternehmen Stena Line betreibt diverse Personen- und Fahrzeugfähren. Der Betrieb der Strecken auf der irischen See werden im Kontext von FIP als Stena Line Limited (SLL) genannt.
