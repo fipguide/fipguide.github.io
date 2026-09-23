@@ -3,13 +3,12 @@ title: Vy Group
 country:
   - norway
 operator: vy
+content_images:
+  - image.webp
 aliases:
   - /booking/entur-chat
   - /booking/entur-phone
   - /booking/entur-ticket-office
-
-content_images:
-  - image.webp
 ---
 
 Vy Group (formerly Norges Statsbaner) is the state railway company in [Norway](/country/norway). Together with its subsidiaries, it operates most of the passenger rail transport in Norway.

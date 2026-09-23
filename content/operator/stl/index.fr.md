@@ -4,13 +4,12 @@ country:
   - netherlands
   - united-kingdom
 operator: stl
+content_images:
+  - image.webp
 aliases:
   - /booking/stena-line-bv-email
   - /booking/stena-line-bv-phone
   - /booking/stena-line-bv-ticket-office
-
-content_images:
-  - image.webp
 ---
 
 L’entreprise Stena Line exploite divers ferries pour passagers et véhicules. L’exploitation de la ligne entre Harwich ([Royaume-Uni](/country/united-kingdom)) et Hoek van Holland ([Pays-Bas](/country/netherlands)) est désignée dans le contexte FIP sous le nom de Stena Line BV (StL).

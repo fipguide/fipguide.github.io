@@ -3,12 +3,11 @@ title: ŁKA
 country:
   - poland
 operator: lka
+content_images:
+  - image.webp
 aliases:
   - /booking/lka-ticket-machine
   - /booking/lka-ticket-office
-
-content_images:
-  - image.webp
 ---
 
 Łódzka Kolej Aglomeracyjna, short ŁKA, is a Polish railway operator that primarily offers regional transport in the Łódź Voivodeship. It is one of five different companies that offers FIP in [Poland](/country/poland).

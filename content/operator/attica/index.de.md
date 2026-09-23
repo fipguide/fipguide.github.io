@@ -4,13 +4,12 @@ country:
   - greece
   - italy
 operator: attica
+content_images:
+  - image.webp
 aliases:
   - /booking/attica-agents
   - /booking/attica-email
   - /booking/attica-phone
-
-content_images:
-  - image.webp
 ---
 
 Die Attica Group ist ein großer griechischer Fähranbieter und Betreiber mehrerer Marken, darunter Superfast Ferries, Blue Star Ferries, Hellenic Seaways und Anek Lines. Das Unternehmen betreibt nationale sowie internationale Schiffsverbindungen zwischen dem griechischen Festland, Italien und den griechischen Inseln.

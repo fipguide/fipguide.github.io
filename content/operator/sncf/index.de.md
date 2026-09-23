@@ -9,13 +9,12 @@ country:
   - belgium
   - luxembourg
 operator: sncf
+content_images:
+  - image.webp
 aliases:
   - /booking/sncf-phone
   - /booking/sncf-ticket-office
   - /booking/transilien-ticket-office
-
-content_images:
-  - image.webp
 ---
 
 Die SNCF (Société Nationale des Chemins de fer Français) ist die französische Staatsbahn und die wichtigste Bahngesellschaft in [Frankreich](/country/france "Frankreich"). Sie betreibt fast alle Fern- und Regionalzüge in Frankreich.

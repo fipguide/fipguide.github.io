@@ -3,13 +3,12 @@ title: National Rail
 country:
   - united-kingdom
 operator: gb
+content_images:
+  - image.webp
 aliases:
   - /booking/caledonian-sleeper-website
   - /booking/lner-website
   - /booking/national-rail-ticket-office
-
-content_images:
-  - image.webp
 ---
 
 There are many different railway companies in [Great Britain](/country/united-kingdom "Great Britain"), collectively known as _National Rail_. Each company operates its own routes, mostly focusing on a specific region of the country.

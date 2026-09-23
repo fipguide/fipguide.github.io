@@ -3,14 +3,13 @@ title: DB
 country:
   - germany
 operator: db
+content_images:
+  - image.webp
 aliases:
   - /booking/db-ticket-office
   - /booking/db-website
   - /booking/db-website-fip-db
   - /booking/db-website-fip-international
-
-content_images:
-  - image.webp
 ---
 
 La Deutsche Bahn (DB) est la plus grande entreprise ferroviaire d’[Allemagne](/country/germany "Allemagne") et exploite la majorité du trafic longue distance ainsi que de nombreuses liaisons régionales.

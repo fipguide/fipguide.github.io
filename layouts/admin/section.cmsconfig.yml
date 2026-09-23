@@ -20,7 +20,7 @@ public_folder: /images
 media_libraries:
   all:
     slugify_filename: true
-    max_file_size: 5 MB
+    max_file_size: 5242880
     transformations:
       raster_image:
         format: webp
@@ -258,6 +258,12 @@ collections:
         widget: "string"
         i18n: duplicate
         hint: A unique identifier of the operator (slug).
+      - label: "Aliases"
+        name: "aliases"
+        widget: "hidden"
+        default: []
+        required: false
+        i18n: duplicate
       - label: "Content Images"
         name: "content_images"
         widget: "image"
@@ -441,6 +447,12 @@ collections:
         widget: "string"
         required: false
         i18n: true
+      - label: "Aliases"
+        name: "aliases"
+        widget: "hidden"
+        default: []
+        required: false
+        i18n: duplicate
       - name: params
         label: "Parameters"
         widget: object
@@ -470,8 +482,6 @@ collections:
                 value: true
               - label: "No"
                 value: false
-              - label: "Not relevant"
-                value: null
             required: false
             i18n: duplicate
           - label: "FIP Coupon"
@@ -482,8 +492,6 @@ collections:
                 value: true
               - label: "No"
                 value: false
-              - label: "Not relevant"
-                value: null
             required: false
             i18n: duplicate
           - label: "FIP Global Fare"
@@ -494,8 +502,6 @@ collections:
                 value: true
               - label: "No"
                 value: false
-              - label: "Not relevant"
-                value: null
             required: false
             i18n: duplicate
           - label: "FIP 75"
@@ -506,14 +512,17 @@ collections:
                 value: true
               - label: "No"
                 value: false
-              - label: "Not relevant"
-                value: null
             required: false
             i18n: duplicate
           - label: "Reservations"
             name: reservations
-            widget: boolean
-            default: false
+            widget: select
+            options:
+              - label: "Yes"
+                value: true
+              - label: "No"
+                value: false
+            required: false
             i18n: duplicate
           - label: "Booking Link"
             name: booking_link
@@ -723,6 +732,12 @@ collections:
             widget: "string"
             required: false
             i18n: true
+          - label: "Aliases"
+            name: "aliases"
+            widget: "hidden"
+            default: []
+            required: false
+            i18n: duplicate
           - label: "Body"
             name: "body"
             widget: "markdown"
@@ -755,6 +770,12 @@ collections:
             widget: "string"
             required: false
             i18n: true
+          - label: "Aliases"
+            name: "aliases"
+            widget: "hidden"
+            default: []
+            required: false
+            i18n: duplicate
           - label: "Body"
             name: "body"
             widget: "markdown"

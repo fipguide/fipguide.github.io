@@ -3,13 +3,12 @@ title: DSB
 country:
   - denmark
 operator: dsb
+content_images:
+  - image.webp
 aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
   - /booking/dsb-website
-
-content_images:
-  - image.webp
 ---
 
 The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/country/denmark "Denmark"). It operates the majority of passenger traffic on the Danish rail network. Under the operator name "DSB Vores Tog," it has also been operating train services in Central and West Jutland and on Funen since September 1, 2026. [^4]

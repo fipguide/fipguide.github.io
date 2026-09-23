@@ -3,11 +3,10 @@ title: CP
 country:
   - portugal
 operator: cp
-aliases:
-  - /booking/cp-ticket-office
-
 content_images:
   - image.webp
+aliases:
+  - /booking/cp-ticket-office
 ---
 
 La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise et la principale société de chemins de fer au [Portugal](/country/portugal "Portugal").

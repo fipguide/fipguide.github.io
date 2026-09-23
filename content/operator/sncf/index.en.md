@@ -9,13 +9,12 @@ country:
   - belgium
   - luxembourg
 operator: sncf
+content_images:
+  - image.webp
 aliases:
   - /booking/sncf-phone
   - /booking/sncf-ticket-office
   - /booking/transilien-ticket-office
-
-content_images:
-  - image.webp
 ---
 
 SNCF (Société Nationale des Chemins de fer Français) is the French national railway company and the main rail operator in [France](/country/france "France"). It operates almost all long-distance and regional trains in France.
