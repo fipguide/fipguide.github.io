@@ -260,15 +260,18 @@ support:
     bearbeitet werden.
   title: Unterstütze uns
 taxation:
-  add-month: Monat hinzufügen
-  add-national: Nationale Vergünstigung hinzufügen
-  add-operator: Betreiber hinzufügen
-  add-other: Sachbezug hinzufügen
-  card-persons-one: 1 Person
-  card-persons-other: '{{ .Count }} Personen'
-  category-international: Internationale FIP Freifahrtscheine
-  category-national: Nationale Vergünstigungen
-  category-other: Sonstiges
+  add:
+    admission: Sachbezug hinzufügen
+    month: Monat hinzufügen
+    national: Nationale Vergünstigung hinzufügen
+    operator: Betreiber hinzufügen
+  card-persons:
+    plural: '{{ .Count }} Personen'
+    single: 1 Person
+  category:
+    admission: Sonstiges
+    international: Internationale FIP Freifahrtscheine
+    national: Nationale Vergünstigungen
   children: Kinder
   decrease: Verringern
   distribution: Aufteilung
@@ -311,26 +314,28 @@ taxation:
     „Optimieren“-Funktion berücksichtigt deine Zuordnung und passt die
     Verteilung der übrigen Freifahrtscheine entsprechend an.
   planning-focus: Steuer optimieren
-  price-per-field: pro Feld
-  price-per-ticket: pro Ticket
+  price-per:
+    field: pro Feld
+    ticket: pro Ticket
   remove: Entfernen
   reset: Zurücksetzen
   second-class: 2. Klasse
   sum: Summe
-  summary-all-assigned-ok: >-
-    Alle Freifahrtscheine sind auf Monate verteilt. Kein Monat überschreitet {{
-    .Threshold }} €.
-  summary-all-assigned-over-month: >-
-    Alle Freifahrtscheine sind zugewiesen, aber mindestens ein Monat liegt über
-    dem {{ .Threshold }}-€-Grenzwert. In diesem Fall wird der gesamte
-    Monatsbetrag versteuert, nicht nur der Anteil über dem Grenzwert.
-  summary-over-limit-unassigned: >-
-    Die Summe liegt oberhalb des {{ .Threshold }} € Grenzwerts. Der gesamte
-    Monatsbetrag ist steuerpflichtig, nicht nur der Anteil über dem Grenzwert.
-    Verteile den Betrag auf mehrere Monate, um die Steuerlast zu optimieren.
-  summary-under-limit: >-
-    Die Summe liegt innerhalb des {{ .Threshold }} € Grenzwerts. Es entsteht
-    keine zusätzliche Versteuerung.
+  summary:
+    all-assigned-ok: >-
+      Alle Freifahrtscheine sind auf Monate verteilt. Kein Monat überschreitet
+      {{ .Threshold }} €.
+    all-assigned-over-month: >-
+      Alle Freifahrtscheine sind zugewiesen, aber mindestens ein Monat liegt
+      über dem {{ .Threshold }}-€-Grenzwert. In diesem Fall wird der gesamte
+      Monatsbetrag versteuert, nicht nur der Anteil über dem Grenzwert.
+    over-limit-unassigned: >-
+      Die Summe liegt oberhalb des {{ .Threshold }} € Grenzwerts. Der gesamte
+      Monatsbetrag ist steuerpflichtig, nicht nur der Anteil über dem Grenzwert.
+      Verteile den Betrag auf mehrere Monate, um die Steuerlast zu optimieren.
+    under-limit: >-
+      Die Summe liegt innerhalb des {{ .Threshold }} € Grenzwerts. Es entsteht
+      keine zusätzliche Versteuerung.
   ticket-count-heading: Anzahl Tickets
   unassigned: Nicht zugewiesen
   unlock: Zuordnung aufheben

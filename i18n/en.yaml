@@ -249,15 +249,18 @@ support:
     The FIP Guide is an open-source project. Information can be edited directly
     via our [GitHub Repository](https://github.com/fipguide/fipguide.github.io).
 taxation:
-  add-month: Add month
-  add-national: Add national discount
-  add-operator: Add operator
-  add-other: Add taxable benefit
-  card-persons-one: 1 person
-  card-persons-other: '{{ .Count }} persons'
-  category-international: International FIP Coupons
-  category-national: National Discounts
-  category-other: Other
+  add:
+    admission: Add taxable benefit
+    month: Add month
+    national: Add national discount
+    operator: Add operator
+  card-persons:
+    plural: '{{ .Count }} persons'
+    single: 1 person
+  category:
+    admission: Other
+    international: International FIP Coupons
+    national: National Discounts
   children: Children
   decrease: Decrease
   distribution: Distribution
@@ -294,24 +297,28 @@ taxation:
     coupons accordingly. Individual coupons that exceed the threshold on their
     own are grouped as early as possible.
   planning-focus: Optimize taxes
-  price-per-field: per field
-  price-per-ticket: per ticket
+  price-per:
+    field: per field
+    ticket: per ticket
   remove: Remove
   reset: Reset
   second-class: 2nd Class
   sum: Total
-  summary-all-assigned-ok: All coupons are assigned to months, and no month exceeds €{{ .Threshold }}.
-  summary-all-assigned-over-month: >-
-    All coupons are assigned, but at least one month is above the €{{ .Threshold
-    }} threshold. In that case, the full monthly amount is taxable, not just the
-    part above the threshold.
-  summary-over-limit-unassigned: >-
-    The total is above the €{{ .Threshold }} threshold. The full monthly amount
-    is taxable, not just the part above the threshold. Distribute the amount
-    across multiple months to optimize your tax impact.
-  summary-under-limit: >-
-    The total is within the €{{ .Threshold }} threshold. No additional taxation
-    applies.
+  summary:
+    all-assigned-ok: >-
+      All coupons are assigned to months, and no month exceeds €{{ .Threshold
+      }}.
+    all-assigned-over-month: >-
+      All coupons are assigned, but at least one month is above the €{{
+      .Threshold }} threshold. In that case, the full monthly amount is taxable,
+      not just the part above the threshold.
+    over-limit-unassigned: >-
+      The total is above the €{{ .Threshold }} threshold. The full monthly
+      amount is taxable, not just the part above the threshold. Distribute the
+      amount across multiple months to optimize your tax impact.
+    under-limit: >-
+      The total is within the €{{ .Threshold }} threshold. No additional
+      taxation applies.
   ticket-count-heading: Number of tickets
   unassigned: Unassigned
   unlock: Remove assignment

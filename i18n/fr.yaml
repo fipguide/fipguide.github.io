@@ -260,15 +260,18 @@ support:
     modifiées directement via notre [dépôt
     GitHub](https://github.com/fipguide/fipguide.github.io).
 taxation:
-  add-month: Ajouter un mois
-  add-national: Ajouter une réduction nationale
-  add-operator: Ajouter un opérateur
-  add-other: Ajouter un avantage imposable
-  card-persons-one: 1 personne
-  card-persons-other: '{{ .Count }} personnes'
-  category-international: Coupons FIP internationaux
-  category-national: Réductions nationales
-  category-other: Autres
+  add:
+    admission: Ajouter un avantage imposable
+    month: Ajouter un mois
+    national: Ajouter une réduction nationale
+    operator: Ajouter un opérateur
+  card-persons:
+    plural: '{{ .Count }} personnes'
+    single: 1 personne
+  category:
+    admission: Autres
+    international: Coupons FIP internationaux
+    national: Réductions nationales
   children: Enfants
   decrease: Diminuer
   distribution: Répartition
@@ -308,26 +311,29 @@ taxation:
     La fonction « Optimiser » tient compte de votre attribution et adapte en
     conséquence la répartition des autres coupons.
   planning-focus: Optimiser les impôts
-  price-per-field: par champ
-  price-per-ticket: par billet
+  price-per:
+    field: par champ
+    ticket: par billet
   remove: Supprimer
   reset: Réinitialiser
   second-class: 2nde classe
   sum: Total
-  summary-all-assigned-ok: >-
-    Tous les coupons sont répartis par mois et aucun mois ne dépasse {{
-    .Threshold }} €.
-  summary-all-assigned-over-month: >-
-    Tous les coupons sont attribués, mais au moins un mois dépasse le seuil de
-    {{ .Threshold }} €. Dans ce cas, le montant mensuel complet est imposable,
-    et pas seulement la part au-dessus du seuil.
-  summary-over-limit-unassigned: >-
-    Le total dépasse le seuil de {{ .Threshold }} €. Le montant mensuel complet
-    est imposable, et pas seulement la part au-dessus du seuil. Répartissez le
-    montant sur plusieurs mois pour optimiser la charge fiscale.
-  summary-under-limit: >-
-    Le total reste dans la limite du seuil de {{ .Threshold }} €. Aucune
-    imposition supplémentaire ne s’applique.
+  summary:
+    all-assigned-ok: >-
+      Tous les coupons sont répartis par mois et aucun mois ne dépasse {{
+      .Threshold }} €.
+    all-assigned-over-month: >-
+      Tous les coupons sont attribués, mais au moins un mois dépasse le seuil de
+      {{ .Threshold }} €. Dans ce cas, le montant mensuel complet est imposable,
+      et pas seulement la part au-dessus du seuil.
+    over-limit-unassigned: >-
+      Le total dépasse le seuil de {{ .Threshold }} €. Le montant mensuel
+      complet est imposable, et pas seulement la part au-dessus du seuil.
+      Répartissez le montant sur plusieurs mois pour optimiser la charge
+      fiscale.
+    under-limit: >-
+      Le total reste dans la limite du seuil de {{ .Threshold }} €. Aucune
+      imposition supplémentaire ne s’applique.
   ticket-count-heading: Nombre de billets
   unassigned: Non attribué
   unlock: Supprimer l’attribution

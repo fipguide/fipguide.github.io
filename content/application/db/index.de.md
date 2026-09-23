@@ -34,7 +34,7 @@ Diese Mitarbeitenden erhalten einen zusätzlichen jährlichen Freibetrag (1.080 
 
 Auch die persönliche Netzcard fällt in diesen Rabattfreibetrag. FIP Freifahrtscheine fallen jedoch nicht in diesen Rabattfreibetrag und werden weiterhin nach den allgemeinen Regeln für geldwerte Vorteile besteuert.
 
-Weiterführende Informationen sind in MeineDB zu finden.
+Weiterführende Informationen sind in meineDB zu finden.
 
 {{% expander "Beispiel für einen ausgeschöpften Rabattfreibetrag" info %}}
 
