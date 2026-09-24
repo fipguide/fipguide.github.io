@@ -1,5 +1,5 @@
 ---
-date: 2026-09-20
+date: 2026-09-24
 title: "Jetzt für DB Mitarbeitende: FIP Steuerrechner"
 description: Der neue Steuerrechner für DB Mitarbeitende in Deutschland ist jetzt im FIP Guide verfügbar.
 ---

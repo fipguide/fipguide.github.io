@@ -1,5 +1,5 @@
 ---
-date: 2026-09-20
+date: 2026-09-24
 title: "Now for DB employees: FIP tax calculator"
 description: The new tax calculator for DB employees in Germany is now available in the FIP Guide.
 ---

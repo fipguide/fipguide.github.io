@@ -1,5 +1,5 @@
 ---
-date: 2026-09-20
+date: 2026-09-24
 title: "Désormais pour les employés de la DB : calculateur fiscal FIP"
 description: Le nouveau calculateur fiscal pour les employés de la DB en Allemagne est désormais disponible dans le guide FIP.
 ---
