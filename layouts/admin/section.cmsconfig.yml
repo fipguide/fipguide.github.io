@@ -191,6 +191,7 @@ collections:
     folder: "content/country"
     path: "{{"{{"}}slug}}/index"
     preview_path: "{{"{{"}}locale}}/country/{{"{{"}}slug}}/"
+    thumbnail: "/images/flags/{{"{{"}}slug}}.webp"
     create: false
     publish: false
     delete: false
