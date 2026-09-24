@@ -383,7 +383,7 @@ FIP Tickets are not valid on the KM Słoneczny special train (Warsaw to Gdansk/G
 
 FIP Tickets are not valid on cable cars and rack railways operated by PKP.
 
-### Connections - AJC
+### Connections – AJC
 
 This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
 
