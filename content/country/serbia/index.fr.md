@@ -27,7 +27,7 @@ Les trains en Serbie sont majoritairement plus anciens et moins modernes, à l�
 {{% expander "Points frontières" border %}}
 
 | Pays                                                                                                  | Points frontières                                       |
-|-------------------------------------------------------------------------------------------------------| ------------------------------------------------------- |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | [Hongrie](/country/hungary) ([MÁV](/operator/mav))                                                    | Röszke (Gr), Subotica (Gr)                              |
 | [Roumanie](/country/romania) ([CFR](/operator/cfr))                                                   | Jimbolia (fr), Vršac (fr)                               |
 | [Bulgarie](/country/bulgaria) ([BDZ](/operator/bdz))                                                  | Dimitrovgrad (fr)                                       |

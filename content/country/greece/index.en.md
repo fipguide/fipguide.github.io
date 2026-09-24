@@ -30,7 +30,7 @@ The quality of trains varies: while modern electric multiple units operate on th
 {{% expander "Border Points" border %}}
 
 | Country                                                              | Border Points                          |
-|----------------------------------------------------------------------|----------------------------------------|
+| -------------------------------------------------------------------- | -------------------------------------- |
 | [North Macedonia](/country/north-macedonia) ([ŽRSM](/operator/zrsm)) | Gevgelija (fr) (Macedonian: Гевгелија) |
 | [Bulgaria](/country/bulgaria) ([BDŽ](/operator/bdz))                 | Kulata (fr), Svilengrad (fr)           |
 | Turkey (TCDD)                                                        | Pythio (Πύθιο)                         |

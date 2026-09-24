@@ -27,7 +27,7 @@ The trains in Serbia are mostly older and less modern, away from the main routes
 {{% expander "Border Points" border %}}
 
 | Country                                                                                                   | Border Points                                          |
-|-----------------------------------------------------------------------------------------------------------| ------------------------------------------------------ |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | [Hungary](/country/hungary) ([MÁV](/operator/mav))                                                        | Röszke (Gr), Subotica (Gr)                             |
 | [Romania](/country/romania) ([CFR](/operator/cfr))                                                        | Jimbolia (fr), Vršac (fr)                              |
 | [Bulgaria](/country/bulgaria) ([BDZ](/operator/bdz))                                                      | Dimitrovgrad (fr)                                      |

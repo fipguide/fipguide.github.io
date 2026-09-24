@@ -30,7 +30,7 @@ La qualité des trains varie : si des rames électriques modernes circulent sur 
 {{% expander "Points frontières" border %}}
 
 | Pays                                                                   | Points frontières                       |
-|------------------------------------------------------------------------|-----------------------------------------|
+| ---------------------------------------------------------------------- | --------------------------------------- |
 | [Macédoine du Nord](/country/north-macedonia) ([ŽRSM](/operator/zrsm)) | Gevgelija (fr) (Macédonien : Гевгелија) |
 | [Bulgarie](/country/bulgaria) ([BDŽ](/operator/bdz))                   | Kulata (fr), Svilengrad (fr)            |
 | Turquie (TCDD)                                                         | Pythio (Πύθιο)                          |
