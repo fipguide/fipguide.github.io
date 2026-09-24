@@ -5,14 +5,10 @@
     "[data-taxation-remote-warning-template]",
   );
   var warningHtml = warningTemplate ? warningTemplate.innerHTML : "";
-  var loadingIcon = root.getAttribute("data-taxation-loading-icon") || "";
-  var loadingText = root.getAttribute("data-taxation-loading-text") || "";
-  var loadingHtml =
-    '<div class="o-taxation-embed__loading m-text-highlight m-text-highlight--tip"><div class="o-taxation-embed__loading-content">' +
-    loadingIcon +
-    "<span>" +
-    loadingText +
-    "</span></div></div>";
+  var loadingTemplate = root.querySelector(
+    "[data-taxation-remote-loading-template]",
+  );
+  var loadingHtml = loadingTemplate ? loadingTemplate.innerHTML : "";
 
   function normalizeBaseUrl(rawUrl) {
     var trimmed = String(rawUrl || "").trim();

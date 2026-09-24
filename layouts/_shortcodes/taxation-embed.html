@@ -72,8 +72,6 @@
   data-taxation-remote-lang="{{ $lang }}"
   data-taxation-remote-warning="{{ $warning }}"
   data-taxation-remote-i18n="{{ $i18nPayload | jsonify }}"
-  data-taxation-loading-icon="{{ partial "icon" "downloading" }}"
-  data-taxation-loading-text="{{ T "taxation.loading" }}"
 >
   <template data-taxation-remote-warning-template>
     {{ partial "highlight" (dict
@@ -81,6 +79,16 @@
       "Content" ($warning | $.Page.RenderString)
       )
     }}
+  </template>
+  <template data-taxation-remote-loading-template>
+    <div
+      class="o-taxation-embed__loading m-text-highlight m-text-highlight--tip"
+    >
+      <div class="o-taxation-embed__loading-content">
+        {{- partial "icon" "downloading" -}}
+        <span>{{ T "taxation.loading" }}</span>
+      </div>
+    </div>
   </template>
 </div>
 
