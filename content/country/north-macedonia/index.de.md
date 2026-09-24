@@ -24,7 +24,7 @@ Die ŽRSM betreibt seit 2015 mit den Baureihe MŽ 411 und MŽ 711 als erstes Eis
 {{% expander "Grenzpunkte" border %}}
 
 | Land                                                             | Grenzpunkte                                              |
-|------------------------------------------------------------------|----------------------------------------------------------|
+| ---------------------------------------------------------------- | -------------------------------------------------------- |
 | [Serbien](/country/serbia) ([SV](/operator/sv))                  | Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc) |
 | [Griechenland](/country/greece) ([Hellenic Train](/operator/ht)) | Gevgelija (fr) (Mazedonisch: Гевгелија)                  |
 
@@ -37,5 +37,7 @@ Zurzeit verkehren keine Personenzüge zwischen Nordmazedonien und Serbien.
 ### Griechenland
 
 Zwischen Nordmazedonien und Griechenland gibt es keinen planmäßigen Personenverkehr auf der Schiene. Die historische Verbindung zwischen Thessaloniki und Gevgelija/Skopje wird gegenwärtig nicht betrieben. Grenzübergänge können daher nicht per Zug überquert werden; alternativ bieten sich Fernbusse über die Balkanrouten an.
+
+## Quellen
 
 [^1]: [Wikipedia](https://de.wikipedia.org/wiki/Schienenverkehr_in_Nordmazedonien#Streckennetz)

@@ -59,7 +59,7 @@ Pour les voyageurs traversant plusieurs pays des Balkans, le _Balkan Flexipass_ 
 
 - Bosnie-Herzégovine (ŽFBH, ŽRS),
 - Bulgarie (BDŽ),
-- Macédoine du Nord (MŽ-Transport),
+- Macédoine du Nord (ŽRSM),
 - Grèce (HT & Attica),
 - Monténégro (ŽPCG),
 - Roumanie (CFR Calatori & Regiotrans),

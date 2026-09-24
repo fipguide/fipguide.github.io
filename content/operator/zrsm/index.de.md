@@ -40,7 +40,8 @@ Es sind keine Reservierungen notwendig.[^2] Optional können Sitzplatzreservieru
 #### Strecken im Linienverkehr
 
 Im aktuellen Fahrplanjahr gibt es Zugverkehr auf folgenden Strecken:
-- Skopje – Veles – Gevgelija 
+
+- Skopje – Veles – Gevgelija
 - Skopje – Veles – Prilep – Bitola – Žabeni
 
 {{% /train-category %}}
@@ -64,7 +65,8 @@ Es sind keine Reservierungen notwendig.[^2] Optional können Sitzplatzreservieru
 #### Strecken im Linienverkehr
 
 Im aktuellen Fahrplanjahr gibt es Zugverkehr auf folgenden Strecken:
-- Skopje – Zelenikovo 
+
+- Skopje – Zelenikovo
 - Skopje – Kumanovo
 
 {{% /train-category %}}
@@ -74,6 +76,7 @@ Im aktuellen Fahrplanjahr gibt es Zugverkehr auf folgenden Strecken:
     title="Bus"
     type="bus"
     fip_accepted=false
+    reservation_possible=nil
 %}}
 
 FIP gilt nicht in Bussen der ŽRSM.[^1]
@@ -95,12 +98,13 @@ Fahrkarten mit FIP Rabatt können nicht im Zug gekauft werden.[^1]
 {{< children-discount >}}
 
 | Alter                                | Ermäßigung                                                             |
-|--------------------------------------|------------------------------------------------------------------------|
+| ------------------------------------ | ---------------------------------------------------------------------- |
 | {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos, sofern für sie kein eigener Sitzplatz beansprucht wird.[^3] |
 | {{< icon "child_care" >}} 4–11 Jahre | 50% Ermäßigung [^3]                                                    |
 | {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis[^3]                                                    |
 
 Weitere Ermäßigungen:
+
 - Am ersten und dritten Wochenende des Monats können Personen bis 27 Jahren kostenlos mit der ŽRSM reisen.[^3]
 - Am zweiten Wochenende des Monats können Frauen über 62 und Männer über 64 Jahren kostenlos mit der ŽRSM reisen.[^3]
 - Jeden Donnerstag können Studierende kostenlos mit der ŽRSM reisen.[^3]
@@ -111,7 +115,7 @@ Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preis
 
 - Bosnien und Herzegowina (ŽFBH, ŽRS),
 - Bulgarien (BDŽ),
-- Nordmazedonien (MŽ-Transport),
+- Nordmazedonien (ŽRSM),
 - Griechenland (HT & Attica),
 - Montenegro (ŽPCG),
 - Rumänien (CFR Calatori & Regiotrans),
@@ -124,5 +128,7 @@ Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preis
 ## Quellen
 
 [^1]: [Rail Delivery Group – North Macedonia](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782284-north-macedonia.html)
+
 [^2]: [Interrail – Trains in North Macedonia](https://www.interrail.com/en/plan-your-trip/tips-and-tricks/trains-europe/trains-country/trains-north-macedonia#1790242029008339)
+
 [^3]: [ŽRSM – Fahrplan](https://mzt.mk/%d0%b2-%d0%be-%d0%b7-%d0%b5-%d0%bd-%d1%80-%d0%b5-%d0%b4-14-12-2025-12-12-2026/)
