@@ -33,6 +33,12 @@ First of all, we have to the install the node packages by running:
 npm i
 ```
 
+The CMS admin interface (`/admin`) is bundled separately with Vite and is not rebuilt automatically by Hugo. Run the following command whenever you change files in `assets/admin/` (or after installing/updating packages) to (re)generate it:
+
+```zsh
+npm run build:admin
+```
+
 Then, we can start the integrated hugo server with:
 
 ```zsh

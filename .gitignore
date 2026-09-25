@@ -2,6 +2,7 @@
 node_modules/
 public/
 resources/
+static/admin/
 hugo.exe
 .hugo_build.lock
 .DS_Store
