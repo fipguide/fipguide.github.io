@@ -3,6 +3,8 @@ title: NIR
 country:
   - united-kingdom
 operator: nir
+content_images:
+  - image.webp
 aliases:
   - /booking/translink-ticket-office
   - /booking/translink-whatsapp

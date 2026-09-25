@@ -4,6 +4,8 @@ country:
   - lithuania
   - latvia
 operator: ltg
+content_images:
+  - image.webp
 aliases:
   - /booking/ltg-website
 ---

@@ -3,6 +3,8 @@ title: PKP
 country:
   - poland
 operator: pkp
+content_images:
+  - image.webp
 aliases:
   - /booking/pkp-ticket-machine
   - /booking/pkp-ticket-office

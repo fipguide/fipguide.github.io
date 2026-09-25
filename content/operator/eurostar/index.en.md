@@ -7,6 +7,8 @@ country:
   - united-kingdom
   - france
 operator: eurostar
+content_images:
+  - image.webp
 aliases:
   - /booking/eurostar-phone
   - /booking/eurostar-ticket-office

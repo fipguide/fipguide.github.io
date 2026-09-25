@@ -3,6 +3,8 @@ title: ČD
 country:
   - czechia
 operator: cd
+content_images:
+  - image.webp
 aliases:
   - /booking/cd-ticket-office
   - /booking/cd-website

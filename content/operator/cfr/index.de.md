@@ -3,6 +3,8 @@ title: CFR Călători
 country:
   - romania
 operator: cfr
+content_images:
+  - image.webp
 aliases:
   - /booking/cfr-ticket-office
 ---

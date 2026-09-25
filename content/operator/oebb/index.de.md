@@ -4,6 +4,8 @@ country:
   - austria
   - liechtenstein
 operator: oebb
+content_images:
+  - image.webp
 aliases:
   - obb
   - /booking/oebb-phone

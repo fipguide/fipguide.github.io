@@ -3,6 +3,9 @@ title: SV
 country:
   - serbia
 operator: sv
+
+content_images:
+  - image.webp
 ---
 
 Srbija Voz (Србија Воз) is the state railway company in Serbia and operates the majority of passenger traffic in the country.

@@ -3,6 +3,8 @@ title: SNCB / NMBS
 country:
   - belgium
 operator: sncb
+content_images:
+  - image.webp
 aliases:
   - /booking/sncb-phone
   - /booking/sncb-ticket-office

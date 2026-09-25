@@ -3,6 +3,9 @@ title: SV
 country:
   - serbia
 operator: sv
+
+content_images:
+  - image.webp
 ---
 
 Srbija Voz (Србија Воз) ist die staatliche Eisenbahngesellschaft in Serbien und betreibt den Großteil des Personenverkehrs im Land.

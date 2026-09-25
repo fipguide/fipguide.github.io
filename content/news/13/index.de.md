@@ -6,6 +6,9 @@ country:
   - denmark
 operator:
   - dsb
+
+content_images:
+  - image.webp
 ---
 
 Zum 01.09.2026 hat die DSB den Zugverkehr des Unternehmens GoCollective übernommen. Unter dem Namen "DSB Vores Tog" werden die bisherigen Strecken im Regionalverkehr weiter betrieben. [^1]

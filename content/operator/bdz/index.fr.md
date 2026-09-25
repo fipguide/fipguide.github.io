@@ -3,6 +3,8 @@ title: BDŽ
 country:
   - bulgaria
 operator: bdz
+content_images:
+  - image.webp
 aliases:
   - /booking/bdz-ticket-office
 ---

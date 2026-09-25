@@ -3,6 +3,8 @@ title: CFL
 country:
   - luxembourg
 operator: cfl
+content_images:
+  - image.webp
 aliases:
   - /booking/cfl-phone
   - /booking/cfl-ticket-office

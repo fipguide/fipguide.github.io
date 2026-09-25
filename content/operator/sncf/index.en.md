@@ -9,6 +9,8 @@ country:
   - belgium
   - luxembourg
 operator: sncf
+content_images:
+  - image.webp
 aliases:
   - /booking/sncf-phone
   - /booking/sncf-ticket-office

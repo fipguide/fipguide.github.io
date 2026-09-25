@@ -3,6 +3,8 @@ title: NS
 country:
   - netherlands
 operator: ns
+content_images:
+  - image.webp
 aliases:
   - /booking/ns-phone
   - /booking/ns-ticket-office

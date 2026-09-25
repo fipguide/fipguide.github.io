@@ -17,6 +17,16 @@ logo:
   show_in_header: true
 media_folder: assets/images
 public_folder: /images
+media_libraries:
+  all:
+    slugify_filename: true
+    max_file_size: 5242880
+    transformations:
+      raster_image:
+        format: webp
+        quality: 85
+      svg:
+        optimize: true
 issue_reports:
   url: https://github.com/fipguide/fipguide.github.io/issues/new
 display_url: https://fipguide.org/
@@ -129,6 +139,14 @@ collections:
         widget: "string"
         required: false
         i18n: true
+      - label: "Content Images"
+        name: "content_images"
+        widget: "image"
+        multiple: true
+        required: false
+        i18n: duplicate
+        hint: "Images shown for this page. Prefer .webp images."
+        accept: "image/webp"
       - label: "Countries"
         name: "country"
         widget: "relation"
@@ -173,6 +191,7 @@ collections:
     folder: "content/country"
     path: "{{"{{"}}slug}}/index"
     preview_path: "{{"{{"}}locale}}/country/{{"{{"}}slug}}/"
+    thumbnail: "/images/flags/{{"{{"}}slug}}.webp"
     create: false
     publish: false
     delete: false
@@ -186,6 +205,25 @@ collections:
         name: "country"
         widget: "string"
         i18n: duplicate
+      - name: params
+        label: "Parameters"
+        widget: object
+        i18n: true
+        fields:
+          - label: "Operators without FIP"
+            name: operators_without_fip
+            widget: list
+            label_singular: "Operator"
+            i18n: true
+            hint: "List of operators in this country that do not accept FIP."
+      - label: "Content Images"
+        name: "content_images"
+        widget: "image"
+        multiple: true
+        required: false
+        i18n: duplicate
+        hint: "Images shown for this page. Prefer .webp images."
+        accept: "image/webp"
       - label: "Body"
         name: "body"
         widget: "markdown"
@@ -232,6 +270,19 @@ collections:
         widget: "string"
         i18n: duplicate
         hint: A unique identifier of the operator (slug).
+      - label: "Aliases"
+        name: "aliases"
+        widget: "hidden"
+        default: []
+        i18n: duplicate
+      - label: "Content Images"
+        name: "content_images"
+        widget: "image"
+        multiple: true
+        required: false
+        i18n: duplicate
+        hint: "Images shown for this page. Prefer .webp images."
+        accept: "image/webp"
       - label: "Body"
         name: "body"
         widget: "markdown"
@@ -407,6 +458,11 @@ collections:
         widget: "string"
         required: false
         i18n: true
+      - label: "Aliases"
+        name: "aliases"
+        widget: "hidden"
+        default: []
+        i18n: duplicate
       - name: params
         label: "Parameters"
         widget: object
@@ -422,33 +478,59 @@ collections:
                 name: first
                 widget: string
                 required: false
-                i18n: duplicate
               - label: "Second Class"
                 name: second
                 widget: string
                 required: false
-                i18n: duplicate
           - label: "FIP 50"
             name: fip_50
-            widget: boolean
-            default: false
+            widget: select
+            options:
+              - label: "Yes"
+                value: true
+              - label: "No"
+                value: false
+            required: false
+            i18n: duplicate
+          - label: "FIP Coupon"
+            name: fip_coupon
+            widget: select
+            options:
+              - label: "Yes"
+                value: true
+              - label: "No"
+                value: false
+            required: false
             i18n: duplicate
           - label: "FIP Global Fare"
             name: fip_global_fare
-            widget: boolean
-            default: false
+            widget: select
+            options:
+              - label: "Yes"
+                value: true
+              - label: "No"
+                value: false
             required: false
             i18n: duplicate
           - label: "FIP 75"
             name: fip_75
-            widget: boolean
-            default: false
+            widget: select
+            options:
+              - label: "Yes"
+                value: true
+              - label: "No"
+                value: false
             required: false
             i18n: duplicate
           - label: "Reservations"
             name: reservations
-            widget: boolean
-            default: false
+            widget: select
+            options:
+              - label: "Yes"
+                value: true
+              - label: "No"
+                value: false
+            required: false
             i18n: duplicate
           - label: "Booking Link"
             name: booking_link
@@ -658,6 +740,11 @@ collections:
             widget: "string"
             required: false
             i18n: true
+          - label: "Aliases"
+            name: "aliases"
+            widget: "hidden"
+            default: []
+            i18n: duplicate
           - label: "Body"
             name: "body"
             widget: "markdown"
@@ -690,6 +777,11 @@ collections:
             widget: "string"
             required: false
             i18n: true
+          - label: "Aliases"
+            name: "aliases"
+            widget: "hidden"
+            default: []
+            i18n: duplicate
           - label: "Body"
             name: "body"
             widget: "markdown"

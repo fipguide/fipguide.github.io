@@ -3,6 +3,8 @@ title: DB
 country:
   - germany
 operator: db
+content_images:
+  - image.webp
 aliases:
   - /booking/db-ticket-office
   - /booking/db-website

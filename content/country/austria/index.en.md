@@ -16,6 +16,9 @@ params:
     - WESTbahn
     - Wiener Lokalbahn (Badner Bahn)
     - Zillertalbahn
+
+content_images:
+  - image.webp
 ---
 
 ## FIP Information

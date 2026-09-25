@@ -3,6 +3,8 @@ title: National Rail
 country:
   - united-kingdom
 operator: gb
+content_images:
+  - image.webp
 aliases:
   - /booking/caledonian-sleeper-website
   - /booking/lner-website
