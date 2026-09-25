@@ -41,6 +41,7 @@ $fip-validity-colors-dark: (
 );
 
 $highlight-colors: (
+  success: map-get($tag-colors, success),
   tip: #116278,
   inofficial: #42454a,
   important: map-get($tag-colors, warning),
@@ -49,6 +50,7 @@ $highlight-colors: (
 );
 
 $highlight-colors-dark: (
+  success: map-get($tag-colors-dark, success),
   tip: #61bdd6,
   inofficial: #acb3c1,
   important: map-get($tag-colors-dark, warning),
