@@ -61,7 +61,7 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
     reservation_possible=true
 %}}
 
-Der GoldenPassExpress ist eine durchgehende Zugverbindung von Montreux bis Interlaken Ost, welcher von der BLS in Kooperation mit der [MOB](/operator/sp#mob) betrieben wird. Die MOB betreibt den Zug im meterspurigen Abschnitt zwischen Montreux und Zweisimmen und die BLS im normalspurigen Abschnitt zwischen Zweisimmen und Interlaken Ost. In der Verbindungsauskunft werden diese Züge als `PE` gekennzeichnet.
+Der GoldenPass Express ist eine durchgehende Zugverbindung von Montreux bis Interlaken Ost, welcher von der BLS in Kooperation mit der [MOB](/operator/sp#mob) betrieben wird. Die MOB betreibt den Zug im meterspurigen Abschnitt zwischen Montreux und Zweisimmen und die BLS im normalspurigen Abschnitt zwischen Zweisimmen und Interlaken Ost. In der Verbindungsauskunft werden diese Züge als `PE` gekennzeichnet.
 
 Das bedeutet, dass Freifahrtscheine sowohl der SP als auch der BLS vorhanden sein müssen, um die komplette Strecke zu befahren. FIP 50 Tickets können durchgehend gebucht werden.
 
