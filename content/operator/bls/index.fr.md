@@ -184,7 +184,7 @@ Les entreprises ferroviaires suisses SBB et BLS acceptent partiellement les Coup
 
 Cependant, les Coupons FIP de la SBB ne sont pas valables sur les bateaux de la BLS sur le lac de Thoune et le lac de Brienz, ni dans les bus de la BLS, qui circulent principalement dans l’Emmental.
 
-### Correspondances - AJC
+### Correspondances – AJC
 
 Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 

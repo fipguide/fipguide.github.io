@@ -177,7 +177,7 @@ Discounts differ depending on the country in which you travel with GySEV.
 
 For a break of journey, the ticket must be stamped at the station where the break should be.
 
-### Connections - AJC
+### Connections – AJC
 
 This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
 

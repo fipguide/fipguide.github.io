@@ -467,6 +467,18 @@ Les Billets FIP à tarif réduit pour `RER` et Transilien peuvent être achetés
 De nombreuses gares équipées de portillons ne sont pas surveillées par du personnel. Il existe des interphones d’assistance, mais ils fonctionnent de manière peu fiable. Sans la _Contremarque de Passage_ (carte d’accès temporaire), il n’est donc souvent pas possible d’accéder aux gares.
 {{% /highlight %}}
 
+### Correspondances
+
+#### HOTNAT
+
+Si un train de correspondance est manqué dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle ou Zurich, HOTNAT peut être utilisé.
+
+Cet opérateur fait partie de HOTNAT (Hop on the Next Available Train). [Plus d’informations dans la FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ### Services de remplacement ferroviaire
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.

@@ -2,7 +2,7 @@
 title: Site Web RailTourGuide
 description: Informations de réservation pour le site web RailTourGuide.
 params:
-  fee: 5 £ / 10 £
+  fee: 5 £ / 10 £ / 5 €
   fip_global_fare: true
   booking_link: https://www.railtourguide.com/rail-staff-travel-eurostar/
   type: website
@@ -19,5 +19,5 @@ Pour obtenir un devis, veuillez remplir le formulaire en ligne et vous inscrire 
 
 **Des frais de réservation sont facturés par réservation :**
 
-- Paiement par virement bancaire : 5 £.
+- Paiement par virement bancaire : 5 £ ou 5 €.
 - Paiement par carte de crédit : 10 £.

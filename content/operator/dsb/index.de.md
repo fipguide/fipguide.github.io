@@ -188,12 +188,6 @@ FIP-Angebote sind nicht gültig in Øresundståg-Zügen von Københavns Hovedban
 
 FIP 50 Tickets können nicht zwischen Bahnhöfen im Großraum Kopenhagen oder im Raum Aarhus-Grenaa ausgestellt werden. Nur Fahrten über diese Regionen hinaus sind möglich. FIP Freifahrtscheine sind hingegen auch bei Fahrten nur innerhalb dieser Regionen gültig.
 
-### Nutzung von Fähren
-
-{{% highlight inofficial %}}
-Angeblich sind FIP 50 Tickets gültig auf Fähren von Scandlines in Verbindung mit einer Zugreise durch Dänemark. Jedoch konnte dies bisher nicht von uns bestätigt werden. [^1]
-{{% /highlight %}}
-
 ### Anschlüsse – AJC
 
 Dieser Betreiber ist Teil des AJC (Agreement on Journey Continuation). [Weitere Informationen im FAQ.](/general/faq/#ajc)
