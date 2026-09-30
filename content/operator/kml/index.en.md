@@ -30,7 +30,7 @@ For journeys with different operators within Poland, either a continuous FIP 50 
 
 KMŁ does not differentiate between train categories. The trains are indicated in the timetable with the abbreviation "KMŁ" at the beginning, followed by a specific train number. Line numbers do exist but are usually not displayed in the timetable. Only 2nd class tickets are offered, as there is no 1st class on KMŁ trains. Additionally, there is no possibility to make reservations.
 
-Whether FIP tickets are also valid on KMŁ buses is currently unknown to us. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
+FIP tickets are not valid on buses operated by KMŁ.[^2] On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 ## Ticket and Reservation Purchase
 
@@ -67,3 +67,5 @@ Travel highlights with KMŁ include the well-known amusement park Energylandia (
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
+
+[^2]: [Feedback via email](https://github.com/fipguide/fipguide.github.io/issues/1220)
