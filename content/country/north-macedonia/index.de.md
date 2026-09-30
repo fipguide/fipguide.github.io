@@ -17,8 +17,6 @@ Nordmazedonien hat ein Streckennetz von 925 Kilometern in Normalspur, welches mi
 Es gibt keinen Taktverkehr, sondern ur einzelne Züge, welche in größeren zeitlichen Abständen zueinander verkehren. Viele Verbindungen starten bzw. enden in Skopje.
 Als verkehrstechnisch bedeutsamste Strecke gilt die Nord-Süd-Route durch Skopje, jedoch bietet diese keine ausgeprägte touristisches Besonderheitsmerkmale. Der Schienenverkehr hat insgesamt einen geringen Stellenwert im Land – das Bussystem dominiert den öffentlichen Nahverkehr.
 
-Die ŽRSM betreibt seit 2015 mit den Baureihe MŽ 411 und MŽ 711 als erstes Eisenbahnverkehrsunternehmen in Europa Züge des chinesischen Herstellers CRRC.
-
 ## Anreise und Grenzpunkte
 
 {{% expander "Grenzpunkte" border %}}

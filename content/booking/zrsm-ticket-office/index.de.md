@@ -38,7 +38,7 @@ Falls man kein Ticket hat, beträgt die Gebühr für den Zugang zum Warteraum od
 
 Am ŽRSM Ticketschalter können FIP 50 Fahrkarten für Reisen für von der ŽRSM betriebenen Zügen erworben werden.
 
-Auf der ŽRSM Website ist eine [Preisübersicht für Normalpreise](https://mzt.mk/wp-content/uploads/2021/08/%D0%A6%D0%95%D0%9D%D0%90-%D0%9D%D0%90-%D0%92%D0%9E%D0%97%D0%95%D0%9D-%D0%91%D0%98%D0%9B%D0%95%D0%A2.pdf) veröfentlicht. Die entsprechende Relation ist anhand der Tabelle zu ermitteln, um den Fahrpreis (in Denar) zu bestimmen. FIP 50 Fahrkarten werden mit 50 % Rabatt auf den Normalpreis verkauft.
+Auf der ŽRSM Website ist eine [Preisübersicht für Normalpreise](https://mzt.mk/wp-content/uploads/2021/08/%D0%A6%D0%95%D0%9D%D0%90-%D0%9D%D0%90-%D0%92%D0%9E%D0%97%D0%95%D0%9D-%D0%91%D0%98%D0%9B%D0%95%D0%A2.pdf) veröfentlicht. Die entsprechende Relation ist anhand der Tabelle zu ermitteln, um den Fahrpreis (in Denar) zu bestimmen. Wir vermuten, dass der Preis für FIP ermäßigte Tickets bei 50% der Normalpreise liegt.
 
 {{% /booking-section %}}
 
@@ -47,8 +47,6 @@ Auf der ŽRSM Website ist eine [Preisübersicht für Normalpreise](https://mzt.m
 ## Reservierungen
 
 Am ŽRSM Ticketschalter können Sitzplatzreservierungen für eine Gebühr von 27 MKD pro Sitzplatz vorgenommen werden.[^1]
-
-Im Internationalen Bahnverkehr können Tickets und Reservierungen für Sitz-, Liege- und Schlafwagen bis zwei Monate im Voraus erworben werden. Diese können ausschließlich am internationalen Ticketschalter in Skopje erworben werden. [Kontakttelefon](+389 25201902).[^2]
 Auf der Strecke Skopje–Belgrad beträgt der Preis für einen einzelnen Schlafplatz 371,00 Denar.[^3]
 
 Der reservierte Sitzplatz wird spätestens 15 Minuten nach Abfahrt des Zuges von dem Bahnhof, für den die Reservierung vorgenommen wurde, eingenommen. Wird der Sitzplatz nicht innerhalb dieser Zeit in Anspruch genommen, gilt er als für andere Fahrgäste frei.[^2]
