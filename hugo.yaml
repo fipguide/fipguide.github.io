@@ -82,5 +82,6 @@ cascade:
 
 params:
   gitHubUrl: "https://github.com/fipguide/fipguide.github.io"
+  taxationRemoteBaseURL: "https://fipguide.gitpages.tech.rz.db.de/taxation/"
 
 taxonomies: {}

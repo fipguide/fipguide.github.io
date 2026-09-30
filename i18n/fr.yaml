@@ -172,6 +172,7 @@ highlight:
   confusion: Risque de confusion
   important: Informations importantes
   inofficial: Informations non officielles
+  success: Succès
   tip: Conseil personnel
 home-page-text: Page d'accueil du FIP Guide
 identify-operator:
@@ -258,6 +259,84 @@ support:
     Le Guide FIP est un projet Open Source. Les informations peuvent être
     modifiées directement via notre [dépôt
     GitHub](https://github.com/fipguide/fipguide.github.io).
+taxation:
+  add:
+    admission: Ajouter un avantage imposable
+    month: Ajouter un mois
+    national: Ajouter une réduction nationale
+    operator: Ajouter un opérateur
+  card-persons:
+    plural: '{{ .Count }} personnes'
+    single: 1 personne
+  category:
+    admission: Autres
+    international: Coupons FIP internationaux
+    national: Réductions nationales
+  children: Enfants
+  decrease: Diminuer
+  distribution: Répartition
+  field-count-heading: Champs par personne
+  first-class: 1re classe
+  highlight-important: Avertissement
+  increase: Augmenter
+  intranet-only-warning: |-
+    Le calculateur d’imposition n’est accessible que depuis l’intranet de la
+    Deutsche Bahn.
+
+    Votre navigateur vous demande donc si d’autres appareils du réseau local
+    peuvent être utilisés – veuillez choisir « Autoriser » afin que le
+    calculateur d’imposition puisse se charger.
+  loading: Chargement …
+  lock: Définir l’attribution
+  no-first-class: 2nde classe uniquement
+  optimization-month: Mois
+  optimize: Optimiser
+  other-placeholder: Saisir le montant en €
+  person: Personne
+  person-limit: Nombre de personnes
+  person-limit-not-supported-warning: >-
+    Un ou plusieurs des opérateurs sélectionnés ne prennent pas en charge les
+    coupons pour les ayants droit. Le calcul pour ces opérateurs est effectué
+    avec une seule personne.
+  person-one: Personne
+  person-other: Personnes
+  planning: Planification et optimisation
+  planning-description: |
+    Ici, vous pouvez répartir de manière optimale vos coupons sur plusieurs mois
+    grâce à la fonction « Optimiser ».
+
+    Si vous avez besoin d’un coupon au cours d’un mois donné, vous pouvez le
+    déplacer par glisser-déposer. Il sera alors définitivement attribué à ce
+    mois, jusqu’à ce que vous supprimiez cette attribution à l’aide du cadenas.
+    La fonction « Optimiser » tient compte de votre attribution et adapte en
+    conséquence la répartition des autres coupons.
+  planning-focus: Optimiser les impôts
+  price-per:
+    field: par champ
+    ticket: par billet
+  remove: Supprimer
+  reset: Réinitialiser
+  second-class: 2nde classe
+  sum: Total
+  summary:
+    all-assigned-ok: >-
+      Tous les coupons sont répartis par mois et aucun mois ne dépasse {{
+      .Threshold }} €.
+    all-assigned-over-month: >-
+      Tous les coupons sont attribués, mais au moins un mois dépasse le seuil de
+      {{ .Threshold }} €. Dans ce cas, le montant mensuel complet est imposable,
+      et pas seulement la part au-dessus du seuil.
+    over-limit-unassigned: >-
+      Le total dépasse le seuil de {{ .Threshold }} €. Le montant mensuel
+      complet est imposable, et pas seulement la part au-dessus du seuil.
+      Répartissez le montant sur plusieurs mois pour optimiser la charge
+      fiscale.
+    under-limit: >-
+      Le total reste dans la limite du seuil de {{ .Threshold }} €. Aucune
+      imposition supplémentaire ne s’applique.
+  ticket-count-heading: Nombre de billets
+  unassigned: Non attribué
+  unlock: Supprimer l’attribution
 teamMembers:
   lennart:
     name: Lennart Rommeiß

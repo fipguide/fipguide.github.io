@@ -268,7 +268,7 @@ With FIP 50 and FIP Global Fare tickets, the journey may not be interrupted alon
 
 FIP discounts also apply to the narrow-gauge network of Renfe Feve (Ferrocarriles de Vía Estrecha) between Ferrol and Bilbao in northern Spain.
 
-### Connections - AJC
+### Connections – AJC
 
 This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
 

@@ -228,6 +228,10 @@ Students under 26 years old and seniors aged 62 and over from the EU, as well as
 
 A break in the journey is only possible for distances of 101 km and more.
 
+### Connections – AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ### Rail Replacement Services
 
 On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
