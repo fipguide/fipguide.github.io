@@ -234,9 +234,21 @@ FIP Fahrkarten sind im ÖBB Postbus nicht gültig. In Bussen des Schienenersatzv
 
 ### Online
 
-{{% booking id="oebb-website"
-    brennerzuschlag=true
-/%}}
+{{% booking id="oebb-website" %}}
+
+##### Brennerzuschlag
+
+{{% float-image
+src="oebb_brennerzuschlag.webp"
+alt="Angebotsdetails Brennerzuschlag"
+width="25%"
+position="right"
+%}}
+Während der Buchung musst du bei der Auswahl der Reisenden unter "Ermässigung hinzufügen" die Option "Interrail / Eurail – Globalpass" wählen. Bei der anschließenden Verbindungsauswahl ist die Ticketoption "Aufpreis Brennerverkehr Passzuschlag 1" zu wählen.
+
+Laut den Angebotsdetails ist das Angebot für Fahrgäste, die für die gesamte Strecke einen Pass (Interrail, Eurail, Netzkarten, etc.) besitzen. Dies umfasst auch FIP-Freifahrtscheine.
+{{% /float-image %}}
+{{% /booking %}}
 
 {{% booking id="db-website" %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
@@ -309,7 +321,7 @@ Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 21 €. \
 
 ### Züge nach Italien
 
-Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
+Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann [online](#oebb-website), im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
 
 #### Brenner – Bozen – Verona - Venedig/Ancona/Bologna
 

@@ -244,7 +244,21 @@ Railjet(Xpress) trains have special class categories:
 
 ### Online
 
-{{% booking id="oebb-website" /%}}
+{{% booking id="oebb-website" %}}
+
+##### Brenner Supplement
+
+{{% float-image
+src="oebb_brennerzuschlag.webp"
+alt="Brenner supplement offer details"
+width="25%"
+position="right"
+%}}
+When booking, you must select the "Interrail Globalpass" option under "Add discount" when choosing the passengers. During the subsequent connection selection, choose the ticket option "Aufpreis Brennerverkehr Passzuschlag 1".
+
+According to the offer details, this offer is intended for passengers who hold a pass (Interrail, Eurail, network passes, etc.) valid for the entire journey. This also includes FIP Coupons.
+{{% /float-image %}}
+{{% /booking %}}
 
 {{% booking id="db-website" %}}
 Reservations for direct trains are cheaper via ÖBB.
@@ -317,7 +331,7 @@ With children, the ÖBB Vorteilscard Family for € 21 is quickly worthwhile. \
 
 ### Trains to Italy
 
-On international long-distance services from Austria to Italy, ÖBB FIP Coupons are also accepted in the Italian section in addition to FS FIP Coupons (not on regional services), but a supplement must be paid for both. This can be purchased on board or at ÖBB ticket counters.
+On international long-distance services from Austria to Italy, ÖBB FIP Coupons are also accepted in the Italian section in addition to FS FIP Coupons (not on regional services), but a supplement must be paid for both. This can be purchased [online](#oebb-website), on board or at ÖBB ticket counters.
 
 #### Brenner – Bolzano – Verona – Venice/Ancona/Bologna
 
