@@ -440,6 +440,10 @@ Les billets pour les trains régionaux non liés à un train (_non prenotabile_)
 
 L’interruption de voyage n’est pas autorisée dans les trains longue distance. Dans les trains régionaux, elle est possible sans formalités, sauf pour les Billets FIP 50 liés à un train spécifique avec numéro de train imprimé (voir [Billets liés à un train dans les trains régionaux](#billets-liés-à-un-train-dans-les-trains-régionaux)).
 
+### Correspondances – AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ### Services de remplacement ferroviaire
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
