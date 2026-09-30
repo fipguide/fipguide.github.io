@@ -551,19 +551,6 @@ Sitzplatzreservierungen können [Online auf der Centovalli Website](https://pren
 {{% /train-category %}}
 
 {{% train-category
-    id="stb"
-    title="Sensetalbahn (STB)"
-    type="regional"
-    fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
-%}}
-
-Die Sensetalbahn betrieb die Strecke Flamatt – Laupen – Gümmenen, die heute jedoch durch die BLS betrieben wird. Es ist daher fraglich, ob die STB hier noch aufzuführen ist.
-
-{{% /train-category %}}
-
-{{% train-category
     id="szu"
     title="Sihltal Zürich Uetliberg Bahn (SZU)"
     type="regional"
