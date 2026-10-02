@@ -244,7 +244,21 @@ Dans les Railjet(Xpress) :
 
 ### En ligne
 
-{{% booking id="oebb-website" /%}}
+{{% booking id="oebb-website" %}}
+
+##### Supplément Brenner
+
+{{% float-image
+src="oebb_brennerzuschlag.webp"
+alt="Détails de l'offre de supplément Brenner"
+width="25%"
+position="right"
+%}}
+Lors de la réservation, vous devez sélectionner l'option « Interrail Globalpass » dans la rubrique « Add discount » au moment de choisir les passagers. Lors de l'étape suivante de sélection de la liaison, choisissez l'option de billet « Aufpreis Brennerverkehr Passzuschlag 1 ».
+
+Selon les modalités de l'offre, celle-ci s'adresse aux passagers titulaires d'un pass (Interrail, Eurail, pass réseau, etc.) valable pour l'intégralité du trajet. Cela inclut également les coupons FIP.
+{{% /float-image %}}
+{{% /booking %}}
 
 {{% booking id="db-website" %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
@@ -317,15 +331,15 @@ La carte ÖBB Vorteilscard Family à 21 € est vite rentabilisée avec enfants.
 
 ### Trains vers l’Italie
 
-Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les Coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des Coupons FIP FS (pas sur les trains régionaux), mais un supplément doit être payé pour les deux. Ce supplément peut être acheté à bord ou aux guichets ÖBB.
+Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les Coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des Coupons FIP FS (pas sur les trains régionaux), mais un supplément doit être payé pour les deux. Ce supplément peut être acheté [en ligne](#oebb-website), à bord ou aux guichets ÖBB.
 
 #### Brenner – Bozen – Vérone – Venise/Ancône/Bologne
 
-Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `EC` et `RJ`. Pour les trajets à destination ou en provenance de l’Italie, ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ʳᵉ classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
+Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `EC` et `RJ`. Pour les trajets à destination ou en provenance de l’Italie, ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ʳᵉ classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validité-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
 
 #### Railjet Tarvisio Boscoverde – Venise
 
-Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `RJ`. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ère classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
+Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `RJ`. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ère classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validité-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
 
 ### Ligne REX63 (Pamhagen – Neusiedl am See)
 
