@@ -195,6 +195,24 @@ FIP gilt nur eingeschränkt in `RER` Zügen, siehe [Züge im Großraum Paris](#z
 {{% /train-category %}}
 
 {{% train-category
+    id="lex"
+    title="Léman-Express (LEX / L)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.lemanexpress.com/de/die-6-lex-linien/"
+%}}
+
+Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF.
+
+In der Fahrplanauskunft der SNCF werden Verbindungen des Léman Express als `LEX` + Liniennummer (L1, L2, usw.) angezeigt. In der Fahrplanauskunft der SBB werden die Züge manchmal als `RL` angezeigt, teilweise auch als `TER`.
+
+Innerhalb Frankreichs und innerhalb der Schweiz gelten FIP Vergünstigungen wie gewohnt. Auf grenzüberschreitenden Fahrten gilt kein FIP, stattdessen müssen Normalpreistickets erworben werden. [^7]
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"
@@ -501,3 +519,5 @@ Die SNCF ist nicht die einfachste Bahngesellschaft, was FIP betrifft, da in viel
 [^5]: [FIP Guide Community: ICE Frankfurt–Bordeaux](https://discord.com/channels/1250522473188032512/1482738819982950462)
 
 [^6]: [SNCF Connect – Angebote für Kinder und Familien](https://www.sncf-connect.com/en-en/help/offer-children-and-families#ancre-11001)
+
+[^7]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
