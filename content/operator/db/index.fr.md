@@ -62,6 +62,10 @@ Par le passé, une obligation de réservation existait en été pour les trajets
 
 Trains à grande vitesse transfrontaliers de la SNCF en coopération avec la DB. Ils relient Francfort, Mannheim, Karlsruhe, Sarrebruck, Stuttgart et Munich à Paris.
 
+{{< highlight confusion >}}
+Quelques trains `TGV` circulent de Paris à Fribourg et sont entièrement exploités par la SNCF, y compris en Allemagne. Pour ces trains, seule la SNCF est indiquée comme exploitant, voir [Identifier l’exploitant du train et rechercher des liaisons](#informations-fip). Dans ces trains, les Coupons FIP DB et les réductions nationales pour les employés DB ne sont pas valables en Allemagne. À la place, des billets au Tarif Global FIP de la SNCF peuvent être achetés.
+{{< /highlight >}}
+
 #### Réservations
 
 Réservation obligatoire pour les trajets transfrontaliers vers la France.
@@ -322,7 +326,13 @@ Les billets FIP 50 ne peuvent pas être achetés à bord.
 
 ## Réductions
 
-Pour les tarifs publics, les enfants jusqu’à 6 ans voyagent gratuitement, les enfants de 6 à 14 ans bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 14 ans, le tarif adulte s’applique.
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                |
+| ---------------------------------------- | ---------------------------------------- |
+| {{< icon "child_care" >}} 0–5 ans        | Gratuit                                  |
+| {{< icon "child_care" >}} 6–14 ans       | Réduction de 50 %, si voyageant seul[^3] |
+| {{< icon "person" >}} à partir de 15 ans | Tarif normal[^3]                         |
 
 ### Enfants voyageant gratuitement
 
@@ -347,19 +357,6 @@ Les enfants de moins de 6 ans voyagent toujours gratuitement et n’ont pas beso
 
 Dans le Nordhessischer Verkehrsverbund (NVV), aucune réduction pour les employés de la DB n’est reconnue dans le trafic régional. Les réductions FIP ne sont donc pas valables.
 Une [carte d’aperçu](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Liniennetz_Nordhessen_Schematisch.pdf) des lignes régionales concernées est disponible.
-
-### DB Regio Stuttgart
-
-DB Regio Stuttgart (anciennement SWEG Bahn Stuttgart) n’accepte pas les réductions FIP. Cela concerne les lignes suivantes : [^2]
-
-- RE 6 : Tübingen - Stuttgart
-- RE 10a : Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
-- RE 10b : Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
-- RE 12 : Tübingen - Stuttgart - Heilbronn
-- RE 17a : Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
-- RE 17c : Stuttgart - Mühlacker - Bretten - Bruchsal
-- RE 18 : Tübingen - Stuttgart - Heilbronn - Osterburken
-- RE 71 : Mühlacker - Bretten - Bruchsal – Heidelberg
 
 ### DB Regio Bayern
 
@@ -419,12 +416,28 @@ Le 1er août 2026, Regionalverkehre Start GmbH a été intégrée à DB Regio AG
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.[^1]
 
+### Correspondances
+
+#### HOTNAT
+
+Si un train de correspondance est manqué dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle ou Zurich, HOTNAT peut être utilisé.
+
+Cet opérateur fait partie de HOTNAT (Hop on the Next Available Train). [Plus d’informations dans la FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ## Recommandations
 
-La Deutsche Bahn exploite une multitude de liaisons très variées. Par exemple, il est possible d’emprunter le Thüringer Bergbahn entre Obstfelderschmiede et Cursdorf. Les liaisons à travers la Forêt-Noire (Schwarzwaldbahn) ou la vallée du Rhin sur la rive gauche sont aussi très recommandées. En longue distance, il est à noter qu’il y a normalement un restaurant à bord sur chaque liaison ´ICE´. Celui-ci ne propose pas de plats fraîchement cuisinés, mais l’offre est tout de même très variée.
+La Deutsche Bahn exploite une multitude de liaisons très variées. Par exemple, il est possible d’emprunter le Thüringer Bergbahn entre Obstfelderschmiede et Cursdorf. Les liaisons à travers la Forêt-Noire (Schwarzwaldbahn) ou la vallée du Rhin sur la rive gauche sont aussi très recommandées.
+
+En longue distance, il est à noter qu’il y a normalement un restaurant à bord sur chaque liaison ´ICE´. Celui-ci ne propose pas de plats fraîchement cuisinés, mais l’offre est tout de même très variée. Le menu actuel peut être consulté [ici](https://db-bordgastronomie.de/digitalespeisekarte) ; tous les deux mois, de nouveaux plats et boissons de saison sont proposés. À bord des trains « ICE », il est également possible d'utiliser le [portail ICE](https://iceportal.de/uk-international-guests), qui affiche des informations sur le voyage et le menu en temps réel, et propose une multitude de films, de podcasts et de journaux.
 
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782273-germany.html)
 
 [^2]: [DB Mobidig : Où ma réduction de voyage est-elle valable](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)
+
+[^3]: [DB – Votre voyage avec des enfants](https://www.bahn.de/service/individuelle-reise/kinder)

@@ -30,7 +30,7 @@ Bei Fahrten mit verschiedenen Betreibern innerhalb Polens muss entweder ein durc
 
 Die KMŁ unterscheidet nicht in unterschiedliche Zugkategorien. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel "KMŁ" und im Anschluss eine konkrete Zugnummer. Liniennummern sind zwar vorhanden, werden aber in der Verbindungsauskunft meist nicht angezeigt. Es werden nur Tickets der 2. Klasse angeboten, da es in KMŁ-Zügen keine 1. Klasse gibt. Zudem besteht keine Reservierungsmöglichkeit.
 
-Ob auch in den Bussen der KMŁ FIP-Fahrkarten möglich sind, ist uns aktuell nicht bekannt. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
+FIP-Fahrkarten gelten nicht in Bussen, die von der KMŁ betrieben werden.[^2] In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.
 
 ## Ticket- und Reservierungskauf
 
@@ -67,3 +67,5 @@ Reisehighlights mit der KMŁ sind u. a. zum bekannten Freizeitpark Energylandia 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
+
+[^2]: [Feedback via E-Mail](https://github.com/fipguide/fipguide.github.io/issues/1220)

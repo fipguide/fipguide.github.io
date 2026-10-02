@@ -234,7 +234,21 @@ FIP Fahrkarten sind im ÖBB Postbus nicht gültig. In Bussen des Schienenersatzv
 
 ### Online
 
-{{% booking id="oebb-website" /%}}
+{{% booking id="oebb-website" %}}
+
+##### Brennerzuschlag
+
+{{% float-image
+src="oebb_brennerzuschlag.webp"
+alt="Angebotsdetails Brennerzuschlag"
+width="25%"
+position="right"
+%}}
+Während der Buchung musst du bei der Auswahl der Reisenden unter "Ermässigung hinzufügen" die Option "Interrail / Eurail – Globalpass" wählen. Bei der anschließenden Verbindungsauswahl ist die Ticketoption "Aufpreis Brennerverkehr Passzuschlag 1" zu wählen.
+
+Laut den Angebotsdetails ist das Angebot für Fahrgäste, die für die gesamte Strecke einen Pass (Interrail, Eurail, Netzkarten, etc.) besitzen. Dies umfasst auch FIP-Freifahrtscheine.
+{{% /float-image %}}
+{{% /booking %}}
 
 {{% booking id="db-website" %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
@@ -288,7 +302,15 @@ Ein Verkauf von Tickets im Zug ist möglich, wenn der Zugbegleiter sofort aufges
 
 ## Ermäßigungen
 
-Kinder unter 6 werden kostenfrei mitgenommen, ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung          |
+| ------------------------------------ | ------------------- |
+| {{< icon "stroller" >}} 0–5 Jahre    | Kostenlos[^2]       |
+| {{< icon "child_care" >}} 6–14 Jahre | 50% Ermäßigung[^2]  |
+| {{< icon "person" >}} ab 15 Jahre    | Regulärer Preis[^2] |
+
+Ab dem 6. Lebensjahr ist bei Reisen mit FIP Freifahrtschein im Fernverkehr für jedes Kind auch der [Zuschlag](#gültigkeit-fip-tickets) zu bezahlen.
 
 {{% highlight tip %}}
 Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 21 €. \
@@ -299,7 +321,7 @@ Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 21 €. \
 
 ### Züge nach Italien
 
-Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
+Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann [online](#oebb-website), im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
 
 #### Brenner – Bozen – Verona - Venedig/Ancona/Bologna
 
@@ -370,3 +392,5 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
+
+[^2]: [ÖBB – Unterwegs mit Kindern](https://www.oebb.at/de/reiseplanung-services/vor-ihrer-reise/mit-kindern-unterwegs)

@@ -240,7 +240,17 @@ Les Billets FIP 50 ne peuvent pas être achetés à bord. [^1]
 
 ## Réductions
 
-Les enfants de moins de 4 ans voyagent gratuitement. Les enfants entre 4 et 11 ans inclus ont besoin d’un [billet Railrunner](https://www.ns.nl/en/tickets/railrunner) à 2,50 €, valable toute une journée. Alternativement, pour les enfants entre 4 et 11 ans inclus voyageant accompagnés d’un adulte, l’abonnement saisonnier gratuit [« Kids Vrij »](https://www.ns.nl/en/season-tickets/kids-vrij.html) peut être obtenu. Une OV chipkaart est nécessaire à cet effet (frais uniques de 7,50 €). À partir de 12 ans, le tarif FIP adulte normal s’applique.
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                                                                         |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit                                                                                           |
+| {{< icon "child_care" >}} 4–11 ans       | [Billet Railrunner](https://www.ns.nl/en/tickets/railrunner) à 2,50 € (valable toute une journée) |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal                                                                                      |
+
+### Abonnement gratuit « Kids Vrij »
+
+Alternativement, pour les enfants entre 4 et 11 ans inclus voyageant accompagnés d’un adulte, l’abonnement saisonnier gratuit [« Kids Vrij »](https://www.ns.nl/en/season-tickets/kids-vrij.html) peut être obtenu. Une OV chipkaart est nécessaire à cet effet (frais uniques de 7,50 €).
 
 ## Conditions tarifaires spéciales
 
@@ -255,6 +265,18 @@ Ce n’est pas un billet, mais un badge d’accès, valable :
   - Jusqu’à 12 passages en tout par jour.
 
 Si nécessaire, un nouveau coupon d’accès peut être demandé au guichet NS.
+
+### Correspondances
+
+#### HOTNAT
+
+Si un train de correspondance est manqué dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle ou Zurich, HOTNAT peut être utilisé.
+
+Cet opérateur fait partie de HOTNAT (Hop on the Next Available Train). [Plus d’informations dans la FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 
 ## Recommandations
 

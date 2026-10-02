@@ -61,7 +61,7 @@ Trains s’arrêtant à toutes les stations. Dans les zones urbaines, également
     reservation_possible=true
 %}}
 
-Le GoldenPassExpress est une liaison ferroviaire continue de Montreux à Interlaken Ost, exploitée par la BLS en coopération avec la [MOB](/operator/sp#mob). La MOB exploite le train sur le tronçon à voie métrique entre Montreux et Zweisimmen, et la BLS sur le tronçon à voie normale entre Zweisimmen et Interlaken Ost. Dans les informations de connexion, ces trains sont marqués comme `PE`.
+Le GoldenPass Express est une liaison ferroviaire continue de Montreux à Interlaken Ost, exploitée par la BLS en coopération avec la [MOB](/operator/sp#mob). La MOB exploite le train sur le tronçon à voie métrique entre Montreux et Zweisimmen, et la BLS sur le tronçon à voie normale entre Zweisimmen et Interlaken Ost. Dans les informations de connexion, ces trains sont marqués comme `PE`.
 
 Cela signifie que des Coupons FIP des deux, SP et BLS, doivent être présents pour parcourir l’ensemble du trajet. Les Billets FIP 50 peuvent être réservés en continu.
 
@@ -80,7 +80,7 @@ Un voyage sans réservation de siège n’est possible que s’il reste des plac
     reservation_possible=false
 %}}
 
-Trains motorail sur les lignes Kandersteg – Göppenstein, Brig – Iselle et Kandersteg – Iselle.
+Trains motorail sur les lignes Kandersteg – Goppenstein, Brig – Iselle et Kandersteg – Iselle.
 
 Le FIP n’est pas valable dans ces trains, mais les trains circulant parallèlement du `RE 1` peuvent être utilisés.
 
@@ -154,7 +154,20 @@ L’achat de billets FIP dans le train n’est pas possible. Des frais de pénal
 
 ## Réductions
 
-Pour les trajets réguliers, les enfants jusqu’à 5 ans inclus voyagent gratuitement. Les enfants jusqu’à 15 ans inclus bénéficient d’une réduction de 50 % sur le tarif adulte. Les personnes de 16 ans et plus paient le tarif adulte normal.[^1]
+{{< children-discount >}}
+
+| Âge                                     | Réduction        |
+| --------------------------------------- | ---------------- |
+| {{< icon "child_care" >}} 0–5 ans       | Gratuit[^3]      |
+| {{< icon "person" >}} à partir de 6 ans | Tarif normal[^1] |
+
+### Carte Junior pour Enfants Accompagnés
+
+En outre, il est possible d’acheter une _Carte Junior_ pour 30 CHF. Elle permet à ses propres enfants jusqu’à 15 ans inclus de voyager lorsqu’ils sont accompagnés par un parent. Le parent accompagnateur doit disposer de son propre titre de transport valable pour le trajet (par ex. Coupon FIP ou Billet FIP 50). La Carte Junior peut être achetée sur place auprès des points de vente des transports publics en Suisse. Voir le site web des CFF : [Carte Junior](https://www.sbb.ch/fr/offres/carte-junior).
+
+### Carte Journalière Enfant
+
+Alternativement, la _Carte journalière Enfant_ offre aux enfants de 6 à moins de 16 ans un voyage illimité sur les transports publics pendant une journée pour 19 CHF (2ᵉ classe) ou 33 CHF (1ᵉ classe). Voir le site web des CFF : [Carte journalière Enfant](https://www.sbb.ch/fr/offres/carte-journaliere-enfant).
 
 ## Conditions tarifaires spéciales
 
@@ -171,7 +184,7 @@ Les entreprises ferroviaires suisses SBB et BLS acceptent partiellement les Coup
 
 Cependant, les Coupons FIP de la SBB ne sont pas valables sur les bateaux de la BLS sur le lac de Thoune et le lac de Brienz, ni dans les bus de la BLS, qui circulent principalement dans l’Emmental.
 
-### Correspondances - AJC
+### Correspondances – AJC
 
 Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 
@@ -190,3 +203,5 @@ Les membres de la famille ne sont parfois pas éligibles aux Coupon FIP des SBB.
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)
+
+[^3]: [BLS – Reisen mit Kindern](https://www.bls.ch/de/fahren/fahrgastinformation/familien)

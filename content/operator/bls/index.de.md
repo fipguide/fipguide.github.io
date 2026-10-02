@@ -61,7 +61,7 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
     reservation_possible=true
 %}}
 
-Der GoldenPassExpress ist eine durchgehende Zugverbindung von Montreux bis Interlaken Ost, welcher von der BLS in Kooperation mit der [MOB](/operator/sp#mob) betrieben wird. Die MOB betreibt den Zug im meterspurigen Abschnitt zwischen Montreux und Zweisimmen und die BLS im normalspurigen Abschnitt zwischen Zweisimmen und Interlaken Ost. In der Verbindungsauskunft werden diese Züge als `PE` gekennzeichnet.
+Der GoldenPass Express ist eine durchgehende Zugverbindung von Montreux bis Interlaken Ost, welcher von der BLS in Kooperation mit der [MOB](/operator/sp#mob) betrieben wird. Die MOB betreibt den Zug im meterspurigen Abschnitt zwischen Montreux und Zweisimmen und die BLS im normalspurigen Abschnitt zwischen Zweisimmen und Interlaken Ost. In der Verbindungsauskunft werden diese Züge als `PE` gekennzeichnet.
 
 Das bedeutet, dass Freifahrtscheine sowohl der SP als auch der BLS vorhanden sein müssen, um die komplette Strecke zu befahren. FIP 50 Tickets können durchgehend gebucht werden.
 
@@ -80,9 +80,9 @@ Eine Mitfahrt ohne Sitzplatzreservierung ist nur möglich, wenn noch Plätze fre
     reservation_possible=false
 %}}
 
-Autozüge auf den Strecken Kandersteg – Göppenstein, Brig – Iselle und Kandersteg – Iselle.
+Autozüge auf den Strecken Kandersteg – Goppenstein, Brig – Iselle und Kandersteg – Iselle.
 
-FIP ist in diesen Zügen nicht gültig, jedoch können die parallen fahrenden Züge des `RE 1` genutzt werden.
+FIP ist in diesen Zügen nicht gültig, jedoch können die parallel verkehrenden Züge des `RE 1` genutzt werden.
 
 {{% /train-category %}}
 
@@ -150,11 +150,24 @@ Für die BLS können nur für ausgewählte Verbindungen durchgehende FIP 50 Tick
 
 ### Im Zug
 
-Im Zug ist kein Kauf von FIP-Tickets möglich. Es wird eine Strafgebühr erhoben für Fahrgäste ohne Tickets.
+Im Zug ist der Kauf von FIP-Tickets nicht möglich. Bei einer Reise ohne gültigen Fahrausweis wird zusätzlich zum Fahrpreis ein Zuschlag erhoben.
 
 ## Ermäßigungen
 
-Für reguläre Fahrten reisen Kinder bis einschließlich 5 Jahre kostenlos. Kinder bis einschließlich 15 Jahre erhalten eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Personen ab 16 Jahren zahlen den regulären Erwachsenentarif.[^1]
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung          |
+| ----------------------------------- | ------------------- |
+| {{< icon "child_care" >}} 0–5 Jahre | Kostenlos[^3]       |
+| {{< icon "person" >}} ab 6 Jahre    | Regulärer Preis[^1] |
+
+### Junior-Karte für Begleitete Kinder
+
+Zudem gibt es die Möglichkeit, für eigene Kinder bis einschließlich 15 Jahre eine _Junior-Karte_ für 30 CHF zu erwerben. Diese berechtigt in Begleitung eines Elternteils ein Jahr zur Fahrt im öffentlichen Verkehr in der Schweiz. Der mitreisende Elternteil benötigt für die Fahrt eine eigene gültige Fahrkarte (z. B. FIP Freifahrtschein oder FIP 50 Ticket). Die Junior-Karte kann vor Ort an Verkaufsstellen des öffentlichen Verkehrs in der Schweiz erworben werden. Siehe SBB Website: [Junior-Karte](https://www.sbb.ch/de/angebote/junior-karte).
+
+### Kinder-Tageskarte
+
+Alternativ bietet die _Kinder-Tageskarte_ für 19 CHF (2. Klasse) bzw. 33 CHF (1. Klasse) Kindern von 6 bis unter 16 Jahren einen Tag lang unbeschränkte Fahrt im öffentlichen Verkehr. Siehe SBB Website: [Kinder-Tageskarte](https://www.sbb.ch/de/angebote/kinder-tageskarte).
 
 ## Tarifliche Besonderheiten
 
@@ -190,3 +203,5 @@ Angehörige haben teilweise keine Berechtigung auf FIP Freifahrtscheine der SBB.
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782294-switzerland.html)
 
 [^2]: [FIP Guide Community - Feedback](https://discord.com/channels/1250522473188032512/1448243039398264893)
+
+[^3]: [BLS – Reisen mit Kindern](https://www.bls.ch/de/fahren/fahrgastinformation/familien)

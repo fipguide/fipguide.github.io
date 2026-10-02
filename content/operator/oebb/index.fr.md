@@ -234,7 +234,21 @@ Les Billets FIP ne sont pas valables sur ÖBB Postbus. Dans les bus de remplacem
 
 ### En ligne
 
-{{% booking id="oebb-website" /%}}
+{{% booking id="oebb-website" %}}
+
+##### Supplément Brenner
+
+{{% float-image
+src="oebb_brennerzuschlag.webp"
+alt="Détails de l'offre de supplément Brenner"
+width="25%"
+position="right"
+%}}
+Lors de la réservation, vous devez sélectionner l'option « Interrail Globalpass » dans la rubrique « Add discount » au moment de choisir les passagers. Lors de l'étape suivante de sélection de la liaison, choisissez l'option de billet « Aufpreis Brennerverkehr Passzuschlag 1 ».
+
+Selon les modalités de l'offre, celle-ci s'adresse aux passagers titulaires d'un pass (Interrail, Eurail, pass réseau, etc.) valable pour l'intégralité du trajet. Cela inclut également les coupons FIP.
+{{% /float-image %}}
+{{% /booking %}}
 
 {{% booking id="db-website" %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
@@ -288,7 +302,15 @@ L’achat de billets à bord du train est possible si vous contactez immédiatem
 
 ## Réductions
 
-Les enfants de moins de 6 ans voyagent gratuitement ; à partir de 6 ans, lors d’un voyage avec un Coupon FIP sur les trains grandes lignes, le [supplément](#validite-des-billets-fip) doit être payé pour chaque enfant.
+{{< children-discount >}}
+
+| Âge                                      | Réduction             |
+| ---------------------------------------- | --------------------- |
+| {{< icon "stroller" >}} 0–5 ans          | Gratuit[^2]           |
+| {{< icon "child_care" >}} 6–14 ans       | Réduction de 50 %[^2] |
+| {{< icon "person" >}} à partir de 15 ans | Tarif normal[^2]      |
+
+À partir de 6 ans, lors d’un voyage avec un Coupon FIP sur les trains grandes lignes, le [supplément](#validite-des-billets-fip) doit être payé pour chaque enfant.
 
 {{% highlight tip %}}
 La carte ÖBB Vorteilscard Family à 21 € est vite rentabilisée avec enfants. \
@@ -299,15 +321,15 @@ La carte ÖBB Vorteilscard Family à 21 € est vite rentabilisée avec enfants.
 
 ### Trains vers l’Italie
 
-Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les Coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des Coupons FIP FS (pas sur les trains régionaux), mais un supplément doit être payé pour les deux. Ce supplément peut être acheté à bord ou aux guichets ÖBB.
+Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les Coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des Coupons FIP FS (pas sur les trains régionaux), mais un supplément doit être payé pour les deux. Ce supplément peut être acheté [en ligne](#oebb-website), à bord ou aux guichets ÖBB.
 
 #### Brenner – Bozen – Vérone – Venise/Ancône/Bologne
 
-Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `EC` et `RJ`. Pour les trajets à destination ou en provenance de l’Italie, ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ʳᵉ classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
+Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `EC` et `RJ`. Pour les trajets à destination ou en provenance de l’Italie, ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ʳᵉ classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validité-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
 
 #### Railjet Tarvisio Boscoverde – Venise
 
-Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `RJ`. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ère classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
+Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `RJ`. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ère classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validité-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
 
 ### Ligne REX63 (Pamhagen – Neusiedl am See)
 
@@ -351,6 +373,18 @@ Les trains grandes lignes ÖBB circulent entre Salzbourg et Kufstein sur le rés
 
 Arrêts intermédiaires sont possible uniquement pour les distances de 101 km ou plus et ne nécessite aucune formalité supplémentaire.
 
+### Correspondances
+
+#### HOTNAT
+
+Si un train de correspondance est manqué dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle ou Zurich, HOTNAT peut être utilisé.
+
+Cet opérateur fait partie de HOTNAT (Hop on the Next Available Train). [Plus d’informations dans la FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ### Services de remplacement ferroviaire
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
@@ -358,3 +392,5 @@ Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lors
 ## Sources
 
 [^1]: [Rail Delivery Group – Europe & FIP](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
+
+[^2]: [ÖBB – Voyager avec des enfants](https://www.oebb.at/en/reiseplanung-services/vor-ihrer-reise/mit-kindern-unterwegs)

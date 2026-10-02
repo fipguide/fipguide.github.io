@@ -234,7 +234,21 @@ FIP Tickets are not valid on ÖBB Postbus. On rail replacement buses, FIP discou
 
 ### Online
 
-{{% booking id="oebb-website" /%}}
+{{% booking id="oebb-website" %}}
+
+##### Brenner Supplement
+
+{{% float-image
+src="oebb_brennerzuschlag.webp"
+alt="Brenner supplement offer details"
+width="25%"
+position="right"
+%}}
+When booking, you must select the "Interrail Globalpass" option under "Add discount" when choosing the passengers. During the subsequent connection selection, choose the ticket option "Aufpreis Brennerverkehr Passzuschlag 1".
+
+According to the offer details, this offer is intended for passengers who hold a pass (Interrail, Eurail, network passes, etc.) valid for the entire journey. This also includes FIP Coupons.
+{{% /float-image %}}
+{{% /booking %}}
 
 {{% booking id="db-website" %}}
 Reservations for direct trains are cheaper via ÖBB.
@@ -288,7 +302,15 @@ Tickets can be purchased on board if you immediately contact the conductor. Howe
 
 ## Discounts
 
-Children under 6 travel free of charge. From the age of 6, when traveling with a FIP Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
+{{< children-discount >}}
+
+| Age                                  | Discount           |
+| ------------------------------------ | ------------------ |
+| {{< icon "stroller" >}} 0–5 years    | Free of charge[^2] |
+| {{< icon "child_care" >}} 6–14 years | 50% discount[^2]   |
+| {{< icon "person" >}} from 15 years  | Regular price[^2]  |
+
+From the age of 6, when traveling with a FIP Coupon on long-distance trains, the [supplement](#validity-of-fip-tickets) must also be paid for each child.
 
 {{% highlight tip %}}
 With children, the ÖBB Vorteilscard Family for € 21 is quickly worthwhile. \
@@ -299,7 +321,7 @@ With children, the ÖBB Vorteilscard Family for € 21 is quickly worthwhile. \
 
 ### Trains to Italy
 
-On international long-distance services from Austria to Italy, ÖBB FIP Coupons are also accepted in the Italian section in addition to FS FIP Coupons (not on regional services), but a supplement must be paid for both. This can be purchased on board or at ÖBB ticket counters.
+On international long-distance services from Austria to Italy, ÖBB FIP Coupons are also accepted in the Italian section in addition to FS FIP Coupons (not on regional services), but a supplement must be paid for both. This can be purchased [online](#oebb-website), on board or at ÖBB ticket counters.
 
 #### Brenner – Bolzano – Verona – Venice/Ancona/Bologna
 
@@ -351,6 +373,18 @@ Apart from the supplement for the FIP Coupon, there is no distinction between lo
 
 Interrupting a journey is only possible for distances of 101 km or more and does not require additional formalities.
 
+### Connections
+
+#### HOTNAT
+
+If a connecting train is missed at the stations Paris, Brussels, Cologne, Munich, Basel, or Zurich, HOTNAT can be used.
+
+This operator is part of HOTNAT (Hop on the Next Available Train). [More information in the FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ### Rail Replacement Services
 
 On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
@@ -358,3 +392,5 @@ On rail replacement buses, FIP discounts apply when they replace a train on whic
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
+
+[^2]: [ÖBB – Travelling with children](https://www.oebb.at/en/reiseplanung-services/vor-ihrer-reise/mit-kindern-unterwegs)
