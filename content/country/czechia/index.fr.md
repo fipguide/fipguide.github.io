@@ -11,7 +11,7 @@ params:
     - RegioJet
     - Trilex / Die Länderbahn
 content_images:
-  - image.en.webp
+  - image.webp
 ---
 
 ## Informations FIP
