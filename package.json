@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.html",
   "scripts": {
+    "build:admin": "vite build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,11 +22,13 @@
     "@fontsource/sansita": "^5.3.0",
     "@material-symbols/svg-700": "^0.47.5",
     "@panzoom/panzoom": "^4.6.2",
-    "@sveltia/cms": "^0.220.0",
-    "pagefind": "^1.5.2"
+    "@sveltia/cms": "^0.221.1",
+    "pagefind": "^1.5.2",
+    "react": "19.3.0"
   },
   "devDependencies": {
     "prettier": "^3.9.9",
-    "prettier-plugin-go-template": "^0.0.15"
+    "prettier-plugin-go-template": "^0.0.15",
+    "vite": "7.3.6"
   }
 }
