@@ -143,7 +143,7 @@ For travellers through several Balkan countries, the Balkan Flexipass could be w
 
 - Bosnia and Herzegovina (ZFBH),
 - Bulgaria (BDZ),
-- North Macedonia (MŽ-Transport),
+- North Macedonia (ŽRSM),
 - Greece (HT & Attica),
 - Montenegro (ŽPCG),
 - Romania (CFR Calatori & Regiotrans),

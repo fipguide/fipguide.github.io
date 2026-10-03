@@ -3,8 +3,8 @@
     | replaceRE "<br>" "<br aria-hidden=\"true\">"
     | replaceRE "z. B. " "z.&nbsp;B.&nbsp;"
     | replaceRE "FIP 50" "FIP&nbsp;50"
-    | replaceRE "([0-9]+) (€|DKK|CHF|CZK|£|PLN|HUF|RON)" "${1}&nbsp;${2}"
-    | replaceRE "(€|DKK|CHF|CZK|£|PLN|HUF|RON) ([0-9]+)" "${1}&nbsp;${2}"
+    | replaceRE "([0-9]+) (€|DKK|CHF|CZK|£|PLN|HUF|RON|MKD)" "${1}&nbsp;${2}"
+    | replaceRE "(€|DKK|CHF|CZK|£|PLN|HUF|RON|MKD) ([0-9]+)" "${1}&nbsp;${2}"
     | safeHTML
   }}
 {{- end -}}
