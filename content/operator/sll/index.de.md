@@ -4,6 +4,8 @@ country:
   - ireland
   - united-kingdom
 operator: sll
+content_images:
+  - image.webp
 aliases:
   - /booking/stena-line-limited-email
   - /booking/stena-line-limited-phone
