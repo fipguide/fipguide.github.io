@@ -19,9 +19,9 @@
   "dependencies": {
     "@fontsource/roboto": "^5.3.0",
     "@fontsource/sansita": "^5.3.0",
-    "@material-symbols/svg-700": "^0.47.5",
+    "@material-symbols/svg-700": "^0.47.6",
     "@panzoom/panzoom": "^4.6.2",
-    "@sveltia/cms": "^0.220.0",
+    "@sveltia/cms": "^0.227.3",
     "pagefind": "^1.5.2"
   },
   "devDependencies": {
