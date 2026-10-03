@@ -50,6 +50,8 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "npm ci"
+      - name: Build admin CMS
+        run: "npm run build:admin"
       - name: Cache Hugo Resources
         uses: actions/cache@v4
         with:
