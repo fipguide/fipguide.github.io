@@ -4,7 +4,6 @@ country: lithuania
 params:
   operators_without_fip:
     - Aukštaitijos siaurasis geležinkelis (heritage railway)
-
 content_images:
   - image.webp
 ---

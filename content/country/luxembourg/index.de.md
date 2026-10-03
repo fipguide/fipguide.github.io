@@ -1,7 +1,6 @@
 ---
 title: Luxemburg
 country: luxembourg
-
 content_images:
   - image.webp
 ---

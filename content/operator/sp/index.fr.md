@@ -5,7 +5,6 @@ country:
   - switzerland
   - italy
 operator: sp
-
 content_images:
   - image.webp
 ---

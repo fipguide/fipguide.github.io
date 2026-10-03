@@ -10,7 +10,6 @@ country:
   - pays-bas
 operator:
   - sncb
-
 content_images:
   - image.webp
 ---

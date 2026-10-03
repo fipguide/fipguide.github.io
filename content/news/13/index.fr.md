@@ -6,7 +6,6 @@ country:
   - denmark
 operator:
   - dsb
-
 content_images:
   - image.webp
 ---

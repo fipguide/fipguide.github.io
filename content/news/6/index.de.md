@@ -7,7 +7,6 @@ country:
   - switzerland
 operator:
   - sp
-
 content_images:
   - image.webp
 ---

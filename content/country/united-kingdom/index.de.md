@@ -19,7 +19,6 @@ params:
     - Tyne and Wear Metro
     - Wightlink ferry (Portsmouth Harbour nach Ryde Pier Head station auf der
       Isle of Wight)
-
 content_images:
   - image.webp
 ---

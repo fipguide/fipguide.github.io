@@ -5,7 +5,6 @@ params:
   operators_without_fip:
     - European Sleeper
     - OUIGO
-
 content_images:
   - image.webp
 ---

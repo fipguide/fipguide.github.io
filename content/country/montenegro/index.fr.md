@@ -1,7 +1,6 @@
 ---
 title: Monténégro
 country: montenegro
-
 content_images:
   - image.webp
 ---

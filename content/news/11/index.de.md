@@ -8,7 +8,6 @@ country:
   - united-kingdom
 operator:
   - gb
-
 content_images:
   - image.webp
 ---

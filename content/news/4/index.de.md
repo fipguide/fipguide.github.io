@@ -11,7 +11,6 @@ country:
   - united-kingdom
 operator:
   - eurostar
-
 content_images:
   - image.webp
 ---

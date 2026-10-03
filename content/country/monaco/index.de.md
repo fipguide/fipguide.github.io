@@ -1,7 +1,6 @@
 ---
 title: Monaco
 country: monaco
-
 content_images:
   - image.webp
 ---

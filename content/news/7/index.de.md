@@ -3,7 +3,6 @@ date: 2025-11-12
 title: "Jetzt verfügbar: FIP Guide Community"
 description: Ab sofort bietet die FIP Guide Community einen Ort zum Austauschen
   und Fragen stellen zu FIP.
-
 content_images:
   - image.webp
 ---

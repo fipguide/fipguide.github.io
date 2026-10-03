@@ -9,7 +9,6 @@ country:
   - netherlands
 operator:
   - sncb
-
 content_images:
   - image.webp
 ---
