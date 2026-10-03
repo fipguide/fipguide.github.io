@@ -53,11 +53,13 @@ Coût : \
 
 Trains rapides nationaux et internationaux de la catégorie la plus élevée des ÖBB. Ils relient régulièrement les principales villes autrichiennes, ainsi que l’Allemagne, l’Italie, la Tchéquie, la Hongrie, la Slovaquie et la Suisse. Trois classes de confort et un bistro à bord. Les Railjet avec moins d’arrêts sont commercialisés comme Railjet Xpress.
 
-Il existe trois classes de voitures :
+Il existe trois classes de voyage :
 
 - **Economy** : Comparable à la 2ᵉ classe. En Allemagne, les billets de 2ᵉ classe sont valables dans cette classe
 - **First Class** : Comparable à la 1ʳᵉ classe. Une Carte FIP pour la 1ʳᵉ classe est nécessaire. En Allemagne, les billets de 1ʳᵉ classe sont valables dans cette classe
 - **Business** : 1ʳᵉ classe avec boisson de bienvenue (à partir de l’Autriche / République tchèque) et compartiments privés. Non accessible avec le FIP Coupon hors d’Allemagne, même avec le supplément correspondant. En Allemagne, ces espaces sont accessibles avec un billet de 1ʳᵉ classe.
+
+[Aperçu détaillé des classes sur le site web des ÖBB](https://www.oebb.at/en/reiseplanung-services/im-zug/abteile-komfortklassen)
 
 Pour les Railjet vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](#conditions-tarifaires-spéciales).
 
@@ -229,16 +231,6 @@ Exemples :
 Les Billets FIP ne sont pas valables sur ÖBB Postbus. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 {{% /train-category %}}
-
-## Catégories de classes
-
-Dans les Railjet(Xpress) :
-
-- **Economy** = 2ᵉ classe
-- **First Class** = 1ʳᵉ classe (nécessite un Coupon FIP 1ʳᵉ)
-- **Business** = classe 1ʳᵉ premium avec boisson de bienvenue — non valable avec FIP
-
-[Détails des classes ÖBB](https://www.oebb.at/en/reiseplanung-services/im-zug/abteile-komfortklassen)
 
 ## Achat de billets et réservations
 

@@ -53,11 +53,13 @@ Cost: \
 
 National and international high-speed trains of ÖBB’s highest category. They run regularly between Austria’s major cities and to Germany, Italy, Czech Republic, Hungary, Slovakia, and Switzerland. Trains have 3 classes and a bistro. Railjets with fewer stops are marketed as Railjet Xpress.
 
-There are three classes:
+There are three classes in the Railjet:
 
 - **Economy**: Comparable to 2nd class. Within Germany, 2nd class tickets are valid in this class.
 - **First Class**: Comparable to 1st class. A FIP Card for 1st class is required. Within Germany, 1st class tickets are valid in this class.
 - **Business**: 1st class with welcome drink (only from Austria / Czech Republic) and separate compartments. Not usable with FIP Coupon outside Germany, even with the corresponding surcharge. Within Germany, these areas can be used with a 1st class ticket.
+
+[Detailed overview of the classes on the ÖBB website](https://www.oebb.at/en/reiseplanung-services/im-zug/abteile-komfortklassen)
 
 For Railjets to Italy, a supplement is payable from the Italian border. See [Special Tariff Conditions](#traffic-to-italy).
 
@@ -229,16 +231,6 @@ Including:
 FIP Tickets are not valid on ÖBB Postbus. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
 
 {{% /train-category %}}
-
-## Class Categories
-
-Railjet(Xpress) trains have special class categories:
-
-**Economy**: Comparable to 2nd class. \
-**First Class**: Comparable to 1st class. A FIP Coupon for 1st class is required. \
-**Business**: 1st class with welcome drink and private compartments. Not usable with FIP Coupon (even with supplement).
-
-[Detailed overview of ÖBB classes](https://www.oebb.at/en/reiseplanung-services/im-zug/abteile-komfortklassen)
 
 ## Ticket and Reservation Purchase
 
