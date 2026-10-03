@@ -604,7 +604,12 @@
       name: "section",
       label: "Section",
       widget: "select",
-      options: ["fip_50", "fip_global_fare", "reservations"],
+      options: [
+        { label: "FIP 50", value: "fip_50" },
+        { label: "FIP 75", value: "fip_75" },
+        { label: "FIP Global Fare", value: "fip_global_fare" },
+        { label: "Reservations", value: "reservations" },
+      ],
       param: { positional: true, quote: true, required: true },
     },
     {

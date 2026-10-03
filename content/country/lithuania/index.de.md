@@ -4,6 +4,9 @@ country: lithuania
 params:
   operators_without_fip:
     - Aukštaitijos siaurasis geležinkelis (Museumsbahn)
+
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

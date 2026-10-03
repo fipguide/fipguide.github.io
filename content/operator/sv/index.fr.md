@@ -3,6 +3,9 @@ title: SV
 country:
   - serbia
 operator: sv
+
+content_images:
+  - image.webp
 ---
 
 Srbija Voz (Србија Воз) est la compagnie ferroviaire nationale de Serbie et exploite la majeure partie du trafic voyageurs dans le pays.

@@ -11,6 +11,9 @@ params:
     - Keolis Nederland
     - Qbuzz
     - VIAS Rail
+
+content_images:
+  - image.webp
 ---
 
 ## FIP Information

@@ -7,6 +7,9 @@ country:
   - belgium
 operator:
   - sncb
+
+content_images:
+  - image.webp
 ---
 
 Ab dem 1. Juli 2026 stellt die belgische Staatsbahn SNCB / NMBS den Ticketverkauf an Bord ein. So soll sichergestellt werden, dass alle Reisenden vor dem Einsteigen ein gültiges Ticket besitzen.

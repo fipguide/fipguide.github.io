@@ -3,6 +3,10 @@ title: SŽ
 country:
   - slovenia
 operator: sz
+
+content_images:
+  - image.webp
+  - image2.webp
 ---
 
 Les Slovenske železnice (SŽ) sont la compagnie ferroviaire nationale de [Slovénie](/country/slovenia "Slovénie") et exploitent la majorité des services de voyageurs sur le réseau ferroviaire slovène.

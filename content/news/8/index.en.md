@@ -7,6 +7,9 @@ country:
   - czechia
 operator:
   - cd
+
+content_images:
+  - image.webp
 ---
 
 In Czechia, České dráhy (ČD) has further restricted the conditions for using FIP benefits. The background is new public tenders and increasing competitive pressure from private operators such as Leo Express and Regiojet.

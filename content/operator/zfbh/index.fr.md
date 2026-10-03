@@ -3,6 +3,9 @@ title: "ŽFBH"
 country:
   - "bosnia-and-herzegovina"
 operator: "žfbh"
+
+content_images:
+  - image.webp
 ---
 
 Željeznice Federacije Bosne i Hercegovine (ŽFBH) est l’entreprise ferroviaire de la Fédération de Bosnie-Herzégovine dans le pays du même nom. À côté d’elle, le pays compte aussi [Željeznice Republike Srpske (ŽRS)](/operator/zrs), l’opérateur ferroviaire de la Fédération de Republika Srpska. La ŽFBH n’exploite actuellement que quelques liaisons sur ses 608 km de réseau ferroviaire, et seulement sur une partie de son réseau.
