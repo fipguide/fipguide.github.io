@@ -8,7 +8,6 @@ country:
   - germany
 operator:
   - db
-
 content_images:
   - image.webp
 ---

@@ -12,7 +12,6 @@ params:
     - '[OUIGO](/operator/sncf#Fernverkehr "OUIGO")'
     - RATP
     - Transdev
-
 content_images:
   - image.webp
 ---

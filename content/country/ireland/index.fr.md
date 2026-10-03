@@ -4,7 +4,6 @@ country: ireland
 params:
   operators_without_fip:
     - Transdev (Luas - Tramway de Dublin)
-
 content_images:
   - image.webp
 ---

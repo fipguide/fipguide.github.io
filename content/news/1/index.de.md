@@ -8,7 +8,6 @@ country:
   - lithuania
 operator:
   - ltg
-
 content_images:
   - image.webp
 ---

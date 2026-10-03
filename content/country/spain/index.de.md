@@ -6,7 +6,6 @@ params:
     - Iryo
     - '[OUIGO](/operator/sncf#Fernverkehr "OUIGO")'
     - '[Avlo](/operator/renfe#langstrecke "Avlo")'
-
 content_images:
   - image.webp
 ---

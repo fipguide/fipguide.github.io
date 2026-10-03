@@ -1,7 +1,6 @@
 ---
 title: "Bosnien und Herzegowina"
 country: "bosnia-and-herzegovina"
-
 content_images:
   - image.webp
 ---

@@ -7,7 +7,6 @@ country:
   - czechia
 operator:
   - cd
-
 content_images:
   - image.webp
 ---

@@ -3,7 +3,6 @@ date: 2025-03-06
 title: FIP-Austritt der finnischen Staatsbahn VR
 description: Die finnische Bahn VR verlässt zum 1. Januar 2026 das FIP-Programm.
   FIP-Vergünstigungen sind dann nicht mehr gültig. Hintergründe und Ausblick.
-
 content_images:
   - image.webp
 ---

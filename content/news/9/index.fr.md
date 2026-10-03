@@ -8,7 +8,6 @@ country:
   - poland
 operator:
   - kml
-
 content_images:
   - image.webp
 ---

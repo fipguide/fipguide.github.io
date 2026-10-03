@@ -7,7 +7,6 @@ country:
   - belgium
 operator:
   - sncb
-
 content_images:
   - image.webp
 ---

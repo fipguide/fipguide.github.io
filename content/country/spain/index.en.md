@@ -6,7 +6,6 @@ params:
     - Iryo
     - OUIGO
     - '[Avlo](/operator/renfe#long-distance "Avlo")'
-
 content_images:
   - image.webp
 ---
