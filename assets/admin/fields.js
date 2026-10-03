@@ -1,116 +1,114 @@
-(function () {
-  var SelectControl = CMS.getFieldType("select").control;
+import { React, getFieldType, registerFieldType } from "@sveltia/cms";
 
-  function FipValiditySelectControl(props) {
-    var groups = props.entry ? props.entry.getIn(["data", "groups"]) : null;
-    groups = groups && typeof groups.toJS === "function" ? groups.toJS() : [];
-    var groupType = props.field ? props.field.get("group_type") : null;
-    if (groupType) {
-      groups = groups.filter(function (group) {
-        return !group.type || group.type === groupType;
-      });
-    }
-    var options = groups
-      .filter(function (group) {
-        return !!group.name;
-      })
-      .map(function (group) {
-        return { label: group.name, value: group.name };
-      });
+var h = React.createElement;
 
-    return h(SelectControl, {
-      field: { name: props.field.get("name"), options },
-      value: props.value,
-      forID: props.forID,
-      onChange: props.onChange,
+var SelectControl = getFieldType("select").control;
+
+function FipValiditySelectControl(props) {
+  var groups = props.entry ? props.entry.getIn(["data", "groups"]) : null;
+  groups = groups && typeof groups.toJS === "function" ? groups.toJS() : [];
+  var groupType = props.field ? props.field.get("group_type") : null;
+  if (groupType) {
+    groups = groups.filter(function (group) {
+      return !group.type || group.type === groupType;
     });
   }
+  var options = groups
+    .filter(function (group) {
+      return !!group.name;
+    })
+    .map(function (group) {
+      return { label: group.name, value: group.name };
+    });
 
-  CMS.registerFieldType(
-    "fip-validity-select",
-    FipValiditySelectControl,
-    FipValiditySelectControl,
-  );
+  return h(SelectControl, {
+    field: { name: props.field.get("name"), options },
+    value: props.value,
+    forID: props.forID,
+    onChange: props.onChange,
+  });
+}
 
-  function CmsEditLinkControl(props) {
-    var field = props.field;
-    var getValue = field.get("get_value");
-    var hrefTemplate = field.get("href");
-    var labelTemplate = field.get("label_template");
-    var emptyHint = field.get("empty_hint");
-    var isStatic = field.get("static");
+registerFieldType(
+  "fip-validity-select",
+  FipValiditySelectControl,
+  FipValiditySelectControl,
+);
 
-    var value = isStatic ? "" : String(getValue(props) || "");
+function CmsEditLinkControl(props) {
+  var field = props.field;
+  var getValue = field.get("get_value");
+  var hrefTemplate = field.get("href");
+  var labelTemplate = field.get("label_template");
+  var emptyHint = field.get("empty_hint");
+  var isStatic = field.get("static");
 
-    if (!isStatic && !value) {
-      return h("p", { className: "o-cms-edit-link__info" }, emptyHint);
-    }
+  var value = isStatic ? "" : String(getValue(props) || "");
 
-    var href = hrefTemplate.replace(/\{value\}/g, value);
-    var label = labelTemplate.replace(/\{value\}/g, value);
-    return h(
-      "p",
-      { className: "o-cms-edit-link__info" },
-      h(
-        "a",
-        {
-          href: href,
-          onClick: function (event) {
-            event.preventDefault();
-            if (
-              event.metaKey ||
-              event.ctrlKey ||
-              event.shiftKey ||
-              event.button === 1
-            ) {
-              window.open(href, "_blank");
-              return;
-            }
-            window.location.hash = href;
-          },
-          onAuxClick: function (event) {
-            event.preventDefault();
-            if (event.button === 1) {
-              window.open(href, "_blank");
-            }
-          },
+  if (!isStatic && !value) {
+    return h("p", { className: "o-cms-edit-link__info" }, emptyHint);
+  }
+
+  var href = hrefTemplate.replace(/\{value\}/g, value);
+  var label = labelTemplate.replace(/\{value\}/g, value);
+  return h(
+    "p",
+    { className: "o-cms-edit-link__info" },
+    h(
+      "a",
+      {
+        href: href,
+        onClick: function (event) {
+          event.preventDefault();
+          if (
+            event.metaKey ||
+            event.ctrlKey ||
+            event.shiftKey ||
+            event.button === 1
+          ) {
+            window.open(href, "_blank");
+            return;
+          }
+          window.location.hash = href;
         },
-        label,
-      ),
-    );
-  }
-
-  CMS.registerFieldType(
-    "cms-edit-link",
-    CmsEditLinkControl,
-    CmsEditLinkControl,
+        onAuxClick: function (event) {
+          event.preventDefault();
+          if (event.button === 1) {
+            window.open(href, "_blank");
+          }
+        },
+      },
+      label,
+    ),
   );
+}
 
-  var NumberControl = CMS.getFieldType("number").control;
+registerFieldType("cms-edit-link", CmsEditLinkControl, CmsEditLinkControl);
 
-  function CmsNumberWithUsageControl(props) {
-    var field = props.field;
-    var template = field.get("template");
-    var value = props.value;
+var NumberControl = getFieldType("number").control;
 
-    var text = template.replace(/\{value\}/g, String(value ?? ""));
+function CmsNumberWithUsageControl(props) {
+  var field = props.field;
+  var template = field.get("template");
+  var value = props.value;
 
-    return h(
-      "div",
-      {},
-      h(NumberControl, {
-        field: { name: field.get("name") },
-        value: value,
-        forID: props.forID,
-        onChange: props.onChange,
-      }),
-      h("p", { className: "o-cms-display__info" }, text),
-    );
-  }
+  var text = template.replace(/\{value\}/g, String(value ?? ""));
 
-  CMS.registerFieldType(
-    "cms-number-with-usage",
-    CmsNumberWithUsageControl,
-    CmsNumberWithUsageControl,
+  return h(
+    "div",
+    {},
+    h(NumberControl, {
+      field: { name: field.get("name") },
+      value: value,
+      forID: props.forID,
+      onChange: props.onChange,
+    }),
+    h("p", { className: "o-cms-display__info" }, text),
   );
-})();
+}
+
+registerFieldType(
+  "cms-number-with-usage",
+  CmsNumberWithUsageControl,
+  CmsNumberWithUsageControl,
+);
