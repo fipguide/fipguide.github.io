@@ -270,11 +270,6 @@ collections:
         widget: "string"
         i18n: duplicate
         hint: A unique identifier of the operator (slug).
-      - label: "Aliases"
-        name: "aliases"
-        widget: "hidden"
-        default: []
-        i18n: duplicate
       - label: "Content Images"
         name: "content_images"
         widget: "image"
@@ -283,6 +278,11 @@ collections:
         i18n: duplicate
         hint: "Images shown for this page. Prefer .webp images."
         accept: "image/webp"
+      - label: "Aliases"
+        name: "aliases"
+        widget: "hidden"
+        default: []
+        i18n: duplicate
       - label: "Body"
         name: "body"
         widget: "markdown"
