@@ -4,6 +4,8 @@ country:
   - austria
   - hungary
 operator: gysev
+content_images:
+  - image.webp
 aliases:
   - /booking/mav-ticket-machine
   - /booking/mav-ticket-office

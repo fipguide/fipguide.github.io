@@ -4,6 +4,8 @@ country:
   - netherlands
   - united-kingdom
 operator: stl
+content_images:
+  - image.webp
 aliases:
   - /booking/stena-line-bv-email
   - /booking/stena-line-bv-phone

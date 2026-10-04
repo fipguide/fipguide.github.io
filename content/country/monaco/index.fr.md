@@ -1,6 +1,8 @@
 ---
 title: Monaco
 country: monaco
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP
