@@ -2,6 +2,8 @@
 date: 2026-10-04
 title: "DB Regio im Neckartal jetzt mit FIP nutzbar"
 description: DB Regio Stuttgart ist seit dem 01.08.2026 vollständig in DB Regio Baden-Württemberg integriert und Züge im Neckartal können daher mit FIP genutzt werden.
+content_images:
+  - image.webp
 ---
 
 Zum 01. August 2026 wurde das Netz Neckartal, das ehemalig von der DB Regio Stuttgart GmbH betrieben wurde, vollständig in DB Regio Baden-Württemberg integriert und kann daher mit FIP genutzt werden. [^1]
