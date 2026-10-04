@@ -12,6 +12,8 @@ params:
       Est")'
     - Italo / NTV
     - '[Trenord](/operator/fs##validity-of-fip-tickets "Trenord")'
+content_images:
+  - image.webp
 ---
 
 ## FIP Information
