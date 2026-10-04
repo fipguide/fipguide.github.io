@@ -23,21 +23,7 @@ Die Infrastruktur wird teilweise modernisiert, gleichzeitig gibt es weiterhin St
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                                         | Grenzpunkte                                                                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| [Slowakei](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Bánréve (Gr), Čaňa (Gr), Fil’akovo (Gr), Komárom (Gr), Sátoralújhely (Gr), Szob (Gr) |
-| [Slowakei](/country/slovakia) ([GySEV](/operator/gysev))     | Rajka (Gr)                                                                           |
-| Ukraine (UZ)                                                 | Záhony (Gr)                                                                          |
-| [Rumänien](/country/romania) ([CFR](/operator/cfr))          | Biharkeresztes (fr), Curtici (Gr), Nyirábrány (Gr), Salonta (Gr)                     |
-| [Serbien](/country/serbia) ([SV](/operator/sv))              | Röszke (Gr), Subotica (Gr)                                                           |
-| Kroatien (HŽ)                                                | Koprivnica (Gr), Kotoriba (Gr), Magyarbóly (Gr)                                      |
-| [Slowenien](/country/slovenia) ([SŽ](/operator/sz))          | Hodos (Gr)                                                                           |
-| [Österreich](/country/austria) ([ÖBB](/operator/oebb))       | Hegyshalom (Gr), Sopron                                                              |
-| [Österreich](/country/austria) ([GySEV](/operator/gysev))    | Pamhagen (Gr), Szentgotthárd, Sopron                                                 |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Slowakei
 

@@ -1,0 +1,49 @@
+{{- $operator := .page.File.ContentBaseName -}}
+{{- $data := partialCached "helper/borderPoints" . site.Language.Lang -}}
+
+{{- $ids := slice -}}
+{{- range $data.borders -}}
+  {{- $border := . -}}
+  {{- range $key := slice "a" "b" -}}
+    {{- $match := false -}}
+    {{- range (index $border $key).operators -}}
+      {{- if eq .id $operator }}{{ $match = true }}{{ end -}}
+    {{- end -}}
+    {{- if $match -}}
+      {{- range (index $border (cond (eq $key "a") "b" "a")).operators -}}
+        {{- with .id -}}
+          {{- if ne . $operator -}}
+            {{- $ids = $ids | append . -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $neighbors := slice -}}
+{{- range uniq $ids -}}
+  {{- with site.GetPage (printf "/operator/%s" .) -}}
+    {{- $neighbors = $neighbors | append . -}}
+  {{- end -}}
+{{- end -}}
+
+{{- with sort $neighbors "LinkTitle" }}
+  <h3 id="o-related__title-{{ $.identifier }}">{{ $.title }}</h3>
+  <ul
+    class="o-related__list"
+    aria-labelledby="o-related__title-{{ $.identifier }}"
+  >
+    {{ range . }}
+      <li class="o-related__item">
+        {{ $text := print (partial "operator-logo" (dict "operator" .File.ContentBaseName)) (printf "<span>%s</span>" .LinkTitle) }}
+        {{ partial "link" (
+          dict
+          "Destination" .RelPermalink
+          "Text" ($text | safeHTML)
+          )
+        }}
+      </li>
+    {{ end }}
+  </ul>
+{{ end -}}

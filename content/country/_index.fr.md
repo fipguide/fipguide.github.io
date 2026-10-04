@@ -1,5 +1,7 @@
 ---
 title: Liste des pays
+build:
+  publishResources: false
 description: Un aperçu clair de tous les pays où les avantages du FIP peuvent
   être utilisés. Découvrez dans quels pays les billets FIP 50 et Coupons FIP
   sont valables.

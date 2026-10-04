@@ -19,13 +19,7 @@ Die Verbindung von Podgorica nach Shkodër (Albanien) existiert, wird aktuell je
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                            | Grenzpunkte       |
-| ----------------------------------------------- | ----------------- |
-| [Serbien](/country/serbia) ([SV](/operator/sv)) | Bijelo Polje (Gr) |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Serbien
 

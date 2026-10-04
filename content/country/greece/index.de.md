@@ -27,18 +27,7 @@ Die Qualität der Züge variiert: Während moderne elektrische Triebzüge auf de
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                                   | Grenzpunkte                     |
-| ------------------------------------------------------ | ------------------------------- |
-| Nordmazedonien (ŽRSM)                                  | Gevgelija (fr)                  |
-| [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz))  | Kulata (fr), Svilengrad (fr)    |
-| Türkei (TCDD)                                          | Pythio (Πύθιο)                  |
-| [Italien](/country/italy) ([Attica](/operator/attica)) | Patras (Πάτρα) [>Ancona, >Bari] |
-
-[>] = In Richtung (z. B. Patras [> Ancona] = Patras ist der Grenzpunkt in Richtung Ancona)
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Nordmazedonien
 

@@ -36,14 +36,7 @@ Auf diesen verkehren Fernverkehrszüge mit einer überdurchschnittlichen Durchsc
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                                 | Grenzpunkte                                                                      |
-| ---------------------------------------------------- | -------------------------------------------------------------------------------- |
-| Schweden (SJ)                                        | Helsingborg (über Helsingør)                                                     |
-| [Deutschland](/country/germany) ([DB](/operator/db)) | Flensburg (Gr), Puttgarden (über Rødby Faerge), Tønder, Warnemünde (über Gedser) |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Schweden
 

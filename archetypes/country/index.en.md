@@ -38,15 +38,10 @@ params:
 ## Arrival and Border Points
 
 <!--
-Only border points at the national border with other countries. These should be listed as country (railway operator) and their border points. The list is arranged in a clockwise direction, starting in the north of the country.
+Only border points at the national border with other countries. They are maintained in `content/country/borderpoints.en.yaml` and rendered here automatically as a table. The row order is defined there via `order.<country>`, clockwise, starting in the north of the country.
 -->
 
-{{% expander "Border Points" border %}}
-
-| Country | Border Points |
-| ------- | ------------- |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### <Country Name>
 

@@ -41,20 +41,7 @@ Ces deux lignes sont bien développées, avec une fréquence d’un train toutes
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                          | Points frontières                                                                                                      |
-| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [République tchèque](/country/czechia) ([ČD](/operator/cd))   | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr)                                                   |
-| [Slovaquie](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg (Gr), Kittsee (Gr)                                                                                            |
-| Hongrie ([GySEV](/operator/gysev))                            | Pamhagen (Gr), Szentgotthárd, Sopron                                                                                   |
-| Hongrie (MÁV)                                                 | Hegyeshalom (Gr), Sopron                                                                                               |
-| [Slovénie](/country/slovenia) ([SŽ](/operator/sz))            | Bleiburg (Gr), Spielfeld-Strass (Gr), Rosenbach (Gr)                                                                   |
-| [Italie](/country/italy) ([FS](/operator/fs))                 | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                                            |
-| [Suisse](/country/switzerland) ([CFF](/operator/sbb))         | Buchs SG, St. Margrethen                                                                                               |
-| [Allemagne](/country/germany) ([DB](/operator/db))            | Passau, Salzbourg (trains régionaux vers Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### République tchèque
 

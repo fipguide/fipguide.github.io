@@ -29,16 +29,7 @@ Particularly noteworthy are the impressive station buildings of Liège-Guillemin
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                                  | Border Points                                                       |
-| -------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Netherlands](/country/netherlands) ([NS](/operator/ns)) | Roosendaal (fr), Visé (fr)                                          |
-| [Germany](/country/germany) ([DB](/operator/db))         | Aachen Süd (Gr)                                                     |
-| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Athus, Gouvy (fr), Sterpenich (fr)                                  |
-| [France](/country/france) ([SNCF](/operator/sncf))       | Blandain (fr), Givet (fr), Jeumont (fr), Quèvy (fr), Tourcoing (fr) |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Netherlands
 
