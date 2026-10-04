@@ -197,6 +197,24 @@ FIP n’est valable que sur certains tronçons du RER, voir [Trains en Île-de-F
 {{% /train-category %}}
 
 {{% train-category
+    id="lex"
+    title="Léman-Express (LEX / L)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.lemanexpress.com/les-7-lignes-lex/"
+%}}
+
+Dans la région genevoise, les trains régionaux transfrontaliers circulent sous le nom de Léman Express et sont exploités par les CFF et la SNCF.
+
+Sur le site de la SNCF, les correspondances Léman Express sont indiquées par `LEX` suivi du numéro de ligne (L1, L2, etc.). Sur le site des CFF, les trains sont parfois indiqués par `RL`, et occasionnellement par `TER`.
+
+En France et en Suisse, les réductions FIP s'appliquent comme d'habitude. Les réductions FIP ne s'appliquent pas aux trajets transfrontaliers ; il est alors nécessaire d'acheter des billets au tarif normal. [^7]
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"
@@ -502,3 +520,5 @@ La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent ac
 [^5]: [Communauté FIP Guide : ICE Francfort–Bordeaux](https://discord.com/channels/1250522473188032512/1482738819982950462)
 
 [^6]: [SNCF Connect – Offres enfants et familles](https://www.sncf-connect.com/en-en/help/offer-children-and-families#ancre-11001)
+
+[^7]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
