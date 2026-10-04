@@ -63,7 +63,7 @@ Il existe trois classes de voyage :
 
 Pour les Railjet vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](#conditions-tarifaires-spéciales).
 
-{{< highlight confusion >}}
+{{< highlight confusion austria>}}
 `RJ` est aussi l’abréviation de RegioJet, où les Billets FIP ne sont pas valables.
 {{< /highlight >}}
 
@@ -80,7 +80,7 @@ Pour les Railjet vers l’Italie, un supplément est à payer à partir de la fr
 
 La plupart des trains `IC` sur les axes principaux ont été progressivement remplacés par les Railjet. Les `IC` circulent encore sur des lignes secondaires comme Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Vienne – Gmunden – Stainach-Irdning, ainsi qu’en complément des Railjet sur la liaison Vienne–Lienz (Tyrol oriental). Il existe aussi des trains `IC` et `ICE` sur certaines liaisons internationales vers l’Allemagne en coopération avec la Deutsche Bahn, la section autrichienne étant exploitée par ÖBB.
 
-{{< highlight confusion >}}
+{{< highlight confusion austria>}}
 Certains trains Regiojet sont désignés comme `IC` en Autriche, mais les Billets FIP n’y sont pas valables.
 {{< /highlight >}}
 
@@ -170,7 +170,7 @@ Les trains `D` sont principalement utilisés comme trains de renfort lors des p�
 
 Train régional rapide avec moins d’arrêts et matériel moderne.
 
-{{< highlight confusion >}}
+{{< highlight confusion austria>}}
 Certains Regionalexpress sont exploités par des compagnies privées où les Billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
 {{< /highlight >}}
 
@@ -187,7 +187,7 @@ Certains Regionalexpress sont exploités par des compagnies privées où les Bil
 
 Train régional avec arrêts dans la plupart des gares.
 
-{{< highlight confusion >}}
+{{< highlight confusion austria>}}
 Certains trains régionaux sont exploités par des compagnies privées où les Billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
 
 La désignation `R` est aussi utilisée dans les horaires ÖBB pour des trains touristiques où les Billets FIP ne sont pas valables. Ceux-ci sont signalés par une note « tarif spécial ».
@@ -206,7 +206,7 @@ La désignation `R` est aussi utilisée dans les horaires ÖBB pour des trains t
 
 Train régional au moins toutes les heures, arrêt à toutes les gares. Comparable à un S-Bahn.
 
-{{< highlight confusion >}}
+{{< highlight confusion austria>}}
 Certaines Schnellbahn sont exploitées par des compagnies privées où les Billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
 
 Exemples :

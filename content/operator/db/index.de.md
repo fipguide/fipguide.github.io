@@ -62,7 +62,7 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich, Belgie
 
 Grenzüberschreitende Hochgeschwindigkeitszüge der SNCF in Kooperation mit der DB. Diese verkehren von Frankfurt, Mannheim, Saarbrücken, München, Stuttgart und Karlsruhe nach Paris.
 
-{{< highlight confusion >}}
+{{< highlight confusion germany>}}
 Einige wenige `TGV` Züge verkehren von Paris nach Freiburg und werden vollständig (auch in Deutschland) von der SNCF betrieben. Als Betreiber wird für diese Züge nur die SNCF aufgeführt, siehe [Zugbetreiber identifizieren und Verbindungen suchen](/country/germany#fip-nutzung). In diesen Zügen gelten in Deutschland keine DB Freifahrtscheine und keine nationalen Fahrvergünstigungen für DB Mitarbeitende. Stattdessen können FIP Globalpreistickets der SNCF erworben werden.
 {{< /highlight >}}
 
@@ -214,7 +214,7 @@ Eine Orientierung bieten [Übersichtskarten](https://www.schienennahverkehr.de/v
 
 Regionalexpresszüge verbinden Orte und Städte mit Halten an den wichtigsten Stationen. Teilweise verkehren die Züge auch überregional über längere Strecken.
 
-{{< highlight confusion >}}
+{{< highlight confusion germany>}}
 Die Züge der Kategorie `RE` werden oftmals auch von anderen Betreibern betrieben.
 {{< /highlight >}}
 
@@ -231,7 +231,7 @@ Die Züge der Kategorie `RE` werden oftmals auch von anderen Betreibern betriebe
 
 Regionalbahnzüge verbinden Orte und Städte mit Halten an fast allen Stationen.
 
-{{< highlight confusion >}}
+{{< highlight confusion germany>}}
 Die Züge der Kategorie `RB` werden oftmals auch von anderen Betreibern betrieben.
 {{< /highlight >}}
 
@@ -248,7 +248,7 @@ Die Züge der Kategorie `RB` werden oftmals auch von anderen Betreibern betriebe
 
 Nahverkehrszüge in großen Städten und Metropolregionen mit Halt an allen Stationen.
 
-{{< highlight confusion >}}
+{{< highlight confusion germany>}}
 Die Züge der Kategorie `S` werden oftmals auch von anderen Betreibern betrieben.
 {{< /highlight >}}
 

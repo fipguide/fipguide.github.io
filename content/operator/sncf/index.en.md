@@ -53,7 +53,7 @@ Reservations are mandatory on all `TGV`, almost all `IC` trains, and some region
 
 The `TGV` inOui is SNCF Voyageurs's high-speed train, connecting many cities in France and international destinations (e.g. Munich, Frankfurt am Main, Barcelona, Luxembourg, Brussels, Milan). Additionally, `TGV` Lyria trains run from France to Switzerland (Basel, Zurich, Lausanne, Geneva).
 
-{{< highlight confusion >}}
+{{< highlight confusion france >}}
 SNCF also operates low-cost long-distance trains under the OUIGO brand, but these are not valid with FIP.
 {{< /highlight >}}
 
@@ -83,7 +83,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 
 OUIGO (Grande Vitesse) is SNCF's low-cost high-speed train connecting numerous cities in France and some international destinations. There are also OUIGO Classique trains composed of conventional coaching stock.
 
-{{< highlight confusion >}}
+{{< highlight confusion france >}}
 SNCF also operates `TGV` trains under the inOui brand, which are valid with FIP.
 {{< /highlight >}}
 
@@ -171,7 +171,7 @@ Cost depends on route and occupancy.
 `TER` is SNCF's regional train, connecting various cities in France.
 Some lines from Paris require reservations, see [Reservation requirement in regional trains](#reservation-requirement-in-regional-trains).
 
-{{< highlight confusion >}}
+{{< highlight confusion france >}}
 On the Marseille – Nice route, Transdev operates the trains, so FIP is not accepted. However, on the Marseille – Toulon route, SNCF trains are also used, where FIP is accepted. Prior verification of the operator is essential here.
 {{< /highlight >}}
 

@@ -159,7 +159,7 @@ Unlike in other countries, these are not true long-distance trains, but rather f
 
 Regional trains with more stops than Intercity, but still only at important stations.
 
-{{< highlight confusion >}}
+{{< highlight confusion netherlands>}}
 Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo – Hamm (Germany) and Arnhem – Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP.
 
 An exception applies to the Three-Country Train (Liège-Guillemins – Maastricht – Heerlen – Aachen): between Maastricht and Liège-Guillemins, the train is operated on behalf of NS and SNCB, and NS/SNCB tickets including FIP remain valid. Between Maastricht and Aachen (via Heerlen), the train is operated by Arriva and FIP is not valid.
@@ -190,7 +190,7 @@ Regional trains for short connections, stopping at every station along the route
 
 Regional trains with red-grey R-net branding on the route from Alphen aan den Rijn to Gouda.
 
-{{< highlight confusion >}}
+{{< highlight confusion netherlands>}}
 R-net (Randstadnet) is a transport concept in the Randstad metropolitan region, operated by several companies with uniform red-grey vehicle branding. It includes trains, metros, trams, and buses. Only the R-net connection from Alphen aan den Rijn to Gouda, operated by NS, can be used with FIP. [^6] All other R-net connections, in particular the Geldermalsen - Dordrecht line (Qbuzz Stoptrein), cannot be used with FIP.
 
 In the NS journey planner, the services are marked as `R-net NS Sprinter`. Not to be confused with the `R-net Qbuzz Stoptrein`, which may not be used with FIP. In other journey planners, such as DB, the service may only be shown as `RE` operated by "R-net". Here, a distinction from the R-net Qbuzz Stoptrein is only possible based on the line!

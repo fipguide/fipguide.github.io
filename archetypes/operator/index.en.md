@@ -77,8 +77,8 @@ operator: "{{ .File.ContentBaseName }}"
   A description of the train category can be added here.
 -->
 
-{{% highlight confusion %}}
-This highlight can be added if there is a risk that the train category could be confused with another one.
+{{% highlight confusion country %}}
+This highlight can be added if there is a risk that the train category could be confused with another one. The country where the confusion might arise should be specified as a parameter using its English abbreviation, so that a link can be generated to the relevant section where the train operator can be identified.
 {{% /highlight %}}
 
 {{% highlight important %}}

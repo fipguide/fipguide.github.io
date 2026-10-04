@@ -49,7 +49,7 @@ Les lignes suivantes peuvent être utilisées avec le Coupon FIP GySEV en Autric
 
 GySEV exploite des trains Scarbantia `IC` entre Sopron et Budapest.
 
-{{< highlight confusion >}}
+{{< highlight confusion hungary >}}
 En Hongrie, des trains InterCity de la compagnie ferroviaire d’État hongroise MÁV circulent également.
 {{< /highlight >}}
 
@@ -70,7 +70,7 @@ Les réservations ne sont obligatoires qu’entre Győr et Budapest. Pour les tr
 
 Train régional rapide avec moins d’arrêts et matériel roulant moderne.
 
-{{< highlight confusion >}}
+{{< highlight confusion austria >}}
 Certains trains Regionalexpress sont également exploités par les ÖBB où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
 {{< /highlight >}}
 
@@ -87,7 +87,7 @@ Certains trains Regionalexpress sont également exploités par les ÖBB où les 
 
 Train régional avec arrêts dans la plupart des gares.
 
-{{< highlight confusion >}}
+{{< highlight confusion austria >}}
 Certains trains régionaux sont également exploités par les ÖBB où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
 {{< /highlight >}}
 
@@ -104,7 +104,7 @@ Certains trains régionaux sont également exploités par les ÖBB où les Bille
 
 Train régional avec arrêts dans la plupart des gares.
 
-{{< highlight confusion >}}
+{{< highlight confusion hungary >}}
 Certains trains Személyvonat sont également exploités par [MÁV](/operator/mav#sz) où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
 {{< /highlight >}}
 

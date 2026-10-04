@@ -62,7 +62,7 @@ Par le passé, une obligation de réservation existait en été pour les trajets
 
 Trains à grande vitesse transfrontaliers de la SNCF en coopération avec la DB. Ils relient Francfort, Mannheim, Karlsruhe, Sarrebruck, Stuttgart et Munich à Paris.
 
-{{< highlight confusion >}}
+{{< highlight confusion germany>}}
 Quelques trains `TGV` circulent de Paris à Fribourg et sont entièrement exploités par la SNCF, y compris en Allemagne. Pour ces trains, seule la SNCF est indiquée comme exploitant, voir [Identifier l’exploitant du train et rechercher des liaisons](#informations-fip). Dans ces trains, les Coupons FIP DB et les réductions nationales pour les employés DB ne sont pas valables en Allemagne. À la place, des billets au Tarif Global FIP de la SNCF peuvent être achetés.
 {{< /highlight >}}
 
@@ -208,7 +208,7 @@ Une orientation est fournie par les [cartes d’aperçu](https://www.schienennah
 
 Les trains Regionalexpress relient des villes avec des arrêts dans les principales gares. Certains circulent aussi sur de longues distances.
 
-{{< highlight confusion >}}
+{{< highlight confusion germany >}}
 Les trains de la catégorie `RE` sont souvent exploités par d’autres opérateurs.
 {{< /highlight >}}
 
@@ -225,7 +225,7 @@ Les trains de la catégorie `RE` sont souvent exploités par d’autres opérate
 
 Les trains Regionalbahn relient des villes avec des arrêts dans presque toutes les gares.
 
-{{< highlight confusion >}}
+{{< highlight confusion germany >}}
 Les trains de la catégorie `RB` sont souvent exploités par d’autres opérateurs.
 {{< /highlight >}}
 
@@ -242,7 +242,7 @@ Les trains de la catégorie `RB` sont souvent exploités par d’autres opérate
 
 Trains de proximité dans les grandes villes et régions métropolitaines avec arrêt à toutes les gares.
 
-{{< highlight confusion >}}
+{{< highlight confusion germany >}}
 Les trains de la catégorie `S` sont souvent exploités par d’autres opérateurs.
 {{< /highlight >}}
 

@@ -53,7 +53,7 @@ La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC
 
 Le `TGV` inOui est le train à grande vitesse des SNCF Voyageurs, reliant de nombreuses villes françaises et des destinations internationales (ex. Munich, Francfort, Barcelone, Luxembourg, Bruxelles, Milan). Des trains `TGV` Lyria relient également la France à la Suisse (Bâle, Zurich, Lausanne, Genève).
 
-{{< highlight confusion >}}
+{{< highlight confusion france>}}
 La SNCF exploite aussi des trains longue distance low-cost sous la marque OUIGO, mais ceux-ci ne sont pas valables avec FIP.
 {{< /highlight >}}
 
@@ -83,7 +83,7 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 
 OUIGO (Grande Vitesse) est le service grande vitesse low-cost de la SNCF, reliant de nombreuses villes en France et quelques destinations internationales. Il existe également des OUIGO Classique composés de matériel conventionnel.
 
-{{< highlight confusion >}}
+{{< highlight confusion france>}}
 La SNCF exploite aussi des `TGV` sous la marque inOui, qui sont valables avec le FIP.
 {{< /highlight >}}
 
@@ -173,7 +173,7 @@ Coût selon la ligne et l’affluence.
 Le `TER` est le train régional reliant différentes villes françaises.
 Certaines lignes au départ de Paris sont à réservation obligatoire, voir [Réservation obligatoire en TER](#réservation-obligatoire-en-ter).
 
-{{< highlight confusion >}}
+{{< highlight confusion france>}}
 Sur la ligne Marseille – Nice, Transdev exploite les trains, c’est pourquoi FIP n’est pas accepté. Cependant, sur la ligne Marseille – Toulon, des trains de la SNCF sont également utilisés, où FIP est accepté. Une vérification préalable de l’exploitant est donc indispensable ici.
 {{< /highlight >}}
 

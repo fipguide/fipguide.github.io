@@ -77,8 +77,9 @@ operator: "{{ .File.ContentBaseName }}"
   Hier kann eine Beschreibung der Zugkategorie ergänzt werden.
 -->
 
-{{% highlight confusion %}}
+{{% highlight confusion country%}}
 Dieses Highlight kann ergänzt werden, wenn es das Risiko gibt, dass die Zugkategorie mit einer anderen verwechselt wird.
+Als Parameter sollte das Land in der englischen Abkürzung angegeben werden, in dem die Verwechslung auftreten kann, damit ein Link zum entsprechenden Abschnitt generiert werden kann, auf dem der Zugbetreiber identzifiert werden kann.
 {{% /highlight %}}
 
 {{% highlight important %}}

@@ -38,7 +38,7 @@ Les catégories de trains sont en partie également utilisées par d’autres op
 
 Trains nationaux longue distance avec peu d’arrêts intermédiaires et un confort comparativement plus élevé. Ils circulent principalement au départ de Bucarest dans les différentes directions du pays.
 
-{{< highlight confusion >}}
+{{< highlight confusion romania >}}
 Les trains `IC` sont en partie également exploités par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
 {{< /highlight >}}
 
@@ -61,7 +61,7 @@ Une réservation de place assise est obligatoire. Si le train est complet, une r
 
 Trains relativement rapides reliant les grandes villes du pays avec peu d’arrêts intermédiaires. Certains circulent également en transfrontalier, notamment vers la Hongrie.
 
-{{< highlight confusion >}}
+{{< highlight confusion romania >}}
 Les trains `IR` sont en partie également exploités par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
 {{< /highlight >}}
 
@@ -86,7 +86,7 @@ Trains principalement internationaux circulant de nuit. Ils sont aussi parfois r
 
 Ces trains comprennent généralement des voitures-couchettes ou voitures-lits, qui peuvent être utilisées avec une réservation correspondante.
 
-{{< highlight confusion >}}
+{{< highlight confusion romania >}}
 Les trains `IRN` sont en partie également exploités par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
 {{< /highlight >}}
 
@@ -113,7 +113,7 @@ Les trains internationaux vers la Bulgarie, la Moldavie et l’Ukraine circulent
 
 Ces trains comprennent souvent des voitures-couchettes ou voitures-lits, qui peuvent être utilisées avec une réservation correspondante.
 
-{{< highlight confusion >}}
+{{< highlight confusion romania >}}
 Ces trains sont en partie également exploités par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
 {{< /highlight >}}
 
@@ -138,7 +138,7 @@ Pour les voitures-couchettes et voitures-lits, les tarifs suivants s’appliquen
 
 Trains régionaux desservant également les petites localités. Les différents trains sur une même ligne n’ont souvent pas de schéma d’arrêt fixe, ce qui signifie que les petits arrêts ne sont desservis que par certains trains `R`.
 
-{{< highlight confusion >}}
+{{< highlight confusion romania >}}
 Les trains `R` sont en partie également exploités par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
 {{< /highlight >}}
 

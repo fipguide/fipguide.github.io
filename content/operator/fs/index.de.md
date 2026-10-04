@@ -44,7 +44,7 @@ Im Fernverkehr besteht eine Reservierungspflicht inkl. Aufschlägen.
 
 Höchste italienische Zuggattung im Fernverkehr mit Hochgeschwindigkeitszügen. Zusätzlich wird der Frecciarossa 1000 als Zug mit besonders hoher Geschwindigkeit und Service im Fahrplan gekennzeichnet.
 
-{{< highlight confusion >}}
+{{< highlight confusion italy >}}
 Züge des privaten Anbieters Italo werden auch als AV gekennzeichnet, können jedoch nicht mit FIP genutzt werden.
 {{< /highlight >}}
 
@@ -67,7 +67,7 @@ Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis h
 
 Hochgeschwindigkeitszüge mit Neigetechnik.
 
-{{< highlight confusion >}}
+{{< highlight confusion italy >}}
 Züge des privaten Anbieters Italo werden auch als AV gekennzeichnet, können jedoch nicht mit FIP genutzt werden.
 {{< /highlight >}}
 
@@ -243,7 +243,7 @@ Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen sie
 
 S-Bahnsysteme im Großraum Neapel `M` und Großraum Turin `sfm`.
 
-{{< highlight confusion >}}
+{{< highlight confusion italy >}}
 U-Bahnen sind teilweise auch mit `M` gekennzeichnet und können nicht mit FIP genutzt werden.
 {{< /highlight >}}
 
