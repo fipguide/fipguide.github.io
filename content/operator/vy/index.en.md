@@ -301,7 +301,7 @@ Only on the journey from Trondheim to Storlien is FIP recognized on the entire r
 
 **More information about the fare areas:**
 
-- Ruter (Oslo): https://ruter.no/en/about-our-tickets/zones-and-zone-maps
+- Ruter (Oslo): https://ruter.no/en/about-our-tickets/zones
 - Skyss (Bergen): https://www.skyss.no/en/tickets-and-prices/prize-zones
 - AtB (Trøndelag): https://www.atb.no/en/zones-and-zone-maps
 - Kolumbus (Rogaland): https://www.kolumbus.no/en/tickets/zones-and-zone-maps

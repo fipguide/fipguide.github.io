@@ -301,7 +301,7 @@ Le **FIP 50** n’est pas valable à Oslo, Bergen, Trondheim ou Stavanger si le 
 
 **Plus d’informations sur les zones tarifaires :**
 
-- Ruter (Oslo) : https://ruter.no/en/about-our-tickets/zones-and-zone-maps
+- Ruter (Oslo) : https://ruter.no/en/about-our-tickets/zones
 - Skyss (Bergen) : https://www.skyss.no/en/tickets-and-prices/prize-zones
 - AtB (Trøndelag) : https://www.atb.no/en/zones-and-zone-maps
 - Kolumbus (Rogaland) : https://www.kolumbus.no/en/tickets/zones-and-zone-maps

@@ -154,12 +154,12 @@ Children who have not yet reached the age of 4 must be accompanied by a person w
 
 ### CFL Bus Luxembourg - Saarbrücken
 
-On the CFL express bus between Luxembourg and Saarbrücken, free travel is not generally possible. Fares can be found on the [CFL website](https://www.cfl.lu/en-gb/ticket/internationaldetail/saarbrueckenexpress/1000). \
+On the CFL express bus between Luxembourg and Saarbrücken, free travel is not generally possible. Fares can be found on the [CFL website](https://www.cfl.lu/en-gb/ticket/international/allemagne/saarbrueckenexpress). \
 There are no further FIP discounts on this connection.
 
 ### CFL Bus Lorraine Express
 
-CFL operates an express bus between Luxembourg and _Lorraine TGV_ station in France as a TGV feeder. Free travel is not generally possible on this bus. Fares can be found on the [CFL website](https://www.cfl.lu/en-gb/ticket/internationaldetail/gare-lorraine). The buses require a reservation and a ticket can be purchased up to 2.5 hours before departure. \
+CFL operates an express bus between Luxembourg and _Lorraine TGV_ station in France as a TGV feeder. Free travel is not generally possible on this bus. Details can be found on the [CFL website](https://www.cfl.lu/en-gb/ticket/international/france/gare-lorraine). The buses require a reservation and a ticket can be purchased up to 2.5 hours before departure. \
 We have no official information regarding the validity of FIP discounts.
 
 ### Connections – AJC

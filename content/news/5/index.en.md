@@ -17,7 +17,7 @@ Additionally, the prices for seat reservations will increase:
 1st class: €6.90 (previously €6.50) \
 2nd class: €5.90 (previously €5.50)
 
-Information about reservations can be found [here](/booking/db-website "DB Website Booking").
+Information about reservations can be found [here](/operator/db/#db-website "DB Website Booking").
 
 ## Sources
 

@@ -90,8 +90,8 @@ Von Hellenic Train betriebene Busse erkennen FIP-Vergünstigungen an.[^1]
 
 Hellenic Train betreibt drei touristische bzw. historische Zugverbindungen, auf welchen allerdings kein FIP anerkannt wird.[^1]
 
-- Pelion Train von Ano Lechonia (Άνω Λεχώνια) nach Milies (Μηλιές) (https://www.hellenictrain.gr/en/mythical-route)
-- Zahnradbahn "Odontotos" von Diakopto (Διακοπτό) nach Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/attraction-rails)
+- Pelion Train von Ano Lechonia (Άνω Λεχώνια) nach Milies (Μηλιές) (https://www.hellenictrain.gr/en/the-pelion-train/)
+- Zahnradbahn "Odontotos" von Diakopto (Διακοπτό) nach Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/diakopto-kalavryta-rack-railway/)
 - Katakolo (Κατάκολο) – Olympia (Αρχαία Ολυμπία) (https://www.hellenictrain.gr/en/katakolo-olympia)
 
 {{< highlight tip >}}
@@ -172,12 +172,12 @@ Ein online gekauften Ticket kann am Ticketschalter oder bei der [telefonischen H
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782274-greece.html)
 
-[^2]: [Hellenic Train](https://www.hellenictrain.gr/en/ticket-sales-board)
+[^2]: [Hellenic Train](https://www.hellenictrain.gr/en/tickets-cards/sale-points-opening-hours/)
 
 [^3]: [LOK Report](https://www.lok-report.de/news/europa/item/65837-griechenland-betrieb-der-zahnradbahn-diakopto-kalvrita-vorlaeufig-eingestellt.html)
 
-[^4]: [Hellenic Train ETR PDF](https://www.hellenictrain.gr/sites/default/files/2022-11/Hellenic_Train_ETR_EN_0.pdf)
+[^4]: [Hellenic Train – ETR](https://www.hellenictrain.gr/press/anakoinosi-30092022-parateinetai-i-ekptosi-gia-taxidia-me-ta-grigora-trena-etr/)
 
-[^5]: [Hellenic Train Terms and Conditions](https://www.hellenictrain.gr/sites/default/files/2024-10/2024.10.16-PASSENGER%20TERMS%20AND%20CONDITIONS-EN.pdf)
+[^5]: [Hellenic Train – Terms & Conditions of Passenger Transportation](https://www.hellenictrain.gr/en/plan-your-trip/terms-conditions/terms-of-transport/)
 
-[^6]: [Hellenic Train – Kinderangebote](https://www.hellenictrain.gr/en/children-offers)
+[^6]: [Hellenic Train – Kinderangebote](https://www.hellenictrain.gr/en/tickets-cards/tickets/discounts)

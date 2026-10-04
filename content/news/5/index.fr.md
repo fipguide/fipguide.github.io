@@ -17,7 +17,7 @@ De plus, les prix des réservations de sièges augmenteront :
 1re classe : 6,90€ (auparavant 6,50€) \
 2e classe : 5,90€ (auparavant 5,50€)
 
-Les informations sur les réservations sont disponibles [ici](/booking/db-website "Réservation DB Website").
+Les informations sur les réservations sont disponibles [ici](/operator/db/#db-website "Réservation DB Website").
 
 ## Sources
 
