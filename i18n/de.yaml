@@ -168,6 +168,7 @@ highlight:
   confusion: Verwechslungsgefahr
   important: Wichtige Information
   inofficial: Inoffizielle Information
+  success: Erfolg
   tip: Persönlicher Tipp
 home-page-text: FIP Guide Startseite
 identify-operator:
@@ -258,6 +259,86 @@ support:
     unser [GitHub Repository](https://github.com/fipguide/fipguide.github.io)
     bearbeitet werden.
   title: Unterstütze uns
+taxation:
+  add:
+    admission: Sachbezug hinzufügen
+    month: Monat hinzufügen
+    national: Nationale Vergünstigung hinzufügen
+    operator: Betreiber hinzufügen
+  card-persons:
+    plural: '{{ .Count }} Personen'
+    single: 1 Person
+  category:
+    admission: Sonstiges
+    international: Internationale FIP Freifahrtscheine
+    national: Nationale Vergünstigungen
+  children: Kinder
+  decrease: Verringern
+  distribution: Aufteilung
+  field-count-heading: Felder pro Person
+  first-class: 1. Klasse
+  highlight-important: Warnung
+  increase: Erhöhen
+  intranet-only-warning: >-
+    Der Steuerrechner ist nur aus dem Intranet der Deutschen Bahn erreichbar.
+
+
+    Dein Browser fragt dich daher, ob auf andere Geräte im lokalen
+
+    Netzwerk zugegriffen werden darf – bitte wähle „Zulassen“, damit der
+    Steuerrechner geladen
+
+    werden kann.
+  loading: Wird geladen …
+  lock: Zuordnung festlegen
+  no-first-class: Nur 2. Klasse
+  optimization-month: Monat
+  optimize: Optimieren
+  other-placeholder: Wert in € eingeben
+  person: Person
+  person-limit: Anzahl Personen
+  person-limit-not-supported-warning: >-
+    Für ein oder mehrere Betreiber die ausgewählt wurden, werden
+    Freifahrtscheine für Angehörige nicht ausgestellt. Die Berechnung erfolgt
+    bei diesen Betreibern mit nur einer Person.
+  person-one: Person
+  person-other: Personen
+  planning: Planung & Optimierung
+  planning-description: |
+    Hier kannst du über „Optimieren“ deine Freifahrtscheine optimal auf Monate
+    verteilen.
+
+    Wenn du einen Freifahrtschein in einem bestimmten Monat brauchst, kannst du
+    ihn per Drag-and-Drop verschieben. Er ist dann in diesem Monat fest
+    zugeordnet, bis du ihn über das Schloss wieder löst. Die
+    „Optimieren“-Funktion berücksichtigt deine Zuordnung und passt die
+    Verteilung der übrigen Freifahrtscheine entsprechend an.
+  planning-focus: Steuer optimieren
+  price-per:
+    field: pro Feld
+    ticket: pro Ticket
+  remove: Entfernen
+  reset: Zurücksetzen
+  second-class: 2. Klasse
+  sum: Summe
+  summary:
+    all-assigned-ok: >-
+      Alle Freifahrtscheine sind auf Monate verteilt. Kein Monat überschreitet
+      {{ .Threshold }} €.
+    all-assigned-over-month: >-
+      Alle Freifahrtscheine sind zugewiesen, aber mindestens ein Monat liegt
+      über dem {{ .Threshold }}-€-Grenzwert. In diesem Fall wird der gesamte
+      Monatsbetrag versteuert, nicht nur der Anteil über dem Grenzwert.
+    over-limit-unassigned: >-
+      Die Summe liegt oberhalb des {{ .Threshold }} € Grenzwerts. Der gesamte
+      Monatsbetrag ist steuerpflichtig, nicht nur der Anteil über dem Grenzwert.
+      Verteile den Betrag auf mehrere Monate, um die Steuerlast zu optimieren.
+    under-limit: >-
+      Die Summe liegt innerhalb des {{ .Threshold }} € Grenzwerts. Es entsteht
+      keine zusätzliche Versteuerung.
+  ticket-count-heading: Anzahl Tickets
+  unassigned: Nicht zugewiesen
+  unlock: Zuordnung aufheben
 teamMembers:
   lennart:
     name: Lennart Rommeiß

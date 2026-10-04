@@ -551,19 +551,6 @@ Les réservations de sièges peuvent être achetées [en ligne sur le site de Ce
 {{% /train-category %}}
 
 {{% train-category
-    id="stb"
-    title="Sensetalbahn (STB)"
-    type="regional"
-    fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
-%}}
-
-La Sensetalbahn exploitait la ligne Flamatt – Laupen – Gümmenen, aujourd’hui exploitée par la BLS. Il est donc discutable d’indiquer encore la STB ici.
-
-{{% /train-category %}}
-
-{{% train-category
     id="szu"
     title="Sihltal Zürich Uetliberg Bahn (SZU)"
     type="regional"

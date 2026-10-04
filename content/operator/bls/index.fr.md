@@ -61,7 +61,7 @@ Trains s’arrêtant à toutes les stations. Dans les zones urbaines, également
     reservation_possible=true
 %}}
 
-Le GoldenPassExpress est une liaison ferroviaire continue de Montreux à Interlaken Ost, exploitée par la BLS en coopération avec la [MOB](/operator/sp#mob). La MOB exploite le train sur le tronçon à voie métrique entre Montreux et Zweisimmen, et la BLS sur le tronçon à voie normale entre Zweisimmen et Interlaken Ost. Dans les informations de connexion, ces trains sont marqués comme `PE`.
+Le GoldenPass Express est une liaison ferroviaire continue de Montreux à Interlaken Ost, exploitée par la BLS en coopération avec la [MOB](/operator/sp#mob). La MOB exploite le train sur le tronçon à voie métrique entre Montreux et Zweisimmen, et la BLS sur le tronçon à voie normale entre Zweisimmen et Interlaken Ost. Dans les informations de connexion, ces trains sont marqués comme `PE`.
 
 Cela signifie que des Coupons FIP des deux, SP et BLS, doivent être présents pour parcourir l’ensemble du trajet. Les Billets FIP 50 peuvent être réservés en continu.
 
@@ -80,7 +80,7 @@ Un voyage sans réservation de siège n’est possible que s’il reste des plac
     reservation_possible=false
 %}}
 
-Trains motorail sur les lignes Kandersteg – Göppenstein, Brig – Iselle et Kandersteg – Iselle.
+Trains motorail sur les lignes Kandersteg – Goppenstein, Brig – Iselle et Kandersteg – Iselle.
 
 Le FIP n’est pas valable dans ces trains, mais les trains circulant parallèlement du `RE 1` peuvent être utilisés.
 
@@ -184,7 +184,7 @@ Les entreprises ferroviaires suisses SBB et BLS acceptent partiellement les Coup
 
 Cependant, les Coupons FIP de la SBB ne sont pas valables sur les bateaux de la BLS sur le lac de Thoune et le lac de Brienz, ni dans les bus de la BLS, qui circulent principalement dans l’Emmental.
 
-### Correspondances - AJC
+### Correspondances – AJC
 
 Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 
