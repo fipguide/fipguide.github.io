@@ -4,6 +4,8 @@ country: "{{ .File.ContentBaseName }}"
 params:
   operators_without_fip:
     -  # List operators without FIP here
+content_images:
+  - "image.webp"
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->

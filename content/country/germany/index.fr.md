@@ -81,6 +81,8 @@ params:
     - WESTbahn – WB
     - WestfalenBahn – WFB
     - Württembergische Eisenbahn-Gesellschaft mbH – WEG
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP

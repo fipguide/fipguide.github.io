@@ -10,6 +10,8 @@ params:
     - Leo Express
     - RegioJet
     - Trilex / Die Länderbahn
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP

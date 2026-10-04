@@ -3,6 +3,8 @@ title: ŁKA
 country:
   - poland
 operator: lka
+content_images:
+  - image.webp
 aliases:
   - /booking/lka-ticket-machine
   - /booking/lka-ticket-office

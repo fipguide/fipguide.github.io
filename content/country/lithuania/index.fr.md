@@ -4,6 +4,8 @@ country: lithuania
 params:
   operators_without_fip:
     - Aukštaitijos siaurasis geležinkelis (chemin de fer musée)
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP
