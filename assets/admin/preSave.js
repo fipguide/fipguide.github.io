@@ -1,13 +1,19 @@
 import CMS from "@sveltia/cms";
-import { Map as ImmutableMap, List as ImmutableList } from "immutable";
 import * as prettier from "prettier/standalone";
 import * as markdownPlugin from "prettier/plugins/markdown";
 
-function isMarkdownFieldKey(key) {
-  return key === "body" || key === "de" || key === "en" || key === "fr";
+function isMapLike(value) {
+  return (
+    value !== null &&
+    typeof value === "object" &&
+    typeof value.get === "function" &&
+    typeof value.set === "function"
+  );
 }
 
 function convertEscapedNewlinesInTables(markdown) {
+  // Workaround for https://github.com/facebook/lexical/issues/9323
+
   return markdown
     .split("\n")
     .map(function (line) {
@@ -34,40 +40,18 @@ async function formatMarkdown(markdown) {
   }
 }
 
-async function formatMarkdownFieldsInValue(value) {
-  if (ImmutableMap.isMap(value)) {
-    var entries = Array.from(value.entries());
-    var result = value;
-    for (var i = 0; i < entries.length; i++) {
-      var key = entries[i][0];
-      var val = entries[i][1];
-      if (isMarkdownFieldKey(key) && typeof val === "string" && val.trim()) {
-        result = result.set(key, await formatMarkdown(val));
-      } else {
-        var formattedVal = await formatMarkdownFieldsInValue(val);
-        if (formattedVal !== val) {
-          result = result.set(key, formattedVal);
-        }
-      }
-    }
-    return result;
+async function formatBodyField(data) {
+  if (!isMapLike(data)) {
+    return data;
   }
 
-  if (ImmutableList.isList(value)) {
-    var items = value.toArray();
-    var changed = false;
-    var newItems = [];
-    for (var j = 0; j < items.length; j++) {
-      var newItem = await formatMarkdownFieldsInValue(items[j]);
-      if (newItem !== items[j]) {
-        changed = true;
-      }
-      newItems.push(newItem);
-    }
-    return changed ? ImmutableList(newItems) : value;
+  var body = data.get("body");
+  if (typeof body !== "string" || !body.trim()) {
+    return data;
   }
 
-  return value;
+  var formattedBody = await formatMarkdown(body);
+  return formattedBody === body ? data : data.set("body", formattedBody);
 }
 
 CMS.registerEventListener({
@@ -76,30 +60,8 @@ CMS.registerEventListener({
     try {
       var entry = args.entry;
       var data = entry.get("data");
-      var formattedData = await formatMarkdownFieldsInValue(data);
-      var updatedEntry =
-        formattedData !== data ? entry.set("data", formattedData) : entry;
-
-      var i18n = updatedEntry.get("i18n");
-      if (i18n) {
-        var locales = Array.from(i18n.keys());
-        for (var i = 0; i < locales.length; i++) {
-          var locale = locales[i];
-          var localeData = i18n.getIn([locale, "data"]);
-          if (localeData) {
-            var formattedLocaleData =
-              await formatMarkdownFieldsInValue(localeData);
-            if (formattedLocaleData !== localeData) {
-              updatedEntry = updatedEntry.setIn(
-                ["i18n", locale, "data"],
-                formattedLocaleData,
-              );
-            }
-          }
-        }
-      }
-
-      return updatedEntry;
+      var formattedData = await formatBodyField(data);
+      return formattedData !== data ? entry.set("data", formattedData) : entry;
     } catch (error) {
       console.error("[preSave] handler failed:", error);
       return args.entry;

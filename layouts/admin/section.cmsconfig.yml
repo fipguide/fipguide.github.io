@@ -139,14 +139,6 @@ collections:
         widget: "string"
         required: false
         i18n: true
-      - label: "Content Images"
-        name: "content_images"
-        widget: "image"
-        multiple: true
-        required: false
-        i18n: duplicate
-        hint: "Images shown for this page. Prefer .webp images."
-        accept: "image/webp"
       - label: "Countries"
         name: "country"
         widget: "relation"
@@ -169,6 +161,14 @@ collections:
         required: false
         i18n: duplicate
         hint: "List of operators this news article is about."
+      - label: "Content Images"
+        name: "content_images"
+        widget: "image"
+        multiple: true
+        required: false
+        i18n: duplicate
+        hint: "Images shown for this page. Prefer .webp images."
+        accept: "image/webp"
       - label: "Body"
         name: "body"
         widget: "markdown"
