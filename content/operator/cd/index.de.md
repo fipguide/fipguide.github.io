@@ -741,4 +741,4 @@ Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverl�
 
 [^3]: [Feedback: ČD reservations and commercial service](https://github.com/fipguide/fipguide.github.io/issues/467)
 
-[^4]: [ČD – National Tickets](https://www.cd.cz/en/typy-jizdenek/vnitrostatni-jizdenky/-28162/)
+[^4]: [ČD – Inlandsfahrkarten](https://www.cd.cz/en/typy-jizdenek/vnitrostatni-jizdenky/-28162/)
