@@ -162,7 +162,7 @@ J’ai donc besoin d’un billet supplémentaire pour le voyage entre Francfort 
 
 Pour les employés de certains pays, une taxation supplémentaire des avantages FIP est nécessaire, ce qui peut entraîner des coûts supplémentaires.
 
-Vous trouverez plus d’informations dans la [Demande FIP](/general/fip-validity).
+Vous trouverez plus d’informations dans la [Demande FIP dans la section sur l’imposition](/general/fip-validity#imposition).
 
 ## FAQ
 

@@ -4,6 +4,8 @@ country: bulgaria
 params:
   operators_without_fip:
     - Optima Express
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

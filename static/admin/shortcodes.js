@@ -32,9 +32,11 @@
     );
   }
 
-  function selfClosingPattern(name) {
+  function selfClosingPattern(name, options) {
+    options = options || {};
+    var paramsCapture = options.inline ? "([^\\n]*?)" : "([\\s\\S]*?)";
     return new RegExp(
-      "\\{\\{[%<] " + name + "(?![\\w-])([\\s\\S]*?)[%>/]\\}\\}",
+      "\\{\\{[%<] " + name + "(?![\\w-])" + paramsCapture + "[%>/]\\}\\}",
     );
   }
 
@@ -163,14 +165,25 @@
       name: "type",
       label: "Type",
       widget: "select",
-      options: ["important", "tip", "confusion", "inofficial"],
+      options: [
+        { label: "Important", value: "important" },
+        { label: "Tip", value: "tip" },
+        { label: "Confusion", value: "confusion" },
+        { label: "Inofficial", value: "inofficial" },
+      ],
       param: { positional: true, required: true },
     },
     {
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -222,7 +235,11 @@
       name: "variant",
       label: "Variant",
       widget: "select",
-      options: [{ label: "None", value: "" }, "border", "info"],
+      options: [
+        { label: "None", value: "" },
+        { label: "Border", value: "border" },
+        { label: "Info", value: "info" },
+      ],
       required: false,
       param: { positional: true },
     },
@@ -230,7 +247,13 @@
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight-raw", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight-raw",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -265,10 +288,10 @@
       label: "Type",
       widget: "select",
       options: [
-        "fip-coupon",
-        "fip-reduced-ticket",
-        "fip-global-fare",
-        "additional",
+        { label: "FIP Coupon", value: "fip-coupon" },
+        { label: "FIP Reduced Ticket", value: "fip-reduced-ticket" },
+        { label: "FIP Global Fare", value: "fip-global-fare" },
+        { label: "Additional", value: "additional" },
       ],
       param: { required: true },
     },
@@ -276,7 +299,11 @@
       name: "status",
       label: "Status",
       widget: "select",
-      options: ["valid", "invalid", "unknown"],
+      options: [
+        { label: "Valid", value: "valid" },
+        { label: "Invalid", value: "invalid" },
+        { label: "Unknown", value: "unknown" },
+      ],
       param: { required: true },
     },
     {
@@ -346,14 +373,14 @@
       label: "Type",
       widget: "select",
       options: [
-        "highspeed",
-        "regional",
-        "subway",
-        "sleeper",
-        "funicular",
-        "bus",
-        "ship",
-        "tram",
+        { label: "Highspeed", value: "highspeed" },
+        { label: "Regional", value: "regional" },
+        { label: "Subway", value: "subway" },
+        { label: "Sleeper", value: "sleeper" },
+        { label: "Funicular", value: "funicular" },
+        { label: "Bus", value: "bus" },
+        { label: "Ship", value: "ship" },
+        { label: "Tram", value: "tram" },
       ],
       param: { required: true },
     },
@@ -412,7 +439,13 @@
       name: "body",
       label: "Description",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight-raw", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight-raw",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -560,7 +593,7 @@
       label: "Additional info",
       widget: "markdown",
       required: false,
-      editor_components: ["button", "float-image", "image"],
+      editor_components: ["button", "float-image", "icon", "image"],
     },
   ];
 
@@ -604,14 +637,25 @@
       name: "section",
       label: "Section",
       widget: "select",
-      options: ["fip_50", "fip_global_fare", "reservations"],
+      options: [
+        { label: "FIP 50", value: "fip_50" },
+        { label: "FIP 75", value: "fip_75" },
+        { label: "FIP Global Fare", value: "fip_global_fare" },
+        { label: "Reservations", value: "reservations" },
+      ],
       param: { positional: true, quote: true, required: true },
     },
     {
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight-raw", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight-raw",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -701,7 +745,13 @@
       label: "Additional info",
       widget: "markdown",
       required: false,
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -738,7 +788,7 @@
       label: "Additional info",
       widget: "markdown",
       required: false,
-      editor_components: ["button", "float-image", "image"],
+      editor_components: ["button", "float-image", "icon", "image"],
     },
   ];
 
@@ -777,7 +827,13 @@
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -832,7 +888,10 @@
       name: "position",
       label: "Position",
       widget: "select",
-      options: ["right", "left"],
+      options: [
+        { label: "Right", value: "right" },
+        { label: "Left", value: "left" },
+      ],
       default: "right",
       param: {},
     },
@@ -841,7 +900,7 @@
       label: "Surrounding text",
       widget: "markdown",
       required: false,
-      editor_components: ["button", "image"],
+      editor_components: ["button", "icon", "image"],
     },
   ];
 
@@ -885,6 +944,38 @@
     },
   });
 
+  var iconFields = [
+    {
+      name: "name",
+      label: "Icon Name",
+      widget: "string",
+      hint: 'Name of a Material Symbols icon, e.g. "help". See https://fonts.google.com/icons?icon.set=Material+Symbols for available names.',
+      param: { positional: true, quote: true, required: true },
+    },
+  ];
+
+  CMS.registerEditorComponent({
+    id: "icon",
+    label: "Icon",
+    icon: "add_reaction",
+    mode: "dialog",
+    summary: "Icon {{name}}",
+    fields: iconFields,
+    pattern: selfClosingPattern("icon", { inline: true }),
+    fromBlock: function (match) {
+      var titleMatch = match[1].match(/"([^"]*)"/);
+      return { name: titleMatch ? titleMatch[1] : "" };
+    },
+    toBlock: makeToBlock("icon", {
+      bracket: "<",
+      fields: iconFields,
+      bodyMode: "none",
+    }),
+    toPreview: function () {
+      return "";
+    },
+  });
+
   var updateFields = [
     {
       name: "date",
@@ -898,7 +989,13 @@
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -932,7 +1029,13 @@
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -960,7 +1063,7 @@
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["column"],
+      editor_components: ["column", "icon"],
     },
   ];
 
@@ -987,7 +1090,10 @@
       name: "type",
       label: "Type",
       widget: "select",
-      options: ["fip-coupon", "fip-reduced-ticket"],
+      options: [
+        { label: "FIP Coupon", value: "fip-coupon" },
+        { label: "FIP Reduced Ticket", value: "fip-reduced-ticket" },
+      ],
       param: { required: true },
     },
     {

@@ -162,7 +162,7 @@ Ich brauche also ein zusätzliches Ticket für die Fahrt zwischen Frankfurt Hbf 
 
 Für Mitarbeitende einiger Länder ist eine zusätzliche Versteuerung von FIP Vergünstigungen notwendig, die zusätzliche Kosten verursachen kann.
 
-Weitere Informationen findest du auf der Seite [FIP Beantragung](/general/fip-validity).
+Weitere Informationen findest du auf der Seite [FIP Beantragung im Abschnitt Versteuerung](/general/fip-validity#versteuerung).
 
 ## FAQ
 

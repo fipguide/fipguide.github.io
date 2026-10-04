@@ -9,6 +9,8 @@ params:
     - SFTRA (Softrans)
     - TFC (Transferoviar Călători)
     - TFI (Ferotrans)
+content_images:
+  - image.webp
 ---
 
 ## FIP Information
