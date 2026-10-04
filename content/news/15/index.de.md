@@ -13,7 +13,7 @@ Damit sind ab sofort folgende Linien mit FIP nutzbar:
 - **RE 10b**: Heilbronn – Sinsheim (Elsenz) – Heidelberg – Mannheim
 - **MEX 12**: Tübingen – Stuttgart – Heilbronn
 - **MEX 17**: Stuttgart – Mühlacker – Pforzheim – Karlsruhe
-- **RE 17**: Pforzheim – Bad Wildbad *(verkehrt nur So bis 18.10.)*
+- **RE 17**: Pforzheim – Bad Wildbad _(verkehrt nur So bis 18.10.)_
 - **MEX/RB 18**: Tübingen – Stuttgart – Heilbronn – Osterburken
 - **RB/RE 71**: Mühlacker – Bretten – Bruchsal – Heidelberg
 

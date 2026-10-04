@@ -13,7 +13,7 @@ The following services can now be used with FIP:
 - **RE 10b**: Heilbronn – Sinsheim (Elsenz) – Heidelberg – Mannheim
 - **MEX 12**: Tübingen – Stuttgart – Heilbronn
 - **MEX 17**: Stuttgart – Mühlacker – Pforzheim – Karlsruhe
-- **RE 17**: Pforzheim – Bad Wildbad *(only on Sundays until 18.10.)*
+- **RE 17**: Pforzheim – Bad Wildbad _(only on Sundays until 18.10.)_
 - **MEX/RB 18**: Tübingen – Stuttgart – Heilbronn – Osterburken
 - **RB/RE 71**: Mühlacker – Bretten – Bruchsal – Heidelberg
 

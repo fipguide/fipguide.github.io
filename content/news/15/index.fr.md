@@ -13,7 +13,7 @@ Les lignes suivantes peuvent désormais être utilisées avec FIP :
 - **RE 10b**: Heilbronn – Sinsheim (Elsenz) – Heidelberg – Mannheim
 - **MEX 12**: Tübingen – Stuttgart – Heilbronn
 - **MEX 17**: Stuttgart – Mühlacker – Pforzheim – Karlsruhe
-- **RE 17**: Pforzheim – Bad Wildbad *(ne circule que le dimanche jusqu'au 18 octobre)*
+- **RE 17**: Pforzheim – Bad Wildbad _(ne circule que le dimanche jusqu'au 18 octobre)_
 - **MEX/RB 18**: Tübingen – Stuttgart – Heilbronn – Osterburken
 - **RB/RE 71**: Mühlacker – Bretten – Bruchsal – Heidelberg
 
