@@ -4,6 +4,8 @@ country:
   - spain
   - france
 operator: renfe
+content_images:
+  - image.webp
 aliases:
   - /booking/renfe-ticket-office
 ---

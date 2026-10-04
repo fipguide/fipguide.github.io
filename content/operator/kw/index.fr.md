@@ -3,6 +3,8 @@ title: KW
 country:
   - poland
 operator: kw
+content_images:
+  - image.webp
 aliases:
   - /booking/kw-ticket-machine
   - /booking/kw-ticket-office

@@ -1,6 +1,8 @@
 ---
 title: "Bosnie-Herzégovine"
 country: "bosnia-and-herzegovina"
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP

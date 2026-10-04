@@ -7,6 +7,8 @@ params:
     - Flåm Railway
     - Flytoget Airport Express
     - SJ Sverige
+content_images:
+  - image.webp
 ---
 
 ## FIP Information

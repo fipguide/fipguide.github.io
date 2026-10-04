@@ -2,6 +2,8 @@
 title: BLS
 country:
   - switzerland
+content_images:
+  - image.webp
 aliases:
   - /booking/bls-ticket-office
 ---

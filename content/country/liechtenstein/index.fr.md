@@ -1,6 +1,8 @@
 ---
 title: Liechtenstein
 country: liechtenstein
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP
