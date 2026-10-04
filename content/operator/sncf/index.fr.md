@@ -163,7 +163,11 @@ Trains de nuit SNCF en France. Les liaisons internationales Nightjet ont été s
 
 #### Réservations
 
-Coût selon la ligne et l’affluence.
+|          | Voiture assise | Voiture-couchette |
+| -------- | -------------- | ----------------- |
+| National | 2 €            | 20 €              |
+
+Il n’y a pas de distinction entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak) pour les Intercité de nuit.
 
 {{% /train-category %}}
 

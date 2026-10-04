@@ -163,7 +163,11 @@ Nachtzüge der SNCF im französischen Inland. Internationale Nachtzugverbindunge
 
 #### Reservierungen
 
-Kosten abhängig von Strecke und Auslastung.
+|          | Sitzwagen | Liegewagen / Couchette |
+| -------- | --------- | ---------------------- |
+| National | 2 €       | 20 €                   |
+
+Es gibt keine Unterscheidung zwischen Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak)-Zügen bei den Intercité de nuit.
 
 {{% /train-category %}}
 
