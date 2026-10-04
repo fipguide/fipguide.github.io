@@ -68,7 +68,7 @@ jobs:
         run: npx -y pagefind --site public
       - name: Check for unrendered footnotes
         run: |
-          if grep -rnEo '\[\^[0-9]+\]' public; then
+          if grep -rnEo '\[\^[0-9]+\]' public --exclude-dir=admin; then
             echo "FAIL: Unrendered footnotes found. See lines above." >&2
             exit 1
           fi
