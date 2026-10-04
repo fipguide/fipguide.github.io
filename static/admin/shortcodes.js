@@ -32,9 +32,11 @@
     );
   }
 
-  function selfClosingPattern(name) {
+  function selfClosingPattern(name, options) {
+    options = options || {};
+    var paramsCapture = options.inline ? "([^\\n]*?)" : "([\\s\\S]*?)";
     return new RegExp(
-      "\\{\\{[%<] " + name + "(?![\\w-])([\\s\\S]*?)[%>/]\\}\\}",
+      "\\{\\{[%<] " + name + "(?![\\w-])" + paramsCapture + "[%>/]\\}\\}",
     );
   }
 
@@ -175,7 +177,13 @@
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -239,7 +247,13 @@
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight-raw", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight-raw",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -425,7 +439,13 @@
       name: "body",
       label: "Description",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight-raw", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight-raw",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -573,7 +593,7 @@
       label: "Additional info",
       widget: "markdown",
       required: false,
-      editor_components: ["button", "float-image", "image"],
+      editor_components: ["button", "float-image", "icon", "image"],
     },
   ];
 
@@ -629,7 +649,13 @@
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight-raw", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight-raw",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -719,7 +745,13 @@
       label: "Additional info",
       widget: "markdown",
       required: false,
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -756,7 +788,7 @@
       label: "Additional info",
       widget: "markdown",
       required: false,
-      editor_components: ["button", "float-image", "image"],
+      editor_components: ["button", "float-image", "icon", "image"],
     },
   ];
 
@@ -795,7 +827,13 @@
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -862,7 +900,7 @@
       label: "Surrounding text",
       widget: "markdown",
       required: false,
-      editor_components: ["button", "image"],
+      editor_components: ["button", "icon", "image"],
     },
   ];
 
@@ -906,6 +944,38 @@
     },
   });
 
+  var iconFields = [
+    {
+      name: "name",
+      label: "Icon Name",
+      widget: "string",
+      hint: 'Name of a Material Symbols icon, e.g. "help". See https://fonts.google.com/icons?icon.set=Material+Symbols for available names.',
+      param: { positional: true, quote: true, required: true },
+    },
+  ];
+
+  CMS.registerEditorComponent({
+    id: "icon",
+    label: "Icon",
+    icon: "add_reaction",
+    mode: "dialog",
+    summary: "Icon {{name}}",
+    fields: iconFields,
+    pattern: selfClosingPattern("icon", { inline: true }),
+    fromBlock: function (match) {
+      var titleMatch = match[1].match(/"([^"]*)"/);
+      return { name: titleMatch ? titleMatch[1] : "" };
+    },
+    toBlock: makeToBlock("icon", {
+      bracket: "<",
+      fields: iconFields,
+      bodyMode: "none",
+    }),
+    toPreview: function () {
+      return "";
+    },
+  });
+
   var updateFields = [
     {
       name: "date",
@@ -919,7 +989,13 @@
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -953,7 +1029,13 @@
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["button", "float-image", "highlight", "image"],
+      editor_components: [
+        "button",
+        "float-image",
+        "highlight",
+        "icon",
+        "image",
+      ],
     },
   ];
 
@@ -981,7 +1063,7 @@
       name: "body",
       label: "Content",
       widget: "markdown",
-      editor_components: ["column"],
+      editor_components: ["column", "icon"],
     },
   ];
 

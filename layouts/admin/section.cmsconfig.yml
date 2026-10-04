@@ -181,6 +181,7 @@ collections:
           - "dialog"
           - "float-image"
           - "wip"
+          - "icon"
           - "update"
           - "columns"
           - "footnote"
@@ -236,6 +237,7 @@ collections:
           - "dialog"
           - "float-image"
           - "wip"
+          - "icon"
           - "identify-operator"
           - "columns"
           - "footnote"
@@ -298,6 +300,7 @@ collections:
           - "dialog"
           - "float-image"
           - "wip"
+          - "icon"
           - "columns"
           - "footnote"
 
@@ -368,6 +371,7 @@ collections:
           - "dialog"
           - "float-image"
           - "wip"
+          - "icon"
           - "columns"
           - "footnote"
 
@@ -410,17 +414,20 @@ collections:
               - label: "Deutsch"
                 name: "de"
                 widget: "markdown"
-                editor_components: []
+                editor_components:
+                  - "icon"
                 minimal: true
               - label: "English"
                 name: "en"
                 widget: "markdown"
-                editor_components: []
+                editor_components:
+                  - "icon"
                 minimal: true
               - label: "Français"
                 name: "fr"
                 widget: "markdown"
-                editor_components: []
+                editor_components:
+                  - "icon"
                 minimal: true
       - label: "Operators"
         name: "operators"
@@ -689,6 +696,7 @@ collections:
           - "dialog"
           - "float-image"
           - "wip"
+          - "icon"
           - "columns"
           - "footnote"
 
@@ -720,6 +728,7 @@ collections:
               - "dialog"
               - "float-image"
               - "wip"
+              - "icon"
               - "columns"
               - "footnote"
 
@@ -757,6 +766,7 @@ collections:
               - "dialog"
               - "float-image"
               - "wip"
+              - "icon"
               - "columns"
               - "footnote"
 
@@ -794,6 +804,7 @@ collections:
               - "dialog"
               - "float-image"
               - "wip"
+              - "icon"
               - "columns"
               - "footnote"
 
@@ -829,6 +840,7 @@ collections:
           - "dialog"
           - "float-image"
           - "wip"
+          - "icon"
           - "columns"
           - "footnote"
 
@@ -869,5 +881,6 @@ collections:
           - "dialog"
           - "float-image"
           - "wip"
+          - "icon"
           - "columns"
           - "footnote"
