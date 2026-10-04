@@ -1,6 +1,8 @@
 ---
 title: Montenegro
 country: montenegro
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

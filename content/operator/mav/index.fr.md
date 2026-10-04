@@ -1,8 +1,10 @@
 ---
-title: MÁV
+title: MÁV-START
 country:
   - hungary
 operator: mav
+content_images:
+  - image.webp
 ---
 
 MÁV (Magyar Államvasutak, Chemins de fer d'État hongrois) est la principale compagnie ferroviaire en [Hongrie](/country/hungary) et exploite la majorité du trafic longue distance et régional.

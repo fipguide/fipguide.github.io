@@ -1,8 +1,10 @@
 ---
-title: MÁV
+title: MÁV-START
 country:
   - hungary
 operator: mav
+content_images:
+  - image.webp
 ---
 
 MÁV (Magyar Államvasutak, Hungarian State Railways) is the main railway company in [Hungary](/country/hungary) and operates the majority of long-distance and regional traffic.

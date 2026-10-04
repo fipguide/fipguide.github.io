@@ -4,6 +4,8 @@ country: lithuania
 params:
   operators_without_fip:
     - Aukštaitijos siaurasis geležinkelis (heritage railway)
+content_images:
+  - image.webp
 ---
 
 ## FIP Information
@@ -64,6 +66,10 @@ There are currently no trains running between Lithuania and Belarus.
 There are only very few cross-border trains between Poland and Lithuania. One train pair runs from Krakow via Warsaw to Vilnius. At the border station Mockava, a change of trains is required, but the journey is sold as a through connection. The transfer is either on the same platform or via a level crossing to the adjacent platform. In Mockava, connecting trains will wait for delayed arrivals. Tickets and reservations can be purchased online ([see Ticket and Reservation Purchase](/operator/ltg#online)). For cross-border journeys to/from Poland, you must have either a continuous FIP 50 Ticket or FIP Coupons for both countries.
 
 The number of tickets is limited, as travel is only possible with a seat reservation. Since December 2025, a fixed seat reservation is only assigned in the PKP `IC` train, while on the LTG-Link railcar there is free choice of seats.
+
+{{% highlight tip %}}
+LTG-Link offers only 2nd class tickets for cross-border connections. Through the [PKP sales channels](/operator/pkp#ticket-and-reservation-purchase), 1st class tickets can be purchased for the Polish section of the route (up to Mockava). On the Lithuanian section of the route, only 2nd class is generally available. When combining two separate tickets or reservations, it should be noted that this may result in restrictions on passenger rights.
+{{% /highlight %}}
 
 ### Russia
 

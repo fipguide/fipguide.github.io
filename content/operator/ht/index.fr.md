@@ -3,6 +3,8 @@ title: Hellenic Train
 country:
   - greece
 operator: ht
+content_images:
+  - image.webp
 aliases:
   - /booking/ht-ticket-office
   - /booking/ht-website
@@ -90,8 +92,8 @@ Les bus exploités par Hellenic Train acceptent les avantages FIP.[^1]
 
 Hellenic Train exploite trois liaisons ferroviaires touristiques ou historiques sur lesquelles le FIP n’est pas accepté.[^1]
 
-- Pelion Train d’Ano Lechonia (Άνω Λεχώνια) à Milies (Μηλιές) (https://www.hellenictrain.gr/en/mythical-route)
-- Chemin de fer à crémaillère « Odontotos » de Diakopto (Διακοπτό) à Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/attraction-rails)
+- Pelion Train d’Ano Lechonia (Άνω Λεχώνια) à Milies (Μηλιές) (https://www.hellenictrain.gr/en/the-pelion-train/)
+- Chemin de fer à crémaillère « Odontotos » de Diakopto (Διακοπτό) à Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/diakopto-kalavryta-rack-railway/)
 - Katakolo (Κατάκολο) – Olympie (Αρχαία Ολυμπία) (https://www.hellenictrain.gr/en/katakolo-olympia)
 
 {{< highlight tip >}}
@@ -175,12 +177,12 @@ Un billet acheté en ligne peut être annulé au guichet ou via la [ligne télé
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782274-greece.html)
 
-[^2]: [Hellenic Train](https://www.hellenictrain.gr/en/ticket-sales-board)
+[^2]: [Hellenic Train](https://www.hellenictrain.gr/en/tickets-cards/sale-points-opening-hours/)
 
 [^3]: [LOK Report](https://www.lok-report.de/news/europa/item/65837-griechenland-betrieb-der-zahnradbahn-diakopto-kalvrita-vorlaeufig-eingestellt.html)
 
-[^4]: [Hellenic Train ETR PDF](https://www.hellenictrain.gr/sites/default/files/2022-11/Hellenic_Train_ETR_EN_0.pdf)
+[^4]: [Hellenic Train – ETR](https://www.hellenictrain.gr/press/anakoinosi-30092022-parateinetai-i-ekptosi-gia-taxidia-me-ta-grigora-trena-etr/)
 
-[^5]: [Hellenic Train Terms and Conditions](https://www.hellenictrain.gr/sites/default/files/2024-10/2024.10.16-PASSENGER%20TERMS%20AND%20CONDITIONS-EN.pdf)
+[^5]: [Hellenic Train – Terms & Conditions of Passenger Transportation](https://www.hellenictrain.gr/en/plan-your-trip/terms-conditions/terms-of-transport/)
 
-[^6]: [Hellenic Train – Offres pour les enfants](https://www.hellenictrain.gr/en/children-offers)
+[^6]: [Hellenic Train – Offres pour les enfants](https://www.hellenictrain.gr/en/tickets-cards/tickets/discounts)

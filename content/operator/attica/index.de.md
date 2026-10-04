@@ -4,6 +4,8 @@ country:
   - greece
   - italy
 operator: attica
+content_images:
+  - image.webp
 aliases:
   - /booking/attica-agents
   - /booking/attica-email

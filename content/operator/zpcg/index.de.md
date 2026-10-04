@@ -3,6 +3,8 @@ title: ŽPCG
 country:
   - montenegro
 operator: zpcg
+content_images:
+  - image.webp
 ---
 
 ŽPCG (Željeznički prevoz Crne Gore, Жељезнички превоз Црне Горе) ist der nationale Personenverkehrsbetreiber in Montenegro.
