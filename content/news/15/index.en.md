@@ -8,13 +8,14 @@ On 1 August 2026, the Neckar Valley network, formerly operated by DB Regio Stutt
 
 The following services can now be used with FIP:
 
-- **RE 6**: Tübingen - Stuttgart
-- **RE 10a**: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
-- **RE 10b**: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
-- **MEX 12**: Tübingen - Stuttgart - Heilbronn
-- **MEX/RB 17a**: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
-- **MEX/RB 18**: Tübingen - Stuttgart - Heilbronn - Osterburken
-- **RB 71**: Mühlacker – Bretten – Bruchsal
+- **RE 6**: Tübingen – Stuttgart
+- **RE 10a**: Heilbronn – Mosbach-Neckarelz – Heidelberg – Mannheim
+- **RE 10b**: Heilbronn – Sinsheim (Elsenz) – Heidelberg – Mannheim
+- **MEX 12**: Tübingen – Stuttgart – Heilbronn
+- **MEX 17**: Stuttgart – Mühlacker – Pforzheim – Karlsruhe
+- **RE 17**: Pforzheim – Bad Wildbad *(only on Sundays until 18.10.)*
+- **MEX/RB 18**: Tübingen – Stuttgart – Heilbronn – Osterburken
+- **RB/RE 71**: Mühlacker – Bretten – Bruchsal – Heidelberg
 
 More information about the Neckar Valley network is available on the [DB Regio website](https://regional.bahn.de/regionen/baden-wuerttemberg/ueb/partner/netz-neckartal).
 
