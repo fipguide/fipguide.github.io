@@ -5,175 +5,130 @@ country:
 operator: "zrsm"
 ---
 
-{{< wip >}}
-
-<!--
-  Brève description de la compagnie ferroviaire. Par exemple, le nom complet dans la langue locale, les noms alternatifs, et si c’est une compagnie privée ou publique.
--->
+Železnici na Republika Severna Makedonija (ŽRSM) est la compagnie ferroviaire nationale de la Macédoine du Nord. La filiale ŽRSM Transport exploite le trafic ferroviaire voyageurs dans le pays.
 
 ## Résumé
 
-<!--
-  Liste à puces des principales caractéristiques / règles FIP de la compagnie ferroviaire.
-  Par exemple :
-  - Les Billets FIP 50 et les Coupons FIP sont-ils acceptés ?
-  - Y a-t-il une obligation de réservation ?
-  - Existe-t-il d’autres conditions tarifaires particulières ou des dérogations par rapport aux autres compagnies FIP ?
--->
+- Les billets FIP 50 et les coupons FIP sont acceptés.
+- Les billets à tarif réduit FIP sont vendus uniquement sur place.
 
 ## Validité des Billets FIP
 
-<!--
-  Les catégories de billets peuvent varier selon l’opérateur.
--->
-
-<!--
-  Utilisez les shortcodes suivants pour afficher la validité FIP. Les paramètres suivants peuvent être transmis :
-  - `type` : fip-coupon, fip-reduced-ticket, fip-global-fare, additional
-  - `status` : valid, invalid, unknown
-  - `text` : Texte personnalisé optionnel à afficher
-  - `disable_dialog` : true/false (par défaut : false) - Définir sur true pour désactiver la boîte de dialogue
--->
-
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
-{{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
-<!--
-  Où les Billets FIP 50 / Coupons FIP sont-ils valables et quelles sont les restrictions ? Quel billet est nécessaire pour le voyage (par ex. Billet FIP 50 continu ou Coupons FIP des deux pays) ?
--->
+Les coupons FIP et les billets FIP 50 sont valables sur les services de la ŽRSM. Pour les voyages transfrontaliers (actuellement non proposés), il faut disposer soit d’un billet FIP 50 continu, soit de coupons FIP des deux pays.
 
 ## Catégories de trains et réservations
 
-<!--
-  Pour chaque catégorie de train, une section distincte peut être ajoutée selon le modèle suivant. Les paramètres suivants peuvent être utilisés :
-  - `id` : Abréviation en minuscules avec traits d'union de la catégorie de train (par ex. "ice", "tgv-inoui")
-  - `title` : Titre de la catégorie de train
-  - `type` : `highspeed`, `regional`, `subway`, `bus`, `funicular`, `tram`, `sleeper` ou `ship`
-  - `fip_accepted` : true, false, partially
-  - `reservation_required` : true, false, partially
-  - `reservation_possible` : true, false, partially (défaut false, peut être omis si reservation_required est true)
-  - `route_overview_url` : Lien vers une page avec un aperçu des lignes de cette catégorie (peut être omis si non disponible)
-  - `additional_information_url` : Lien vers une page avec des informations supplémentaires sur cette catégorie (peut être omis si non disponible)
--->
-
 {{% train-category
-    id="expander-id"
-    title="titre"
-    type="highspeed"
+    id="ir"
+    title="Train interrégional (IR)"
+    type="regional"
     fip_accepted=true
-    reservation_required=true
+    reservation_required=false
     reservation_possible=true
-    route_overview_url="https://example.com"
-    additional_information_url="https://example.com"
+    route_overview_url="https://mzt.mk/poagane-od-skopje/"
 %}}
 
-<!--
-  Une description de la catégorie de train peut être ajoutée ici.
--->
-
-{{% highlight confusion %}}
-Ce bloc peut être ajouté s’il y a un risque que la catégorie de train soit confondue avec une autre.
-{{% /highlight %}}
-
-{{% highlight important %}}
-D’autres informations importantes peuvent être ajoutées ici.
-{{% /highlight %}}
+Trains interrégionaux de la ŽRSM. Des automotrices diesel et électriques sont utilisées.
 
 #### Réservations
 
-<!--
-  Description des conditions de réservation pour cette catégorie de train.
--->
+Les réservations ne sont pas nécessaires.[^2] Il est possible, en option, de réserver des places assises dans les guichets de la ŽRSM.
 
 #### Lignes régulières
 
-<!--
-  Liste de toutes les lignes de cette catégorie de train en service régulier.
+Le plan de circulation actuel prévoit des services ferroviaires sur les lignes suivantes :
 
-  Pour une validité FIP partielle, les sous-titres suivants peuvent être utilisés :
--->
-
-<!--
-##### Lignes avec validité FIP
-
-- Ligne 1
-- Ligne 2
-
-##### Lignes sans validité FIP
-
-- Ligne 3
-- Ligne 4
--->
+- Skopje – Veles – Gevgelija
+- Skopje – Veles – Prilep – Bitola – Žabeni
 
 {{% /train-category %}}
 
-## Catégories de classes
+{{% train-category
+    id="r"
+    title="Train régional (R)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+    route_overview_url="https://mzt.mk/poagane-od-skopje/"
+%}}
 
-<!--
-  Si les catégories de classes incluent des classes supplémentaires/différentes au-delà de la 1ère et 2ème classe, elles peuvent être décrites ici. Sinon, cette section peut être supprimée.
--->
+Trains régionaux de la ŽRSM. Des autorails diesel et électriques sont utilisés.
 
-<!--
-**Standard** : Comparable à la 2ème classe. \
-**Plus** : 1ère classe sans restauration. Un pass FIP pour la 1ère classe est requis. \
-**Premium** : 1ère classe avec restauration. Non réservable avec FIP.
--->
+#### Réservations
+
+Les réservations ne sont pas nécessaires.[^2] Il est possible, en option, de réserver des places assises dans les guichets de la ŽRSM.
+
+#### Lignes régulières
+
+Le plan de circulation actuel prévoit des services ferroviaires sur les lignes suivantes :
+
+- Skopje – Zelenikovo
+- Skopje – Kumanovo
+
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_possible=nil
+%}}
+
+Les coupons FIP ne sont pas valables dans les bus exploités par la ČD. Dans les bus de remplacement, les réductions FIP s’appliquent si ces bus remplacent un train pour lequel le billet FIP aurait été valable. [^1]
+
+{{% /train-category %}}
 
 ## Achat de billets et réservations
 
-### En ligne
-
-<!--
-  Intégrez ici les informations d’une plateforme de réservation définie.
-
-  Vous pouvez remplacer individuellement les paramètres de réservation listés ci-dessous, mais ce n’est pas obligatoire.
-  Si vous omettez certains paramètres, les valeurs par défaut de la plateforme de réservation seront utilisées.
-
-  Pour plus d’informations sur la définition d’une plateforme de réservation, consultez l’archetype de réservation.
--->
-
-### Par téléphone
-
-<!--
-  Intégrez ici des plateformes de réservation supplémentaires pour la réservation par téléphone.
--->
-
 ### En gare
 
-<!--
-  Intégrez ici des plateformes de réservation supplémentaires pour la réservation en gare.
--->
+{{% booking id="zrsm-ticket-office" /%}}
 
 ### À bord du train
 
-<!--
-  Les billets avec réduction FIP peuvent-ils encore être achetés à bord du train ? Si oui, comment et y a-t-il un supplément ?
--->
+Les billets avec réduction FIP ne peuvent pas être achetés à bord du train.[^1]
 
 ## Réductions
 
-<!--
-  Quelles réductions les enfants peuvent-ils obtenir et dans quelles circonstances ?
-  Quelles autres réductions peuvent exister ?
--->
+{{< children-discount >}}
 
-## Conditions tarifaires spéciales
+| Âge                                      | Réduction                                                                  |
+| ---------------------------------------- | -------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit, à condition qu’aucune place assise distincte ne soit requise.[^3] |
+| {{< icon "child_care" >}} 4–11 ans       | 50 % de réduction[^3]                                                      |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal[^3]                                                           |
 
-### <Trajet ou nom>
+Autres réductions :
 
-<!--
-  Description de la condition spéciale, s’il existe des réglementations particulières sur certains trajets.
--->
+- Le premier et le troisième week-end du mois, les personnes jusqu’à 27 ans peuvent voyager gratuitement avec la ŽRSM.[^3]
+- Le deuxième week-end du mois, les femmes de plus de 62 ans et les hommes de plus de 64 ans peuvent voyager gratuitement avec la ŽRSM.[^3]
+- Les étudiants peuvent voyager gratuitement avec la ŽRSM tous les jeudis.[^3]
+- Les écoliers peuvent voyager gratuitement avec la ŽRSM tous les mercredis.[^3]
 
-## Recommandations
+{{% highlight tip %}}
+Pour les voyageurs traversant plusieurs pays des Balkans, le _Balkan Flexipass_ peut être intéressant. Il permet de voyager illimitément sur les réseaux ferroviaires de :
 
-<!--
-  Recommandations personnelles et conseils particuliers pour le voyage.
--->
+- Bosnie-Herzégovine (ŽFBH, ŽRS),
+- Bulgarie (BDŽ),
+- Macédoine du Nord (ŽRSM),
+- Grèce (HT & Attica),
+- Monténégro (ŽPCG),
+- Roumanie (CFR Calatori & Regiotrans),
+- Serbie (SV),
+- Turquie (TCDD).
+
+[Plus d’informations sur le site web de la ŽPCG](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Sources
 
-[^1]: [<Nom de la source 1>](Lien)
+[^1]: [Rail Delivery Group – North Macedonia](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782284-north-macedonia.html)
 
-[^2]: [<Nom de la source 2>](Lien)
+[^2]: [Interrail – Trains in North Macedonia](https://www.interrail.com/en/plan-your-trip/tips-and-tricks/trains-europe/trains-country/trains-north-macedonia#1790242029008339)
+
+[^3]: [ŽRSM – Horaires](https://mzt.mk/%d0%b2-%d0%be-%d0%b7-%d0%b5-%d0%bd-%d1%80-%d0%b5-%d0%b4-14-12-2025-12-12-2026/)

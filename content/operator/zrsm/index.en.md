@@ -5,175 +5,130 @@ country:
 operator: "zrsm"
 ---
 
-{{< wip >}}
-
-<!--
-  Short description of the railway company. For example, the full name in the local language, alternative names, and information about whether it is a private or state railway.
--->
+Železnici na Republika Severna Makedonija (ŽRSM) is the state railway company of North Macedonia. The subsidiary ŽRSM Transport operates passenger rail services in the country.
 
 ## Summary
 
-<!--
-  Bullet point summary of the most important features/FIP regulations of the railway company.
-  For example:
-  - Are FIP 50 and FIP Coupons accepted?
-  - Is there a reservation requirement?
-  - Are there any other special tariff regulations or deviations from other FIP railway companies?
--->
+- FIP 50 tickets and FIP coupons are accepted.
+- FIP discounted tickets are sold only on site.
 
 ## Validity of FIP Tickets
 
-<!--
-  The ticket categories may vary depending on the operator.
--->
-
-<!--
-  Use the following shortcodes to display FIP validity. The following parameters can be passed:
-  - `type`: fip-coupon, fip-reduced-ticket, fip-global-fare, additional
-  - `status`: valid, invalid, unknown
-  - `text`: Optional custom text to display
-  - `disable_dialog`: true/false (default: false) - Set to true to disable the dialog
--->
-
 {{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
-{{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
+{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
-<!--
-  Where are FIP 50 Tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?
--->
+FIP coupons and FIP 50 tickets are valid on ŽRSM services. On cross-border journeys (currently not offered), either a through FIP 50 ticket or FIP coupons for both countries must be available.
 
 ## Train Categories and Reservations
 
-<!--
-  For each train category, a separate section can be added according to the following principle. The following parameters can be passed:
-  - `id`: Lowercase, hyphenated abbreviation of the train category (e.g., "ice", "tgv-inoui")
-  - `title`: Title of the train category
-  - `type`: `highspeed`, `regional`, `subway`, `bus`, `funicular`, `tram`, `sleeper` or `ship`
-  - `fip_accepted`: true, false, partially
-  - `reservation_required`: true, false, partially
-  - `reservation_possible`: true, false, partially (default false, can be omitted if reservation_required is true)
-  - `route_overview_url`: Link to a page with an overview of the routes of this category (can be omitted if not available)
-  - `additional_information_url`: Link to a page with additional information about this category (can be omitted if not available)
--->
-
 {{% train-category
-    id="expander-id"
-    title="title"
-    type="highspeed"
+    id="ir"
+    title="Interregional train (IR)"
+    type="regional"
     fip_accepted=true
-    reservation_required=true
+    reservation_required=false
     reservation_possible=true
-    route_overview_url="https://example.com"
-    additional_information_url="https://example.com"
+    route_overview_url="https://mzt.mk/poagane-od-skopje/"
 %}}
 
-<!--
-  A description of the train category can be added here.
--->
-
-{{% highlight confusion %}}
-This highlight can be added if there is a risk that the train category could be confused with another one.
-{{% /highlight %}}
-
-{{% highlight important %}}
-Further important information can be added here.
-{{% /highlight %}}
+Interregional trains of the ŽRSM. Diesel and electric multiple units are used.
 
 #### Reservations
 
-<!--
-  Description of the reservation conditions for this train category.
--->
+Reservations are not required.[^2] Optionally, seat reservations can be made at ŽRSM ticket offices.
 
 #### Scheduled routes
 
-<!--
-  List of all routes of this train category in scheduled services.
+The current timetable includes rail services on the following routes:
 
-  For partial FIP validity, the following subheadings can be used:
--->
-
-<!--
-##### Routes with FIP validity
-
-- Route 1
-- Route 2
-
-##### Routes without FIP validity
-
-- Route 3
-- Route 4
--->
+- Skopje – Veles – Gevgelija
+- Skopje – Veles – Prilep – Bitola – Žabeni
 
 {{% /train-category %}}
 
-## Class Categories
+{{% train-category
+    id="r"
+    title="Regional train (R)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=true
+    route_overview_url="https://mzt.mk/poagane-od-skopje/"
+%}}
 
-<!--
-  If the class categories include additional/different classes beyond 1st and 2nd class, they can be described here. Otherwise, this section can be removed.
--->
+Regional trains of the ŽRSM. Diesel and electric multiple units are used.
 
-<!--
-**Standard**: Comparable to 2nd class. \
-**Plus**: 1st class without catering. An FIP pass for 1st class is required. \
-**Premium**: 1st class including catering. Not bookable with FIP.
--->
+#### Reservations
+
+Reservations are not required.[^2] Optionally, seat reservations can be made at ŽRSM ticket offices.
+
+#### Scheduled routes
+
+The current timetable includes rail services on the following routes:
+
+- Skopje – Zelenikovo
+- Skopje – Kumanovo
+
+{{% /train-category %}}
+
+{{% train-category
+    id="bus"
+    title="Bus"
+    type="bus"
+    fip_accepted=false
+    reservation_possible=nil
+%}}
+
+FIP coupons are not valid on buses operated by ČD. On replacement buses, FIP discounts apply if they replace a train on which FIP would have been valid. [^1]
+
+{{% /train-category %}}
 
 ## Ticket and Reservation Purchase
 
-### Online
-
-<!--
-  Embed the information of a defined booking platform here.
-
-  You can overwrite individual booking parameters as listed below, but you don't have to.
-  If you leave some parameters out, the defined defaults of the booking platform will be used.
-
-  For more information how to define a booking platform, check the booking archetype.
--->
-
-### Telephone
-
-<!--
-  Embed additional booking platforms with booking via telephone here.
--->
-
 ### On-Site
 
-<!--
-  Embed additional booking platforms with booking on site here.
--->
+{{% booking id="zrsm-ticket-office" /%}}
 
 ### On the Train
 
-<!--
-  Can tickets with FIP discount still be purchased on the train, if so how and is there a surcharge?
--->
+Tickets with an FIP discount cannot be purchased on the train.[^1]
 
 ## Discounts
 
-<!--
-  What discounts can children receive and under what circumstances?
-  What other discounts might there be?
--->
+{{< children-discount >}}
 
-## Special Tariff Conditions
+| Age                                  | Discount                                         |
+| ------------------------------------ | ------------------------------------------------ |
+| {{< icon "stroller" >}} 0–3 years    | Free, provided no separate seat is required.[^3] |
+| {{< icon "child_care" >}} 4–11 years | 50% discount[^3]                                 |
+| {{< icon "person" >}} from 12 years  | Regular price[^3]                                |
 
-### <Route or Name>
+Further discounts:
 
-<!--
-  Description of the special condition, if there are special regulations on certain routes.
--->
+- On the first and third weekend of the month, people up to 27 years of age can travel free on the ŽRSM.[^3]
+- On the second weekend of the month, women over 62 and men over 64 can travel free on the ŽRSM.[^3]
+- Students can travel free on the ŽRSM every Thursday.[^3]
+- Schoolchildren can travel free on the ŽRSM every Wednesday.[^3]
 
-## Recommendations
+{{% highlight tip %}}
+For travellers crossing several Balkan countries, the _Balkan Flexipass_ may be worthwhile. It allows unlimited travel on the railway networks of:
 
-<!--
-  Personal recommendations and special personal tips for the trip
--->
+- Bosnia and Herzegovina (ŽFBH, ŽRS),
+- Bulgaria (BDŽ),
+- North Macedonia (ŽRSM),
+- Greece (HT & Attica),
+- Montenegro (ŽPCG),
+- Romania (CFR Calatori & Regiotrans),
+- Serbia (SV),
+- Turkey (TCDD).
+
+[Further information on the ŽPCG website](https://zpcg.me/en/medjunarodni-prevoz/povlastice)
+{{% /highlight %}}
 
 ## Sources
 
-[^1]: [<Source Name 1>](Link)
+[^1]: [Rail Delivery Group – North Macedonia](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782284-north-macedonia.html)
 
-[^2]: [<Source Name 2>](Link)
+[^2]: [Interrail – Trains in North Macedonia](https://www.interrail.com/en/plan-your-trip/tips-and-tricks/trains-europe/trains-country/trains-north-macedonia#1790242029008339)
+
+[^3]: [ŽRSM – Timetable](https://mzt.mk/%d0%b2-%d0%be-%d0%b7-%d0%b5-%d0%bd-%d1%80-%d0%b5-%d0%b4-14-12-2025-12-12-2026/)
