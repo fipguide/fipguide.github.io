@@ -182,6 +182,7 @@ collections:
           - "float-image"
           - "wip"
           - "icon"
+          - "footnote-reference"
           - "update"
           - "columns"
           - "footnote"
@@ -238,6 +239,7 @@ collections:
           - "float-image"
           - "wip"
           - "icon"
+          - "footnote-reference"
           - "identify-operator"
           - "columns"
           - "footnote"
@@ -301,6 +303,7 @@ collections:
           - "float-image"
           - "wip"
           - "icon"
+          - "footnote-reference"
           - "columns"
           - "footnote"
 
@@ -372,6 +375,7 @@ collections:
           - "float-image"
           - "wip"
           - "icon"
+          - "footnote-reference"
           - "columns"
           - "footnote"
 
@@ -416,18 +420,21 @@ collections:
                 widget: "markdown"
                 editor_components:
                   - "icon"
+                  - "footnote-reference"
                 minimal: true
               - label: "English"
                 name: "en"
                 widget: "markdown"
                 editor_components:
                   - "icon"
+                  - "footnote-reference"
                 minimal: true
               - label: "Français"
                 name: "fr"
                 widget: "markdown"
                 editor_components:
                   - "icon"
+                  - "footnote-reference"
                 minimal: true
       - label: "Operators"
         name: "operators"
@@ -697,6 +704,7 @@ collections:
           - "float-image"
           - "wip"
           - "icon"
+          - "footnote-reference"
           - "columns"
           - "footnote"
 
@@ -729,6 +737,7 @@ collections:
               - "float-image"
               - "wip"
               - "icon"
+              - "footnote-reference"
               - "columns"
               - "footnote"
 
@@ -767,6 +776,7 @@ collections:
               - "float-image"
               - "wip"
               - "icon"
+              - "footnote-reference"
               - "columns"
               - "footnote"
 
@@ -805,6 +815,7 @@ collections:
               - "float-image"
               - "wip"
               - "icon"
+              - "footnote-reference"
               - "columns"
               - "footnote"
 
@@ -841,6 +852,7 @@ collections:
           - "float-image"
           - "wip"
           - "icon"
+          - "footnote-reference"
           - "columns"
           - "footnote"
 
@@ -882,5 +894,6 @@ collections:
           - "float-image"
           - "wip"
           - "icon"
+          - "footnote-reference"
           - "columns"
           - "footnote"

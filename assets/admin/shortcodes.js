@@ -181,6 +181,7 @@ var highlightFields = [
 CMS.registerEditorComponent({
   id: "highlight",
   label: "Highlight",
+  icon: "stylus_highlighter",
   fields: highlightFields,
   pattern: shortcodePattern("highlight", "%"),
   fromBlock: function (match) {
@@ -199,6 +200,7 @@ CMS.registerEditorComponent({
 CMS.registerEditorComponent({
   id: "highlight-raw",
   label: "Highlight",
+  icon: "stylus_highlighter",
   fields: highlightFields,
   pattern: shortcodePattern("highlight", "<"),
   fromBlock: function (match) {
@@ -251,6 +253,7 @@ var expanderFields = [
 CMS.registerEditorComponent({
   id: "expander",
   label: "Expander",
+  icon: "arrow_drop_down_circle",
   fields: expanderFields,
   pattern: shortcodePattern("expander"),
   fromBlock: function (match) {
@@ -324,6 +327,7 @@ var fipValidityFields = [
 CMS.registerEditorComponent({
   id: "fip-validity",
   label: "FIP Validity Badge",
+  icon: "verified",
   fields: fipValidityFields,
   pattern: selfClosingPattern("fip-validity"),
   fromBlock: function (match) {
@@ -443,6 +447,7 @@ var trainCategoryFields = [
 CMS.registerEditorComponent({
   id: "train-category",
   label: "Train Category",
+  icon: "train",
   fields: trainCategoryFields,
   pattern: shortcodePattern("train-category"),
   fromBlock: function (match) {
@@ -591,6 +596,7 @@ var bookingFields = [
 CMS.registerEditorComponent({
   id: "booking",
   label: "Booking",
+  icon: "confirmation_number",
   fields: bookingFields,
   pattern: dualFormPattern("booking"),
   fromBlock: function (match) {
@@ -653,6 +659,7 @@ var bookingSectionFields = [
 CMS.registerEditorComponent({
   id: "booking-section",
   label: "Booking Section",
+  icon: "transit_ticket",
   fields: bookingSectionFields,
   pattern: shortcodePattern("booking-section"),
   fromBlock: function (match) {
@@ -690,6 +697,7 @@ var buttonFields = [
 CMS.registerEditorComponent({
   id: "button",
   label: "Button",
+  icon: "highlight_mouse_cursor",
   fields: buttonFields,
   pattern: selfClosingPattern("button"),
   fromBlock: function (match) {
@@ -743,6 +751,7 @@ var identifyOperatorFields = [
 CMS.registerEditorComponent({
   id: "identify-operator",
   label: "Identify Operator",
+  icon: "search",
   fields: identifyOperatorFields,
   pattern: dualFormPattern("identify-operator"),
   fromBlock: function (match) {
@@ -780,6 +789,7 @@ var satelliteFields = [
 CMS.registerEditorComponent({
   id: "satellite",
   label: "Satellite Notice",
+  icon: "satellite_alt",
   fields: satelliteFields,
   pattern: dualFormPattern("satellite"),
   fromBlock: function (match) {
@@ -819,6 +829,7 @@ var dialogFields = [
 CMS.registerEditorComponent({
   id: "dialog",
   label: "Dialog",
+  icon: "open_in_browser",
   fields: dialogFields,
   pattern: shortcodePattern("dialog"),
   fromBlock: function (match) {
@@ -886,6 +897,7 @@ var floatImageFields = [
 CMS.registerEditorComponent({
   id: "float-image",
   label: "Float Image",
+  icon: "format_image_left",
   fields: floatImageFields,
   pattern: shortcodePattern("float-image"),
   fromBlock: function (match) {
@@ -912,6 +924,7 @@ CMS.registerEditorComponent({
 CMS.registerEditorComponent({
   id: "wip",
   label: "Work in Progress",
+  icon: "construction",
   fields: [],
   pattern: selfClosingPattern("wip"),
   fromBlock: function () {
@@ -955,6 +968,34 @@ CMS.registerEditorComponent({
   },
 });
 
+CMS.registerEditorComponent({
+  id: "footnote-reference",
+  label: "Footnote Reference",
+  icon: "asterisk",
+  mode: "dialog",
+  summary: "Footnote [^{{id}}]",
+  fields: [
+    {
+      name: "id",
+      label: "Number",
+      widget: "cms-number-with-usage",
+      template:
+        "You need to add the footnote with number {value} at the bottom of the page if it doesn't exist yet.",
+      required: true,
+    },
+  ],
+  pattern: /\[\^([^\]]+)\](?!:)/,
+  fromBlock: function (match) {
+    return { id: String(match[1] || "") };
+  },
+  toBlock: function (data) {
+    return "[^" + (data.id || "") + "]";
+  },
+  toPreview: function () {
+    return "";
+  },
+});
+
 var updateFields = [
   {
     name: "date",
@@ -975,6 +1016,7 @@ var updateFields = [
 CMS.registerEditorComponent({
   id: "update",
   label: "Update",
+  icon: "update",
   fields: updateFields,
   pattern: shortcodePattern("update"),
   fromBlock: function (match) {
@@ -1009,6 +1051,7 @@ var columnFields = [
 CMS.registerEditorComponent({
   id: "column",
   label: "Column",
+  icon: "vertical_split",
   fields: columnFields,
   pattern: shortcodePattern("column"),
   fromBlock: function (match) {
@@ -1037,6 +1080,7 @@ var columnsFields = [
 CMS.registerEditorComponent({
   id: "columns",
   label: "Columns",
+  icon: "view_column",
   fields: columnsFields,
   pattern: shortcodePattern("columns"),
   fromBlock: function (match) {
@@ -1086,7 +1130,7 @@ var footnoteFields = [
     label: "Number",
     widget: "cms-number-with-usage",
     template:
-      "You can use this footnote by writing out [^{value}] in the text editor.",
+      "You can use the footnote by adding footnote reference with number {value} in the text editor.",
     param: { required: true },
   },
   {
@@ -1106,6 +1150,7 @@ var footnoteFields = [
 CMS.registerEditorComponent({
   id: "footnote",
   label: "Footnote",
+  icon: "inbox_text_asterisk",
   fields: footnoteFields,
   pattern: /^\[\^([^\]]+)\]: \[([^\]]*)\]\(([^)]*)\)$/,
   fromBlock: function (match) {
@@ -1136,6 +1181,7 @@ CMS.registerEditorComponent({
 CMS.registerEditorComponent({
   id: "fip-validity-table",
   label: "FIP Validity Table",
+  icon: "table",
   fields: fipValidityTableFields,
   pattern: selfClosingPattern("fip-validity-table"),
   fromBlock: function (match) {
