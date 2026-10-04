@@ -53,7 +53,7 @@ Es gilt eine Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie e
 
 Der `TGV` inOui ist der Hochgeschwindigkeitszug von SNCF Voyageurs und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele (z. B. München, Frankfurt am Main, Barcelona, Luxemburg, Brüssel, Mailand). Zusätzlich fahren `TGV` Lyria Züge von Frankreich in die Schweiz (Basel, Zürich, Lausanne, Genf).
 
-{{< highlight confusion >}}
+{{< highlight confusion france >}}
 Die SNCF betreibt auch Low-Cost-Fernzüge unter dem Namen OUIGO, diese sind jedoch nicht mit FIP nutzbar.
 {{< /highlight >}}
 
