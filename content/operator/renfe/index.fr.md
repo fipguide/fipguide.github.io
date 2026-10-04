@@ -46,7 +46,7 @@ Seuls les trains de banlieue (Cercanías) sont accessibles sans restriction avec
 
 Trains longue distance à grande vitesse à voie normale et à écartement variable (jusqu’à 300 km/h). Les Coupons FIP ne sont pas acceptés.
 
-Les AVE internationaux vers/depuis la France ont des tarifs FIP Global différents selon le tronçon. La réservation des liaisons internationales se fait uniquement auprès de Renfe, donc les billets doivent être achetés dans une gare espagnole lors de l’embarquement en Espagne. Les billets FIP peuvent être achetés à bord lors de l’embarquement en France ; le paiement par carte est accepté. [^3]
+Les AVE internationaux vers/depuis la France ont des tarifs FIP Global différents selon le tronçon. La réservation des liaisons internationales se fait uniquement auprès de Renfe, donc les billets doivent être achetés dans une gare espagnole lors de l’embarquement en Espagne. Les billets FIP peuvent être achetés à bord lors de l’embarquement en France ; le paiement par carte est accepté. Même si le train est complet et qu’aucun siège n’est disponible, le voyage est généralement possible. [^3]
 
 **Tarif Global FIP (indépendant de la distance) :**[^5]
 
