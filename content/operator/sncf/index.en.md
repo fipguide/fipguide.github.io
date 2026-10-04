@@ -9,6 +9,8 @@ country:
   - belgium
   - luxembourg
 operator: sncf
+content_images:
+  - image.webp
 aliases:
   - /booking/sncf-phone
   - /booking/sncf-ticket-office
@@ -163,7 +165,11 @@ SNCF night trains within France. International Nightjet connections ended in Dec
 
 #### Reservations
 
-Cost depends on route and occupancy.
+|          | Seat car | Sleeping car / Couchette |
+| -------- | -------- | ------------------------ |
+| National | €2       | €20                      |
+
+There is no distinction between peak and off-peak trains for Intercité de nuit.
 
 {{% /train-category %}}
 

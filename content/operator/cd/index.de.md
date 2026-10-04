@@ -3,6 +3,8 @@ title: ČD
 country:
   - czechia
 operator: cd
+content_images:
+  - image.webp
 aliases:
   - /booking/cd-ticket-office
   - /booking/cd-website
@@ -735,10 +737,8 @@ Die České dráhy genießt einen guten Ruf bei Fahrgästen, da sie für zuverl�
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782244-czechia.html)
 
-[^3]: [ČD – Inlandsfahrkarten](https://www.cd.cz/en/typy-jizdenek/vnitrostatni-jizdenky/-28762/)
-
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 
 [^3]: [Feedback: ČD reservations and commercial service](https://github.com/fipguide/fipguide.github.io/issues/467)
 
-[^4]: [ČD – National Tickets](https://www.cd.cz/en/typy-jizdenek/vnitrostatni-jizdenky/-28162/)
+[^4]: [ČD – Inlandsfahrkarten](https://www.cd.cz/en/typy-jizdenek/vnitrostatni-jizdenky/-28162/)
