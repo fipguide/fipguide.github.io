@@ -79,7 +79,7 @@ Im aktuellen Fahrplanjahr gibt es Zugverkehr auf folgenden Strecken:
     reservation_possible=nil
 %}}
 
-FIP gilt nicht in Bussen der ŽRSM.[^1]
+FIP Freifahrtscheine gelten nicht in Bussen, die von der ČD betrieben werden. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre. [^1]
 
 {{% /train-category %}}
 

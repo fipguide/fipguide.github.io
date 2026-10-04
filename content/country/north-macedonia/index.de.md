@@ -14,8 +14,7 @@ In Nordmazedonien wird der Schienenverkehr von der staatlichen Eisenbahngesellsc
 
 Nordmazedonien hat ein Streckennetz von 925 Kilometern in Normalspur, welches mit einer Höchstgeschwindigkeit von 100 km/h befahren werden kann. Lediglich auf der Strecke Tabanovci – Gevgelija gibt es ein automatisches Zugsicherungssystem. Früher gab es zusätzlich Schmalspurbahnen, welche allerdings alle nicht mehr in Benutzung sind. Derzeit gibt es keinen internationalen Personenverkehr auf der Schiene, allerdings gibt es Neu- und Ausbauprojekte. Der Bahnverkehr hat einen recht geringen Stellenwert im Land. [^1]
 
-Es gibt keinen Taktverkehr, sondern ur einzelne Züge, welche in größeren zeitlichen Abständen zueinander verkehren. Viele Verbindungen starten bzw. enden in Skopje.
-Als verkehrstechnisch bedeutsamste Strecke gilt die Nord-Süd-Route durch Skopje, jedoch bietet diese keine ausgeprägte touristisches Besonderheitsmerkmale. Der Schienenverkehr hat insgesamt einen geringen Stellenwert im Land – das Bussystem dominiert den öffentlichen Nahverkehr.
+Es gibt keinen Taktverkehr, sondern nur einzelne Züge, welche in größeren zeitlichen Abständen zueinander verkehren. Viele Verbindungen starten bzw. enden in Skopje. Als verkehrstechnisch bedeutsamste Strecke gilt die Nord-Süd-Route durch Skopje, jedoch bietet diese keine ausgeprägten touristischen Besonderheiten. Der Schienenverkehr hat insgesamt einen geringen Stellenwert im Land – das Bussystem dominiert den öffentlichen Nahverkehr.
 
 ## Anreise und Grenzpunkte
 
