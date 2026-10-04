@@ -66,7 +66,7 @@ Il n’existe que très peu de trains transfrontaliers entre la Pologne et la Li
 Le nombre de billets est contingenté, car le voyage n’est possible qu’avec une place assise réservée. Depuis décembre 2025, une réservation de place fixe n’est attribuée que dans le train PKP `IC`, tandis que dans l’automotrice LTG-Link, le choix de la place est libre.
 
 {{% highlight tip %}}
-LTG-Link propose uniquement des billets de 2e classe pour les liaisons transfrontalières. Par le biais des [canaux de vente de la PKP](/operator/pkp#achat-de-billets-et-réservations), il est possible d’acheter des billets de 1re classe pour la section polonaise du trajet. Sur la section lituanienne du trajet, seule la 2e classe est généralement disponible. Lors de la combinaison de deux billets ou réservations séparés, il convient de noter que cela peut entraîner des restrictions sur les droits des passagers.
+LTG-Link propose uniquement des billets de 2e classe pour les liaisons transfrontalières. Par le biais des [canaux de vente de la PKP](/operator/pkp#achat-de-billets-et-réservations), il est possible d’acheter des billets de 1re classe pour la section polonaise du trajet (jusqu’à Mockava). Sur la section lituanienne du trajet, seule la 2e classe est généralement disponible. Lors de la combinaison de deux billets ou réservations séparés, il convient de noter que cela peut entraîner des restrictions sur les droits des passagers.
 {{% /highlight %}}
 
 ### Russie

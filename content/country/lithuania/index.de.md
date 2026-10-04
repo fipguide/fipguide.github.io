@@ -66,7 +66,7 @@ Es verkehren nur sehr wenige grenzüberschreitende Züge zwischen Polen und Lita
 Die Anzahl der Tickets ist kontingentiert, da die Mitfahrt nur mit einem Sitzplatz möglich ist. Seit Dezember 2025 wird dabei nur noch im PKP `IC` eine feste Platzreservierung vergeben, während im LTG-Link-Triebwagen freie Platzwahl besteht.
 
 {{% highlight tip %}}
-LTG-Link bietet für die grenzüberschreitenden Verbindungen ausschließlich Fahrkarten der 2. Klasse an. Über die [Vertriebswege der PKP](/operator/pkp#ticket--und-reservierungskauf) können für den polnischen Streckenabschnitt Fahrkarten der 1. Klasse erworben werden. Auf dem litauischen Streckenabschnitt ist hingegen grundsätzlich nur die 2. Klasse verfügbar. Bei der Kombination zweier separater Fahrkarten beziehungsweise Reservierungen ist jedoch zu beachten, dass sich daraus Einschränkungen bei den Fahrgastrechten ergeben können.
+LTG-Link bietet für die grenzüberschreitenden Verbindungen ausschließlich Fahrkarten der 2. Klasse an. Über die [Vertriebswege der PKP](/operator/pkp#ticket--und-reservierungskauf) können für den polnischen Streckenabschnitt (bis Mockava) Fahrkarten der 1. Klasse erworben werden. Auf dem litauischen Streckenabschnitt ist hingegen grundsätzlich nur die 2. Klasse verfügbar. Bei der Kombination zweier separater Fahrkarten beziehungsweise Reservierungen ist jedoch zu beachten, dass sich daraus Einschränkungen bei den Fahrgastrechten ergeben können.
 {{% /highlight %}}
 
 ### Russland
