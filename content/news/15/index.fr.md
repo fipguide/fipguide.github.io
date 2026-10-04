@@ -8,13 +8,14 @@ description: DB Regio Stuttgart a été entièrement intégré à DB Regio Bade-
 
 Les lignes suivantes peuvent désormais être utilisées avec FIP :
 
-- **RE 6**: Tübingen - Stuttgart
-- **RE 10a**: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
-- **RE 10b**: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
-- **MEX 12**: Tübingen - Stuttgart - Heilbronn
-- **MEX/RB 17a**: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
-- **MEX/RB 18**: Tübingen - Stuttgart - Heilbronn - Osterburken
-- **RB 71**: Mühlacker – Bretten – Bruchsal
+- **RE 6**: Tübingen – Stuttgart
+- **RE 10a**: Heilbronn – Mosbach-Neckarelz – Heidelberg – Mannheim
+- **RE 10b**: Heilbronn – Sinsheim (Elsenz) – Heidelberg – Mannheim
+- **MEX 12**: Tübingen – Stuttgart – Heilbronn
+- **MEX 17**: Stuttgart – Mühlacker – Pforzheim – Karlsruhe
+- **RE 17**: Pforzheim – Bad Wildbad *(ne circule que le dimanche jusqu'au 18 octobre)*
+- **MEX/RB 18**: Tübingen – Stuttgart – Heilbronn – Osterburken
+- **RB/RE 71**: Mühlacker – Bretten – Bruchsal – Heidelberg
 
 Pour plus d'informations sur le réseau Neckartal, consultez le [site web de DB Regio](https://regional.bahn.de/regionen/baden-wuerttemberg/ueb/partner/netz-neckartal).
 
