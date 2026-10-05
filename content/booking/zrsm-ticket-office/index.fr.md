@@ -27,6 +27,7 @@ Les guichets de vente des billets de la ŽRSM se trouvent dans les gares suivant
 - Gradsko
 - Kichevo
 - Tabanovci
+  {.o-section--columns-3}
 
 Les billets internationaux sont délivrés dans les guichets de billets internationaux.
 
@@ -47,14 +48,11 @@ Le site web de la ŽRSM publie une [aperçu des prix pour les tarifs normaux](ht
 ## Réservations
 
 Les réservations de places assises peuvent être effectuées au guichet de la ŽRSM moyennant des frais de 27 MKD par place.[^1]
-Sur la ligne Skopje–Belgrade, le prix d’une couchette unique est de 371,00 denars.[^3]
 
-La place réservée doit être occupée au plus tard 15 minutes après le départ du train depuis la gare où la réservation a été faite. Si la place n’est pas occupée dans ce délai, elle est considérée comme disponible pour les autres passagers.[^2]
+La place réservée doit être occupée au plus tard 15 minutes après le départ du train de la gare pour laquelle la réservation a été effectuée. Si la place n'est pas occupée dans ce délai, elle est mise à la disposition d'autres voyageurs.[^2]
 
 {{% /booking-section %}}
 
 [^1]: [ŽRSM – Conditions tarifaires](https://mzt.mk/wp-content/uploads/2021/08/%D0%A1%D0%A2-05-%D0%BE%D0%B4-2020-4.pdf)
 
 [^2]: [ŽRSM – Guide du voyageur](https://mzt.mk/%d0%bf%d1%80%d0%b8%d1%80%d0%b0%d1%87%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d0%bf%d0%b0%d1%82%d0%bd%d0%b8%d1%86%d0%b8/)
-
-[^3]: [ŽRSM – Services supplémentaires pour l’utilisation d’une voiture-lits](https://mzt.mk/%d0%b4%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-%d0%ba%d0%be%d1%80%d0%b8%d1%81%d1%82%d0%b5%d1%9a%d0%b5-%d0%bd%d0%b0-%d0%b2%d0%b0%d0%b3%d0%be%d0%bd-%d1%81%d0%be-%d0%bb%d0%b5%d0%b3%d0%bb/)

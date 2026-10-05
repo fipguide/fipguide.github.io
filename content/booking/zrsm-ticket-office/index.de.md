@@ -27,6 +27,7 @@ Fahrkartenschalter der ŽRSM sind an den folgenden Bahnhöfen zu finden:
 - Gradsko
 - Kichevo
 - Tabanovci
+  {.o-section--columns-3}
 
 Internationale Fahrkarten werden an internationalen Fahrkartenschaltern ausgestellt.
 
@@ -47,14 +48,11 @@ Auf der ŽRSM Website ist eine [Preisübersicht für Normalpreise](https://mzt.m
 ## Reservierungen
 
 Am ŽRSM Ticketschalter können Sitzplatzreservierungen für eine Gebühr von 27 MKD pro Sitzplatz vorgenommen werden.[^1]
-Auf der Strecke Skopje–Belgrad beträgt der Preis für einen einzelnen Schlafplatz 371,00 Denar.[^3]
 
-Der reservierte Sitzplatz wird spätestens 15 Minuten nach Abfahrt des Zuges von dem Bahnhof, für den die Reservierung vorgenommen wurde, eingenommen. Wird der Sitzplatz nicht innerhalb dieser Zeit in Anspruch genommen, gilt er als für andere Fahrgäste frei.[^2]
+Der reservierte Sitzplatz muss spätestens 15 Minuten nach Abfahrt des Zuges von dem Bahnhof, für den die Reservierung vorgenommen wurde, eingenommen werden. Wird der Sitzplatz nicht innerhalb dieser Zeit in Anspruch genommen, wird er für andere Fahrgäste freigegeben.[^2]
 
 {{% /booking-section %}}
 
 [^1]: [ŽRSM – Tarifbedingungen](https://mzt.mk/wp-content/uploads/2021/08/%D0%A1%D0%A2-05-%D0%BE%D0%B4-2020-4.pdf)
 
 [^2]: [ŽRSM – Reiseführer](https://mzt.mk/%d0%bf%d1%80%d0%b8%d1%80%d0%b0%d1%87%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d0%bf%d0%b0%d1%82%d0%bd%d0%b8%d1%86%d0%b8/)
-
-[^3]: [ŽRSM – Zusatzleistungen für die Nutzung eines Schlafwagens](https://mzt.mk/%d0%b4%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-%d0%ba%d0%be%d1%80%d0%b8%d1%81%d1%82%d0%b5%d1%9a%d0%b5-%d0%bd%d0%b0-%d0%b2%d0%b0%d0%b3%d0%be%d0%bd-%d1%81%d0%be-%d0%bb%d0%b5%d0%b3%d0%bb/)

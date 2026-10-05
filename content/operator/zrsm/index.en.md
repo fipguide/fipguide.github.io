@@ -17,7 +17,7 @@ operator: "zrsm"
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
-FIP coupons and FIP 50 tickets are valid on ŽRSM services. On cross-border journeys (currently not offered), either a through FIP 50 ticket or FIP coupons for both countries must be available.
+FIP coupons and FIP 50 tickets are valid on ŽRSM services. Cross-border journeys are currently not offered.
 
 ## Train Categories and Reservations
 
@@ -79,7 +79,7 @@ The current timetable includes rail services on the following routes:
     reservation_possible=nil
 %}}
 
-FIP coupons are not valid on buses operated by ČD. On replacement buses, FIP discounts apply if they replace a train on which FIP would have been valid. [^1]
+FIP coupons are not valid on buses operated by ŽRSM. On replacement buses, FIP discounts apply if they replace a train on which FIP would have been valid. [^1]
 
 {{% /train-category %}}
 

@@ -17,7 +17,7 @@ operator: "zrsm"
 {{< fip-validity type="fip-coupon" status="valid" >}}
 {{< fip-validity type="fip-reduced-ticket" status="valid" >}}
 
-FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ŽRSM gültig. Bei grenzüberschreitenden Fahrten (derzeit nicht angeboten) muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
+FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ŽRSM gültig. Grenzüberschreitende Verbindungen werden derzeit nicht angeboten.
 
 ## Zugkategorien und Reservierungen
 
@@ -79,7 +79,7 @@ Im aktuellen Fahrplanjahr gibt es Zugverkehr auf folgenden Strecken:
     reservation_possible=nil
 %}}
 
-FIP Freifahrtscheine gelten nicht in Bussen, die von der ČD betrieben werden. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre. [^1]
+FIP Freifahrtscheine gelten nicht in Bussen, die von der ŽRSM betrieben werden. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre. [^1]
 
 {{% /train-category %}}
 

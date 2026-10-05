@@ -27,6 +27,7 @@ Ticket offices of ŽRSM can be found at the following stations:
 - Gradsko
 - Kichevo
 - Tabanovci
+  {.o-section--columns-3}
 
 International tickets are issued at international ticket offices.
 
@@ -47,14 +48,11 @@ The ŽRSM website publishes a [price overview for standard fares](https://mzt.mk
 ## Reservations
 
 Seat reservations can be made at the ŽRSM ticket office for a fee of 27 MKD per seat.[^1]
-On the Skopje–Belgrade route, the price for a single sleeping berth is 371.00 denars.[^3]
 
-The reserved seat must be taken no later than 15 minutes after the departure of the train from the station at which the reservation was made. If the seat is not occupied within this time, it is considered available to other passengers.[^2]
+The reserved seat must be occupied no later than 15 minutes after the departure of the train from the station at which the reservation was made. If the seat is not claimed within this time, it is considered available to other passengers.[^2]
 
 {{% /booking-section %}}
 
 [^1]: [ŽRSM – Fare conditions](https://mzt.mk/wp-content/uploads/2021/08/%D0%A1%D0%A2-05-%D0%BE%D0%B4-2020-4.pdf)
 
 [^2]: [ŽRSM – Travel guide](https://mzt.mk/%d0%bf%d1%80%d0%b8%d1%80%d0%b0%d1%87%d0%bd%d0%b8%d0%ba-%d0%b7%d0%b0-%d0%bf%d0%b0%d1%82%d0%bd%d0%b8%d1%86%d0%b8/)
-
-[^3]: [ŽRSM – Additional services for using a sleeping car](https://mzt.mk/%d0%b4%d0%be%d0%b4%d0%b0%d1%82%d0%be%d1%86%d0%b8-%d0%b7%d0%b0-%d0%ba%d0%be%d1%80%d0%b8%d1%81%d1%82%d0%b5%d1%9a%d0%b5-%d0%bd%d0%b0-%d0%b2%d0%b0%d0%b3%d0%be%d0%bd-%d1%81%d0%be-%d0%bb%d0%b5%d0%b3%d0%bb/)
