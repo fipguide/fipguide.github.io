@@ -30,20 +30,7 @@ L’Italie dispose d’un réseau ferroviaire étendu. Les liaisons rapides et d
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                                           | Points frontières                                                                                   |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| [Autriche](/country/austria) ([ÖBB](/operator/oebb))                           | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                         |
-| [Slovénie](/country/slovenia) ([SŽ](/operator/sz))                             | Nova Gorica (fr), Villa Opicina (fr)                                                                |
-| [Grèce](/country/greece) ([Attica](/operator/attica))                          | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
-| [France](/country/france) ([SNCF](/operator/sncf))                             | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                           |
-| [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS, [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
-
-\
-[>] = Vers (par exemple, Domodossola [> Locarno] = Domodossola est le point frontière vers Locarno)
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Autriche
 

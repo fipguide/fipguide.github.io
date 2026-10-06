@@ -33,13 +33,7 @@ Das staatliche Unternehmen _Entur_ spielt eine zentrale Rolle im öffentlichen V
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land          | Grenzpunkte                                                                          |
-| ------------- | ------------------------------------------------------------------------------------ |
-| Schweden (SJ) | Bjørnfjell (Gr), Halden (Kornsjø (Gr)), Konigsvinger (Charlottenberg (Gr)), Storlien |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Schweden
 

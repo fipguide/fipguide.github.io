@@ -29,18 +29,7 @@ La qualité des trains varie : si des rames électriques modernes circulent sur 
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                  | Points frontières               |
-| ----------------------------------------------------- | ------------------------------- |
-| Macédoine du Nord (ŽRSM)                              | Gevgelija (fr)                  |
-| [Bulgarie](/country/bulgaria) ([BDŽ](/operator/bdz))  | Kulata (fr), Svilengrad (fr)    |
-| Turquie (TCDD)                                        | Pythio (Πύθιο)                  |
-| [Italie](/country/italy) ([Attica](/operator/attica)) | Patras (Πάτρα) [>Ancona, >Bari] |
-
-[>] = En direction de (par ex. Patras [> Ancona] = Patras est le point frontière en direction d’Ancona)
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Macédoine du Nord
 

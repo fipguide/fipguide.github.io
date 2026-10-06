@@ -31,16 +31,7 @@ Sur les autres lignes, la vitesse est moyenne mais les trains circulent généra
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                     | Points frontières                                                   |
-| -------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Pays-Bas](/country/netherlands) ([NS](/operator/ns))    | Roosendaal (fr), Visé (fr)                                          |
-| [Allemagne](/country/germany) ([DB](/operator/db))       | Aachen Süd (Gr)                                                     |
-| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl)) | Athus, Gouvy (fr), Sterpenich (fr)                                  |
-| [France](/country/france) ([SNCF](/operator/sncf))       | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr) |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Pays-Bas
 

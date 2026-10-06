@@ -17,15 +17,7 @@ The main north-south line runs through the entire country and partly through the
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                              | Border Points                      |
-| ---------------------------------------------------- | ---------------------------------- |
-| [Belgium](/country/belgium) ([SNCB](/operator/sncb)) | Athus, Gouvy (fr), Sterpenich (fr) |
-| [Germany](/country/germany) ([DB](/operator/db))     | Igel (Gr)                          |
-| [France](/country/france) ([SNCF](/operator/sncf))   | Bettembourg (fr), Rodange (fr)     |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Belgium
 

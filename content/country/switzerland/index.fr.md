@@ -33,19 +33,7 @@ La Suisse possède l’un des réseaux ferroviaires les plus denses au monde. Ma
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                  | Points frontières                                                                                                                   |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [Allemagne](/country/germany) ([DB AG](/operator/db)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut                                                                                      |
-| [Autriche](/country/austria) ([ÖBB](/operator/oebb))  | Buchs (SG), St. Margrethen                                                                                                          |
-| [Italie](/country/italy) ([FS](/operator/fs))         | Chiasso, Domodossola, Iselle di Trasquera [> Domodossola], Locarno [> Domodossola], Lugano [> Porto Ceresio], Pino transito, Tirano |
-| [France](/country/france) ([SNCF](/operator/sncf))    | Basel SBB, Delle, Genève [> Bellegarde], Annemasse, Le Châtelard-Frontière (fr), Le Locle-Col-des-Roches, Pontarlier, Vallorbe      |
-
-\
-[>] = En direction de (par exemple, Locarno [> Domodossola] = Locarno est le point frontière en direction de Domodossola)
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Allemagne
 

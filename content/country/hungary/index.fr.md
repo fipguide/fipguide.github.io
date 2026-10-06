@@ -25,21 +25,7 @@ L'infrastructure est en cours de modernisation partielle, tandis qu'il existe to
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                          | Points frontières                                                                    |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [Slovaquie](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Bánréve (Gr), Čaňa (Gr), Fil'akovo (Gr), Komárom (Gr), Sátoralújhely (Gr), Szob (Gr) |
-| [Slovaquie](/country/slovakia) ([GySEV](/operator/gysev))     | Rajka (Gr)                                                                           |
-| Ukraine (UZ)                                                  | Záhony (Gr)                                                                          |
-| [Roumanie](/country/romania) ([CFR](/operator/cfr))           | Biharkeresztes (fr), Curtici (Gr), Nyirábrány (Gr), Salonta (Gr)                     |
-| [Serbie](/country/serbia) ([SV](/operator/sv))                | Röszke (Gr), Subotica (Gr)                                                           |
-| Croatie (HŽ)                                                  | Koprivnica (Gr), Kotoriba (Gr), Magyarbóly (Gr)                                      |
-| [Slovénie](/country/slovenia) ([SŽ](/operator/sz))            | Hodos (Gr)                                                                           |
-| [Autriche](/country/austria) ([ÖBB](/operator/oebb))          | Hegyshalom (Gr), Sopron                                                              |
-| [Autriche](/country/austria) ([GySEV](/operator/gysev))       | Pamhagen (Gr), Szentgotthárd, Sopron                                                 |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Slovaquie
 

@@ -40,15 +40,10 @@ content_images:
 ## Arrivée et points frontières
 
 <!--
-Uniquement les points frontaliers situés à la frontière nationale avec d’autres pays. Ils doivent être listés sous la forme : pays (opérateur ferroviaire) et leurs points de frontière. La liste est présentée dans le sens horaire, en commençant par le nord du pays.
+Uniquement les points frontaliers situés à la frontière nationale avec d’autres pays. Ils sont gérés dans `content/country/borderpoints.fr.yaml` et affichés ici automatiquement sous forme de tableau. L’ordre des lignes y est défini via `order.<pays>`, dans le sens horaire, en commençant par le nord du pays.
 -->
 
-{{% expander "Points frontières" border %}}
-
-| Pays | Points frontières |
-| ---- | ----------------- |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### <Nom du pays>
 

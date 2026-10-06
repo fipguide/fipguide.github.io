@@ -25,13 +25,7 @@ The Sarajevo–Mostar route connects not only the two most popular cities in the
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-| Country | Border Points |
-| --- | --- |
-| Croatia (HŽ) | Brčko (Gr), Martin Brod (Gr), Metković (Gr), Slavonski Šamac (Gr), Volinja (Gr) |
-| [Serbia](/country/serbia) ([SV](/operator/sv)) | Zvornik |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Croatia
 

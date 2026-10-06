@@ -54,7 +54,7 @@
         {{ partial "related" (dict "index" "country" "pageType" "news" "title" (T "related.news") "page" . "identifier" "news") }}
       {{ end }}
       {{ if eq .Page.Type "operator" }}
-        {{ partial "related" (dict "index" "country" "pageType" "operator" "title" (T "related.operators-nearby") "page" . "identifier" "operators") }}
+        {{ partial "neighboringOperators" (dict "title" (T "related.operators-nearby") "page" . "identifier" "operators") }}
         {{ partial "related" (dict "index" "operator" "pageType" "news" "title" (T "related.news") "page" . "identifier" "news") }}
       {{ end }}
       <hr aria-hidden="true" />

@@ -40,15 +40,10 @@ content_images:
 ## Anreise und Grenzpunkte
 
 <!--
-Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgeführt sein als Land (Bahngesellschaft) und ihre Grenzpunkte. Die Auflistung erfolgt im Uhrzeigersinn, startend im Norden des Landes.
+Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese werden in `content/country/borderpoints.de.yaml` gepflegt und hier automatisch als Tabelle ausgegeben. Die Reihenfolge der Zeilen wird dort über `order.<land>` im Uhrzeigersinn festgelegt, startend im Norden des Landes.
 -->
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land | Grenzpunkte |
-| ---- | ----------- |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### <Name des Nachbarlandes>
 

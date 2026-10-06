@@ -1,0 +1,17 @@
+{{- $prefix := .prefix -}}
+{{- $out := slice -}}
+{{- range .items -}}
+  {{- $id := .id -}}
+  {{- $label := .label -}}
+  {{- $ref := "" -}}
+  {{- with $id -}}
+    {{- with site.GetPage (printf "/%s/%s" $prefix .) -}}
+      {{- if not $label }}{{ $label = .LinkTitle }}{{ end -}}
+      {{- $ref = printf "/%s/%s" $prefix $id -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with $label -}}
+    {{- $out = $out | append (cond (ne $ref "") (printf "[%s](%s)" . $ref) .) -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

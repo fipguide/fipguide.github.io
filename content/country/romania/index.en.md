@@ -31,17 +31,7 @@ Particularly scenic are the routes along the Carpathians, for example between Pl
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                              | Border Points                                                                                                            |
-| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Ukraine (UZ)                                         | Vicsani (fr)                                                                                                             |
-| Moldova (CFM)                                        | Iasi, Ungheni (fr)                                                                                                       |
-| [Bulgaria](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (Bulgarian: Русе), Vidin (fr)                                                                                  |
-| [Serbia](/country/serbia) ([SV](/operator/sv))       | Jimbolia (fr) (Serbian: Жомбољ), Vršac (fr) (Serbian: Вршац)                                                             |
-| [Hungary](/country/hungary) ([MÁV](/operator/mav))   | Biharkeresztes (fr), Curtici (fr) (Hungarian: Kürtös), Nyirábrány (fr), Salonta (fr) (Hungarian: Nagyszalonta, Szalonta) |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Ukraine
 

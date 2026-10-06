@@ -24,14 +24,7 @@ Les réservations ne sont pas obligatoires, mais sont recommandées en raison du
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                                         | Points frontières    |
-| ---------------------------------------------------------------------------- | -------------------- |
-| [Royaume-Uni](/country/united-kingdom) ([NIR](/operator/nir))                | Dundalk              |
-| [Royaume-Uni](/country/united-kingdom) ([Stena Line Limited](/operator/sll)) | Dublin Bay, Rosslare |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Royaume-Uni
 

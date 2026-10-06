@@ -29,18 +29,7 @@ The quality of trains varies: while modern electric multiple units operate on th
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                              | Border Points                   |
-| ---------------------------------------------------- | ------------------------------- |
-| North Macedonia (ŽRSM)                               | Gevgelija (fr)                  |
-| [Bulgaria](/country/bulgaria) ([BDŽ](/operator/bdz)) | Kulata (fr), Svilengrad (fr)    |
-| Turkey (TCDD)                                        | Pythio (Πύθιο)                  |
-| [Italy](/country/italy) ([Attica](/operator/attica)) | Patras (Πάτρα) [>Ancona, >Bari] |
-
-[>] = In the direction of (e.g. Patras [> Ancona] = Patras is the border point in the direction of Ancona)
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### North Macedonia
 

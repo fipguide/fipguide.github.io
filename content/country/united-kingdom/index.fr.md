@@ -49,17 +49,7 @@ De plus, de nombreuses attractions de loisirs et touristiques proposent des offr
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                                                                                       | Points frontières                |
-| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [Pays-Bas](/country/netherlands) ([Stena Line BV](/operator/stl))                                                          | Harwich P.Q.                     |
-| [France](/country/france), [Belgique](/country/belgium), [Pays-Bas](/country/netherlands) ([Eurostar](/operator/eurostar)) | London St. Pancras International |
-| [Irlande](/country/ireland) ([CIE](/operator/cie))                                                                         | Dundalk                          |
-| [Irlande](/country/ireland) ([Stena Line Limited](/operator/sll))                                                          | Holyhead, Fishguard              |
-| [Royaume-Uni](/country/united-kingdom) ([Stena Line Limited](/operator/sll))                                               | Cairnryan, Liverpool, Belfast    |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Pays-Bas
 

@@ -49,17 +49,7 @@ Additionally, there are many leisure and tourist attractions that offer "2FOR1" 
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                                                                                                      | Border Points                    |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [Netherlands](/country/netherlands) ([Stena Line BV](/operator/stl))                                                         | Harwich P.Q.                     |
-| [France](/country/france), [Belgium](/country/belgium), [Netherlands](/country/netherlands) ([Eurostar](/operator/eurostar)) | London St. Pancras International |
-| [Ireland](/country/ireland) ([CIE](/operator/cie))                                                                           | Dundalk                          |
-| [Ireland](/country/ireland) ([Stena Line Limited](/operator/sll))                                                            | Holyhead, Fishguard              |
-| [United Kingdom](/country/united-kingdom) ([Stena Line Limited](/operator/sll))                                              | Cairnryan, Liverpool, Belfast    |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Netherlands
 

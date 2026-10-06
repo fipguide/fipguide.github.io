@@ -24,14 +24,7 @@ Reservations are not mandatory, but are recommended due to the often high occupa
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                                                         | Border Points        |
-| ------------------------------------------------------------------------------- | -------------------- |
-| [United Kingdom](/country/united-kingdom) ([NIR](/operator/nir))                | Dundalk              |
-| [United Kingdom](/country/united-kingdom) ([Stena Line Limited](/operator/sll)) | Dublin Bay, Rosslare |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### United Kingdom
 

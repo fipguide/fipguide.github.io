@@ -132,26 +132,7 @@ The "Allianz pro Schiene" annually awards the most beautiful stations in the cou
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                                                             | Border Points                                                                                                                                                                                          |
-| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Denmark](/country/denmark) ([DSB](/operator/dsb))                                  | Flensburg (Gr), Rostock Seehafen Fähre (Scandlines), Puttgarden (MS), Tønder (Gr)                                                                                                                      |
-| Sweden (SJ)                                                                         | Lübeck-Travemünde Hafen, Lübeck-Travemünde Skandinavienkai, Sassnitz (Gr)                                                                                                                              |
-| [Poland](/country/poland) ([PKP](/operator/pkp))                                    | Alhlbeck (Gr), Forst (Gr), Frankfurt (Oder) (Gr), Grambow (Gr), Gubin (Gr), Kostrzyn nad Odrą (Gr), Tantow (Gr), Zgorzelec (Gr)                                                                        |
-| [Czech Republic](/country/czechia) ([ČD](/operator/cd))                             | Bayerisch Eisenstein, Cheb (Gr), Furth im Wald (Gr), Kraslice (Gr), Potůčky (Gr), Rumburk (Gr), Schöna (Gr), Sebnitz (Gr), Selb-Plößberg (Gr), Vejprty (Gr), Vojtanov (Gr), Waidhaus (Gr), Zittau (Gr) |
-| [Austria](/country/austria) ([ÖBB](/operator/oebb))                                 | Kufstein, Lindau Reutin, Mittenwald (Gr), Passau Hbf, Salzburg Hbf, Simbach am Inn                                                                                                                     |
-| [BSB](/operator/bsb)                                                                | Friedrichshafen, Langenargen, Lindau, Konstanz, Radolfzell, Schaffhausen, Überlingen                                                                                                                   |
-| [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS, [SP](/operator/sp)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut                                                                                                                                                         |
-| [France](/country/france) ([SNCF](/operator/sncf))                                  | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (Gr), Neuenburg (Baden) (Gr), Wissembourg (Gr)                                                                                        |
-| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl))                            | Igel (Gr)                                                                                                                                                                                              |
-| [Belgium](/country/belgium) ([SNCB](/operator/sncb))                                | Aachen Süd (Gr)                                                                                                                                                                                        |
-| [Eurostar](/operator/eurostar)                                                      | Aachen, Duisburg, Düsseldorf, Düsseldorf Airport, Essen, Cologne                                                                                                                                       |
-| [Netherlands](/country/netherlands) ([NS](/operator/ns))                            | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr)                                                                                                      |
-
-MS = Middle of the lake
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Denmark
 

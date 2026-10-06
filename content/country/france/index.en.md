@@ -36,19 +36,7 @@ A special highlight is the regional train connections along the Côte d'Azur in 
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                                                                | Border Points                                                                                                                                 |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Eurostar](/operator/eurostar)                                                         | Paris, Lille                                                                                                                                  |
-| [Belgium](/country/belgium) ([SNCB](/operator/sncb))                                   | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                           |
-| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl))                               | Bettembourg (fr), Rodange (fr)                                                                                                                |
-| [Germany](/country/germany) ([DB](/operator/db))                                       | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr)                                    |
-| [Switzerland](/country/switzerland) ([SBB](/operator/sbb), BLS and [SP](/operator/sp)) | Annemasse, Basel SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
-| [Italy](/country/italy) ([FS](/operator/fs))                                           | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                                                                     |
-| [Spain](/country/spain) ([Renfe](/operator/renfe))                                     | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg                                                                               |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### United Kingdom
 

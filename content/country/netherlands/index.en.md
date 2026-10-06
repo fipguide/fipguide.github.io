@@ -37,15 +37,7 @@ A special feature in the Netherlands is that almost all larger stations have tic
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                                                    | Border Points                                                                                     |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| [Germany](/country/germany) ([DB](/operator/db))                           | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| [Belgium](/country/belgium) ([SNCB](/operator/sncb))                       | Roosendaal (fr), Visé                                                                             |
-| [United Kingdom](/country/united-kingdom) ([Stena Line BV](/operator/stl)) | Hoek van Holland                                                                                  |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Germany
 

@@ -30,20 +30,7 @@ Italien hat ein umfangreiches Bahnnetz. Besonders hervorzuheben sind dabei die s
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                                                               | Grenzpunkte                                                                                         |
-| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [Österreich](/country/austria) ([ÖBB](/operator/oebb))                             | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                         |
-| [Slowenien](/country/slovenia) ([SŽ](/operator/sz))                                | Nova Gorica (fr), Villa Opicina (fr)                                                                |
-| [Griechenland](/country/greece) ([Attica](/operator/attica))                       | Ancona [>Igoumenitsa, >Patras], Bari [>Igoumenitsa, >Patras]                                        |
-| [Frankreich](/country/france) ([SNCF](/operator/sncf))                             | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                           |
-| [Schweiz](/country/switzerland) ([SBB](/operator/sbb), BLS und [SP](/operator/sp)) | Chiasso, Domodossola [> Locarno], Iselle transito [> Brig], Pino transito, Porto Ceresio [> Lugano] |
-
-\
-[>] = In Richtung (z. B. Domodossola [> Locarno] = Domodossola ist der Grenzpunkt in Richtung Locarno)
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Österreich
 
