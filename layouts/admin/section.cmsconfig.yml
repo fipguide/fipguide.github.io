@@ -95,12 +95,11 @@ x_fip_validity_columns: &fip_validity_columns
     fields: *fip_validity_target_fields_reduced
 
 x_border_side: &border_side
-  - label: "Countries"
-    name: "countries"
-    widget: "list"
+  - label: "Country"
+    name: "country"
+    widget: "object"
     required: false
     i18n: true
-    summary: "{{"{{"}}fields.id}}{{"{{"}}fields.label}}"
     fields:
       - label: "Country"
         name: "id"

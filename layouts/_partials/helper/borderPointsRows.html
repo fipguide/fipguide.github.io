@@ -19,9 +19,9 @@
   {{- $own := "" -}}
   {{- range $key := slice "a" "b" -}}
     {{- if not $own -}}
-      {{- range (index $border $key).countries -}}
-        {{- if eq .id $country }}{{ $own = $key }}{{ end -}}
-      {{- end -}}
+      {{- if eq (index $border $key).country.id $country }}
+        {{ $own = $key }}
+      {{ end -}}
     {{- end -}}
   {{- end -}}
 
