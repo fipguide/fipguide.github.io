@@ -21,7 +21,7 @@
     </tbody>
   </table>
 
-  {{- range where ($data.countries | default slice) "id" $country -}}
+  {{- with index $data.countries $country -}}
     {{- with .footnotes -}}
       <p class="o-border-points__footnotes">
         {{- range $index, $footnote := . -}}

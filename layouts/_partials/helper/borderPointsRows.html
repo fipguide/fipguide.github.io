@@ -4,7 +4,7 @@
 {{- $borders := $data.borders | default slice -}}
 
 {{- $ordered := $borders -}}
-{{- range where ($data.countries | default slice) "id" $country -}}
+{{- with index $data.countries $country -}}
   {{- with .order -}}
     {{- $ordered = slice -}}
     {{- range . -}}

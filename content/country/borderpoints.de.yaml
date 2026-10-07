@@ -1,19 +1,19 @@
 countries:
-  - id: austria
+  austria:
     order: [at-cz, at-sk, at-hu-gysev, at-hu-mav, at-si, at-it, at-ch, at-de]
-  - id: belgium
+  belgium:
     order: [be-nl, be-de, be-lu, be-fr]
-  - id: bosnia-and-herzegovina
+  bosnia-and-herzegovina:
     order: [ba-hr, ba-rs]
-  - id: bulgaria
+  bulgaria:
     order: [bg-ro, bg-tr, bg-gr, bg-rs]
-  - id: czechia
+  czechia:
     order: [cz-pl, cz-sk, at-cz, cz-de]
-  - id: denmark
+  denmark:
     order: [dk-se, dk-de]
-  - id: france
+  france:
     order: [fr-eurostar, be-fr, lu-fr, de-fr, fr-ch, fr-it, es-fr]
-  - id: germany
+  germany:
     order:
       [
         dk-de,
@@ -31,12 +31,12 @@ countries:
       ]
     footnotes:
       - "MS = Mitte See"
-  - id: greece
+  greece:
     order: [gr-mk, bg-gr, gr-tr, gr-it]
     footnotes:
       - "[>] = In Richtung (z. B. Patras [> Ancona] = Patras ist der Grenzpunkt
         in Richtung Ancona)"
-  - id: hungary
+  hungary:
     order:
       [
         hu-sk-mav,
@@ -49,49 +49,49 @@ countries:
         at-hu-mav,
         at-hu-gysev,
       ]
-  - id: ireland
+  ireland:
     order: [ie-gb-rail, ie-gb-sll]
-  - id: italy
+  italy:
     order: [at-it, it-si, gr-it, fr-it, it-ch]
     footnotes:
       - "[>] = In Richtung (z. B. Domodossola [> Locarno] = Domodossola ist der
         Grenzpunkt in Richtung Locarno)"
-  - id: latvia
+  latvia:
     order: [lv-ee, lv-ru, lv-by, lv-lt]
-  - id: lithuania
+  lithuania:
     order: [lv-lt, lt-by, lt-pl, lt-ru]
-  - id: luxembourg
+  luxembourg:
     order: [be-lu, de-lu, lu-fr]
-  - id: montenegro
+  montenegro:
     order: [me-rs]
-  - id: netherlands
+  netherlands:
     order: [de-nl, be-nl, nl-gb-stl]
-  - id: norway
+  norway:
     order: [no-se]
-  - id: poland
+  poland:
     order: [pl-ru, lt-pl, pl-by, pl-ua, pl-sk, cz-pl, de-pl]
-  - id: portugal
+  portugal:
     order: [pt-es]
     footnotes:
       - "[>] = In Richtung (z. B. V. Real de Sto António Guardiana [> Ayamonte] =
         V. Real de Sto António Guardiana ist der Grenzpunkt in Richtung
         Ayamonte)"
-  - id: romania
+  romania:
     order: [ro-ua, ro-md, bg-ro, ro-rs, hu-ro]
-  - id: serbia
+  serbia:
     order: [hu-rs, ro-rs, bg-rs, rs-mk, me-rs, ba-rs, rs-hr]
-  - id: slovakia
+  slovakia:
     order: [hu-sk-gysev, hu-sk-mav, cz-sk]
-  - id: slovenia
+  slovenia:
     order: [it-si, si-hr, at-si, hu-si]
-  - id: spain
+  spain:
     order: [pt-es, es-fr]
-  - id: switzerland
+  switzerland:
     order: [de-ch, at-ch, it-ch, fr-ch]
     footnotes:
       - "[>] = In Richtung (z. B. Locarno [> Domodossola] = Locarno ist der
         Grenzpunkt in Richtung Domodossola)"
-  - id: united-kingdom
+  united-kingdom:
     order: [nl-gb-stl, gb-eurostar, ie-gb-rail, ie-gb-sll, gb-gb-sll]
 
 borders:
