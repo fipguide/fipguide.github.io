@@ -42,7 +42,7 @@ Trains internationaux longue distance en coopération avec ÖBB et d'autres chem
 
 La classe affaires n'est pas disponible pour les vols intérieurs en Hongrie. Pour les vols internationaux, elle peut être réservée avec un coupon FIP 1re classe ou un billet FIP 50 ; un supplément de 22 € est appliqué.
 
-{{< highlight confusion hungary>}}
+{{< highlight confusion hungary >}}
 `RJ` peut aussi signifier RegioJet. Les billets FIP pour MÁV ne sont pas valables sur les trains RegioJet.
 {{< /highlight >}}
 
@@ -63,7 +63,7 @@ Les réservations de places sont obligatoires pour le trafic intérieur, faculta
 
 Trains rapides nationaux avec voitures de voyageurs de 2e classe, certaines aussi avec voitures de 1ère classe et classe premium 1+. Occasionnellement, des [voitures restaurant](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) et/ou des [voitures bistro](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-bistro-cars) sont transportées.
 
-{{< highlight confusion hungary>}}
+{{< highlight confusion hungary >}}
 Les trains `IC` en Hongrie sont parfois aussi exploités par [GySEV](/operator/gysev#ic).
 {{< /highlight >}}
 
@@ -176,7 +176,7 @@ Dans les systèmes d'information de connexion en dehors de MÁV, les trains peuv
 
 Trains régionaux classiques qui s'arrêtent à toutes les gares intermédiaires.
 
-{{< highlight confusion hungary>}}
+{{< highlight confusion hungary >}}
 Les trains `SZ` en Hongrie sont parfois aussi exploités par [GySEV](/operator/gysev#sz).
 {{< /highlight >}}
 

@@ -46,7 +46,7 @@ La réservation (avec supplément) est obligatoire dans les trains longue distan
 
 Catégorie la plus élevée pour les trains à grande vitesse longue distance. Le Frecciarossa 1000 est signalé pour sa vitesse et son service supérieurs.
 
-{{< highlight confusion italy>}}
+{{< highlight confusion italy >}}
 Les trains du transporteur privé Italo sont aussi marqués AV mais ne sont pas accessibles avec FIP.
 {{< /highlight >}}
 
@@ -69,7 +69,7 @@ Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FI
 
 Trains à grande vitesse à pendulation.
 
-{{< highlight confusion italy>}}
+{{< highlight confusion italy >}}
 Les trains du transporteur privé Italo sont aussi marqués AV mais ne sont pas accessibles avec FIP.
 {{< /highlight >}}
 
@@ -245,7 +245,7 @@ Les billets pour les trains régionaux peuvent être liés à un train spécifiq
 
 Réseaux suburbains à Naples (`M`) et Turin (`sfm`).
 
-{{< highlight confusion italy>}}
+{{< highlight confusion italy >}}
 Les lignes de métro sont parfois aussi marquées `M` et ne sont pas accessibles avec FIP.
 {{< /highlight >}}
 

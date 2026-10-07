@@ -65,7 +65,7 @@ There are three classes in the Railjet:
 
 For Railjets to Italy, a supplement is payable from the Italian border. See [Special Tariff Conditions](#traffic-to-italy).
 
-{{< highlight confusion austria>}}
+{{< highlight confusion austria >}}
 `RJ` is also the abbreviation for RegioJet, where no FIP Tickets are valid.
 {{< /highlight >}}
 
@@ -82,7 +82,7 @@ For Railjets to Italy, a supplement is payable from the Italian border. See [Spe
 
 Most `IC` trains on main routes have gradually been replaced by Railjets. `IC` trains still operate on secondary routes such as Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Vienna – Gmunden – Stainach-Irdning, and as supplements to Railjets on Vienna–Lienz (East Tyrol). There are also `IC` and `ICE` trains on some international routes to Germany in cooperation with Deutsche Bahn, with the Austrian section operated by ÖBB.
 
-{{< highlight confusion austria>}}
+{{< highlight confusion austria >}}
 Some Regiojet trains within Austria are labeled as `IC`; FIP Tickets are not valid on these trains.
 {{< /highlight >}}
 
@@ -172,7 +172,7 @@ For Nightjet trains, reservations/surcharges for sleeper and couchette cars can 
 
 Fast local train with fewer stops and modern rolling stock.
 
-{{< highlight confusion austria>}}
+{{< highlight confusion austria >}}
 Regionalexpress trains are sometimes operated by other private railways where ÖBB FIP Tickets are not accepted. If in doubt, check the operator via the provider’s website or [bahn.de](https://int.bahn.de/en).
 {{< /highlight >}}
 
@@ -189,7 +189,7 @@ Regionalexpress trains are sometimes operated by other private railways where Ö
 
 Local train stopping at most stations.
 
-{{< highlight confusion austria>}}
+{{< highlight confusion austria >}}
 Regional trains are sometimes operated by other private railways where ÖBB FIP Tickets are not accepted. If in doubt, check the operator via the provider’s website or [bahn.de](https://int.bahn.de/en).
 
 The designation `R` Regionalzug is also used in ÖBB’s journey planner for purely tourist services where FIP Tickets are not valid. These are marked with footnotes indicating “special fare.”
@@ -208,7 +208,7 @@ The designation `R` Regionalzug is also used in ÖBB’s journey planner for pur
 
 Local train at least hourly, stopping at all stations. Comparable to an S-Bahn.
 
-{{< highlight confusion austria>}}
+{{< highlight confusion austria >}}
 S-Bahn services are sometimes operated by other private railways where ÖBB FIP Tickets are not accepted. If in doubt, check the operator via the provider’s website or [bahn.de](https://int.bahn.de/en).
 
 Including:

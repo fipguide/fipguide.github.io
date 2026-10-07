@@ -79,7 +79,7 @@ content_images:
   Une description de la catégorie de train peut être ajoutée ici.
 -->
 
-{{% highlight confusion country%}}
+{{% highlight confusion country %}}
 Ce bloc peut être ajouté s’il y a un risque que la catégorie de train soit confondue avec une autre. Le pays où la confusion est susceptible de se produire doit être indiqué comme paramètre sous forme d'abréviation anglaise, afin de permettre la génération d'un lien vers la section correspondante où l'opérateur ferroviaire peut être identifié.
 {{% /highlight %}}
 
