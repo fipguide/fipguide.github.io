@@ -1,5 +1,7 @@
-{{- $countries := partial "helper/borderPointsRefs" (dict "prefix" "country" "items" .countries) -}}
-{{- $operators := partial "helper/borderPointsRefs" (dict "prefix" "operator" "items" .operators) -}}
+{{- $side := .side -}}
+{{- $page := .page -}}
+{{- $countries := partial "helper/borderPointsRefs" (dict "prefix" "country" "items" $side.countries "page" $page) -}}
+{{- $operators := partial "helper/borderPointsRefs" (dict "prefix" "operator" "items" $side.operators "page" $page) -}}
 
 {{- $out := delimit $countries ", " -}}
 {{- with $operators -}}

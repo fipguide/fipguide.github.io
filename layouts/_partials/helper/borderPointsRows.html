@@ -1,4 +1,5 @@
 {{- $country := .country -}}
+{{- $page := .page -}}
 {{- $data := partialCached "helper/borderPoints" . site.Language.Lang -}}
 {{- $borders := $data.borders | default slice -}}
 
@@ -26,14 +27,14 @@
 
   {{- with $own -}}
     {{- $other := cond (eq . "a") "b" "a" -}}
-    {{- $names := $border.points | default slice -}}
+    {{- $points := $border.points | default slice -}}
     {{- if $border.sort -}}
-      {{- $names = sort $names -}}
+      {{- $points = sort $points -}}
     {{- end -}}
-    {{- with $names -}}
+    {{- with $points -}}
       {{- $rows = $rows | append (dict
-        "label" (partial "helper/borderPointsSideLabel" (index $border $other))
-        "points" (delimit . ", "))
+        "label" (partial "helper/borderPointsSideLabel" (dict "side" (index $border $other) "page" $page))
+        "points" .)
       -}}
     {{- end -}}
   {{- end -}}

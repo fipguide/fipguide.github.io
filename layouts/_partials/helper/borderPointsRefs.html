@@ -1,4 +1,5 @@
 {{- $prefix := .prefix -}}
+{{- $page := .page -}}
 {{- $out := slice -}}
 {{- range .items -}}
   {{- $id := .id -}}
@@ -11,7 +12,11 @@
     {{- end -}}
   {{- end -}}
   {{- with $label -}}
-    {{- $out = $out | append (cond (ne $ref "") (printf "[%s](%s)" . $ref) .) -}}
+    {{- if $ref -}}
+      {{- $out = $out | append (partial "link" (dict "Destination" $ref "Text" . "Page" $page)) -}}
+    {{- else -}}
+      {{- $out = $out | append . -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
 {{- return $out -}}

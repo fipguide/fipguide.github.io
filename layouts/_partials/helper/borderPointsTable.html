@@ -1,0 +1,34 @@
+{{- $country := .country -}}
+{{- $page := .page -}}
+{{- $data := partialCached "helper/borderPoints" . site.Language.Lang -}}
+{{- $rows := partial "helper/borderPointsRows" . -}}
+
+{{- with $rows -}}
+  <table>
+    <thead>
+      <tr>
+        <th>{{ T "borderPoints.country" }}</th>
+        <th>{{ T "borderPoints.points" }}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{- range . }}
+        <tr>
+          <td>{{ .label | safeHTML }}</td>
+          <td>{{ delimit .points ", " }}</td>
+        </tr>
+      {{- end }}
+    </tbody>
+  </table>
+
+  {{- range where ($data.countries | default slice) "id" $country -}}
+    {{- with .footnotes -}}
+      <p class="o-border-points__footnotes">
+        {{- range $index, $footnote := . -}}
+          {{- if $index }}<br />{{ end -}}
+          {{ $footnote }}
+        {{- end -}}
+      </p>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
