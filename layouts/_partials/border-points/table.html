@@ -1,7 +1,7 @@
 {{- $country := .country -}}
 {{- $page := .page -}}
-{{- $data := partialCached "helper/borderPoints" . site.Language.Lang -}}
-{{- $rows := partial "helper/borderPointsRows" . -}}
+{{- $data := partialCached "border-points/data" . site.Language.Lang -}}
+{{- $rows := partial "border-points/rows" . -}}
 
 {{- with $rows -}}
   <table>

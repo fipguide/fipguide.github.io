@@ -1,0 +1,12 @@
+{{- $side := .side -}}
+{{- $page := .page -}}
+
+{{- $countryLabel := partial "border-points/resolve-ref" (dict "prefix" "country" "id" $side.country.id "label" $side.country.label "page" $page) -}}
+
+{{- $operators := slice -}}
+{{- range $side.operators -}}
+  {{- $operators = $operators | append (partial "border-points/resolve-ref" (dict "prefix" "operator" "id" .id "label" .label "page" $page)) -}}
+{{- end -}}
+
+{{- $out := printf "%s (%s)" $countryLabel (delimit $operators ", ") -}}
+{{- return $out -}}
