@@ -81,9 +81,9 @@ Cross-border long-distance trains operated commercially by ZSSK and CD, usually 
 
 Cross-border trains between Slovakia and the Czech Republic, Austria, or Hungary. They often run with few stops and relatively high average speed. `RJ` trains are Railjet trains of the Austrian Federal Railways, which can also be used with ZSSK Coupons on the Slovak section.
 
-{{< highlight confusion slovakia >}}
+{{< confusion slovakia >}}
 `RJ` is also the abbreviation for RegioJet, where no FIP Tickets are valid.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Reservations
 

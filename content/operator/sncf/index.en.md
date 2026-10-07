@@ -59,9 +59,9 @@ The `TGV` inOui is SNCF Voyageurs's high-speed train, connecting many cities in 
 
 Access to the platform (at stations with platform barriers) and to the trains is possible up to two minutes before departure. The doors close two minutes before departure. The ticket should be kept ready, as staff may check it before boarding the train.[^7] These rules do not apply in Germany.[^8]
 
-{{< highlight confusion france >}}
+{{< confusion france >}}
 SNCF also operates low-cost long-distance trains under the OUIGO brand, but these are not valid with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{< highlight important >}}
 Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
@@ -91,9 +91,9 @@ OUIGO (Grande Vitesse) is SNCF's low-cost high-speed train connecting numerous c
 
 Access to the train is no longer guaranteed five minutes before departure.[^7]
 
-{{< highlight confusion france >}}
+{{< confusion france >}}
 SNCF also operates `TGV` trains under the inOui brand, which are valid with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -189,9 +189,9 @@ Some lines from Paris require reservations, see [Reservation requirement in regi
 
 Access to the platform (at stations with platform barriers) and to the trains is possible up to two minutes before departure. The doors close two minutes before departure. The ticket should be kept ready, as staff may check it before boarding the train.[^7]
 
-{{< highlight confusion france >}}
+{{< confusion france >}}
 On the Marseille – Nice route, Transdev operates the trains, so FIP is not accepted. However, on the Marseille – Toulon route, SNCF trains are also used, where FIP is accepted. Prior verification of the operator is essential here.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 

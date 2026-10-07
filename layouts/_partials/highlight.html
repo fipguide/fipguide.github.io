@@ -20,7 +20,4 @@
   <div>
     {{ .Content }}
   </div>
-  {{- with .country -}}
-    {{- partial "link" (dict "Destination" (printf "/country/%s#identify-operator" .) "Text" (T "highlight.country-link") "Page" $.Page) -}}
-  {{- end -}}
 </div>

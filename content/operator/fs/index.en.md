@@ -46,9 +46,9 @@ Reservations (with surcharges) are mandatory on long-distance trains.
 
 Highest Italian train category for long-distance high-speed trains. Frecciarossa 1000 is marked for higher speed and service.
 
-{{< highlight confusion italy >}}
+{{< confusion italy >}}
 Trains of the private operator Italo are also marked as AV but cannot be used with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
@@ -69,9 +69,9 @@ A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available 
 
 High-speed tilting trains.
 
-{{< highlight confusion italy >}}
+{{< confusion italy >}}
 Trains of the private operator Italo are also marked as AV but cannot be used with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
@@ -243,9 +243,9 @@ Tickets for regional trains may be train-bound. See [Train binding in regional t
 
 Suburban rail systems in Naples (`M`) and Turin (`sfm`).
 
-{{< highlight confusion italy >}}
+{{< confusion italy >}}
 Metro lines are sometimes also marked as `M` and cannot be used with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 

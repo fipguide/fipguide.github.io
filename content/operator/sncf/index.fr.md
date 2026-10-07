@@ -57,9 +57,9 @@ Le `TGV` inOui est le train à grande vitesse des SNCF Voyageurs, reliant de nom
 
 L’accès au quai (dans les gares avec barrières de quai) ainsi qu’aux trains est possible jusqu’à deux minutes avant le départ. Les portes se ferment deux minutes avant le départ. Le billet doit être prêt, car le personnel peut le contrôler avant l’embarquement.[^7] Ces règles ne s’appliquent pas en Allemagne.[^8]
 
-{{< highlight confusion france >}}
+{{< confusion france >}}
 La SNCF exploite aussi des trains longue distance low-cost sous la marque OUIGO, mais ceux-ci ne sont pas valables avec FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{< highlight important >}}
 Des conditions particulières s’appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux).
@@ -89,9 +89,9 @@ OUIGO (Grande Vitesse) est le service grande vitesse low-cost de la SNCF, relian
 
 L’accès au train n’est plus garanti cinq minutes avant le départ.[^7]
 
-{{< highlight confusion france >}}
+{{< confusion france >}}
 La SNCF exploite aussi des `TGV` sous la marque inOui, qui sont valables avec le FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -189,9 +189,9 @@ Certaines lignes au départ de Paris sont à réservation obligatoire, voir [Ré
 
 L’accès au quai (dans les gares avec barrières de quai) ainsi qu’aux trains est possible jusqu’à deux minutes avant le départ. Les portes se ferment deux minutes avant le départ. Le billet doit être prêt, car le personnel peut le contrôler avant l’embarquement.[^7]
 
-{{< highlight confusion france >}}
+{{< confusion france >}}
 Sur la ligne Marseille – Nice, Transdev exploite les trains, c’est pourquoi FIP n’est pas accepté. Cependant, sur la ligne Marseille – Toulon, des trains de la SNCF sont également utilisés, où FIP est accepté. Une vérification préalable de l’exploitant est donc indispensable ici.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 

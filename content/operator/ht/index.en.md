@@ -62,9 +62,9 @@ Regional trains connect cities and regions outside the main axis.
 
 Some trains are referred to as Proastiakos or Suburban Railway, which is comparable to an S-Bahn. In the journey planner, these services also appear as regional trains `REG`.
 
-{{< highlight confusion greece >}}
+{{< confusion greece >}}
 Tourist services such as the Pelion Train are also shown as `REG` in the journey planner, but FIP is not valid on these.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
