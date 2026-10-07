@@ -1,24 +1,14 @@
 {{- $prefix := .prefix -}}
 {{- $page := .page -}}
-{{- $out := slice -}}
-{{- range .items -}}
-  {{- $id := .id -}}
-  {{- $label := .label -}}
-  {{- $ref := "" -}}
-  {{- with $id -}}
-    {{- with site.GetPage (printf "/%s/%s" $prefix .) -}}
-      {{- if not $label -}}
-        {{- $label = .Params.shortName | default .LinkTitle -}}
-      {{- end -}}
-      {{- $ref = printf "/%s/%s" $prefix $id -}}
-    {{- end -}}
+{{- $id := .id -}}
+{{- $out := "" -}}
+{{- if $id -}}
+  {{- with site.GetPage (printf "/%s/%s" $prefix $id) -}}
+    {{- $ref := printf "/%s/%s" $prefix $id -}}
+    {{- $text := .Params.shortName | default .LinkTitle -}}
+    {{- $out = partial "link" (dict "Destination" $ref "Text" $text "Page" $page) -}}
   {{- end -}}
-  {{- with $label -}}
-    {{- if $ref -}}
-      {{- $out = $out | append (partial "link" (dict "Destination" $ref "Text" . "Page" $page)) -}}
-    {{- else -}}
-      {{- $out = $out | append . -}}
-    {{- end -}}
-  {{- end -}}
+{{- else -}}
+  {{- $out = .label -}}
 {{- end -}}
 {{- return $out -}}

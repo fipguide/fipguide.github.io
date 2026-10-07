@@ -1,15 +1,12 @@
 {{- $side := .side -}}
 {{- $page := .page -}}
-{{- $countryItems := slice -}}
-{{- with $side.country -}}
-  {{- $countryItems = slice . -}}
-{{- end -}}
-{{- $countryLabel := partial "helper/borderPointsRefs" (dict "prefix" "country" "items" $countryItems "page" $page) -}}
-{{- $operators := partial "helper/borderPointsRefs" (dict "prefix" "operator" "items" $side.operators "page" $page) -}}
 
-{{- $out := delimit $countryLabel ", " -}}
-{{- with $operators -}}
-  {{- $joined := delimit . ", " -}}
-  {{- $out = cond (ne $out "") (printf "%s (%s)" $out $joined) $joined -}}
+{{- $countryLabel := partial "helper/borderPointsRefs" (dict "prefix" "country" "id" $side.country.id "label" $side.country.label "page" $page) -}}
+
+{{- $operators := slice -}}
+{{- range $side.operators -}}
+  {{- $operators = $operators | append (partial "helper/borderPointsRefs" (dict "prefix" "operator" "id" .id "label" .label "page" $page)) -}}
 {{- end -}}
+
+{{- $out := printf "%s (%s)" $countryLabel (delimit $operators ", ") -}}
 {{- return $out -}}
