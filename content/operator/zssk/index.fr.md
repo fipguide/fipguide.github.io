@@ -3,6 +3,8 @@ title: ZSSK / ZSR
 country:
   - slovakia
 operator: zssk
+content_images:
+  - image.webp
 aliases:
   - zsr
   - /booking/zssk-ticket-office

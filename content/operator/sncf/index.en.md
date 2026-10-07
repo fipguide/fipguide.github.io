@@ -9,6 +9,8 @@ country:
   - belgium
   - luxembourg
 operator: sncf
+content_images:
+  - image.webp
 aliases:
   - /booking/sncf-phone
   - /booking/sncf-ticket-office
@@ -39,6 +41,8 @@ FIP Coupons and FIP 50 / FIP 75 Tickets are valid on SNCF services. For cross-bo
 
 Reservations are mandatory on all `TGV`, almost all `IC` trains, and some regional trains (`TER`). FIP is not valid on OUIGO trains. For trains requiring reservations, the FIP 50 / FIP 75 Ticket price always includes a reservation.
 
+At SNCF stations, the platform is usually announced 20 minutes before departure.[^7]
+
 ### Long-distance
 
 {{% train-category
@@ -52,6 +56,8 @@ Reservations are mandatory on all `TGV`, almost all `IC` trains, and some region
 %}}
 
 The `TGV` inOui is SNCF Voyageurs's high-speed train, connecting many cities in France and international destinations (e.g. Munich, Frankfurt am Main, Barcelona, Luxembourg, Brussels, Milan). Additionally, `TGV` Lyria trains run from France to Switzerland (Basel, Zurich, Lausanne, Geneva).
+
+Access to the platform (at stations with platform barriers) and to the trains is possible up to two minutes before departure. The doors close two minutes before departure. The ticket should be kept ready, as staff may check it before boarding the train.[^7] These rules do not apply in Germany.[^8]
 
 {{< highlight confusion france >}}
 SNCF also operates low-cost long-distance trains under the OUIGO brand, but these are not valid with FIP.
@@ -83,6 +89,8 @@ Prices differ between peak and off-peak trains for national journeys. The classi
 
 OUIGO (Grande Vitesse) is SNCF's low-cost high-speed train connecting numerous cities in France and some international destinations. There are also OUIGO Classique trains composed of conventional coaching stock.
 
+Access to the train is no longer guaranteed five minutes before departure.[^7]
+
 {{< highlight confusion france >}}
 SNCF also operates `TGV` trains under the inOui brand, which are valid with FIP.
 {{< /highlight >}}
@@ -99,6 +107,8 @@ SNCF also operates `TGV` trains under the inOui brand, which are valid with FIP.
 %}}
 
 International high-speed trains operated by SNCF in cooperation with Deutsche Bahn, running between France (Paris Est, Strasbourg) and Germany (Karlsruhe, Mannheim, Frankfurt am Main, Erfurt, Halle (Saale) and Berlin or Stuttgart and Munich). In July and August, there are also [direct trains between Frankfurt (Main) and Bordeaux on Saturdays](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux).
+
+Access to the platform (at stations with platform barriers) and to the trains is possible up to two minutes before departure. The doors close two minutes before departure. The ticket should be kept ready, as staff may check it before boarding the train.[^7] These rules do not apply in Germany.[^8]
 
 {{< highlight important >}}
 Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
@@ -129,6 +139,8 @@ Intercity trains operated by SNCF, connecting various cities in France, mostly r
 
 On the [Intercités website](https://www.sncf-voyageurs.com/en/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) of SNCF, you can find a list of routes with and without mandatory reservations. Alternatively, you can use the [train search](https://www.sncf-voyageurs.com/en/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) on the SNCF website to check the reservation requirements for each train number.
 
+Access to the platform (at stations with platform barriers) and to the trains is possible up to two minutes before departure. The doors close two minutes before departure. The ticket should be kept ready, as staff may check it before boarding the train.[^7]
+
 #### Reservations
 
 Prices differ between peak and off-peak trains for national journeys. The classification is not publicly available.
@@ -153,7 +165,11 @@ SNCF night trains within France. International Nightjet connections ended in Dec
 
 #### Reservations
 
-Cost depends on route and occupancy.
+|          | Seat car | Sleeping car / Couchette |
+| -------- | -------- | ------------------------ |
+| National | €2       | €20                      |
+
+There is no distinction between peak and off-peak trains for Intercité de nuit.
 
 {{% /train-category %}}
 
@@ -170,6 +186,8 @@ Cost depends on route and occupancy.
 
 `TER` is SNCF's regional train, connecting various cities in France.
 Some lines from Paris require reservations, see [Reservation requirement in regional trains](#reservation-requirement-in-regional-trains).
+
+Access to the platform (at stations with platform barriers) and to the trains is possible up to two minutes before departure. The doors close two minutes before departure. The ticket should be kept ready, as staff may check it before boarding the train.[^7]
 
 {{< highlight confusion france >}}
 On the Marseille – Nice route, Transdev operates the trains, so FIP is not accepted. However, on the Marseille – Toulon route, SNCF trains are also used, where FIP is accepted. Prior verification of the operator is essential here.
@@ -501,3 +519,7 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 [^5]: [FIP Guide Community: ICE Frankfurt–Bordeaux](https://discord.com/channels/1250522473188032512/1482738819982950462)
 
 [^6]: [SNCF Connect – Children and Family Offers](https://www.sncf-connect.com/en-en/help/offer-children-and-families#ancre-11001)
+
+[^7]: [SNCF Connect – Boarding Train](https://www.sncf-connect.com/en-en/help/boarding-train)
+
+[^8]: [DB – Was muss ich bei meiner Reise mit der SNCF beachten?](https://www.bahn.de/faq/internationale-reise-sncf-was-beachten)

@@ -6,6 +6,8 @@ country:
   - "country2"
   - "country3"
 operator: "{{ .File.ContentBaseName }}"
+content_images:
+  - "image.webp"
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->

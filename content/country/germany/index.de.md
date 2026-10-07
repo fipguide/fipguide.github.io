@@ -31,11 +31,12 @@ params:
     - FlixTrain GmbH – FLX
     - Förderverein Mainschleifenbahn e.V. – MSB
     - Freiberger Eisenbahngesellschaft mbH – FEG
-    - GoVolta
+    - GoVolta – GV
     - Hamburger Hochbahn
     - Hanseatische Eisenbahn GmbH
     - Harzer Schmalspurbahn – HSB
     - HLB Hessenbahn GmbH – HLB
+    - Ilztalbahn – P
     - Kandertalbahn – KTB
     - Kasbachtalbahn – P
     - Leo Express
@@ -81,6 +82,8 @@ params:
     - WESTbahn – WB
     - WestfalenBahn – WFB
     - Württembergische Eisenbahn-Gesellschaft mbH – WEG
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

@@ -9,6 +9,8 @@ params:
     - Szybka Kolej Miejska w Warszawie
     - Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL)
     - Warszawska Kolej Dojazdowa (WKD)
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP
@@ -60,6 +62,10 @@ Actuellement, aucun train ne circule entre la Russie et la Pologne.
 Il n’existe que très peu de trains transfrontaliers entre la Pologne et la Lituanie. Une paire de trains circule de Cracovie via Varsovie jusqu’à Vilnius. À la gare frontière de Mockava, une correspondance est nécessaire, mais le trajet est vendu comme un seul parcours. Le changement se fait soit sur le même quai, soit via un passage de plain-pied vers le quai voisin. À Mockava, les trains en correspondance attendent en cas de retard. Les billets et réservations peuvent être achetés en ligne ([voir Achat de billets](/operator/ltg#online)). Pour les trajets transfrontaliers vers/depuis la Pologne, il faut disposer soit d’un Billet FIP 50 valable pour tout le trajet, soit de Coupons FIP des deux pays.
 
 Le nombre de billets est limité, car le voyage n’est possible qu’avec une place assise réservée. Depuis décembre 2025, une réservation de place fixe n’est attribuée que dans le PKP « IC », tandis que dans l’automotrice LTG-Link, le choix de la place est libre.
+
+{{% highlight tip %}}
+LTG-Link propose uniquement des billets de 2e classe pour les liaisons transfrontalières. Par le biais des [canaux de vente de la PKP](/operator/pkp#achat-de-billets-et-réservations), il est possible d’acheter des billets de 1re classe pour la section polonaise du trajet (jusqu’à Mockava). Sur la section lituanienne du trajet, seule la 2e classe est généralement disponible. Lors de la combinaison de deux billets ou réservations séparés, il convient de noter que cela peut entraîner des restrictions sur les droits des passagers.
+{{% /highlight %}}
 
 ### Biélorussie
 
