@@ -1,5 +1,6 @@
 ---
 title: Trenitalia
+shortName: FS
 country:
   - italy
 operator: trenitalia

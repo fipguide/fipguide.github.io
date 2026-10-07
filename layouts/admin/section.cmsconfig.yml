@@ -122,7 +122,7 @@ x_border_side: &border_side
     widget: "list"
     required: false
     i18n: true
-    summary: "{{"{{"}}fields.label}}"
+    summary: "{{"{{"}}fields.id}}{{"{{"}}fields.label}}"
     fields:
       - label: "Operator"
         name: "id"
@@ -138,7 +138,7 @@ x_border_side: &border_side
         widget: "string"
         required: false
         i18n: true
-        hint: "Text shown in the table, e.g. “DB” instead of the full page title."
+        hint: "Only needed for operators without their own page. The short name shown for operators with a page is set on the operator page itself."
 
 collections:
   - name: "news"
@@ -337,6 +337,12 @@ collections:
         name: "title"
         widget: "string"
         i18n: true
+      - label: "Short Name"
+        name: "shortName"
+        widget: "string"
+        required: false
+        i18n: true
+        hint: "Abbreviation shown in border point tables, e.g. “DB” instead of the full title. Falls back to the title if not set."
       - label: "Countries"
         name: "country"
         widget: "relation"

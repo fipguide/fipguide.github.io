@@ -1,5 +1,6 @@
 ---
 title: CIE
+shortName: CIE
 country:
   - ireland
 operator: cie

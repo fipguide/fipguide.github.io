@@ -1,5 +1,6 @@
 ---
 title: KD
+shortName: KD
 country:
   - pologne
 operator: kd

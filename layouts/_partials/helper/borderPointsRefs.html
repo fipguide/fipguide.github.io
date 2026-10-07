@@ -7,7 +7,9 @@
   {{- $ref := "" -}}
   {{- with $id -}}
     {{- with site.GetPage (printf "/%s/%s" $prefix .) -}}
-      {{- if not $label }}{{ $label = .LinkTitle }}{{ end -}}
+      {{- if not $label -}}
+        {{- $label = .Params.shortName | default .LinkTitle -}}
+      {{- end -}}
       {{- $ref = printf "/%s/%s" $prefix $id -}}
     {{- end -}}
   {{- end -}}

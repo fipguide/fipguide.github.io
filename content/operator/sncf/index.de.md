@@ -1,5 +1,6 @@
 ---
 title: SNCF Voyageurs
+shortName: SNCF
 country:
   - france
   - germany

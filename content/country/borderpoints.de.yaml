@@ -98,10 +98,10 @@ borders:
   - id: at-cz
     a:
       countries: [{ id: austria }]
-      operators: [{ id: oebb, label: ÖBB }]
+      operators: [{ id: oebb }]
     b:
       countries: [{ id: czechia }]
-      operators: [{ id: cd, label: ČD }]
+      operators: [{ id: cd }]
     points:
       - "Bernhardsthal (Gr) / Břeclav (Gr)"
       - "Unterretzbach (Gr) / Retz (Gr)"
@@ -111,10 +111,10 @@ borders:
   - id: at-sk
     a:
       countries: [{ id: austria }]
-      operators: [{ id: oebb, label: ÖBB }]
+      operators: [{ id: oebb }]
     b:
       countries: [{ id: slovakia }]
-      operators: [{ id: zssk, label: ZSSK / ŽSR }]
+      operators: [{ id: zssk }]
     points:
       - "Marchegg (Gr)"
       - "Kittsee (Gr)"
@@ -122,10 +122,10 @@ borders:
   - id: at-hu-gysev
     a:
       countries: [{ id: austria }]
-      operators: [{ id: gysev, label: GySEV }]
+      operators: [{ id: gysev }]
     b:
       countries: [{ id: hungary }]
-      operators: [{ id: gysev, label: GySEV }]
+      operators: [{ id: gysev }]
     points:
       - "Pamhagen (Gr)"
       - "Szentgotthárd"
@@ -134,10 +134,10 @@ borders:
   - id: at-hu-mav
     a:
       countries: [{ id: austria }]
-      operators: [{ id: oebb, label: ÖBB }]
+      operators: [{ id: oebb }]
     b:
       countries: [{ id: hungary }]
-      operators: [{ id: mav, label: MÁV }]
+      operators: [{ id: mav }]
     points:
       - "Hegyeshalom (Gr)"
       - "Sopron"
@@ -146,10 +146,10 @@ borders:
     sort: true
     a:
       countries: [{ id: austria }]
-      operators: [{ id: oebb, label: ÖBB }]
+      operators: [{ id: oebb }]
     b:
       countries: [{ id: slovenia }]
-      operators: [{ id: sz, label: SŽ }]
+      operators: [{ id: sz }]
     points:
       - "Bleiburg (Gr) (Slowenisch: Pliberk)"
       - "Spielfeld-Strass (Gr) / Spielfeld (Gr) (Slowenisch: Špilje)"
@@ -158,10 +158,10 @@ borders:
   - id: at-it
     a:
       countries: [{ id: austria }]
-      operators: [{ id: oebb, label: ÖBB }]
+      operators: [{ id: oebb }]
     b:
       countries: [{ id: italy }]
-      operators: [{ id: fs, label: FS }]
+      operators: [{ id: fs }]
     points:
       - "Brennero/Brenner"
       - "San Candido/Innichen"
@@ -170,10 +170,10 @@ borders:
   - id: at-ch
     a:
       countries: [{ id: austria }]
-      operators: [{ id: oebb, label: ÖBB }]
+      operators: [{ id: oebb }]
     b:
       countries: [{ id: switzerland }]
-      operators: [{ id: sbb, label: SBB }]
+      operators: [{ id: sbb }]
     points:
       - "Buchs SG"
       - "St. Margrethen"
@@ -182,10 +182,10 @@ borders:
     sort: true
     a:
       countries: [{ id: austria }]
-      operators: [{ id: oebb, label: ÖBB }]
+      operators: [{ id: oebb }]
     b:
       countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
+      operators: [{ id: db }]
     points:
       - "Passau Hbf"
       - "Salzburg Hbf (im NV bis Salzburg Liefering)"
@@ -197,10 +197,10 @@ borders:
   - id: be-nl
     a:
       countries: [{ id: belgium }]
-      operators: [{ id: sncb, label: SNCB }]
+      operators: [{ id: sncb }]
     b:
       countries: [{ id: netherlands }]
-      operators: [{ id: ns, label: NS }]
+      operators: [{ id: ns }]
     points:
       - "Roosendaal (fr)"
       - "Visé (fr)"
@@ -208,20 +208,20 @@ borders:
   - id: be-de
     a:
       countries: [{ id: belgium }]
-      operators: [{ id: sncb, label: SNCB }]
+      operators: [{ id: sncb }]
     b:
       countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
+      operators: [{ id: db }]
     points:
       - "Aachen Süd (Gr)"
 
   - id: be-lu
     a:
       countries: [{ id: belgium }]
-      operators: [{ id: sncb, label: SNCB }]
+      operators: [{ id: sncb }]
     b:
       countries: [{ id: luxembourg }]
-      operators: [{ id: cfl, label: CFL }]
+      operators: [{ id: cfl }]
     points:
       - "Athus"
       - "Gouvy (fr)"
@@ -230,10 +230,10 @@ borders:
   - id: be-fr
     a:
       countries: [{ id: belgium }]
-      operators: [{ id: sncb, label: SNCB }]
+      operators: [{ id: sncb }]
     b:
       countries: [{ id: france }]
-      operators: [{ id: sncf, label: SNCF }]
+      operators: [{ id: sncf }]
     points:
       - "Blandain (fr)"
       - "Givet (fr)"
@@ -244,7 +244,7 @@ borders:
   - id: ba-hr
     a:
       countries: [{ id: bosnia-and-herzegovina }]
-      operators: [{ id: zfbh, label: ŽFBH }, { id: zrs, label: ŽRS }]
+      operators: [{ id: zfbh }, { id: zrs }]
     b:
       countries: [{ label: Kroatien }]
       operators: [{ label: HŽ }]
@@ -258,20 +258,20 @@ borders:
   - id: ba-rs
     a:
       countries: [{ id: bosnia-and-herzegovina }]
-      operators: [{ id: zfbh, label: ŽFBH }, { id: zrs, label: ŽRS }]
+      operators: [{ id: zfbh }, { id: zrs }]
     b:
       countries: [{ id: serbia }]
-      operators: [{ id: sv, label: SV }]
+      operators: [{ id: sv }]
     points:
       - "Zvornik"
 
   - id: bg-ro
     a:
       countries: [{ id: bulgaria }]
-      operators: [{ id: bdz, label: BDŽ }]
+      operators: [{ id: bdz }]
     b:
       countries: [{ id: romania }]
-      operators: [{ id: cfr, label: CFR }]
+      operators: [{ id: cfr }]
     points:
       - "Ruse (fr) (bulgarisch: Русе)"
       - "Vidin (fr)"
@@ -279,7 +279,7 @@ borders:
   - id: bg-tr
     a:
       countries: [{ id: bulgaria }]
-      operators: [{ id: bdz, label: BDŽ }]
+      operators: [{ id: bdz }]
     b:
       countries: [{ label: Türkei }]
       operators: [{ label: TCDD }]
@@ -289,10 +289,10 @@ borders:
   - id: bg-gr
     a:
       countries: [{ id: bulgaria }]
-      operators: [{ id: bdz, label: BDŽ }]
+      operators: [{ id: bdz }]
     b:
       countries: [{ id: greece }]
-      operators: [{ id: ht, label: Hellenic Train }]
+      operators: [{ id: ht }]
     points:
       - "Kulata (fr) (bulgarisch: Кулата)"
       - "Svilengrad (fr) (bulgarisch: Свиленград)"
@@ -300,21 +300,20 @@ borders:
   - id: bg-rs
     a:
       countries: [{ id: bulgaria }]
-      operators: [{ id: bdz, label: BDŽ }]
+      operators: [{ id: bdz }]
     b:
       countries: [{ id: serbia }]
-      operators: [{ id: sv, label: SV }]
+      operators: [{ id: sv }]
     points:
       - "Dimitrovgrad (fr) (bulgarisch: Цариброд, Tsaribrod)"
 
   - id: cz-pl
     a:
       countries: [{ id: czechia }]
-      operators: [{ id: cd, label: ČD }]
+      operators: [{ id: cd }]
     b:
       countries: [{ id: poland }]
-      operators:
-        [{ id: pkp, label: PKP }, { id: kd, label: KD }, { id: ks, label: KŚ }]
+      operators: [{ id: pkp }, { id: kd }, { id: ks }]
     points:
       - "Bohumín (Gr)"
       - "Český Těšín (Gr)"
@@ -327,10 +326,10 @@ borders:
   - id: cz-sk
     a:
       countries: [{ id: czechia }]
-      operators: [{ id: cd, label: ČD }]
+      operators: [{ id: cd }]
     b:
       countries: [{ id: slovakia }]
-      operators: [{ id: zssk, label: ZSSK / ŽSR }]
+      operators: [{ id: zssk }]
     points:
       - "Čadca (Gr)"
       - "Hodonín (Gr)"
@@ -344,10 +343,10 @@ borders:
     sort: true
     a:
       countries: [{ id: czechia }]
-      operators: [{ id: cd, label: ČD }]
+      operators: [{ id: cd }]
     b:
       countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
+      operators: [{ id: db }]
     points:
       - "Selb-Plößberg (Gr) / Aš (Gr)"
       - "Bayerisch Eisenstein (tschechisch: Bavorská Železná ruda)"
@@ -366,7 +365,7 @@ borders:
   - id: dk-se
     a:
       countries: [{ id: denmark }]
-      operators: [{ id: dsb, label: DSB }]
+      operators: [{ id: dsb }]
     b:
       countries: [{ label: Schweden }]
       operators: [{ label: SJ }]
@@ -376,10 +375,10 @@ borders:
   - id: dk-de
     a:
       countries: [{ id: denmark }]
-      operators: [{ id: dsb, label: DSB }]
+      operators: [{ id: dsb }]
     b:
       countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
+      operators: [{ id: db }]
     points:
       - "Flensburg (Gr)"
       - "Puttgarden (MS) (über Rødby Faerge)"
@@ -389,7 +388,7 @@ borders:
   - id: de-se
     a:
       countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
+      operators: [{ id: db }]
     b:
       countries: [{ label: Schweden }]
       operators: [{ label: SJ }]
@@ -402,10 +401,10 @@ borders:
     sort: true
     a:
       countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
+      operators: [{ id: db }]
     b:
       countries: [{ id: poland }]
-      operators: [{ id: pkp, label: PKP }]
+      operators: [{ id: pkp }]
     points:
       - "Ahlbeck (Gr)"
       - "Forst (Gr)"
@@ -420,9 +419,9 @@ borders:
   - id: de-bsb
     a:
       countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
+      operators: [{ id: db }]
     b:
-      operators: [{ id: bsb, label: BSB }]
+      operators: [{ id: bsb }]
     points:
       - "Friedrichshafen"
       - "Langenargen"
@@ -435,15 +434,10 @@ borders:
   - id: de-ch
     a:
       countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
+      operators: [{ id: db }]
     b:
       countries: [{ id: switzerland }]
-      operators:
-        [
-          { id: sbb, label: SBB },
-          { id: bls, label: BLS },
-          { id: sp, label: SP },
-        ]
+      operators: [{ id: sbb }, { id: bls }, { id: sp }]
     points:
       - "Basel Bad Bf"
       - "Konstanz"
@@ -453,10 +447,10 @@ borders:
   - id: de-fr
     a:
       countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
+      operators: [{ id: db }]
     b:
       countries: [{ id: france }]
-      operators: [{ id: sncf, label: SNCF }]
+      operators: [{ id: sncf }]
     points:
       - "Apach (fr)"
       - "Forbach (fr)"
@@ -469,19 +463,19 @@ borders:
   - id: de-lu
     a:
       countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
+      operators: [{ id: db }]
     b:
       countries: [{ id: luxembourg }]
-      operators: [{ id: cfl, label: CFL }]
+      operators: [{ id: cfl }]
     points:
       - "Igel (Gr)"
 
   - id: de-eurostar
     a:
       countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
+      operators: [{ id: db }]
     b:
-      operators: [{ id: eurostar, label: Eurostar }]
+      operators: [{ id: eurostar }]
     points:
       - "Aachen"
       - "Duisburg"
@@ -493,10 +487,10 @@ borders:
   - id: de-nl
     a:
       countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
+      operators: [{ id: db }]
     b:
       countries: [{ id: netherlands }]
-      operators: [{ id: ns, label: NS }]
+      operators: [{ id: ns }]
     points:
       - "Bad Bentheim (Gr)"
       - "Emmerich (Gr)"
@@ -508,7 +502,7 @@ borders:
   - id: gr-mk
     a:
       countries: [{ id: greece }]
-      operators: [{ id: ht, label: Hellenic Train }]
+      operators: [{ id: ht }]
     b:
       countries: [{ label: Nordmazedonien }]
       operators: [{ label: ŽRSM }]
@@ -518,7 +512,7 @@ borders:
   - id: gr-tr
     a:
       countries: [{ id: greece }]
-      operators: [{ id: ht, label: Hellenic Train }]
+      operators: [{ id: ht }]
     b:
       countries: [{ label: Türkei }]
       operators: [{ label: TCDD }]
@@ -528,10 +522,10 @@ borders:
   - id: gr-it
     a:
       countries: [{ id: greece }]
-      operators: [{ id: attica, label: Attica }]
+      operators: [{ id: attica }]
     b:
       countries: [{ id: italy }]
-      operators: [{ id: attica, label: Attica }]
+      operators: [{ id: attica }]
     points:
       - "Patras (Πάτρα) [>Ancona, >Bari]"
       - "Ancona [>Igoumenitsa, >Patras]"
@@ -540,10 +534,10 @@ borders:
   - id: hu-sk-mav
     a:
       countries: [{ id: hungary }]
-      operators: [{ id: mav, label: MÁV }]
+      operators: [{ id: mav }]
     b:
       countries: [{ id: slovakia }]
-      operators: [{ id: zssk, label: ZSSK / ŽSR }]
+      operators: [{ id: zssk }]
     points:
       - "Bánréve (Gr)"
       - "Čaňa (Gr)"
@@ -555,17 +549,17 @@ borders:
   - id: hu-sk-gysev
     a:
       countries: [{ id: hungary }]
-      operators: [{ id: gysev, label: GySEV }]
+      operators: [{ id: gysev }]
     b:
       countries: [{ id: slovakia }]
-      operators: [{ id: gysev, label: GySEV }]
+      operators: [{ id: gysev }]
     points:
       - "Rajka (Gr)"
 
   - id: hu-ua
     a:
       countries: [{ id: hungary }]
-      operators: [{ id: mav, label: MÁV }]
+      operators: [{ id: mav }]
     b:
       countries: [{ label: Ukraine }]
       operators: [{ label: UZ }]
@@ -575,10 +569,10 @@ borders:
   - id: hu-ro
     a:
       countries: [{ id: hungary }]
-      operators: [{ id: mav, label: MÁV }]
+      operators: [{ id: mav }]
     b:
       countries: [{ id: romania }]
-      operators: [{ id: cfr, label: CFR }]
+      operators: [{ id: cfr }]
     points:
       - "Biharkeresztes (fr)"
       - "Curtici (fr) (ungarisch: Kürtös)"
@@ -588,10 +582,10 @@ borders:
   - id: hu-rs
     a:
       countries: [{ id: hungary }]
-      operators: [{ id: mav, label: MÁV }]
+      operators: [{ id: mav }]
     b:
       countries: [{ id: serbia }]
-      operators: [{ id: sv, label: SV }]
+      operators: [{ id: sv }]
     points:
       - "Röszke (Gr)"
       - "Subotica (Gr)"
@@ -599,7 +593,7 @@ borders:
   - id: hu-hr
     a:
       countries: [{ id: hungary }]
-      operators: [{ id: mav, label: MÁV }]
+      operators: [{ id: mav }]
     b:
       countries: [{ label: Kroatien }]
       operators: [{ label: HŽ }]
@@ -611,30 +605,30 @@ borders:
   - id: hu-si
     a:
       countries: [{ id: hungary }]
-      operators: [{ id: mav, label: MÁV }, { id: gysev, label: GySEV }]
+      operators: [{ id: mav }, { id: gysev }]
     b:
       countries: [{ id: slovenia }]
-      operators: [{ id: sz, label: SŽ }]
+      operators: [{ id: sz }]
     points:
       - "Hodoš (Gr) (Őrihodos)"
 
   - id: ie-gb-rail
     a:
       countries: [{ id: ireland }]
-      operators: [{ id: cie, label: CIE }]
+      operators: [{ id: cie }]
     b:
       countries: [{ id: united-kingdom }]
-      operators: [{ id: nir, label: NIR }]
+      operators: [{ id: nir }]
     points:
       - "Dundalk"
 
   - id: ie-gb-sll
     a:
       countries: [{ id: ireland }]
-      operators: [{ id: sll, label: Stena Line Limited }]
+      operators: [{ id: sll }]
     b:
       countries: [{ id: united-kingdom }]
-      operators: [{ id: sll, label: Stena Line Limited }]
+      operators: [{ id: sll }]
     points:
       - "Dublin Bay / Holyhead"
       - "Rosslare / Fishguard"
@@ -642,10 +636,10 @@ borders:
   - id: it-si
     a:
       countries: [{ id: italy }]
-      operators: [{ id: fs, label: FS }]
+      operators: [{ id: fs }]
     b:
       countries: [{ id: slovenia }]
-      operators: [{ id: sz, label: SŽ }]
+      operators: [{ id: sz }]
     points:
       - "Nova Gorica (fr)"
       - "Villa Opicina (fr) (Slowenisch: Opčine, Triestisch: Opcina)"
@@ -653,10 +647,10 @@ borders:
   - id: fr-it
     a:
       countries: [{ id: france }]
-      operators: [{ id: sncf, label: SNCF }]
+      operators: [{ id: sncf }]
     b:
       countries: [{ id: italy }]
-      operators: [{ id: fs, label: FS }]
+      operators: [{ id: fs }]
     points:
       - "Limone-Confine"
       - "Modane (fr)"
@@ -667,15 +661,10 @@ borders:
     sort: true
     a:
       countries: [{ id: italy }]
-      operators: [{ id: fs, label: FS }]
+      operators: [{ id: fs }]
     b:
       countries: [{ id: switzerland }]
-      operators:
-        [
-          { id: sbb, label: SBB },
-          { id: bls, label: BLS },
-          { id: sp, label: SP },
-        ]
+      operators: [{ id: sbb }, { id: bls }, { id: sp }]
     points:
       - "Chiasso"
       - "Domodossola"
@@ -691,15 +680,10 @@ borders:
   - id: fr-ch
     a:
       countries: [{ id: france }]
-      operators: [{ id: sncf, label: SNCF }]
+      operators: [{ id: sncf }]
     b:
       countries: [{ id: switzerland }]
-      operators:
-        [
-          { id: sbb, label: SBB },
-          { id: bls, label: BLS },
-          { id: sp, label: SP },
-        ]
+      operators: [{ id: sbb }, { id: bls }, { id: sp }]
     points:
       - "Annemasse"
       - "Basel SBB"
@@ -713,10 +697,10 @@ borders:
   - id: lu-fr
     a:
       countries: [{ id: luxembourg }]
-      operators: [{ id: cfl, label: CFL }]
+      operators: [{ id: cfl }]
     b:
       countries: [{ id: france }]
-      operators: [{ id: sncf, label: SNCF }]
+      operators: [{ id: sncf }]
     points:
       - "Bettembourg (fr)"
       - "Rodange (fr)"
@@ -724,10 +708,10 @@ borders:
   - id: es-fr
     a:
       countries: [{ id: spain }]
-      operators: [{ id: renfe, label: Renfe }]
+      operators: [{ id: renfe }]
     b:
       countries: [{ id: france }]
-      operators: [{ id: sncf, label: SNCF }]
+      operators: [{ id: sncf }]
     points:
       - "Canfranc (fr)"
       - "Hendaye (fr)"
@@ -737,9 +721,9 @@ borders:
   - id: fr-eurostar
     a:
       countries: [{ id: france }]
-      operators: [{ id: sncf, label: SNCF }]
+      operators: [{ id: sncf }]
     b:
-      operators: [{ id: eurostar, label: Eurostar }]
+      operators: [{ id: eurostar }]
     points:
       - "Paris"
       - "Lille"
@@ -747,30 +731,30 @@ borders:
   - id: gb-eurostar
     a:
       countries: [{ id: united-kingdom }]
-      operators: [{ id: gb, label: National Rail }]
+      operators: [{ id: gb }]
     b:
       countries: [{ id: france }, { id: belgium }, { id: netherlands }]
-      operators: [{ id: eurostar, label: Eurostar }]
+      operators: [{ id: eurostar }]
     points:
       - "London St. Pancras International"
 
   - id: nl-gb-stl
     a:
       countries: [{ id: netherlands }]
-      operators: [{ id: stl, label: Stena Line BV }]
+      operators: [{ id: stl }]
     b:
       countries: [{ id: united-kingdom }]
-      operators: [{ id: stl, label: Stena Line BV }]
+      operators: [{ id: stl }]
     points:
       - "Hoek van Holland / Harwich P.Q."
 
   - id: gb-gb-sll
     a:
       countries: [{ id: united-kingdom }]
-      operators: [{ id: sll, label: Stena Line Limited }]
+      operators: [{ id: sll }]
     b:
       countries: [{ id: united-kingdom }]
-      operators: [{ id: sll, label: Stena Line Limited }]
+      operators: [{ id: sll }]
     points:
       - "Cairnryan"
       - "Liverpool"
@@ -809,14 +793,14 @@ borders:
       operators: [{ label: LDz }]
     b:
       countries: [{ id: lithuania }]
-      operators: [{ id: ltg, label: LTG-Link }]
+      operators: [{ id: ltg }]
     points:
       - "Joniškis"
 
   - id: lt-by
     a:
       countries: [{ id: lithuania }]
-      operators: [{ id: ltg, label: LTG-Link }]
+      operators: [{ id: ltg }]
     b:
       countries: [{ label: Belarus/Weißrussland }]
     points:
@@ -825,17 +809,17 @@ borders:
   - id: lt-pl
     a:
       countries: [{ id: lithuania }]
-      operators: [{ id: ltg, label: LTG-Link }]
+      operators: [{ id: ltg }]
     b:
       countries: [{ id: poland }]
-      operators: [{ id: pkp, label: PKP }]
+      operators: [{ id: pkp }]
     points:
       - "Mockava (Gr)"
 
   - id: lt-ru
     a:
       countries: [{ id: lithuania }]
-      operators: [{ id: ltg, label: LTG-Link }]
+      operators: [{ id: ltg }]
     b:
       countries: [{ label: Russland }]
     points:
@@ -844,17 +828,17 @@ borders:
   - id: me-rs
     a:
       countries: [{ id: montenegro }]
-      operators: [{ id: zpcg, label: ŽPCG }]
+      operators: [{ id: zpcg }]
     b:
       countries: [{ id: serbia }]
-      operators: [{ id: sv, label: SV }]
+      operators: [{ id: sv }]
     points:
       - "Bijelo Polje (Gr)"
 
   - id: no-se
     a:
       countries: [{ id: norway }]
-      operators: [{ id: vy, label: Vy }]
+      operators: [{ id: vy }]
     b:
       countries: [{ label: Schweden }]
       operators: [{ label: SJ }]
@@ -867,7 +851,7 @@ borders:
   - id: pl-ru
     a:
       countries: [{ id: poland }]
-      operators: [{ id: pkp, label: PKP }]
+      operators: [{ id: pkp }]
     b:
       countries: [{ label: Russland }]
       operators: [{ label: RZD }]
@@ -877,7 +861,7 @@ borders:
   - id: pl-by
     a:
       countries: [{ id: poland }]
-      operators: [{ id: pkp, label: PKP }]
+      operators: [{ id: pkp }]
     b:
       countries: [{ label: Belarus / Weißrussland }]
       operators: [{ label: BC }]
@@ -889,7 +873,7 @@ borders:
   - id: pl-ua
     a:
       countries: [{ id: poland }]
-      operators: [{ id: pkp, label: PKP }]
+      operators: [{ id: pkp }]
     b:
       countries: [{ label: Ukraine }]
       operators: [{ label: UZ }]
@@ -900,17 +884,17 @@ borders:
   - id: pl-sk
     a:
       countries: [{ id: poland }]
-      operators: [{ id: pkp, label: PKP }]
+      operators: [{ id: pkp }]
     b:
       countries: [{ id: slovakia }]
-      operators: [{ id: zssk, label: ZSSK / ŽSR }]
+      operators: [{ id: zssk }]
     points:
       - "Lupkow (Gr)"
 
   - id: ro-ua
     a:
       countries: [{ id: romania }]
-      operators: [{ id: cfr, label: CFR }]
+      operators: [{ id: cfr }]
     b:
       countries: [{ label: Ukraine }]
       operators: [{ label: UZ }]
@@ -920,7 +904,7 @@ borders:
   - id: ro-md
     a:
       countries: [{ id: romania }]
-      operators: [{ id: cfr, label: CFR }]
+      operators: [{ id: cfr }]
     b:
       countries: [{ label: Moldau }]
       operators: [{ label: CFM }]
@@ -931,10 +915,10 @@ borders:
   - id: ro-rs
     a:
       countries: [{ id: romania }]
-      operators: [{ id: cfr, label: CFR }]
+      operators: [{ id: cfr }]
     b:
       countries: [{ id: serbia }]
-      operators: [{ id: sv, label: SV }]
+      operators: [{ id: sv }]
     points:
       - "Jimbolia (fr) (serbisch: Жомбољ)"
       - "Vršac (fr) (serbisch: Вршац)"
@@ -942,7 +926,7 @@ borders:
   - id: rs-mk
     a:
       countries: [{ id: serbia }]
-      operators: [{ id: sv, label: SV }]
+      operators: [{ id: sv }]
     b:
       countries: [{ label: Nordmazedonien }]
       operators: [{ label: ŽRSM }]
@@ -952,7 +936,7 @@ borders:
   - id: rs-hr
     a:
       countries: [{ id: serbia }]
-      operators: [{ id: sv, label: SV }]
+      operators: [{ id: sv }]
     b:
       countries: [{ label: Kroatien }]
       operators: [{ label: HŽ }]
@@ -963,7 +947,7 @@ borders:
   - id: si-hr
     a:
       countries: [{ id: slovenia }]
-      operators: [{ id: sz, label: SŽ }]
+      operators: [{ id: sz }]
     b:
       countries: [{ label: Kroatien }]
       operators: [{ label: HŽ }]
@@ -980,10 +964,10 @@ borders:
   - id: pt-es
     a:
       countries: [{ id: portugal }]
-      operators: [{ id: cp, label: CP }]
+      operators: [{ id: cp }]
     b:
       countries: [{ id: spain }]
-      operators: [{ id: renfe, label: Renfe }]
+      operators: [{ id: renfe }]
     points:
       - "Badajoz (fr)"
       - "Barca de Alva (fr)"

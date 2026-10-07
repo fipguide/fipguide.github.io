@@ -1,5 +1,6 @@
 ---
 title: Vy Group
+shortName: Vy
 country:
   - norway
 operator: vy

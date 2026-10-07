@@ -1,5 +1,6 @@
 ---
 title: PKP
+shortName: PKP
 country:
   - poland
 operator: pkp

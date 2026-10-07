@@ -1,5 +1,6 @@
 ---
 title: BSB
+shortName: BSB
 country:
   - austria
   - germany

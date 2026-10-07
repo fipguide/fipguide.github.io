@@ -1,5 +1,6 @@
 ---
 title: ČD
+shortName: ČD
 country:
   - czechia
 operator: cd

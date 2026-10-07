@@ -1,5 +1,6 @@
 ---
 title: Eurostar
+shortName: Eurostar
 country:
   - belgium
   - germany
