@@ -319,7 +319,7 @@ operators:
       active-relatives: coupon-1
       retired: coupon-1
       retired-relatives: coupon-1
-  zrms:
+  zrsm:
     fip-coupon:
       active: coupon-1
       active-relatives: coupon-1
