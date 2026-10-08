@@ -274,6 +274,7 @@ collections:
           - "dialog"
           - "float-image"
           - "wip"
+          - "border-points"
           - "identify-operator"
           - "columns"
           - "footnote"

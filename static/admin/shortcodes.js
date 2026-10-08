@@ -885,6 +885,24 @@
     },
   });
 
+  CMS.registerEditorComponent({
+    id: "border-points",
+    label: "Border Points",
+    fields: [],
+    pattern: selfClosingPattern("border-points"),
+    fromBlock: function () {
+      return {};
+    },
+    toBlock: makeToBlock("border-points", {
+      bracket: "<",
+      fields: [],
+      bodyMode: "none",
+    }),
+    toPreview: function () {
+      return "";
+    },
+  });
+
   var updateFields = [
     {
       name: "date",
