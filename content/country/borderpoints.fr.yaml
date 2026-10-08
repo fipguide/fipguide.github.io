@@ -12,14 +12,30 @@ countries:
   denmark:
     order: [dk-se, dk-de]
   france:
-    order: [be-fr, lu-fr, de-fr, fr-ch, fr-it, es-fr]
+    order: [fr-eurostar, be-fr, lu-fr, de-fr, fr-ch, fr-it, es-fr]
   germany:
     order:
-      [dk-de, de-se, de-pl, cz-de, at-de, de-ch, de-fr, de-lu, be-de, de-nl]
+      [
+        dk-de,
+        de-se,
+        de-pl,
+        cz-de,
+        at-de,
+        de-bsb,
+        de-ch,
+        de-fr,
+        de-lu,
+        be-de,
+        de-eurostar,
+        de-nl,
+      ]
     footnotes:
       - "MS = Milieu du lac"
   greece:
-    order: [gr-mk, bg-gr, gr-tr]
+    order: [gr-mk, bg-gr, gr-tr, gr-it]
+    footnotes:
+      - "[>] = En direction de (par ex. Patras [> Ancona] = Patras est le point
+        frontière en direction d’Ancona)"
   hungary:
     order:
       [
@@ -34,9 +50,9 @@ countries:
         at-hu-gysev,
       ]
   ireland:
-    order: [ie-gb-rail]
+    order: [ie-gb-rail, ie-gb-sll]
   italy:
-    order: [at-it, it-si, fr-it, it-ch]
+    order: [at-it, it-si, gr-it, fr-it, it-ch]
     footnotes:
       - "[>] = Vers (par exemple, Domodossola [> Locarno] = Domodossola est le
         point frontière vers Locarno)"
@@ -49,7 +65,7 @@ countries:
   montenegro:
     order: [me-rs]
   netherlands:
-    order: [de-nl, be-nl]
+    order: [de-nl, be-nl, nl-gb-stl]
   norway:
     order: [no-se]
   poland:
@@ -76,7 +92,7 @@ countries:
       - "[>] = En direction de (par exemple, Locarno [> Domodossola] = Locarno
         est le point frontière en direction de Domodossola)"
   united-kingdom:
-    order: [ie-gb-rail]
+    order: [nl-gb-stl, gb-eurostar, ie-gb-rail, ie-gb-sll, gb-gb-sll]
 
 borders:
   - id: at-cz
@@ -400,6 +416,22 @@ borders:
       - "Tantow (Gr)"
       - "Zgorzelec (Gr)"
 
+  - id: de-bsb
+    a:
+      country: { id: germany }
+      operators: [{ id: db }]
+    b:
+      country: null
+      operators: [{ id: bsb }]
+    points:
+      - "Friedrichshafen"
+      - "Langenargen"
+      - "Lindau"
+      - "Konstanz"
+      - "Radolfzell"
+      - "Schaffhausen"
+      - "Überlingen"
+
   - id: de-ch
     a:
       country: { id: germany }
@@ -454,6 +486,21 @@ borders:
       - "Venlo (Gr)"
       - "Weener (Gr)"
 
+  - id: de-eurostar
+    a:
+      country: { id: germany }
+      operators: [{ id: db }]
+    b:
+      country: null
+      operators: [{ id: eurostar }]
+    points:
+      - "Aachen"
+      - "Duisburg"
+      - "Düsseldorf"
+      - "Düsseldorf Airport"
+      - "Essen"
+      - "Cologne"
+
   - id: gr-mk
     a:
       country: { id: greece }
@@ -473,6 +520,18 @@ borders:
       operators: [{ label: TCDD }]
     points:
       - "Pythio (Πύθιο)"
+
+  - id: gr-it
+    a:
+      country: { id: greece }
+      operators: [{ id: attica }]
+    b:
+      country: { id: italy }
+      operators: [{ id: attica }]
+    points:
+      - "Patras (Πάτρα) [>Ancona, >Bari]"
+      - "Ancona [>Igoumenitsa, >Patras]"
+      - "Bari [>Igoumenitsa, >Patras]"
 
   - id: hu-sk-mav
     a:
@@ -565,6 +624,17 @@ borders:
     points:
       - "Dundalk"
 
+  - id: ie-gb-sll
+    a:
+      country: { id: ireland }
+      operators: [{ id: sll }]
+    b:
+      country: { id: united-kingdom }
+      operators: [{ id: sll }]
+    points:
+      - "Dublin Bay / Holyhead"
+      - "Rosslare / Fishguard"
+
   - id: it-si
     a:
       country: { id: italy }
@@ -649,6 +719,49 @@ borders:
       - "Hendaye (fr)"
       - "Port Bou (fr)"
       - "La Tour-de-Carol-Enveitg"
+
+  - id: fr-eurostar
+    a:
+      country: { id: france }
+      operators: [{ id: sncf }]
+    b:
+      country: null
+      operators: [{ id: eurostar }]
+    points:
+      - "Paris"
+      - "Lille"
+
+  - id: gb-eurostar
+    a:
+      country: { id: united-kingdom }
+      operators: [{ id: gb }]
+    b:
+      country: { id: france }
+      operators: [{ id: eurostar }]
+    points:
+      - "London St. Pancras International"
+
+  - id: nl-gb-stl
+    a:
+      country: { id: netherlands }
+      operators: [{ id: stl }]
+    b:
+      country: { id: united-kingdom }
+      operators: [{ id: stl }]
+    points:
+      - "Hoek van Holland / Harwich P.Q."
+
+  - id: gb-gb-sll
+    a:
+      country: { id: united-kingdom }
+      operators: [{ id: sll }]
+    b:
+      country: { id: united-kingdom }
+      operators: [{ id: sll }]
+    points:
+      - "Cairnryan"
+      - "Liverpool"
+      - "Belfast"
 
   - id: lv-ee
     a:
