@@ -1,6 +1,8 @@
 ---
 title: "Macédoine du Nord"
 country: "north-macedonia"
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP

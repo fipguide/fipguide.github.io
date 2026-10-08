@@ -1,6 +1,8 @@
 ---
 title: "Nordmazedonien"
 country: "north-macedonia"
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung
