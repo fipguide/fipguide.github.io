@@ -888,14 +888,14 @@ singletons:
             widget: "object"
             i18n: true
             collapsed: true
-            summary: "Countries & Operators"
+            summary: "Country & Operators"
             fields: *border_side
           - label: "Side B"
             name: "b"
             widget: "object"
             i18n: true
             collapsed: true
-            summary: "Countries & Operators"
+            summary: "Country & Operators"
             fields: *border_side
           - label: "Border Points"
             name: "points"
