@@ -471,21 +471,6 @@ borders:
     points:
       - "Igel (Gr)"
 
-  - id: de-nl
-    a:
-      country: { id: germany }
-      operators: [{ id: db }]
-    b:
-      country: { id: netherlands }
-      operators: [{ id: ns }]
-    points:
-      - "Bad Bentheim (Gr)"
-      - "Emmerich (Gr)"
-      - "Gronau (Westf) (Gr)"
-      - "Herzogenrath (Gr)"
-      - "Venlo (Gr)"
-      - "Weener (Gr)"
-
   - id: de-eurostar
     a:
       country: { id: germany }
@@ -500,6 +485,21 @@ borders:
       - "Düsseldorf Airport"
       - "Essen"
       - "Köln"
+
+  - id: de-nl
+    a:
+      country: { id: germany }
+      operators: [{ id: db }]
+    b:
+      country: { id: netherlands }
+      operators: [{ id: ns }]
+    points:
+      - "Bad Bentheim (Gr)"
+      - "Emmerich (Gr)"
+      - "Gronau (Westf) (Gr)"
+      - "Herzogenrath (Gr)"
+      - "Venlo (Gr)"
+      - "Weener (Gr)"
 
   - id: gr-mk
     a:
