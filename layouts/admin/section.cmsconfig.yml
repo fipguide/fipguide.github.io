@@ -247,80 +247,6 @@ collections:
           - "columns"
           - "footnote"
 
-  - name: "borderpoints"
-    label: "Border Points"
-    files:
-      - name: "borderpoints"
-        label: "Border Points"
-        file: "content/country/borderpoints.yaml"
-        i18n: true
-        fields:
-          - label: "Countries"
-            name: "countries"
-            widget: "list"
-            i18n: true
-            collapsed: true
-            summary: "{{"{{"}}fields.id}}"
-            hint: "Row order and footnotes of the border point table per country."
-            fields:
-              - label: "Country"
-                name: "id"
-                widget: "relation"
-                collection: "country"
-                search_fields: ["title"]
-                value_field: "country"
-                display_fields: ["title"]
-                i18n: duplicate
-              - label: "Row Order"
-                name: "order"
-                widget: "list"
-                i18n: duplicate
-                hint: "Border IDs in clockwise order, starting in the north of the country."
-              - label: "Footnotes"
-                name: "footnotes"
-                widget: "list"
-                required: false
-                i18n: true
-          - label: "Borders"
-            name: "borders"
-            widget: "list"
-            i18n: true
-            collapsed: true
-            summary: "{{"{{"}}fields.id}}"
-            hint: "Each border is defined once; both country tables are generated from it."
-            fields:
-              - label: "ID"
-                name: "id"
-                widget: "string"
-                i18n: duplicate
-                hint: 'Unique identifier, e.g. "at-cz". Referenced in the row order above.'
-              - label: "Sorting"
-                name: "sort"
-                widget: "boolean"
-                default: false
-                required: false
-                i18n: duplicate
-                hint: "Sort the border points of this border alphabetically."
-              - label: "Side A"
-                name: "a"
-                widget: "object"
-                i18n: true
-                collapsed: true
-                summary: "Countries & Operators"
-                fields: *border_side
-              - label: "Side B"
-                name: "b"
-                widget: "object"
-                i18n: true
-                collapsed: true
-                summary: "Countries & Operators"
-                fields: *border_side
-              - label: "Border Points"
-                name: "points"
-                widget: "list"
-                i18n: true
-                hint: "One name per crossing, shown in both country tables."
-
   - name: "operator"
     label: "Operators"
     label_singular: "Operator"
@@ -904,3 +830,75 @@ collections:
           - "wip"
           - "columns"
           - "footnote"
+
+singletons:
+  - name: "borderpoints"
+    label: "Border Points"
+    file: "content/country/borderpoints.{{"{{"}}locale}}.yaml"
+    i18n: true
+    fields:
+      - label: "Countries"
+        name: "countries"
+        widget: "list"
+        i18n: true
+        collapsed: true
+        summary: "{{"{{"}}fields.id}}"
+        hint: "Row order and footnotes of the border point table per country."
+        fields:
+          - label: "Country"
+            name: "id"
+            widget: "relation"
+            collection: "country"
+            search_fields: ["title"]
+            value_field: "country"
+            display_fields: ["title"]
+            i18n: duplicate
+          - label: "Row Order"
+            name: "order"
+            widget: "list"
+            i18n: duplicate
+            hint: "Border IDs in clockwise order, starting in the north of the country."
+          - label: "Footnotes"
+            name: "footnotes"
+            widget: "list"
+            required: false
+            i18n: true
+      - label: "Borders"
+        name: "borders"
+        widget: "list"
+        i18n: true
+        collapsed: true
+        summary: "{{"{{"}}fields.id}}"
+        hint: "Each border is defined once; both country tables are generated from it."
+        fields:
+          - label: "ID"
+            name: "id"
+            widget: "string"
+            i18n: duplicate
+            hint: 'Unique identifier, e.g. "at-cz". Referenced in the row order above.'
+          - label: "Sorting"
+            name: "sort"
+            widget: "boolean"
+            default: false
+            required: false
+            i18n: duplicate
+            hint: "Sort the border points of this border alphabetically."
+          - label: "Side A"
+            name: "a"
+            widget: "object"
+            i18n: true
+            collapsed: true
+            summary: "Countries & Operators"
+            fields: *border_side
+          - label: "Side B"
+            name: "b"
+            widget: "object"
+            i18n: true
+            collapsed: true
+            summary: "Countries & Operators"
+            fields: *border_side
+          - label: "Border Points"
+            name: "points"
+            widget: "list"
+            i18n: true
+            hint: "One name per crossing, shown in both country tables."
