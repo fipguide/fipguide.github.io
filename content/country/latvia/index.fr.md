@@ -4,6 +4,11 @@ country: latvia
 params:
   operators_without_fip:
     - Latvijas dzelzceļš (LDz)
+  border_points:
+    - lv-ee
+    - lv-ru
+    - lv-by
+    - lv-lt
 ---
 
 ## Informations FIP

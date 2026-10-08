@@ -4,6 +4,10 @@ country: "{{ .File.ContentBaseName }}"
 params:
   operators_without_fip:
     -  # List operators without FIP here
+  border_points:
+    -  # List border IDs in clockwise order, starting in the north of the country, as defined in `content/country/borderpoints.en.yaml`
+  border_points_footnotes:
+    -  # Optional footnotes shown below the border point table
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->
@@ -38,7 +42,7 @@ params:
 ## Arrival and Border Points
 
 <!--
-Only border points at the national border with other countries. They are maintained in `content/country/borderpoints.en.yaml` and rendered here automatically as a table. The row order is defined there via `order.<country>`, clockwise, starting in the north of the country.
+Only border points at the national border with other countries. They are maintained in `content/country/borderpoints.en.yaml` (per-border details) and `params.border_points` in this page's frontmatter (row order, clockwise starting in the north of the country), and rendered here automatically as a table.
 -->
 
 {{< border-points >}}

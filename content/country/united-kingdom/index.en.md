@@ -17,8 +17,13 @@ params:
     - London Trams (formerly Croydon Tramlink)
     - Transport for Greater Manchester
     - Tyne and Wear Metro
-    - Wightlink ferry (Portsmouth Harbour to Ryde Pier Head station on the Isle
-      of Wight)
+    - Wightlink ferry (Portsmouth Harbour to Ryde Pier Head station on the Isle of Wight)
+  border_points:
+    - nl-gb-stl
+    - gb-eurostar
+    - ie-gb-rail
+    - ie-gb-sll
+    - gb-gb-sll
 ---
 
 <!-- The UK is a bit different. There are no train categories, but many operators, so you have to check where FIP is valid. It makes sense to list other operators without FIP, even if they are often trams and subways. Otherwise, it's hard for users to understand why FIP is valid on the Elizabeth Line but not on other Underground lines. -->

@@ -9,6 +9,14 @@ params:
     - Szybka Kolej Miejska w Warszawie
     - Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL)
     - Warszawska Kolej Dojazdowa (WKD)
+  border_points:
+    - pl-ru
+    - lt-pl
+    - pl-by
+    - pl-ua
+    - pl-sk
+    - cz-pl
+    - de-pl
 ---
 
 ## Informations FIP

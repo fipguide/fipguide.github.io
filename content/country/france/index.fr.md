@@ -4,14 +4,21 @@ country: france
 params:
   operators_without_fip:
     - CFC (Chemins de fer de la Corse / Chemins de fer corses)
-    - ’[Frecciarossa
-      (Trenitalia)](/operator/fs/#trains-frecciarossa-internationaux-vers-paris
+    - ’[Frecciarossa (Trenitalia)](/operator/fs/#trains-frecciarossa-internationaux-vers-paris
       "Frecciarossa (Trenitalia)")’
     - Getlink (Eurotunnel LeShuttle)
     - GoVolta
     - ’[OUIGO](/operator/sncf#Fernverkehr "OUIGO")’
     - RATP
     - Transdev
+  border_points:
+    - fr-eurostar
+    - be-fr
+    - lu-fr
+    - de-fr
+    - fr-ch
+    - fr-it
+    - es-fr
 ---
 
 ## Informations FIP

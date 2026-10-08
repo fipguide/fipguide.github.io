@@ -1,21 +1,12 @@
 {{- $country := .country -}}
 {{- $page := .page -}}
-{{- $data := partialCached "border-points/data" . site.Language.Lang -}}
-{{- $borders := $data.borders | default slice -}}
+{{- $borders := partialCached "border-points/data" . site.Language.Lang | default slice -}}
 
-{{- $ordered := $borders -}}
-{{- with index $data.countries $country -}}
-  {{- with .order -}}
-    {{- $ordered = slice -}}
-    {{- range . -}}
-      {{- $ordered = $ordered | append (where $borders "id" .) -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}}
+{{- $order := $page.Params.border_points | default slice -}}
 
 {{- $rows := slice -}}
-{{- range $ordered -}}
-  {{- $border := . -}}
+{{- range $order -}}
+  {{- $border := index (where $borders "id" .) 0 -}}
   {{- $own := "" -}}
   {{- range $key := slice "a" "b" -}}
     {{- if not $own -}}

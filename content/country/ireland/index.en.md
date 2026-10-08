@@ -4,6 +4,9 @@ country: ireland
 params:
   operators_without_fip:
     - Transdev (Luas - Dublin Tram)
+  border_points:
+    - ie-gb-rail
+    - ie-gb-sll
 ---
 
 ## FIP Information

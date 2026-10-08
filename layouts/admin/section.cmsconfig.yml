@@ -231,6 +231,37 @@ collections:
         name: "country"
         widget: "string"
         i18n: duplicate
+      - label: "Parameters"
+        name: "params"
+        widget: "object"
+        i18n: true
+        collapsed: true
+        summary: "Operators & Border Points"
+        fields:
+          - label: "Operators without FIP"
+            name: "operators_without_fip"
+            widget: "list"
+            required: false
+            i18n: duplicate
+            hint: "List of operators in this country that do not accept FIP."
+          - label: "Border Points"
+            name: "border_points"
+            widget: "relation"
+            collection: "_singletons"
+            file: "borderpoints"
+            value_field: "{{"{{"}}borders.*.id}}"
+            display_fields: ["{{"{{"}}borders.*.id}}"]
+            search_fields: ["{{"{{"}}borders.*.id}}"]
+            multiple: true
+            required: false
+            i18n: duplicate
+            hint: 'Border IDs in clockwise order, starting in the north of the country. To add or edit borders, see the [Border Points](/admin/#/collections/_singletons/entries/borderpoints) singleton.'
+          - label: "Border Points Footnotes"
+            name: "border_points_footnotes"
+            widget: "list"
+            required: false
+            i18n: true
+            hint: "Optional footnotes shown below the border point table."
       - label: "Body"
         name: "body"
         widget: "markdown"
@@ -837,35 +868,10 @@ singletons:
     file: "content/country/borderpoints.{{"{{"}}locale}}.yaml"
     i18n: true
     fields:
-      - label: "Countries"
-        name: "countries"
-        widget: "list"
-        i18n: true
-        collapsed: true
-        summary: "{{"{{"}}fields.id}}"
-        hint: "Row order and footnotes of the border point table per country."
-        fields:
-          - label: "Country"
-            name: "id"
-            widget: "relation"
-            collection: "country"
-            search_fields: ["title"]
-            value_field: "country"
-            display_fields: ["title"]
-            i18n: duplicate
-          - label: "Row Order"
-            name: "order"
-            widget: "list"
-            i18n: duplicate
-            hint: "Border IDs in clockwise order, starting in the north of the country."
-          - label: "Footnotes"
-            name: "footnotes"
-            widget: "list"
-            required: false
-            i18n: true
       - label: "Borders"
         name: "borders"
         widget: "list"
+        root: true
         i18n: true
         collapsed: true
         summary: "{{"{{"}}fields.id}}"

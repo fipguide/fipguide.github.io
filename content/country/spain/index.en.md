@@ -6,6 +6,9 @@ params:
     - Iryo
     - OUIGO
     - '[Avlo](/operator/renfe#long-distance "Avlo")'
+  border_points:
+    - pt-es
+    - es-fr
 ---
 
 ## FIP Information

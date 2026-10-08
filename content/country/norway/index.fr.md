@@ -7,6 +7,8 @@ params:
     - Chemin de fer de Flåm
     - Flytoget Airport Express
     - SJ Sverige
+  border_points:
+    - no-se
 ---
 
 ## Informations FIP

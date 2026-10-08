@@ -81,6 +81,21 @@ params:
     - WESTbahn – WB
     - WestfalenBahn – WFB
     - Württembergische Eisenbahn-Gesellschaft mbH – WEG
+  border_points:
+    - dk-de
+    - de-se
+    - de-pl
+    - cz-de
+    - at-de
+    - de-bsb
+    - de-ch
+    - de-fr
+    - de-lu
+    - be-de
+    - de-eurostar
+    - de-nl
+  border_points_footnotes:
+    - MS = Milieu du lac
 ---
 
 ## Informations FIP

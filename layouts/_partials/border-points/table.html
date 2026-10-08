@@ -1,6 +1,5 @@
 {{- $country := .country -}}
 {{- $page := .page -}}
-{{- $data := partialCached "border-points/data" . site.Language.Lang -}}
 {{- $rows := partial "border-points/rows" . -}}
 
 {{- with $rows -}}
@@ -21,14 +20,12 @@
     </tbody>
   </table>
 
-  {{- with index $data.countries $country -}}
-    {{- with .footnotes -}}
-      <p class="o-border-points__footnotes">
-        {{- range $index, $footnote := . -}}
-          {{- if $index }}<br />{{ end -}}
-          {{ $footnote }}
-        {{- end -}}
-      </p>
-    {{- end -}}
+  {{- with $page.Params.border_points_footnotes -}}
+    <p class="o-border-points__footnotes">
+      {{- range $index, $footnote := . -}}
+        {{- if $index }}<br />{{ end -}}
+        {{ $footnote }}
+      {{- end -}}
+    </p>
   {{- end -}}
 {{- end -}}

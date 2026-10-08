@@ -10,6 +10,11 @@ params:
     - Leo Express
     - RegioJet
     - Trilex / Die Länderbahn
+  border_points:
+    - cz-pl
+    - cz-sk
+    - at-cz
+    - cz-de
 ---
 
 ## FIP Information

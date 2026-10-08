@@ -9,6 +9,12 @@ params:
     - SFTRA (Softrans)
     - TFC (Transferoviar Călători)
     - TFI (Ferotrans)
+  border_points:
+    - ro-ua
+    - ro-md
+    - bg-ro
+    - ro-rs
+    - hu-ro
 ---
 
 ## FIP Information

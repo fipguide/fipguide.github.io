@@ -9,6 +9,9 @@ params:
     - Nordjyske Jernbaner
     - SJ
     - Snälltåget
+  border_points:
+    - dk-se
+    - dk-de
 ---
 
 ## FIP Nutzung

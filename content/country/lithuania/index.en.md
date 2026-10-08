@@ -4,6 +4,11 @@ country: lithuania
 params:
   operators_without_fip:
     - Aukštaitijos siaurasis geležinkelis (heritage railway)
+  border_points:
+    - lv-lt
+    - lt-by
+    - lt-pl
+    - lt-ru
 ---
 
 ## FIP Information

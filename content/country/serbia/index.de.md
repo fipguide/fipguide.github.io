@@ -4,6 +4,14 @@ country: serbia
 params:
   operators_without_fip:
     - Optima Express
+  border_points:
+    - hu-rs
+    - ro-rs
+    - bg-rs
+    - rs-mk
+    - me-rs
+    - ba-rs
+    - rs-hr
 ---
 
 ## FIP Nutzung

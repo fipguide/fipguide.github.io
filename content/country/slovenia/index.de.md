@@ -4,6 +4,11 @@ country: slovenia
 params:
   operators_without_fip:
     - Optima Express
+  border_points:
+    - it-si
+    - si-hr
+    - at-si
+    - hu-si
 ---
 
 ## FIP Nutzung

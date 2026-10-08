@@ -5,6 +5,16 @@ params:
   operators_without_fip:
     - RegioJet
     - BKV Zrt. (Budapesti Közlekedési Zártkörűen Működő Részvénytársaság)
+  border_points:
+    - hu-sk-mav
+    - hu-sk-gysev
+    - hu-ua
+    - hu-ro
+    - hu-rs
+    - hu-hr
+    - hu-si
+    - at-hu-mav
+    - at-hu-gysev
 ---
 
 ## FIP Nutzung

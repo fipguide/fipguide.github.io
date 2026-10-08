@@ -5,6 +5,10 @@ params:
   operators_without_fip:
     - RegioJet
     - Leo Express
+  border_points:
+    - hu-sk-gysev
+    - hu-sk-mav
+    - cz-sk
 ---
 
 ## FIP Nutzung

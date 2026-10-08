@@ -1,6 +1,11 @@
 ---
 title: Luxemburg
 country: luxembourg
+params:
+  border_points:
+    - be-lu
+    - de-lu
+    - lu-fr
 ---
 
 ## FIP Nutzung

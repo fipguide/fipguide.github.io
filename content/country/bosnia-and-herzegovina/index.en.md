@@ -1,6 +1,10 @@
 ---
-title: "Bosnia and Herzegovina"
-country: "bosnia-and-herzegovina"
+title: Bosnia and Herzegovina
+country: bosnia-and-herzegovina
+params:
+  border_points:
+    - ba-hr
+    - ba-rs
 ---
 
 ## FIP Information

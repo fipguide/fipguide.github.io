@@ -4,6 +4,9 @@ country: ireland
 params:
   operators_without_fip:
     - Transdev (Luas - Straßenbahn Dublin)
+  border_points:
+    - ie-gb-rail
+    - ie-gb-sll
 ---
 
 ## FIP Nutzung
