@@ -219,11 +219,11 @@
       param: { positional: true, quote: true, required: true },
     },
     {
-      name: "variant",
-      label: "Variant",
-      widget: "select",
-      options: [{ label: "None", value: "" }, "border", "info"],
+      name: "icon",
+      label: "Icon",
+      widget: "string",
       required: false,
+      hint: 'Material Symbols icon name, e.g. "info". Browse available icons at https://fonts.google.com/icons.',
       param: { positional: true },
     },
     {
@@ -242,10 +242,10 @@
     fromBlock: function (match) {
       var titleMatch = match[1].match(/"([^"]*)"/);
       var rest = match[1].replace(/"[^"]*"/, "").trim();
-      var variantMatch = rest.match(/^(\w+)/);
+      var iconMatch = rest.match(/^(\w+)/);
       return {
         title: titleMatch ? titleMatch[1] : "",
-        variant: variantMatch ? variantMatch[1] : "",
+        icon: iconMatch ? iconMatch[1] : "",
         body: match[2].trim(),
       };
     },

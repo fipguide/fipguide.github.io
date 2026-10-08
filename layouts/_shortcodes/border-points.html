@@ -1,6 +1,6 @@
 {{- partial "expander" (dict
   "Title" (T "borderPoints.title")
-  "Variant" "border"
+  "Icon" "share_location"
   "Content" (partial "border-points/table" (dict "country" .Page.Params.country "page" .Page) | safeHTML)
   )
 -}}
