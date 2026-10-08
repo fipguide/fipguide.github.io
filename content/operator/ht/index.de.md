@@ -1,6 +1,6 @@
 ---
 title: Hellenic Train
-shortName: Hellenic Train
+shortName: HT
 country:
   - greece
 operator: ht

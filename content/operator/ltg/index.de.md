@@ -1,6 +1,6 @@
 ---
 title: LTG-Link
-shortName: LTG-Link
+shortName: LTG
 country:
   - lithuania
   - latvia
