@@ -19,9 +19,6 @@
   {{- with $own -}}
     {{- $other := cond (eq . "a") "b" "a" -}}
     {{- $points := $border.points | default slice -}}
-    {{- if $border.sort -}}
-      {{- $points = sort $points -}}
-    {{- end -}}
     {{- with $points -}}
       {{- $rows = $rows | append (dict
         "label" (partial "border-points/side-label" (dict "side" (index $border $other) "page" $page))

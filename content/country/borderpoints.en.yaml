@@ -58,7 +58,6 @@
     - Hegyeshalom (Gr)
     - Sopron
 - id: at-si
-  sort: true
   a:
     country:
       id: austria
@@ -71,8 +70,8 @@
       - id: sz
   points:
     - "Bleiburg (Gr) (Slovenian: Pliberk)"
-    - "Spielfeld-Strass (Gr) / Spielfeld (Gr) (Slovenian: Špilje)"
     - "Rosenbach (Gr) / Jesenice (Gr) (German: Assling)"
+    - "Spielfeld-Strass (Gr) / Spielfeld (Gr) (Slovenian: Špilje)"
 - id: at-it
   a:
     country:
@@ -103,7 +102,6 @@
     - Buchs SG
     - St. Margrethen
 - id: at-de
-  sort: true
   a:
     country:
       id: austria
@@ -115,12 +113,12 @@
     operators:
       - id: db
   points:
+    - Kufstein
+    - Lindau-Reutin
+    - Mittenwald (Gr)
     - Passau Hbf
     - Salzburg Hbf (local trains to Salzburg Liefering)
     - Simbach am Inn
-    - Kufstein
-    - Mittenwald (Gr)
-    - Lindau-Reutin
 - id: be-nl
   a:
     country:
@@ -307,7 +305,6 @@
     - Nemšová (Gr)
     - Skalica na Slovensku (Gr)
 - id: cz-de
-  sort: true
   a:
     country:
       id: czechia
@@ -319,19 +316,19 @@
     operators:
       - id: db
   points:
-    - Selb-Plößberg(Gr) / Aš (Gr)
     - "Bayerisch Eisenstein (Czech: Bavorská Železná ruda)"
     - Cheb (Gr)
-    - Sebnitz (Gr) / Dolní Poustevna (Gr)
     - Furth i Wald (Gr)
-    - Zittau (Gr)
+    - Kraslice (Gr)
     - Potucky (ČD)
-    - Schöna (Gr)
     - Rumburk (Gr)
+    - Schöna (Gr)
+    - Sebnitz (Gr) / Dolní Poustevna (Gr)
+    - Selb-Plößberg(Gr) / Aš (Gr)
     - Vejprty (Gr)
     - Vojtanov (Gr)
-    - Kraslice (Gr)
     - Waidhaus (Gr)
+    - Zittau (Gr)
 - id: dk-se
   a:
     country:
@@ -377,7 +374,6 @@
     - Lübeck-Travemünde Skandinavienkai
     - Sassnitz (Gr)
 - id: de-pl
-  sort: true
   a:
     country:
       id: germany
@@ -703,7 +699,6 @@
     - Piene (fr)
     - Ventimiglia (fr)
 - id: it-ch
-  sort: true
   a:
     country:
       id: italy
@@ -719,13 +714,13 @@
   points:
     - Chiasso
     - Domodossola
-    - Iselle transito [> Brig]
-    - Iselle di Trasquera [> Domodossola]
     - Domodossola [> Locarno]
+    - Iselle di Trasquera [> Domodossola]
+    - Iselle transito [> Brig]
     - Locarno [> Domodossola]
-    - Porto Ceresio [> Lugano]
     - Lugano [> Porto Ceresio]
     - Pino transito
+    - Porto Ceresio [> Lugano]
     - Tirano
 - id: fr-ch
   a:

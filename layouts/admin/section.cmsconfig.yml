@@ -881,14 +881,7 @@ singletons:
             name: "id"
             widget: "string"
             i18n: duplicate
-            hint: 'Unique identifier, e.g. "at-cz". Referenced in the row order above.'
-          - label: "Sorting"
-            name: "sort"
-            widget: "boolean"
-            default: false
-            required: false
-            i18n: duplicate
-            hint: "Sort the border points of this border alphabetically."
+            hint: 'Unique identifier, e.g. "at-cz". Referenced in the Border Points field on each Country page.'
           - label: "Side A"
             name: "a"
             widget: "object"
