@@ -1,6 +1,8 @@
 ---
 title: "North Macedonia"
 country: "north-macedonia"
+content_images:
+  - image.webp
 ---
 
 ## FIP Information

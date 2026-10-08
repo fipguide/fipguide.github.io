@@ -3,6 +3,8 @@ title: "ŽRSM"
 country:
   - "north-macedonia"
 operator: "zrsm"
+content_images:
+  - image.webp
 ---
 
 Železnici na Republika Severna Makedonija (ŽRSM) ist die staatliche Eisenbahngesellschaft Nordmazedoniens. Die Tochtergesellschaft ŽRSM Transport betreibt den Zugverkehr im Land.
