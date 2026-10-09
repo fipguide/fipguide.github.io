@@ -105,11 +105,11 @@ Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie h
 
 Seit dem 01.09.2026 können auch die Strecken der DSB Vores Tog (ehemals GoCollective) in Mittel- und Westjütland und auf Fünen genutzt werden. [^4]
 
-{{< highlight confusion >}}
+{{< confusion denmark >}}
 Auch Züge von anderen Anbietern werden als `R` angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist. \
 Züge, die als `RA` gekennzeichnet sind, werden nicht von der DSB betrieben und sind daher nicht mit FIP nutzbar. \
 Züge, die als `RE` gekennzeichnet sind, werden in der Regel von der DSB betrieben.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 

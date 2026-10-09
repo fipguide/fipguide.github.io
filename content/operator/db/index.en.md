@@ -64,9 +64,9 @@ In the past, there was a reservation requirement for cross-border journeys in su
 
 Cross-border high-speed trains of SNCF in cooperation with DB. These run from Frankfurt, Mannheim, Karlsruhe, Saarbrücken, Stuttgart, and Munich to Paris.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Some `TGV` trains run from Paris to Freiburg and are operated entirely by SNCF, including within Germany. Only SNCF is listed as the operator for these trains, see [Identify train operators and search connections](#fip-information). On these trains, DB Coupons and national travel concessions for DB employees are not valid in Germany. Instead, SNCF FIP Global Fare tickets can be purchased.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Reservations
 
@@ -210,9 +210,9 @@ Local trains are often operated by other companies that do not accept FIP. In th
 
 Regional express trains connect towns and cities with stops at the main stations. Sometimes the trains also run long-distance routes.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Trains of the `RE` category are often operated by other companies.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -227,9 +227,9 @@ Trains of the `RE` category are often operated by other companies.
 
 Regional trains connect towns and cities with stops at almost all stations.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Trains of the `RB` category are often operated by other companies.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -244,9 +244,9 @@ Trains of the `RB` category are often operated by other companies.
 
 Local trains in large cities and metropolitan regions with stops at all stations.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Trains of the `S` category are often operated by other companies.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
