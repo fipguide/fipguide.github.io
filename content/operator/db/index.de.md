@@ -265,17 +265,10 @@ Die Züge der Kategorie `S` werden oftmals auch von anderen Betreibern betrieben
     reservation_possible=false
 %}}
 
-Nahverkehrszug zwischen Stuttgart und dem Umland. Züge halten im Umland an vielen Stationen, im S-Bahn-Gebiet (Raum Stuttgart) wird nur an den wichtigsten Stationen gehalten. 
-
-FIP-Tickets gelten auf folgenden Strecken:
-- **MEX 12**: Heilbronn – Stuttgart – Tübingen
-- **MEX 17**: (Karlsruhe –) Pforzheim – Mühlacker – Stuttgart
-- **MEX 18**: Osterburken – Heilbronn – Stuttgart – Tübingen
-- **MEX 19**: Gaildorf West – Backnang – Stuttgart
-- **MEX 90**: Schwäbisch Hall – Gaildorf West – Backnang – Stuttgart
+Nahverkehrszug zwischen Stuttgart und dem Umland. Züge halten im Umland an vielen Stationen, im S-Bahn-Gebiet (Raum Stuttgart) wird nur an den wichtigsten Stationen gehalten.
 
 {{< highlight confusion >}}
-Die Züge der Linien `MEX13` und `MEX16` werden von Arverio betrieben. Hier gelten keine FIP-Tickets.
+Die Züge der Kategorie `MEX` werden oftmals auch von anderen Betreibern betrieben.
 {{< /highlight >}}
 
 {{% /train-category %}}

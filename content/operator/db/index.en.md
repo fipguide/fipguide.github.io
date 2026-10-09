@@ -261,15 +261,8 @@ Trains of the `S` category are often operated by other companies.
 
 Regional trains connecting Stuttgart and the surrounding area. In the surrounding area, `MEX` trains stop at many stations, whereas in the S-Bahn vicinity trains only stop at a handful of stations.
 
-FIP tickets are valid on following routes:
-- **MEX 12**: Heilbronn – Stuttgart – Tübingen
-- **MEX 17**: (Karlsruhe –) Pforzheim – Mühlacker – Stuttgart
-- **MEX 18**: Osterburken – Heilbronn – Stuttgart – Tübingen
-- **MEX 19**: Gaildorf West – Backnang – Stuttgart
-- **MEX 90**: Schwäbisch Hall – Gaildorf West – Backnang – Stuttgart
-
 {{< highlight confusion >}}
-Lines `MEX13` and `MEX16` are operated by Arverio. FIP tickets are not valid on these trains.
+Trains of the `MEX` category are often operated by other companies.
 {{< /highlight >}}
 
 {{% /train-category %}}
