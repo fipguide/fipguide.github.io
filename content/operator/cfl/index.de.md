@@ -131,6 +131,11 @@ Aufgrund der anfallenden Buchungsgebühr lohnt sich ggf. der Kauf einer regulär
 
 {{% booking id="cfl-ticket-office" /%}}
 
+{{% booking id="sbb-ticket-office"
+    subtitle="Nur für SBB und SNCF Mitarbeitende"
+    reservations=nil
+/%}}
+
 ### Im Zug
 
 Tickets für die Fahrt in der ersten Klasse bzw. Upgrades von der zweiten in die ersten Klasse müssen vor dem Einsteigen in den Zug gekauft werden.
