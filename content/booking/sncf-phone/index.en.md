@@ -30,11 +30,11 @@ No additional booking fee applies for FIP tickets.
 
 Once tickets or reservations are confirmed, a PNR (booking confirmation) and the eTicket will be sent by email. When traveling by train, you must present the eTicket together with the FIP Coupon or FIP Card.
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 SNCF sometimes refers to FIP discounts as: \
 _FIP cheminot étranger_ = 50% FIP discount \
 _FIP permis (ayant droit SNCF)_ = 100% / FIP Coupon SNCF
-{{< /highlight >}}
+{{% /highlight %}}
 
 {{% booking-section "fip_50" %}}
 
