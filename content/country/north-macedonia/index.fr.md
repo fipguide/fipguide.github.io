@@ -7,7 +7,7 @@ content_images:
 
 ## Informations FIP
 
-En Macédoine du Nord, le transport ferroviaire est assuré par la compagnie ferroviaire nationale Železnici na Republika Severna Makedonija (ŽRSM).
+En Macédoine du Nord, le transport ferroviaire est assuré par la compagnie ferroviaire nationale [Železnici na Republika Severna Makedonija (ŽRSM)](/operator/zrsm).
 
 {{< identify-operator sources="zrsm-website" >}}
 {{< /identify-operator >}}
@@ -26,6 +26,7 @@ Il n’existe pas d’horaires réguliers, mais seulement des trains individuels
 | --------------------------------------------------------- | ------------------------------------------------------- |
 | [Serbie](/country/serbia) ([SV](/operator/sv))            | Tabanovci (fr) (Serbe : Табановце ; albanais : Tabanoc) |
 | [Grèce](/country/greece) ([Hellenic Train](/operator/ht)) | Gevgelija (fr) (Macédonien : Гевгелија)                 |
+| Kosovo (Trainkos)                                         | Elez Han (Serbe : Елез Хан)                             |
 
 {{% /expander %}}
 
@@ -33,9 +34,21 @@ Il n’existe pas d’horaires réguliers, mais seulement des trains individuels
 
 À l’heure actuelle, aucun train de voyageurs ne circule entre la Macédoine du Nord et la Serbie.
 
+### Bulgarie
+
+Il n’existe actuellement aucune liaison ferroviaire entre la Bulgarie et la Macédoine du Nord, mais une telle liaison est prévue avec la construction de la ligne ferroviaire Kumanovo – Gjueševo.
+
 ### Grèce
 
 Il n’existe pas de service ferroviaire voyageurs régulier entre la Macédoine du Nord et la Grèce. La liaison historique entre Thessalonique et Gevgelija/Skopje n’est actuellement pas exploitée. Les points de passage frontaliers ne peuvent donc pas être traversés en train ; des bus longue distance via les routes des Balkans constituent une alternative.
+
+### Albanie
+
+Il n’existe actuellement aucune liaison ferroviaire entre l’Albanie et la Macédoine du Nord.
+
+### Kosovo
+
+La liaison entre Priština et Skopje a longtemps été assurée par Trainkos et la ŽRSM, mais elle est actuellement suspendue en raison de travaux sur la ligne. Les billets FIP ne sont valables que sur la section nord-macédonienne jusqu’au point frontière d’Elez Han ; un billet ordinaire est nécessaire pour la section située au Kosovo.
 
 ## Sources
 

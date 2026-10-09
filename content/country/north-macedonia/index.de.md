@@ -23,10 +23,10 @@ Es gibt keinen Taktverkehr, sondern nur einzelne Züge, welche in größeren zei
 {{% expander "Grenzpunkte" border %}}
 
 | Land                                                             | Grenzpunkte                                              |
-| ---------------------------------------------------------------- | -------------------------------------------------------- |
+| ---------------------------------------------------------------- | -------------------------------------------------------- | --- |
 | [Serbien](/country/serbia) ([SV](/operator/sv))                  | Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc) |
-| [Griechenland](/country/greece) ([Hellenic Train](/operator/ht)) | Gevgelija (fr) (Mazedonisch: Гевгелија)     
-| Kosovo (Trainkos)                  | Elez Han (Serbisch: Елез Хан) |             |
+| [Griechenland](/country/greece) ([Hellenic Train](/operator/ht)) | Gevgelija (fr) (Mazedonisch: Гевгелија)                  |
+| Kosovo (Trainkos)                                                | Elez Han (Serbisch: Елез Хан)                            |     |
 
 {{% /expander %}}
 
@@ -48,7 +48,7 @@ Es gibt zurzeit keine Schienenverbindung zwischen Albanien und Nordmazedonien.
 
 ### Kosovo
 
-Die Verbindung zwischen Priština und Skopje wurde lange Zeit durch Trainkos und die ŽRSM angeboten, ist aber derzeit aufgrund von Bauarbeiten auf der Strecke eingestellt. FIP-Fahrkarten gelten nur im nordmazedonischen Abschnitt bis zum Grenzpunkt Elez Han, für den Abschnitt im Kosovo wird eine reguläre Fahrkarte benötigt.  
+Die Verbindung zwischen Priština und Skopje wurde lange Zeit durch Trainkos und die ŽRSM angeboten, ist aber derzeit aufgrund von Bauarbeiten auf der Strecke eingestellt. FIP-Fahrkarten gelten nur im nordmazedonischen Abschnitt bis zum Grenzpunkt Elez Han, für den Abschnitt im Kosovo wird eine reguläre Fahrkarte benötigt.
 
 ## Quellen
 
