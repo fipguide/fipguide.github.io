@@ -179,13 +179,13 @@ Aus Tschechien bestehen diverse Schienen-Grenzübergänge ins deutsche Netz, die
 
 Genauso sieht es auch im Nordabschnitt des Regionalzugs aus, der dort nochmal die Grenze bei Dolní Poustevna überquert (Strecke Decin – Bad Schandau – Sebnitz – Rumburk).
 
-Die anderen Grenzübergänge werden nur von Regionalzügen befahren. Am einfachsten ist hier Bayerisch Eisenstein, da dies nicht nur ein Grenzpunkt, sondern gleichzeitig der Grenzbahnhof ist. Im tschechien Abschnitt reicht hier also ein FIP-Ticket / Freifahrtschein der ČD, um weiter nach Deutschland zu fahren.
+Die anderen Grenzübergänge werden nur von Regionalzügen befahren. Am einfachsten ist hier Bayerisch Eisenstein, da dies nicht nur ein Grenzpunkt, sondern gleichzeitig der Grenzbahnhof ist. Im tschechischen Abschnitt reicht hier also ein FIP-Ticket / Freifahrtschein der ČD, um weiter nach Deutschland zu fahren.
 
 Bei Potůčky auf der Strecke Karlovy Vary – Johanngeorgenstadt kann mit FIP-Tickets der DB und ČD grenzüberschreitend gefahren werden. Die anderen Grenzübergänge sind etwas komplizierter.
 
-Bei Cheb können die grenzüberschreitenden Züge der DB Regio mit FIP-Freifahrtschein beider Länder oder durchgängigem FIP 50 Ticket genutzt werden, bei den ebenfalls verkehrenden Zügen von Agilis (auf tschechischer Seite durch ČD betrieben) muss dagegen für den deutschen Abschnitt ein normales Ticket gekauft werden (auch ein Deutschlandticket gilt hier ab Schirnding).
+Bei Cheb können die grenzüberschreitenden Züge der DB Regio mit FIP-Freifahrtschein beider Länder oder durchgängigem FIP 50 Ticket genutzt werden, bei den ebenfalls verkehrenden Zügen von Agilis (auf tschechischer Seite durch ČD betrieben) muss dagegen für den deutschen Abschnitt ein normales Ticket gekauft werden (ein Deutschlandticket in Kombination mit dem FIP-Ticket für den tschechischen Abschnitt reicht ebenfalls aus).
 
-Das gleiche gilt für den nördlichen Grenzübergang Aš. Ähnlich sieht es bei Furth im Wald aus, dort kann der grenzüberschreitende Regionalexpress, der in Tschechien ein EC ist, im tschechischen Abschnitt mit FIP-Ticket der ČD genutzt werden, im deutschen Abschnitt braucht es dagegen ein normales Ticket.
+Das gleiche gilt für den nördlichen Grenzübergang Aš. Ähnlich sieht es bei Furth im Wald aus, dort kann der grenzüberschreitende Regionalexpress, der in Tschechien ein `EC` ist, im tschechischen Abschnitt mit FIP-Ticket der ČD genutzt werden, im deutschen Abschnitt braucht es dagegen ein normales Ticket bzw. Deutschlandticket. Zum Fahrplanwechsel im Dezember 2026 ändert sich der Betreiber im tschechischen Abschnitt auf Leo Express, dann ist der Zug nicht mehr mit FIP-Vergünstigungen nutzbar.
 
 Bei den Grenzübergängen Hrádek nad Nisou (Strecke Liberec – Zittau), Varnsdorf (Strecke Zittau – Seifhennersdorf), Vejprty (Strecke Chomutov – Cranzahl, wird nur im Sommer an Wochenenden und Feiertagen bedient) und Vojtanov (Strecke Cheb – Zwickau) ist FIP derweil nutzlos, da auf beiden Seiten der Grenze die Züge von Privatbahnen, die kein FIP akzeptieren, betrieben werden.
 
