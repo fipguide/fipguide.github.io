@@ -30,11 +30,11 @@ Aucun frais de réservation supplémentaire n’est appliqué pour les Billets F
 
 Une fois les billets ou réservations confirmés, une PNR (confirmation de réservation) ainsi que le eTicket sont envoyés par e-mail. Lors du voyage en train, il faut présenter le eTicket avec le Coupon FIP ou la Carte FIP.
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 La SNCF connaît parfois les billets FIP sous les noms suivants : \
 _FIP cheminot étranger_ = 50 % de réduction FIP \
 _FIP permis (ayant droit SNCF)_ = 100 % / Coupon FIP SNCF
-{{< /highlight >}}
+{{% /highlight %}}
 
 {{% booking-section "fip_50" %}}
 

@@ -30,11 +30,11 @@ Eine zusätzliche Buchungsgebühr fällt bei FIP Tickets nicht an.
 
 Sobald die Fahrkarten oder Reservierungen bestätigt sind, werden eine PNR (Buchungsbestätigung) sowie das eTicket per E-Mail versendet. Bei der Zugreise muss das eTicket zusammen mit dem FIP Freifahrtschein oder dem FIP Ausweis vorgelegt werden.
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 Die SNCF kennt die FIP Ermäßigungen teilweise auch unter den Namen: \
 _FIP cheminot étranger_ = 50% FIP Ermäßigung \
 _FIP permis (ayant droit SNCF)_ = 100% / FIP Freifahrtschein SNCF
-{{< /highlight >}}
+{{% /highlight %}}
 
 {{% booking-section "fip_50" %}}
 
