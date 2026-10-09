@@ -37,8 +37,7 @@ Employees of [SNCB / NMBS](/operator/sncb) and [NS](/operator/ns) can get an _Un
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 InterCity trains connect Luxembourg with Liège and Brussels in Belgium.
@@ -50,8 +49,7 @@ InterCity trains connect Luxembourg with Liège and Brussels in Belgium.
     title="Regionalexpress (RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains stopping at some stations.
@@ -63,8 +61,7 @@ Trains stopping at some stations.
     title="Regionalbahn (RB)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains stopping at all stations.
@@ -76,8 +73,7 @@ Trains stopping at all stations.
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 CFL also operates interregional bus lines. These do not accept FIP, but due to free public transport, no ticket is required.
@@ -89,8 +85,7 @@ CFL also operates interregional bus lines. These do not accept FIP, but due to f
     title="Funicular Pfaffenthal-Kirchberg"
     type="funicular"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 The funicular connects the Pfaffenthal-Kirchberg railway stop with the interchange platform on the Kirchberg plateau.

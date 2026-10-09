@@ -39,8 +39,7 @@ Within Belgium, no reservation is required for SNCB and in many trains, it is no
     title="Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 High-speed trains of Deutsche Bahn, operated by SNCB in Belgium. They run between Brussels (Midi) and Germany (Cologne / Frankfurt am Main). Some trains also run between Germany and Antwerp via Brussels Airport Zaventem or in summer between Germany and the Belgian coast. All ICE trains can also be used within Belgium with FIP Tickets without surcharge.
@@ -56,8 +55,7 @@ A reservation is required for cross-border journeys during high season.
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Unlike in other countries, these are not real long-distance trains, but rather fast regional trains with few stops.
@@ -69,8 +67,7 @@ Unlike in other countries, these are not real long-distance trains, but rather f
     title="Eurocity Direct (ECD)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
 
@@ -89,8 +86,7 @@ For journeys within the Netherlands, special regulations apply, see [NS ECD](/op
     title="Eurocity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
 
@@ -103,8 +99,7 @@ International train between Rotterdam and Brussels with several intermediate sto
     title="Train local oder Lokale trein (L)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regional trains stopping at most stations, often simply referred to as `R` for regional train in connection information.
@@ -116,8 +111,7 @@ Regional trains stopping at most stations, often simply referred to as `R` for r
     title="Train S oder S-Trein (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 A suburban train in the metropolitan areas of Antwerp, Brussels, Charleroi, Ghent, or Liège. They connect the major cities with the suburbs and usually stop everywhere. Unlike in other countries, the S-trains here do not have denser schedules than other train categories. In the connection information, these are sometimes also summarized as `R` for regional train.
@@ -129,8 +123,7 @@ A suburban train in the metropolitan areas of Antwerp, Brussels, Charleroi, Ghen
     title="Train d’heure de pointe oder Piekuurtrein (P)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Additional trains during peak hours from Monday to Friday mornings and late afternoons, often simply referred to as `R` for regional train in connection information.
@@ -142,8 +135,7 @@ Additional trains during peak hours from Monday to Friday mornings and late afte
     title="Express (E/EXP/EXTRA)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Additional trains during high traffic periods, especially in the summer months to the Belgian coast.
@@ -155,8 +147,7 @@ Additional trains during high traffic periods, especially in the summer months t
     title="Tourist (T)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Additional trains to certain tourist destinations, often simply referred to as `R` for regional train.

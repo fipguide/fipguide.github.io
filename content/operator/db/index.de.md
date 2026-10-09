@@ -39,8 +39,7 @@ Es existiert keine Reservierungspflicht, außer bei bestimmten grenzüberschreit
     title="Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Der `ICE` ist ein Hochgeschwindigkeitszug und die höchste Zugkategorie der DB. Er verbindet große Städte in Deutschland mit bis zu 300 km/h und verkeht auch in einige Nachbarländer. Besonders schnelle Verbindungen mit wenigen Zwischenhalten werden als `ICE Sprinter` bezeichnet.
@@ -58,8 +57,7 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich, Belgie
     title="Train à grande vitesse (TGV)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Grenzüberschreitende Hochgeschwindigkeitszüge der SNCF in Kooperation mit der DB. Diese verkehren von Frankfurt, Mannheim, Saarbrücken, München, Stuttgart und Karlsruhe nach Paris.
@@ -79,8 +77,7 @@ Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
     title="Eurocity-Express (ECE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Internationale Schnellzüge der höchsten Kategorie.
@@ -111,8 +108,7 @@ Reservierungspflicht bei grenzüberschreitenden Fahrten nach Italien und der Hoc
     title="Railjet (RJ) / Railjet Xpress (RJX)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Internationale Schnellzüge der höchsten Kategorie.
@@ -141,8 +137,7 @@ Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahle
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Intercity-Züge sind eine wichtige Ergänzung zum ICE-Netz. Sie verkehren mit geringerer Geschwindigkeit als ICE-Züge, verbinden zahlreiche Städte und bedienen auch viele Urlaubs- und Ferienregionen.
@@ -156,8 +151,7 @@ Einige [Nightjet](#nj)-Verbindungen werden mit `IC`-Sitzwagen geführt. Diese Si
     title="Eurocity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Eurocity-Züge sind internationale Fernzüge, die Deutschland mit anderen europäischen Ländern verbinden. Sie ähneln den Intercity-Zügen, bestehen jedoch häufig aus Wagen verschiedener Bahngesellschaften, darunter sowohl Deutsche Bahn als auch ausländische Partner. Teilweise führen sie ausländische Speisewagen, z. B. auf den Verbindungen von Berlin nach Polen.
@@ -174,8 +168,7 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Tschechien gab es i
     title="Nightjet (NJ) / EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Nachtzüge der ÖBB `NJ` sowie anderer Bahnen `EN` in Kooperation mit der DB in verschiedene europäische Länder. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an.
@@ -210,8 +203,7 @@ Eine Orientierung bieten [Übersichtskarten](https://www.schienennahverkehr.de/v
     title="Regionalexpress (RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=partially
+    reservation="partially-possible"
 %}}
 
 Regionalexpresszüge verbinden Orte und Städte mit Halten an den wichtigsten Stationen. Teilweise verkehren die Züge auch überregional über längere Strecken.
@@ -227,8 +219,7 @@ Die Züge der Kategorie `RE` werden oftmals auch von anderen Betreibern betriebe
     title="Regionalbahn (RB)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=partially
+    reservation="partially-possible"
 %}}
 
 Regionalbahnzüge verbinden Orte und Städte mit Halten an fast allen Stationen.
@@ -244,8 +235,7 @@ Die Züge der Kategorie `RB` werden oftmals auch von anderen Betreibern betriebe
     title="S-Bahn (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Nahverkehrszüge in großen Städten und Metropolregionen mit Halt an allen Stationen.
@@ -261,8 +251,7 @@ Die Züge der Kategorie `S` werden oftmals auch von anderen Betreibern betrieben
     title="Metropolexpress (MEX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Nahverkehrszug zwischen Stuttgart und dem Umland. Züge halten im Umland an vielen Stationen, im S-Bahn-Gebiet (Raum Stuttgart) wird nur an den wichtigsten Stationen gehalten.
@@ -278,8 +267,7 @@ Die Züge der Kategorie `MEX` werden oftmals auch von anderen Betreibern betrieb
     title="Flughafenexpress (FEX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Nahverkehrsexpresszug zwischen Berlin Hauptbahnhof und dem Berliner Flughafen Willy Brandt (BER).
@@ -291,8 +279,7 @@ Nahverkehrsexpresszug zwischen Berlin Hauptbahnhof und dem Berliner Flughafen Wi
     title="Harz-Berlin-Express (HBX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Ausflugszug am Wochenende zwischen Berlin und Thale bzw. Goslar im Harz.
@@ -304,8 +291,7 @@ Ausflugszug am Wochenende zwischen Berlin und Thale bzw. Goslar im Harz.
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]

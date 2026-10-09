@@ -37,8 +37,7 @@ Reservierungen sind nur im Fernverkehr (`AP` und `IC`) verpflichtend.
     title="Alfa Pendular (AP)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Schnelle Neigetechnik-Züge (Pendolino), die auf der Strecke zwischen Braga, Porto, Lissabon und Faro mit wenigen Halten verkehren. Die Züge bieten einen hohen Komfort, Wi-Fi, Steckdosen an jedem Platz sowie einen Cafeteria- und Barservice.
@@ -54,8 +53,7 @@ FIP Freifahrtscheine (egal welcher Klasse) sind nur in der zweiten Klasse gülti
     title="Intercidades (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Schnelle nationale Züge mit Reisezugwagen, welche auf den Hauptrelationen verkehren. Die Züge bieten Wi-Fi, Steckdosen an manchen Plätzen in der ersten Klasse sowie ein Bistroangebot.
@@ -69,8 +67,7 @@ Schnelle nationale Züge mit Reisezugwagen, welche auf den Hauptrelationen verke
     title="Serviço InterRegional (IR)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regional-Züge mit längeren Streckenverläufen und wenigen Halten.
@@ -82,8 +79,7 @@ Regional-Züge mit längeren Streckenverläufen und wenigen Halten.
     title="Serviço Regional (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regional-Züge mit vielen Halten.
@@ -95,8 +91,7 @@ Regional-Züge mit vielen Halten.
     title="Comboios Urbanos (U)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Pendlerzüge mit allen Halten, vergleichbar mit einer S-Bahn, verkehren in den Stadt-Netzen von Lissabon, Porto und Coimbra. FIP Freifahrtscheine sind hier uneingeschränkt gültig.
@@ -135,8 +130,7 @@ Das Liniennetz umfasst eine Linie zwischen Coimbra und Figueira da Foz.
     title="Celta: Porto – Vigo"
     type="regional"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Der Celta ist ein internationaler Kooperationszug zwischen der CP und der spanischen Renfe von Porto nach Vigo. FIP Freifahrtscheine werden nicht anerkannt.

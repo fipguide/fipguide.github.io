@@ -50,8 +50,7 @@ Les trains grandes lignes polonais nécessitent partiellement une réservation. 
     title="Express Intercity Premium (EIP)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains à grande vitesse avec technologie pendulaire (Pendolino), exploités par PKP Intercity et circulant principalement entre Gdynia/Gdańsk et Kraków/Katowice via Varsovie, mais aussi occasionnellement sur d’autres itinéraires.
@@ -72,8 +71,7 @@ Pour les réservations non vendues au prix correspondant par PKP, le paiement d�
     title="Express InterCity (EIC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Trains confortables avec voitures voyageurs modernisées, exploités par PKP Intercity et ne s’arrêtant que dans les villes les plus importantes. Les EIC transfrontaliers sont également désignés comme EC dans d’autres pays. [^3]
@@ -90,8 +88,7 @@ Certains trains nécessitent une réservation. L’obligation de réservation pe
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Trains rapides avec voitures voyageurs ou rames automotrices modernes, exploités par PKP Intercity et ne s’arrêtant qu’aux gares importantes. [^4]
@@ -109,8 +106,7 @@ Certains trains nécessitent une réservation. L’obligation de réservation pe
     title="IC Nieśpieszny (ICN)"
     type="highspeed"
     fip_accepted=false
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 L’IC Nieśpieszny est un train d’expérience de style rétro exploité par PKP Intercity, axé sur des voyages délibérément détendus et lents dans des voitures historiques restaurées.
@@ -128,8 +124,7 @@ Une réservation est obligatoire.
     title="Twoje Linie Kolejowe (TLK)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Trains interrégionaux exploités par PKP Intercity, caractérisés par des prix de billets particulièrement abordables avec des caractéristiques de confort de base. [^5]
@@ -146,8 +141,7 @@ Certains trains nécessitent une réservation. L’obligation de réservation pe
     title="EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Connexions de trains de nuit internationaux exploitées par PKP Intercity, circulant depuis ou vers l’Allemagne, la République tchèque, l’Autriche, la Hongrie et l’Ukraine.
@@ -171,8 +165,7 @@ Prix différents pour les connexions internationales. [Plus d’informations](ht
     title="Regio (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Connexions de trains régionaux s’arrêtant à la plupart des gares, exploitées par Polregio. Ces trains n’ont pas de 1ère classe.
@@ -188,8 +181,7 @@ Les trains régionaux en Pologne sont parfois aussi exploités par d’autres co
     title="InterRegio (IR)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains directs entre Łódź et Varsovie, exploités par Polregio et dans une classe tarifaire supérieure aux trains Regio normaux.
@@ -201,8 +193,7 @@ Trains directs entre Łódź et Varsovie, exploités par Polregio et dans une cl
     title="superREGIO (sR)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains interrégionaux exploités par Polregio et équipés d’un confort supérieur aux trains régionaux normaux.
@@ -214,8 +205,7 @@ Trains interrégionaux exploités par Polregio et équipés d’un confort supé
     title="Bus Varsovie Modlin"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Les Billets FIP ne sont pas valables dans les bus KM entre Modlin et l’aéroport de Varsovie Modlin.

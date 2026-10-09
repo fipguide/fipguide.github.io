@@ -38,8 +38,7 @@ Il n’existe pas de catégories de trains classiques au Royaume-Uni. Les servic
     title="Avanti West Coast (VT)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Avanti West Coast propose des liaisons rapides sur la côte ouest de la Grande-Bretagne, notamment entre Londres, Manchester et Glasgow.
@@ -53,8 +52,7 @@ En première classe, des snacks, repas et boissons (alcoolisées) sont servis. [
     title="c2c (CC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 c2c relie London Fenchurch Street à des villes du South Essex, principalement pour les navetteurs.
@@ -66,8 +64,7 @@ c2c relie London Fenchurch Street à des villes du South Essex, principalement p
     title="Caledonian Sleeper (CS)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Le Caledonian Sleeper est un train de nuit entre Londres et l’Écosse avec voitures-lits, couchettes et places assises. Les Coupons FIP doivent seulement être valables le jour d’arrivée.[^2] \
@@ -79,8 +76,7 @@ Le Caledonian Sleeper est un train de nuit entre Londres et l’Écosse avec voi
     title="Chiltern Railways (CH)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Chiltern Railways propose des liaisons régionales entre London Marylebone, Birmingham et Aylesbury.
@@ -92,8 +88,7 @@ Chiltern Railways propose des liaisons régionales entre London Marylebone, Birm
     title="CrossCountry (XC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 CrossCountry propose des liaisons longue distance entre le nord-est, le centre et le sud-ouest de l’Angleterre, ainsi que l’Écosse et le Pays de Galles. Les trains relient notamment Aberdeen, Birmingham, Bristol, Cardiff, Manchester et Penzance, desservant de nombreuses régions en dehors des lignes principales.
@@ -107,8 +102,7 @@ En première classe, des snacks, repas et boissons (alcoolisées) sont parfois s
     title="East Midlands Railway (EM)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=partially
+    reservation="partially-possible"
 %}}
 
 East Midlands Railway relie Londres aux East Midlands et au Yorkshire en trafic régional et longue distance.
@@ -120,8 +114,7 @@ East Midlands Railway relie Londres aux East Midlands et au Yorkshire en trafic 
     title="Elizabeth Line (XR)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 La Elizabeth Line propose des liaisons suburbaines continues d’est en ouest à Londres et complète le réseau urbain. La Elizabeth Line fait partie de National Rail et peut être utilisée avec les réductions FIP. Elle offre une bonne possibilité de traverser la ville avec FIP. [^1]
@@ -139,8 +132,7 @@ Certaines stations de la Elizabeth Line sont aussi desservies par le métro lond
     title="Gatwick Express (GX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Gatwick Express est une liaison rapide et directe entre London Victoria et l’aéroport de Gatwick.
@@ -152,8 +144,7 @@ Gatwick Express est une liaison rapide et directe entre London Victoria et l’a
     title="Grand Central (GC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Grand Central propose des liaisons directes entre London King’s Cross, le Yorkshire et le nord-est de l’Angleterre, notamment Sunderland, Bradford et York.
@@ -167,8 +158,7 @@ En première classe, des snacks et boissons sont servis. [Plus d’informations 
     title="Great Northern (GN)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Great Northern propose des liaisons pour navetteurs de Londres vers le Hertfordshire, le Cambridgeshire et au-delà.
@@ -180,8 +170,7 @@ Great Northern propose des liaisons pour navetteurs de Londres vers le Hertfords
     title="Greater Anglia (LA)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Greater Anglia relie London Liverpool Street aux comtés de l’est de l’Angleterre et à Norwich.
@@ -195,8 +184,7 @@ Sur la ligne principale entre Norwich et Londres, les passagers de première cla
     title="Great Western Railway (GWR/GW)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=partially
+    reservation="partially-required"
 %}}
 
 Great Western Railway relie London Paddington au sud-ouest de l’Angleterre, au South Wales et à Bristol en trafic longue distance et régional.
@@ -218,8 +206,7 @@ Réservation obligatoire pour le Night Riviera Sleeper.
     title="Heathrow Express (HX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Heathrow Express propose une liaison rapide et directe entre London Paddington et l’aéroport d’Heathrow en environ 15 minutes. Les Coupons FIP et Billets FIP 50 / FIP 75 sont acceptés.
@@ -233,8 +220,7 @@ Heathrow Express propose une liaison rapide et directe entre London Paddington e
     title="Hull Trains (HT)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Hull Trains propose des liaisons directes entre London King’s Cross et les principales villes du Yorkshire, dont Hull, Doncaster et Selby.
@@ -246,8 +232,7 @@ Hull Trains propose des liaisons directes entre London King’s Cross et les pri
     title="London North Eastern Railway (LNER/GR)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 LNER exploite des trains longue distance sur la côte est entre Londres, Édimbourg et York.
@@ -261,8 +246,7 @@ En première classe, snacks, repas et boissons (alcoolisées) sont servis. [Plus
     title="London Overground (LO)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 London Overground complète le réseau du métro comme un réseau suburbain et propose des liaisons locales à Londres. Toutes les lignes de la London Overground font partie de National Rail et peuvent être utilisées avec les réductions FIP. [^1]
@@ -274,8 +258,7 @@ London Overground complète le réseau du métro comme un réseau suburbain et p
     title="Lumo (LD)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Lumo circule sur deux lignes en Grande-Bretagne :
@@ -291,8 +274,7 @@ Lumo circule sur deux lignes en Grande-Bretagne :
     title="Merseyrail (ME)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Merseyrail exploite le réseau local de Liverpool et de la région de Merseyside.
@@ -304,8 +286,7 @@ Merseyrail exploite le réseau local de Liverpool et de la région de Merseyside
     title="Northern (NT)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Northern exploite des trains régionaux dans le nord de l’Angleterre, des grandes villes aux régions rurales.
@@ -317,8 +298,7 @@ Northern exploite des trains régionaux dans le nord de l’Angleterre, des gran
     title="Island Line (Isle of Wight) (IL)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 La Island Line circule sur l’île de Wight et est exploitée par South Western Railway.
@@ -330,8 +310,7 @@ La Island Line circule sur l’île de Wight et est exploitée par South Western
     title="ScotRail (SR)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=partially
+    reservation="partially-possible"
 %}}
 
 ScotRail couvre tout le réseau régional écossais, y compris les Highlands et la côte ouest.
@@ -343,8 +322,7 @@ ScotRail couvre tout le réseau régional écossais, y compris les Highlands et 
     title="South Western Railway (SWR)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 South Western Railway relie London Waterloo au sud-ouest de l’Angleterre et exploite de nombreuses lignes pour navetteurs.
@@ -356,8 +334,7 @@ South Western Railway relie London Waterloo au sud-ouest de l’Angleterre et ex
     title="Southeastern Railway (SE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Southeastern Railway propose des liaisons pour navetteurs et régionales de Londres vers le Kent et le sud-est de l’Angleterre.
@@ -369,8 +346,7 @@ Southeastern Railway propose des liaisons pour navetteurs et régionales de Lond
     title="Southern (SN)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Southern exploite des trains régionaux et pour navetteurs entre Londres, le Sussex et le Surrey.
@@ -382,8 +358,7 @@ Southern exploite des trains régionaux et pour navetteurs entre Londres, le Sus
     title="Stansted Express (LE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Stansted Express est la liaison rapide et directe entre London Liverpool Street et l’aéroport de Stansted.
@@ -395,8 +370,7 @@ Stansted Express est la liaison rapide et directe entre London Liverpool Street 
     title="Thameslink (TL)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Thameslink propose des liaisons nord-sud continues à travers Londres et relie des villes comme Bedford, Luton, St Albans, Londres, Gatwick Airport, Brighton, Cambridge et Peterborough. Les trains circulent 24h/24 et desservent des points de correspondance importants ainsi que plusieurs gares londoniennes, dont St Pancras International, London Bridge et Blackfriars. Thameslink est particulièrement adapté pour les trajets vers les aéroports de Gatwick et Luton ainsi que pour les liaisons entre les banlieues nord et sud de Londres.
@@ -408,8 +382,7 @@ Thameslink propose des liaisons nord-sud continues à travers Londres et relie d
     title="TransPennine Express (TPE/TP)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=partially
+    reservation="partially-possible"
 %}}
 
 TransPennine Express relie le nord-ouest et le nord-est de l’Angleterre ainsi que l’Écosse via les Pennines.
@@ -423,8 +396,7 @@ En première classe, snacks, repas et boissons (alcoolisées) sont parfois servi
     title="Transport for Wales (AW)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Transport for Wales exploite des trains régionaux et longue distance au Pays de Galles et dans les régions frontalières de l’Angleterre.
@@ -436,8 +408,7 @@ Transport for Wales exploite des trains régionaux et longue distance au Pays de
     title="West Midlands Trains / London Northwestern Railway / West Midlands Railway (LM)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 West Midlands Trains exploite des liaisons locales et régionales sous deux marques : London Northwestern Railway propose des liaisons entre Londres et les West Midlands, tandis que West Midlands Railway dessert les lignes régionales au sein des West Midlands.
@@ -579,8 +550,7 @@ La plupart des services de transport à Londres sont exploités par Transport fo
     title="Bus de Londres, Docklands Light Railway (DLR), Tram de Londres, London Cable Car et bateaux sur la Tamise"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Les services suivants n’acceptent pas le FIP : [^1]
@@ -598,8 +568,7 @@ Les services suivants n’acceptent pas le FIP : [^1]
     title="London Underground"
     type="subway"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Le métro londonien est exploité par TfL et n’accepte pas les réductions FIP.
@@ -623,8 +592,6 @@ Les billets enfants réguliers peuvent être moins chers que les billets avec r�
     title="Dartmouth Steam Railway and River Boat Company"
     type="regional"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=nil
     additional_information_url="https://dartmouthrailriver.co.uk"
 %}}
 
@@ -637,8 +604,6 @@ La Dartmouth Steam Railway and River Boat Company propose des trajets en locomot
     title="Ffestiniog and Welsh Highland Railway"
     type="regional"
     fip_accepted=partially
-    reservation_required=false
-    reservation_possible=nil
     additional_information_url="https://festrail.co.uk"
 %}}
 
@@ -653,8 +618,6 @@ La réduction est de 75 % sur le tarif adulte régulier.
     title="Isle of Wight Steam Railway"
     type="regional"
     fip_accepted=partially
-    reservation_required=false
-    reservation_possible=nil
     additional_information_url="https://iwsteamrailway.co.uk"
 %}}
 
@@ -669,8 +632,6 @@ La réduction est de 50 % sur le tarif adulte régulier.
     title="Kent and East Sussex Railway"
     type="regional"
     fip_accepted=partially
-    reservation_required=false
-    reservation_possible=nil
     additional_information_url="https://kesr.org.uk"
 %}}
 
@@ -685,8 +646,6 @@ La réduction est de 50 % sur le tarif adulte régulier.
     title="Llanberis Lake Railway"
     type="regional"
     fip_accepted=partially
-    reservation_required=false
-    reservation_possible=nil
     additional_information_url="https://lake-railway.co.uk"
 %}}
 
@@ -701,8 +660,6 @@ La réduction est de 50 % sur le tarif adulte régulier.
     title="National Tramway Museum (Crich Tramway Village)"
     type="tram"
     fip_accepted=partially
-    reservation_required=false
-    reservation_possible=nil
     additional_information_url="https://tramway.co.uk"
 %}}
 
@@ -717,8 +674,6 @@ La réduction est de 2 personnes pour le prix d’1.
     title="Talyllyn Railway Company"
     type="regional"
     fip_accepted=partially
-    reservation_required=false
-    reservation_possible=nil
     additional_information_url="https://talyllyn.co.uk"
 %}}
 

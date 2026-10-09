@@ -50,8 +50,7 @@ Reservations are generally not possible with Euskotren.
     title="Meter-gauge Railway"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Euskotren operates trains on the electrified meter-gauge railway in the provinces of Bizkaia and Gipuzkoa. The "Euskotren FIP Tickets" are valid on all lines, including the line to the TGV station Hendaye in France.
@@ -63,8 +62,7 @@ Euskotren operates trains on the electrified meter-gauge railway in the province
     title="Trams"
     type="tram"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 The "Euskotren FIP Tickets" are valid on both the tram in Bilbao and in Vitoria-Gasteiz.
@@ -78,8 +76,7 @@ According to the Rail Delivery Group guide, the ticket must be validated when us
     title="Metro Line L3 in Bilbao"
     type="subway"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 In Bilbao there is a metro network with three lines. On line L3, Euskotren accepts the "Euskotren FIP Tickets".
@@ -95,8 +92,7 @@ On all other lines (L1 and L2) in Bilbao's metro network, Metro Bilbao does not 
     title="Funicular Railway \"Funicular de Larreineta\""
     type="funicular"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Euskotren operates the historic funicular railway between Trapagaran and Larreineta, connecting the mountain settlements above Trapagaran with the valley.
@@ -112,8 +108,7 @@ If you don't have an "Euskotren FIP Ticket", the staff at the stations will issu
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP Tickets are not valid on Euskotren's regional bus lines. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.

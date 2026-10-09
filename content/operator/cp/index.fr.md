@@ -37,8 +37,7 @@ Les réservations ne sont obligatoires que sur les services longue distance (`AP
     title="Alfa Pendular (AP)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains rapides pendulaires (Pendolino) circulant sur l’axe principal Braga, Porto, Lisbonne et Faro avec peu d’arrêts. Les trains offrent un bon confort, Wi‑Fi, prises électriques à chaque siège et un service cafétéria/bar.
@@ -54,8 +53,7 @@ Les Coupons FIP (quelle que soit la classe du titre) ne sont valables qu’en se
     title="Intercidades (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains rapides nationaux composés de voitures tractées circulant sur les principales relations. Ils offrent Wi‑Fi, prises électriques à certains sièges de 1re classe et un service bistrot.
@@ -69,8 +67,7 @@ Trains rapides nationaux composés de voitures tractées circulant sur les princ
     title="Serviço InterRegional (IR)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains régionaux sur de plus longues distances avec peu d’arrêts.
@@ -82,8 +79,7 @@ Trains régionaux sur de plus longues distances avec peu d’arrêts.
     title="Serviço Regional (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains régionaux avec de nombreux arrêts.
@@ -95,8 +91,7 @@ Trains régionaux avec de nombreux arrêts.
     title="Comboios Urbanos (U)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains de banlieue desservant les réseaux urbains de Lisbonne, Porto et Coimbra (similaires aux S‑trains). Les Coupons FIP sont valables sans restriction.
@@ -135,8 +130,7 @@ Ligne entre Coimbra et Figueira da Foz.
     title="Celta: Porto – Vigo"
     type="regional"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Le Celta est un train international en coopération entre la CP et Renfe entre Porto et Vigo. Les Coupons FIP ne sont pas reconnus.

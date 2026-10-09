@@ -58,8 +58,7 @@ content_images:
   - `title` : Titre de la catégorie de train
   - `type` : `highspeed`, `regional`, `subway`, `bus`, `funicular`, `tram`, `sleeper` ou `ship`
   - `fip_accepted` : true, false, partially
-  - `reservation_required` : true, false, partially
-  - `reservation_possible` : true, false, partially (défaut false, peut être omis si reservation_required est true)
+  - `reservation` : required, partially-required, possible, partially-possible, not-possible (peut être omis si aucune réservation ne s’applique)
   - `route_overview_url` : Lien vers une page avec un aperçu des lignes de cette catégorie (peut être omis si non disponible)
   - `additional_information_url` : Lien vers une page avec des informations supplémentaires sur cette catégorie (peut être omis si non disponible)
 -->
@@ -69,8 +68,7 @@ content_images:
     title="titre"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
     route_overview_url="https://example.com"
     additional_information_url="https://example.com"
 %}}

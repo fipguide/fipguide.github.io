@@ -45,8 +45,7 @@ Folgende Linien sind mit dem FIP Freifahrtschein der GySEV in Österreich in den
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Die GySEV betreibt Scarbantia `IC` Züge zwischen Sopron und Budapest.
@@ -66,8 +65,7 @@ Reservierungen sind nur zwischen Győr und Budapest verpflichtend. Bei Fahrten z
     title="Regionalexpress (REX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
@@ -83,8 +81,7 @@ Regionalexpress-Züge werden teilweise auch von der ÖBB betrieben, bei denen FI
     title="Regionalzug (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Nahverkehrszug mit Halten an den meisten Stationen.
@@ -100,8 +97,7 @@ Regionalzüge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrka
     title="Személyvonat (Sz)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Nahverkehrszug mit Halten an den meisten Stationen.
@@ -117,8 +113,7 @@ Személyvonat werden teilweise auch von der [MÁV](/operator/mav#sz) betrieben, 
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP Vergünstigungen sind nicht gültig auf Busverbindungen der GySEV. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.

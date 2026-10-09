@@ -39,8 +39,7 @@ Il n’existe pas d’obligation de réservation, sauf sur certaines liaisons tr
     title="Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 L’`ICE` est un train à grande vitesse et la catégorie la plus élevée de la DB. Il relie les grandes villes allemandes à jusqu’à 300 km/h et circule aussi vers certains pays voisins. Les liaisons particulièrement rapides avec peu d’arrêts sont appelées `ICE Sprinter`.
@@ -58,8 +57,7 @@ Par le passé, une obligation de réservation existait en été pour les trajets
     title="Train à grande vitesse (TGV)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Trains à grande vitesse transfrontaliers de la SNCF en coopération avec la DB. Ils relient Francfort, Mannheim, Karlsruhe, Sarrebruck, Stuttgart et Munich à Paris.
@@ -79,8 +77,7 @@ Réservation obligatoire pour les trajets transfrontaliers vers la France.
     title="Railjet (RJ) / Railjet Xpress (RJX)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Trains internationaux de la catégorie la plus élevée.
@@ -109,8 +106,7 @@ Pour les Railjets à destination de l’Italie, un supplément est requis à par
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Les trains Intercity complètent le réseau ICE. Ils circulent à une vitesse inférieure à celle des ICE, relient de nombreuses villes et desservent aussi de nombreuses régions de vacances.
@@ -124,8 +120,7 @@ Certains [services Nightjet](#nj) utilisent des voitures Intercity (IC). Ces voi
     title="Eurocity-Express (ECE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Train express international entre Francfort et Milan ainsi qu’entre Munich et Zurich. Depuis décembre 2025, la catégorie est aussi utilisée pour d’autres liaisons entre la Suisse et l’Allemagne ainsi que sur de trains sur la route Hambourg – Copenhague.
@@ -150,8 +145,7 @@ Réservation obligatoire pour les trajets transfrontaliers vers l’Italie et pe
     title="Eurocity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Les trains Eurocity sont des trains internationaux reliant l’Allemagne à d’autres pays européens. Ils sont similaires aux Intercity, mais composés souvent de voitures de différentes compagnies, dont la Deutsche Bahn et des partenaires étrangers. Certains proposent des voitures-restaurants étrangères, par exemple sur les liaisons Berlin – Pologne.
@@ -168,8 +162,7 @@ Pour les trajets transfrontaliers en été vers la République tchèque, une obl
     title="Nightjet (NJ) / EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains de nuit de l’ÖBB en coopération avec la DB vers différents pays européens. Les trains proposent des voitures-lits, couchettes et places assises et sont exploités à l’étranger avec d’autres compagnies.
@@ -204,8 +197,7 @@ Une orientation est fournie par les [cartes d’aperçu](https://www.schienennah
     title="Regionalexpress (RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=partially
+    reservation="partially-possible"
 %}}
 
 Les trains Regionalexpress relient des villes avec des arrêts dans les principales gares. Certains circulent aussi sur de longues distances.
@@ -221,8 +213,7 @@ Les trains de la catégorie `RE` sont souvent exploités par d’autres opérate
     title="Regionalbahn (RB)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=partially
+    reservation="partially-possible"
 %}}
 
 Les trains Regionalbahn relient des villes avec des arrêts dans presque toutes les gares.
@@ -238,8 +229,7 @@ Les trains de la catégorie `RB` sont souvent exploités par d’autres opérate
     title="S-Bahn (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains de proximité dans les grandes villes et régions métropolitaines avec arrêt à toutes les gares.
@@ -255,8 +245,7 @@ Les trains de la catégorie `S` sont souvent exploités par d’autres opérateu
     title="Metropolexpress (MEX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Les trains régionaux relient Stuttgart et ses environs. Dans les environs, les trains `MEX` s'arrêtent dans de nombreuses gares, tandis que dans la zone desservie par le S-Bahn Stuttgart, ils ne s'arrêtent que dans quelques gares.
@@ -272,8 +261,7 @@ Les trains de la catégorie `MEX` sont souvent exploités par d’autres opérat
     title="Flughafenexpress (FEX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Train express local entre Berlin Hauptbahnhof et l’aéroport Willy Brandt (BER).
@@ -285,8 +273,7 @@ Train express local entre Berlin Hauptbahnhof et l’aéroport Willy Brandt (BER
     title="Harz-Berlin-Express (HBX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Train d’excursion le week-end entre Berlin et Thale ou Goslar dans le Harz.
@@ -298,8 +285,7 @@ Train d’excursion le week-end entre Berlin et Thale ou Goslar dans le Harz.
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Les réductions FIP ne sont pas valables dans les bus. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.[^1]

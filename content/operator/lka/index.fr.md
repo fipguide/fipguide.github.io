@@ -39,8 +39,7 @@ Pour les trajets avec différents exploitants en Pologne, un Billet FIP 50 inint
     title="ŁKA Sprinter (ŁS)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Trains régionaux circulant entre Łódź et Varsovie, ne s’arrêtant qu’à quelques gares en chemin. Certains trains ne s’arrêtent qu’aux gares les plus importantes des deux villes et pas du tout entre les deux. Les trains portent l’abréviation `ŁS` au début dans les systèmes d’information, suivie d’un numéro de train spécifique.
@@ -56,8 +55,7 @@ Une réservation gratuite est possible dans ces trains. Cependant, ils peuvent �
     title="ŁKA Train régional (ŁKA)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Tous les trains ŁKA qui ne circulent pas sur la ligne Sprinter entre Łódź et Varsovie. Les trains portent l’abréviation `ŁKA` au début dans les systèmes d’information, suivie d’un numéro de train spécifique. Aucune réservation n’est possible ici. Seuls les billets de 2ème classe sont proposés, car il n’y a pas de 1ère classe dans les trains ŁKA.
@@ -69,8 +67,7 @@ Tous les trains ŁKA qui ne circulent pas sur la ligne Sprinter entre Łódź et
     title="Bus"
     type="bus"
     fip_accepted=unknown
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Nous ne disposons actuellement d’aucune information sur la validité des Billets FIP dans les autobus exploités par ŁKA. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.

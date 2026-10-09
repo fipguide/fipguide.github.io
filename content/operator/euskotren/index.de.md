@@ -50,8 +50,7 @@ Bei Euskotren sind grundsätzlich keine Reservierungen möglich.
     title="Meterspur-Bahn"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Euskotren betreibt Züge auf der elektrifizierten Meterspur-Bahn in den Provinzen Bizkaia und Gipuzkoa. Die "Euskotren FIP Tickets" gelten auf allen Linien, einschließlich der Linie bis zum TGV-Bahnhof Hendaye in Frankreich.
@@ -63,8 +62,7 @@ Euskotren betreibt Züge auf der elektrifizierten Meterspur-Bahn in den Provinze
     title="Straßenbahnen"
     type="tram"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Die "Euskotren FIP Tickets" gelten sowohl bei der Straßenbahn in Bilbao als auch in Vitoria-Gasteiz.
@@ -78,8 +76,7 @@ Gemäß dem Guide der Rail Delivery Group muss das Ticket bei der Nutzung der St
     title="U-Bahnlinie L3 in Bilbao"
     type="subway"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 In Bilbao gibt es ein U-Bahn-Netz mit drei Linien. Auf der Linie L3 erkennt das Euskotren die "Euskotren FIP Tickets" an.
@@ -95,8 +92,7 @@ Auf allen anderen Linien (L1 und L2) im Metronetz von Bilbao erkennt die Metro B
     title="Standseilbahn \"Funicular de Larreineta\""
     type="funicular"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Euskotren betreibt die historische Standseilbahn zwischen Trapagaran und Larreineta und verbindet damit die Bergsiedlungen oberhalb von Trapagaran mit dem Tal.
@@ -112,8 +108,7 @@ Wenn du kein "Euskotren FIP Ticket" hast, stellt das Personal an den Stationen b
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP Fahrkarten gelten nicht in den Regionalbuslinien von Euskotren. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.

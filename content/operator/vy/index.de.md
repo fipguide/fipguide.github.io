@@ -43,8 +43,7 @@ Auf dem FIP Ausweis und den FIP Freifahrtscheinen ist allerdings nur **Vy Group 
     title="Fjerntog (F)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Fernzüge auf den Hauptstrecken des Landes mit Café. Teilweise werden die Züge als Nachtzüge mit Sitz-, Liege- und Schlagwagen geführt. In der Verbindungsauskunft auf [Entur](https://entur.no/) sind die Nachtzüge mit einem Halbmond {{% icon "bedtime" %}} gekennzeichnet.
@@ -89,8 +88,7 @@ Mit einem Ticket für den Nachtzug kann man die Zeit bis zur Abfahrt in der Hote
     title="Regionekspress (RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Der Regionekspress verbindet Orte und Städte mit Halten an den wichtigsten Stationen. Teilweise führen die Züge Automaten für Snacks und Getränke mit.
@@ -113,8 +111,7 @@ Auf dem RE20 wird FIP nur zwischen Oslo S und Halden anerkannt, aber nicht bei d
     title="Regiontog (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Der Regiontog verbindet Orte und Städte mit Halten an fast allen Stationen. Teilweise führen die Züge Automaten für Snacks und Getränke mit.
@@ -152,8 +149,7 @@ Auf den Linien R60 und R65 ist eine kostenfreie Reservierung erforderlich.
     title="Lokaltog (L)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Lokalzüge in den Ballungsräumen Oslo, Bergen und Stavanger.
@@ -177,8 +173,6 @@ Züge, welche mit X markiert sind, halten nicht an allen Stationen (z. B. L2x).
     title="Flytog (FLY)"
     type="highspeed"
     fip_accepted=false
-    reservation_required=nil
-    reservation_possible=nil
 %}}
 
 Flytoget ist der Flughafenexpress zwischen Oslo Airport und Oslo S. FIP-Vergünstigungen können hier nicht genutzt werden.
@@ -194,8 +188,6 @@ Alternativ können jedoch die Regionalzuglinien R10, R11 und R12 für die Fahrt 
     title="Vy express / Vy flybussen"
     type="bus"
     fip_accepted=false
-    reservation_required=nil
-    reservation_possible=nil
 %}}
 
 Vy betreibt ein Netzwerk an Fernbuslinien, welche allerdings nicht mit FIP genutzt werden können.[^1]

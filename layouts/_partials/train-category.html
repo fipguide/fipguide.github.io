@@ -53,7 +53,7 @@
           }}
         {{- end -}}
 
-        {{- if eq .reservation_required true -}}
+        {{- if eq .reservation "required" -}}
           {{ partial "tag" (
             dict
             "Icon" "calendar_add_on"
@@ -61,7 +61,7 @@
             "Type" "error"
             )
           }}
-        {{- else if eq .reservation_required "partially" -}}
+        {{- else if eq .reservation "partially-required" -}}
           {{ partial "tag" (
             dict
             "Icon" "calendar_add_on"
@@ -69,7 +69,7 @@
             "Type" "warning"
             )
           }}
-        {{- else if eq .reservation_possible true -}}
+        {{- else if eq .reservation "possible" -}}
           {{ partial "tag" (
             dict
             "Icon" "calendar_check"
@@ -77,7 +77,7 @@
             "Type" "info"
             )
           }}
-        {{- else if eq .reservation_possible "partially" -}}
+        {{- else if eq .reservation "partially-possible" -}}
           {{ partial "tag" (
             dict
             "Icon" "calendar_lock"
@@ -85,7 +85,7 @@
             "Type" "info"
             )
           }}
-        {{- else if eq .reservation_possible false -}}
+        {{- else if eq .reservation "not-possible" -}}
           {{ partial "tag" (
             dict
             "Icon" "calendar_lock"
