@@ -535,6 +535,11 @@ Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen 
 
 {{% booking id="national-rail-ticket-office" /%}}
 
+{{% booking id="sbb-ticket-office"
+    subtitle="Nur für SBB und SNCF Mitarbeitende"
+    reservations=nil
+/%}}
+
 ### Im Zug
 
 FIP-ermäßigte Fahrkarten werden nicht in Zügen ausgestellt, außer in bestimmten ländlichen

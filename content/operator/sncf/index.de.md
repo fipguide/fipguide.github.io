@@ -300,6 +300,12 @@ Nationale Verbindungen können online leider nicht erworben werden.
     classes.second="2 € / 11 €"
 /%}}
 
+{{% booking id="sbb-ticket-office"
+    subtitle="Nur für SBB und SNCF Mitarbeitende"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
+
 {{% booking id="db-ticket-office"
     subtitle="Für grenzüberschreitende TGV/ICE-Züge zwischen Deutschland und Frankreich"
     classes.first="nil"
