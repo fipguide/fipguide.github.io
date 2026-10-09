@@ -33,8 +33,7 @@ On its website, Irish Rail provides an [overview map of the routes](https://www.
     title="InterCity"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
     route_overview_url="https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/ireland-rail-map"
 %}}
 
@@ -57,8 +56,7 @@ First Class (First Class / Premiere Class) passengers are escorted to an availab
     title="Commuter Trains / Local rail services"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     route_overview_url="https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/dublin-symbolic-map"
 %}}
 
@@ -71,8 +69,7 @@ Commuter Trains are regional trains that primarily operate in the Dublin and Cor
     title="Dublin Area Rapid Transit (DART)"
     type="subway"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     route_overview_url="https://www.irishrail.ie/en-ie/travel-information/station-and-route-maps/dublin-symbolic-map"
 %}}
 
@@ -85,8 +82,7 @@ DART (Dublin Area Rapid Transit) is a suburban rail network connecting Dublin's 
     title="Bus Éireann"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP is not valid on Bus Éireann bus services.
@@ -98,8 +94,7 @@ FIP is not valid on Bus Éireann bus services.
     title="Dublin Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP is not valid on Dublin Bus bus services.

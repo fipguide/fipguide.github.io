@@ -33,8 +33,7 @@ In keinem Zug der BLS gibt es eine Reservierungspflicht.
     title="InterRegio (IR) / RegioExpress (RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Nationale Züge mit Halten in größeren Städten.
@@ -46,8 +45,7 @@ Nationale Züge mit Halten in größeren Städten.
     title="Regio (R) / S-Bahn (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet.
@@ -59,8 +57,7 @@ Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet
     title="Panorama Express (PE)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Der GoldenPass Express ist eine durchgehende Zugverbindung von Montreux bis Interlaken Ost, welcher von der BLS in Kooperation mit der [MOB](/operator/sp#mob) betrieben wird. Die MOB betreibt den Zug im meterspurigen Abschnitt zwischen Montreux und Zweisimmen und die BLS im normalspurigen Abschnitt zwischen Zweisimmen und Interlaken Ost. In der Verbindungsauskunft werden diese Züge als `PE` gekennzeichnet.
@@ -78,8 +75,7 @@ Eine Mitfahrt ohne Sitzplatzreservierung ist nur möglich, wenn noch Plätze fre
     title="Autoverlad (AT)"
     type="regional"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Autozüge auf den Strecken Kandersteg – Goppenstein, Brig – Iselle und Kandersteg – Iselle.
@@ -95,8 +91,7 @@ FIP ist in diesen Zügen nicht gültig, jedoch können die parallel verkehrenden
     title="Bus"
     type="bus"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP ist in allen Bussen der BLS gültig, inklusive der Busse der _Busland AG_ und Bussen des Schienenersatzverkehrs.
@@ -108,8 +103,7 @@ FIP ist in allen Bussen der BLS gültig, inklusive der Busse der _Busland AG_ un
     title="Schiff"
     type="ship"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP ist auf den Schiffen der BLS auf dem Thunersee und Brienzersee gültig.

@@ -49,8 +49,7 @@ Coût : \
     title="Railjet (RJ) / Railjet Xpress (RJX)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Trains rapides nationaux et internationaux de la catégorie la plus élevée des ÖBB. Ils relient régulièrement les principales villes autrichiennes, ainsi que l’Allemagne, l’Italie, la Tchéquie, la Hongrie, la Slovaquie et la Suisse. Trois classes de confort et un bistro à bord. Les Railjet avec moins d’arrêts sont commercialisés comme Railjet Xpress.
@@ -76,8 +75,7 @@ Pour les Railjet vers l’Italie, un supplément est à payer à partir de la fr
     title="Intercity (IC) / Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 La plupart des trains `IC` sur les axes principaux ont été progressivement remplacés par les Railjet. Les `IC` circulent encore sur des lignes secondaires comme Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Vienne – Gmunden – Stainach-Irdning, ainsi qu’en complément des Railjet sur la liaison Vienne–Lienz (Tyrol oriental). Il existe aussi des trains `IC` et `ICE` sur certaines liaisons internationales vers l’Allemagne en coopération avec la Deutsche Bahn, la section autrichienne étant exploitée par ÖBB.
@@ -97,8 +95,7 @@ Les réservations sont parfois obligatoires pendant la haute saison (été) pour
     title="InterRegio (IR)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 À partir d’août 2025, l’InterRegio `IR` devient une nouvelle catégorie de train grandes lignes sur les lignes secondaires, remplaçant en grande partie les liaisons `IC` existantes. Exemples : Graz – Unzmarkt ou Graz – Linz. L’objectif est de desservir des localités qui n’avaient jusqu’ici que peu ou pas de liaisons directes. Fréquence toutes les 2 ou 4 heures.
@@ -110,8 +107,7 @@ Les réservations sont parfois obligatoires pendant la haute saison (été) pour
     title="Eurocity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Trains internationaux vers les pays voisins, exploités par ÖBB en coopération avec d’autres compagnies ferroviaires. Certaines liaisons sont aussi désignées comme `IC`.
@@ -125,8 +121,7 @@ Pour les Eurocity vers l’Italie, un supplément est à payer à partir de la f
     title="Nightjet (NJ) / EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains de nuit ÖBB vers plusieurs pays européens. Wagons couchettes, wagons-lits et places assises, exploités à l’étranger en coopération avec d’autres compagnies.
@@ -151,8 +146,7 @@ Pour les Nightjet, il est possible de réserver/payer un supplément pour les co
     title="D-Zug (D)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Les trains `D` sont principalement utilisés comme trains de renfort lors des périodes de forte affluence (vendredi et dimanche par exemple), généralement uniquement en 2ᵉ classe et sans confort particulier, car ils utilisent du matériel roulant plus ancien.
@@ -166,8 +160,7 @@ Les trains `D` sont principalement utilisés comme trains de renfort lors des p�
     title="Regionalexpress (REX) / Cityjet Xpress (CJX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Train régional rapide avec moins d’arrêts et matériel moderne.
@@ -183,8 +176,7 @@ Certains Regionalexpress sont exploités par des compagnies privées où les Bil
     title="Regionalzug (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Train régional avec arrêts dans la plupart des gares.
@@ -202,8 +194,7 @@ La désignation `R` est aussi utilisée dans les horaires ÖBB pour des trains t
     title="Schnellbahn (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Train régional au moins toutes les heures, arrêt à toutes les gares. Comparable à un S-Bahn.
@@ -226,8 +217,7 @@ Exemples :
     title="ÖBB Postbus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Les Billets FIP ne sont pas valables sur ÖBB Postbus. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.

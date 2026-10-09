@@ -40,8 +40,7 @@ Nur S-Bahnen sind mit FIP Freifahrtscheinen uneingeschränkt nutzbar. In anderen
     title="AVE"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Langstreckenverbindungen mit normalspurigen und umspurbaren Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtscheine werden nicht anerkannt.
@@ -63,8 +62,7 @@ Die internationalen AVE von / nach Frankreich haben je nach Streckenabschnitt un
     title="Avlo"
     type="highspeed"
     fip_accepted=false
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Niedrigpreis-Hochgeschwindigkeitszüge (bis 300 km/h).
@@ -76,8 +74,7 @@ Niedrigpreis-Hochgeschwindigkeitszüge (bis 300 km/h).
     title="Euromed"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Umspurbare Hochgeschwindigkeitszüge (Figueres {{< icon "arrow_range" >}} Alicante). FIP Freifahrtscheine werden nicht anerkannt.
@@ -95,8 +92,7 @@ Umspurbare Hochgeschwindigkeitszüge (Figueres {{< icon "arrow_range" >}} Alican
     title="Alvia"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtscheine werden nicht anerkannt.
@@ -114,8 +110,7 @@ Umspurbare Hochgeschwindigkeitszüge (bis 250 km/h). FIP Freifahrtscheine werden
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP Freifahrtscheine werden nicht anerkannt.
@@ -133,8 +128,7 @@ Reisezüge zwischen Regional- und Hochgeschwindkeitsverkehr (bis 250 km/h). FIP 
     title="Celta: Porto – Vigo"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der portugiesischen CP von Porto nach Vigo. FIP Freifahrtscheine werden nicht anerkannt.
@@ -150,8 +144,7 @@ Der Celta ist ein internationaler Kooperationszug zwischen der Renfe und der por
     title="Avant"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Hochgeschwindkeitszüge, Reisedauer < 90 Minuten. FIP Freifahrtscheine werden nicht anerkannt.
@@ -165,8 +158,7 @@ Hochgeschwindkeitszüge, Reisedauer < 90 Minuten. FIP Freifahrtscheine werden ni
     title="MD"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Beschleunigter Regionalverkehr. FIP Freifahrtscheine werden nur auf nicht reservierungspflichtigen Zügen dieser Kategorie anerkannt. Aktuell ist das nur auf der Route Barcelona(-Girona-Figueres)-Port Bou der Fall.
@@ -186,8 +178,7 @@ Es besteht Reservierungspflicht, außer auf der Route Barcelona(-Girona-Figueres
     title="Cercanías / Rodalia / Aldiriak"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Pendlerzüge, vergleichbar mit einer S-Bahn. FIP Freifahrtscheine sind hier uneingeschränkt gültig.

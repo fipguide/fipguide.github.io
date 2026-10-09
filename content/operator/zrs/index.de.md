@@ -30,7 +30,6 @@ FIP Freifahrtscheine und FIP 50 / FIP 75 Tickets sind auf Verbindungen der ŽRS 
     title="Putnički (P)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
 %}}
 Regionalzüge, die alle Zwischenhalten bedienen und ein Grundangebot innerhalb der Entität sicherstellen.
 {{% /train-category %}}

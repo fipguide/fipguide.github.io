@@ -28,7 +28,6 @@ FIP Coupons and FIP 50 / FIP 75 Tickets are valid on ŽRS services. For cross-bo
     title="Putnički (P)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
 %}}
 Regional trains that serve all intermediate stops and ensure a basic service within the entity.
 {{% /train-category %}}

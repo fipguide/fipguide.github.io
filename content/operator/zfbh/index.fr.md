@@ -32,8 +32,6 @@ Les trains actuellement en circulation et leurs restrictions selon certains jour
     title="Brzi (B)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=unknown
 %}}
 
 Trains rapides nationaux et internationaux vers la Croatie, qui circulent relativement rapidement avec peu d’arrêts au sein de la Bosnie-Herzégovine et vers Ploče en Croatie. Sur la ligne Sarajevo – Mostar – Čapljina (– Ploče), des voitures Talgo modernes sont utilisées ; sur l’autre ligne, Sarajevo – Maglaj, des voitures voyageurs nettement plus anciennes sont possibles.
@@ -48,7 +46,6 @@ Nous ne savons pas actuellement si des réservations sont proposées et si elles
     title="Putnički (P)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
 %}}
 Trains régionaux qui relient de courtes distances autour de la capitale Sarajevo avec toutes les arrêts intermédiaires.
 {{% /train-category %}}

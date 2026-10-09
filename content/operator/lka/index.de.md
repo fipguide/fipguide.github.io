@@ -39,8 +39,7 @@ Die ŁKA unterscheidet in zwei Zugkategorien:
     title="ŁKA Sprinter (ŁS)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Regionalzüge, die zwischen Łódz und Warschau verkehren und dabei unterwegs nur an wenigen Bahnhöfen halten. Teilweise halten die Züge nur an den wichtigsten Bahnhöfen der beiden Städte und dazwischen gar nicht mehr. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel `ŁS` und im Anschluss eine konkrete Zugnummer.
@@ -56,8 +55,7 @@ Bei diesen Zügen ist eine kostenlose Reservierung möglich. Sie können jedoch 
     title="ŁKA Regionalzug (ŁKA)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Alle Züge der ŁKA, die nicht auf der Sprinterstrecke zwischen Łódz und Warschau verkehren. Die Züge haben in der Verbindungsauskunft am Anfang das Kürzel `ŁKA` und im Anschluss eine konkrete Zugnummer. Hier ist keine Reservierung möglich. Es werden nur Tickets der 2. Klasse angeboten, da es in ŁKA-Zügen keine 1. Klasse gibt.
@@ -69,8 +67,7 @@ Alle Züge der ŁKA, die nicht auf der Sprinterstrecke zwischen Łódz und Warsc
     title="Bus"
     type="bus"
     fip_accepted=unknown
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Über die Gültigkeit von FIP-Fahrkarten in den von der ŁKA betriebenen Bussen ist uns aktuell nichts bekannt. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.

@@ -28,8 +28,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ŽRSM gültig.
     title="Interregionalzug (IR)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
     route_overview_url="https://mzt.mk/poagane-od-skopje/"
 %}}
 
@@ -53,8 +52,7 @@ Im aktuellen Fahrplanjahr gibt es Zugverkehr auf folgenden Strecken:
     title="Regionalzug (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
     route_overview_url="https://mzt.mk/poagane-od-skopje/"
 %}}
 
@@ -78,7 +76,6 @@ Im aktuellen Fahrplanjahr gibt es Zugverkehr auf folgenden Strecken:
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_possible=nil
 %}}
 
 FIP Freifahrtscheine gelten nicht in Bussen, die von der ŽRSM betrieben werden. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre. [^1]
