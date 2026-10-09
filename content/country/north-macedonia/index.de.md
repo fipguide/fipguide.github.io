@@ -7,7 +7,7 @@ content_images:
 
 ## FIP Nutzung
 
-In Nordmazedonien wird der Schienenverkehr von der staatlichen Eisenbahngesellschaft Železnici na Republika Severna Makedonija (ŽRSM) betrieben.
+In Nordmazedonien wird der Schienenverkehr von der staatlichen Eisenbahngesellschaft [Železnici na Republika Severna Makedonija (ŽRSM)](/operator/zrsm) betrieben.
 
 {{< identify-operator sources="zrsm-website" >}}
 {{< /identify-operator >}}
@@ -23,9 +23,10 @@ Es gibt keinen Taktverkehr, sondern nur einzelne Züge, welche in größeren zei
 {{% expander "Grenzpunkte" border %}}
 
 | Land                                                             | Grenzpunkte                                              |
-| ---------------------------------------------------------------- | -------------------------------------------------------- |
+| ---------------------------------------------------------------- | -------------------------------------------------------- | --- |
 | [Serbien](/country/serbia) ([SV](/operator/sv))                  | Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc) |
 | [Griechenland](/country/greece) ([Hellenic Train](/operator/ht)) | Gevgelija (fr) (Mazedonisch: Гевгелија)                  |
+| Kosovo (Trainkos)                                                | Elez Han (Serbisch: Елез Хан)                            |     |
 
 {{% /expander %}}
 
@@ -33,9 +34,21 @@ Es gibt keinen Taktverkehr, sondern nur einzelne Züge, welche in größeren zei
 
 Zurzeit verkehren keine Personenzüge zwischen Nordmazedonien und Serbien.
 
+### Bulgarien
+
+Es gibt zurzeit keine Schienenverbindung zwischen Bulgarien und Nordmazedonien, jedoch ist eine solche mit dem Bau der Bahnstrecke Kumanovo – Gjueschewo in Planung.
+
 ### Griechenland
 
 Zwischen Nordmazedonien und Griechenland gibt es keinen planmäßigen Personenverkehr auf der Schiene. Die historische Verbindung zwischen Thessaloniki und Gevgelija/Skopje wird gegenwärtig nicht betrieben. Grenzübergänge können daher nicht per Zug überquert werden; alternativ bieten sich Fernbusse über die Balkanrouten an.
+
+### Albanien
+
+Es gibt zurzeit keine Schienenverbindung zwischen Albanien und Nordmazedonien.
+
+### Kosovo
+
+Die Verbindung zwischen Priština und Skopje wurde lange Zeit durch Trainkos und die ŽRSM angeboten, ist aber derzeit aufgrund von Bauarbeiten auf der Strecke eingestellt. FIP-Fahrkarten gelten nur im nordmazedonischen Abschnitt bis zum Grenzpunkt Elez Han, für den Abschnitt im Kosovo wird eine reguläre Fahrkarte benötigt.
 
 ## Quellen
 
