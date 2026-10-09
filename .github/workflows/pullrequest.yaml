@@ -44,6 +44,8 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "npm ci"
+      - name: Build admin CMS
+        run: "npm run build:admin"
       - name: Cache Hugo Resources
         uses: actions/cache@v4
         with:
@@ -66,7 +68,7 @@ jobs:
         run: npx -y pagefind --site public
       - name: Check for unrendered footnotes
         run: |
-          if grep -rnEo '\[\^[0-9]+\]' public; then
+          if grep -rnEo '\[\^[0-9]+\]' public --exclude-dir=admin; then
             echo "FAIL: Unrendered footnotes found. See lines above." >&2
             exit 1
           fi
