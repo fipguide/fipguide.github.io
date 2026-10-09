@@ -366,7 +366,7 @@ operators:
       retired: coupon-1
       retired-relatives: coupon-1
       widows: coupon-1
-  zrms:
+  zrsm:
     fip-coupon:
       active: coupon-1
       active-relatives: coupon-1

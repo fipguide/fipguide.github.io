@@ -328,7 +328,7 @@ operators:
       active-relatives: coupon-not-available
       retired: coupon-not-available
       retired-relatives: coupon-not-available
-  zrms:
+  zrsm:
     fip-coupon:
       active: coupon-4fields
       active-relatives: coupon-not-available
