@@ -23,10 +23,10 @@
     "@material-symbols/svg-700": "^0.47.6",
     "@panzoom/panzoom": "^4.6.2",
     "@sveltia/cms": "^0.227.3",
-    "pagefind": "^1.5.2"
+    "pagefind": "^1.5.2",
+    "prettier": "^3.9.9"
   },
   "devDependencies": {
-    "prettier": "^3.9.9",
     "prettier-plugin-go-template": "^0.0.15",
     "vite": "7.3.6"
   }
