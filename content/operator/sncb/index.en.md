@@ -1,5 +1,6 @@
 ---
 title: SNCB / NMBS
+shortName: SNCB
 country:
   - belgium
 operator: sncb

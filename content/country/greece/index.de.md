@@ -5,6 +5,14 @@ params:
   operators_without_fip:
     - STASY (Urban Rail Transport S.A.)
     - THEMA S.A. – Thessaloniki Metro
+  border_points:
+    - gr-mk
+    - bg-gr
+    - gr-tr
+    - gr-it
+  border_points_footnotes:
+    - "[>] = In Richtung (z. B. Patras [> Ancona] = Patras ist der Grenzpunkt in Richtung
+      Ancona)"
 ---
 
 ## FIP Nutzung

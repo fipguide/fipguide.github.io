@@ -1,5 +1,6 @@
 ---
 title: SBB CFF FFS
+shortName: CFF
 country:
   - switzerland
 aliases:

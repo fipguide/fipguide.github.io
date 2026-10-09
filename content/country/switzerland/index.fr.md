@@ -9,6 +9,14 @@ params:
     - Gondelbahn Grindelwald – Männlichen (GGM)
     - Seilbahn Mürren – Allmendhubel (SMA)
     - Luftseilbahn Stechelberg (Mürren – Schilthorn) (LSMS)
+  border_points:
+    - de-ch
+    - at-ch
+    - it-ch
+    - fr-ch
+  border_points_footnotes:
+    - "[>] = En direction de (par exemple, Locarno [> Domodossola] = Locarno est le
+      point frontière en direction de Domodossola)"
 ---
 
 ## Informations FIP

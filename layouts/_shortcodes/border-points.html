@@ -1,27 +1,6 @@
-{{- $country := .Page.Params.country -}}
-{{- $data := partialCached "helper/borderPoints" . site.Language.Lang -}}
-{{- $rows := partial "helper/borderPointsRows" (dict "country" $country) -}}
-
-{{- $lines := slice
-  (printf "| %s | %s |" (T "borderPoints.country") (T "borderPoints.points"))
-  "| --- | --- |"
+{{- partial "expander" (dict
+  "Title" (T "borderPoints.title")
+  "Icon" "share_location"
+  "Content" (partial "border-points/table" (dict "country" .Page.Params.country "page" .Page) | safeHTML)
+  )
 -}}
-{{- range $rows -}}
-  {{- $lines = $lines | append (printf "| %s | %s |" .label .points) -}}
-{{- end -}}
-
-{{- $markdown := delimit $lines "\n" -}}
-{{- range where ($data.countries | default slice) "id" $country -}}
-  {{- with .footnotes -}}
-    {{- $markdown = printf "%s\n\n%s" $markdown (delimit . "\\\n") -}}
-  {{- end -}}
-{{- end -}}
-
-{{- with $rows -}}
-  {{- partial "expander" (dict
-    "Title" (T "borderPoints.title")
-    "Variant" "border"
-    "Content" ($.Page.RenderString (dict "display" "block") $markdown)
-    )
-  -}}
-{{- end -}}

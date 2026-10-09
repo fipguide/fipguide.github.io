@@ -5,6 +5,11 @@ params:
   operators_without_fip:
     - European Sleeper
     - OUIGO
+  border_points:
+    - be-nl
+    - be-de
+    - be-lu
+    - be-fr
 ---
 
 ## Informations FIP

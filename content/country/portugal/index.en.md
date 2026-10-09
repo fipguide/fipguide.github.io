@@ -4,6 +4,11 @@ country: portugal
 params:
   operators_without_fip:
     - Fertagus
+  border_points:
+    - pt-es
+  border_points_footnotes:
+    - "[>] = Direction (for example: V. Real de Sto António Guardiana [> Ayamonte] =
+      the border point at V. Real de Sto António Guardiana is oriented towards Ayamonte)"
 ---
 
 ## FIP Information

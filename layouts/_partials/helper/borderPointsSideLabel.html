@@ -1,9 +1,0 @@
-{{- $countries := partial "helper/borderPointsRefs" (dict "prefix" "country" "items" .countries) -}}
-{{- $operators := partial "helper/borderPointsRefs" (dict "prefix" "operator" "items" .operators) -}}
-
-{{- $out := delimit $countries ", " -}}
-{{- with $operators -}}
-  {{- $joined := delimit . ", " -}}
-  {{- $out = cond (ne $out "") (printf "%s (%s)" $out $joined) $joined -}}
-{{- end -}}
-{{- return $out -}}

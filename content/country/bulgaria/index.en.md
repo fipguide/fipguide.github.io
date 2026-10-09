@@ -4,6 +4,11 @@ country: bulgaria
 params:
   operators_without_fip:
     - Optima Express
+  border_points:
+    - bg-ro
+    - bg-tr
+    - bg-gr
+    - bg-rs
 ---
 
 ## FIP Information

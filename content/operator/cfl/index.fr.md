@@ -1,5 +1,6 @@
 ---
 title: CFL
+shortName: CFL
 country:
   - luxembourg
 operator: cfl

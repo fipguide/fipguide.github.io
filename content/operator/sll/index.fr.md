@@ -1,5 +1,6 @@
 ---
 title: Stena Line Limited
+shortName: Stena Line Limited
 country:
   - ireland
   - united-kingdom

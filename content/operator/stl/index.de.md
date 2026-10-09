@@ -1,5 +1,6 @@
 ---
 title: Stena Line BV
+shortName: Stena Line BV
 country:
   - netherlands
   - united-kingdom

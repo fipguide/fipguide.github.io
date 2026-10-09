@@ -1,5 +1,6 @@
 ---
 title: CP
+shortName: CP
 country:
   - portugal
 operator: cp

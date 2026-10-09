@@ -1,5 +1,6 @@
 ---
 title: BLS
+shortName: BLS
 country:
   - switzerland
 aliases:

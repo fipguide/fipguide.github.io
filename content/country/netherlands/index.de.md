@@ -11,6 +11,10 @@ params:
     - Keolis Nederland
     - Qbuzz
     - VIAS Rail
+  border_points:
+    - de-nl
+    - be-nl
+    - nl-gb-stl
 ---
 
 ## FIP Nutzung

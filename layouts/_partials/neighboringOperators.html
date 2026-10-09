@@ -1,8 +1,8 @@
 {{- $operator := .page.File.ContentBaseName -}}
-{{- $data := partialCached "helper/borderPoints" . site.Language.Lang -}}
+{{- $borders := partialCached "border-points/data" . site.Language.Lang -}}
 
 {{- $ids := slice -}}
-{{- range $data.borders -}}
+{{- range $borders -}}
   {{- $border := . -}}
   {{- range $key := slice "a" "b" -}}
     {{- $match := false -}}

@@ -8,10 +8,18 @@ params:
     - Circumvesuviana
     - Cumana
     - European Sleeper
-    - '[Ferrovie Sud Est](/operator/fs##validity-of-fip-tickets "Ferrovie Sud
-      Est")'
+    - '[Ferrovie Sud Est](/operator/fs##validity-of-fip-tickets "Ferrovie Sud Est")'
     - Italo / NTV
     - '[Trenord](/operator/fs##validity-of-fip-tickets "Trenord")'
+  border_points:
+    - at-it
+    - it-si
+    - gr-it
+    - fr-it
+    - it-ch
+  border_points_footnotes:
+    - "[>] = Towards (e.g., Domodossola [> Locarno] = Domodossola is the border point
+      towards Locarno)"
 ---
 
 ## FIP Information

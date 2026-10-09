@@ -1,993 +1,1101 @@
-countries:
-  - id: austria
-    order: [at-cz, at-sk, at-hu-gysev, at-hu-mav, at-si, at-it, at-ch, at-de]
-  - id: belgium
-    order: [be-nl, be-de, be-lu, be-fr]
-  - id: bosnia-and-herzegovina
-    order: [ba-hr, ba-rs]
-  - id: bulgaria
-    order: [bg-ro, bg-tr, bg-gr, bg-rs]
-  - id: czechia
-    order: [cz-pl, cz-sk, at-cz, cz-de]
-  - id: denmark
-    order: [dk-se, dk-de]
-  - id: france
-    order: [fr-eurostar, be-fr, lu-fr, de-fr, fr-ch, fr-it, es-fr]
-  - id: germany
-    order:
-      [
-        dk-de,
-        de-se,
-        de-pl,
-        cz-de,
-        at-de,
-        de-bsb,
-        de-ch,
-        de-fr,
-        de-lu,
-        be-de,
-        de-eurostar,
-        de-nl,
-      ]
-    footnotes:
-      - "MS = Middle of the lake"
-  - id: greece
-    order: [gr-mk, bg-gr, gr-tr, gr-it]
-    footnotes:
-      - "[>] = In the direction of (e.g. Patras [> Ancona] = Patras is the border
-        point in the direction of Ancona)"
-  - id: hungary
-    order:
-      [
-        hu-sk-mav,
-        hu-sk-gysev,
-        hu-ua,
-        hu-ro,
-        hu-rs,
-        hu-hr,
-        hu-si,
-        at-hu-mav,
-        at-hu-gysev,
-      ]
-  - id: ireland
-    order: [ie-gb-rail, ie-gb-sll]
-  - id: italy
-    order: [at-it, it-si, gr-it, fr-it, it-ch]
-    footnotes:
-      - "[>] = Towards (e.g., Domodossola [> Locarno] = Domodossola is the border
-        point towards Locarno)"
-  - id: latvia
-    order: [lv-ee, lv-ru, lv-by, lv-lt]
-  - id: lithuania
-    order: [lv-lt, lt-by, lt-pl, lt-ru]
-  - id: luxembourg
-    order: [be-lu, de-lu, lu-fr]
-  - id: montenegro
-    order: [me-rs]
-  - id: netherlands
-    order: [de-nl, be-nl, nl-gb-stl]
-  - id: norway
-    order: [no-se]
-  - id: poland
-    order: [pl-ru, lt-pl, pl-by, pl-ua, pl-sk, cz-pl, de-pl]
-  - id: portugal
-    order: [pt-es]
-    footnotes:
-      - "[>] = Direction (for example: V. Real de Sto António Guardiana [>
-        Ayamonte] = the border point at V. Real de Sto António Guardiana is
-        oriented towards Ayamonte)"
-  - id: romania
-    order: [ro-ua, ro-md, bg-ro, ro-rs, hu-ro]
-  - id: serbia
-    order: [hu-rs, ro-rs, bg-rs, rs-mk, me-rs, ba-rs, rs-hr]
-  - id: slovakia
-    order: [hu-sk-gysev, hu-sk-mav, cz-sk]
-  - id: slovenia
-    order: [it-si, si-hr, at-si, hu-si]
-  - id: spain
-    order: [pt-es, es-fr]
-  - id: switzerland
-    order: [de-ch, at-ch, it-ch, fr-ch]
-    footnotes:
-      - "[>] = Direction (e.g. Locarno [> Domodossola] = Locarno is the border
-        point towards Domodossola)"
-  - id: united-kingdom
-    order: [nl-gb-stl, gb-eurostar, ie-gb-rail, ie-gb-sll, gb-gb-sll]
-
-borders:
-  - id: at-cz
-    a:
-      countries: [{ id: austria }]
-      operators: [{ id: oebb, label: ÖBB }]
-    b:
-      countries: [{ id: czechia }]
-      operators: [{ id: cd, label: ČD }]
-    points:
-      - "Bernhardsthal (GR) / Břeclav (Gr)"
-      - "Unterretzbach (Gr) / Retz (Gr)"
-      - "Gmünd (Gr) / Česká Skalice (Gr)"
-      - "Summerau (Gr) / Horní Dvořiště (Gr)"
-
-  - id: at-sk
-    a:
-      countries: [{ id: austria }]
-      operators: [{ id: oebb, label: ÖBB }]
-    b:
-      countries: [{ id: slovakia }]
-      operators: [{ id: zssk, label: ZSSK / ŽSR }]
-    points:
-      - "Marchegg (Gr)"
-      - "Kittsee (Gr)"
-
-  - id: at-hu-gysev
-    a:
-      countries: [{ id: austria }]
-      operators: [{ id: gysev, label: GySEV }]
-    b:
-      countries: [{ id: hungary }]
-      operators: [{ id: gysev, label: GySEV }]
-    points:
-      - "Pamhagen (Gr)"
-      - "Szentgotthárd"
-      - "Sopron"
-
-  - id: at-hu-mav
-    a:
-      countries: [{ id: austria }]
-      operators: [{ id: oebb, label: ÖBB }]
-    b:
-      countries: [{ id: hungary }]
-      operators: [{ id: mav, label: MÁV }]
-    points:
-      - "Hegyeshalom (Gr)"
-      - "Sopron"
-
-  - id: at-si
-    sort: true
-    a:
-      countries: [{ id: austria }]
-      operators: [{ id: oebb, label: ÖBB }]
-    b:
-      countries: [{ id: slovenia }]
-      operators: [{ id: sz, label: SŽ }]
-    points:
-      - "Bleiburg (Gr) (Slovenian: Pliberk)"
-      - "Spielfeld-Strass (Gr) / Spielfeld (Gr) (Slovenian: Špilje)"
-      - "Rosenbach (Gr) / Jesenice (Gr) (German: Assling)"
-
-  - id: at-it
-    a:
-      countries: [{ id: austria }]
-      operators: [{ id: oebb, label: ÖBB }]
-    b:
-      countries: [{ id: italy }]
-      operators: [{ id: fs, label: FS }]
-    points:
-      - "Brennero/Brenner"
-      - "San Candido/Innichen"
-      - "Tarvisio Boscoverde"
-
-  - id: at-ch
-    a:
-      countries: [{ id: austria }]
-      operators: [{ id: oebb, label: ÖBB }]
-    b:
-      countries: [{ id: switzerland }]
-      operators: [{ id: sbb, label: SBB }]
-    points:
-      - "Buchs SG"
-      - "St. Margrethen"
-
-  - id: at-de
-    sort: true
-    a:
-      countries: [{ id: austria }]
-      operators: [{ id: oebb, label: ÖBB }]
-    b:
-      countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
-    points:
-      - "Passau Hbf"
-      - "Salzburg Hbf (local trains to Salzburg Liefering)"
-      - "Simbach am Inn"
-      - "Kufstein"
-      - "Mittenwald (Gr)"
-      - "Lindau-Reutin"
-
-  - id: be-nl
-    a:
-      countries: [{ id: belgium }]
-      operators: [{ id: sncb, label: SNCB }]
-    b:
-      countries: [{ id: netherlands }]
-      operators: [{ id: ns, label: NS }]
-    points:
-      - "Roosendaal (fr)"
-      - "Visé (fr)"
-
-  - id: be-de
-    a:
-      countries: [{ id: belgium }]
-      operators: [{ id: sncb, label: SNCB }]
-    b:
-      countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
-    points:
-      - "Aachen Süd (Gr)"
-
-  - id: be-lu
-    a:
-      countries: [{ id: belgium }]
-      operators: [{ id: sncb, label: SNCB }]
-    b:
-      countries: [{ id: luxembourg }]
-      operators: [{ id: cfl, label: CFL }]
-    points:
-      - "Athus"
-      - "Gouvy (fr)"
-      - "Sterpenich (fr)"
-
-  - id: be-fr
-    a:
-      countries: [{ id: belgium }]
-      operators: [{ id: sncb, label: SNCB }]
-    b:
-      countries: [{ id: france }]
-      operators: [{ id: sncf, label: SNCF }]
-    points:
-      - "Blandain (fr)"
-      - "Givet (fr)"
-      - "Jeumont (fr)"
-      - "Quévy (fr)"
-      - "Tourcoing (fr)"
-
-  - id: ba-hr
-    a:
-      countries: [{ id: bosnia-and-herzegovina }]
-      operators: [{ id: zfbh, label: ŽFBH }, { id: zrs, label: ŽRS }]
-    b:
-      countries: [{ label: Croatia }]
-      operators: [{ label: HŽ }]
-    points:
-      - "Brčko (Gr)"
-      - "Martin Brod (Gr)"
-      - "Metković (Gr)"
-      - "Slavonski Šamac (Gr)"
-      - "Volinja (Gr)"
-
-  - id: ba-rs
-    a:
-      countries: [{ id: bosnia-and-herzegovina }]
-      operators: [{ id: zfbh, label: ŽFBH }, { id: zrs, label: ŽRS }]
-    b:
-      countries: [{ id: serbia }]
-      operators: [{ id: sv, label: SV }]
-    points:
-      - "Zvornik"
-
-  - id: bg-ro
-    a:
-      countries: [{ id: bulgaria }]
-      operators: [{ id: bdz, label: BDŽ }]
-    b:
-      countries: [{ id: romania }]
-      operators: [{ id: cfr, label: CFR }]
-    points:
-      - "Ruse (fr) (Bulgarian: Русе)"
-      - "Vidin (fr)"
-
-  - id: bg-tr
-    a:
-      countries: [{ id: bulgaria }]
-      operators: [{ id: bdz, label: BDŽ }]
-    b:
-      countries: [{ label: Turkey }]
-      operators: [{ label: TCDD }]
-    points:
-      - "Kapikule (fr)"
-
-  - id: bg-gr
-    a:
-      countries: [{ id: bulgaria }]
-      operators: [{ id: bdz, label: BDŽ }]
-    b:
-      countries: [{ id: greece }]
-      operators: [{ id: ht, label: Hellenic Train }]
-    points:
-      - "Kulata (fr) (Bulgarian: Кулата)"
-      - "Svilengrad (fr) (Bulgarian: Свиленград)"
-
-  - id: bg-rs
-    a:
-      countries: [{ id: bulgaria }]
-      operators: [{ id: bdz, label: BDŽ }]
-    b:
-      countries: [{ id: serbia }]
-      operators: [{ id: sv, label: SV }]
-    points:
-      - "Dimitrovgrad (fr) (Bulgarian: Цариброд, Tsaribrod)"
-
-  - id: cz-pl
-    a:
-      countries: [{ id: czechia }]
-      operators: [{ id: cd, label: ČD }]
-    b:
-      countries: [{ id: poland }]
-      operators:
-        [{ id: pkp, label: PKP }, { id: kd, label: KD }, { id: ks, label: KŚ }]
-    points:
-      - "Bohumín (Gr)"
-      - "Český Těšín (Gr)"
-      - "Głuchołlazy (Gr) (Czech: Hlucholazy)"
-      - "Harrachov (Gr)"
-      - "Lichkov (Gr) (Plhy City)"
-      - "Zebrzydowice (Gr)"
-      - "Schlesische Woiwodschaft (Silesian Voivodeship)"
-
-  - id: cz-sk
-    a:
-      countries: [{ id: czechia }]
-      operators: [{ id: cd, label: ČD }]
-    b:
-      countries: [{ id: slovakia }]
-      operators: [{ id: zssk, label: ZSSK / ŽSR }]
-    points:
-      - "Čadca (Gr)"
-      - "Hodonín (Gr)"
-      - "Horní Lideč (Gr)"
-      - "Kúty (Gr)"
-      - "Myjava (Gr)"
-      - "Nemšová (Gr)"
-      - "Skalica na Slovensku (Gr)"
-
-  - id: cz-de
-    sort: true
-    a:
-      countries: [{ id: czechia }]
-      operators: [{ id: cd, label: ČD }]
-    b:
-      countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
-    points:
-      - "Selb-Plößberg(Gr) / Aš (Gr)"
-      - "Bayerisch Eisenstein (Czech: Bavorská Železná ruda)"
-      - "Cheb (Gr)"
-      - "Sebnitz (Gr) / Dolní Poustevna (Gr)"
-      - "Furth i Wald (Gr)"
-      - "Zittau (Gr)"
-      - "Potucky (ČD)"
-      - "Schöna (Gr)"
-      - "Rumburk (Gr)"
-      - "Vejprty (Gr)"
-      - "Vojtanov (Gr)"
-      - "Kraslice (Gr)"
-      - "Waidhaus (Gr)"
-
-  - id: dk-se
-    a:
-      countries: [{ id: denmark }]
-      operators: [{ id: dsb, label: DSB }]
-    b:
-      countries: [{ label: Sweden }]
-      operators: [{ label: SJ }]
-    points:
-      - "Helsingborg (via Helsingør)"
-
-  - id: dk-de
-    a:
-      countries: [{ id: denmark }]
-      operators: [{ id: dsb, label: DSB }]
-    b:
-      countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
-    points:
-      - "Flensburg (Gr)"
-      - "Puttgarden (MS) (via Rødby Faerge)"
-      - "Tønder (Gr)"
-      - "Warnemünde (via Gedser)"
-
-  - id: de-se
-    a:
-      countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
-    b:
-      countries: [{ label: Sweden }]
-      operators: [{ label: SJ }]
-    points:
-      - "Lübeck-Travemünde Hafen"
-      - "Lübeck-Travemünde Skandinavienkai"
-      - "Sassnitz (Gr)"
-
-  - id: de-pl
-    sort: true
-    a:
-      countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
-    b:
-      countries: [{ id: poland }]
-      operators: [{ id: pkp, label: PKP }]
-    points:
-      - "Ahlbeck (Gr)"
-      - "Forst (Gr)"
-      - "Frankfurt(Oder) (Gr)"
-      - "Grambow (Gr)"
-      - "Gubin (Gr)"
-      - "Horka (Gr)"
-      - "Kostrzyn (Gr)"
-      - "Tantow (Gr)"
-      - "Zgorzelec (Gr)"
-
-  - id: de-bsb
-    a:
-      countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
-    b:
-      operators: [{ id: bsb, label: BSB }]
-    points:
-      - "Friedrichshafen"
-      - "Langenargen"
-      - "Lindau"
-      - "Konstanz"
-      - "Radolfzell"
-      - "Schaffhausen"
-      - "Überlingen"
-
-  - id: de-ch
-    a:
-      countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
-    b:
-      countries: [{ id: switzerland }]
-      operators:
-        [
-          { id: sbb, label: SBB },
-          { id: bls, label: BLS },
-          { id: sp, label: SP },
-        ]
-    points:
-      - "Basel Bad Bf"
-      - "Konstanz"
-      - "Schaffhausen"
-      - "Waldshut"
-
-  - id: de-fr
-    a:
-      countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
-    b:
-      countries: [{ id: france }]
-      operators: [{ id: sncf, label: SNCF }]
-    points:
-      - "Apach (fr)"
-      - "Forbach (fr)"
-      - "Hanweiler (Gr)"
-      - "Kehl (Gr)"
-      - "Lauterbourg (fr)"
-      - "Neuenburg (Bd) (Gr)"
-      - "Wissembourg (fr)"
-
-  - id: de-lu
-    a:
-      countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
-    b:
-      countries: [{ id: luxembourg }]
-      operators: [{ id: cfl, label: CFL }]
-    points:
-      - "Igel (Gr)"
-
-  - id: de-eurostar
-    a:
-      countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
-    b:
-      operators: [{ id: eurostar, label: Eurostar }]
-    points:
-      - "Aachen"
-      - "Duisburg"
-      - "Düsseldorf"
-      - "Düsseldorf Airport"
-      - "Essen"
-      - "Cologne"
-
-  - id: de-nl
-    a:
-      countries: [{ id: germany }]
-      operators: [{ id: db, label: DB }]
-    b:
-      countries: [{ id: netherlands }]
-      operators: [{ id: ns, label: NS }]
-    points:
-      - "Bad Bentheim (Gr)"
-      - "Emmerich (Gr)"
-      - "Gronau (Westf) (Gr)"
-      - "Herzogenrath (Gr)"
-      - "Venlo (Gr)"
-      - "Weener (Gr)"
-
-  - id: gr-mk
-    a:
-      countries: [{ id: greece }]
-      operators: [{ id: ht, label: Hellenic Train }]
-    b:
-      countries: [{ label: North Macedonia }]
-      operators: [{ label: ŽRSM }]
-    points:
-      - "Gevgelija (fr)"
-
-  - id: gr-tr
-    a:
-      countries: [{ id: greece }]
-      operators: [{ id: ht, label: Hellenic Train }]
-    b:
-      countries: [{ label: Turkey }]
-      operators: [{ label: TCDD }]
-    points:
-      - "Pythio (Πύθιο)"
-
-  - id: gr-it
-    a:
-      countries: [{ id: greece }]
-      operators: [{ id: attica, label: Attica }]
-    b:
-      countries: [{ id: italy }]
-      operators: [{ id: attica, label: Attica }]
-    points:
-      - "Patras (Πάτρα) [>Ancona, >Bari]"
-      - "Ancona [>Igoumenitsa, >Patras]"
-      - "Bari [>Igoumenitsa, >Patras]"
-
-  - id: hu-sk-mav
-    a:
-      countries: [{ id: hungary }]
-      operators: [{ id: mav, label: MÁV }]
-    b:
-      countries: [{ id: slovakia }]
-      operators: [{ id: zssk, label: ZSSK / ŽSR }]
-    points:
-      - "Bánréve (Gr)"
-      - "Čaňa (Gr)"
-      - "Fiľakovo (Gr)"
-      - "Komárom (Gr)"
-      - "Sátoraljaújhely (Gr)"
-      - "Szob (Gr)"
-
-  - id: hu-sk-gysev
-    a:
-      countries: [{ id: hungary }]
-      operators: [{ id: gysev, label: GySEV }]
-    b:
-      countries: [{ id: slovakia }]
-      operators: [{ id: gysev, label: GySEV }]
-    points:
-      - "Rajka (Gr)"
-
-  - id: hu-ua
-    a:
-      countries: [{ id: hungary }]
-      operators: [{ id: mav, label: MÁV }]
-    b:
-      countries: [{ label: Ukraine }]
-      operators: [{ label: UZ }]
-    points:
-      - "Záhony (Gr)"
-
-  - id: hu-ro
-    a:
-      countries: [{ id: hungary }]
-      operators: [{ id: mav, label: MÁV }]
-    b:
-      countries: [{ id: romania }]
-      operators: [{ id: cfr, label: CFR }]
-    points:
-      - "Biharkeresztes (fr)"
-      - "Curtici (fr) (Hungarian: Kürtös)"
-      - "Nyirábrány (fr)"
-      - "Salonta (fr) (Hungarian: Nagyszalonta, Szalonta)"
-
-  - id: hu-rs
-    a:
-      countries: [{ id: hungary }]
-      operators: [{ id: mav, label: MÁV }]
-    b:
-      countries: [{ id: serbia }]
-      operators: [{ id: sv, label: SV }]
-    points:
-      - "Röszke (Gr)"
-      - "Subotica (Gr)"
-
-  - id: hu-hr
-    a:
-      countries: [{ id: hungary }]
-      operators: [{ id: mav, label: MÁV }]
-    b:
-      countries: [{ label: Croatia }]
-      operators: [{ label: HŽ }]
-    points:
-      - "Koprivnica (Gr)"
-      - "Kotoriba (Gr)"
-      - "Magyarbóly (Gr)"
-
-  - id: hu-si
-    a:
-      countries: [{ id: hungary }]
-      operators: [{ id: mav, label: MÁV }, { id: gysev, label: GySEV }]
-    b:
-      countries: [{ id: slovenia }]
-      operators: [{ id: sz, label: SŽ }]
-    points:
-      - "Hodoš (Gr) (Őrihodos)"
-
-  - id: ie-gb-rail
-    a:
-      countries: [{ id: ireland }]
-      operators: [{ id: cie, label: CIE }]
-    b:
-      countries: [{ id: united-kingdom }]
-      operators: [{ id: nir, label: NIR }]
-    points:
-      - "Dundalk"
-
-  - id: ie-gb-sll
-    a:
-      countries: [{ id: ireland }]
-      operators: [{ id: sll, label: Stena Line Limited }]
-    b:
-      countries: [{ id: united-kingdom }]
-      operators: [{ id: sll, label: Stena Line Limited }]
-    points:
-      - "Dublin Bay / Holyhead"
-      - "Rosslare / Fishguard"
-
-  - id: it-si
-    a:
-      countries: [{ id: italy }]
-      operators: [{ id: fs, label: FS }]
-    b:
-      countries: [{ id: slovenia }]
-      operators: [{ id: sz, label: SŽ }]
-    points:
-      - "Nova Gorica (fr)"
-      - "Villa Opicina (fr) (Slovenian: Opčine, Triestine: Opcina)"
-
-  - id: fr-it
-    a:
-      countries: [{ id: france }]
-      operators: [{ id: sncf, label: SNCF }]
-    b:
-      countries: [{ id: italy }]
-      operators: [{ id: fs, label: FS }]
-    points:
-      - "Limone-Confine"
-      - "Modane (fr)"
-      - "Piene (fr)"
-      - "Ventimiglia (fr)"
-
-  - id: it-ch
-    sort: true
-    a:
-      countries: [{ id: italy }]
-      operators: [{ id: fs, label: FS }]
-    b:
-      countries: [{ id: switzerland }]
-      operators:
-        [
-          { id: sbb, label: SBB },
-          { id: bls, label: BLS },
-          { id: sp, label: SP },
-        ]
-    points:
-      - "Chiasso"
-      - "Domodossola"
-      - "Iselle transito [> Brig]"
-      - "Iselle di Trasquera [> Domodossola]"
-      - "Domodossola [> Locarno]"
-      - "Locarno [> Domodossola]"
-      - "Porto Ceresio [> Lugano]"
-      - "Lugano [> Porto Ceresio]"
-      - "Pino transito"
-      - "Tirano"
-
-  - id: fr-ch
-    a:
-      countries: [{ id: france }]
-      operators: [{ id: sncf, label: SNCF }]
-    b:
-      countries: [{ id: switzerland }]
-      operators:
-        [
-          { id: sbb, label: SBB },
-          { id: bls, label: BLS },
-          { id: sp, label: SP },
-        ]
-    points:
-      - "Annemasse"
-      - "Basel SBB"
-      - "Delle (fr)"
-      - "Genève [> Bellegarde]"
-      - "Le Châtelard-Frontière (fr)"
-      - "Le Locle-Col-des-Roches"
-      - "Les Verrières (fr)"
-      - "Vallorbe"
-
-  - id: lu-fr
-    a:
-      countries: [{ id: luxembourg }]
-      operators: [{ id: cfl, label: CFL }]
-    b:
-      countries: [{ id: france }]
-      operators: [{ id: sncf, label: SNCF }]
-    points:
-      - "Bettembourg (fr)"
-      - "Rodange (fr)"
-
-  - id: es-fr
-    a:
-      countries: [{ id: spain }]
-      operators: [{ id: renfe, label: Renfe }]
-    b:
-      countries: [{ id: france }]
-      operators: [{ id: sncf, label: SNCF }]
-    points:
-      - "Canfranc (fr)"
-      - "Hendaye (fr)"
-      - "Port Bou (fr)"
-      - "La Tour-de-Carol-Enveitg"
-
-  - id: fr-eurostar
-    a:
-      countries: [{ id: france }]
-      operators: [{ id: sncf, label: SNCF }]
-    b:
-      operators: [{ id: eurostar, label: Eurostar }]
-    points:
-      - "Paris"
-      - "Lille"
-
-  - id: gb-eurostar
-    a:
-      countries: [{ id: united-kingdom }]
-      operators: [{ id: gb, label: National Rail }]
-    b:
-      countries: [{ id: france }, { id: belgium }, { id: netherlands }]
-      operators: [{ id: eurostar, label: Eurostar }]
-    points:
-      - "London St. Pancras International"
-
-  - id: nl-gb-stl
-    a:
-      countries: [{ id: netherlands }]
-      operators: [{ id: stl, label: Stena Line BV }]
-    b:
-      countries: [{ id: united-kingdom }]
-      operators: [{ id: stl, label: Stena Line BV }]
-    points:
-      - "Hoek van Holland / Harwich P.Q."
-
-  - id: gb-gb-sll
-    a:
-      countries: [{ id: united-kingdom }]
-      operators: [{ id: sll, label: Stena Line Limited }]
-    b:
-      countries: [{ id: united-kingdom }]
-      operators: [{ id: sll, label: Stena Line Limited }]
-    points:
-      - "Cairnryan"
-      - "Liverpool"
-      - "Belfast"
-
-  - id: lv-ee
-    a:
-      countries: [{ id: latvia }]
-      operators: [{ label: LDz }]
-    b:
-      countries: [{ label: Estonia }]
-    points:
-      - "Valga"
-
-  - id: lv-ru
-    a:
-      countries: [{ id: latvia }]
-      operators: [{ label: LDz }]
-    b:
-      countries: [{ label: Russia }]
-    points:
-      - "Border closed"
-
-  - id: lv-by
-    a:
-      countries: [{ id: latvia }]
-      operators: [{ label: LDz }]
-    b:
-      countries: [{ label: Belarus }]
-    points:
-      - "Border closed"
-
-  - id: lv-lt
-    a:
-      countries: [{ id: latvia }]
-      operators: [{ label: LDz }]
-    b:
-      countries: [{ id: lithuania }]
-      operators: [{ id: ltg, label: LTG-Link }]
-    points:
-      - "Joniškis"
-
-  - id: lt-by
-    a:
-      countries: [{ id: lithuania }]
-      operators: [{ id: ltg, label: LTG-Link }]
-    b:
-      countries: [{ label: Belarus }]
-    points:
-      - "Border closed"
-
-  - id: lt-pl
-    a:
-      countries: [{ id: lithuania }]
-      operators: [{ id: ltg, label: LTG-Link }]
-    b:
-      countries: [{ id: poland }]
-      operators: [{ id: pkp, label: PKP }]
-    points:
-      - "Mockava (Gr)"
-
-  - id: lt-ru
-    a:
-      countries: [{ id: lithuania }]
-      operators: [{ id: ltg, label: LTG-Link }]
-    b:
-      countries: [{ label: Russia }]
-    points:
-      - "No boarding/alighting in transit traffic Russia-Belarus-Lithuania-Kaliningrad"
-
-  - id: me-rs
-    a:
-      countries: [{ id: montenegro }]
-      operators: [{ id: zpcg, label: ŽPCG }]
-    b:
-      countries: [{ id: serbia }]
-      operators: [{ id: sv, label: SV }]
-    points:
-      - "Bijelo Polje (Gr)"
-
-  - id: no-se
-    a:
-      countries: [{ id: norway }]
-      operators: [{ id: vy, label: Vy }]
-    b:
-      countries: [{ label: Sweden }]
-      operators: [{ label: SJ }]
-    points:
-      - "Bjørnfjell (Gr)"
-      - "Halden (Kornsjø (Gr))"
-      - "Kongsvinger (Charlottenberg (Gr))"
-      - "Storlien"
-
-  - id: pl-ru
-    a:
-      countries: [{ id: poland }]
-      operators: [{ id: pkp, label: PKP }]
-    b:
-      countries: [{ label: Russia }]
-      operators: [{ label: RZD }]
-    points:
-      - "Braniewo (Gr)"
-
-  - id: pl-by
-    a:
-      countries: [{ id: poland }]
-      operators: [{ id: pkp, label: PKP }]
-    b:
-      countries: [{ label: Belarus }]
-      operators: [{ label: BC }]
-    points:
-      - "Brest (Gr) (Брэст)"
-      - "Bruzgi / Bruzhi (Gr)"
-      - "Czeremcha (Gr) (Podlaskie Voivodeship)"
-
-  - id: pl-ua
-    a:
-      countries: [{ id: poland }]
-      operators: [{ id: pkp, label: PKP }]
-    b:
-      countries: [{ label: Ukraine }]
-      operators: [{ label: UZ }]
-    points:
-      - "Jagodin (Gr) (Yahodyn, Yagodyn or Ягодин)"
-      - "Medyka (Gr)"
-
-  - id: pl-sk
-    a:
-      countries: [{ id: poland }]
-      operators: [{ id: pkp, label: PKP }]
-    b:
-      countries: [{ id: slovakia }]
-      operators: [{ id: zssk, label: ZSSK / ŽSR }]
-    points:
-      - "Lupkow (Gr)"
-
-  - id: ro-ua
-    a:
-      countries: [{ id: romania }]
-      operators: [{ id: cfr, label: CFR }]
-    b:
-      countries: [{ label: Ukraine }]
-      operators: [{ label: UZ }]
-    points:
-      - "Vicsani (fr)"
-
-  - id: ro-md
-    a:
-      countries: [{ id: romania }]
-      operators: [{ id: cfr, label: CFR }]
-    b:
-      countries: [{ label: Moldova }]
-      operators: [{ label: CFM }]
-    points:
-      - "Iasi"
-      - "Ungheni (fr)"
-
-  - id: ro-rs
-    a:
-      countries: [{ id: romania }]
-      operators: [{ id: cfr, label: CFR }]
-    b:
-      countries: [{ id: serbia }]
-      operators: [{ id: sv, label: SV }]
-    points:
-      - "Jimbolia (fr) (Serbian: Жомбољ)"
-      - "Vršac (fr) (Serbian: Вршац)"
-
-  - id: rs-mk
-    a:
-      countries: [{ id: serbia }]
-      operators: [{ id: sv, label: SV }]
-    b:
-      countries: [{ label: North Macedonia }]
-      operators: [{ label: ŽRSM }]
-    points:
-      - "Tabanovci (fr) (Serbian: Табановце; Albanian: Tabanoc)"
-
-  - id: rs-hr
-    a:
-      countries: [{ id: serbia }]
-      operators: [{ id: sv, label: SV }]
-    b:
-      countries: [{ label: Croatia }]
-      operators: [{ label: HŽ }]
-    points:
-      - "Erdut (Gr) (Serbian: Ердут)"
-      - "Šid (Gr) (Serbian: Шид)"
-
-  - id: si-hr
-    a:
-      countries: [{ id: slovenia }]
-      operators: [{ id: sz, label: SŽ }]
-    b:
-      countries: [{ label: Croatia }]
-      operators: [{ label: HŽ }]
-    points:
-      - "Buzet (Gr)"
-      - "Čakovec (Gr)"
-      - "Dobova (Gr)"
-      - "Kumrovec (Gr)"
-      - "Metlika (Gr)"
-      - "Mursko Središće (Gr)"
-      - "Rogatec (Gr)"
-      - "Šapjane (Gr)"
-
-  - id: pt-es
-    a:
-      countries: [{ id: portugal }]
-      operators: [{ id: cp, label: CP }]
-    b:
-      countries: [{ id: spain }]
-      operators: [{ id: renfe, label: Renfe }]
-    points:
-      - "Badajoz (fr)"
-      - "Barca de Alva (fr)"
-      - "Fuentes de Oñoro (fr)"
-      - "Valença (fr)"
-      - "Valencia de Alcántara (fr)"
-      - "V. Real de Sto António Guardiana [> Ayamonte]"
+- id: at-cz
+  a:
+    country:
+      id: austria
+    operators:
+      - id: oebb
+  b:
+    country:
+      id: czechia
+    operators:
+      - id: cd
+  points:
+    - Bernhardsthal (GR) / Břeclav (Gr)
+    - Unterretzbach (Gr) / Retz (Gr)
+    - Gmünd (Gr) / Česká Skalice (Gr)
+    - Summerau (Gr) / Horní Dvořiště (Gr)
+- id: at-sk
+  a:
+    country:
+      id: austria
+    operators:
+      - id: oebb
+  b:
+    country:
+      id: slovakia
+    operators:
+      - id: zssk
+  points:
+    - Marchegg (Gr)
+    - Kittsee (Gr)
+- id: at-hu-gysev
+  a:
+    country:
+      id: austria
+    operators:
+      - id: gysev
+  b:
+    country:
+      id: hungary
+    operators:
+      - id: gysev
+  points:
+    - Pamhagen (Gr)
+    - Szentgotthárd
+    - Sopron
+- id: at-hu-mav
+  a:
+    country:
+      id: austria
+    operators:
+      - id: oebb
+  b:
+    country:
+      id: hungary
+    operators:
+      - id: mav
+  points:
+    - Hegyeshalom (Gr)
+    - Sopron
+- id: at-si
+  a:
+    country:
+      id: austria
+    operators:
+      - id: oebb
+  b:
+    country:
+      id: slovenia
+    operators:
+      - id: sz
+  points:
+    - "Bleiburg (Gr) (Slovenian: Pliberk)"
+    - "Rosenbach (Gr) / Jesenice (Gr) (German: Assling)"
+    - "Spielfeld-Strass (Gr) / Spielfeld (Gr) (Slovenian: Špilje)"
+- id: at-it
+  a:
+    country:
+      id: austria
+    operators:
+      - id: oebb
+  b:
+    country:
+      id: italy
+    operators:
+      - id: fs
+  points:
+    - Brennero/Brenner
+    - San Candido/Innichen
+    - Tarvisio Boscoverde
+- id: at-ch
+  a:
+    country:
+      id: austria
+    operators:
+      - id: oebb
+  b:
+    country:
+      id: switzerland
+    operators:
+      - id: sbb
+  points:
+    - Buchs SG
+    - St. Margrethen
+- id: at-de
+  a:
+    country:
+      id: austria
+    operators:
+      - id: oebb
+  b:
+    country:
+      id: germany
+    operators:
+      - id: db
+  points:
+    - Kufstein
+    - Lindau-Reutin
+    - Mittenwald (Gr)
+    - Passau Hbf
+    - Salzburg Hbf (local trains to Salzburg Liefering)
+    - Simbach am Inn
+- id: be-nl
+  a:
+    country:
+      id: belgium
+    operators:
+      - id: sncb
+  b:
+    country:
+      id: netherlands
+    operators:
+      - id: ns
+  points:
+    - Roosendaal (fr)
+    - Visé (fr)
+- id: be-de
+  a:
+    country:
+      id: belgium
+    operators:
+      - id: sncb
+  b:
+    country:
+      id: germany
+    operators:
+      - id: db
+  points:
+    - Aachen Süd (Gr)
+- id: be-lu
+  a:
+    country:
+      id: belgium
+    operators:
+      - id: sncb
+  b:
+    country:
+      id: luxembourg
+    operators:
+      - id: cfl
+  points:
+    - Athus
+    - Gouvy (fr)
+    - Sterpenich (fr)
+- id: be-fr
+  a:
+    country:
+      id: belgium
+    operators:
+      - id: sncb
+  b:
+    country:
+      id: france
+    operators:
+      - id: sncf
+  points:
+    - Blandain (fr)
+    - Givet (fr)
+    - Jeumont (fr)
+    - Quévy (fr)
+    - Tourcoing (fr)
+- id: ba-hr
+  a:
+    country:
+      id: bosnia-and-herzegovina
+    operators:
+      - id: zfbh
+      - id: zrs
+  b:
+    country:
+      label: Croatia
+    operators:
+      - label: HŽ
+  points:
+    - Brčko (Gr)
+    - Martin Brod (Gr)
+    - Metković (Gr)
+    - Slavonski Šamac (Gr)
+    - Volinja (Gr)
+- id: ba-rs
+  a:
+    country:
+      id: bosnia-and-herzegovina
+    operators:
+      - id: zfbh
+      - id: zrs
+  b:
+    country:
+      id: serbia
+    operators:
+      - id: sv
+  points:
+    - Zvornik
+- id: bg-ro
+  a:
+    country:
+      id: bulgaria
+    operators:
+      - id: bdz
+  b:
+    country:
+      id: romania
+    operators:
+      - id: cfr
+  points:
+    - "Ruse (fr) (Bulgarian: Русе)"
+    - Vidin (fr)
+- id: bg-tr
+  a:
+    country:
+      id: bulgaria
+    operators:
+      - id: bdz
+  b:
+    country:
+      label: Turkey
+    operators:
+      - label: TCDD
+  points:
+    - Kapikule (fr)
+- id: bg-gr
+  a:
+    country:
+      id: bulgaria
+    operators:
+      - id: bdz
+  b:
+    country:
+      id: greece
+    operators:
+      - id: ht
+  points:
+    - "Kulata (fr) (Bulgarian: Кулата)"
+    - "Svilengrad (fr) (Bulgarian: Свиленград)"
+- id: bg-rs
+  a:
+    country:
+      id: bulgaria
+    operators:
+      - id: bdz
+  b:
+    country:
+      id: serbia
+    operators:
+      - id: sv
+  points:
+    - "Dimitrovgrad (fr) (Bulgarian: Цариброд, Tsaribrod)"
+- id: cz-pl
+  a:
+    country:
+      id: czechia
+    operators:
+      - id: cd
+  b:
+    country:
+      id: poland
+    operators:
+      - id: pkp
+      - id: kd
+      - id: ks
+  points:
+    - Bohumín (Gr)
+    - Český Těšín (Gr)
+    - "Głuchołlazy (Gr) (Czech: Hlucholazy)"
+    - Harrachov (Gr)
+    - Lichkov (Gr) (Plhy City)
+    - Zebrzydowice (Gr)
+    - Schlesische Woiwodschaft (Silesian Voivodeship)
+- id: cz-sk
+  a:
+    country:
+      id: czechia
+    operators:
+      - id: cd
+  b:
+    country:
+      id: slovakia
+    operators:
+      - id: zssk
+  points:
+    - Čadca (Gr)
+    - Hodonín (Gr)
+    - Horní Lideč (Gr)
+    - Kúty (Gr)
+    - Myjava (Gr)
+    - Nemšová (Gr)
+    - Skalica na Slovensku (Gr)
+- id: cz-de
+  a:
+    country:
+      id: czechia
+    operators:
+      - id: cd
+  b:
+    country:
+      id: germany
+    operators:
+      - id: db
+  points:
+    - "Bayerisch Eisenstein (Czech: Bavorská Železná ruda)"
+    - Cheb (Gr)
+    - Furth i Wald (Gr)
+    - Kraslice (Gr)
+    - Potucky (ČD)
+    - Rumburk (Gr)
+    - Schöna (Gr)
+    - Sebnitz (Gr) / Dolní Poustevna (Gr)
+    - Selb-Plößberg(Gr) / Aš (Gr)
+    - Vejprty (Gr)
+    - Vojtanov (Gr)
+    - Waidhaus (Gr)
+    - Zittau (Gr)
+- id: dk-se
+  a:
+    country:
+      id: denmark
+    operators:
+      - id: dsb
+  b:
+    country:
+      label: Sweden
+    operators:
+      - label: SJ
+  points:
+    - Helsingborg (via Helsingør)
+- id: dk-de
+  a:
+    country:
+      id: denmark
+    operators:
+      - id: dsb
+  b:
+    country:
+      id: germany
+    operators:
+      - id: db
+  points:
+    - Flensburg (Gr)
+    - Puttgarden (MS) (via Rødby Faerge)
+    - Tønder (Gr)
+    - Warnemünde (via Gedser)
+- id: de-se
+  a:
+    country:
+      id: germany
+    operators:
+      - id: db
+  b:
+    country:
+      label: Sweden
+    operators:
+      - label: SJ
+  points:
+    - Lübeck-Travemünde Hafen
+    - Lübeck-Travemünde Skandinavienkai
+    - Sassnitz (Gr)
+- id: de-pl
+  a:
+    country:
+      id: germany
+    operators:
+      - id: db
+  b:
+    country:
+      id: poland
+    operators:
+      - id: pkp
+  points:
+    - Ahlbeck (Gr)
+    - Forst (Gr)
+    - Frankfurt(Oder) (Gr)
+    - Grambow (Gr)
+    - Gubin (Gr)
+    - Horka (Gr)
+    - Kostrzyn (Gr)
+    - Tantow (Gr)
+    - Zgorzelec (Gr)
+- id: de-bsb
+  a:
+    country:
+      id: germany
+    operators:
+      - id: db
+  b:
+    country:
+    operators:
+      - id: bsb
+  points:
+    - Friedrichshafen
+    - Langenargen
+    - Lindau
+    - Konstanz
+    - Radolfzell
+    - Schaffhausen
+    - Überlingen
+- id: de-ch
+  a:
+    country:
+      id: germany
+    operators:
+      - id: db
+  b:
+    country:
+      id: switzerland
+    operators:
+      - id: sbb
+      - id: bls
+      - id: sp
+  points:
+    - Basel Bad Bf
+    - Konstanz
+    - Schaffhausen
+    - Waldshut
+- id: de-fr
+  a:
+    country:
+      id: germany
+    operators:
+      - id: db
+  b:
+    country:
+      id: france
+    operators:
+      - id: sncf
+  points:
+    - Apach (fr)
+    - Forbach (fr)
+    - Hanweiler (Gr)
+    - Kehl (Gr)
+    - Lauterbourg (fr)
+    - Neuenburg (Bd) (Gr)
+    - Wissembourg (fr)
+- id: de-lu
+  a:
+    country:
+      id: germany
+    operators:
+      - id: db
+  b:
+    country:
+      id: luxembourg
+    operators:
+      - id: cfl
+  points:
+    - Igel (Gr)
+- id: de-eurostar
+  a:
+    country:
+      id: germany
+    operators:
+      - id: db
+  b:
+    country:
+    operators:
+      - id: eurostar
+  points:
+    - Aachen
+    - Duisburg
+    - Düsseldorf
+    - Düsseldorf Airport
+    - Essen
+    - Cologne
+- id: de-nl
+  a:
+    country:
+      id: germany
+    operators:
+      - id: db
+  b:
+    country:
+      id: netherlands
+    operators:
+      - id: ns
+  points:
+    - Bad Bentheim (Gr)
+    - Emmerich (Gr)
+    - Gronau (Westf) (Gr)
+    - Herzogenrath (Gr)
+    - Venlo (Gr)
+    - Weener (Gr)
+- id: gr-mk
+  a:
+    country:
+      id: greece
+    operators:
+      - id: ht
+  b:
+    country:
+      label: North Macedonia
+    operators:
+      - label: ŽRSM
+  points:
+    - Gevgelija (fr)
+- id: gr-tr
+  a:
+    country:
+      id: greece
+    operators:
+      - id: ht
+  b:
+    country:
+      label: Turkey
+    operators:
+      - label: TCDD
+  points:
+    - Pythio (Πύθιο)
+- id: gr-it
+  a:
+    country:
+      id: greece
+    operators:
+      - id: attica
+  b:
+    country:
+      id: italy
+    operators:
+      - id: attica
+  points:
+    - Patras (Πάτρα) [>Ancona, >Bari]
+    - Ancona [>Igoumenitsa, >Patras]
+    - Bari [>Igoumenitsa, >Patras]
+- id: hu-sk-mav
+  a:
+    country:
+      id: hungary
+    operators:
+      - id: mav
+  b:
+    country:
+      id: slovakia
+    operators:
+      - id: zssk
+  points:
+    - Bánréve (Gr)
+    - Čaňa (Gr)
+    - Fiľakovo (Gr)
+    - Komárom (Gr)
+    - Sátoraljaújhely (Gr)
+    - Szob (Gr)
+- id: hu-sk-gysev
+  a:
+    country:
+      id: hungary
+    operators:
+      - id: gysev
+  b:
+    country:
+      id: slovakia
+    operators:
+      - id: gysev
+  points:
+    - Rajka (Gr)
+- id: hu-ua
+  a:
+    country:
+      id: hungary
+    operators:
+      - id: mav
+  b:
+    country:
+      label: Ukraine
+    operators:
+      - label: UZ
+  points:
+    - Záhony (Gr)
+- id: hu-ro
+  a:
+    country:
+      id: hungary
+    operators:
+      - id: mav
+  b:
+    country:
+      id: romania
+    operators:
+      - id: cfr
+  points:
+    - Biharkeresztes (fr)
+    - "Curtici (fr) (Hungarian: Kürtös)"
+    - Nyirábrány (fr)
+    - "Salonta (fr) (Hungarian: Nagyszalonta, Szalonta)"
+- id: hu-rs
+  a:
+    country:
+      id: hungary
+    operators:
+      - id: mav
+  b:
+    country:
+      id: serbia
+    operators:
+      - id: sv
+  points:
+    - Röszke (Gr)
+    - Subotica (Gr)
+- id: hu-hr
+  a:
+    country:
+      id: hungary
+    operators:
+      - id: mav
+  b:
+    country:
+      label: Croatia
+    operators:
+      - label: HŽ
+  points:
+    - Koprivnica (Gr)
+    - Kotoriba (Gr)
+    - Magyarbóly (Gr)
+- id: hu-si
+  a:
+    country:
+      id: hungary
+    operators:
+      - id: mav
+      - id: gysev
+  b:
+    country:
+      id: slovenia
+    operators:
+      - id: sz
+  points:
+    - Hodoš (Gr) (Őrihodos)
+- id: ie-gb-rail
+  a:
+    country:
+      id: ireland
+    operators:
+      - id: cie
+  b:
+    country:
+      id: united-kingdom
+    operators:
+      - id: nir
+  points:
+    - Dundalk
+- id: ie-gb-sll
+  a:
+    country:
+      id: ireland
+    operators:
+      - id: sll
+  b:
+    country:
+      id: united-kingdom
+    operators:
+      - id: sll
+  points:
+    - Dublin Bay / Holyhead
+    - Rosslare / Fishguard
+- id: it-si
+  a:
+    country:
+      id: italy
+    operators:
+      - id: fs
+  b:
+    country:
+      id: slovenia
+    operators:
+      - id: sz
+  points:
+    - Nova Gorica (fr)
+    - "Villa Opicina (fr) (Slovenian: Opčine, Triestine: Opcina)"
+- id: fr-it
+  a:
+    country:
+      id: france
+    operators:
+      - id: sncf
+  b:
+    country:
+      id: italy
+    operators:
+      - id: fs
+  points:
+    - Limone-Confine
+    - Modane (fr)
+    - Piene (fr)
+    - Ventimiglia (fr)
+- id: it-ch
+  a:
+    country:
+      id: italy
+    operators:
+      - id: fs
+  b:
+    country:
+      id: switzerland
+    operators:
+      - id: sbb
+      - id: bls
+      - id: sp
+  points:
+    - Chiasso
+    - Domodossola
+    - Domodossola [> Locarno]
+    - Iselle di Trasquera [> Domodossola]
+    - Iselle transito [> Brig]
+    - Locarno [> Domodossola]
+    - Lugano [> Porto Ceresio]
+    - Pino transito
+    - Porto Ceresio [> Lugano]
+    - Tirano
+- id: fr-ch
+  a:
+    country:
+      id: france
+    operators:
+      - id: sncf
+  b:
+    country:
+      id: switzerland
+    operators:
+      - id: sbb
+      - id: bls
+      - id: sp
+  points:
+    - Annemasse
+    - Basel SBB
+    - Delle (fr)
+    - Genève [> Bellegarde]
+    - Le Châtelard-Frontière (fr)
+    - Le Locle-Col-des-Roches
+    - Les Verrières (fr)
+    - Vallorbe
+- id: lu-fr
+  a:
+    country:
+      id: luxembourg
+    operators:
+      - id: cfl
+  b:
+    country:
+      id: france
+    operators:
+      - id: sncf
+  points:
+    - Bettembourg (fr)
+    - Rodange (fr)
+- id: es-fr
+  a:
+    country:
+      id: spain
+    operators:
+      - id: renfe
+  b:
+    country:
+      id: france
+    operators:
+      - id: sncf
+  points:
+    - Canfranc (fr)
+    - Hendaye (fr)
+    - Port Bou (fr)
+    - La Tour-de-Carol-Enveitg
+- id: fr-eurostar
+  a:
+    country:
+      id: france
+    operators:
+      - id: sncf
+  b:
+    country:
+    operators:
+      - id: eurostar
+  points:
+    - Paris
+    - Lille
+- id: gb-eurostar
+  a:
+    country:
+      id: united-kingdom
+    operators:
+      - id: gb
+  b:
+    country:
+      id: france
+    operators:
+      - id: eurostar
+  points:
+    - London St. Pancras International
+- id: nl-gb-stl
+  a:
+    country:
+      id: netherlands
+    operators:
+      - id: stl
+  b:
+    country:
+      id: united-kingdom
+    operators:
+      - id: stl
+  points:
+    - Hoek van Holland / Harwich P.Q.
+- id: gb-gb-sll
+  a:
+    country:
+      id: united-kingdom
+    operators:
+      - id: sll
+  b:
+    country:
+      id: united-kingdom
+    operators:
+      - id: sll
+  points:
+    - Cairnryan
+    - Liverpool
+    - Belfast
+- id: lv-ee
+  a:
+    country:
+      id: latvia
+    operators:
+      - label: LDz
+  b:
+    country:
+      label: Estonia
+  points:
+    - Valga
+- id: lv-ru
+  a:
+    country:
+      id: latvia
+    operators:
+      - label: LDz
+  b:
+    country:
+      label: Russia
+  points:
+    - Border closed
+- id: lv-by
+  a:
+    country:
+      id: latvia
+    operators:
+      - label: LDz
+  b:
+    country:
+      label: Belarus
+  points:
+    - Border closed
+- id: lv-lt
+  a:
+    country:
+      id: latvia
+    operators:
+      - label: LDz
+  b:
+    country:
+      id: lithuania
+    operators:
+      - id: ltg
+  points:
+    - Joniškis
+- id: lt-by
+  a:
+    country:
+      id: lithuania
+    operators:
+      - id: ltg
+  b:
+    country:
+      label: Belarus
+  points:
+    - Border closed
+- id: lt-pl
+  a:
+    country:
+      id: lithuania
+    operators:
+      - id: ltg
+  b:
+    country:
+      id: poland
+    operators:
+      - id: pkp
+  points:
+    - Mockava (Gr)
+- id: lt-ru
+  a:
+    country:
+      id: lithuania
+    operators:
+      - id: ltg
+  b:
+    country:
+      label: Russia
+  points:
+    - No boarding/alighting in transit traffic Russia-Belarus-Lithuania-Kaliningrad
+- id: me-rs
+  a:
+    country:
+      id: montenegro
+    operators:
+      - id: zpcg
+  b:
+    country:
+      id: serbia
+    operators:
+      - id: sv
+  points:
+    - Bijelo Polje (Gr)
+- id: no-se
+  a:
+    country:
+      id: norway
+    operators:
+      - id: vy
+  b:
+    country:
+      label: Sweden
+    operators:
+      - label: SJ
+  points:
+    - Bjørnfjell (Gr)
+    - Halden (Kornsjø (Gr))
+    - Kongsvinger (Charlottenberg (Gr))
+    - Storlien
+- id: pl-ru
+  a:
+    country:
+      id: poland
+    operators:
+      - id: pkp
+  b:
+    country:
+      label: Russia
+    operators:
+      - label: RZD
+  points:
+    - Braniewo (Gr)
+- id: pl-by
+  a:
+    country:
+      id: poland
+    operators:
+      - id: pkp
+  b:
+    country:
+      label: Belarus
+    operators:
+      - label: BC
+  points:
+    - Brest (Gr) (Брэст)
+    - Bruzgi / Bruzhi (Gr)
+    - Czeremcha (Gr) (Podlaskie Voivodeship)
+- id: pl-ua
+  a:
+    country:
+      id: poland
+    operators:
+      - id: pkp
+  b:
+    country:
+      label: Ukraine
+    operators:
+      - label: UZ
+  points:
+    - Jagodin (Gr) (Yahodyn, Yagodyn or Ягодин)
+    - Medyka (Gr)
+- id: pl-sk
+  a:
+    country:
+      id: poland
+    operators:
+      - id: pkp
+  b:
+    country:
+      id: slovakia
+    operators:
+      - id: zssk
+  points:
+    - Lupkow (Gr)
+- id: ro-ua
+  a:
+    country:
+      id: romania
+    operators:
+      - id: cfr
+  b:
+    country:
+      label: Ukraine
+    operators:
+      - label: UZ
+  points:
+    - Vicsani (fr)
+- id: ro-md
+  a:
+    country:
+      id: romania
+    operators:
+      - id: cfr
+  b:
+    country:
+      label: Moldova
+    operators:
+      - label: CFM
+  points:
+    - Iasi
+    - Ungheni (fr)
+- id: ro-rs
+  a:
+    country:
+      id: romania
+    operators:
+      - id: cfr
+  b:
+    country:
+      id: serbia
+    operators:
+      - id: sv
+  points:
+    - "Jimbolia (fr) (Serbian: Жомбољ)"
+    - "Vršac (fr) (Serbian: Вршац)"
+- id: rs-mk
+  a:
+    country:
+      id: serbia
+    operators:
+      - id: sv
+  b:
+    country:
+      label: North Macedonia
+    operators:
+      - label: ŽRSM
+  points:
+    - "Tabanovci (fr) (Serbian: Табановце; Albanian: Tabanoc)"
+- id: rs-hr
+  a:
+    country:
+      id: serbia
+    operators:
+      - id: sv
+  b:
+    country:
+      label: Croatia
+    operators:
+      - label: HŽ
+  points:
+    - "Erdut (Gr) (Serbian: Ердут)"
+    - "Šid (Gr) (Serbian: Шид)"
+- id: si-hr
+  a:
+    country:
+      id: slovenia
+    operators:
+      - id: sz
+  b:
+    country:
+      label: Croatia
+    operators:
+      - label: HŽ
+  points:
+    - Buzet (Gr)
+    - Čakovec (Gr)
+    - Dobova (Gr)
+    - Kumrovec (Gr)
+    - Metlika (Gr)
+    - Mursko Središće (Gr)
+    - Rogatec (Gr)
+    - Šapjane (Gr)
+- id: pt-es
+  a:
+    country:
+      id: portugal
+    operators:
+      - id: cp
+  b:
+    country:
+      id: spain
+    operators:
+      - id: renfe
+  points:
+    - Badajoz (fr)
+    - Barca de Alva (fr)
+    - Fuentes de Oñoro (fr)
+    - Valença (fr)
+    - Valencia de Alcántara (fr)
+    - V. Real de Sto António Guardiana [> Ayamonte]

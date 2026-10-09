@@ -6,6 +6,9 @@ params:
     - Iryo
     - '[OUIGO](/operator/sncf#Fernverkehr "OUIGO")'
     - '[Avlo](/operator/renfe#langstrecke "Avlo")'
+  border_points:
+    - pt-es
+    - es-fr
 ---
 
 ## FIP Nutzung

@@ -1,5 +1,6 @@
 ---
 title: NIR
+shortName: NIR
 country:
   - united-kingdom
 operator: nir
