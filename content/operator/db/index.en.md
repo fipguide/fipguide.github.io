@@ -191,6 +191,21 @@ Some Nightjet services operate with [Intercity](#ic) coaches. These coaches may 
 
 {{% /train-category %}}
 
+{{% train-category
+    id="ferry"
+    title="Ferry Wangerooge – Harlesiel"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+DB Fernverkehr operates the ferry connection between Wangerooge and Harlesiel in the North Sea. FIP 50 Tickets and FIP Coupons are accepted for the crossing.
+
+Only long-distance tickets are valid, not local transport tickets such as the _Deutschlandticket_. This does not need to be considered when purchasing FIP 50 Tickets for this route, as they are always issued as long-distance tickets in this case. Further information in the section [Tariff Distinction between Local and Long-Distance Transport](#tariff-distinction-between-local-and-long-distance-transport).
+
+{{% /train-category %}}
+
 ### Local Transport
 
 Local trains are often operated by other companies that do not accept FIP. In the [DB journey planner](https://www.bahn.de), trains of all operators are listed. Only trains with _DB_ in the operator name in the _journey information_ can be used with FIP.
