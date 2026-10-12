@@ -231,6 +231,11 @@ FIP discounts also apply on buses operated by SNCF, except for long-distance bus
 
 Domestic journeys unfortunately cannot be purchased online.
 
+{{% booking id="sncf-website-fip-sncf"
+    subtitle="Only for SNCF employees"
+    fip_global_fare=nil
+/%}}
+
 {{% booking id="db-website-fip-db"
     subtitle="Cross-border FIP 50 Tickets for TGV/ICE and regional trains between Germany and France, with ticket valid only for the French section. Only for Deutsche Bahn employees."
     classes.first="nil"

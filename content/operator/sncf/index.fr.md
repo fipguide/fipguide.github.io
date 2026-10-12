@@ -231,6 +231,11 @@ Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sau
 
 Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
+{{% booking id="sncf-website-fip-sncf"
+    subtitle="Réservé aux agents de la SNCF"
+    fip_global_fare=nil
+/%}}
+
 {{% booking id="db-website-fip-db"
     subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE et trains régionaux entre l’Allemagne et la France, avec une part de billet uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."
     classes.first="nil"
