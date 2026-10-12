@@ -3,6 +3,8 @@ title: NS
 country:
   - netherlands
 operator: ns
+content_images:
+  - image.webp
 aliases:
   - /booking/ns-phone
   - /booking/ns-ticket-office
@@ -265,6 +267,18 @@ Ce n’est pas un billet, mais un badge d’accès, valable :
   - Jusqu’à 12 passages en tout par jour.
 
 Si nécessaire, un nouveau coupon d’accès peut être demandé au guichet NS.
+
+### Correspondances
+
+#### HOTNAT
+
+Si un train de correspondance est manqué dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle ou Zurich, HOTNAT peut être utilisé.
+
+Cet opérateur fait partie de HOTNAT (Hop on the Next Available Train). [Plus d’informations dans la FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 
 ## Recommandations
 
