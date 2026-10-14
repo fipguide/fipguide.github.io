@@ -34,8 +34,8 @@ InterCity Notte (ICN): € 25 (1st/2nd class, seat car)
 
 {{% /booking-section %}}
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 For short journeys on Le Frecce and other long-distance trains, the regular fare is cheaper than FIP reduced tickets.
 
 Additionally, supplements for Le Frecce and other long-distance trains can sometimes be more expensive than a FIP 50 Ticket.
-{{< /highlight >}}
+{{% /highlight %}}
