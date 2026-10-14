@@ -36,6 +36,8 @@ Innerhalb der Niederlande ist bei der NS keine Reservierung erforderlich und in 
 
 Zuschläge müssen teilweise für Eurocity Direct und Intercity Direct Züge gezahlt werden.
 
+test
+
 {{% train-category
     id="ice"
     title="Intercity-Express (ICE)"
@@ -88,7 +90,7 @@ Beispieltickets ohne Zuschlagspflicht:
 - Brüssel - Rotterdam
 - Breda - Rotterdam
 
-Der Zuschlag kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
+Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
 
 Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,92 € (40 % Rabatt) erwerben. [^1] [^2] [^3] [^4]
 {{< /highlight >}}
@@ -126,11 +128,18 @@ Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten
 Teilweise zuschlagspflichtiger Schnellzug zwischen Lelystad oder Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal und Breda.
 
 {{< highlight important >}}
+{{% float-image
+    src="toeslag-supplement.webp"
+    alt="Zuschlagsautomat am Schiphol Airport"
+    width="30%"
+    position="right"
+%}}
 Bei Fahrten auf dem Abschnitt zwischen Rotterdam und Schiphol ist für FIP 50 Tickets ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3,20 € zu entrichten.
 
 Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
 
-Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,92 € (40 % Rabatt) erwerben. [^1] [^2] [^3] [^4]
+Inhaber einer OV-Chipkarte, Debit- oder Kreditkarte [^7] können an roten Zuschlagsautomaten mit der Beschriftung "Toeslag / Zuschlag" im Bahnhof (siehe Bild rechts) zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,92 € (40 % Rabatt) erwerben. [^1] [^2] [^3] [^4]
+{{% /float-image %}}
 {{< /highlight >}}
 
 ![Intercity Direct Netz, Spag85, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg)](intercity-direct-map.webp)
@@ -166,6 +175,7 @@ Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Ver
 
 Eine Ausnahme gilt für den Dreiländerzug (Liège-Guillemins – Maastricht – Heerlen – Aachen): Zwischen Maastricht und Liège-Guillemins wird der Zug im Auftrag der NS und SNCB betrieben, NS/SNCB-Tickets einschließlich FIP bleiben gültig. Zwischen Maastricht und Aachen (über Heerlen) wird der Zug von Arriva betrieben und FIP ist nicht gültig.
 {{< /highlight >}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -244,11 +254,11 @@ FIP 50 Tickets können nicht im Zug gekauft werden. [^1]
 
 {{< children-discount >}}
 
-| Alter                                | Ermäßigung                                                                                 |
-| ------------------------------------ | ------------------------------------------------------------------------------------------ |
-| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos                                                                                  |
+| Alter | Ermäßigung |
+| --- | --- |
+| {{< icon "stroller" >}} 0–3 Jahre | Kostenlos |
 | {{< icon "child_care" >}} 4–11 Jahre | [Railrunner-Ticket](https://www.ns.nl/en/tickets/railrunner) für 2,50 € (ganztägig gültig) |
-| {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis                                                                            |
+| {{< icon "person" >}} ab 12 Jahre | Regulärer Preis |
 
 ### Kostenfreie Zeitkarte „Kids Vrij"
 
@@ -263,8 +273,8 @@ Dies ist kein Ticket, sondern ein Zugangspass, gültig für:
 
 - Bis zu 8 einzelne Tage innerhalb eines Zeitraums von 3 Monaten.
 - Pro Tag (von 00:00 bis 23:59):
-  - Bis zu 6 Ein- oder Ausgänge am selben Bahnhof.
-  - Insgesamt bis zu 12 Durchgänge pro Tag.
+    - Bis zu 6 Ein- oder Ausgänge am selben Bahnhof.
+    - Insgesamt bis zu 12 Durchgänge pro Tag.
 
 Falls benötigt, kann ein neuer Zugangscoupon am NS-Schalter angefordert werden.
 
@@ -299,3 +309,5 @@ Die NS überzeugt durch einen dichten Takt und guten Anschlüssen. Verspätungen
 [^5]: [FIP Guide Community: NS Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470489435937312788)
 
 [^6]: [FIP Guide Community: R-net NS Sprinter](https://discord.com/channels/1250522473188032512/1518627741459677204/1519419404272668733)
+
+[^7]: [NS Website: Check in and out with your debit card](https://www.ns.nl/en/travel/check-in-check-out/debit-card)

@@ -166,6 +166,7 @@ Trains of the Sneltrein / Regional-Express `RE` category, including the connecti
 
 An exception applies to the Three-Country Train (Liège-Guillemins – Maastricht – Heerlen – Aachen): between Maastricht and Liège-Guillemins, the train is operated on behalf of NS and SNCB, and NS/SNCB tickets including FIP remain valid. Between Maastricht and Aachen (via Heerlen), the train is operated by Arriva and FIP is not valid.
 {{< /highlight >}}
+
 {{% /train-category %}}
 
 {{% train-category
