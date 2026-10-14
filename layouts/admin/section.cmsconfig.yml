@@ -6,6 +6,8 @@ backend:
   open_authoring: true
   site_domain: fipguide.netlify.app
   preview_context: netlify/fipguide-test/deploy-preview
+  prompt_commit_messages: true
+  cms_label_prefix: cms/
 publish_mode: editorial_workflow
 app_title: "FIP Guide CMS"
 editor:
@@ -111,6 +113,10 @@ collections:
     folder: "content/news"
     path: "{{"{{"}}slug}}/index"
     preview_path: "{{"{{"}}locale}}/news/{{"{{"}}slug}}/"
+    slug:
+      editable: true
+      hint: "A sequential number used as the article slug, e.g. 1."
+      pattern: ["^[0-9]+$", "Must contain only numbers"]
     publish: false
     create: true
     delete: false
@@ -175,6 +181,7 @@ collections:
         i18n: true
         editor_components:
           - "image"
+          - "table"
           - "highlight"
           - "expander"
           - "button"
@@ -232,6 +239,7 @@ collections:
         i18n: true
         editor_components:
           - "image"
+          - "table"
           - "highlight"
           - "expander"
           - "button"
@@ -293,6 +301,7 @@ collections:
         i18n: true
         editor_components:
           - "image"
+          - "table"
           - "highlight"
           - "expander"
           - "fip-validity"
@@ -367,6 +376,7 @@ collections:
           {{"{{"}}< fip-validity-table type="fip-reduced-ticket" >}}
         editor_components:
           - "image"
+          - "table"
           - "highlight"
           - "expander"
           - "fip-validity-table"
@@ -695,6 +705,7 @@ collections:
           {{"{{"}}% /booking-section %}}
         editor_components:
           - "image"
+          - "table"
           - "highlight-raw"
           - "expander"
           - "booking-section"
@@ -730,6 +741,7 @@ collections:
             i18n: true
             editor_components:
               - "image"
+              - "table"
               - "highlight"
               - "expander"
               - "button"
@@ -769,6 +781,7 @@ collections:
             i18n: true
             editor_components:
               - "image"
+              - "table"
               - "highlight"
               - "expander"
               - "button"
@@ -808,6 +821,7 @@ collections:
             i18n: true
             editor_components:
               - "image"
+              - "table"
               - "highlight"
               - "expander"
               - "button"
@@ -838,6 +852,7 @@ collections:
         name: "weight"
         widget: "number"
         required: false
+        min: 0
         i18n: duplicate
       - label: "Body"
         name: "body"
@@ -845,6 +860,7 @@ collections:
         i18n: true
         editor_components:
           - "image"
+          - "table"
           - "highlight"
           - "expander"
           - "button"
@@ -887,6 +903,7 @@ collections:
         i18n: true
         editor_components:
           - "image"
+          - "table"
           - "highlight"
           - "expander"
           - "button"

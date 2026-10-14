@@ -174,7 +174,14 @@ var highlightFields = [
     name: "body",
     label: "Content",
     widget: "markdown",
-    editor_components: ["button", "float-image", "highlight", "icon", "image"],
+    editor_components: [
+      "button",
+      "float-image",
+      "highlight",
+      "icon",
+      "image",
+      "table",
+    ],
   },
 ];
 
@@ -246,6 +253,7 @@ var expanderFields = [
       "highlight-raw",
       "icon",
       "image",
+      "table",
     ],
   },
 ];
@@ -440,6 +448,7 @@ var trainCategoryFields = [
       "highlight-raw",
       "icon",
       "image",
+      "table",
     ],
   },
 ];
@@ -589,7 +598,7 @@ var bookingFields = [
     label: "Additional info",
     widget: "markdown",
     required: false,
-    editor_components: ["button", "float-image", "icon", "image"],
+    editor_components: ["button", "float-image", "icon", "image", "table"],
   },
 ];
 
@@ -652,6 +661,7 @@ var bookingSectionFields = [
       "highlight-raw",
       "icon",
       "image",
+      "table",
     ],
   },
 ];
@@ -744,7 +754,14 @@ var identifyOperatorFields = [
     label: "Additional info",
     widget: "markdown",
     required: false,
-    editor_components: ["button", "float-image", "highlight", "icon", "image"],
+    editor_components: [
+      "button",
+      "float-image",
+      "highlight",
+      "icon",
+      "image",
+      "table",
+    ],
   },
 ];
 
@@ -782,7 +799,7 @@ var satelliteFields = [
     label: "Additional info",
     widget: "markdown",
     required: false,
-    editor_components: ["button", "float-image", "icon", "image"],
+    editor_components: ["button", "float-image", "icon", "image", "table"],
   },
 ];
 
@@ -822,7 +839,14 @@ var dialogFields = [
     name: "body",
     label: "Content",
     widget: "markdown",
-    editor_components: ["button", "float-image", "highlight", "icon", "image"],
+    editor_components: [
+      "button",
+      "float-image",
+      "highlight",
+      "icon",
+      "image",
+      "table",
+    ],
   },
 ];
 
@@ -890,7 +914,7 @@ var floatImageFields = [
     label: "Surrounding text",
     widget: "markdown",
     required: false,
-    editor_components: ["button", "icon", "image"],
+    editor_components: ["button", "icon", "image", "table"],
   },
 ];
 
@@ -1009,7 +1033,14 @@ var updateFields = [
     name: "body",
     label: "Content",
     widget: "markdown",
-    editor_components: ["button", "float-image", "highlight", "icon", "image"],
+    editor_components: [
+      "button",
+      "float-image",
+      "highlight",
+      "icon",
+      "image",
+      "table",
+    ],
   },
 ];
 
@@ -1044,7 +1075,14 @@ var columnFields = [
     name: "body",
     label: "Content",
     widget: "markdown",
-    editor_components: ["button", "float-image", "highlight", "icon", "image"],
+    editor_components: [
+      "button",
+      "float-image",
+      "highlight",
+      "icon",
+      "image",
+      "table",
+    ],
   },
 ];
 
@@ -1073,7 +1111,7 @@ var columnsFields = [
     name: "body",
     label: "Content",
     widget: "markdown",
-    editor_components: ["column", "icon"],
+    editor_components: ["column"],
   },
 ];
 
