@@ -59,9 +59,9 @@ Der `TGV` inOui ist der Hochgeschwindigkeitszug von SNCF Voyageurs und verbindet
 
 Der Zugang zum Bahnsteig (bei Stationen mit Bahnsteigschranken) sowie zu den Zügen ist bis zwei Minuten vor der Abfahrt möglich. Die Türen schließen zwei Minuten vor Abfahrt des Zuges. Das Ticket sollte bereitgehalten werden, da das Zugpersonal diese vor dem Einstieg in den Zug kontrollieren könnte.[^7] In Deutschland gelten diese Regelungen nicht.[^8]
 
-{{< highlight confusion >}}
+{{< confusion france >}}
 Die SNCF betreibt auch Low-Cost-Fernzüge unter dem Namen OUIGO, diese sind jedoch nicht mit FIP nutzbar.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{< highlight important >}}
 Es gelten Besonderheiten für grenzüberschreitende Verbindungen, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
@@ -91,9 +91,9 @@ Der OUIGO (Grand Vitesse) ist der Low-Cost-Hochgeschwindigkeitszug der SNCF und 
 
 Der Zugang zum Zug ist fünf Minuten vor der Abfahrt nicht mehr gewährleistet.[^7]
 
-{{< highlight confusion >}}
+{{< confusion france >}}
 Die SNCF betreibt auch `TGV` Züge unter dem Namen inOui, welche mit FIP nutzbar sind.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -189,9 +189,9 @@ Auf einigen Linien von Paris aus gibt es eine Reservierungspflicht, siehe [Reser
 
 Der Zugang zum Bahnsteig (bei Stationen mit Bahnsteigschranken) sowie zu den Zügen ist bis zwei Minuten vor der Abfahrt möglich. Die Türen schließen zwei Minuten vor Abfahrt des Zuges. Das Ticket sollte bereitgehalten werden, da das Zugpersonal diese vor dem Einstieg in den Zug kontrollieren könnte.[^7]
 
-{{< highlight confusion >}}
+{{< confusion france >}}
 Auf der Strecke Marseille – Nice betreibt Transdev die Züge, weshalb FIP nicht akzeptiert wird. Auf der Strecke Marseille – Toulon werden jedoch auch Züge der SNCF eingesetzt, bei denen FIP akzeptiert wird. Eine vorige Prüfung des Betreibers ist hier zwingend notwendig.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 

@@ -165,23 +165,14 @@ var highlightFields = [
     options: [
       { label: "Important", value: "important" },
       { label: "Tip", value: "tip" },
-      { label: "Confusion", value: "confusion" },
       { label: "Inofficial", value: "inofficial" },
     ],
-    param: { positional: true, required: true },
   },
   {
     name: "body",
     label: "Content",
     widget: "markdown",
-    editor_components: [
-      "button",
-      "float-image",
-      "highlight",
-      "icon",
-      "image",
-      "table",
-    ],
+    editor_components: ["button", "float-image", "icon", "image", "table"],
   },
 ];
 
@@ -216,6 +207,44 @@ CMS.registerEditorComponent({
   toBlock: makeToBlock("highlight", {
     bracket: "<",
     fields: highlightFields,
+    bodyMode: "required",
+    bodySeparator: "\n",
+  }),
+  toPreview: function () {
+    return "";
+  },
+});
+
+var confusionFields = [
+  {
+    name: "country",
+    label: "Country",
+    widget: "relation",
+    collection: "country",
+    search_fields: ["title"],
+    value_field: "country",
+    display_fields: ["title"],
+  },
+  {
+    name: "body",
+    label: "Content",
+    widget: "markdown",
+    editor_components: ["button", "float-image", "icon", "image", "table"],
+  },
+];
+
+CMS.registerEditorComponent({
+  id: "confusion",
+  label: "Risk of confusion",
+  icon: "question_exchange",
+  fields: confusionFields,
+  pattern: shortcodePattern("confusion", "<"),
+  fromBlock: function (match) {
+    return { country: match[1].trim(), body: match[2].trim() };
+  },
+  toBlock: makeToBlock("confusion", {
+    bracket: "<",
+    fields: confusionFields,
     bodyMode: "required",
     bodySeparator: "\n",
   }),
@@ -449,6 +478,7 @@ var trainCategoryFields = [
       "icon",
       "image",
       "table",
+      "confusion",
     ],
   },
 ];
