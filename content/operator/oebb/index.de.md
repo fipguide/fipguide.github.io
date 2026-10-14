@@ -65,9 +65,9 @@ Im Railjet gibt es drei Reiseklassen:
 
 Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahlen. Siehe [Tarifliche Besonderheiten](#verkehr-nach-italien).
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 `RJ` ist gleichzeitig auch die Abkürzung für RegioJet, dort gelten keinerlei FIP-Farscheine.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -82,9 +82,9 @@ Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahle
 
 Die meisten `IC` Züge auf den Hauptstrecken wurden nach und nach durch Railjets ersetzt. `IC` Züge verkehren weiterhin auf Nebenstrecken wie Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Wien – Gmunden – Stainach-Irdning sowie ergänzend zu Railjets auf der Verbindung Wien–Lienz (Osttirol). Zudem gibt es `IC` Züge und `ICE` Züge auf einigen internationalen Strecken nach Deutschland in Zusammenarbeit mit der Deutschen Bahn, wobei der österreichische Abschnitt von der ÖBB betrieben wird.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Teilweise werden auch Regiojet Züge innerhalb von Österreich als `IC` gekennzeichnet, in diesen Züge sind FIP Tickets nicht gültig.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Reservierungen
 
@@ -172,9 +172,9 @@ Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen
 
 Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Regionalexpress-Züge werden teilweise auch von anderen privaten Bahngesellschaften betrieben bei denen FIP Fahrtkarten der ÖBB nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -189,11 +189,11 @@ Regionalexpress-Züge werden teilweise auch von anderen privaten Bahngesellschaf
 
 Nahverkehrszug mit Halten an den meisten Stationen.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Regionalzüge werden teilweise auch von anderen privaten Bahngesellschaften betrieben bei denen FIP Fahrtkarten der ÖBB nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
 
 Die Bezeichnung `R` Regionalzug wird in der Fahrplanauskunft der ÖBB auch für rein touristische Verkehre verwendet, bei denen keine FIP Fahrkarten gültig sind. Diese sind mit Fußnoten mit dem Hinweis „Sondertarif“ gekennzeichnet.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -208,7 +208,7 @@ Die Bezeichnung `R` Regionalzug wird in der Fahrplanauskunft der ÖBB auch für 
 
 Nahverkehrszug mindestens im Stundentakt mit Halt an allen Stationen. Vergleichbar mit einer S-Bahn.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Schnellbahnen werden teilweise auch von anderen privaten Bahngesellschaften betrieben, bei denen FIP Fahrtkarten der ÖBB nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
 
 Dazu gehören unter anderem:
@@ -217,7 +217,7 @@ Dazu gehören unter anderem:
 - S-Bahn Salzburg: S1 Salzburg – Lamprechtshausen, S11 Salzburg – Ostermiething (Salzburger Lokalbahn)
 - S-Bahn Steiermark: S11 Graz – Übelbach (Steiermarkbahn)
 - S6, S61 Graz – Wies-Eibiswald, S7 Graz – Köflach (Graz-Köflacher Eisenbahn)
-  {{< /highlight >}}
+  {{< /confusion >}}
 
 {{% /train-category %}}
 
