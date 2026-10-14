@@ -71,8 +71,8 @@ Les autres points de passage ne sont desservis que par des trains régionaux. Le
 
 À Potůčky, sur la ligne Johanngeorgenstadt – Karlovy Vary, les Billets FIP de la DB et de la ČD peuvent être utilisés pour voyager au-delà de la frontière. Les autres passages sont un peu plus complexes.
 
-À Cheb, les trains transfrontaliers exploités par DB Regio peuvent être utilisés avec des Coupons FIP des deux pays ou un Billet FIP 50 continu. Pour les trains exploités par Agilis (exploités par la ČD côté tchèque), il faut acheter un billet normal pour la section allemande (un Deutschlandticket est aussi valable à partir de Schirnding).
+À Cheb, les trains transfrontaliers exploités par DB Regio peuvent être utilisés avec des Coupons FIP des deux pays ou un Billet FIP 50 continu. Pour les trains exploités par Agilis (exploités par la ČD côté tchèque), il faut acheter un billet normal pour la section allemande (un Deutschlandticket combiné au Billet FIP pour la section tchèque suffit également).
 
-Il en va de même pour le passage nord à Aš. De même, à Furth im Wald, le train régional transfrontalier, qui est un EC côté tchèque, peut être utilisé avec un Billet FIP ČD en Tchéquie, mais un billet normal est nécessaire pour la section allemande.
+Il en va de même pour le passage nord à Aš. De même, à Furth im Wald, le train régional transfrontalier, qui est un `EC` côté tchèque, peut être utilisé avec un Billet FIP ČD en Tchéquie, mais un billet normal ou un Deutschlandticket est nécessaire pour la section allemande. Lors du changement d’horaire de décembre 2026, l’exploitant de la section tchèque devient Leo Express ; le train ne sera alors plus utilisable avec les réductions FIP.
 
 Aux passages Hrádek nad Nisou (ligne Zittau – Liberec), Varnsdorf (ligne Seifhennersdorf – Zittau), Vejprty (ligne Cranzahl – Chomutov, desservie uniquement l’été les week-ends et jours fériés) et Vojtanov (ligne Zwickau – Cheb), la FIP est inutile, car de part et d’autre de la frontière les trains sont exploités par des compagnies privées qui n’acceptent pas la FIP.

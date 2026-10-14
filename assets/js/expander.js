@@ -10,11 +10,7 @@ function expandTargetedExpander() {
   const targetElement = document.getElementById(hash.substring(1));
   if (!targetElement) return;
 
-  const summary = targetElement.closest("summary");
-  if (!summary) return;
-
-  const details = summary.closest("details");
-
+  const details = targetElement.closest("details");
   if (details && !details.open) {
     details.open = true;
   }
