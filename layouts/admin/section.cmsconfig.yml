@@ -114,7 +114,7 @@ collections:
     path: "{{"{{"}}slug}}/index"
     preview_path: "{{"{{"}}locale}}/news/{{"{{"}}slug}}/"
     slug:
-      editable: true
+      auto_increment: true
       hint: "A sequential number used as the article slug, e.g. 1."
       pattern: ["^[0-9]+$", "Must contain only numbers"]
     publish: false
