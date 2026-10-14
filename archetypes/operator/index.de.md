@@ -80,7 +80,7 @@ content_images:
 -->
 
 {{% confusion country %}}
-Dieses Snippet kann ergänzt werden, wenn es das Risiko gibt, dass die Zugkategorie mit einer anderen verwechselt wird. Als Parameter wird das Land in der englischen Abkürzung angegeben, in dem die Verwechslung auftreten kann, damit ein Link zum entsprechenden Abschnitt generiert wird, auf dem der Zugbetreiber identzifiert werden kann.
+Dieses Snippet kann ergänzt werden, wenn es das Risiko gibt, dass die Zugkategorie mit einer anderen verwechselt wird. Als Parameter wird das Land in der englischen Abkürzung angegeben, in dem die Verwechslung auftreten kann, damit ein Link zum entsprechenden Abschnitt generiert wird, auf dem der Zugbetreiber identifiziert werden kann.
 {{% /confusion %}}
 
 {{% highlight important %}}
