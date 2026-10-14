@@ -257,6 +257,23 @@ Die Züge der Kategorie `S` werden oftmals auch von anderen Betreibern betrieben
 {{% /train-category %}}
 
 {{% train-category
+    id="mex"
+    title="Metropolexpress (MEX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Nahverkehrszug zwischen Stuttgart und dem Umland. Züge halten im Umland an vielen Stationen, im S-Bahn-Gebiet (Raum Stuttgart) wird nur an den wichtigsten Stationen gehalten.
+
+{{< highlight confusion >}}
+Die Züge der Kategorie `MEX` werden oftmals auch von anderen Betreibern betrieben.
+{{< /highlight >}}
+
+{{% /train-category %}}
+
+{{% train-category
     id="fex"
     title="Flughafenexpress (FEX)"
     type="regional"
@@ -374,7 +391,7 @@ Die Züge von DB Regio Bayern zwischen Nürnberg Hbf und Regensburg Hbf werden i
 
 Deutschland ist in sogenannte _Verkehrsverbünde_ (kombinierte Tarifstruktur) gegliedert. Diese sind öffentliche Gesellschaften, die den Nahverkehr in der entsprechenden Region übergreifend für alle Betreiber organisieren. Sie sind auch für die Ausgestaltung von Ticketpreisen und Tarifen zuständig. Die Fahrt mit FIP Vergünstigungen in nur einem Verkehrsverbund ist in der Regel nicht zulässig. Eine Reise muss sich immer mindestens über zwei Verkehrsverbünde erstrecken, da in diesem Fall Tarife und Tickets von Betreibern angeboten werden dürfen. Es kann Ausnahmen geben, die beim jeweiligen Verkehrsverbund oder lokalen Ticketschaltern erfragt werden können. [^1]
 
-Bei FIP 50 Tickets müssen daher Start- und Zielbahnhof in unterschiedlichen Verkehrsverbünden liegen. Dies gilt auch be Reisen mit FIP Freifahrtschein.
+Bei FIP 50 Tickets müssen daher Start- und Zielbahnhof in unterschiedlichen Verkehrsverbünden liegen. Dies gilt auch bei Reisen mit FIP Freifahrtschein.
 
 {{% highlight tip %}}
 Eine Übersicht über alle Verkehrsverbünde ist auf [Wikipedia](https://de.wikipedia.org/wiki/Liste_deutscher_Tarif-_und_Verkehrsverb%C3%BCnde) verfügbar.

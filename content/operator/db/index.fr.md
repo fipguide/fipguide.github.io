@@ -251,6 +251,23 @@ Les trains de la catégorie `S` sont souvent exploités par d’autres opérateu
 {{% /train-category %}}
 
 {{% train-category
+    id="mex"
+    title="Metropolexpress (MEX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Les trains régionaux relient Stuttgart et ses environs. Dans les environs, les trains `MEX` s'arrêtent dans de nombreuses gares, tandis que dans la zone desservie par le S-Bahn Stuttgart, ils ne s'arrêtent que dans quelques gares.
+
+{{< highlight confusion >}}
+Les trains de la catégorie `MEX` sont souvent exploités par d’autres opérateurs.
+{{< /highlight >}}
+
+{{% /train-category %}}
+
+{{% train-category
     id="fex"
     title="Flughafenexpress (FEX)"
     type="regional"
