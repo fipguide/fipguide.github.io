@@ -385,7 +385,7 @@ Hier gibt es eine [Übersichtskarte](https://www.nvv.de/fileadmin/nvv/data/2._Fa
 
 ### DB Regio Bayern
 
-Die Züge von DB Regio Bayern zwischen Nürnberg Hbf und Regensburg Hbf werden im Auftrag für das Eisenbahnunternehmen agilis betrieben. Daher werden in diesem Abschnitt keine FIP Vergünstigungen anerkannt. [^2]
+Die Züge von DB Regio Bayern zwischen Nürnberg Hbf und Regensburg Hbf werden im Auftrag für das Eisenbahnunternehmen agilis betrieben. Daher werden in diesem Abschnitt keine FIP Vergünstigungen anerkannt. Auf anderen Linien von DB Regio Bayern gilt FIP. [^2]
 
 ### Fahrten in Verkehrsverbünden
 
@@ -407,6 +407,14 @@ In folgendem Beispiel liegt die gewählte Verbindung im Verkehrsverbund _VRS_:
 ![Ticketauswahl VRS](ticket_vrs.de.webp)
 
 {{% /expander %}}
+
+#### Übergreifende Tarife
+
+In einigen Bundesländern gibt es Kooperationen mehrerer Verkehrsverbünde, um gemeinsam einheitliche Tickets für den Nahverkehr anzubieten. FIP 50 Tickets werden in diesen übergreifenden Tarifen in der Regel nicht ausgestellt. In folgenden Bundesländern gibt es Verkehrsverbund-übergreifende Tarife:
+
+- **Baden-Württemberg**: _bwtarif_ [Übersicht öffnen](https://assets.static-bahn.de/dam/jcr:45aead8a-90e4-4856-966f-1eaf38c04f0a/bwegt_Karte_bwtarif_07-01-2025_barrierefrei.2025-08-01-13-22-45.pdf)
+- **Niedersachsen**: _Niedersachsen-Tarif_ [Übersicht öffnen](https://www.niedersachsentarif.de/fahrkarten/niedersachsen-ticket/)
+- **Nordrhein-Westfalen**: _NRW-Tarif_ [Übersicht öffnen](https://infoportal.mobil.nrw/nrw-tarif/nrw-tarif-im-ueberblick.html)
 
 ### Tarifliche Unterscheidung zwischen Nah- und Fernverkehr
 

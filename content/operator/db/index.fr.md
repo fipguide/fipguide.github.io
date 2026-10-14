@@ -379,7 +379,7 @@ Une [carte d’aperçu](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Li
 
 ### DB Regio Bayern
 
-Les trains de DB Regio Bayern entre Nürnberg Hbf et Regensburg Hbf sont exploités au nom de l’opérateur ferroviaire agilis. Aucune réduction FIP n’est donc reconnue sur cette section. [^2]
+Les trains de DB Regio Bayern entre Nürnberg Hbf et Regensburg Hbf sont exploités au nom de l’opérateur ferroviaire agilis. Aucune réduction FIP n’est donc reconnue sur cette section. Sur les autres lignes de DB Regio Bayern, la FIP s’applique. [^2]
 
 ### Trajets dans les réseaux de transport
 
@@ -401,6 +401,14 @@ Dans l’exemple suivant, la connexion choisie se trouve dans le réseau de tran
 ![Sélection de billet VRS](ticket_vrs.fr.webp)
 
 {{% /expander %}}
+
+#### Tarifs inter-réseaux
+
+Dans certains Länder, plusieurs réseaux de transport coopèrent afin de proposer conjointement des billets uniformes pour le trafic local. Les billets FIP 50 ne sont en règle générale pas émis dans le cadre de ces tarifs inter-réseaux. Les Länder suivants disposent de tarifs couvrant plusieurs réseaux de transport :
+
+- **Baden-Württemberg** : _bwtarif_ [Ouvrir l’aperçu](https://assets.static-bahn.de/dam/jcr:45aead8a-90e4-4856-966f-1eaf38c04f0a/bwegt_Karte_bwtarif_07-01-2025_barrierefrei.2025-08-01-13-22-45.pdf)
+- **Niedersachsen** : _Niedersachsen-Tarif_ [Ouvrir l’aperçu](https://www.niedersachsentarif.de/fahrkarten/niedersachsen-ticket/)
+- **Nordrhein-Westfalen** : _NRW-Tarif_ [Ouvrir l’aperçu](https://infoportal.mobil.nrw/nrw-tarif/nrw-tarif-im-ueberblick.html)
 
 ### Distinction tarifaire entre trains longue distance et trains locaux
 
