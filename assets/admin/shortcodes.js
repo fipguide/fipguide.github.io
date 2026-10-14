@@ -167,12 +167,20 @@ var highlightFields = [
       { label: "Tip", value: "tip" },
       { label: "Inofficial", value: "inofficial" },
     ],
+    param: { positional: true, required: true },
   },
   {
     name: "body",
     label: "Content",
     widget: "markdown",
-    editor_components: ["button", "float-image", "icon", "image", "table"],
+    editor_components: [
+      "button",
+      "float-image",
+      "icon",
+      "image",
+      "table",
+      "footnote-reference",
+    ],
   },
 ];
 
@@ -224,12 +232,20 @@ var confusionFields = [
     search_fields: ["title"],
     value_field: "country",
     display_fields: ["title"],
+    param: { positional: true, required: true },
   },
   {
     name: "body",
     label: "Content",
     widget: "markdown",
-    editor_components: ["button", "float-image", "icon", "image", "table"],
+    editor_components: [
+      "button",
+      "float-image",
+      "icon",
+      "image",
+      "table",
+      "footnote-reference",
+    ],
   },
 ];
 
@@ -283,6 +299,7 @@ var expanderFields = [
       "icon",
       "image",
       "table",
+      "footnote-reference",
     ],
   },
 ];
@@ -479,6 +496,7 @@ var trainCategoryFields = [
       "image",
       "table",
       "confusion",
+      "footnote-reference",
     ],
   },
 ];
@@ -535,6 +553,7 @@ var bookingFields = [
     label: "Booking Platform Link",
     widget: "cms-edit-link",
     static: true,
+    required: false,
     href: "#/collections/booking",
     label_template: "Manage Booking Platforms \u2192",
   },
@@ -628,7 +647,14 @@ var bookingFields = [
     label: "Additional info",
     widget: "markdown",
     required: false,
-    editor_components: ["button", "float-image", "icon", "image", "table"],
+    editor_components: [
+      "button",
+      "float-image",
+      "icon",
+      "image",
+      "table",
+      "footnote-reference",
+    ],
   },
 ];
 
@@ -692,6 +718,7 @@ var bookingSectionFields = [
       "icon",
       "image",
       "table",
+      "footnote-reference",
     ],
   },
 ];
@@ -829,7 +856,14 @@ var satelliteFields = [
     label: "Additional info",
     widget: "markdown",
     required: false,
-    editor_components: ["button", "float-image", "icon", "image", "table"],
+    editor_components: [
+      "button",
+      "float-image",
+      "icon",
+      "image",
+      "table",
+      "footnote-reference",
+    ],
   },
 ];
 
@@ -944,7 +978,13 @@ var floatImageFields = [
     label: "Surrounding text",
     widget: "markdown",
     required: false,
-    editor_components: ["button", "icon", "image", "table"],
+    editor_components: [
+      "button",
+      "icon",
+      "image",
+      "table",
+      "footnote-reference",
+    ],
   },
 ];
 
@@ -1070,6 +1110,7 @@ var updateFields = [
       "icon",
       "image",
       "table",
+      "footnote-reference",
     ],
   },
 ];
@@ -1112,6 +1153,7 @@ var columnFields = [
       "icon",
       "image",
       "table",
+      "footnote-reference",
     ],
   },
 ];
