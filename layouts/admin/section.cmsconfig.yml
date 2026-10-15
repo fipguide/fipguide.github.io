@@ -873,6 +873,7 @@ singletons:
         name: "borders"
         widget: "list"
         root: true
+        map_key_field: "id"
         i18n: true
         collapsed: true
         summary: "{{"{{"}}fields.id}}"
@@ -881,6 +882,7 @@ singletons:
           - label: "ID"
             name: "id"
             widget: "string"
+            pattern: ["^[a-z0-9-]+$", "Use lowercase letters, digits and hyphens only"]
             i18n: duplicate
             hint: 'Unique identifier, e.g. "at-cz". Referenced in the Border Points field on each Country page.'
           - label: "Side A"

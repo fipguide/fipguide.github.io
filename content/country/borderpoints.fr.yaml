@@ -1,4 +1,4 @@
-- id: at-cz
+at-cz:
   a:
     country:
       id: austria
@@ -14,7 +14,7 @@
     - Unterretzbach (Gr) / Retz (Gr)
     - Gmünd (Gr) / Česká Skalice (Gr)
     - Summerau (Gr) / Horní Dvořiště (Gr)
-- id: at-sk
+at-sk:
   a:
     country:
       id: austria
@@ -28,7 +28,7 @@
   points:
     - Marchegg (Gr)
     - Kittsee (Gr)
-- id: at-hu-gysev
+at-hu-gysev:
   a:
     country:
       id: austria
@@ -43,7 +43,7 @@
     - Pamhagen (Gr)
     - Szentgotthárd
     - Sopron
-- id: at-hu-mav
+at-hu-mav:
   a:
     country:
       id: austria
@@ -57,7 +57,7 @@
   points:
     - Hegyeshalom (Gr)
     - Sopron
-- id: at-si
+at-si:
   a:
     country:
       id: austria
@@ -72,7 +72,7 @@
     - "Bleiburg (Gr) (slovène : Pliberk)"
     - "Rosenbach (Gr) / Jesenice (Gr) (allemand : Assling)"
     - "Spielfeld-Strass (Gr) / Spielfeld (Gr) (slovène : Špilje)"
-- id: at-it
+at-it:
   a:
     country:
       id: austria
@@ -87,7 +87,7 @@
     - Brennero/Brenner
     - San Candido/Innichen
     - Tarvisio Boscoverde
-- id: at-ch
+at-ch:
   a:
     country:
       id: austria
@@ -101,7 +101,7 @@
   points:
     - Buchs SG
     - St. Margrethen
-- id: at-de
+at-de:
   a:
     country:
       id: austria
@@ -119,7 +119,7 @@
     - Passau Hbf
     - Salzbourg Hbf (trains régionaux vers Salzburg Liefering)
     - Simbach am Inn
-- id: be-nl
+be-nl:
   a:
     country:
       id: belgium
@@ -133,7 +133,7 @@
   points:
     - Roosendaal (fr)
     - Visé (fr)
-- id: be-de
+be-de:
   a:
     country:
       id: belgium
@@ -146,7 +146,7 @@
       - id: db
   points:
     - Aachen Süd (Gr)
-- id: be-lu
+be-lu:
   a:
     country:
       id: belgium
@@ -161,7 +161,7 @@
     - Athus
     - Gouvy (fr)
     - Sterpenich (fr)
-- id: be-fr
+be-fr:
   a:
     country:
       id: belgium
@@ -178,7 +178,7 @@
     - Jeumont (fr)
     - Quévy (fr)
     - Tourcoing (fr)
-- id: ba-hr
+ba-hr:
   a:
     country:
       id: bosnia-and-herzegovina
@@ -196,7 +196,7 @@
     - Metković (Gr)
     - Slavonski Šamac (Gr)
     - Volinja (Gr)
-- id: ba-rs
+ba-rs:
   a:
     country:
       id: bosnia-and-herzegovina
@@ -210,7 +210,7 @@
       - id: sv
   points:
     - Zvornik
-- id: bg-ro
+bg-ro:
   a:
     country:
       id: bulgaria
@@ -224,7 +224,7 @@
   points:
     - "Ruse (fr) (bulgare : Русе)"
     - Vidin (fr)
-- id: bg-tr
+bg-tr:
   a:
     country:
       id: bulgaria
@@ -237,7 +237,7 @@
       - label: TCDD
   points:
     - Kapikule (fr)
-- id: bg-gr
+bg-gr:
   a:
     country:
       id: bulgaria
@@ -251,7 +251,7 @@
   points:
     - "Kulata (fr) (bulgare : Кулата)"
     - "Svilengrad (fr) (bulgare : Свиленград)"
-- id: bg-rs
+bg-rs:
   a:
     country:
       id: bulgaria
@@ -264,7 +264,7 @@
       - id: sv
   points:
     - "Dimitrovgrad (fr) (bulgare : Цариброд, Tsaribrod)"
-- id: cz-pl
+cz-pl:
   a:
     country:
       id: czechia
@@ -285,7 +285,7 @@
     - Lichkov (Gr) (Plhy City)
     - Zebrzydowice (Gr)
     - Voïvodie de Silésie
-- id: cz-sk
+cz-sk:
   a:
     country:
       id: czechia
@@ -304,7 +304,7 @@
     - Myjava (Gr)
     - Nemšová (Gr)
     - Skalica na Slovensku (Gr)
-- id: cz-de
+cz-de:
   a:
     country:
       id: czechia
@@ -329,7 +329,7 @@
     - Vojtanov (Gr)
     - Waidhaus (Gr)
     - Zittau (Gr)
-- id: dk-se
+dk-se:
   a:
     country:
       id: denmark
@@ -342,7 +342,7 @@
       - label: SJ
   points:
     - Helsingborg (via Helsingør)
-- id: dk-de
+dk-de:
   a:
     country:
       id: denmark
@@ -358,7 +358,7 @@
     - Puttgarden (MS) (via Rødby Faerge)
     - Tønder (Gr)
     - Warnemünde (via Gedser)
-- id: de-se
+de-se:
   a:
     country:
       id: germany
@@ -373,7 +373,7 @@
     - Lübeck-Travemünde Hafen
     - Lübeck-Travemünde Skandinavienkai
     - Sassnitz (Gr)
-- id: de-pl
+de-pl:
   a:
     country:
       id: germany
@@ -394,7 +394,7 @@
     - Kostrzyn (Gr)
     - Tantow (Gr)
     - Zgorzelec (Gr)
-- id: de-bsb
+de-bsb:
   a:
     country:
       id: germany
@@ -412,7 +412,7 @@
     - Radolfzell
     - Schaffhausen
     - Überlingen
-- id: de-ch
+de-ch:
   a:
     country:
       id: germany
@@ -430,7 +430,7 @@
     - Constance
     - Schaffhausen
     - Waldshut
-- id: de-fr
+de-fr:
   a:
     country:
       id: germany
@@ -449,7 +449,7 @@
     - Lauterbourg (fr)
     - Neuenburg (Bd) (Gr)
     - Wissembourg (fr)
-- id: de-lu
+de-lu:
   a:
     country:
       id: germany
@@ -462,7 +462,7 @@
       - id: cfl
   points:
     - Igel (Gr)
-- id: de-eurostar
+de-eurostar:
   a:
     country:
       id: germany
@@ -479,7 +479,7 @@
     - Düsseldorf Airport
     - Essen
     - Cologne
-- id: de-nl
+de-nl:
   a:
     country:
       id: germany
@@ -497,7 +497,7 @@
     - Herzogenrath (Gr)
     - Venlo (Gr)
     - Weener (Gr)
-- id: gr-mk
+gr-mk:
   a:
     country:
       id: greece
@@ -510,7 +510,7 @@
       - label: ŽRSM
   points:
     - Gevgelija (fr)
-- id: gr-tr
+gr-tr:
   a:
     country:
       id: greece
@@ -523,7 +523,7 @@
       - label: TCDD
   points:
     - Pythio (Πύθιο)
-- id: gr-it
+gr-it:
   a:
     country:
       id: greece
@@ -538,7 +538,7 @@
     - Patras (Πάτρα) [>Ancona, >Bari]
     - Ancona [>Igoumenitsa, >Patras]
     - Bari [>Igoumenitsa, >Patras]
-- id: hu-sk-mav
+hu-sk-mav:
   a:
     country:
       id: hungary
@@ -556,7 +556,7 @@
     - Komárom (Gr)
     - Sátoraljaújhely (Gr)
     - Szob (Gr)
-- id: hu-sk-gysev
+hu-sk-gysev:
   a:
     country:
       id: hungary
@@ -569,7 +569,7 @@
       - id: gysev
   points:
     - Rajka (Gr)
-- id: hu-ua
+hu-ua:
   a:
     country:
       id: hungary
@@ -582,7 +582,7 @@
       - label: UZ
   points:
     - Záhony (Gr)
-- id: hu-ro
+hu-ro:
   a:
     country:
       id: hungary
@@ -598,7 +598,7 @@
     - "Curtici (fr) (hongrois : Kürtös)"
     - Nyirábrány (fr)
     - "Salonta (fr) (hongrois : Nagyszalonta, Szalonta)"
-- id: hu-rs
+hu-rs:
   a:
     country:
       id: hungary
@@ -612,7 +612,7 @@
   points:
     - Röszke (Gr)
     - Subotica (Gr)
-- id: hu-hr
+hu-hr:
   a:
     country:
       id: hungary
@@ -627,7 +627,7 @@
     - Koprivnica (Gr)
     - Kotoriba (Gr)
     - Magyarbóly (Gr)
-- id: hu-si
+hu-si:
   a:
     country:
       id: hungary
@@ -641,7 +641,7 @@
       - id: sz
   points:
     - Hodoš (Gr) (Őrihodos)
-- id: ie-gb-rail
+ie-gb-rail:
   a:
     country:
       id: ireland
@@ -654,7 +654,7 @@
       - id: nir
   points:
     - Dundalk
-- id: ie-gb-sll
+ie-gb-sll:
   a:
     country:
       id: ireland
@@ -668,7 +668,7 @@
   points:
     - Dublin Bay / Holyhead
     - Rosslare / Fishguard
-- id: it-si
+it-si:
   a:
     country:
       id: italy
@@ -682,7 +682,7 @@
   points:
     - Nova Gorica (fr)
     - "Villa Opicina (fr) (slovène : Opčine, triestin : Opcina)"
-- id: fr-it
+fr-it:
   a:
     country:
       id: france
@@ -698,7 +698,7 @@
     - Modane (fr)
     - Piene (fr)
     - Ventimiglia (fr)
-- id: it-ch
+it-ch:
   a:
     country:
       id: italy
@@ -722,7 +722,7 @@
     - Pino transito
     - Porto Ceresio [> Lugano]
     - Tirano
-- id: fr-ch
+fr-ch:
   a:
     country:
       id: france
@@ -744,7 +744,7 @@
     - Le Locle-Col-des-Roches
     - Les Verrières (fr)
     - Vallorbe
-- id: lu-fr
+lu-fr:
   a:
     country:
       id: luxembourg
@@ -758,7 +758,7 @@
   points:
     - Bettembourg (fr)
     - Rodange (fr)
-- id: es-fr
+es-fr:
   a:
     country:
       id: spain
@@ -774,7 +774,7 @@
     - Hendaye (fr)
     - Port Bou (fr)
     - La Tour-de-Carol-Enveitg
-- id: fr-eurostar
+fr-eurostar:
   a:
     country:
       id: france
@@ -787,7 +787,7 @@
   points:
     - Paris
     - Lille
-- id: gb-eurostar
+gb-eurostar:
   a:
     country:
       id: united-kingdom
@@ -800,7 +800,7 @@
       - id: eurostar
   points:
     - London St. Pancras International
-- id: nl-gb-stl
+nl-gb-stl:
   a:
     country:
       id: netherlands
@@ -813,7 +813,7 @@
       - id: stl
   points:
     - Hoek van Holland / Harwich P.Q.
-- id: gb-gb-sll
+gb-gb-sll:
   a:
     country:
       id: united-kingdom
@@ -828,7 +828,7 @@
     - Cairnryan
     - Liverpool
     - Belfast
-- id: lv-ee
+lv-ee:
   a:
     country:
       id: latvia
@@ -839,7 +839,7 @@
       label: Estonie
   points:
     - Valga
-- id: lv-ru
+lv-ru:
   a:
     country:
       id: latvia
@@ -850,7 +850,7 @@
       label: Russie
   points:
     - Frontière fermée
-- id: lv-by
+lv-by:
   a:
     country:
       id: latvia
@@ -861,7 +861,7 @@
       label: Biélorussie
   points:
     - Frontière fermée
-- id: lv-lt
+lv-lt:
   a:
     country:
       id: latvia
@@ -874,7 +874,7 @@
       - id: ltg
   points:
     - Joniškis
-- id: lt-by
+lt-by:
   a:
     country:
       id: lithuania
@@ -885,7 +885,7 @@
       label: Biélorussie
   points:
     - Frontière fermée
-- id: lt-pl
+lt-pl:
   a:
     country:
       id: lithuania
@@ -898,7 +898,7 @@
       - id: pkp
   points:
     - Mockava (Gr)
-- id: lt-ru
+lt-ru:
   a:
     country:
       id: lithuania
@@ -909,7 +909,7 @@
       label: Russie
   points:
     - Pas de montée/descente en transit Russie-Biélorussie-Lituanie-Kaliningrad
-- id: me-rs
+me-rs:
   a:
     country:
       id: montenegro
@@ -922,7 +922,7 @@
       - id: sv
   points:
     - Bijelo Polje (Gr)
-- id: no-se
+no-se:
   a:
     country:
       id: norway
@@ -938,7 +938,7 @@
     - Halden (Kornsjø (Gr))
     - Kongsvinger (Charlottenberg (Gr))
     - Storlien
-- id: pl-ru
+pl-ru:
   a:
     country:
       id: poland
@@ -951,7 +951,7 @@
       - label: RZD
   points:
     - Braniewo (Gr)
-- id: pl-by
+pl-by:
   a:
     country:
       id: poland
@@ -966,7 +966,7 @@
     - Brest (Gr) (Брэст)
     - Bruzgi / Bruzhi (Gr)
     - Czeremcha (Gr) (Voïvodie de Podlachie)
-- id: pl-ua
+pl-ua:
   a:
     country:
       id: poland
@@ -980,7 +980,7 @@
   points:
     - Jagodin (Gr) (Yahodyn, Yagodyn ou Ягодин)
     - Medyka (Gr)
-- id: pl-sk
+pl-sk:
   a:
     country:
       id: poland
@@ -993,7 +993,7 @@
       - id: zssk
   points:
     - Lupkow (Gr)
-- id: ro-ua
+ro-ua:
   a:
     country:
       id: romania
@@ -1006,7 +1006,7 @@
       - label: UZ
   points:
     - Vicsani (fr)
-- id: ro-md
+ro-md:
   a:
     country:
       id: romania
@@ -1020,7 +1020,7 @@
   points:
     - Iasi
     - Ungheni (fr)
-- id: ro-rs
+ro-rs:
   a:
     country:
       id: romania
@@ -1034,7 +1034,7 @@
   points:
     - "Jimbolia (fr) (serbe : Жомбољ)"
     - "Vršac (fr) (serbe : Вршац)"
-- id: rs-mk
+rs-mk:
   a:
     country:
       id: serbia
@@ -1047,7 +1047,7 @@
       - label: ŽRSM
   points:
     - "Tabanovci (fr) (serbe : Табановце ; albanais : Tabanoc)"
-- id: rs-hr
+rs-hr:
   a:
     country:
       id: serbia
@@ -1061,7 +1061,7 @@
   points:
     - "Erdut (Gr) (serbe : Ердут)"
     - "Šid (Gr) (serbe : Шид)"
-- id: si-hr
+si-hr:
   a:
     country:
       id: slovenia
@@ -1081,7 +1081,7 @@
     - Mursko Središće (Gr)
     - Rogatec (Gr)
     - Šapjane (Gr)
-- id: pt-es
+pt-es:
   a:
     country:
       id: portugal
