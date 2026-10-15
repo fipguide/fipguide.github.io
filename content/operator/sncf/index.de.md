@@ -275,7 +275,33 @@ Nationale Verbindungen können online leider nicht erworben werden.
     subtitle="Für Züge im Großraum Paris"
 /%}}
 
+{{% booking id="cfl-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
+
+{{% booking id="dsb-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
+
+{{% booking id="sncb-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
+
 {{% booking id="ns-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
+
+{{% booking id="sbb-ticket-office"
+    subtitle="Nur für SBB und SNCF Mitarbeitende"
     classes.first="2 € / 16 €"
     classes.second="2 € / 11 €"
 /%}}
