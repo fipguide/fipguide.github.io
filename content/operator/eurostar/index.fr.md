@@ -132,6 +132,13 @@ Mais la gestion du billet (annulation, échange, rebooking) est possible via le 
     fip_75=nil
 /%}}
 
+{{% booking id="sncf-website-fip-sncf"
+    subtitle="Réservé aux agents de la SNCF"
+    reservations=nil
+    fip_50=nil
+    fip_75=nil
+/%}}
+
 ### Par téléphone
 
 {{% booking id="eurostar-phone"

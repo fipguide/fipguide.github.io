@@ -231,6 +231,11 @@ FIP Vergünstigungen gelten auch in Bussen, die von der SNCF betrieben werden. A
 
 Nationale Verbindungen können online leider nicht erworben werden.
 
+{{% booking id="sncf-website-fip-sncf"
+    subtitle="Nur für SNCF Mitarbeitende"
+    fip_global_fare=nil
+/%}}
+
 {{% booking id="db-website-fip-db"
     subtitle="Grenzüberschreitende FIP 50 Tickets für TGV/ICE und Regionalzüge zwischen Deutschland und Frankreich, mit Ticketanteil nur für den französischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
     classes.first="nil"
