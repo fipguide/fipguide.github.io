@@ -1,0 +1,6 @@
+test:
+  a:
+    country: null
+  b:
+    country: null
+  points: []

@@ -1,0 +1,11 @@
+test:
+  a:
+    country:
+      id: belgium
+    operators:
+      - label: test
+  b:
+    country:
+      id: portugal
+  points:
+    - test
