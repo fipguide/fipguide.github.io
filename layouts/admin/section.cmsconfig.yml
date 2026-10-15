@@ -315,6 +315,7 @@ collections:
           - "footnote-reference"
           - "columns"
           - "footnote"
+          - "children-discount"
 
   - name: "application"
     label: "FIP Application"

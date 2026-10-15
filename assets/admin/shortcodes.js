@@ -1030,6 +1030,25 @@ CMS.registerEditorComponent({
   },
 });
 
+CMS.registerEditorComponent({
+  id: "children-discount",
+  label: "Children Discount Notice",
+  icon: "child_care",
+  fields: [],
+  pattern: selfClosingPattern("children-discount"),
+  fromBlock: function () {
+    return {};
+  },
+  toBlock: makeToBlock("children-discount", {
+    bracket: "<",
+    fields: [],
+    bodyMode: "none",
+  }),
+  toPreview: function () {
+    return "";
+  },
+});
+
 var iconFields = [
   {
     name: "name",
