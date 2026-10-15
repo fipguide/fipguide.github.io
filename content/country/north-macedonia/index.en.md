@@ -7,7 +7,7 @@ content_images:
 
 ## FIP Information
 
-In North Macedonia, rail transport is operated by the state railway company Železnici na Republika Severna Makedonija (ŽRSM).
+In North Macedonia, rail transport is operated by the state railway company [Železnici na Republika Severna Makedonija (ŽRSM)](/operator/zrsm).
 
 {{< identify-operator sources="zrsm-website" >}}
 {{< /identify-operator >}}
@@ -26,6 +26,7 @@ There is no regular timetable, but only individual trains operating at longer in
 | ---------------------------------------------------------- | ------------------------------------------------------ |
 | [Serbia](/country/serbia) ([SV](/operator/sv))             | Tabanovci (fr) (Serbian: Табановце; Albanian: Tabanoc) |
 | [Greece](/country/greece) ([Hellenic Train](/operator/ht)) | Gevgelija (fr) (Macedonian: Гевгелија)                 |
+| Kosovo (Trainkos)                                          | Elez Han (Serbian: Елез Хан)                           |
 
 {{% /expander %}}
 
@@ -33,9 +34,21 @@ There is no regular timetable, but only individual trains operating at longer in
 
 Currently, there are no passenger trains between North Macedonia and Serbia.
 
+### Bulgaria
+
+There is currently no rail connection between Bulgaria and North Macedonia, but one is planned with the construction of the Kumanovo – Gjueševo railway line.
+
 ### Greece
 
 There is no scheduled passenger rail service between North Macedonia and Greece. The historic connection between Thessaloniki and Gevgelija/Skopje is currently not in operation. Border crossings therefore cannot be crossed by train; alternative options include long-distance buses via the Balkan routes.
+
+### Albania
+
+There is currently no rail connection between Albania and North Macedonia.
+
+### Kosovo
+
+The connection between Priština and Skopje was offered for a long time by Trainkos and ŽRSM, but is currently suspended due to construction work on the line. FIP tickets are only valid on the North Macedonian section up to the Elez Han border point; a regular ticket is required for the section in Kosovo.
 
 ## Sources
 
