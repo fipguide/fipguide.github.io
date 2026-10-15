@@ -11,6 +11,8 @@ params:
     - Keolis Nederland
     - Qbuzz
     - VIAS Rail
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung
@@ -47,7 +49,7 @@ Besonders ist in den Niederlanden, dass sich an allen etwas größeren Bahnhöfe
 
 ### Deutschland
 
-Von Deutschland aus kann der grenzüberschreitende `ICE` von Frankfurt / Köln / Düsseldorf oder Berlin / Hannover aus genutzt werden, um ins Netz der NS zu kommen. Bei grenzüberschreitenden Fahrten wird hier noch ein zusätzliches Ticket der DB benötigt.
+Von Deutschland aus kann der grenzüberschreitende `ICE` von Frankfurt / Köln / Düsseldorf oder Berlin / Hannover aus genutzt werden, um ins Netz der NS zu kommen.
 
 Darüber hinaus gibt es diverse Regionalzüge, jedoch nur zwei, auf dem FIP gültig ist:
 

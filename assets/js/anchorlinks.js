@@ -12,7 +12,9 @@ function initAnchorlinkEventListener() {
             element.getAttribute("data-anchor"),
         )
         .then(() => {
-          showSnackbar();
+          if (snackbar) {
+            showSnackbar(snackbar);
+          }
         })
         .catch((err) => {
           console.error("Fehler beim Kopieren des Textes:", err);
@@ -20,19 +22,17 @@ function initAnchorlinkEventListener() {
     });
   });
 
-  snackbarButton.addEventListener("click", () => {
-    closeSnackbar();
-  });
+  snackbarButton?.addEventListener("click", () => closeSnackbar(snackbar));
 }
 
-function showSnackbar() {
+function showSnackbar(snackbar) {
   snackbar.setAttribute("aria-hidden", "false");
   snackbar.classList.add("a-snackbar--show");
 
-  setTimeout(closeSnackbar, 5000);
+  setTimeout(() => closeSnackbar(snackbar), 5000);
 }
 
-function closeSnackbar() {
+function closeSnackbar(snackbar) {
   snackbar.setAttribute("aria-hidden", "true");
   snackbar.classList.remove("a-snackbar--show");
 }

@@ -3,6 +3,8 @@ title: SV
 country:
   - serbia
 operator: sv
+content_images:
+  - image.webp
 ---
 
 Srbija Voz (Србија Воз) is the state railway company in Serbia and operates the majority of passenger traffic in the country.
@@ -176,7 +178,7 @@ For travellers through several Balkan countries, the Balkan Flexipass could be w
 
 - Bosnia and Herzegovina (ZFBH),
 - Bulgaria (BDZ),
-- North Macedonia (MŽ-Transport),
+- North Macedonia (ŽRSM),
 - Greece (HT & Attica),
 - Montenegro (ŽPCG),
 - Romania (CFR Calatori & Regiotrans),

@@ -3,6 +3,8 @@ title: KMŁ
 country:
   - poland
 operator: kml
+content_images:
+  - image.webp
 aliases:
   - /booking/kml-ticket-office
 ---
@@ -30,7 +32,7 @@ Pour les trajets avec différents opérateurs en Pologne, il faut disposer soit 
 
 La KMŁ ne distingue pas de catégories de trains différentes. Les trains sont indiqués dans les horaires avec l’abréviation « KMŁ » au début, suivie d’un numéro de train spécifique. Des numéros de lignes existent mais ne sont généralement pas affichés dans les horaires. Seuls des billets de 2ᵉ classe sont proposés, car il n’y a pas de 1ʳᵉ classe dans les trains KMŁ. De plus, aucune réservation n’est possible.
 
-Il ne nous est pas actuellement possible de confirmer si les Billets FIP sont également valables dans les bus de la KMŁ. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
+Les billets FIP ne sont pas valables dans les bus exploités par KMŁ.[^2] Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
 ## Achat de billets et réservations
 
@@ -67,3 +69,5 @@ Parmi les destinations phares avec la KMŁ, on trouve notamment le célèbre par
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782287-poland.html)
+
+[^2]: [Retour via e-mail](https://github.com/fipguide/fipguide.github.io/issues/1220)

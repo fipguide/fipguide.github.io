@@ -4,6 +4,8 @@ country:
   - greece
   - italy
 operator: attica
+content_images:
+  - image.webp
 aliases:
   - /booking/attica-agents
   - /booking/attica-email
@@ -125,7 +127,7 @@ Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass pe
 
 - Bosnie-Herzégovine (ZFBH),
 - Bulgarie (BDZ),
-- Macédoine du Nord (MŽ-Transport),
+- Macédoine du Nord (ŽRSM),
 - Grèce (HT & Attica),
 - Monténégro (ŽPCG),
 - Roumanie (CFR Calatori & Regiotrans),

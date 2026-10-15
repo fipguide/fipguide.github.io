@@ -9,6 +9,8 @@ params:
     - Nordjyske Jernbaner
     - SJ
     - Snälltåget
+content_images:
+  - image.webp
 ---
 
 ## FIP Information

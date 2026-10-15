@@ -503,7 +503,7 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
-  zrms:
+  zrsm:
     fip-coupon:
       active: coupon-active-1
       active-relatives: coupon-not-available

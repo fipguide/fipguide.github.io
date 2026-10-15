@@ -3,6 +3,8 @@ title: DB
 country:
   - germany
 operator: db
+content_images:
+  - image.webp
 aliases:
   - /booking/db-ticket-office
   - /booking/db-website
@@ -62,9 +64,9 @@ Par le passé, une obligation de réservation existait en été pour les trajets
 
 Trains à grande vitesse transfrontaliers de la SNCF en coopération avec la DB. Ils relient Francfort, Mannheim, Karlsruhe, Sarrebruck, Stuttgart et Munich à Paris.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Quelques trains `TGV` circulent de Paris à Fribourg et sont entièrement exploités par la SNCF, y compris en Allemagne. Pour ces trains, seule la SNCF est indiquée comme exploitant, voir [Identifier l’exploitant du train et rechercher des liaisons](#informations-fip). Dans ces trains, les Coupons FIP DB et les réductions nationales pour les employés DB ne sont pas valables en Allemagne. À la place, des billets au Tarif Global FIP de la SNCF peuvent être achetés.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Réservations
 
@@ -208,9 +210,9 @@ Une orientation est fournie par les [cartes d’aperçu](https://www.schienennah
 
 Les trains Regionalexpress relient des villes avec des arrêts dans les principales gares. Certains circulent aussi sur de longues distances.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Les trains de la catégorie `RE` sont souvent exploités par d’autres opérateurs.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -225,9 +227,9 @@ Les trains de la catégorie `RE` sont souvent exploités par d’autres opérate
 
 Les trains Regionalbahn relient des villes avec des arrêts dans presque toutes les gares.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Les trains de la catégorie `RB` sont souvent exploités par d’autres opérateurs.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -242,8 +244,25 @@ Les trains de la catégorie `RB` sont souvent exploités par d’autres opérate
 
 Trains de proximité dans les grandes villes et régions métropolitaines avec arrêt à toutes les gares.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Les trains de la catégorie `S` sont souvent exploités par d’autres opérateurs.
+{{< /confusion >}}
+
+{{% /train-category %}}
+
+{{% train-category
+    id="mex"
+    title="Metropolexpress (MEX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Les trains régionaux relient Stuttgart et ses environs. Dans les environs, les trains `MEX` s'arrêtent dans de nombreuses gares, tandis que dans la zone desservie par le S-Bahn Stuttgart, ils ne s'arrêtent que dans quelques gares.
+
+{{< highlight confusion >}}
+Les trains de la catégorie `MEX` sont souvent exploités par d’autres opérateurs.
 {{< /highlight >}}
 
 {{% /train-category %}}
@@ -360,7 +379,7 @@ Une [carte d’aperçu](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Li
 
 ### DB Regio Bayern
 
-Les trains de DB Regio Bayern entre Nürnberg Hbf et Regensburg Hbf sont exploités au nom de l’opérateur ferroviaire agilis. Aucune réduction FIP n’est donc reconnue sur cette section. [^2]
+Les trains de DB Regio Bayern entre Nürnberg Hbf et Regensburg Hbf sont exploités au nom de l’opérateur ferroviaire agilis. Aucune réduction FIP n’est donc reconnue sur cette section. Sur les autres lignes de DB Regio Bayern, la FIP s’applique. [^2]
 
 ### Trajets dans les réseaux de transport
 
@@ -382,6 +401,14 @@ Dans l’exemple suivant, la connexion choisie se trouve dans le réseau de tran
 ![Sélection de billet VRS](ticket_vrs.fr.webp)
 
 {{% /expander %}}
+
+#### Tarifs inter-réseaux
+
+Dans certains Länder, plusieurs réseaux de transport coopèrent afin de proposer conjointement des billets uniformes pour le trafic local. Les billets FIP 50 ne sont en règle générale pas émis dans le cadre de ces tarifs inter-réseaux. Les Länder suivants disposent de tarifs couvrant plusieurs réseaux de transport :
+
+- **Baden-Württemberg** : _bwtarif_ [Ouvrir l’aperçu](https://assets.static-bahn.de/dam/jcr:45aead8a-90e4-4856-966f-1eaf38c04f0a/bwegt_Karte_bwtarif_07-01-2025_barrierefrei.2025-08-01-13-22-45.pdf)
+- **Niedersachsen** : _Niedersachsen-Tarif_ [Ouvrir l’aperçu](https://www.niedersachsentarif.de/fahrkarten/niedersachsen-ticket/)
+- **Nordrhein-Westfalen** : _NRW-Tarif_ [Ouvrir l’aperçu](https://infoportal.mobil.nrw/nrw-tarif/nrw-tarif-im-ueberblick.html)
 
 ### Distinction tarifaire entre trains longue distance et trains locaux
 

@@ -466,7 +466,7 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
-  zrms:
+  zrsm:
     fip-coupon:
       active: coupon-4fields
       active-relatives: coupon-4fields

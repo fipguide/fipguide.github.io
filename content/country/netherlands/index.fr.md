@@ -11,6 +11,8 @@ params:
     - Keolis Nederland
     - Qbuzz
     - VIAS Rail
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP
@@ -47,7 +49,7 @@ Particularité : la plupart des grandes gares sont équipées de portiques. L’
 
 ### Allemagne
 
-Depuis l’Allemagne, l’ `ICE` Francfort / Cologne / Düsseldorf ou Berlin / Hanovre permet d’entrer sur le réseau NS. Un Billet FIP DB est requis pour la partie allemande du trajet.
+Depuis l’Allemagne, l’ `ICE` Francfort / Cologne / Düsseldorf ou Berlin / Hanovre permet d’entrer sur le réseau NS.
 
 Certaines lignes régionales sont aussi disponibles, mais seules deux lignes sont valides avec FIP :
 

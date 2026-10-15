@@ -2,6 +2,8 @@
 date: 2026-09-24
 title: "Désormais pour les employés de la DB : calculateur fiscal FIP"
 description: Le nouveau calculateur fiscal pour les employés de la DB en Allemagne est désormais disponible dans le guide FIP.
+content_images:
+  - image.webp
 ---
 
 Le nouveau calculateur fiscal FIP de la DB est désormais disponible dans le guide FIP. Vous le trouverez sur la page [Calculateur fiscal DB](/general/taxation/).

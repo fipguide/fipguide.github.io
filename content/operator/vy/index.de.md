@@ -3,6 +3,8 @@ title: Vy Group
 country:
   - norway
 operator: vy
+content_images:
+  - image.webp
 aliases:
   - /booking/entur-chat
   - /booking/entur-phone
@@ -301,7 +303,7 @@ Allein auf der Fahrt von Trondheim nach Storlien wird FIP auf dem kompletten Lau
 
 **Mehr Informationen zu den Tarifgebieten:**
 
-- Ruter (Oslo): https://ruter.no/en/about-our-tickets/zones-and-zone-maps
+- Ruter (Oslo): https://ruter.no/en/about-our-tickets/zones
 - Skyss (Bergen): https://www.skyss.no/en/tickets-and-prices/prize-zones
 - AtB (Trøndelag): https://www.atb.no/en/zones-and-zone-maps
 - Kolumbus (Rogaland): https://www.kolumbus.no/en/tickets/zones-and-zone-maps

@@ -3,6 +3,8 @@ title: DB
 country:
   - germany
 operator: db
+content_images:
+  - image.webp
 aliases:
   - /booking/db-ticket-office
   - /booking/db-website
@@ -62,9 +64,9 @@ In the past, there was a reservation requirement for cross-border journeys in su
 
 Cross-border high-speed trains of SNCF in cooperation with DB. These run from Frankfurt, Mannheim, Karlsruhe, Saarbrücken, Stuttgart, and Munich to Paris.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Some `TGV` trains run from Paris to Freiburg and are operated entirely by SNCF, including within Germany. Only SNCF is listed as the operator for these trains, see [Identify train operators and search connections](#fip-information). On these trains, DB Coupons and national travel concessions for DB employees are not valid in Germany. Instead, SNCF FIP Global Fare tickets can be purchased.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Reservations
 
@@ -208,9 +210,9 @@ Local trains are often operated by other companies that do not accept FIP. In th
 
 Regional express trains connect towns and cities with stops at the main stations. Sometimes the trains also run long-distance routes.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Trains of the `RE` category are often operated by other companies.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -225,9 +227,9 @@ Trains of the `RE` category are often operated by other companies.
 
 Regional trains connect towns and cities with stops at almost all stations.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Trains of the `RB` category are often operated by other companies.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -242,8 +244,25 @@ Trains of the `RB` category are often operated by other companies.
 
 Local trains in large cities and metropolitan regions with stops at all stations.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Trains of the `S` category are often operated by other companies.
+{{< /confusion >}}
+
+{{% /train-category %}}
+
+{{% train-category
+    id="mex"
+    title="Metropolexpress (MEX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Regional trains connecting Stuttgart and the surrounding area. In the surrounding area, `MEX` trains stop at many stations, whereas in the S-Bahn vicinity trains only stop at a handful of stations.
+
+{{< highlight confusion >}}
+Trains of the `MEX` category are often operated by other companies.
 {{< /highlight >}}
 
 {{% /train-category %}}
@@ -360,7 +379,7 @@ A [map](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Linienn
 
 ### DB Regio Bayern
 
-The trains of DB Regio Bayern between Nürnberg Hbf and Regensburg Hbf are operated on behalf of the railway operator agilis. Therefore, no FIP discounts are recognized on this section. [^2]
+The trains of DB Regio Bayern between Nürnberg Hbf and Regensburg Hbf are operated on behalf of the railway operator agilis. Therefore, no FIP discounts are recognized on this section. On other lines of DB Regio Bayern, FIP applies. [^2]
 
 ### Journeys in Transport Associations
 
@@ -382,6 +401,14 @@ In the following example, the selected connection is within the transport associ
 ![Ticket selection VRS](ticket_vrs.en.webp)
 
 {{% /expander %}}
+
+#### Cross-Association Tariffs
+
+In some federal states, several transport associations cooperate to jointly offer uniform tickets for local transport. FIP 50 Tickets are generally not issued within these cross-association tariffs. The following federal states have transport-association-spanning tariffs:
+
+- **Baden-Württemberg**: _bwtarif_ [Open overview](https://assets.static-bahn.de/dam/jcr:45aead8a-90e4-4856-966f-1eaf38c04f0a/bwegt_Karte_bwtarif_07-01-2025_barrierefrei.2025-08-01-13-22-45.pdf)
+- **Niedersachsen**: _Niedersachsen-Tarif_ [Open overview](https://www.niedersachsentarif.de/fahrkarten/niedersachsen-ticket/)
+- **Nordrhein-Westfalen**: _NRW-Tarif_ [Open overview](https://infoportal.mobil.nrw/nrw-tarif/nrw-tarif-im-ueberblick.html)
 
 ### Tariff Distinction between Local and Long-Distance Transport
 

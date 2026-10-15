@@ -9,6 +9,8 @@ country:
   - belgium
   - luxembourg
 operator: sncf
+content_images:
+  - image.webp
 aliases:
   - /booking/sncf-phone
   - /booking/sncf-ticket-office
@@ -53,9 +55,11 @@ La réservation est obligatoire dans tous les `TGV`, presque tous les trains `IC
 
 Le `TGV` inOui est le train à grande vitesse des SNCF Voyageurs, reliant de nombreuses villes françaises et des destinations internationales (ex. Munich, Francfort, Barcelone, Luxembourg, Bruxelles, Milan). Des trains `TGV` Lyria relient également la France à la Suisse (Bâle, Zurich, Lausanne, Genève).
 
-{{< highlight confusion >}}
+L’accès au quai (dans les gares avec barrières de quai) ainsi qu’aux trains est possible jusqu’à deux minutes avant le départ. Les portes se ferment deux minutes avant le départ. Le billet doit être prêt, car le personnel peut le contrôler avant l’embarquement.[^7] Ces règles ne s’appliquent pas en Allemagne.[^8]
+
+{{< confusion france >}}
 La SNCF exploite aussi des trains longue distance low-cost sous la marque OUIGO, mais ceux-ci ne sont pas valables avec FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{< highlight important >}}
 Des conditions particulières s’appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux).
@@ -83,9 +87,11 @@ Les prix de réservation diffèrent entre les trains en période de pointe (Peak
 
 OUIGO (Grande Vitesse) est le service grande vitesse low-cost de la SNCF, reliant de nombreuses villes en France et quelques destinations internationales. Il existe également des OUIGO Classique composés de matériel conventionnel.
 
-{{< highlight confusion >}}
+L’accès au train n’est plus garanti cinq minutes avant le départ.[^7]
+
+{{< confusion france >}}
 La SNCF exploite aussi des `TGV` sous la marque inOui, qui sont valables avec le FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -99,6 +105,8 @@ La SNCF exploite aussi des `TGV` sous la marque inOui, qui sont valables avec le
 %}}
 
 Trains à grande vitesse internationaux exploités par la SNCF en coopération avec la Deutsche Bahn, entre la France (Paris Est, Strasbourg) et l’Allemagne (Karlsruhe, Mannheim, Francfort-sur-le-Main, Erfurt, Halle-sur-Saale et Berlin ou Stuttgart et Munich). En juillet et août, il existe également des [trains directs entre Francfort (Main) et Bordeaux les samedis](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux).
+
+L’accès au quai (dans les gares avec barrières de quai) ainsi qu’aux trains est possible jusqu’à deux minutes avant le départ. Les portes se ferment deux minutes avant le départ. Le billet doit être prêt, car le personnel peut le contrôler avant l’embarquement.[^7] Ces règles ne s’appliquent pas en Allemagne.[^8]
 
 {{< highlight important >}}
 Des conditions particulières s’appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux).
@@ -131,6 +139,8 @@ Trains Intercités de la SNCF reliant différentes villes françaises, général
 
 Sur le [site Intercités](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) de la SNCF, les liaisons avec ou sans obligation de réservation sont indiquées. Il est également possible de consulter les conditions de réservation pour chaque numéro de train via la [recherche de train](https://www.sncf-voyageurs.com/fr/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) de la SNCF.
 
+L’accès au quai (dans les gares avec barrières de quai) ainsi qu’aux trains est possible jusqu’à deux minutes avant le départ. Les portes se ferment deux minutes avant le départ. Le billet doit être prêt, car le personnel peut le contrôler avant l’embarquement.[^7]
+
 #### Réservations
 
 Les prix de réservation diffèrent entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak). La classification des trains n’est malheureusement pas accessible publiquement.
@@ -155,7 +165,11 @@ Trains de nuit SNCF en France. Les liaisons internationales Nightjet ont été s
 
 #### Réservations
 
-Coût selon la ligne et l’affluence.
+|          | Voiture assise | Voiture-couchette |
+| -------- | -------------- | ----------------- |
+| National | 2 €            | 20 €              |
+
+Il n’y a pas de distinction entre les trains en période de pointe (Peak) et hors période de pointe (Off-Peak) pour les Intercité de nuit.
 
 {{% /train-category %}}
 
@@ -173,9 +187,11 @@ Coût selon la ligne et l’affluence.
 Le `TER` est le train régional reliant différentes villes françaises.
 Certaines lignes au départ de Paris sont à réservation obligatoire, voir [Réservation obligatoire en TER](#réservation-obligatoire-en-ter).
 
-{{< highlight confusion >}}
+L’accès au quai (dans les gares avec barrières de quai) ainsi qu’aux trains est possible jusqu’à deux minutes avant le départ. Les portes se ferment deux minutes avant le départ. Le billet doit être prêt, car le personnel peut le contrôler avant l’embarquement.[^7]
+
+{{< confusion france >}}
 Sur la ligne Marseille – Nice, Transdev exploite les trains, c’est pourquoi FIP n’est pas accepté. Cependant, sur la ligne Marseille – Toulon, des trains de la SNCF sont également utilisés, où FIP est accepté. Une vérification préalable de l’exploitant est donc indispensable ici.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -210,7 +226,7 @@ Dans la région genevoise, les trains régionaux transfrontaliers circulent sous
 
 Sur le site de la SNCF, les correspondances Léman Express sont indiquées par `LEX` suivi du numéro de ligne (L1, L2, etc.). Sur le site des CFF, les trains sont parfois indiqués par `RL`, et occasionnellement par `TER`.
 
-En France et en Suisse, les réductions FIP s'appliquent comme d'habitude. Les réductions FIP ne s'appliquent pas aux trajets transfrontaliers ; il est alors nécessaire d'acheter des billets au tarif normal. [^7]
+En France et en Suisse, les réductions FIP s'appliquent comme d'habitude. Les réductions FIP ne s'appliquent pas aux trajets transfrontaliers ; il est alors nécessaire d'acheter des billets au tarif normal. [^9]
 
 {{% /train-category %}}
 
@@ -521,4 +537,8 @@ La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent ac
 
 [^6]: [SNCF Connect – Offres enfants et familles](https://www.sncf-connect.com/en-en/help/offer-children-and-families#ancre-11001)
 
-[^7]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
+[^7]: [SNCF Connect – Boarding Train](https://www.sncf-connect.com/en-en/help/boarding-train)
+
+[^8]: [DB – Was muss ich bei meiner Reise mit der SNCF beachten?](https://www.bahn.de/faq/internationale-reise-sncf-was-beachten)
+
+[^9]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)

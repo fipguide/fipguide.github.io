@@ -21,6 +21,10 @@ Many countries have DB agencies that may be able to sell FIP tickets to a simila
 The list of international DB agencies can be found on the [Deutsche Bahn website](https://assets.static-bahn.de/dam/jcr:cfb35ea3-642e-4a17-9a2a-4a40af5d22b8/20241010_Internationale%20DB-Agenturen.pdf).
 {{% /highlight %}}
 
+{{% highlight tip %}}
+With the new sales system _VSPro_, only FIP 50 Tickets that are also available [online](/operator/db#db-website-fip-international) can be sold. All other FIP Tickets must continue to be sold through the previous sales system _VSP_. (As of October 2026)
+{{% /highlight %}}
+
 {{% booking-section "fip_50" %}}
 
 ## FIP 50 Tickets

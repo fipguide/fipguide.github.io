@@ -4,6 +4,8 @@ country: portugal
 params:
   operators_without_fip:
     - Fertagus
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

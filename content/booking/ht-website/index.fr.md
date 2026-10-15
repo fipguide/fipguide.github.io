@@ -12,7 +12,7 @@ params:
   type: online
 ---
 
-Hellenic Train propose également une [application](https://www.hellenictrain.gr/en/ht-new-platform-new-ticket-platform-has-its-own-mobile-app) permettant de réserver des Billets FIP 50.
+Hellenic Train propose également une [application](https://www.hellenictrain.gr/en/tickets-cards/tickets/hellenic-train-ticket-issuance/) permettant de réserver des Billets FIP 50.
 
 {{% booking-section "fip_50" %}}
 

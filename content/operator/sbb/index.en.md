@@ -2,6 +2,8 @@
 title: SBB CFF FFS
 country:
   - switzerland
+content_images:
+  - image.webp
 aliases:
   - /booking/sbb-ticket-machine
   - /booking/sbb-ticket-office
