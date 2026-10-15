@@ -179,9 +179,9 @@ Les autres points frontières ne sont desservis qu’en régional. Le plus simpl
 
 À Potůčky (ligne Karlovy Vary – Johanngeorgenstadt), les Coupons FIP DB et ČD sont valables. Les autres points frontières sont plus complexes.
 
-À Cheb, les trains transfrontaliers DB Regio sont accessibles avec des Coupons FIP des deux pays ou un billet FIP 50 valable sur tout le trajet. Les trains Agilis (exploités côté tchèque par ČD) nécessitent un billet normal pour la section allemande (le Deutschlandticket est valable à partir de Schirnding).
+À Cheb, les trains transfrontaliers DB Regio sont accessibles avec des Coupons FIP des deux pays ou un billet FIP 50 valable sur tout le trajet. Les trains Agilis (exploités côté tchèque par ČD) nécessitent un billet normal pour la section allemande (un Deutschlandticket combiné au Billet FIP pour la section tchèque suffit également).
 
-Même chose pour le point frontière nord Aš. À Furth im Wald, le train régional transfrontalier, qui est un EC côté tchèque, est accessible avec un Coupon FIP ČD côté tchèque, mais un billet normal est requis côté allemand.
+Même chose pour le point frontière nord Aš. À Furth im Wald, le train régional transfrontalier, qui est un `EC` côté tchèque, est accessible avec un Coupon FIP ČD côté tchèque, mais un billet normal ou un Deutschlandticket est requis côté allemand. Lors du changement d’horaire de décembre 2026, l’exploitant de la section tchèque devient Leo Express ; le train ne sera alors plus utilisable avec les réductions FIP.
 
 Aux points frontières Hrádek nad Nisou (ligne Liberec – Zittau), Varnsdorf (ligne Zittau – Seifhennersdorf), Vejprty (ligne Chomutov – Cranzahl, desservie uniquement en été les week-ends et jours fériés) et Vojtanov (ligne Cheb – Zwickau), le FIP est inutile, car des compagnies privées non FIP circulent des deux côtés.
 

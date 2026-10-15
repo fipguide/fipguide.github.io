@@ -50,9 +50,9 @@ The following lines can be used with the GySEV FIP Coupon in Austria in the spec
 
 GySEV operates Scarbantia IC trains between Sopron and Budapest.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 In Hungary, InterCity trains are also operated by MÁV, the Hungarian state railway.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Reservations
 
@@ -70,9 +70,9 @@ Reservations are only mandatory between Győr and Budapest. For journeys between
 
 Fast local train with fewer stops and modern rolling stock.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 Regionalexpress trains are sometimes also operated by ÖBB where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [bahn.de](https://int.bahn.de/en).
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -86,9 +86,9 @@ Regionalexpress trains are sometimes also operated by ÖBB where GySEV FIP Ticke
 
 Local train stopping at most stations.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 Regional trains are sometimes also operated by ÖBB where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [bahn.de](https://int.bahn.de/en).
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -102,9 +102,9 @@ Regional trains are sometimes also operated by ÖBB where GySEV FIP Tickets are 
 
 Local train stopping at most stations.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 Személyvonat trains are sometimes also operated by [MÁV](/operator/mav#sz) where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [bahn.de](https://int.bahn.de/en).
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
