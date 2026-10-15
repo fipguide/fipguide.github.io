@@ -138,6 +138,10 @@ fipValidity:
     discount applies to you, first select the issuer of your FIP Card. You can
     find an overview of all discounts in the [FIP
     Application](/general/fip-validity).
+  fip-reduced-ticket-shortDescription: >-
+    Railway companies typically offer a discount with FIP, also known as FIP50
+    or FIP75. The discount is usually 50 %, sometimes 75 %. Here you can find
+    out how much the discount is.
   general: General
   issuer: FIP Card Issuer
   national-discountsHeading: National Discounts (Non-FIP)
@@ -151,6 +155,12 @@ fipValidity:
   selectIssuer: 'Select your FIP Card issuer:'
   selectIssuerFirst: Please select a FIP Card issuer first.
   selectIssuerPlaceholder: Select FIP Card issuer
+  tagsDialogIntro: >-
+    First select the issuer of your FIP Card. You can find a detailed overview
+    of all coupons and discounts on the [FIP Application](/general/fip-validity)
+    page.
+  tagsInfo: Detailed information on validity depends on the issuer of your FIP Card.
+  tagsInfoLink: Click here for detailed information
   taxationHeading: Taxation
   taxationMissingInfo: We currently do not have information on taxation.
   unknown: Unknown

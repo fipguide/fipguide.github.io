@@ -21,11 +21,14 @@ Renfe Operadora is the state-owned railroad company in [Spain](/country/spain "S
 
 ## Validity of FIP Tickets
 
-{{< fip-validity type="fip-coupon" status="valid" text="Exceptions: trains requiring reservations" >}}
-
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" text="Exceptions: trains requiring reservations" >}}
-
-{{< fip-validity type="fip-global-fare" status="valid" text="For trains subject to reservation except Avlo" disable_dialog=true >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_coupon_subtitle="Exceptions: trains requiring reservations"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50 — Exceptions: trains requiring reservations"
+    fip_global_fare="valid"
+    fip_global_fare_subtitle="For trains subject to reservation except Avlo"
+>}}
 
 ## Train Categories and Reservations
 

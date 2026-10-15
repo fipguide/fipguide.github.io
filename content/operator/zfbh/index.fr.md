@@ -16,8 +16,10 @@ content_images:
 
 ## Validité des Billets FIP
 
-{{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity
+    fip_coupon="invalid"
+    fip_reduced_ticket="valid"
+>}}
 
 Les Billets FIP 50 sont valables sur les liaisons de la ŽFBH. Pour les trajets transfrontaliers vers la Croatie, il faut soit un Billet FIP 50 continu, soit un Billet FIP 50 jusqu’à la frontière croate et un Coupon FIP de la HŽ. Pour les trajets au-delà de la frontière des entités (actuellement non proposés), il faudrait soit un Billet FIP 50 continu, soit un Billet FIP 50 jusqu’à la frontière des entités et un Coupon FIP de la ŽRS.
 

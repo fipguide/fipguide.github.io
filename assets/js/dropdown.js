@@ -31,14 +31,8 @@ document.addEventListener("DOMContentLoaded", function () {
   registerEventListeners("navbar-country-selection");
   registerEventListeners("navbar-generalinformation-selection");
   registerEventListeners("navbar-operator-selection");
-  [
-    "fip-validity-issuer",
-    "fip-validity-dialog-fip-coupon",
-    "fip-validity-dialog-fip-reduced-ticket",
-  ].forEach((id) => {
-    if (document.querySelector(`#${id}-button`)) {
-      registerEventListeners(id);
-    }
+  document.querySelectorAll("[data-fip-validity-button]").forEach((button) => {
+    registerEventListeners(button.id.replace(/-button$/, ""));
   });
 });
 

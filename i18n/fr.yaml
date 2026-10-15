@@ -144,6 +144,11 @@ fipValidity:
     s'applique à votre cas, sélectionnez d'abord l'émetteur de votre Carte FIP.
     Vous trouverez un aperçu de toutes les réductions dans la [Demande
     FIP](/general/fip-validity).
+  fip-reduced-ticket-shortDescription: >-
+    Les compagnies ferroviaires accordent généralement une réduction avec FIP,
+    également connue sous le nom de FIP 50 ou FIP 75. La réduction est
+    habituellement de 50 %, parfois de 75 %. Vous pouvez découvrir ici le
+    montant de la réduction.
   general: Général
   issuer: Émetteur de la carte FIP
   national-discountsHeading: Réductions nationales (non-FIP)
@@ -159,6 +164,14 @@ fipValidity:
   selectIssuer: 'Sélectionner l''émetteur de votre Carte FIP :'
   selectIssuerFirst: Veuillez d'abord sélectionner un émetteur de Carte FIP.
   selectIssuerPlaceholder: Sélectionner l'émetteur de la Carte FIP
+  tagsDialogIntro: >-
+    Sélectionnez d'abord l'émetteur de votre Carte FIP. Vous trouverez un aperçu
+    détaillé de tous les coupons et réductions sur la page [Demande
+    FIP](/general/fip-validity).
+  tagsInfo: >-
+    Les informations détaillées sur la validité dépendent de l’émetteur de votre
+    Carte FIP.
+  tagsInfoLink: Cliquez ici pour des informations détaillées
   taxationHeading: Imposition
   taxationMissingInfo: Nous ne disposons actuellement d’aucune information sur l’imposition.
   unknown: Inconnu

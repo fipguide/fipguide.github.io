@@ -19,9 +19,11 @@ An overview of the offered traffic is provided by the [route network map of Hung
 
 ## Validity of FIP Tickets
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
-
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50"
+>}}
 
 FIP Coupons and FIP 50 Tickets are valid on MÁV connections. For cross-border journeys, either a continuous FIP 50 ticket or FIP Coupons from both countries must be available.
 

@@ -143,6 +143,10 @@ fipValidity:
     auch 75%. Um herauszufinden, wie hoch dein Rabatt ist, wähle zunächst den
     Aussteller deines FIP Ausweises aus. Einen Überblick aller Rabatte erhälst
     du auf der Seite [FIP Beantragung](/general/fip-validity).
+  fip-reduced-ticket-shortDescription: >-
+    Üblicherweise gewähren Bahngesellschaften einen Rabatt mit FIP, auch als FIP
+    50 oder FIP 75 bekannt. Der Rabatt beläuft sich meistens auf 50%, teilweise
+    auch 75%. Hier kannst du herausfinden, wie hoch der Rabatt ist.
   general: Übergreifendes
   issuer: Aussteller des FIP Ausweises
   national-discountsHeading: Nationale Vergünstigungen (kein FIP)
@@ -156,6 +160,14 @@ fipValidity:
   selectIssuer: 'FIP Ausweis Aussteller wählen:'
   selectIssuerFirst: Bitte zuerst einen FIP Ausweis Aussteller auswählen.
   selectIssuerPlaceholder: FIP Ausweis Aussteller wählen
+  tagsDialogIntro: >-
+    Wähle zunächst den Aussteller deines FIP Ausweises. Einen detaillierten
+    Überblick aller Freifahrtscheine und Vergünstigungen erhältst du auf der
+    Seite [FIP Beantragung](/general/fip-validity).
+  tagsInfo: >-
+    Detaillierte Informationen über die Gültigkeit sind abhängig vom Aussteller
+    deines FIP Ausweises.
+  tagsInfoLink: Klicke hier für detaillierte Informationen
   taxationHeading: Versteuerung
   taxationMissingInfo: Derzeit liegen uns keine Informationen zur Versteuerung vor.
   unknown: Unbekannt

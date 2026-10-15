@@ -15,8 +15,10 @@ content_images:
 
 ## Validité des Billets FIP
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+>}}
 
 Les coupons FIP et les billets FIP 50 sont valables sur les services de la ŽRSM. Les voyages transfrontaliers ne sont actuellement pas proposés.
 

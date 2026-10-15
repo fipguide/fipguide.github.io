@@ -22,9 +22,10 @@ The service between Harwich ([United Kingdom](/country/united-kingdom)) and Hoek
 
 ## Validity of FIP Tickets
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
-
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+>}}
 
 ## Ship Categories and Reservations
 

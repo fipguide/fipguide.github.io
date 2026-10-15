@@ -22,9 +22,10 @@ Auf der Website der KW können alle [derzeit im Linienverkehr befahrenen Strecke
 
 ## Gültigkeit FIP Tickets
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
-
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+>}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der KW gültig.
 
