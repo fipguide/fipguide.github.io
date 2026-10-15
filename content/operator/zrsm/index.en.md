@@ -28,8 +28,7 @@ FIP coupons and FIP 50 tickets are valid on ŽRSM services. Cross-border journey
     title="Interregional train (IR)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
     route_overview_url="https://mzt.mk/poagane-od-skopje/"
 %}}
 
@@ -53,8 +52,7 @@ The current timetable includes rail services on the following routes:
     title="Regional train (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
     route_overview_url="https://mzt.mk/poagane-od-skopje/"
 %}}
 
@@ -78,7 +76,6 @@ The current timetable includes rail services on the following routes:
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_possible=nil
 %}}
 
 FIP coupons are not valid on buses operated by ŽRSM. On replacement buses, FIP discounts apply if they replace a train on which FIP would have been valid. [^1]

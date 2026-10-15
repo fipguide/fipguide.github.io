@@ -29,8 +29,7 @@ FIP Coupons and FIP 50 Tickets are valid on ŽPCG services. For cross-border jou
     title="National Trains"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 The ŽPCG operates regional trains in domestic traffic, which are second class only.
@@ -50,8 +49,7 @@ Upon presentation of the FIP Card, a 50% discount is granted on [regular ticket 
     title="International Trains"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Between Montenegro and Serbia, ŽPCG operates daytime trains in the summer months as well as year-round night trains with seated, couchette and sleeping cars and (partly) dining cars.
@@ -73,8 +71,6 @@ An additional 10% service fee applies for couchette/sleeping car reservations.[^
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=nil
 %}}
 
 FIP tickets are not valid on bus lines operated by ŽPCG, unless these are rail replacement services.[^2]

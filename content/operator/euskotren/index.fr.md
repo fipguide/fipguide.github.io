@@ -50,8 +50,7 @@ Les réservations ne sont généralement pas possibles chez Euskotren.
     title="Chemin de fer à voie métrique"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Euskotren exploite des trains sur le chemin de fer électrifié à voie métrique dans les provinces de Bizkaia et Gipuzkoa. Les "Euskotren FIP Tickets" sont valables sur toutes les lignes, y compris la ligne jusqu’à la gare TGV d’Hendaye en France.
@@ -63,8 +62,7 @@ Euskotren exploite des trains sur le chemin de fer électrifié à voie métriqu
     title="Tramways"
     type="tram"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Les "Euskotren FIP Tickets" sont valables aussi bien sur le tramway de Bilbao que sur celui de Vitoria-Gasteiz.
@@ -78,8 +76,7 @@ Selon le guide du Rail Delivery Group, le billet doit être validé lors de l’
     title="Ligne de métro L3 à Bilbao"
     type="subway"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 À Bilbao, il existe un réseau de métro avec trois lignes. Sur la ligne L3, Euskotren accepte les "Euskotren FIP Tickets".
@@ -95,8 +92,7 @@ Sur toutes les autres lignes (L1 et L2) du réseau métro de Bilbao, Metro Bilba
     title="Funiculaire \"Funicular de Larreineta\""
     type="funicular"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Euskotren exploite le funiculaire historique entre Trapagaran et Larreineta, reliant ainsi les villages de montagne au-dessus de Trapagaran à la vallée.
@@ -111,8 +107,7 @@ Si vous n’avez pas d’"Euskotren FIP Ticket", le personnel des stations déli
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Les Billets FIP ne sont pas valables sur les lignes de bus régionales d’Euskotren. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.

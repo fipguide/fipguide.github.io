@@ -40,8 +40,7 @@ La réservation (avec supplément) est obligatoire dans les trains longue distan
     title="Frecciarossa (FR AV)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Catégorie la plus élevée pour les trains à grande vitesse longue distance. Le Frecciarossa 1000 est signalé pour sa vitesse et son service supérieurs.
@@ -63,8 +62,7 @@ Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FI
     title="Frecciargento (FA AV)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains à grande vitesse à pendulation.
@@ -86,8 +84,7 @@ Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FI
     title="Frecciabianca (FB)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains rapides hors lignes à grande vitesse.
@@ -105,8 +102,7 @@ Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FI
     title="FrecciaLink (FL)"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Bus de correspondance pour les trains à grande vitesse.
@@ -120,8 +116,7 @@ Bus de correspondance pour les trains à grande vitesse.
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains rapides principalement hors lignes à grande vitesse.
@@ -137,8 +132,7 @@ Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FI
     title="InterCity Notte (ICN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Train de nuit national avec voitures couchettes, lits et places assises.
@@ -156,8 +150,7 @@ Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FI
     title="Eurocity (EC) / Railjet (RJ) / Railjet Xpress (RJX)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains rapides internationaux vers l’Allemagne, l’Autriche et la Suisse.
@@ -180,8 +173,7 @@ Le prix de la réservation inclut toujours un supplément lors de l’utilisatio
     title="Nightjet (NJ) / Euronight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains de nuit internationaux vers l’Allemagne, l’Autriche et la Suisse.
@@ -205,8 +197,7 @@ Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
     title="Regionale Veloce (RV)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains régionaux rapides desservant les principales gares.
@@ -222,8 +213,7 @@ Les billets pour les trains régionaux peuvent être liés à un train spécifiq
     title="Regionale (R / REG)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains régionaux desservant la plupart des gares.
@@ -239,8 +229,7 @@ Les billets pour les trains régionaux peuvent être liés à un train spécifiq
     title="Metropolitano (M) / Servizio Ferroviario Metropolitano (sfm)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Réseaux suburbains à Naples (`M`) et Turin (`sfm`).
@@ -256,8 +245,7 @@ Les lignes de métro sont parfois aussi marquées `M` et ne sont pas accessibles
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Les bus sont exclus des réductions FIP. Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.

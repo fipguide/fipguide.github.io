@@ -43,8 +43,7 @@ However, only **Vy Group AS** is printed on the FIP Card and the FIP Coupons.
     title="Fjerntog (F)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Long-distance trains on the country’s main lines with café. Some trains operate as night trains with seat, couchette and sleeping cars. In the journey planner on [Entur](https://entur.no/), the night trains are marked with a crescent moon {{% icon "bedtime" %}}.
@@ -89,8 +88,7 @@ With a ticket for the night train, you can spend the time until departure in the
     title="Regionekspress (RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Regionekspress connects towns and cities with stops at the main stations. Some trains have vending machines for snacks and drinks.
@@ -113,8 +111,7 @@ On RE20, FIP is recognized only between Oslo S and Halden, but not on the cross-
     title="Regiontog (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Regiontog connects towns and cities with stops at almost all stations. Some trains have vending machines for snacks and drinks.
@@ -152,8 +149,7 @@ On lines R60 and R65, a free reservation is required.
     title="Lokaltog (L)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Local trains in the metropolitan areas of Oslo, Bergen and Stavanger.
@@ -177,8 +173,6 @@ Trains marked with X do not stop at all stations (for example L2x).
     title="Flytog (FLY)"
     type="highspeed"
     fip_accepted=false
-    reservation_required=nil
-    reservation_possible=nil
 %}}
 
 Flytoget is the airport express between Oslo Airport and Oslo S. FIP Discounts cannot be used here.
@@ -194,8 +188,6 @@ Alternatively, regional train lines R10, R11 and R12 can be used with FIP for th
     title="Vy express / Vy flybussen"
     type="bus"
     fip_accepted=false
-    reservation_required=nil
-    reservation_possible=nil
 %}}
 
 Vy operates a network of long-distance bus routes, which cannot be used with FIP.[^1]

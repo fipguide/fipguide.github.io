@@ -34,8 +34,7 @@ The train categories are partially used by other operators in Romania as well. F
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 National long-distance trains with few intermediate stops and comparatively higher comfort. They mainly run from Bucharest in various directions across the country.
@@ -57,8 +56,7 @@ A seat reservation is mandatory. If the train is fully booked, a standing reserv
     title="InterRegio (IR)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Comparatively fast trains connecting major cities with few intermediate stops. Some also run cross-border, particularly to Hungary.
@@ -80,8 +78,7 @@ A seat reservation is mandatory. If the train is fully booked, a standing reserv
     title="InterRegio Noapte (IRN)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Mostly international trains running overnight. They are also partially listed as `D` in the journey planners of other providers.
@@ -107,8 +104,7 @@ For couchette and sleeper cars, the following prices apply on national routes: [
     title="Other international trains"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 International trains to Bulgaria, Moldova and Ukraine run without a specific train category and only have a train number.
@@ -134,8 +130,7 @@ For couchette and sleeper cars, the following prices apply on national routes: [
     title="Regio (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 Regional trains that also serve smaller towns. The various trains on a route often do not have a fixed stopping pattern, meaning smaller stops are only served by some `R` trains.

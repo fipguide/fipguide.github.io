@@ -39,8 +39,7 @@ There is no reservation requirement except for certain cross-border connections 
     title="Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 The `ICE` is a high-speed train and the highest train category of DB. It connects major cities in Germany at up to 300 km/h and also operates to some neighboring countries. Especially fast connections with few stops are called `ICE Sprinter`.
@@ -58,8 +57,7 @@ In the past, there was a reservation requirement for cross-border journeys in su
     title="Train à grande vitesse (TGV)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Cross-border high-speed trains of SNCF in cooperation with DB. These run from Frankfurt, Mannheim, Karlsruhe, Saarbrücken, Stuttgart, and Munich to Paris.
@@ -79,8 +77,7 @@ Reservation required for cross-border journeys to France.
     title="Railjet (RJ) / Railjet Xpress (RJX)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 International high-speed trains of the highest category.
@@ -109,8 +106,7 @@ For Railjets to Italy, a surcharge is required from the Italian border onward (s
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Intercity trains are an important addition to the ICE network. They run at lower speeds than ICE trains, connect many cities, and also serve many holiday and vacation regions.
@@ -124,8 +120,7 @@ Some [Nightjet](#nj) services are operated using `IC` coaches. These coaches may
     title="Eurocity-Express (ECE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 An international express train between Frankfurt and Milan as well as between Munich and Zurich. Since December 2025, the train category is also used for further services between Switzerland and Germany and trains on the Hamburg – Copenhagen route.
@@ -150,8 +145,7 @@ Reservation required for cross-border journeys to Italy and during the high seas
     title="Eurocity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Eurocity trains are international long-distance trains connecting Germany with other European countries. They are similar to Intercity trains but often consist of carriages from various railway companies, including both Deutsche Bahn and foreign partners. Sometimes they have foreign dining cars, e.g., on connections from Berlin to Poland.
@@ -168,8 +162,7 @@ In the past, there was a reservation requirement for cross-border journeys in su
     title="Nightjet (NJ) / EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Night trains of ÖBB in cooperation with DB to various European countries. The trains offer sleeper, couchette, and seating cars and are operated abroad in cooperation with other railway companies.
@@ -204,8 +197,7 @@ Local trains are often operated by other companies that do not accept FIP. In th
     title="Regionalexpress (RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=partially
+    reservation="partially-possible"
 %}}
 
 Regional express trains connect towns and cities with stops at the main stations. Sometimes the trains also run long-distance routes.
@@ -221,8 +213,7 @@ Trains of the `RE` category are often operated by other companies.
     title="Regionalbahn (RB)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=partially
+    reservation="partially-possible"
 %}}
 
 Regional trains connect towns and cities with stops at almost all stations.
@@ -238,8 +229,7 @@ Trains of the `RB` category are often operated by other companies.
     title="S-Bahn (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Local trains in large cities and metropolitan regions with stops at all stations.
@@ -255,8 +245,7 @@ Trains of the `S` category are often operated by other companies.
     title="Metropolexpress (MEX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regional trains connecting Stuttgart and the surrounding area. In the surrounding area, `MEX` trains stop at many stations, whereas in the S-Bahn vicinity trains only stop at a handful of stations.
@@ -272,8 +261,7 @@ Trains of the `MEX` category are often operated by other companies.
     title="Flughafenexpress (FEX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Local express train between Berlin Central Station and Berlin Willy Brandt Airport (BER).
@@ -285,8 +273,7 @@ Local express train between Berlin Central Station and Berlin Willy Brandt Airpo
     title="Harz-Berlin-Express (HBX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Weekend excursion train between Berlin and Thale or Goslar in the Harz.
@@ -298,8 +285,7 @@ Weekend excursion train between Berlin and Thale or Goslar in the Harz.
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP discounts do not apply on buses. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]

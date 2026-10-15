@@ -40,8 +40,7 @@ Im Fernverkehr besteht eine Reservierungspflicht inkl. Aufschlägen.
     title="Frecciarossa (FR AV)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Höchste italienische Zuggattung im Fernverkehr mit Hochgeschwindigkeitszügen. Zusätzlich wird der Frecciarossa 1000 als Zug mit besonders hoher Geschwindigkeit und Service im Fahrplan gekennzeichnet.
@@ -63,8 +62,7 @@ Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis h
     title="Frecciargento (FA AV)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Hochgeschwindigkeitszüge mit Neigetechnik.
@@ -86,8 +84,7 @@ Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis h
     title="Frecciabianca (FB)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Schnellzug abseits von Hochgeschwindigkeitsstrecken.
@@ -105,8 +102,7 @@ Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis h
     title="FrecciaLink (FL)"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Anschlussbusse für Hochgeschwindigkeitszüge.
@@ -120,8 +116,7 @@ Anschlussbusse für Hochgeschwindigkeitszüge.
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Schnellzug meist abseits von Hochgeschwindigkeitsstrecken.
@@ -137,8 +132,7 @@ Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis h
     title="InterCity Notte (ICN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Nationaler Nachtzug mit Schlaf-, Liege- und Sitzwagen.
@@ -156,8 +150,7 @@ Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis h
     title="Eurocity (EC) / Railjet (RJ) / Railjet Xpress (RJX)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Internationale Schnellzüge nach Deutschland, Österreich und in die Schweiz.
@@ -180,8 +173,7 @@ Der Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit FIP Freifa
     title="Nightjet (NJ) / Euronight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Internationale Nachtzüge nach Deutschland, Österreich und in die Schweiz.
@@ -205,8 +197,7 @@ Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit F
     title="Regionale Veloce (RV)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Schnelle Regionalzüge mit Halt an den wichtigsten Stationen.
@@ -222,8 +213,7 @@ Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen sie
     title="Regionale (R / REG)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regionalzüge mit Halt an den meisten Stationen.
@@ -239,8 +229,7 @@ Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen sie
     title="Metropolitano (M) / Servizio Ferroviario Metropolitano (sfm)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 S-Bahnsysteme im Großraum Neapel `M` und Großraum Turin `sfm`.
@@ -256,8 +245,7 @@ U-Bahnen sind teilweise auch mit `M` gekennzeichnet und können nicht mit FIP ge
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Busse sind von FIP-Rabatten ausgeschlossen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.

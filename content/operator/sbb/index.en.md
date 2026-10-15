@@ -34,8 +34,7 @@ FIP Coupons and FIP 50 Tickets are valid without restriction on SBB connections.
     title="Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 High-speed trains from Germany to Basel and sometimes further to Zurich, Bern, or Interlaken. Due to delays in Germany, these trains sometimes terminate unexpectedly in Basel and are replaced by substitute trains within Switzerland.
@@ -47,8 +46,7 @@ High-speed trains from Germany to Basel and sometimes further to Zurich, Bern, o
     title="Train à Grande Vitesse (TGV)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 High-speed trains from France to Zurich via Basel.
@@ -64,8 +62,7 @@ Reservations are mandatory outside Switzerland and for cross-border journeys.
     title="Eurocity (EC) / Eurocity-Express (ECE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 International trains to Germany and Italy.
@@ -84,8 +81,7 @@ A reservation and surcharge are required for the Italian section. It is cheaper 
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Fast national trains stopping only in major cities and transfer stations.
@@ -99,8 +95,7 @@ Some [Nightjet](#nj) services are operated using `IC` coaches. These coaches may
     title="Nightjet (NJ) / EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Nightjet night trains of ÖBB and EuroNight night trains of ČD, MÁV, and HŽ, operated by SBB in Switzerland. These run to Berlin, Dresden, Leipzig, Prague, Budapest, Ljubljana, and Zagreb, among others.
@@ -118,8 +113,7 @@ A reservation is required except in seat cars when operating as Intercity, Euroc
     title="Panorama Express (PE)"
     type="regional"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
     additional_information_url="https://www.sbb.ch/en/leisure-holidays/trains-boats/panoramic-journeys/gotthard-panorama-express.html"
 %}}
 
@@ -140,8 +134,7 @@ These trains are 1st class only. With a 2nd class coupon a 1st class upgrade is 
     title="InterRegio (IR) / RegionalExpress (RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 National trains stopping in larger cities.
@@ -153,8 +146,7 @@ National trains stopping in larger cities.
     title="Regio (R) / S-Bahn (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains stopping at all stations. In metropolitan areas also called S-Bahn.
@@ -166,8 +158,7 @@ Trains stopping at all stations. In metropolitan areas also called S-Bahn.
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP Tickets are not valid on SBB-operated bus lines. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.

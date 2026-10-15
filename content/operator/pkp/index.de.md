@@ -50,8 +50,7 @@ Polnische Fernzüge sind teilweise reservierungspflichtig. Die Reservierungspfli
     title="Express Intercity Premium (EIP)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Hochgeschwindigkeitszüge mit Neigetechnik (Pendolino), die von PKP Intercity betrieben werden und hauptsächlich zwischen Gdynia/Gdańsk und Kraków/Katowice über Warschau fahren, aber auch vereinzelt auf anderen Routen zu finden sind.
@@ -72,8 +71,7 @@ Bei Reservierungen, die nicht zu einem entsprechenden Preis durch die PKP verkau
     title="Express InterCity (EIC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Komfortable Züge mit modernisierten Reisezugwagen, die von PKP Intercity betrieben werden und nur in den wichtigsten Städten halten. Grenzüberschreitende EICs werden in anderen Ländern auch als EC bezeichnet. [^3]
@@ -90,8 +88,7 @@ Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Schnellzüge mit Reisezugwagen oder modernen Triebzügen, die von PKP Intercity betrieben werden und nur an wichtigen Bahnhöfen halten. [^4]
@@ -109,8 +106,7 @@ Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [
     title="IC Nieśpieszny (ICN)"
     type="highspeed"
     fip_accepted=false
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Der IC Nieśpieszny ist ein Erlebniszug im Retro-Stil von PKP Intercity mit einem Fokus auf bewusst entspanntes und langsames Reisen in historischen restaurierten Wagen.
@@ -128,8 +124,7 @@ Eine Reservierung ist erforderlich.
     title="Twoje Linie Kolejowe (TLK)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Überregionale Züge, die von PKP Intercity betrieben werden und sich durch besonders günstige Ticketpreise mit einfachen Komfortmerkmalen auszeichnen. [^5]
@@ -147,8 +142,7 @@ Einige Züge sind reservierungspflichtig. Die Reservierungspflicht kann in der [
     title="EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Internationale Nachtzugverbindungen, betrieben von PKP Intercity, die aus oder in Richtung Deutschland, Tschechien, Östereich, Ungarn und in die Ukraine verkehren.
@@ -174,8 +168,7 @@ Abweichende Preise für internationale Verbindungen. [Weitere Informationen](htt
     title="Regio (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regionalzugverbindungen mit Halten an den meisten Bahnhöfen, die von Polregio betrieben werden. Diese Züge haben keine 1. Klasse.
@@ -191,8 +184,7 @@ Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als 
     title="InterRegio (IR)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Direkte Züge zwischen Łódz und Warschau, die von Polregio betrieben werden und eine höhere Preisklasse als normale Regios haben.
@@ -204,8 +196,7 @@ Direkte Züge zwischen Łódz und Warschau, die von Polregio betrieben werden un
     title="superREGIO (sR)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Überregionale Züge, die von Polregio betrieben werden und mit höherem Komfort als normale Regiozüge ausgestattet sind.
@@ -217,8 +208,7 @@ Direkte Züge zwischen Łódz und Warschau, die von Polregio betrieben werden un
     title="Bus Warschau Modlin"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP Fahrkarten sind in den KM-Bussen zwischen Modlin und Flughafen Warschau Modlin nicht gültig.
