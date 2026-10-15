@@ -30,12 +30,12 @@ Teilweise wird der Aufschlag _DIRITTO AMMISSIONE_ verkauft. Dieser Aufschlag ist
 Le Frecce (FR, FA, FB): 25 € (1./2. Klasse) \
 InterCity (IC): 3 € (1./2. Klasse) \
 InterCity Notte (ICN): 25 € (1./2. Klasse, Sitzwagen)
-{{% /highlight %}}
+{{< /highlight >}}
 
 {{% /booking-section %}}
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 Bei Kurzstrecken im Le Frecce und sonstigen Fernzügen ist der Normaltarif güstiger als FIP reduzierte Tickets.
 
 Zusätzlich können Aufschläge für Le Frecce und sonstige Fernzüge teilweise teurer sein als ein FIP 50 Ticket.
-{{< /highlight >}}
+{{% /highlight %}}
