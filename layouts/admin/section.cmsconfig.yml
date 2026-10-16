@@ -92,20 +92,6 @@ x_fip_validity_target_fields_reduced: &fip_validity_target_fields_reduced
     group_type: "fip-reduced-ticket"
     required: false
 
-x_fip_validity_columns: &fip_validity_columns
-  - label: "FIP Coupon"
-    name: "fip-coupon"
-    widget: "object"
-    summary: "Target groups"
-    hint: "Number and validity of FIP Coupons available to this target group."
-    fields: *fip_validity_target_fields_coupon
-  - label: "FIP Reduced Ticket"
-    name: "fip-reduced-ticket"
-    widget: "object"
-    summary: "Target groups"
-    hint: "Discount on FIP Reduced Tickets (FIP 50 / FIP 75) available to this target group."
-    fields: *fip_validity_target_fields_reduced
-
 collections:
   - name: "news"
     label: "News"
@@ -405,12 +391,14 @@ collections:
       - label: "Validity Groups"
         name: "groups"
         widget: "list"
-        summary: "{{"{{"}}fields.name}} ({{"{{"}}fields.type}}, {{"{{"}}fields.status}})"
-        hint: "The validity groups available for this issuer. Referenced by name in the Operators section below."
+        map_key_field: "id"
+        summary: "{{"{{"}}fields.id}} ({{"{{"}}fields.type}}, {{"{{"}}fields.status}})"
+        hint: "The validity groups available for this issuer. Referenced by ID in the Operators section below."
         fields:
-          - label: "Name"
-            name: "name"
+          - label: "ID"
+            name: "id"
             widget: "string"
+            pattern: ["^[a-z0-9-]+$", "Use lowercase letters, digits and hyphens only"]
             hint: 'Unique identifier of this group, e.g. "coupon-1".'
           - label: "Type"
             name: "type"
@@ -449,19 +437,32 @@ collections:
                 minimal: true
       - label: "Operators"
         name: "operators"
-        widget: "object"
+        widget: "list"
+        map_key_field: "operator"
         collapsed: true
-        summary: "Validity Groups"
+        summary: "{{"{{"}}fields.operator}}"
         hint: "For each target operator, select the applicable validity group per FIP product and target group."
         fields:
-{{- range (sort (where site.RegularPages "Type" "operator") "File.ContentBaseName") }}
-          - label: {{ printf "%q" .Title }}
-            name: {{ printf "%q" .File.ContentBaseName }}
+          - label: "Operator"
+            name: "operator"
+            widget: "relation"
+            collection: "operator"
+            search_fields: ["title"]
+            value_field: "operator"
+            display_fields: ["title"]
+            hint: "The operator this validity information applies to."
+          - label: "FIP Coupon"
+            name: "fip-coupon"
             widget: "object"
-            collapsed: true
-            summary: "FIP Coupon & FIP Reduced Ticket"
-            fields: *fip_validity_columns
-{{- end }}
+            summary: "Target groups"
+            hint: "Number and validity of FIP Coupons available to this target group."
+            fields: *fip_validity_target_fields_coupon
+          - label: "FIP Reduced Ticket"
+            name: "fip-reduced-ticket"
+            widget: "object"
+            summary: "Target groups"
+            hint: "Discount on FIP Reduced Tickets (FIP 50 / FIP 75) available to this target group."
+            fields: *fip_validity_target_fields_reduced
 
   - name: "booking"
     label: "Booking Platforms"
