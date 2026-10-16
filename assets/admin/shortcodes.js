@@ -1008,6 +1008,48 @@ CMS.registerEditorComponent({
   },
 });
 
+// Matches `[text](dialog:dialogId)`, a link that opens the dialog with the
+// given ID (see the "Dialog" component) instead of navigating anywhere.
+var dialogTriggerPattern = /\[([^\]\n]*)\]\(dialog:([^)\s]+)\)/;
+
+var dialogTriggerFields = [
+  {
+    name: "text",
+    label: "Link text",
+    widget: "string",
+    required: true,
+  },
+  {
+    name: "dialog_id",
+    label: "Dialog ID (anchor)",
+    widget: "string",
+    required: true,
+    hint: 'Must match the "Dialog ID (anchor)" of a Dialog component on this page.',
+  },
+];
+
+CMS.registerEditorComponent({
+  id: "dialog-trigger",
+  label: "Dialog Trigger",
+  icon: "open_in_browser",
+  mode: "dialog",
+  summary: "{{text}}",
+  fields: dialogTriggerFields,
+  pattern: dialogTriggerPattern,
+  fromBlock: function (match) {
+    return {
+      text: String(match[1] || ""),
+      dialog_id: String(match[2] || ""),
+    };
+  },
+  toBlock: function (data) {
+    return "[" + (data.text || "") + "](dialog:" + (data.dialog_id || "") + ")";
+  },
+  toPreview: function () {
+    return "";
+  },
+});
+
 var floatImageFields = [
   { name: "src", label: "Image", widget: "image", param: { required: true } },
   {
