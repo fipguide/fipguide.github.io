@@ -96,6 +96,8 @@ collections:
   - name: "news"
     label: "News"
     label_singular: "News Article"
+    editor:
+      second_pane: false
     folder: "content/news"
     path: "{{"{{"}}slug}}/index"
     preview_path: "{{"{{"}}locale}}/news/{{"{{"}}slug}}/"
@@ -183,6 +185,8 @@ collections:
   - name: "country"
     label: "Countries"
     label_singular: "Country"
+    editor:
+      second_pane: false
     folder: "content/country"
     path: "{{"{{"}}slug}}/index"
     preview_path: "{{"{{"}}locale}}/country/{{"{{"}}slug}}/"
@@ -241,6 +245,8 @@ collections:
   - name: "operator"
     label: "Operators"
     label_singular: "Operator"
+    editor:
+      second_pane: false
     folder: "content/operator"
     path: "{{"{{"}}slug}}/index"
     preview_path: "{{"{{"}}locale}}/operator/{{"{{"}}slug}}/"
@@ -306,6 +312,8 @@ collections:
   - name: "application"
     label: "FIP Application"
     label_singular: "FIP Application Page"
+    editor:
+      second_pane: false
     folder: "content/application"
     path: "{{"{{"}}slug}}/index"
     preview_path: "{{"{{"}}locale}}/application/{{"{{"}}slug}}/"
@@ -379,6 +387,8 @@ collections:
   - name: "fip-validity"
     label: "FIP Validity Tables"
     label_singular: "FIP Validity Table"
+    editor:
+      second_pane: false
     folder: "content/application"
     path: "{{"{{"}}slug}}/validity"
     extension: "yaml"
@@ -467,6 +477,8 @@ collections:
   - name: "booking"
     label: "Booking Platforms"
     label_singular: "Booking Platform"
+    editor:
+      second_pane: false
     folder: "content/booking"
     path: "{{"{{"}}slug}}/index"
     preview_path: "{{"{{"}}locale}}/booking/{{"{{"}}slug}}/"
@@ -724,6 +736,8 @@ collections:
   - name: "general"
     label: "General Pages"
     i18n: true
+    editor:
+      second_pane: false
     files:
       - name: "contribution"
         label: "Contribution"
@@ -838,6 +852,8 @@ collections:
   - name: "faq"
     label: "FAQ"
     label_singular: "FAQ Entry"
+    editor:
+      second_pane: false
     folder: "content/general/faq"
     path: "{{"{{"}}slug}}/index"
     preview_path: "{{"{{"}}locale}}/general/faq/{{"{{"}}slug}}/"
@@ -877,6 +893,8 @@ collections:
   - name: "identify-operator"
     label: "Identify Operator"
     label_singular: "Identify Operator"
+    editor:
+      second_pane: false
     folder: "content/identify-operator"
     path: "{{"{{"}}slug}}/index"
     preview_path: "{{"{{"}}locale}}/identify-operator/{{"{{"}}slug}}/"
