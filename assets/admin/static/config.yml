@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: fipguide/fipguide.github.io
-  branch: "{{ or (os.Getenv "FIPGUIDE_BRANCH") "main" }}"
+  branch: main
   auth_scope: repo
   open_authoring: true
   site_domain: fipguide.netlify.app
@@ -99,8 +99,8 @@ collections:
     editor:
       second_pane: false
     folder: "content/news"
-    path: "{{"{{"}}slug}}/index"
-    preview_path: "{{"{{"}}locale}}/news/{{"{{"}}slug}}/"
+    path: "{{slug}}/index"
+    preview_path: "{{locale}}/news/{{slug}}/"
     slug:
       auto_increment: true
       hint: "A sequential number used as the article slug, e.g. 1."
@@ -188,9 +188,9 @@ collections:
     editor:
       second_pane: false
     folder: "content/country"
-    path: "{{"{{"}}slug}}/index"
-    preview_path: "{{"{{"}}locale}}/country/{{"{{"}}slug}}/"
-    thumbnail: "/images/flags/{{"{{"}}slug}}.webp"
+    path: "{{slug}}/index"
+    preview_path: "{{locale}}/country/{{slug}}/"
+    thumbnail: "/images/flags/{{slug}}.webp"
     create: false
     publish: false
     delete: false
@@ -248,8 +248,8 @@ collections:
     editor:
       second_pane: false
     folder: "content/operator"
-    path: "{{"{{"}}slug}}/index"
-    preview_path: "{{"{{"}}locale}}/operator/{{"{{"}}slug}}/"
+    path: "{{slug}}/index"
+    preview_path: "{{locale}}/operator/{{slug}}/"
     publish: false
     create: false
     delete: false
@@ -315,8 +315,8 @@ collections:
     editor:
       second_pane: false
     folder: "content/application"
-    path: "{{"{{"}}slug}}/index"
-    preview_path: "{{"{{"}}locale}}/application/{{"{{"}}slug}}/"
+    path: "{{slug}}/index"
+    preview_path: "{{locale}}/application/{{slug}}/"
     publish: false
     create: true
     delete: false
@@ -360,7 +360,7 @@ collections:
             How and when can employees of this issuer request FIP Coupons?
           -->
 
-          {{"{{"}}< fip-validity-table type="fip-coupon" >}}
+          {{< fip-validity-table type="fip-coupon" >}}
 
           ## FIP Reduced Ticket
 
@@ -368,7 +368,7 @@ collections:
             How and when can employees of this issuer request FIP Reduced Tickets (FIP 50 / FIP 75)?
           -->
 
-          {{"{{"}}< fip-validity-table type="fip-reduced-ticket" >}}
+          {{< fip-validity-table type="fip-reduced-ticket" >}}
         editor_components:
           - "image"
           - "table"
@@ -390,10 +390,10 @@ collections:
     editor:
       second_pane: false
     folder: "content/application"
-    path: "{{"{{"}}slug}}/validity"
+    path: "{{slug}}/validity"
     extension: "yaml"
     format: "yaml"
-    summary: "{{"{{"}}dirname}}"
+    summary: "{{dirname}}"
     create: true
     publish: false
     delete: false
@@ -402,13 +402,14 @@ collections:
         name: "groups"
         widget: "list"
         map_key_field: "id"
-        summary: "{{"{{"}}fields.id}} ({{"{{"}}fields.type}}, {{"{{"}}fields.status}})"
+        summary: "{{fields.id}} ({{fields.type}}, {{fields.status}})"
         hint: "The validity groups available for this issuer. Referenced by ID in the Operators section below."
         fields:
           - label: "ID"
             name: "id"
             widget: "string"
-            pattern: ["^[a-z0-9-]+$", "Use lowercase letters, digits and hyphens only"]
+            pattern:
+              ["^[a-z0-9-]+$", "Use lowercase letters, digits and hyphens only"]
             hint: 'Unique identifier of this group, e.g. "coupon-1".'
           - label: "Type"
             name: "type"
@@ -450,7 +451,7 @@ collections:
         widget: "list"
         map_key_field: "operator"
         collapsed: true
-        summary: "{{"{{"}}fields.operator}}"
+        summary: "{{fields.operator}}"
         hint: "For each target operator, select the applicable validity group per FIP product and target group."
         fields:
           - label: "Operator"
@@ -480,8 +481,8 @@ collections:
     editor:
       second_pane: false
     folder: "content/booking"
-    path: "{{"{{"}}slug}}/index"
-    preview_path: "{{"{{"}}locale}}/booking/{{"{{"}}slug}}/"
+    path: "{{slug}}/index"
+    preview_path: "{{locale}}/booking/{{slug}}/"
     publish: false
     create: true
     delete: false
@@ -688,7 +689,7 @@ collections:
         widget: "markdown"
         i18n: true
         default: |
-          {{"{{"}}% booking-section "fip_50" %}}
+          {{% booking-section "fip_50" %}}
 
           ## FIP 50 Tickets
 
@@ -696,9 +697,9 @@ collections:
               Explain the steps for booking FIP 50 Tickets with this booking platform.
           -->
 
-          {{"{{"}}% /booking-section %}}
+          {{% /booking-section %}}
 
-          {{"{{"}}% booking-section "fip_global_fare" %}}
+          {{% booking-section "fip_global_fare" %}}
 
           ## FIP Global Fare
 
@@ -706,9 +707,9 @@ collections:
               Explain the steps for booking FIP Global Fares with this booking platform.
           -->
 
-          {{"{{"}}% /booking-section %}}
+          {{% /booking-section %}}
 
-          {{"{{"}}% booking-section "reservations" %}}
+          {{% booking-section "reservations" %}}
 
           ## Reservations
 
@@ -716,7 +717,7 @@ collections:
               Explain the steps for booking reservations with this booking platform.
           -->
 
-          {{"{{"}}% /booking-section %}}
+          {{% /booking-section %}}
         editor_components:
           - "image"
           - "table"
@@ -741,11 +742,11 @@ collections:
     files:
       - name: "contribution"
         label: "Contribution"
-        file: "content/contribution/index.{{"{{"}}locale}}.md"
+        file: "content/contribution/index.{{locale}}.md"
         media_folder: ""
         public_folder: ""
         i18n: true
-        preview_path: "{{"{{"}}locale}}/contribution/"
+        preview_path: "{{locale}}/contribution/"
         fields:
           - label: "Title"
             name: "title"
@@ -771,11 +772,11 @@ collections:
 
       - name: "generalinformation"
         label: "General Information"
-        file: "content/general/generalinformation/index.{{"{{"}}locale}}.md"
+        file: "content/general/generalinformation/index.{{locale}}.md"
         media_folder: ""
         public_folder: ""
         i18n: true
-        preview_path: "{{"{{"}}locale}}/general/generalinformation/"
+        preview_path: "{{locale}}/general/generalinformation/"
         fields:
           - label: "Title"
             name: "title"
@@ -811,11 +812,11 @@ collections:
 
       - name: "fip-application"
         label: "FIP Application"
-        file: "content/general/fip-validity/index.{{"{{"}}locale}}.md"
+        file: "content/general/fip-validity/index.{{locale}}.md"
         media_folder: ""
         public_folder: ""
         i18n: true
-        preview_path: "{{"{{"}}locale}}/general/fip-validity/"
+        preview_path: "{{locale}}/general/fip-validity/"
         fields:
           - label: "Title"
             name: "title"
@@ -855,8 +856,8 @@ collections:
     editor:
       second_pane: false
     folder: "content/general/faq"
-    path: "{{"{{"}}slug}}/index"
-    preview_path: "{{"{{"}}locale}}/general/faq/{{"{{"}}slug}}/"
+    path: "{{slug}}/index"
+    preview_path: "{{locale}}/general/faq/{{slug}}/"
     publish: false
     create: true
     delete: false
@@ -896,8 +897,8 @@ collections:
     editor:
       second_pane: false
     folder: "content/identify-operator"
-    path: "{{"{{"}}slug}}/index"
-    preview_path: "{{"{{"}}locale}}/identify-operator/{{"{{"}}slug}}/"
+    path: "{{slug}}/index"
+    preview_path: "{{locale}}/identify-operator/{{slug}}/"
     publish: false
     create: true
     delete: false
