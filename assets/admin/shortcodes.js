@@ -157,6 +157,75 @@ function makeToBlock(name, cfg) {
   };
 }
 
+// Matches `![prefix[linkText](linkHref)suffix](src "title")`, where the
+// nested `[linkText](linkHref)` link and the quoted title are both optional.
+var imagePattern =
+  /!\[([^[\]]*)(?:\[([^\]]*)\]\(([^)]*)\))?([^\]]*)\]\(([^) "]+)(?: "([^"]*)")?\)/;
+
+var imageFields = [
+  {
+    name: "src",
+    label: "Source",
+    widget: "image",
+    param: { required: true },
+  },
+  {
+    name: "alt",
+    label: "Alt Text / Caption",
+    widget: "markdown",
+    required: false,
+    minimal: true,
+    hint: "Describes the image for accessibility and is also shown as a visible caption below the image.",
+    editor_components: [
+      "button",
+      "icon",
+      "image2",
+      "table",
+      "footnote-reference",
+    ],
+    param: {},
+  },
+  {
+    name: "title",
+    label: "Title",
+    widget: "string",
+    required: false,
+    hint: "Shown as a tooltip when hovering over the image.",
+    param: {},
+  },
+];
+
+CMS.registerEditorComponent({
+  id: "image2",
+  label: "Image",
+  icon: "image",
+  fields: imageFields,
+  pattern: imagePattern,
+  fromBlock: function (match) {
+    var prefix = match[1] || "";
+    var linkText = match[2];
+    var linkHref = match[3];
+    var suffix = match[4] || "";
+    var alt =
+      linkText !== undefined
+        ? prefix + "[" + linkText + "](" + linkHref + ")" + suffix
+        : prefix + suffix;
+    return {
+      alt: alt,
+      src: String(match[5] || ""),
+      title: String(match[6] || ""),
+    };
+  },
+  toBlock: function (data) {
+    var alt = data.alt || "";
+    var title = data.title ? ' "' + data.title + '"' : "";
+    return "![" + alt + "](" + (data.src || "") + title + ")";
+  },
+  toPreview: function () {
+    return "";
+  },
+});
+
 var highlightFields = [
   {
     name: "type",
@@ -177,7 +246,7 @@ var highlightFields = [
       "button",
       "float-image",
       "icon",
-      "image",
+      "image2",
       "table",
       "footnote-reference",
     ],
@@ -242,7 +311,7 @@ var confusionFields = [
       "button",
       "float-image",
       "icon",
-      "image",
+      "image2",
       "table",
       "footnote-reference",
     ],
@@ -297,7 +366,7 @@ var expanderFields = [
       "float-image",
       "highlight-raw",
       "icon",
-      "image",
+      "image2",
       "table",
       "footnote-reference",
     ],
@@ -493,7 +562,7 @@ var trainCategoryFields = [
       "float-image",
       "highlight-raw",
       "icon",
-      "image",
+      "image2",
       "table",
       "confusion",
       "footnote-reference",
@@ -651,7 +720,7 @@ var bookingFields = [
       "button",
       "float-image",
       "icon",
-      "image",
+      "image2",
       "table",
       "footnote-reference",
     ],
@@ -716,7 +785,7 @@ var bookingSectionFields = [
       "float-image",
       "highlight-raw",
       "icon",
-      "image",
+      "image2",
       "table",
       "footnote-reference",
     ],
@@ -816,7 +885,7 @@ var identifyOperatorFields = [
       "float-image",
       "highlight",
       "icon",
-      "image",
+      "image2",
       "table",
     ],
   },
@@ -860,7 +929,7 @@ var satelliteFields = [
       "button",
       "float-image",
       "icon",
-      "image",
+      "image2",
       "table",
       "footnote-reference",
     ],
@@ -908,7 +977,7 @@ var dialogFields = [
       "float-image",
       "highlight",
       "icon",
-      "image",
+      "image2",
       "table",
     ],
   },
@@ -981,7 +1050,7 @@ var floatImageFields = [
     editor_components: [
       "button",
       "icon",
-      "image",
+      "image2",
       "table",
       "footnote-reference",
     ],
@@ -1127,7 +1196,7 @@ var updateFields = [
       "float-image",
       "highlight",
       "icon",
-      "image",
+      "image2",
       "table",
       "footnote-reference",
     ],
@@ -1170,7 +1239,7 @@ var columnFields = [
       "float-image",
       "highlight",
       "icon",
-      "image",
+      "image2",
       "table",
       "footnote-reference",
     ],

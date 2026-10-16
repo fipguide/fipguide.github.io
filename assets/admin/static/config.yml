@@ -168,7 +168,7 @@ collections:
         widget: "markdown"
         i18n: true
         editor_components:
-          - "image"
+          - "image2"
           - "table"
           - "highlight"
           - "expander"
@@ -228,7 +228,7 @@ collections:
         widget: "markdown"
         i18n: true
         editor_components:
-          - "image"
+          - "image2"
           - "table"
           - "highlight"
           - "expander"
@@ -292,7 +292,7 @@ collections:
         widget: "markdown"
         i18n: true
         editor_components:
-          - "image"
+          - "image2"
           - "table"
           - "highlight"
           - "expander"
@@ -370,7 +370,7 @@ collections:
 
           {{< fip-validity-table type="fip-reduced-ticket" >}}
         editor_components:
-          - "image"
+          - "image2"
           - "table"
           - "highlight"
           - "expander"
@@ -414,13 +414,23 @@ collections:
           - label: "Type"
             name: "type"
             widget: "select"
-            options: ["fip-coupon", "fip-reduced-ticket"]
+            options:
+              - label: "FIP Coupon"
+                value: "fip-coupon"
+              - label: "FIP Reduced Ticket"
+                value: "fip-reduced-ticket"
             required: false
             hint: "Which FIP product this group applies to. Restricts which dropdowns it shows up in below. Leave unset to show it under both."
           - label: "Status"
             name: "status"
             widget: "select"
-            options: ["valid", "invalid", "unknown"]
+            options:
+              - label: "Valid"
+                value: "valid"
+              - label: "Invalid"
+                value: "invalid"
+              - label: "Unknown"
+                value: "unknown"
           - label: "Text"
             name: "text"
             widget: "object"
@@ -591,7 +601,20 @@ collections:
             name: type
             widget: select
             options:
-              [website, online, onsite, phone, email, socialmedia, machine]
+              - label: "Website"
+                value: "website"
+              - label: "Online"
+                value: "online"
+              - label: "On-Site"
+                value: "onsite"
+              - label: "Telephone"
+                value: "phone"
+              - label: "Email"
+                value: "email"
+              - label: "Social Media"
+                value: "socialmedia"
+              - label: "Ticket Machine"
+                value: "machine"
             i18n: duplicate
           - label: "Email Templates"
             name: email_templates
@@ -719,7 +742,7 @@ collections:
 
           {{% /booking-section %}}
         editor_components:
-          - "image"
+          - "image2"
           - "table"
           - "highlight-raw"
           - "expander"
@@ -757,7 +780,7 @@ collections:
             widget: "markdown"
             i18n: true
             editor_components:
-              - "image"
+              - "image2"
               - "table"
               - "highlight"
               - "expander"
@@ -797,7 +820,7 @@ collections:
             widget: "markdown"
             i18n: true
             editor_components:
-              - "image"
+              - "image2"
               - "table"
               - "highlight"
               - "expander"
@@ -837,7 +860,7 @@ collections:
             widget: "markdown"
             i18n: true
             editor_components:
-              - "image"
+              - "image2"
               - "table"
               - "highlight"
               - "expander"
@@ -878,7 +901,7 @@ collections:
         widget: "markdown"
         i18n: true
         editor_components:
-          - "image"
+          - "image2"
           - "table"
           - "highlight"
           - "expander"
@@ -923,7 +946,7 @@ collections:
         widget: "markdown"
         i18n: true
         editor_components:
-          - "image"
+          - "image2"
           - "table"
           - "highlight"
           - "expander"
