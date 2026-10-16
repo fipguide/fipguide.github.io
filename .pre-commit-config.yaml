@@ -26,7 +26,6 @@ repos:
         exclude:
           glob:
             - "**/validity.yaml"
-            - "layouts/admin/section.cmsconfig.yml"
       - id: debug-statements
       - id: destroyed-symlinks
       - id: end-of-file-fixer

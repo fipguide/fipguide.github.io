@@ -157,6 +157,69 @@ function makeToBlock(name, cfg) {
   };
 }
 
+// Matches `![prefix[linkText](linkHref)suffix](src "title")`, where the
+// nested `[linkText](linkHref)` link and the quoted title are both optional.
+var imagePattern =
+  /!\[([^[\]]*)(?:\[([^\]]*)\]\(([^)]*)\))?([^\]]*)\]\(([^) "]+)(?: "([^"]*)")?\)/;
+
+var imageFields = [
+  {
+    name: "src",
+    label: "Source",
+    widget: "image",
+    param: { required: true },
+  },
+  {
+    name: "alt",
+    label: "Alt Text / Caption",
+    widget: "markdown",
+    required: false,
+    minimal: true,
+    hint: "Describes the image for accessibility and is also shown as a visible caption below the image.",
+    editor_components: ["icon", "dialog-trigger", "footnote-reference"],
+    param: {},
+  },
+  {
+    name: "title",
+    label: "Title",
+    widget: "string",
+    required: false,
+    hint: "Shown as a tooltip when hovering over the image.",
+    param: {},
+  },
+];
+
+CMS.registerEditorComponent({
+  id: "image2",
+  label: "Image",
+  icon: "image",
+  fields: imageFields,
+  pattern: imagePattern,
+  fromBlock: function (match) {
+    var prefix = match[1] || "";
+    var linkText = match[2];
+    var linkHref = match[3];
+    var suffix = match[4] || "";
+    var alt =
+      linkText !== undefined
+        ? prefix + "[" + linkText + "](" + linkHref + ")" + suffix
+        : prefix + suffix;
+    return {
+      alt: alt,
+      src: String(match[5] || ""),
+      title: String(match[6] || ""),
+    };
+  },
+  toBlock: function (data) {
+    var alt = data.alt || "";
+    var title = data.title ? ' "' + data.title + '"' : "";
+    return "![" + alt + "](" + (data.src || "") + title + ")";
+  },
+  toPreview: function () {
+    return "";
+  },
+});
+
 var highlightFields = [
   {
     name: "type",
@@ -167,12 +230,21 @@ var highlightFields = [
       { label: "Tip", value: "tip" },
       { label: "Inofficial", value: "inofficial" },
     ],
+    param: { positional: true, required: true },
   },
   {
     name: "body",
     label: "Content",
     widget: "markdown",
-    editor_components: ["button", "float-image", "icon", "image"],
+    editor_components: [
+      "button",
+      "float-image",
+      "icon",
+      "image2",
+      "table",
+      "dialog-trigger",
+      "footnote-reference",
+    ],
   },
 ];
 
@@ -224,12 +296,21 @@ var confusionFields = [
     search_fields: ["title"],
     value_field: "country",
     display_fields: ["title"],
+    param: { positional: true, required: true },
   },
   {
     name: "body",
     label: "Content",
     widget: "markdown",
-    editor_components: ["button", "float-image", "icon", "image"],
+    editor_components: [
+      "button",
+      "float-image",
+      "icon",
+      "image2",
+      "table",
+      "dialog-trigger",
+      "footnote-reference",
+    ],
   },
 ];
 
@@ -281,7 +362,10 @@ var expanderFields = [
       "float-image",
       "highlight-raw",
       "icon",
-      "image",
+      "image2",
+      "table",
+      "dialog-trigger",
+      "footnote-reference",
     ],
   },
 ];
@@ -475,8 +559,11 @@ var trainCategoryFields = [
       "float-image",
       "highlight-raw",
       "icon",
-      "image",
+      "image2",
+      "table",
+      "dialog-trigger",
       "confusion",
+      "footnote-reference",
     ],
   },
 ];
@@ -533,6 +620,7 @@ var bookingFields = [
     label: "Booking Platform Link",
     widget: "cms-edit-link",
     static: true,
+    required: false,
     href: "#/collections/booking",
     label_template: "Manage Booking Platforms \u2192",
   },
@@ -626,7 +714,15 @@ var bookingFields = [
     label: "Additional info",
     widget: "markdown",
     required: false,
-    editor_components: ["button", "float-image", "icon", "image"],
+    editor_components: [
+      "button",
+      "float-image",
+      "icon",
+      "image2",
+      "table",
+      "dialog-trigger",
+      "footnote-reference",
+    ],
   },
 ];
 
@@ -688,7 +784,10 @@ var bookingSectionFields = [
       "float-image",
       "highlight-raw",
       "icon",
-      "image",
+      "image2",
+      "table",
+      "dialog-trigger",
+      "footnote-reference",
     ],
   },
 ];
@@ -781,7 +880,15 @@ var identifyOperatorFields = [
     label: "Additional info",
     widget: "markdown",
     required: false,
-    editor_components: ["button", "float-image", "highlight", "icon", "image"],
+    editor_components: [
+      "button",
+      "float-image",
+      "highlight",
+      "icon",
+      "image2",
+      "table",
+      "dialog-trigger",
+    ],
   },
 ];
 
@@ -819,7 +926,15 @@ var satelliteFields = [
     label: "Additional info",
     widget: "markdown",
     required: false,
-    editor_components: ["button", "float-image", "icon", "image"],
+    editor_components: [
+      "button",
+      "float-image",
+      "icon",
+      "image2",
+      "table",
+      "dialog-trigger",
+      "footnote-reference",
+    ],
   },
 ];
 
@@ -859,7 +974,15 @@ var dialogFields = [
     name: "body",
     label: "Content",
     widget: "markdown",
-    editor_components: ["button", "float-image", "highlight", "icon", "image"],
+    editor_components: [
+      "button",
+      "float-image",
+      "highlight",
+      "icon",
+      "image2",
+      "table",
+      "dialog-trigger",
+    ],
   },
 ];
 
@@ -883,6 +1006,48 @@ CMS.registerEditorComponent({
     bodySeparator: "\n",
     multiline: true,
   }),
+  toPreview: function () {
+    return "";
+  },
+});
+
+// Matches `[text](dialog:dialogId)`, a link that opens the dialog with the
+// given ID (see the "Dialog" component) instead of navigating anywhere.
+var dialogTriggerPattern = /\[([^\]\n]*)\]\(dialog:([^)\s]+)\)/;
+
+var dialogTriggerFields = [
+  {
+    name: "text",
+    label: "Link text",
+    widget: "string",
+    required: true,
+  },
+  {
+    name: "dialog_id",
+    label: "Dialog ID (anchor)",
+    widget: "string",
+    required: true,
+    hint: 'Must match the "Dialog ID (anchor)" of a Dialog component on this page.',
+  },
+];
+
+CMS.registerEditorComponent({
+  id: "dialog-trigger",
+  label: "Dialog Trigger",
+  icon: "open_in_browser",
+  mode: "dialog",
+  summary: "{{text}}",
+  fields: dialogTriggerFields,
+  pattern: dialogTriggerPattern,
+  fromBlock: function (match) {
+    return {
+      text: String(match[1] || ""),
+      dialog_id: String(match[2] || ""),
+    };
+  },
+  toBlock: function (data) {
+    return "[" + (data.text || "") + "](dialog:" + (data.dialog_id || "") + ")";
+  },
   toPreview: function () {
     return "";
   },
@@ -927,7 +1092,14 @@ var floatImageFields = [
     label: "Surrounding text",
     widget: "markdown",
     required: false,
-    editor_components: ["button", "icon", "image"],
+    editor_components: [
+      "button",
+      "icon",
+      "image2",
+      "table",
+      "dialog-trigger",
+      "footnote-reference",
+    ],
   },
 ];
 
@@ -968,6 +1140,25 @@ CMS.registerEditorComponent({
     return {};
   },
   toBlock: makeToBlock("wip", { bracket: "<", fields: [], bodyMode: "none" }),
+  toPreview: function () {
+    return "";
+  },
+});
+
+CMS.registerEditorComponent({
+  id: "children-discount",
+  label: "Children Discount Notice",
+  icon: "child_care",
+  fields: [],
+  pattern: selfClosingPattern("children-discount"),
+  fromBlock: function () {
+    return {};
+  },
+  toBlock: makeToBlock("children-discount", {
+    bracket: "<",
+    fields: [],
+    bodyMode: "none",
+  }),
   toPreview: function () {
     return "";
   },
@@ -1046,7 +1237,16 @@ var updateFields = [
     name: "body",
     label: "Content",
     widget: "markdown",
-    editor_components: ["button", "float-image", "highlight", "icon", "image"],
+    editor_components: [
+      "button",
+      "float-image",
+      "highlight",
+      "icon",
+      "image2",
+      "table",
+      "dialog-trigger",
+      "footnote-reference",
+    ],
   },
 ];
 
@@ -1081,7 +1281,15 @@ var columnFields = [
     name: "body",
     label: "Content",
     widget: "markdown",
-    editor_components: ["button", "float-image", "highlight", "icon", "image"],
+    editor_components: [
+      "button",
+      "float-image",
+      "highlight",
+      "icon",
+      "image2",
+      "table",
+      "footnote-reference",
+    ],
   },
 ];
 
@@ -1110,7 +1318,7 @@ var columnsFields = [
     name: "body",
     label: "Content",
     widget: "markdown",
-    editor_components: ["column", "icon"],
+    editor_components: ["column"],
   },
 ];
 
