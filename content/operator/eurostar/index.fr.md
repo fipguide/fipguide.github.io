@@ -132,7 +132,7 @@ Mais la gestion du billet (annulation, échange, rebooking) est possible via le 
     fip_75=nil
 /%}}
 
-{{% booking id="sncf-website-fip-sncf"
+{{% booking id="sncf-connect"
     subtitle="Réservé aux agents de la SNCF"
     reservations=nil
     fip_50=nil

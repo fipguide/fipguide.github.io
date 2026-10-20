@@ -132,7 +132,7 @@ Checking in, rebooking, canceling, and upgrading tickets is possible via the Eur
     fip_75=nil
 /%}}
 
-{{% booking id="sncf-website-fip-sncf"
+{{% booking id="sncf-connect"
     subtitle="Only for SNCF employees"
     reservations=nil
     fip_50=nil

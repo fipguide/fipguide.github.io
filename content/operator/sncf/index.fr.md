@@ -231,7 +231,7 @@ Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sau
 
 Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
-{{% booking id="sncf-website-fip-sncf"
+{{% booking id="sncf-connect"
     subtitle="Réservé aux agents de la SNCF"
     fip_global_fare=nil
 /%}}

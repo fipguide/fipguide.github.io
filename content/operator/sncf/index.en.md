@@ -231,7 +231,7 @@ FIP discounts also apply on buses operated by SNCF, except for long-distance bus
 
 Domestic journeys unfortunately cannot be purchased online.
 
-{{% booking id="sncf-website-fip-sncf"
+{{% booking id="sncf-connect"
     subtitle="Only for SNCF employees"
     fip_global_fare=nil
 /%}}

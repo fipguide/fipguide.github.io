@@ -318,7 +318,7 @@ Les Billets FIP 50 sont considérés comme _Flexpreis_ et peuvent donc être ann
     subtitle="Billets FIP 50 nationaux et transfrontaliers pour tout le trajet (non valables dans le pays d’émission de la Carte FIP)."
 /%}}
 
-{{% booking id="sncf-website-fip-sncf"
+{{% booking id="sncf-connect"
     subtitle="Réservé aux agents de la SNCF et uniquement pour les liaisons TGV transfrontalières"
     reservations=false
     fip_75=nil

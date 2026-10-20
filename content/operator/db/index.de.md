@@ -324,7 +324,7 @@ FIP 50 Tickets gelten als _Flexpreis_ und sind daher bis vor den 1. Geltungstag 
     subtitle="Nationale und grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)."
 /%}}
 
-{{% booking id="sncf-website-fip-sncf"
+{{% booking id="sncf-connect"
     subtitle="Nur für SNCF Mitarbeitende und nur für grenzüberschreitende TGV Verbindungen"
     reservations=false
     fip_75=nil

@@ -231,7 +231,7 @@ FIP Vergünstigungen gelten auch in Bussen, die von der SNCF betrieben werden. A
 
 Nationale Verbindungen können online leider nicht erworben werden.
 
-{{% booking id="sncf-website-fip-sncf"
+{{% booking id="sncf-connect"
     subtitle="Nur für SNCF Mitarbeitende"
     fip_global_fare=nil
 /%}}
