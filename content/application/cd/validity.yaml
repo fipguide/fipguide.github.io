@@ -338,13 +338,6 @@ operators:
       retired: coupon-not-available
       retired-relatives: coupon-not-available
       widows: coupon-not-available
-  vr:
-    fip-coupon:
-      active: coupon-1
-      active-relatives: coupon-not-available
-      retired: coupon-not-available
-      retired-relatives: coupon-not-available
-      widows: coupon-not-available
   vy:
     fip-coupon:
       active: coupon-1

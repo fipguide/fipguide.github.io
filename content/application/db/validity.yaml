@@ -422,17 +422,6 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
-  vr:
-    fip-coupon:
-      active: coupon-4fields
-      active-relatives: coupon-not-available
-      retired: coupon-former-1-onetime
-      retired-relatives: coupon-not-available
-    fip-reduced-ticket:
-      active: reduced-50
-      active-relatives: reduced-50
-      retired: reduced-50
-      retired-relatives: reduced-50
   vy:
     fip-coupon:
       active: coupon-4fields
