@@ -17,10 +17,18 @@ aliases:
 
 Les agents de la SNCF peuvent acheter en ligne, via SNCF Connect, des réservations et des Tarifs Globaux pour certaines liaisons.
 
+{{% booking-section "fip_global_fare" %}}
+
 ## Tarif Global FIP
 
 Des Tarifs Globaux peuvent être achetés pour les liaisons TGV transfrontalières et les trains Eurostar.
 
+{{% /booking-section %}}
+
+{{% booking-section "reservations" %}}
+
 ## Réservations
 
 Des réservations peuvent être achetées pour les liaisons TGV nationales en France.
+
+{{% /booking-section %}}

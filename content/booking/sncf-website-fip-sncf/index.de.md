@@ -17,10 +17,18 @@ aliases:
 
 Mitarbeitende der SNCF können online über SNCF Connect Reservierungen und Globalpreise für ausgewählte Verbindungen kaufen.
 
+{{% booking-section "fip_global_fare" %}}
+
 ## FIP Globalpreis
 
 Für grenzüberschreitende TGV Verbindungen und Eurostar Züge können Globalpreise erworben werden.
 
+{{% /booking-section %}}
+
+{{% booking-section "reservations" %}}
+
 ## Reservierungen
 
 Für nationale TGV Verbindungen innerhalb Frankreichs können Reservierungen erworben werden.
+
+{{% /booking-section %}}
