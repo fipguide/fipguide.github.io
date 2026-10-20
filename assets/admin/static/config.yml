@@ -2,7 +2,7 @@ backend:
   name: github
   repo: fipguide/fipguide.github.io
   branch: main
-  auth_scope: public_repo
+  auth_scope: [public_repo, workflow]
   open_authoring: true
   site_domain: fipguide.netlify.app
   preview_context: netlify/fipguide-test/deploy-preview
