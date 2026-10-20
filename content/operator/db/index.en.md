@@ -340,7 +340,7 @@ FIP 50 Tickets are considered _Flexpreis_ tickets and can therefore be cancelled
     classes.first="€ 6,90"
     classes.second="€ 5,50"
 %}}
-Reservations for domestic German connections cost € 5.50 (2nd class) or € 6.90 (1st class). Cross-border connections cost € 3.
+Reservations for domestic German connections cost € 5.50 (2nd class) or € 6.90 (1st class). Cross-border connections cost € 3.50.
 {{% highlight inofficial %}}
 Currently, no FIP 50 Tickets for domestic travel within Germany can be sold via the ÖBB hotline. However, cross-border bookings of FIP 50 Tickets are still possible (see [Discord FIP Community ÖBB Hotline Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
 {{% /highlight %}}
@@ -427,7 +427,7 @@ In some federal states, several transport associations cooperate to jointly offe
 
 ### Tariff Distinction between Local and Long-Distance Transport
 
-With FIP 50 Tickets, you can flexibly use trains on the same route. However, you must pay attention to the train categories, as DB distinguishes between tickets for different train categories (so-called _[product classes](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)_). Tickets (including FIP 50 Tickets) are only valid in the same or lower product classes. The product class is indicated on the ticket (e.g., _ICE Fahrkarte_ or _IC/EC Fahrkarte_) and is based on the highest train category on the booked connection.
+With FIP 50 Tickets, you can flexibly use trains on the same route. However, you must pay attention to the train categories, as DB distinguishes between tickets for different train categories (so-called [_product classes_](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)). Tickets (including FIP 50 Tickets) are only valid in the same or lower product classes. The product class is indicated on the ticket (e.g., _ICE Fahrkarte_ or _IC/EC Fahrkarte_) and is based on the highest train category on the booked connection.
 
 The following product classes exist:
 

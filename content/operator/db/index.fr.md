@@ -340,7 +340,7 @@ Les Billets FIP 50 sont considérés comme _Flexpreis_ et peuvent donc être ann
     classes.first="6,90 €"
     classes.second="5,50 €"
 %}}
-Les réservations pour les trajets intérieurs allemands coûtent 5,50 € (2e classe) ou 6,90 € (1re classe). Les connexions transfrontalières coûtent 3 €.
+Les réservations pour les trajets intérieurs allemands coûtent 5,50 € (2e classe) ou 6,90 € (1re classe). Les connexions transfrontalières coûtent 3,50 €.
 {{% highlight inofficial %}}
 Actuellement, aucun Billet FIP 50 pour les trajets domestiques en Allemagne ne peut être vendu via la hotline ÖBB. Cependant, les réservations transfrontalières de Billets FIP 50 restent possibles (voir [Retours de la communauté Discord FIP sur la hotline ÖBB](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
 {{% /highlight %}}
@@ -362,11 +362,11 @@ Les billets FIP 50 ne peuvent pas être achetés à bord.
 
 {{< children-discount >}}
 
-| Âge                                      | Réduction                                |
-| ---------------------------------------- | ---------------------------------------- |
-| {{< icon "child_care" >}} 0–5 ans        | Gratuit                                  |
-| {{< icon "child_care" >}} 6–14 ans       | Réduction de 50 %, si voyageant seul[^3] |
-| {{< icon "person" >}} à partir de 15 ans | Tarif normal[^3]                         |
+| Âge | Réduction |
+| --- | --- |
+| {{< icon "child_care" >}} 0–5 ans | Gratuit |
+| {{< icon "child_care" >}} 6–14 ans | Réduction de 50 %, si voyageant seul[^3] |
+| {{< icon "person" >}} à partir de 15 ans | Tarif normal[^3] |
 
 ### Enfants voyageant gratuitement
 
@@ -427,7 +427,7 @@ Dans certains Länder, plusieurs réseaux de transport coopèrent afin de propos
 
 ### Distinction tarifaire entre trains longue distance et trains locaux
 
-Avec les billets FIP 50, il est possible d’utiliser différents trains sur le même trajet. Il faut cependant faire attention aux catégories de trains, car la DB distingue les billets selon différentes catégories de trains (appelées _[classes de produit](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)_). Les billets (y compris les billets FIP 50) ne sont valables que dans la même classe de produit ou une classe inférieure. La classe de produit est indiquée sur le billet (par exemple _ICE Fahrkarte_ ou _IC/EC Fahrkarte_) et dépend de la catégorie de train la plus élevée sur le trajet réservé.
+Avec les billets FIP 50, il est possible d’utiliser différents trains sur le même trajet. Il faut cependant faire attention aux catégories de trains, car la DB distingue les billets selon différentes catégories de trains (appelées [_classes de produit_](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)). Les billets (y compris les billets FIP 50) ne sont valables que dans la même classe de produit ou une classe inférieure. La classe de produit est indiquée sur le billet (par exemple _ICE Fahrkarte_ ou _IC/EC Fahrkarte_) et dépend de la catégorie de train la plus élevée sur le trajet réservé.
 
 Les classes de produit sont les suivantes :
 
