@@ -83,9 +83,9 @@ There are usually three classes:
 
 The trains feature modern rolling stock in the ÖBB Railjet style, but with blue exterior. Bicycles, prams, and other bulky luggage can be taken on board. Food and drinks are available in the restaurant car or via at-seat service. In 1st class, passengers receive a free bottle of water and a newspaper; in Business Class, additionally a welcome drink and a 50 CZK voucher for the restaurant (within Czechia only). For children, there is a dedicated children's cinema.
 
-{{< highlight confusion >}}
+{{< confusion czechia >}}
 Not to be confused with RegioJet trains, which are sometimes also marked as `RJ`. This private operator does not accept FIP Tickets.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Reservations
 
