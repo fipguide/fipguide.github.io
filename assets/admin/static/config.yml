@@ -415,16 +415,6 @@ collections:
             pattern:
               ["^[a-z0-9-]+$", "Use lowercase letters, digits and hyphens only"]
             hint: 'Unique identifier of this group, e.g. "coupon-1".'
-          - label: "Type"
-            name: "type"
-            widget: "select"
-            options:
-              - label: "FIP Coupon"
-                value: "fip-coupon"
-              - label: "FIP Reduced Ticket"
-                value: "fip-reduced-ticket"
-            required: false
-            hint: "Which FIP product this group applies to. Restricts which dropdowns it shows up in below. Leave unset to show it under both."
           - label: "Status"
             name: "status"
             widget: "select"
@@ -460,6 +450,16 @@ collections:
                   - "icon"
                   - "footnote-reference"
                 minimal: true
+          - label: "Type"
+            name: "type"
+            widget: "select"
+            options:
+              - label: "FIP Coupon"
+                value: "fip-coupon"
+              - label: "FIP Reduced Ticket"
+                value: "fip-reduced-ticket"
+            required: false
+            hint: "Which FIP product this group applies to. Restricts which dropdowns it shows up in below. Leave unset to show it under both."
       - label: "Operators"
         name: "operators"
         widget: "list"
