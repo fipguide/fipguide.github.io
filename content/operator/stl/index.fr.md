@@ -100,43 +100,39 @@ En général, la traversée de nuit est plus chère que celle de jour, car le ta
 
 {{% expander "Vérifier les prix en ligne" info %}}
 
-{{% float-image
+{{< float-image
     src="determine_costs_1.webp"
     alt="Étape 1"
     width="40%"
-    position="right"
-%}}
+    position="right" >}}
 Les coûts pour les traversées de jour et de nuit peuvent être consultés sur le site Web de Stena Line avant la réservation. Pour ce faire, visitez d’abord le [site Web de Stena Line (UK)](https://www.stenaline.co.uk/). Si vous souhaitez voir les prix en euros, sélectionnez la langue appropriée en bas de la page d’accueil.
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="determine_costs_2.webp"
     alt="Étape 2"
     width="40%"
-    position="right"
-%}}
+    position="right" >}}
 À l’étape suivante, vous devez passer à l’ancien système de réservation. Le nouveau système de réservation n’affiche pas de détail des coûts.
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="determine_costs_3.webp"
     alt="Étape 3"
     width="40%"
-    position="right"
-%}}
+    position="right" >}}
 Ensuite, vous pouvez suivre les étapes de réservation. Lors du choix du tarif, vous pouvez sélectionner Flexi ou Economy.
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="determine_costs_4.webp"
     alt="Étape 4"
     width="40%"
-    position="right"
-%}}
+    position="right" >}}
 Après avoir sélectionné toutes les options supplémentaires et cabines souhaitées, vous recevrez un détail des coûts dans la barre latérale. Avec un Coupon FIP, les frais de traversée (indiqués comme Economy ou Flexi) sont fixés à 0, le montant restant demeure. Par conséquent, les frais de traversée peuvent simplement être soustraits pour déterminer le coût avec un Coupon FIP.
 
 Au 22.12.2025, les taxes portuaires s’élèvent à 3 £ / 3 € et les taxes environnementales à 10,30 £ / 12 € par personne et par traversée. S’y ajoutent les frais de cabine et autres options supplémentaires, facturés au tarif plein.
-{{% /float-image %}}
+{{< /float-image >}}
 
 {{% /expander %}}
 

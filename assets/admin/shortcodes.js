@@ -112,6 +112,11 @@ function renderMultilineOpen(bracket, name, params, opts) {
       return pad + p;
     }),
   );
+  if (bracket === "<") {
+    var lastIndex = lines.length - 1;
+    lines[lastIndex] = lines[lastIndex] + " " + close;
+    return lines.join("\n");
+  }
   return lines.join("\n") + "\n" + close;
 }
 
@@ -359,7 +364,7 @@ var expanderFields = [
     widget: "markdown",
     editor_components: [
       "button",
-      "float-image",
+      "float-image-raw",
       "highlight-raw",
       "icon",
       "image2",
@@ -556,7 +561,7 @@ var trainCategoryFields = [
     widget: "markdown",
     editor_components: [
       "button",
-      "float-image",
+      "float-image-raw",
       "highlight-raw",
       "icon",
       "image2",
@@ -781,7 +786,7 @@ var bookingSectionFields = [
     widget: "markdown",
     editor_components: [
       "button",
-      "float-image",
+      "float-image-raw",
       "highlight-raw",
       "icon",
       "image2",
@@ -1121,6 +1126,34 @@ CMS.registerEditorComponent({
     };
   },
   toBlock: makeToBlock("float-image", {
+    fields: floatImageFields,
+    bodyMode: "optionalPaired",
+    multiline: true,
+  }),
+  toPreview: function () {
+    return "";
+  },
+});
+
+CMS.registerEditorComponent({
+  id: "float-image-raw",
+  label: "Float Image",
+  icon: "format_image_left",
+  fields: floatImageFields,
+  pattern: shortcodePattern("float-image", "<"),
+  fromBlock: function (match) {
+    var p = parseHugoParams(match[1]);
+    return {
+      src: String(p.src || ""),
+      alt: String(p.alt || ""),
+      caption: String(p.caption || ""),
+      width: String(p.width || "50%"),
+      position: String(p.position || "right"),
+      body: match[2].trim(),
+    };
+  },
+  toBlock: makeToBlock("float-image", {
+    bracket: "<",
     fields: floatImageFields,
     bodyMode: "optionalPaired",
     multiline: true,
