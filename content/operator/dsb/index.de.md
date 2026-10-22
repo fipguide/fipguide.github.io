@@ -3,6 +3,8 @@ title: DSB
 country:
   - denmark
 operator: dsb
+content_images:
+  - image.webp
 aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
@@ -103,11 +105,11 @@ Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie h
 
 Seit dem 01.09.2026 können auch die Strecken der DSB Vores Tog (ehemals GoCollective) in Mittel- und Westjütland und auf Fünen genutzt werden. [^4]
 
-{{< highlight confusion >}}
+{{< confusion denmark >}}
 Auch Züge von anderen Anbietern werden als `R` angezeigt, daher unbedingt vorher schauen, ob der Betreiber des Zuges die DSB ist. \
 Züge, die als `RA` gekennzeichnet sind, werden nicht von der DSB betrieben und sind daher nicht mit FIP nutzbar. \
 Züge, die als `RE` gekennzeichnet sind, werden in der Regel von der DSB betrieben.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -187,12 +189,6 @@ FIP-Angebote sind nicht gültig in Øresundståg-Zügen von Københavns Hovedban
 ### FIP 50 in Kopenhagen und Aarhus
 
 FIP 50 Tickets können nicht zwischen Bahnhöfen im Großraum Kopenhagen oder im Raum Aarhus-Grenaa ausgestellt werden. Nur Fahrten über diese Regionen hinaus sind möglich. FIP Freifahrtscheine sind hingegen auch bei Fahrten nur innerhalb dieser Regionen gültig.
-
-### Nutzung von Fähren
-
-{{% highlight inofficial %}}
-Angeblich sind FIP 50 Tickets gültig auf Fähren von Scandlines in Verbindung mit einer Zugreise durch Dänemark. Jedoch konnte dies bisher nicht von uns bestätigt werden. [^1]
-{{% /highlight %}}
 
 ### Anschlüsse – AJC
 

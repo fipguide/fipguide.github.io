@@ -31,9 +31,7 @@
       </div>
     </main>
     {{ partial "search" . }}
+    {{ partial "snackbar" . }}
     <footer class="o-footer o-container">{{ partial "footer.html" . }}</footer>
-    {{ if or (eq .Page.Type "country") (eq .Page.Type "operator") (eq .Page.Type "general") }}
-      {{ partial "snackbar" . }}
-    {{ end }}
   </body>
 </html>

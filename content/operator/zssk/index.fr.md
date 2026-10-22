@@ -3,6 +3,8 @@ title: ZSSK / ZSR
 country:
   - slovakia
 operator: zssk
+content_images:
+  - image.webp
 aliases:
   - zsr
   - /booking/zssk-ticket-office
@@ -79,9 +81,9 @@ Trains longue distance transfrontaliers exploités commercialement par ZSSK et C
 
 Trains transfrontaliers entre la Slovaquie et la République tchèque, l’Autriche ou la Hongrie. Ils circulent souvent avec peu d’arrêts et une vitesse moyenne relativement élevée. Les trains `RJ` sont des Railjet des chemins de fer autrichiens, utilisables avec les coupons ZSSK sur la section slovaque.
 
-{{< highlight confusion >}}
+{{< confusion slovakia >}}
 `RJ` est aussi l’abréviation de RegioJet, où les Billets FIP ne sont pas valables.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Réservations
 
@@ -227,6 +229,10 @@ Les étudiants de moins de 26 ans et les seniors de 62 ans et plus originaires d
 ### Possibilité d’interrompre le trajet
 
 Possible uniquement pour les trajets de 101 km ou plus.
+
+### Correspondances – AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 
 ### Services de remplacement ferroviaire
 

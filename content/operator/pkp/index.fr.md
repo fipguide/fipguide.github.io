@@ -3,6 +3,8 @@ title: PKP
 country:
   - poland
 operator: pkp
+content_images:
+  - image.webp
 aliases:
   - /booking/pkp-ticket-machine
   - /booking/pkp-ticket-office
@@ -175,9 +177,9 @@ Prix différents pour les connexions internationales. [Plus d’informations](ht
 
 Connexions de trains régionaux s’arrêtant à la plupart des gares, exploitées par Polregio. Ces trains n’ont pas de 1ère classe.
 
-{{< highlight confusion >}}
+{{< confusion poland >}}
 Les trains régionaux en Pologne sont parfois aussi exploités par d’autres compagnies ferroviaires que Polregio. Celles-ci ont parfois leurs propres réductions FIP. [Voir Pologne](/country/poland "Pologne")
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -380,7 +382,7 @@ Les Billets FIP ne sont pas valables dans le train spécial Słoneczny de KM (Va
 
 Les Billets FIP ne sont pas valables sur les téléphériques et chemins de fer à crémaillère exploités par PKP.
 
-### Correspondances - AJC
+### Correspondances – AJC
 
 Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 

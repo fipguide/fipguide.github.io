@@ -1,6 +1,8 @@
 ---
 title: Luxembourg
 country: luxembourg
+content_images:
+  - image.webp
 ---
 
 ## FIP Information

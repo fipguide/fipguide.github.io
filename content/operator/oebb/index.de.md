@@ -4,6 +4,8 @@ country:
   - austria
   - liechtenstein
 operator: oebb
+content_images:
+  - image.webp
 aliases:
   - obb
   - /booking/oebb-phone
@@ -53,6 +55,8 @@ Kosten: \
 
 Nationale und internationale Schnellzüge der höchsten Kategorie der ÖBB. Die Züge verkehren regelmäßig zwischen den wichtigsten Städten Österreichs, aber auch nach Deutschland, Italien, Tschechien, Ungarn, in die Slowakei und Schweiz. Die Züge besitzen 3 Wagenklassen und ein Bistro. Railjets mit weniger Halten werden als Railjet Xpress vermarktet.
 
+Im Railjet gibt es drei Reiseklassen:
+
 **Economy**: Vergleichbar mit der 2. Klasse. \
 **First Class**: Vergleichbar mit der 1. Klasse. Ein FIP-Ausweis für die 1. Klasse wird benötigt. \
 **Business**: 1. Klasse mit Begrüßungsgetränk und eigenen Abteilen. Mit FIP Freifahrtschein nicht nutzbar (auch nicht mit dem dazugehörigen Zuschlag)
@@ -61,9 +65,9 @@ Nationale und internationale Schnellzüge der höchsten Kategorie der ÖBB. Die 
 
 Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahlen. Siehe [Tarifliche Besonderheiten](#verkehr-nach-italien).
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 `RJ` ist gleichzeitig auch die Abkürzung für RegioJet, dort gelten keinerlei FIP-Farscheine.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -78,9 +82,9 @@ Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahle
 
 Die meisten `IC` Züge auf den Hauptstrecken wurden nach und nach durch Railjets ersetzt. `IC` Züge verkehren weiterhin auf Nebenstrecken wie Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Wien – Gmunden – Stainach-Irdning sowie ergänzend zu Railjets auf der Verbindung Wien–Lienz (Osttirol). Zudem gibt es `IC` Züge und `ICE` Züge auf einigen internationalen Strecken nach Deutschland in Zusammenarbeit mit der Deutschen Bahn, wobei der österreichische Abschnitt von der ÖBB betrieben wird.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Teilweise werden auch Regiojet Züge innerhalb von Österreich als `IC` gekennzeichnet, in diesen Züge sind FIP Tickets nicht gültig.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Reservierungen
 
@@ -168,9 +172,9 @@ Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen
 
 Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Regionalexpress-Züge werden teilweise auch von anderen privaten Bahngesellschaften betrieben bei denen FIP Fahrtkarten der ÖBB nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -185,11 +189,11 @@ Regionalexpress-Züge werden teilweise auch von anderen privaten Bahngesellschaf
 
 Nahverkehrszug mit Halten an den meisten Stationen.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Regionalzüge werden teilweise auch von anderen privaten Bahngesellschaften betrieben bei denen FIP Fahrtkarten der ÖBB nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
 
 Die Bezeichnung `R` Regionalzug wird in der Fahrplanauskunft der ÖBB auch für rein touristische Verkehre verwendet, bei denen keine FIP Fahrkarten gültig sind. Diese sind mit Fußnoten mit dem Hinweis „Sondertarif“ gekennzeichnet.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -204,7 +208,7 @@ Die Bezeichnung `R` Regionalzug wird in der Fahrplanauskunft der ÖBB auch für 
 
 Nahverkehrszug mindestens im Stundentakt mit Halt an allen Stationen. Vergleichbar mit einer S-Bahn.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Schnellbahnen werden teilweise auch von anderen privaten Bahngesellschaften betrieben, bei denen FIP Fahrtkarten der ÖBB nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
 
 Dazu gehören unter anderem:
@@ -213,7 +217,7 @@ Dazu gehören unter anderem:
 - S-Bahn Salzburg: S1 Salzburg – Lamprechtshausen, S11 Salzburg – Ostermiething (Salzburger Lokalbahn)
 - S-Bahn Steiermark: S11 Graz – Übelbach (Steiermarkbahn)
 - S6, S61 Graz – Wies-Eibiswald, S7 Graz – Köflach (Graz-Köflacher Eisenbahn)
-  {{< /highlight >}}
+  {{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -234,7 +238,21 @@ FIP Fahrkarten sind im ÖBB Postbus nicht gültig. In Bussen des Schienenersatzv
 
 ### Online
 
-{{% booking id="oebb-website" /%}}
+{{% booking id="oebb-website" %}}
+
+##### Brennerzuschlag
+
+{{% float-image
+src="oebb_brennerzuschlag.webp"
+alt="Angebotsdetails Brennerzuschlag"
+width="25%"
+position="right"
+%}}
+Während der Buchung musst du bei der Auswahl der Reisenden unter "Ermässigung hinzufügen" die Option "Interrail / Eurail – Globalpass" wählen. Bei der anschließenden Verbindungsauswahl ist die Ticketoption "Aufpreis Brennerverkehr Passzuschlag 1" zu wählen.
+
+Laut den Angebotsdetails ist das Angebot für Fahrgäste, die für die gesamte Strecke einen Pass (Interrail, Eurail, Netzkarten, etc.) besitzen. Dies umfasst auch FIP-Freifahrtscheine.
+{{% /float-image %}}
+{{% /booking %}}
 
 {{% booking id="db-website" %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
@@ -307,7 +325,7 @@ Mit Kindern lohnt sich schnell die ÖBB Vorteilscard Family für 21 €. \
 
 ### Züge nach Italien
 
-Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
+Auf internationalen Fernzügen von Österreich nach Italien werden FIP Freifahrtscheine der ÖBB zusätzlich zu den FIP Freifahrtscheinen der FS bei auch im italienischen Abschnitt anerkannt (nicht in Regionalzügen), jedoch ist bei beiden Freifahrtscheinen ein Zuschlag zu zahlen. Dieser kann [online](#oebb-website), im Zug oder an den Fahrkartenschaltern der FS oder ÖBB erworben werden.
 
 #### Brenner – Bozen – Verona - Venedig/Ancona/Bologna
 

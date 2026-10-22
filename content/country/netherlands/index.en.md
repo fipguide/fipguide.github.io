@@ -11,6 +11,8 @@ params:
     - Keolis Nederland
     - Qbuzz
     - VIAS Rail
+content_images:
+  - image.webp
 ---
 
 ## FIP Information
@@ -37,17 +39,17 @@ A special feature in the Netherlands is that almost all larger stations have tic
 
 {{% expander "Border Points" border %}}
 
-| Country                                                                    | Border Points                                                            |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [Germany](/country/germany) ([DB](/operator/db))                           | Bentheim (Gr), Emmerich (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| [Belgium](/country/belgium) ([SNCB](/operator/sncb))                       | Roosendaal (fr), Visé                                                    |
-| [United Kingdom](/country/united-kingdom) ([Stena Line BV](/operator/stl)) | Hoek van Holland                                                         |
+| Country                                                                    | Border Points                                                                                     |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [Germany](/country/germany) ([DB](/operator/db))                           | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
+| [Belgium](/country/belgium) ([SNCB](/operator/sncb))                       | Roosendaal (fr), Visé                                                                             |
+| [United Kingdom](/country/united-kingdom) ([Stena Line BV](/operator/stl)) | Hoek van Holland                                                                                  |
 
 {{% /expander %}}
 
 ### Germany
 
-From Germany, the cross-border `ICE` from Frankfurt / Cologne / Düsseldorf or Berlin / Hanover can be used to enter the NS network. For cross-border journeys, an additional DB ticket is required.
+From Germany, the cross-border `ICE` from Frankfurt / Cologne / Düsseldorf or Berlin / Hanover can be used to enter the NS network.
 
 There are also various regional trains, but only two are valid with FIP:
 

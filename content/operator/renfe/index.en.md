@@ -4,6 +4,8 @@ country:
   - spain
   - france
 operator: renfe
+content_images:
+  - image.webp
 aliases:
   - /booking/renfe-ticket-office
 ---
@@ -44,7 +46,7 @@ Only commuter trains can be used without restrictions with FIP Coupons. For othe
 
 Long-distance connections with standard-gauge and variable-gauge high-speed trains (up to 300 km/h). FIP Coupons are not accepted.
 
-International connections from / to France have different FIP Global Fares depending on the route section. Booking is only possible directly via Renfe, which is why tickets must be purchased at a ticket counter in Spain when boarding in Spain. FIP tickets can be purchased on the train when boarding in France; card payment is accepted. [^3]
+International connections from / to France have different FIP Global Fares depending on the route section. Booking is only possible directly via Renfe, which is why tickets must be purchased at a ticket counter in Spain when boarding in Spain. FIP tickets can be purchased on the train when boarding in France; card payment is accepted. Even if the train is fully booked and no seats are available, travel is usually still possible. [^3]
 
 **FIP Global Fare (regardless of distance):**[^5]
 
@@ -268,7 +270,7 @@ With FIP 50 and FIP Global Fare tickets, the journey may not be interrupted alon
 
 FIP discounts also apply to the narrow-gauge network of Renfe Feve (Ferrocarriles de Vía Estrecha) between Ferrol and Bilbao in northern Spain.
 
-### Connections - AJC
+### Connections – AJC
 
 This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
 

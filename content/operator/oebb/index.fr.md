@@ -4,6 +4,8 @@ country:
   - austria
   - liechtenstein
 operator: oebb
+content_images:
+  - image.webp
 aliases:
   - obb
   - /booking/oebb-phone
@@ -53,17 +55,19 @@ Coût : \
 
 Trains rapides nationaux et internationaux de la catégorie la plus élevée des ÖBB. Ils relient régulièrement les principales villes autrichiennes, ainsi que l’Allemagne, l’Italie, la Tchéquie, la Hongrie, la Slovaquie et la Suisse. Trois classes de confort et un bistro à bord. Les Railjet avec moins d’arrêts sont commercialisés comme Railjet Xpress.
 
-Il existe trois classes de voitures :
+Il existe trois classes de voyage :
 
 - **Economy** : Comparable à la 2ᵉ classe. En Allemagne, les billets de 2ᵉ classe sont valables dans cette classe
 - **First Class** : Comparable à la 1ʳᵉ classe. Une Carte FIP pour la 1ʳᵉ classe est nécessaire. En Allemagne, les billets de 1ʳᵉ classe sont valables dans cette classe
 - **Business** : 1ʳᵉ classe avec boisson de bienvenue (à partir de l’Autriche / République tchèque) et compartiments privés. Non accessible avec le FIP Coupon hors d’Allemagne, même avec le supplément correspondant. En Allemagne, ces espaces sont accessibles avec un billet de 1ʳᵉ classe.
 
+[Aperçu détaillé des classes sur le site web des ÖBB](https://www.oebb.at/en/reiseplanung-services/im-zug/abteile-komfortklassen)
+
 Pour les Railjet vers l’Italie, un supplément est à payer à partir de la frontière italienne. Voir [Conditions spéciales](#conditions-tarifaires-spéciales).
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 `RJ` est aussi l’abréviation de RegioJet, où les Billets FIP ne sont pas valables.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -78,9 +82,9 @@ Pour les Railjet vers l’Italie, un supplément est à payer à partir de la fr
 
 La plupart des trains `IC` sur les axes principaux ont été progressivement remplacés par les Railjet. Les `IC` circulent encore sur des lignes secondaires comme Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Vienne – Gmunden – Stainach-Irdning, ainsi qu’en complément des Railjet sur la liaison Vienne–Lienz (Tyrol oriental). Il existe aussi des trains `IC` et `ICE` sur certaines liaisons internationales vers l’Allemagne en coopération avec la Deutsche Bahn, la section autrichienne étant exploitée par ÖBB.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Certains trains Regiojet sont désignés comme `IC` en Autriche, mais les Billets FIP n’y sont pas valables.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Réservations
 
@@ -168,9 +172,9 @@ Les trains `D` sont principalement utilisés comme trains de renfort lors des p�
 
 Train régional rapide avec moins d’arrêts et matériel moderne.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Certains Regionalexpress sont exploités par des compagnies privées où les Billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -185,11 +189,11 @@ Certains Regionalexpress sont exploités par des compagnies privées où les Bil
 
 Train régional avec arrêts dans la plupart des gares.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Certains trains régionaux sont exploités par des compagnies privées où les Billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
 
 La désignation `R` est aussi utilisée dans les horaires ÖBB pour des trains touristiques où les Billets FIP ne sont pas valables. Ceux-ci sont signalés par une note « tarif spécial ».
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -204,7 +208,7 @@ La désignation `R` est aussi utilisée dans les horaires ÖBB pour des trains t
 
 Train régional au moins toutes les heures, arrêt à toutes les gares. Comparable à un S-Bahn.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Certaines Schnellbahn sont exploitées par des compagnies privées où les Billets FIP ÖBB ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
 
 Exemples :
@@ -213,7 +217,7 @@ Exemples :
 - S-Bahn Salzbourg : S1 Salzburg – Lamprechtshausen, S11 Salzburg – Ostermiething (Salzburger Lokalbahn)
 - S-Bahn Styrie : S11 Graz – Übelbach (Steiermarkbahn)
 - S6, S61 Graz – Wies-Eibiswald, S7 Graz – Köflach (Graz-Köflacher Eisenbahn)
-  {{< /highlight >}}
+  {{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -230,21 +234,25 @@ Les Billets FIP ne sont pas valables sur ÖBB Postbus. Dans les bus de remplacem
 
 {{% /train-category %}}
 
-## Catégories de classes
-
-Dans les Railjet(Xpress) :
-
-- **Economy** = 2ᵉ classe
-- **First Class** = 1ʳᵉ classe (nécessite un Coupon FIP 1ʳᵉ)
-- **Business** = classe 1ʳᵉ premium avec boisson de bienvenue — non valable avec FIP
-
-[Détails des classes ÖBB](https://www.oebb.at/en/reiseplanung-services/im-zug/abteile-komfortklassen)
-
 ## Achat de billets et réservations
 
 ### En ligne
 
-{{% booking id="oebb-website" /%}}
+{{% booking id="oebb-website" %}}
+
+##### Supplément Brenner
+
+{{% float-image
+src="oebb_brennerzuschlag.webp"
+alt="Détails de l'offre de supplément Brenner"
+width="25%"
+position="right"
+%}}
+Lors de la réservation, vous devez sélectionner l'option « Interrail Globalpass » dans la rubrique « Add discount » au moment de choisir les passagers. Lors de l'étape suivante de sélection de la liaison, choisissez l'option de billet « Aufpreis Brennerverkehr Passzuschlag 1 ».
+
+Selon les modalités de l'offre, celle-ci s'adresse aux passagers titulaires d'un pass (Interrail, Eurail, pass réseau, etc.) valable pour l'intégralité du trajet. Cela inclut également les coupons FIP.
+{{% /float-image %}}
+{{% /booking %}}
 
 {{% booking id="db-website" %}}
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
@@ -317,15 +325,15 @@ La carte ÖBB Vorteilscard Family à 21 € est vite rentabilisée avec enfants.
 
 ### Trains vers l’Italie
 
-Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les Coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des Coupons FIP FS (pas sur les trains régionaux), mais un supplément doit être payé pour les deux. Ce supplément peut être acheté à bord ou aux guichets ÖBB.
+Sur les trains grandes lignes internationaux d’Autriche vers l’Italie, les Coupons FIP ÖBB sont également acceptés dans la section italienne, en plus des Coupons FIP FS (pas sur les trains régionaux), mais un supplément doit être payé pour les deux. Ce supplément peut être acheté [en ligne](#oebb-website), à bord ou aux guichets ÖBB.
 
 #### Brenner – Bozen – Vérone – Venise/Ancône/Bologne
 
-Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `EC` et `RJ`. Pour les trajets à destination ou en provenance de l’Italie, ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ʳᵉ classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
+Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `EC` et `RJ`. Pour les trajets à destination ou en provenance de l’Italie, ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ʳᵉ classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validité-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
 
 #### Railjet Tarvisio Boscoverde – Venise
 
-Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `RJ`. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ère classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validite-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
+Les Coupons FIP ÖBB ou FS sont valables dans la section italienne des trains `RJ`. Pour les trajets vers/depuis l’Italie ou entièrement en Italie, un supplément de 10 € (2ᵉ classe) ou 15 € (1ère classe) doit être payé. Le [supplément ÖBB](/operator/oebb#validité-des-billets-fip) n’est pas appliqué sur la liaison du Brenner.
 
 ### Ligne REX63 (Pamhagen – Neusiedl am See)
 
@@ -368,6 +376,18 @@ Les trains grandes lignes ÖBB circulent entre Salzbourg et Kufstein sur le rés
 ### Possibilité d’interrompre le trajet
 
 Arrêts intermédiaires sont possible uniquement pour les distances de 101 km ou plus et ne nécessite aucune formalité supplémentaire.
+
+### Correspondances
+
+#### HOTNAT
+
+Si un train de correspondance est manqué dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle ou Zurich, HOTNAT peut être utilisé.
+
+Cet opérateur fait partie de HOTNAT (Hop on the Next Available Train). [Plus d’informations dans la FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 
 ### Services de remplacement ferroviaire
 

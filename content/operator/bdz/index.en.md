@@ -3,6 +3,8 @@ title: BDŽ
 country:
   - bulgaria
 operator: bdz
+content_images:
+  - image.webp
 aliases:
   - /booking/bdz-ticket-office
 ---
@@ -138,7 +140,7 @@ For travellers through several Balkan countries, the Balkan Flexipass could be w
 
 - Bosnia and Herzegovina (ZFBH),
 - Bulgaria (BDZ),
-- North Macedonia (MŽ-Transport),
+- North Macedonia (ŽRSM),
 - Greece (HT & Attica),
 - Montenegro (ŽPCG),
 - Romania (CFR Calatori & Regiotrans),

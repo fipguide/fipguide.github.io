@@ -3,6 +3,8 @@ title: KŚ
 country:
   - poland
 operator: ks
+content_images:
+  - image.webp
 aliases:
   - /booking/ks-ticket-machine
   - /booking/ks-ticket-office

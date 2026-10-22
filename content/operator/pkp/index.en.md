@@ -3,6 +3,8 @@ title: PKP
 country:
   - poland
 operator: pkp
+content_images:
+  - image.webp
 aliases:
   - /booking/pkp-ticket-machine
   - /booking/pkp-ticket-office
@@ -178,9 +180,9 @@ Different prices for international connections. [More information](https://www.i
 
 Regional train connections stopping at most stations, operated by Polregio. These trains do not have 1st class.
 
-{{< highlight confusion >}}
+{{< confusion poland >}}
 Regional trains in Poland are sometimes also operated by railway companies other than Polregio. These sometimes have their own FIP discounts. [See Poland](/country/poland "Poland")
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -383,7 +385,7 @@ FIP Tickets are not valid on the KM Słoneczny special train (Warsaw to Gdansk/G
 
 FIP Tickets are not valid on cable cars and rack railways operated by PKP.
 
-### Connections - AJC
+### Connections – AJC
 
 This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
 

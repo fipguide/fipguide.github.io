@@ -3,6 +3,8 @@ title: "ŽFBH"
 country:
   - "bosnia-and-herzegovina"
 operator: "žfbh"
+content_images:
+  - image.webp
 ---
 
 Željeznice Federacije Bosne i Hercegovine (ŽFBH) is the railway company of the Federation of Bosnia and Herzegovina in the country of the same name. Alongside it, the country also has [Željeznice Republike Srpske (ŽRS)](/operator/zrs), the railway operator of the Republika Srpska Federation. ŽFBH currently operates only a few connections on its 608 km rail network, and only on part of its network.
@@ -74,7 +76,7 @@ For travellers crossing several Balkan countries, the _Balkan Flexipass_ may be 
 
 - Bosnia and Herzegovina (ŽFBH, ŽRS),
 - Bulgaria (BDŽ),
-- North Macedonia (MŽ-Transport),
+- North Macedonia (ŽRSM),
 - Greece (HT & Attica),
 - Montenegro (ŽPCG),
 - Romania (CFR Calatori & Regiotrans),

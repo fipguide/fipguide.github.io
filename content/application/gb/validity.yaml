@@ -1,12 +1,12 @@
 groups:
-  - name: coupon-not-available
+  coupon-not-available:
     status: invalid
     text:
       de: Nicht verfügbar
       en: Not available
       fr: Non disponible
     type: fip-coupon
-  - name: coupon-active-1
+  coupon-active-1:
     status: valid
     text:
       de: |
@@ -19,7 +19,7 @@ groups:
         **1 coupon**
         <small>Par an.</small>
     type: fip-coupon
-  - name: coupon-active-2
+  coupon-active-2:
     status: valid
     text:
       de: |
@@ -32,14 +32,14 @@ groups:
         **2 coupons**
         <small>Par an.</small>
     type: fip-coupon
-  - name: reduced-50
+  reduced-50:
     status: valid
     text:
       de: 50 % Rabatt
       en: 50 % discount
       fr: 50 % de réduction
     type: fip-reduced-ticket
-  - name: reduced-75
+  reduced-75:
     status: valid
     text:
       de: 75 % Rabatt
@@ -503,7 +503,7 @@ operators:
       active-relatives: reduced-50
       retired: reduced-50
       retired-relatives: reduced-50
-  zrms:
+  zrsm:
     fip-coupon:
       active: coupon-active-1
       active-relatives: coupon-not-available

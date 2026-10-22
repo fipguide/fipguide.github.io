@@ -3,6 +3,8 @@ title: DSB
 country:
   - denmark
 operator: dsb
+content_images:
+  - image.webp
 aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
@@ -103,11 +105,11 @@ Trains régionaux desservant toutes les gares hors du réseau S-tog de Copenhagu
 
 À compter du 1er septembre 2026, les itinéraires de DSB Vores Tog (anciennement GoCollective) dans le Jutland central et occidental et sur l'île de Fionie peuvent également être utilisés. [^4]
 
-{{< highlight confusion >}}
+{{< confusion denmark >}}
 D’autres opérateurs utilisent aussi la catégorie `R` — vérifiez toujours que le train est bien exploité par DSB. \
 Les trains marqués `RA` ne sont pas exploités par DSB et ne sont donc pas inclus dans FIP. \
 Les trains marqués `RE` sont généralement exploités par DSB.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -187,12 +189,6 @@ Les titres FIP ne sont pas valables sur les trains Øresundståg entre Copenhagu
 ### FIP 50 à Copenhague et Aarhus
 
 Les Billets FIP 50 ne peuvent pas être émis pour des trajets uniquement internes à la région de Copenhague ou au secteur Aarhus-Grenaa. Seuls les trajets au-delà de ces régions sont autorisés. Les Coupons FIP, eux, restent valables partout, y compris dans ces zones.
-
-### Utilisation des ferries
-
-{{% highlight inofficial %}}
-Selon certaines sources, les Billets FIP 50 seraient valables sur les ferries Scandlines en lien avec un trajet en train au Danemark. Cela n’a pas encore été officiellement confirmé. [^1]
-{{% /highlight %}}
 
 ### Correspondances - AJC
 

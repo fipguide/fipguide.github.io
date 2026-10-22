@@ -3,6 +3,8 @@ title: Trenitalia
 country:
   - italy
 operator: trenitalia
+content_images:
+  - image.webp
 aliases:
   - /booking/fs-ticket-machine
   - /booking/fs-ticket-office
@@ -44,9 +46,9 @@ La réservation (avec supplément) est obligatoire dans les trains longue distan
 
 Catégorie la plus élevée pour les trains à grande vitesse longue distance. Le Frecciarossa 1000 est signalé pour sa vitesse et son service supérieurs.
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Les trains du transporteur privé Italo sont aussi marqués AV mais ne sont pas accessibles avec FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
@@ -67,9 +69,9 @@ Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FI
 
 Trains à grande vitesse à pendulation.
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Les trains du transporteur privé Italo sont aussi marqués AV mais ne sont pas accessibles avec FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
@@ -243,9 +245,9 @@ Les billets pour les trains régionaux peuvent être liés à un train spécifiq
 
 Réseaux suburbains à Naples (`M`) et Turin (`sfm`).
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Les lignes de métro sont parfois aussi marquées `M` et ne sont pas accessibles avec FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -439,6 +441,10 @@ Les billets pour les trains régionaux non liés à un train (_non prenotabile_)
 ### Possibilité d’interrompre le trajet
 
 L’interruption de voyage n’est pas autorisée dans les trains longue distance. Dans les trains régionaux, elle est possible sans formalités, sauf pour les Billets FIP 50 liés à un train spécifique avec numéro de train imprimé (voir [Billets liés à un train dans les trains régionaux](#billets-liés-à-un-train-dans-les-trains-régionaux)).
+
+### Correspondances – AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 
 ### Services de remplacement ferroviaire
 

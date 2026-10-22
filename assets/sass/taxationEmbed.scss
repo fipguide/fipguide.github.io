@@ -1,0 +1,22 @@
+.o-taxation-embed {
+  margin-top: 1rem;
+
+  &__loading {
+    margin-bottom: 1.2rem;
+  }
+
+  &__loading-content {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-weight: 500;
+  }
+
+  &__loading-content .a-icon {
+    font-size: 2rem;
+  }
+
+  .m-text-highlight {
+    margin-top: 0;
+  }
+}

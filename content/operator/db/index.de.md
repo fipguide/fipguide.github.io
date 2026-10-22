@@ -3,6 +3,8 @@ title: DB
 country:
   - germany
 operator: db
+content_images:
+  - image.webp
 aliases:
   - /booking/db-ticket-office
   - /booking/db-website
@@ -47,7 +49,7 @@ Der `ICE` ist ein Hochgeschwindigkeitszug und die höchste Zugkategorie der DB. 
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
 
-Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich, Belgien und in die Niederlande gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
+Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich, Belgien, Dänemark und in die Niederlande gab es in der Vergangenheit eine Reservierungspflicht. Diese kann sich jedoch von Jahr zu Jahr ändern. Eine Reservierungspflicht ist in der [Verbindungsauskunft der DB](https://www.bahn.de) gekennzeichnet.
 
 {{% /train-category %}}
 
@@ -60,11 +62,47 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich, Belgie
     reservation_possible=true
 %}}
 
-Grenzüberschreitende Hochgeschwindigkeitszüge der SNCF in Kooperation mit der DB. Diese verkehren von Frankfurt, Mannheim, Karlsruhe, Saarbrücken, Stuttgart und München nach Paris.
+Grenzüberschreitende Hochgeschwindigkeitszüge der SNCF in Kooperation mit der DB. Diese verkehren von Frankfurt, Mannheim, Saarbrücken, München, Stuttgart und Karlsruhe nach Paris.
+
+{{< confusion germany >}}
+Einige wenige `TGV` Züge verkehren von Paris nach Freiburg und werden vollständig (auch in Deutschland) von der SNCF betrieben. Als Betreiber wird für diese Züge nur die SNCF aufgeführt, siehe [Zugbetreiber identifizieren und Verbindungen suchen](/country/germany#fip-nutzung). In diesen Zügen gelten in Deutschland keine DB Freifahrtscheine und keine nationalen Fahrvergünstigungen für DB Mitarbeitende. Stattdessen können FIP Globalpreistickets der SNCF erworben werden.
+{{< /confusion >}}
 
 #### Reservierungen
 
 Reservierungspflicht bei grenzüberschreitenden Fahrten nach Frankreich.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ece"
+    title="Eurocity-Express (ECE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=partially
+    reservation_possible=true
+%}}
+
+Internationale Schnellzüge der höchsten Kategorie.
+
+Sie werden betrieben von
+
+- der DSB in Kooperation mit der DB zwischen Hamburg und Kopenhagen;
+- der SBB in Kooperation mit der DB und Trenitalia auf der Strecke zwischen Frankfurt, Karlsruhe, Zürich und Mailand;
+- der SBB in Kooperation mit der DB und der ÖBB auf der Strecke zwischen München, Bregenz und Zürich.
+
+{{< highlight important >}}
+Die Züge Richtung Italien sind ab der italienischen Grenze aufschlags- und reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([siehe Anreise Italien](/country/switzerland#italien "Anreise Italien")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
+
+**Aufschlag/Reservierung Italien:**
+
+- 1\. Klasse: 13 €
+- 2\. Klasse: 11 €
+  {{< /highlight >}}
+
+#### Reservierungen
+
+Reservierungspflicht bei grenzüberschreitenden Fahrten nach Italien und der Hochsaison nach Dänemark.
 
 {{% /train-category %}}
 
@@ -81,7 +119,7 @@ Internationale Schnellzüge der höchsten Kategorie.
 
 Sie werden betrieben von
 
-- der ÖBB in Kooperation mit der DB auf der Strecke zwischen München, Österreich und Italien oder Ungarn.
+- der ÖBB in Kooperation mit der DB auf der Strecke zwischen München, Österreich und Italien oder Ungarn;
 - der ČD in Kooperation mit der DB zwischen Hamburg, Berlin, Dresden sowie Prag. Teilweise werden die Züge bis Kopenhagen verlängert und verkehren zusätzlich in Kooperation mit der DSB.
 
 Railjets mit weniger Halten werden als Railjet Xpress vermarktet. Die Züge besitzen ein Bistro.
@@ -114,32 +152,6 @@ Einige [Nightjet](#nj)-Verbindungen werden mit `IC`-Sitzwagen geführt. Diese Si
 {{% /train-category %}}
 
 {{% train-category
-    id="ece"
-    title="Eurocity-Express (ECE)"
-    type="highspeed"
-    fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
-%}}
-
-Ein internationaler Expresszug zwischen Frankfurt und Mailand sowie zwischen München und Zürich. Seit Dezember 2025 wird die Zugkategorie auch für weitere Verkehre zwischen der Schweiz und Deutschland sowie Zügen auf der Route Hamburg – Kopenhagen genutzt.
-
-{{< highlight important >}}
-Die Züge Richtung Italien sind ab der italienischen Grenze aufschlags- und reservierungspflichtig. Günstiger ist die Fahrt Richtung Italien mit Umstieg in Chiasso ([siehe Anreise Italien](/country/switzerland#italien "Anreise Italien")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
-
-**Aufschlag/Reservierung Italien:**
-
-- 1\. Klasse: 13 €
-- 2\. Klasse: 11 €
-  {{< /highlight >}}
-
-#### Reservierungen
-
-Reservierungspflicht bei grenzüberschreitenden Fahrten nach Italien und der Hochsainson nach Dänemark.
-
-{{% /train-category %}}
-
-{{% train-category
     id="ec"
     title="Eurocity (EC)"
     type="highspeed"
@@ -166,10 +178,10 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Tschechien gab es i
     reservation_possible=true
 %}}
 
-Nachtzüge der ÖBB in Kooperation mit der DB in verschiedene europäische Länder. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben.
+Nachtzüge der ÖBB `NJ` sowie anderer Bahnen `EN` in Kooperation mit der DB in verschiedene europäische Länder. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an.
 
 {{< highlight important >}}
-Nationale Freifahrten für Mitarbeiter der Deutschen Bahn werden in Deutschland nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis erforderlich.
+Nationale Freifahrten für Mitarbeiter der Deutschen Bahn werden in `NJ` Zügen innerhalb Deutschlands nicht anerkannt. Liegt ein Teil der Nightjet Fahrt also in Deutschland (Start, Ende oder Durchreise) müssen Mitarbeiter der Deutschen Bahn für die gesamte Strecke ein Ticket zum FIP Globalpreis erwerben. Für Fahrten außerhalb Deutschlands mit FIP Freifahrtschein ist eine Reservierung/Aufpreis erforderlich.
 {{< /highlight >}}
 
 **FIP Globalpreis:** ja \
@@ -182,6 +194,21 @@ Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen
 Einige Nightjet-Verbindungen werden mit [Intercity](#ic)-Sitzwagen geführt. Diese Sitzwagen können ohne Reservierung genutzt werden. Die `IC`-Verbindung wird in den Auskunftsmedien zusätzlich zum Nightjet dargestellt.
 
 **Kosten:** abhängig von Strecke und Auslastung sowie Wagenkategorie.
+
+{{% /train-category %}}
+
+{{% train-category
+    id="ferry"
+    title="Fähre Wangerooge – Harlesiel"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+DB Fernverkehr betreibt die Fährverbindung zwischen Wangerooge und Harlesiel in der Nordsee. FIP 50 Tickets und FIP Freifahrtscheine werden für die Überfahrt akzeptiert.
+
+Es gelten nur Tickets des Fernverkehrs und keine Nahverkehrstickets wie das _Deutschlandticket_. Beim Kauf von FIP 50 Tickets für diese Strecke ist das nicht zu beachten, da diese in diesem Fall immer als Fernverkehrsticket ausgestellt werden. Weitere Informationen im Abschnitt [Tarifliche Unterscheidung zwischen Nah- und Fernverkehr](#tarifliche-unterscheidung-zwischen-nah--und-fernverkehr).
 
 {{% /train-category %}}
 
@@ -204,9 +231,9 @@ Eine Orientierung bieten [Übersichtskarten](https://www.schienennahverkehr.de/v
 
 Regionalexpresszüge verbinden Orte und Städte mit Halten an den wichtigsten Stationen. Teilweise verkehren die Züge auch überregional über längere Strecken.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Die Züge der Kategorie `RE` werden oftmals auch von anderen Betreibern betrieben.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -221,9 +248,9 @@ Die Züge der Kategorie `RE` werden oftmals auch von anderen Betreibern betriebe
 
 Regionalbahnzüge verbinden Orte und Städte mit Halten an fast allen Stationen.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Die Züge der Kategorie `RB` werden oftmals auch von anderen Betreibern betrieben.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -238,8 +265,25 @@ Die Züge der Kategorie `RB` werden oftmals auch von anderen Betreibern betriebe
 
 Nahverkehrszüge in großen Städten und Metropolregionen mit Halt an allen Stationen.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Die Züge der Kategorie `S` werden oftmals auch von anderen Betreibern betrieben.
+{{< /confusion >}}
+
+{{% /train-category %}}
+
+{{% train-category
+    id="mex"
+    title="Metropolexpress (MEX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Nahverkehrszug zwischen Stuttgart und dem Umland. Züge halten im Umland an vielen Stationen, im S-Bahn-Gebiet (Raum Stuttgart) wird nur an den wichtigsten Stationen gehalten.
+
+{{< highlight confusion >}}
+Die Züge der Kategorie `MEX` werden oftmals auch von anderen Betreibern betrieben.
 {{< /highlight >}}
 
 {{% /train-category %}}
@@ -354,28 +398,15 @@ Kinder bis einschließlich 5 Jahre reisen immer kostenlos und benötigen kein ei
 Im Nordhessischen Verkehrsverbund (NVV) werden im Regionalverkehr keine Vergünstigungen für Mitarbeitende der DB anerkannt. Somit gelten hier auch keine FIP Vergünstigungen.
 Hier gibt es eine [Übersichtskarte](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Liniennetz_Nordhessen_Schematisch.pdf) der betroffenen Regionalzug-Linien.
 
-### DB Regio Stuttgart
-
-DB Regio Stuttgart (früher SWEG Bahn Stuttgart) akzeptiert keine FIP Vergünstigungen. Dazu zählen die Linien: [^2]
-
-- RE 6: Tübingen - Stuttgart
-- RE 10a: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
-- RE 10b: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
-- RE 12: Tübingen - Stuttgart - Heilbronn
-- RE 17a: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
-- RE 17c: Stuttgart - Mühlacker - Bretten - Bruchsal
-- RE 18: Tübingen - Stuttgart - Heilbronn - Osterburken
-- RE 71: Mühlacker - Bretten - Bruchsal – Heidelberg
-
 ### DB Regio Bayern
 
-Die Züge von DB Regio Bayern zwischen Nürnberg Hbf und Regensburg Hbf werden im Auftrag für das Eisenbahnunternehmen agilis betrieben. Daher werden in diesem Abschnitt keine FIP Vergünstigungen anerkannt. [^2]
+Die Züge von DB Regio Bayern zwischen Nürnberg Hbf und Regensburg Hbf werden im Auftrag für das Eisenbahnunternehmen agilis betrieben. Daher werden in diesem Abschnitt keine FIP Vergünstigungen anerkannt. Auf anderen Linien von DB Regio Bayern gilt FIP. [^2]
 
 ### Fahrten in Verkehrsverbünden
 
 Deutschland ist in sogenannte _Verkehrsverbünde_ (kombinierte Tarifstruktur) gegliedert. Diese sind öffentliche Gesellschaften, die den Nahverkehr in der entsprechenden Region übergreifend für alle Betreiber organisieren. Sie sind auch für die Ausgestaltung von Ticketpreisen und Tarifen zuständig. Die Fahrt mit FIP Vergünstigungen in nur einem Verkehrsverbund ist in der Regel nicht zulässig. Eine Reise muss sich immer mindestens über zwei Verkehrsverbünde erstrecken, da in diesem Fall Tarife und Tickets von Betreibern angeboten werden dürfen. Es kann Ausnahmen geben, die beim jeweiligen Verkehrsverbund oder lokalen Ticketschaltern erfragt werden können. [^1]
 
-Bei FIP 50 Tickets müssen daher Start- und Zielbahnhof in unterschiedlichen Verkehrsverbünden liegen. Dies gilt auch be Reisen mit FIP Freifahrtschein.
+Bei FIP 50 Tickets müssen daher Start- und Zielbahnhof in unterschiedlichen Verkehrsverbünden liegen. Dies gilt auch bei Reisen mit FIP Freifahrtschein.
 
 {{% highlight tip %}}
 Eine Übersicht über alle Verkehrsverbünde ist auf [Wikipedia](https://de.wikipedia.org/wiki/Liste_deutscher_Tarif-_und_Verkehrsverb%C3%BCnde) verfügbar.
@@ -392,9 +423,17 @@ In folgendem Beispiel liegt die gewählte Verbindung im Verkehrsverbund _VRS_:
 
 {{% /expander %}}
 
+#### Übergreifende Tarife
+
+In einigen Bundesländern gibt es Kooperationen mehrerer Verkehrsverbünde, um gemeinsam einheitliche Tickets für den Nahverkehr anzubieten. FIP 50 Tickets werden in diesen übergreifenden Tarifen in der Regel nicht ausgestellt. In folgenden Bundesländern gibt es Verkehrsverbund-übergreifende Tarife:
+
+- **Baden-Württemberg**: _bwtarif_ [Übersicht öffnen](https://assets.static-bahn.de/dam/jcr:45aead8a-90e4-4856-966f-1eaf38c04f0a/bwegt_Karte_bwtarif_07-01-2025_barrierefrei.2025-08-01-13-22-45.pdf)
+- **Niedersachsen**: _Niedersachsen-Tarif_ [Übersicht öffnen](https://www.niedersachsentarif.de/fahrkarten/niedersachsen-ticket/)
+- **Nordrhein-Westfalen**: _NRW-Tarif_ [Übersicht öffnen](https://infoportal.mobil.nrw/nrw-tarif/nrw-tarif-im-ueberblick.html)
+
 ### Tarifliche Unterscheidung zwischen Nah- und Fernverkehr
 
-Bei FIP 50 Tickets können flexibel Züge auf der gleichen Strecke genutzt werden. Dabei muss aber auf die Zugkategorien geachten werden, da bei der DB wird zwischen Fahrkarten für verschiedene Zugkategorien unterschieden (sogenannte _[Produktklassen](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)_) wird. Fahrkarten (auch FIP 50 Tickets) gelten nur in der gleichen und niedriegen Produktklassen. Die Produktklasse ist auf Fahrkarten vermerkt (z.B. _ICE Fahrkarte_ oder _IC/EC Fahrkarte_) und richtet sich nach der höchsten Zugkategorie auf der gebuchten Verbindung.
+Bei FIP 50 Tickets können flexibel Züge auf der gleichen Strecke genutzt werden. Dabei muss aber auf die Zugkategorien geachten werden, da bei der DB zwischen Fahrkarten für verschiedene Zugkategorien (sogenannte _[Produktklassen](https://de.wikipedia.org/wiki/Preissystem_der_Deutschen_Bahn#Produktklassen)_) unterschieden wird. Fahrkarten (auch FIP 50 Tickets) gelten nur in der gleichen und niedrigeren Produktklassen. Die Produktklasse ist auf der Fahrkarte vermerkt (z.B. _ICE Fahrkarte_ oder _IC/EC Fahrkarte_) und richtet sich nach der höchsten Zugkategorie auf der gebuchten Verbindung.
 
 Es gibt folgende Produktklassen:
 
@@ -411,7 +450,7 @@ Die DB betreibt den Autoreisezug _Syltshuttle_, welcher von Niebüll Autoverladu
 
 ### Schifffahrt und Inselbahn Wangerooge
 
-FIP Freifahrtscheine gelten im Fährverkehr zwischen Harlesiel Anleger und Wangerooge und Inselbahn Wangerooge. FIP 50 Tickets sind nicht buchbar.
+FIP Freifahrtscheine gelten im Fährverkehr zwischen Harlesiel Anleger und Wangerooge und auf der Inselbahn Wangerooge. FIP 50 Tickets sind nicht buchbar.
 
 ### S-Bahn Mitteldeutschland (S5/X)
 
@@ -439,7 +478,9 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 
 ## Empfehlungen
 
-Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedlich sind. Beispielsweise besteht auch die Möglichkeit die Thüringer Bergbahn zu benutzen, die von Obstfelderschmiede nach Cursdorf fährt. Auch Verbindungen durch den Schwarzwald (Schwarzwaldbahn) oder durch das Rheintal an der linken Rheinstrecke sind sehr zu empfehlen. Im Fernverkehr ist ein Highlight, dass es normalerweise in jeder ´ICE´ Verbindung ein Bordrestaurant gibt. Dieses bietet zwar keine frisch gekochten Speisen, die Gerichte sind jedoch trotzdem sehr vielfältig.
+Die Deutsche Bahn betreibt eine Vielzahl von Verbindungen, die sehr unterschiedlich sind. Beispielsweise besteht auch die Möglichkeit die Thüringer Bergbahn zu benutzen, die von Obstfelderschmiede nach Cursdorf fährt. Auch Verbindungen durch den Schwarzwald (Schwarzwaldbahn) oder durch das Rheintal an der linken Rheinstrecke sind sehr zu empfehlen.
+
+Im Fernverkehr ist ein Highlight, dass es normalerweise in jeder `ICE` Verbindung ein Bordrestaurant gibt. Dieses bietet zwar keine frisch gekochten Speisen, die Gerichte sind jedoch trotzdem sehr vielfältig. Die jeweils aktuelle Speisekarte kann [hier](https://db-bordgastronomie.de/digitalespeisekarte) eingesehen werden, alle zwei Monate gibt es neue saisonale Speisen und Getränke. An Bord von `ICE` Verbindungen kann zudem das [ICE Portal](https://iceportal.de) genützt werden, welches Reiseinformationen und die Live-Speisekarte anzeigt sowie eine Vielzahl an Filmen, Podcasts und Zeitungen bereithält.
 
 <!--
   Persönliche Empfehlungen und besondere persönliche Hinweise für die Fahrt

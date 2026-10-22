@@ -3,6 +3,8 @@ title: ČD
 country:
   - czechia
 operator: cd
+content_images:
+  - image.webp
 aliases:
   - /booking/cd-ticket-office
   - /booking/cd-website
@@ -81,9 +83,9 @@ Il existe généralement trois classes :
 
 Les trains disposent de matériel moderne de type ÖBB Railjet, mais avec une livrée bleue. Les vélos, poussettes et bagages encombrants sont acceptés. Restauration disponible au wagon-restaurant ou service à la place. En 1ère classe, une bouteille d’eau et un journal sont offerts ; en Business, une boisson de bienvenue et un bon de 50 CZK pour le restaurant (valable uniquement en Tchéquie). Un cinéma pour enfants est disponible.
 
-{{< highlight confusion >}}
+{{< confusion czechia >}}
 À ne pas confondre avec les trains RegioJet, parfois aussi notés `RJ`, qui n’acceptent pas les Billets FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Réservations
 
@@ -719,7 +721,7 @@ L’interruption de voyage n’est pas autorisée pour les trajets intérieurs j
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
 
-### Correspondances - AJC
+### Correspondances – AJC
 
 Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 
@@ -734,8 +736,6 @@ Les salons ČD de Praha hl. n., Olomouc hl. n., Břeclav et Brno hl. n. peuvent 
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782244-czechia.html)
-
-[^3]: [ČD – Billets nationaux](https://www.cd.cz/en/typy-jizdenek/vnitrostatni-jizdenky/-28762/)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 

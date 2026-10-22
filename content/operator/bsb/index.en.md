@@ -5,6 +5,8 @@ country:
   - germany
   - switzerland
 operator: bsb
+content_images:
+  - image.webp
 aliases:
   - /booking/bsb-ticket-office
 ---

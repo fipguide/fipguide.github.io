@@ -5,6 +5,8 @@ country:
   - switzerland
   - italy
 operator: sp
+content_images:
+  - image.webp
 ---
 
 In [Switzerland](/country/switzerland "Switzerland"), in addition to the national railway [SBB CFF FFS](/operator/sbb "SBB CFF FFS") and the smaller BLS, there is also an association of many different railway companies grouped together as the _Schweizer Privatbahnen_ (Swiss Private Railways). These include both regular trains in the Swiss rail network and more tourist-oriented services. In addition to trains, some boats, cable cars, and buses are also included.
@@ -547,19 +549,6 @@ Seat reservations can be purchased [online on the Centovalli website](https://pr
 #### Scheduled routes
 
 - (Locarno –) Camedo – Domodossola
-
-{{% /train-category %}}
-
-{{% train-category
-    id="stb"
-    title="Sensetalbahn (STB)"
-    type="regional"
-    fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
-%}}
-
-Sensetalbahn operated the line Flamatt – Laupen – Gümmenen, which today is operated by BLS. It is therefore questionable whether STB should still be listed here.
 
 {{% /train-category %}}
 

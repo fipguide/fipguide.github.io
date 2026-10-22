@@ -3,6 +3,8 @@ title: CFL
 country:
   - luxembourg
 operator: cfl
+content_images:
+  - image.webp
 aliases:
   - /booking/cfl-phone
   - /booking/cfl-ticket-office
@@ -154,12 +156,12 @@ Kinder, die das 4. Lebensjahr noch nicht erreicht haben, müssen von einer Perso
 
 ### CFL Bus Luxemburg - Saarbrücken
 
-Im Expressbus der CFL zwischen Luxemburg und Saarbrücken ist keine allgemeine kostenlose Fahrt möglich. Die Fahrpreise können auf der [Website der CFL](https://www.cfl.lu/de-de/ticket/internationaldetail/saarbrueckenexpress/1000) eingesehen werden. \
+Im Expressbus der CFL zwischen Luxemburg und Saarbrücken ist keine allgemeine kostenlose Fahrt möglich. Die Fahrpreise können auf der [Website der CFL](https://www.cfl.lu/de-de/ticket/international/allemagne/saarbrueckenexpress) eingesehen werden. \
 Es gibt auf dieser Verbindung keine weiteren FIP-Vergünstigungen.
 
 ### CFL Bus Lorraine Express
 
-Die CFL betreibt einen Expressbus zwischen Luxemburg und dem Bahnhof _Lorraine TGV_ in Frankreich als `TGV` Zubringer. In diesem Bus ist keine allgemeine kostenlose Fahrt möglich. Die Fahrpreise können auf der [Website der CFL](https://www.cfl.lu/de-de/ticket/internationaldetail/gare-lorraine) eingesehen werden. Die Busse sind reservierungspflichtig und ein Ticket kann bis zu 2,5 Stunden vor Abfahrt des Busses erworben werden. \
+Die CFL betreibt einen Expressbus zwischen Luxemburg und dem Bahnhof _Lorraine TGV_ in Frankreich als `TGV` Zubringer. In diesem Bus ist keine allgemeine kostenlose Fahrt möglich. Details können auf der [Website der CFL](https://www.cfl.lu/de-de/ticket/international/france/gare-lorraine) eingesehen werden. Die Busse sind reservierungspflichtig und ein Ticket kann bis zu 2,5 Stunden vor Abfahrt des Busses erworben werden. \
 Zur Gültigkeit von FIP Vergünstigungen sind uns keine offiziellen Informationen bekannt.
 
 ### Anschlüsse – AJC

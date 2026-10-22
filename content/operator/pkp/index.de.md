@@ -3,6 +3,8 @@ title: PKP
 country:
   - poland
 operator: pkp
+content_images:
+  - image.webp
 aliases:
   - /booking/pkp-ticket-machine
   - /booking/pkp-ticket-office
@@ -178,9 +180,9 @@ Abweichende Preise für internationale Verbindungen. [Weitere Informationen](htt
 
 Regionalzugverbindungen mit Halten an den meisten Bahnhöfen, die von Polregio betrieben werden. Diese Züge haben keine 1. Klasse.
 
-{{< highlight confusion >}}
+{{< confusion poland >}}
 Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als Polregio betrieben. Diese haben teilweise ihre eigenen FIP-Ermäßigungen ([siehe Polen](/country/poland "Polen")).
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 

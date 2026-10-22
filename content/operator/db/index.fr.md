@@ -3,6 +3,8 @@ title: DB
 country:
   - germany
 operator: db
+content_images:
+  - image.webp
 aliases:
   - /booking/db-ticket-office
   - /booking/db-website
@@ -61,6 +63,10 @@ Par le passé, une obligation de réservation existait en été pour les trajets
 %}}
 
 Trains à grande vitesse transfrontaliers de la SNCF en coopération avec la DB. Ils relient Francfort, Mannheim, Karlsruhe, Sarrebruck, Stuttgart et Munich à Paris.
+
+{{< confusion germany >}}
+Quelques trains `TGV` circulent de Paris à Fribourg et sont entièrement exploités par la SNCF, y compris en Allemagne. Pour ces trains, seule la SNCF est indiquée comme exploitant, voir [Identifier l’exploitant du train et rechercher des liaisons](#informations-fip). Dans ces trains, les Coupons FIP DB et les réductions nationales pour les employés DB ne sont pas valables en Allemagne. À la place, des billets au Tarif Global FIP de la SNCF peuvent être achetés.
+{{< /confusion >}}
 
 #### Réservations
 
@@ -185,6 +191,21 @@ Certains services Nightjet sont assurés par des voitures [Intercity](#ic). Ces 
 
 {{% /train-category %}}
 
+{{% train-category
+    id="ferry"
+    title="Ferry Wangerooge – Harlesiel"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+DB Fernverkehr exploite la liaison par ferry entre Wangerooge et Harlesiel en mer du Nord. Les billets FIP 50 et les Coupons FIP sont acceptés pour la traversée.
+
+Seuls les billets du trafic longue distance sont valables, et non les billets du trafic local comme le _Deutschlandticket_. Cela ne doit pas être pris en compte lors de l’achat de billets FIP 50 pour ce trajet, car ils sont dans ce cas toujours émis comme billets longue distance. Plus d’informations dans la section [Distinction tarifaire entre trains longue distance et trains locaux](#distinction-tarifaire-entre-trains-longue-distance-et-trains-locaux).
+
+{{% /train-category %}}
+
 ### Trafic local
 
 Les trains du trafic local sont souvent exploités par d’autres opérateurs qui n’acceptent pas le FIP. Dans la [recherche d’itinéraire de la DB](https://www.bahn.de), tous les opérateurs sont indiqués. Seuls les trains avec _DB_ dans le nom de l’opérateur dans les _informations de trajet_ peuvent être utilisés avec FIP.
@@ -204,9 +225,9 @@ Une orientation est fournie par les [cartes d’aperçu](https://www.schienennah
 
 Les trains Regionalexpress relient des villes avec des arrêts dans les principales gares. Certains circulent aussi sur de longues distances.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Les trains de la catégorie `RE` sont souvent exploités par d’autres opérateurs.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -221,9 +242,9 @@ Les trains de la catégorie `RE` sont souvent exploités par d’autres opérate
 
 Les trains Regionalbahn relient des villes avec des arrêts dans presque toutes les gares.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Les trains de la catégorie `RB` sont souvent exploités par d’autres opérateurs.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -238,8 +259,25 @@ Les trains de la catégorie `RB` sont souvent exploités par d’autres opérate
 
 Trains de proximité dans les grandes villes et régions métropolitaines avec arrêt à toutes les gares.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Les trains de la catégorie `S` sont souvent exploités par d’autres opérateurs.
+{{< /confusion >}}
+
+{{% /train-category %}}
+
+{{% train-category
+    id="mex"
+    title="Metropolexpress (MEX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Les trains régionaux relient Stuttgart et ses environs. Dans les environs, les trains `MEX` s'arrêtent dans de nombreuses gares, tandis que dans la zone desservie par le S-Bahn Stuttgart, ils ne s'arrêtent que dans quelques gares.
+
+{{< highlight confusion >}}
+Les trains de la catégorie `MEX` sont souvent exploités par d’autres opérateurs.
 {{< /highlight >}}
 
 {{% /train-category %}}
@@ -354,22 +392,9 @@ Les enfants de moins de 6 ans voyagent toujours gratuitement et n’ont pas beso
 Dans le Nordhessischer Verkehrsverbund (NVV), aucune réduction pour les employés de la DB n’est reconnue dans le trafic régional. Les réductions FIP ne sont donc pas valables.
 Une [carte d’aperçu](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Liniennetz_Nordhessen_Schematisch.pdf) des lignes régionales concernées est disponible.
 
-### DB Regio Stuttgart
-
-DB Regio Stuttgart (anciennement SWEG Bahn Stuttgart) n’accepte pas les réductions FIP. Cela concerne les lignes suivantes : [^2]
-
-- RE 6 : Tübingen - Stuttgart
-- RE 10a : Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
-- RE 10b : Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
-- RE 12 : Tübingen - Stuttgart - Heilbronn
-- RE 17a : Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
-- RE 17c : Stuttgart - Mühlacker - Bretten - Bruchsal
-- RE 18 : Tübingen - Stuttgart - Heilbronn - Osterburken
-- RE 71 : Mühlacker - Bretten - Bruchsal – Heidelberg
-
 ### DB Regio Bayern
 
-Les trains de DB Regio Bayern entre Nürnberg Hbf et Regensburg Hbf sont exploités au nom de l’opérateur ferroviaire agilis. Aucune réduction FIP n’est donc reconnue sur cette section. [^2]
+Les trains de DB Regio Bayern entre Nürnberg Hbf et Regensburg Hbf sont exploités au nom de l’opérateur ferroviaire agilis. Aucune réduction FIP n’est donc reconnue sur cette section. Sur les autres lignes de DB Regio Bayern, la FIP s’applique. [^2]
 
 ### Trajets dans les réseaux de transport
 
@@ -391,6 +416,14 @@ Dans l’exemple suivant, la connexion choisie se trouve dans le réseau de tran
 ![Sélection de billet VRS](ticket_vrs.fr.webp)
 
 {{% /expander %}}
+
+#### Tarifs inter-réseaux
+
+Dans certains Länder, plusieurs réseaux de transport coopèrent afin de proposer conjointement des billets uniformes pour le trafic local. Les billets FIP 50 ne sont en règle générale pas émis dans le cadre de ces tarifs inter-réseaux. Les Länder suivants disposent de tarifs couvrant plusieurs réseaux de transport :
+
+- **Baden-Württemberg** : _bwtarif_ [Ouvrir l’aperçu](https://assets.static-bahn.de/dam/jcr:45aead8a-90e4-4856-966f-1eaf38c04f0a/bwegt_Karte_bwtarif_07-01-2025_barrierefrei.2025-08-01-13-22-45.pdf)
+- **Niedersachsen** : _Niedersachsen-Tarif_ [Ouvrir l’aperçu](https://www.niedersachsentarif.de/fahrkarten/niedersachsen-ticket/)
+- **Nordrhein-Westfalen** : _NRW-Tarif_ [Ouvrir l’aperçu](https://infoportal.mobil.nrw/nrw-tarif/nrw-tarif-im-ueberblick.html)
 
 ### Distinction tarifaire entre trains longue distance et trains locaux
 
@@ -425,9 +458,23 @@ Le 1er août 2026, Regionalverkehre Start GmbH a été intégrée à DB Regio AG
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.[^1]
 
+### Correspondances
+
+#### HOTNAT
+
+Si un train de correspondance est manqué dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle ou Zurich, HOTNAT peut être utilisé.
+
+Cet opérateur fait partie de HOTNAT (Hop on the Next Available Train). [Plus d’informations dans la FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ## Recommandations
 
-La Deutsche Bahn exploite une multitude de liaisons très variées. Par exemple, il est possible d’emprunter le Thüringer Bergbahn entre Obstfelderschmiede et Cursdorf. Les liaisons à travers la Forêt-Noire (Schwarzwaldbahn) ou la vallée du Rhin sur la rive gauche sont aussi très recommandées. En longue distance, il est à noter qu’il y a normalement un restaurant à bord sur chaque liaison ´ICE´. Celui-ci ne propose pas de plats fraîchement cuisinés, mais l’offre est tout de même très variée.
+La Deutsche Bahn exploite une multitude de liaisons très variées. Par exemple, il est possible d’emprunter le Thüringer Bergbahn entre Obstfelderschmiede et Cursdorf. Les liaisons à travers la Forêt-Noire (Schwarzwaldbahn) ou la vallée du Rhin sur la rive gauche sont aussi très recommandées.
+
+En longue distance, il est à noter qu’il y a normalement un restaurant à bord sur chaque liaison ´ICE´. Celui-ci ne propose pas de plats fraîchement cuisinés, mais l’offre est tout de même très variée. Le menu actuel peut être consulté [ici](https://db-bordgastronomie.de/digitalespeisekarte) ; tous les deux mois, de nouveaux plats et boissons de saison sont proposés. À bord des trains « ICE », il est également possible d'utiliser le [portail ICE](https://iceportal.de/uk-international-guests), qui affiche des informations sur le voyage et le menu en temps réel, et propose une multitude de films, de podcasts et de journaux.
 
 ## Sources
 

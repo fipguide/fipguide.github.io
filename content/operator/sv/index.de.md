@@ -3,6 +3,8 @@ title: SV
 country:
   - serbia
 operator: sv
+content_images:
+  - image.webp
 ---
 
 Srbija Voz (Србија Воз) ist die staatliche Eisenbahngesellschaft in Serbien und betreibt den Großteil des Personenverkehrs im Land.
@@ -174,7 +176,7 @@ Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preis
 
 - Bosnien und Herzegowina (ŽFBH, ŽRS),
 - Bulgarien (BDŽ),
-- Nordmazedonien (MŽ-Transport),
+- Nordmazedonien (ŽRSM),
 - Griechenland (HT & Attica),
 - Montenegro (ŽPCG),
 - Rumänien (CFR Calatori & Regiotrans),

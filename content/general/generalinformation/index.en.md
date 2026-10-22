@@ -161,7 +161,7 @@ I therefore need an additional ticket for the journey between Frankfurt Hbf and 
 
 For employees of some countries, additional taxation of FIP benefits is necessary, which can result in additional costs.
 
-More information is available in the [FIP Application](/general/fip-validity).
+More information is available in the [FIP Application section on Taxation](/general/fip-validity#taxation).
 
 ## FAQ
 

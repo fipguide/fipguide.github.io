@@ -6,6 +6,8 @@ country:
   - "country2"
   - "country3"
 operator: "{{ .File.ContentBaseName }}"
+content_images:
+  - "image.webp"
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->
@@ -77,9 +79,9 @@ operator: "{{ .File.ContentBaseName }}"
   Hier kann eine Beschreibung der Zugkategorie ergänzt werden.
 -->
 
-{{% highlight confusion %}}
-Dieses Highlight kann ergänzt werden, wenn es das Risiko gibt, dass die Zugkategorie mit einer anderen verwechselt wird.
-{{% /highlight %}}
+{{% confusion country %}}
+Dieses Snippet kann ergänzt werden, wenn es das Risiko gibt, dass die Zugkategorie mit einer anderen verwechselt wird. Als Parameter wird das Land in der englischen Abkürzung angegeben, in dem die Verwechslung auftreten kann, damit ein Link zum entsprechenden Abschnitt generiert wird, auf dem der Zugbetreiber identifiziert werden kann.
+{{% /confusion %}}
 
 {{% highlight important %}}
 Hier können weitere wichtige Informationen ergänzt werden.

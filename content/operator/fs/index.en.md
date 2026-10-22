@@ -3,6 +3,8 @@ title: Trenitalia
 country:
   - italy
 operator: trenitalia
+content_images:
+  - image.webp
 aliases:
   - /booking/fs-ticket-machine
   - /booking/fs-ticket-office
@@ -44,9 +46,9 @@ Reservations (with surcharges) are mandatory on long-distance trains.
 
 Highest Italian train category for long-distance high-speed trains. Frecciarossa 1000 is marked for higher speed and service.
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Trains of the private operator Italo are also marked as AV but cannot be used with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
@@ -67,9 +69,9 @@ A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available 
 
 High-speed tilting trains.
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Trains of the private operator Italo are also marked as AV but cannot be used with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
@@ -241,9 +243,9 @@ Tickets for regional trains may be train-bound. See [Train binding in regional t
 
 Suburban rail systems in Naples (`M`) and Turin (`sfm`).
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Metro lines are sometimes also marked as `M` and cannot be used with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -437,6 +439,10 @@ Tickets for not train-bound regional trains (_non prenotabile_) must be validate
 ### Break of Journey
 
 Break of journey is not permitted on long-distance trains. On regional trains, break of journey is possible without notice or formalities, except for train-bound FIP 50 Tickets with printed train number (see [Train binding in regional trains](#train-binding-in-regional-trains)).
+
+### Connections – AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
 
 ### Rail Replacement Services
 

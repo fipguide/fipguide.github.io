@@ -5,6 +5,8 @@ country:
   - switzerland
   - italy
 operator: sp
+content_images:
+  - image.webp
 ---
 
 In der [Schweiz](/country/switzerland "Schweiz") gibt es neben der Staatsbahn [SBB CFF FFS](/operator/sbb "SBB CFF FFS") und der kleineren BLS auch noch einen Zusammenschluss vieler verschiedener Eisenbahnverkehrsunternehmen, die als _Schweizer Privatbahnen_ zusammengefasst werden. Darunter sind sowohl reguläre Züge im Schweizer Streckennetz, als auch eher touristische Verkehre. Neben Zügen sind hier auch einige Schiffe, Seilbahnen oder Busse zu finden.
@@ -547,19 +549,6 @@ Sitzplatzreservierungen können [Online auf der Centovalli Website](https://pren
 #### Strecken im Linienverkehr
 
 - (Locarno –) Camedo – Domodossola
-
-{{% /train-category %}}
-
-{{% train-category
-    id="stb"
-    title="Sensetalbahn (STB)"
-    type="regional"
-    fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
-%}}
-
-Die Sensetalbahn betrieb die Strecke Flamatt – Laupen – Gümmenen, die heute jedoch durch die BLS betrieben wird. Es ist daher fraglich, ob die STB hier noch aufzuführen ist.
 
 {{% /train-category %}}
 
