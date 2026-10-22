@@ -340,7 +340,7 @@ Les Billets FIP 50 sont considérés comme _Flexpreis_ et peuvent donc être ann
     classes.first="6,90 €"
     classes.second="5,50 €"
 %}}
-Les réservations pour les trajets intérieurs allemands coûtent 5,50 € (2e classe) ou 6,90 € (1re classe). Les connexions transfrontalières coûtent 3 €.
+Les réservations pour les trajets intérieurs allemands coûtent 5,50 € (2e classe) ou 6,90 € (1re classe). Les connexions transfrontalières coûtent 3,50 €.
 {{% highlight inofficial %}}
 Actuellement, aucun Billet FIP 50 pour les trajets domestiques en Allemagne ne peut être vendu via la hotline ÖBB. Cependant, les réservations transfrontalières de Billets FIP 50 restent possibles (voir [Retours de la communauté Discord FIP sur la hotline ÖBB](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
 {{% /highlight %}}

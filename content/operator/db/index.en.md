@@ -340,7 +340,7 @@ FIP 50 Tickets are considered _Flexpreis_ tickets and can therefore be cancelled
     classes.first="€ 6,90"
     classes.second="€ 5,50"
 %}}
-Reservations for domestic German connections cost € 5.50 (2nd class) or € 6.90 (1st class). Cross-border connections cost € 3.
+Reservations for domestic German connections cost € 5.50 (2nd class) or € 6.90 (1st class). Cross-border connections cost € 3,50.
 {{% highlight inofficial %}}
 Currently, no FIP 50 Tickets for domestic travel within Germany can be sold via the ÖBB hotline. However, cross-border bookings of FIP 50 Tickets are still possible (see [Discord FIP Community ÖBB Hotline Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
 {{% /highlight %}}
