@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Małopolskie Ticket Office
 description: Booking information for the Koleje Małopolskie Ticket Office.
 params:

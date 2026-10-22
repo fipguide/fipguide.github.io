@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet MÁV
 description: Informations de réservation pour le guichet MÁV.
 params:

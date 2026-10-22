@@ -1,6 +1,5 @@
 ---
 date: 2025-08-25
-draft: false
 title: FIP Vergünstigungen Rigi-Bahnen (Schweiz)
 description: Ab dem 01.01.2025 gelten FIP Vergünstigungen auch auf einigen
   Strecken der Rigi-Bahnen in der Schweiz.
@@ -8,6 +7,8 @@ country:
   - switzerland
 operator:
   - sp
+content_images:
+  - image.webp
 ---
 
 Die Rigi-Bahnen betreiben verschiedene Bergbahnen auf die Rigi, die als "Königin der Berge" bekannt ist. Das Unternehmen umfasst sowohl Zahnradbahnen als auch Seilbahnen und verbindet mehrere Orte rund um den Vierwaldstättersee mit dem beliebten Ausflugsziel. Die Vitznau-Rigi-Bahn war 1871 die erste Bergbahn Europas.

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Norvège
 country: norway
 params:
@@ -8,6 +7,8 @@ params:
     - Chemin de fer de Flåm
     - Flytoget Airport Express
     - SJ Sverige
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP

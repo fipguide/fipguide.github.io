@@ -1,9 +1,10 @@
 ---
-draft: false
 title: Vy Group
 country:
   - norway
 operator: vy
+content_images:
+  - image.webp
 aliases:
   - /booking/entur-chat
   - /booking/entur-phone
@@ -265,7 +266,17 @@ FIP Discounts cannot be purchased on the train.
 
 ## Discounts
 
-On public fares, children up to 6 years travel free of charge, children up to 18 years receive a discount on the adult fare. From the age of 18, the regular adult fare applies.[^2]
+{{< children-discount >}}
+
+| Age                                  | Discount                                                  |
+| ------------------------------------ | --------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–5 years  | Free of charge[^2]                                        |
+| {{< icon "child_care" >}} 6–17 years | 75% discount on Single ticket and Flex Refundable[^2][^4] |
+| {{< icon "person" >}} from 18 years  | Regular price[^2]                                         |
+
+{{% highlight tip %}}
+The 75% discount for children from 6 through 17 years old on Single ticket and Flex Refundable makes it cheaper than the FIP fare for children.
+{{% /highlight %}}
 
 ## Special Tariff Conditions
 
@@ -292,7 +303,7 @@ Only on the journey from Trondheim to Storlien is FIP recognized on the entire r
 
 **More information about the fare areas:**
 
-- Ruter (Oslo): https://ruter.no/en/about-our-tickets/zones-and-zone-maps
+- Ruter (Oslo): https://ruter.no/en/about-our-tickets/zones
 - Skyss (Bergen): https://www.skyss.no/en/tickets-and-prices/prize-zones
 - AtB (Trøndelag): https://www.atb.no/en/zones-and-zone-maps
 - Kolumbus (Rogaland): https://www.kolumbus.no/en/tickets/zones-and-zone-maps
@@ -323,3 +334,5 @@ The Ofoten Line between Narvik and Bjørnfjell is excluded from FIP Discounts.[^
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782286-norway.html)
 
 [^3]: [Feedback: FIP in Norway: R71 Trondheim – Storlien](https://github.com/fipguide/fipguide.github.io/issues/858)
+
+[^4]: [Vy – Discounts](https://www.vy.no/en/buy-tickets/train-tickets/discount#item-ec7c80089f44)

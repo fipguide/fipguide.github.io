@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Germany
 country: germany
 params:
@@ -32,11 +31,12 @@ params:
     - FlixTrain GmbH – FLX
     - Förderverein Mainschleifenbahn e.V. – MSB
     - Freiberger Eisenbahngesellschaft mbH – FEG
-    - GoVolta
+    - GoVolta – GV
     - Hamburger Hochbahn
     - Hanseatische Eisenbahn GmbH
     - Harzer Schmalspurbahn – HSB
     - HLB Hessenbahn GmbH – HLB
+    - Ilztalbahn – P
     - Kandertalbahn – KTB
     - Kasbachtalbahn – P
     - Leo Express
@@ -82,6 +82,8 @@ params:
     - WESTbahn – WB
     - WestfalenBahn – WFB
     - Württembergische Eisenbahn-Gesellschaft mbH – WEG
+content_images:
+  - image.webp
 ---
 
 ## FIP Information
@@ -155,7 +157,7 @@ MS = Middle of the lake
 
 From Denmark, the direct `ECE` Copenhagen – Hamburg can be used, which runs several times a day (every 2 hours in high season). Some services operate as `RJ` on the Copenhagen – Hamburg – Berlin – Prague route. These trains are always very busy, so it is advisable to book a reservation early. Alternatively, there are several `IC` trains daily from Fredericia to Flensburg.
 
-It is also possible to enter via Tønder by regional train. DSB operates the Danish section of the route under the name "DSB Vores Tog", meaning FIP can be used. For the German section, a standard ticket or the Deutschlandticket is required, as the trains there are operated by NEG. Alternatively, you can enter by ferry to Puttgarden or Warnemünde.
+It is also possible to enter via Tønder by regional train. DSB operates the Danish section of the route under the name "DSB Vores Tog", meaning FIP can be used. For the German section, a standard ticket or the Deutschlandticket is required, as the trains there are operated by NEG. Alternatively, you can enter by ferry to Puttgarden or Warnemünde; however, FIP facilities are not valid in this case and the full fare must be paid.
 
 ### Poland
 
@@ -177,9 +179,9 @@ The other border crossings are only served by regional trains. The easiest is Ba
 
 At Potůčky on the Karlovy Vary – Johanngeorgenstadt route, cross-border travel is possible with FIP Tickets from DB and ČD. The other border crossings are a bit more complicated.
 
-At Cheb, the cross-border trains of DB Regio can be used with FIP Coupons from both countries or a through FIP 50 Ticket; for the trains operated by Agilis (on the Czech side by ČD), a regular ticket must be purchased for the German section (the Deutschlandticket is also valid here from Schirnding).
+At Cheb, the cross-border trains of DB Regio can be used with FIP Coupons from both countries or a through FIP 50 Ticket; for the trains operated by Agilis (on the Czech side by ČD), a regular ticket must be purchased for the German section (a Deutschlandticket combined with the FIP Ticket for the Czech section is also sufficient).
 
-The same applies to the northern border crossing at Aš. It is similar at Furth im Wald, where the cross-border regional express, which is an EC in the Czech section, can be used with a FIP Ticket from ČD in the Czech section, but a regular ticket is required for the German section.
+The same applies to the northern border crossing at Aš. It is similar at Furth im Wald, where the cross-border regional express, which is an `EC` in the Czech section, can be used with a FIP Ticket from ČD in the Czech section, but a regular ticket or Deutschlandticket is required for the German section. With the timetable change in December 2026, the operator in the Czech section changes to Leo Express, after which the train can no longer be used with FIP benefits.
 
 At the border crossings Hrádek nad Nisou (route Liberec – Zittau), Varnsdorf (route Zittau – Seifhennersdorf), Vejprty (route Chomutov – Cranzahl, only served in summer on weekends and holidays), and Vojtanov (route Cheb – Zwickau), FIP is useless, as on both sides of the border the trains are operated by private railways that do not accept FIP.
 

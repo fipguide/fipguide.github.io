@@ -1,5 +1,4 @@
 ---
-draft: false
 title: DSB Ticket Office
 description: Booking information for DSB ticket offices.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet Irish Rail
 description: Informations de réservation pour le guichet Irish Rail.
 params:

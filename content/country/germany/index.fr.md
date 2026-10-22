@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Allemagne
 country: germany
 params:
@@ -32,11 +31,12 @@ params:
     - FlixTrain GmbH – FLX
     - Förderverein Mainschleifenbahn e.V. – MSB
     - Freiberger Eisenbahngesellschaft mbH – FEG
-    - GoVolta
+    - GoVolta – GV
     - Hamburger Hochbahn
     - Hanseatische Eisenbahn GmbH
     - Harzer Schmalspurbahn – HSB
     - HLB Hessenbahn GmbH – HLB
+    - Ilztalbahn – P
     - Kandertalbahn – KTB
     - Kasbachtalbahn – P
     - Leo Express
@@ -82,6 +82,8 @@ params:
     - WESTbahn – WB
     - WestfalenBahn – WFB
     - Württembergische Eisenbahn-Gesellschaft mbH – WEG
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP
@@ -155,7 +157,7 @@ MS = Mitte See
 
 Depuis le Danemark, l’`ECE` direct Copenhague – Hambourg circule plusieurs fois par jour (en haute saison toutes les 2 heures). Certains trains circulent en tant que `RJ` sur l’itinéraire Copenhague – Hambourg – Berlin – Prague. Ces trains sont très fréquentés, il est donc conseillé de réserver tôt. Il existe aussi plusieurs `IC` de Fredericia à Flensburg chaque jour.
 
-En trafic régional, il est aussi possible d’entrer par Tønder. DSB exploite le tronçon danois de la ligne sous le nom de « DSB Vores Tog », ce qui permet d'utiliser les FIP. Pour le tronçon allemand, un billet ordinaire ou le Deutschlandticket est requis, car les trains y sont exploités par NEG. Il est aussi possible de rejoindre l’Allemagne par ferry à Puttgarden ou Warnemünde.
+En trafic régional, il est aussi possible d’entrer par Tønder. DSB exploite le tronçon danois de la ligne sous le nom de « DSB Vores Tog », ce qui permet d'utiliser les FIP. Pour le tronçon allemand, un billet ordinaire ou le Deutschlandticket est requis, car les trains y sont exploités par NEG. Il est aussi possible de rejoindre l’Allemagne par ferry à Puttgarden ou Warnemünde ; toutefois, dans ce cas, les tarifs FIP ne s'appliquent pas et vous devrez payer le plein tarif.
 
 ### Pologne
 
@@ -177,9 +179,9 @@ Les autres points frontières ne sont desservis qu’en régional. Le plus simpl
 
 À Potůčky (ligne Karlovy Vary – Johanngeorgenstadt), les Coupons FIP DB et ČD sont valables. Les autres points frontières sont plus complexes.
 
-À Cheb, les trains transfrontaliers DB Regio sont accessibles avec des Coupons FIP des deux pays ou un billet FIP 50 valable sur tout le trajet. Les trains Agilis (exploités côté tchèque par ČD) nécessitent un billet normal pour la section allemande (le Deutschlandticket est valable à partir de Schirnding).
+À Cheb, les trains transfrontaliers DB Regio sont accessibles avec des Coupons FIP des deux pays ou un billet FIP 50 valable sur tout le trajet. Les trains Agilis (exploités côté tchèque par ČD) nécessitent un billet normal pour la section allemande (un Deutschlandticket combiné au Billet FIP pour la section tchèque suffit également).
 
-Même chose pour le point frontière nord Aš. À Furth im Wald, le train régional transfrontalier, qui est un EC côté tchèque, est accessible avec un Coupon FIP ČD côté tchèque, mais un billet normal est requis côté allemand.
+Même chose pour le point frontière nord Aš. À Furth im Wald, le train régional transfrontalier, qui est un `EC` côté tchèque, est accessible avec un Coupon FIP ČD côté tchèque, mais un billet normal ou un Deutschlandticket est requis côté allemand. Lors du changement d’horaire de décembre 2026, l’exploitant de la section tchèque devient Leo Express ; le train ne sera alors plus utilisable avec les réductions FIP.
 
 Aux points frontières Hrádek nad Nisou (ligne Liberec – Zittau), Varnsdorf (ligne Zittau – Seifhennersdorf), Vejprty (ligne Chomutov – Cranzahl, desservie uniquement en été les week-ends et jours fériés) et Vojtanov (ligne Cheb – Zwickau), le FIP est inutile, car des compagnies privées non FIP circulent des deux côtés.
 

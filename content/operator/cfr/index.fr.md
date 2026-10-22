@@ -1,9 +1,10 @@
 ---
-draft: false
 title: CFR Călători
 country:
   - romania
 operator: cfr
+content_images:
+  - image.webp
 aliases:
   - /booking/cfr-ticket-office
 ---
@@ -39,9 +40,9 @@ Les catégories de trains sont en partie également utilisées par d’autres op
 
 Trains nationaux longue distance avec peu d’arrêts intermédiaires et un confort comparativement plus élevé. Ils circulent principalement au départ de Bucarest dans les différentes directions du pays.
 
-{{< highlight confusion >}}
+{{< confusion romania >}}
 Les trains `IC` sont en partie également exploités par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Réservations
 
@@ -62,9 +63,9 @@ Une réservation de place assise est obligatoire. Si le train est complet, une r
 
 Trains relativement rapides reliant les grandes villes du pays avec peu d’arrêts intermédiaires. Certains circulent également en transfrontalier, notamment vers la Hongrie.
 
-{{< highlight confusion >}}
+{{< confusion romania >}}
 Les trains `IR` sont en partie également exploités par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Réservations
 
@@ -87,9 +88,9 @@ Trains principalement internationaux circulant de nuit. Ils sont aussi parfois r
 
 Ces trains comprennent généralement des voitures-couchettes ou voitures-lits, qui peuvent être utilisées avec une réservation correspondante.
 
-{{< highlight confusion >}}
+{{< confusion romania >}}
 Les trains `IRN` sont en partie également exploités par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Réservations
 
@@ -114,9 +115,9 @@ Les trains internationaux vers la Bulgarie, la Moldavie et l’Ukraine circulent
 
 Ces trains comprennent souvent des voitures-couchettes ou voitures-lits, qui peuvent être utilisées avec une réservation correspondante.
 
-{{< highlight confusion >}}
+{{< confusion romania >}}
 Ces trains sont en partie également exploités par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Réservations
 
@@ -139,9 +140,9 @@ Pour les voitures-couchettes et voitures-lits, les tarifs suivants s’appliquen
 
 Trains régionaux desservant également les petites localités. Les différents trains sur une même ligne n’ont souvent pas de schéma d’arrêt fixe, ce qui signifie que les petits arrêts ne sont desservis que par certains trains `R`.
 
-{{< highlight confusion >}}
+{{< confusion romania >}}
 Les trains `R` sont en partie également exploités par d’autres opérateurs en Roumanie. Pour l’utilisation de la FIP, il est important de vérifier que l’opérateur est CFR Călători.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Réservations
 
@@ -175,7 +176,17 @@ Il n’est pas possible d’acheter des billets à tarif réduit FIP à bord du 
 
 ## Réductions
 
-Pour les billets réguliers, les enfants de moins de 5 ans voyagent gratuitement. Les enfants de moins de 10 ans bénéficient d’une réduction de 50 % sur le tarif adulte. Les enfants plus âgés paient le plein tarif adulte.[^1]
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                                                         |
+| ---------------------------------------- | --------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–4 ans          | Gratuit, à condition de n’occuper aucun siège séparé, sinon réduction de 50 %[^2] |
+| {{< icon "child_care" >}} 5–9 ans        | Réduction de 50 %[^2]                                                             |
+| {{< icon "person" >}} à partir de 10 ans | Tarif normal[^2]                                                                  |
+
+Dans les trains à réservation obligatoire, le tarif complet de la réservation doit être payé, indépendamment de la réduction.[^2]
+
+Dans les voitures-couchettes et voitures-lits, si 2 enfants partagent un même lit, seul un supplément de lit simple est facturé. Si un enfant n’a pas besoin d’un lit séparé, aucun supplément de lit n’est dû (un enfant accompagné par lit est autorisé).[^2]
 
 {{% highlight tip %}}
 **Balkan Flexipass**
@@ -184,7 +195,7 @@ Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass pe
 
 - Bosnie-Herzégovine (ZFBH),
 - Bulgarie (BDZ),
-- Macédoine du Nord (MŽ-Transport),
+- Macédoine du Nord (ŽRSM),
 - Grèce (HT & Attica),
 - Monténégro (ŽPCG),
 - Roumanie (CFR Calatori & Regiotrans),
@@ -210,3 +221,5 @@ CFR Călători assure une offre de base solide sur le réseau ferroviaire roumai
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782289-romania.html)
+
+[^2]: [CFR Călători – Enfants](https://www.cfrcalatori.ro/en/journey-facilities-children/)

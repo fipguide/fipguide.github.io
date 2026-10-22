@@ -1,5 +1,4 @@
 ---
-draft: false
 title: BLS Ticketschalter
 description: Buchungsinformationen für die BLS Reisezentren.
 params:

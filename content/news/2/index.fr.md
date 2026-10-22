@@ -1,6 +1,5 @@
 ---
 date: 2025-02-16
-draft: false
 author: Willy
 title: Billets FIP transfrontaliers de la SNCB
 description: La SNCB propose désormais des Billets FIP transfrontaliers en
@@ -11,6 +10,8 @@ country:
   - pays-bas
 operator:
   - sncb
+content_images:
+  - image.webp
 ---
 
 La compagnie nationale belge SNCB / NMBS propose désormais des billets avec réduction FIP sur son [site international](https://www.b-europe.com/FR) en plus des billets transfrontaliers classiques. Cela simplifie considérablement l’achat de billets au-delà des frontières belges. Auparavant, ces billets devaient être achetés au guichet en Belgique ou dans certains pays voisins comme l’Allemagne ou les Pays-Bas.

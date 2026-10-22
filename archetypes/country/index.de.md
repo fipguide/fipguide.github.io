@@ -1,10 +1,11 @@
 ---
-draft: false
 title: "{{ .File.ContentBaseName | title }}" # Ändere den Name auf den deutschen Ländernamen
 country: "{{ .File.ContentBaseName }}"
 params:
   operators_without_fip:
     -  # Liste Betreiber, die kein FIP akzeptieren
+content_images:
+  - "image.webp"
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->

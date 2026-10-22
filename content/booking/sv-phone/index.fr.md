@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Srbija Voz Téléphone
 description: Informations de réservation pour la réservation par téléphone chez Srbija Voz
 params:

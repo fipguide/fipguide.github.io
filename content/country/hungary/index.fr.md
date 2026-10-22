@@ -1,11 +1,12 @@
 ---
-draft: false
 title: Hongrie
 country: hungary
 params:
   operators_without_fip:
     - RegioJet
     - BKV Zrt. (Budapesti Közlekedési Zártkörűen Működő Részvénytársaság)
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP

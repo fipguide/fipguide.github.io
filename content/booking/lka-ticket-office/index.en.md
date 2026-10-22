@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ŁKA Ticket Office
 description: Booking information for the Łódzka Kolej Aglomeracyjna ticket offices.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet ZSSK
 description: Informations de réservation aux guichets ZSSK.
 params:

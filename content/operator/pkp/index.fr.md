@@ -1,9 +1,10 @@
 ---
-draft: false
 title: PKP
 country:
   - poland
 operator: pkp
+content_images:
+  - image.webp
 aliases:
   - /booking/pkp-ticket-machine
   - /booking/pkp-ticket-office
@@ -176,9 +177,9 @@ Prix différents pour les connexions internationales. [Plus d’informations](ht
 
 Connexions de trains régionaux s’arrêtant à la plupart des gares, exploitées par Polregio. Ces trains n’ont pas de 1ère classe.
 
-{{< highlight confusion >}}
+{{< confusion poland >}}
 Les trains régionaux en Pologne sont parfois aussi exploités par d’autres compagnies ferroviaires que Polregio. Celles-ci ont parfois leurs propres réductions FIP. [Voir Pologne](/country/poland "Pologne")
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -300,6 +301,14 @@ Aucun frais n’est facturé pour l’émission d’un billet dans le train pour
 
 ## Réductions
 
+{{< children-discount >}}
+
+| Âge                                      | Réduction             |
+| ---------------------------------------- | --------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit[^1]           |
+| {{< icon "child_care" >}} 4–11 ans       | Réduction de 50 %[^1] |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal[^1]      |
+
 {{% highlight tip %}}
 Indépendamment du FIP, Polregio propose un billet week-end avantageux, disponible soit en tant que « MINI BILET TURYSTYCZNY » uniquement pour les trains « Regio » de Polregio, soit en tant que « BILET TURYSTYCZNY » qui est également valable dans tous les trains de KW, KMŁ, Arriva RP et ŁKA (sauf ŁKA Sprinter). Il permet de voyager du vendredi 18h au lundi 6h dans les trains correspondants. Plus d’informations sur le [site Web de Polregio](https://bilety.polregio.pl/en/sieciowe/47).
 {{% /highlight %}}
@@ -373,7 +382,7 @@ Les Billets FIP ne sont pas valables dans le train spécial Słoneczny de KM (Va
 
 Les Billets FIP ne sont pas valables sur les téléphériques et chemins de fer à crémaillère exploités par PKP.
 
-### Correspondances - AJC
+### Correspondances – AJC
 
 Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 

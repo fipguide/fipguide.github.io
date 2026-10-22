@@ -1,12 +1,13 @@
 ---
 date: 2026-09-03
-draft: false
 title: "GoCollective devient DSB Vores Tog"
 description: "La DSB acquiert GoCollective, étendant ainsi le réseau de lignes utilisables avec FIP."
 country:
   - denmark
 operator:
   - dsb
+content_images:
+  - image.webp
 ---
 
 À compter du 1er septembre 2026, la DSB a repris les services ferroviaires de GoCollective. Les lignes régionales existantes continueront d'être exploitées sous le nom de « DSB Vores Tog ». [^1]

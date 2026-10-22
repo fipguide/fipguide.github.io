@@ -1,9 +1,10 @@
 ---
-draft: false
 title: CFL
 country:
   - luxembourg
 operator: cfl
+content_images:
+  - image.webp
 aliases:
   - /booking/cfl-phone
   - /booking/cfl-ticket-office
@@ -135,22 +136,34 @@ Les billets pour voyager en première classe ou pour un surclassement de la deux
 
 ## Réductions
 
-Pour les tarifs publics, les enfants jusqu’à 6 ans voyagent gratuitement, les enfants de 6 à 12 ans bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 12 ans, le tarif adulte s’applique.[^1]
-En deuxième classe, le voyage est généralement gratuit, ceci ne concerne donc que la première classe.
+{{< children-discount >}}
+
+En deuxième classe, le voyage est généralement gratuit.
+
+Pour la 1ᵉ classe, les réductions suivantes s’appliquent aux enfants :
+
+| Âge                                      | Réduction                                                                                                      |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–11 ans       | Gratuit (accompagné d’une personne titulaire d’un billet valable pour la 1ᵉ classe, limité à deux enfants)[^3] |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal[^3]                                                                                               |
+
+### Accompagnement Des Jeunes Enfants
+
+Les enfants n’ayant pas encore atteint l’âge de 4 ans doivent être accompagnés par une personne âgée d’au moins 12 ans.[^3]
 
 ### Conditions tarifaires spéciales
 
 ### Bus CFL Luxembourg - Sarrebruck
 
-Dans le bus express CFL entre Luxembourg et Sarrebruck, le voyage gratuit n’est pas possible. Les tarifs sont disponibles sur le [site de la CFL](https://www.cfl.lu/fr-fr/ticket/internationaldetail/saarbrueckenexpress/1000). \
+Dans le bus express CFL entre Luxembourg et Sarrebruck, le voyage gratuit n’est pas possible. Les tarifs sont disponibles sur le [site de la CFL](https://www.cfl.lu/fr-fr/ticket/international/allemagne/saarbrueckenexpress). \
 Il n’y a pas d’autres réductions FIP sur cette liaison.
 
 ### Bus CFL Lorraine Express
 
-La CFL exploite un bus express entre Luxembourg et la gare _Lorraine TGV_ en France comme correspondance TGV. Dans ce bus, le voyage gratuit n’est pas possible. Les tarifs sont disponibles sur le [site de la CFL](https://www.cfl.lu/fr-fr/ticket/internationaldetail/gare-lorraine). Les bus sont soumis à réservation obligatoire et un billet peut être acheté jusqu’à 2,5 heures avant le départ du bus. \
+La CFL exploite un bus express entre Luxembourg et la gare _Lorraine TGV_ en France comme correspondance TGV. Dans ce bus, le voyage gratuit n’est pas possible. Les détails peuvent être consultés sur le [site de la CFL](https://www.cfl.lu/fr-fr/ticket/international/france/gare-lorraine). Les bus sont soumis à réservation obligatoire et un billet peut être acheté jusqu’à 2,5 heures avant le départ du bus. \
 Nous n’avons pas d’informations officielles concernant la validité des réductions FIP sur cette liaison.
 
-### Correspondances - AJC
+### Correspondances – AJC
 
 Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 
@@ -159,3 +172,5 @@ Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782281-luxembourg.html)
 
 [^2]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470057862993543220)
+
+[^3]: [CFL – Enfants et jeunes](https://www.cfl.lu/fr-fr/customerservices/detail/enfants-et-jeunes)

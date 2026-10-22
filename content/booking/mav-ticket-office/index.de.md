@@ -1,5 +1,4 @@
 ---
-draft: false
 title: MÁV Ticketschalter
 description: Buchungsinformationen für die MÁV Ticketschalter.
 params:

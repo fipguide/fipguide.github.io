@@ -1,9 +1,10 @@
 ---
-draft: false
-title: MÁV
+title: MÁV-START
 country:
   - hungary
 operator: mav
+content_images:
+  - image.webp
 ---
 
 Die MÁV (Magyar Államvasutak, ungarische Staatsbahnen) ist die wichtigste Bahngesellschaft in [Ungarn](/country/hungary) und betreibt den Großteil des Fern- und Regionalverkehrs.
@@ -41,9 +42,9 @@ Internationale Fernverkehrszüge in Kooperation mit ÖBB und weiteren Partnerbah
 
 Die Business Class ist für nationale Fahrten in Ungarn nicht verfügbar. Bei internationalen Fahrten kann die Business Class mit einem FIP Freifahrtschein oder FIP 50 Ticket der 1. Klasse genutzt werden. Es ist ein Aufschlag von 22 € zu zahlen.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 `RJ` kann auch für RegioJet stehen. In RegioJet-Zügen gelten keine MÁV-FIP-Fahrkarten.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Reservierungen
 
@@ -62,9 +63,9 @@ Im Inlandsverkehr ist die Sitzplatzreservierung verpflichtend, im internationale
 
 Nationale Schnellzüge mit Reisezugwagen der zweiten Klasse, teilweise auch mit Wagen der ersten Klasse und der Premiumklasse 1+. Teilweise werden [Restaurant-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) und/oder [Bistro-Wagen](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-bistro-cars) mitgeführt.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 `IC` Züge in Ungarn werden teilweise auch von [GySEV](/operator/gysev#ic) betrieben.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Es gibt teilweise bis zu drei Wagenklassen:
 
@@ -175,9 +176,9 @@ In Verbindungsauskunftsystemen außerhalb der MÁV werden die Züge ggf. als `IC
 
 Klassische Regionalzüge, die an allen Unterwegsbahnhöfen halten.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 `SZ` Züge in Ungarn werden teilweise auch von [GySEV](/operator/gysev#sz) betrieben.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -326,7 +327,15 @@ Beim Kauf von FIP-ermäßigten Tickets oder beim Klassenwechsel von der zweiten 
 
 ## Ermäßigungen
 
-Kinder bis einschließlich 13 Jahre reisen kostenlos. Ab 14 Jahren gilt der reguläre FIP-Erwachsenentarif.[^2]
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung          |
+| ------------------------------------ | ------------------- |
+| {{< icon "child_care" >}} 0–13 Jahre | Kostenlos[^2]       |
+| {{< icon "child_hat" >}} 14–25 Jahre | 50% Ermäßigung[^2]  |
+| {{< icon "person" >}} ab 26 Jahre    | Regulärer Preis[^2] |
+
+### Begleitung von Kindern auf internationalen Reisen
 
 Auf internationen Reisen dürfen Kinder unter 10 Jahren nicht ohne Begleitung eines Erwachsenen reisen. Kinder ab 10 Jahren müssen eine unterschriebene [Elternerklärung](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_FIP_MAV_Parental_Consent_form_v2.pdf) mitführen. MÁV übernimmt keine Verantwortung für allein reisende Kinder. Eltern haften für alle Schäden, die durch das Kind verursacht werden. Wenn ein Kind ohne Begleitung eines Erwachsenen und ohne Elternerklärung angetroffen wird, werden die Behörden informiert.[^1]
 

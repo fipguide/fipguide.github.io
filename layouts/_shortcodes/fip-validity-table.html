@@ -4,7 +4,7 @@
 {{- $excluded := slice "eurostar" "euskotren" -}}
 {{- $issuerSlug := $page.File.ContentBaseName -}}
 {{- $validity := $page.Resources.Get "validity.yaml" | transform.Unmarshal -}}
-{{- $groupsMap := partial "fip-validity/groups-map" $validity -}}
+{{- $groupsMap := $validity.groups -}}
 {{- $entries := dict -}}
 {{- range where $page.Site.RegularPages "Type" "operator" -}}
   {{- $targetSlug := .File.ContentBaseName -}}

@@ -1,10 +1,11 @@
 ---
-draft: false
 title: Renfe
 country:
   - spain
   - france
 operator: renfe
+content_images:
+  - image.webp
 aliases:
   - /booking/renfe-ticket-office
 ---
@@ -45,7 +46,7 @@ Nur S-Bahnen sind mit FIP Freifahrtscheinen uneingeschränkt nutzbar. In anderen
 
 Langstreckenverbindungen mit normalspurigen und umspurbaren Hochgeschwindigkeitszügen (bis 300 km/h). FIP Freifahrtscheine werden nicht anerkannt.
 
-Die internationalen AVE von / nach Frankreich haben je nach Streckenabschnitt unterschiedliche FIP Globalpreise. Die Buchung von internationalen Verbindungen ist ausschließlich über Renfe direkt möglich, weshalb Tickets bei Einstieg in Spanien an einem Ticketschalter in Spanien erworben werden müssen. Bei Zustieg in Frankreich können FIP Tickets im Zug erworben werden, Kartenzahlung ist möglich. [^3]
+Die internationalen AVE von / nach Frankreich haben je nach Streckenabschnitt unterschiedliche FIP Globalpreise. Die Buchung von internationalen Verbindungen ist ausschließlich über Renfe direkt möglich, weshalb Tickets bei Einstieg in Spanien an einem Ticketschalter in Spanien erworben werden müssen. Bei Zustieg in Frankreich können FIP Tickets im Zug erworben werden, Kartenzahlung ist möglich. Auch wenn der Zug ausreserviert ist und keine Sitzplätze verfügbar sind, kann eine Mitfahrt in der Regel gewährleistet werden. [^3]
 
 **FIP Globalpreis (Distanzunabhängig):**[^5]
 
@@ -247,7 +248,17 @@ Tickets für internationale `AVE` Züge können bei Zustieg in Frankreich im Zug
 
 ## Ermäßigungen
 
-Kinder unter 4 Jahren reisen kostenlos ohne eigenen Sitzplatz. Für Kinder unter 12 Jahren gilt eine Ermäßigung von 40 %. Ab 12 Jahren wird der volle Preis berechnet.
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                             |
+| ------------------------------------ | -------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos (ohne eigenen Sitzplatz)[^6] |
+| {{< icon "child_care" >}} 4–13 Jahre | 40 % Ermäßigung[^6]                    |
+| {{< icon "person" >}} ab 14 Jahre    | Regulärer Preis[^6]                    |
+
+### Begleitung von Kindern
+
+In `AVE` (Hochgeschwindigkeit), internationalen `AVE`-Zügen zwischen Spanien und Frankreich, Larga Distancia (Fernverkehr) und `Avant` (Mittelstrecken-Hochgeschwindigkeit) müssen Kinder unter 14 Jahren von einem Erwachsenen begleitet werden oder den Service für unbegleitete Minderjährige nutzen, sofern dieser im jeweiligen Zug angeboten wird.[^6]
 
 ## Tarifliche Besonderheiten
 
@@ -280,3 +291,5 @@ Die Renfe ist in vielen Fällen mehr mit einer Fluggesellschaft als mit anderen 
 [^3]: [Nutzerfeedback: Ticketkauf im Zug](https://github.com/fipguide/fipguide.github.io/issues/449)
 
 [^5]: [Renfe FIP-Preise (PKP, April 2026)](https://pkp.pl/images/fip/2026/Renfe%20dopaty%2001.04.2026.pdf)
+
+[^6]: [Renfe – Kinder](https://www.renfe.com/es/en/travel/prepare-your-trip/descuentos/ninos)

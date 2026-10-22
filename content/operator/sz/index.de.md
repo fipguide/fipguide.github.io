@@ -1,9 +1,11 @@
 ---
-draft: false
 title: SŽ
 country:
   - slovenia
 operator: sz
+content_images:
+  - image.webp
+  - image2.webp
 ---
 
 Die Slovenske železnice (SŽ) ist die staatliche Eisenbahngesellschaft von [Slowenien](/country/slovenia "Slowenien") und betreibt einen Großteil der Verbindungen im Personenverkehr auf dem slowenischen Schienennetz.
@@ -207,7 +209,15 @@ Im Zug kann ausschließlich mit Bargeld in Euro gezahlt werden.
 
 ## Ermäßigungen
 
-Kinder bis einschließlich 5 Jahren reisen kostenlos. Ab 6 Jahren gilt der reguläre FIP-Erwachsenentarif.[^1]
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                                         |
+| ------------------------------------ | -------------------------------------------------- |
+| {{< icon "stroller" >}} 0–5 Jahre    | Kostenlos, sofern sie keinen Sitzplatz belegen[^3] |
+| {{< icon "child_care" >}} 6–15 Jahre | 50% Ermäßigung[^3]                                 |
+| {{< icon "person" >}} ab 16 Jahre    | Regulärer Preis[^3]                                |
+
+Kinder unter 6 Jahren fahren kostenlos, sofern sie keinen Sitzplatz belegen, der für einen zahlenden Fahrgast benötigt wird. Auch wenn ein Kind kostenlos fährt, ist trotzdem eine Fahrkarte erforderlich, die am Schalter im Bahnhof erhältlich ist. Bis zu zwei Kinder können mit einem Erwachsenen kostenlos mitreisen.
 
 ## Tarifliche Besonderheiten
 
@@ -232,3 +242,5 @@ Es gibt keinen wirklichen Taktverkehr. Daher ist gute Planung wichtig. Während 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782292-slovenia.html)
 
 [^2]: [SŽ Aufschlagsauskunft](https://potniski.sz.si/en/tickets/supplements-to-the-ticket-price/)
+
+[^3]: [SŽ – Kinder](https://potniski.sz.si/en/tickets/discounts/children/)

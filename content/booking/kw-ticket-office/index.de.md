@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Wielkopolskie Ticketschalter
 description: Buchungsinformationen für die Koleje Wielkopolskie Ticketschalter.
 params:

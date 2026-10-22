@@ -1,7 +1,8 @@
 ---
-draft: false
 title: Luxemburg
 country: luxembourg
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

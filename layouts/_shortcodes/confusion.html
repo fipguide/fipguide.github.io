@@ -1,0 +1,9 @@
+{{- $country := .Get 0 -}}
+{{- $countryLink := partial "link" (dict
+  "Destination" (printf "/country/%s#identify-operator" $country)
+  "Text" (T "highlight.country-link")
+  "Page" .Page
+  )
+-}}
+{{- $content := printf "%s%s" .Inner $countryLink | safeHTML -}}
+{{- partial "highlight" (dict "Type" "confusion" "Content" $content "Page" .Page) -}}

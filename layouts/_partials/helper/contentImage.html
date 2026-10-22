@@ -1,6 +1,16 @@
-{{ $contentImage := .Page.Resources.GetMatch "image.webp" }}
-{{ if not $contentImage }}
-  {{ $contentImage = resources.Get "images/default.webp" }}
+{{ $contentImages := slice }}
+{{ with .Params.content_images }}
+  {{ range . }}
+    {{ $imagePath := strings.TrimPrefix "./" . }}
+    {{ with $.Page.Resources.GetMatch $imagePath }}
+      {{ $contentImages = $contentImages | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if not $contentImages }}
+  {{ $contentImages = slice (resources.Get "images/default.webp") }}
 {{ end }}
 
-{{ return dict "image" $contentImage }}
+{{ $firstImage := index $contentImages 0 }}
+
+{{ return dict "image" $firstImage "firstImage" $firstImage "images" $contentImages }}

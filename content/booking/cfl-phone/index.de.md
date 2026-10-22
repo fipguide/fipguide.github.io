@@ -1,5 +1,4 @@
 ---
-draft: false
 title: CFL Telefon
 description: Buchungsinformationen für die CFL Hotline.
 params:

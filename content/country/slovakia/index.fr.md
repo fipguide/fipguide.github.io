@@ -1,11 +1,12 @@
 ---
-draft: false
 title: Slovaquie
 country: slovakia
 params:
   operators_without_fip:
     - RegioJet
     - Leo Express
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP

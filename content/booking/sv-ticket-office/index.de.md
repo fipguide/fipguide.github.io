@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Srbija Voz Ticketschalter
 description: Buchungsinformationen für die Srbija Voz Ticketschalter.
 params:

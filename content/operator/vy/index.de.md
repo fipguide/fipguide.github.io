@@ -1,9 +1,10 @@
 ---
-draft: false
 title: Vy Group
 country:
   - norway
 operator: vy
+content_images:
+  - image.webp
 aliases:
   - /booking/entur-chat
   - /booking/entur-phone
@@ -265,7 +266,17 @@ Im Zug können FIP Vergünstigungen nicht erworben werden.
 
 ## Ermäßigungen
 
-Bei öffentlichen Fahrpreisen reisen Kinder bis 6 Jahre kostenlos, Kinder bis 18 Jahren erhalten eine Ermäßigung auf den Erwachsenenpreis. Ab 18 Jahren gilt der reguläre Erwachsenenfahrpreis.[^2]
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung                                                   |
+| ------------------------------------ | ------------------------------------------------------------ |
+| {{< icon "child_care" >}} 0–5 Jahre  | Kostenlos[^2]                                                |
+| {{< icon "child_care" >}} 6–17 Jahre | 75% Ermäßigung auf Single Ticket und Flex Refundable[^2][^4] |
+| {{< icon "person" >}} ab 18 Jahre    | Regulärer Preis[^2]                                          |
+
+{{% highlight tip %}}
+Die 75% Ermäßigung für Kinder von 6 bis einschließlich 17 Jahre auf Single Ticket und Flex Refundable ist günstiger als der FIP-Tarif für Kinder.
+{{% /highlight %}}
 
 ## Tarifliche Besonderheiten
 
@@ -292,7 +303,7 @@ Allein auf der Fahrt von Trondheim nach Storlien wird FIP auf dem kompletten Lau
 
 **Mehr Informationen zu den Tarifgebieten:**
 
-- Ruter (Oslo): https://ruter.no/en/about-our-tickets/zones-and-zone-maps
+- Ruter (Oslo): https://ruter.no/en/about-our-tickets/zones
 - Skyss (Bergen): https://www.skyss.no/en/tickets-and-prices/prize-zones
 - AtB (Trøndelag): https://www.atb.no/en/zones-and-zone-maps
 - Kolumbus (Rogaland): https://www.kolumbus.no/en/tickets/zones-and-zone-maps
@@ -323,3 +334,5 @@ Die Ofotbanen zwischen Narvik und Bjørnfjell ist von FIP Vergünstigungen ausge
 [^2]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782286-norway.html)
 
 [^3]: [Feedback: FIP in Norway: R71 Trondheim – Storlien](https://github.com/fipguide/fipguide.github.io/issues/858)
+
+[^4]: [Vy – Discounts](https://www.vy.no/en/buy-tickets/train-tickets/discount#item-ec7c80089f44)

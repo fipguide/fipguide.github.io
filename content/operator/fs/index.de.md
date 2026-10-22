@@ -1,9 +1,10 @@
 ---
-draft: false
 title: Trenitalia
 country:
   - italy
 operator: trenitalia
+content_images:
+  - image.webp
 aliases:
   - /booking/fs-ticket-machine
   - /booking/fs-ticket-office
@@ -45,9 +46,9 @@ Im Fernverkehr besteht eine Reservierungspflicht inkl. Aufschlägen.
 
 Höchste italienische Zuggattung im Fernverkehr mit Hochgeschwindigkeitszügen. Zusätzlich wird der Frecciarossa 1000 als Zug mit besonders hoher Geschwindigkeit und Service im Fahrplan gekennzeichnet.
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Züge des privaten Anbieters Italo werden auch als AV gekennzeichnet, können jedoch nicht mit FIP genutzt werden.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
@@ -68,9 +69,9 @@ Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis h
 
 Hochgeschwindigkeitszüge mit Neigetechnik.
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Züge des privaten Anbieters Italo werden auch als AV gekennzeichnet, können jedoch nicht mit FIP genutzt werden.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
@@ -244,9 +245,9 @@ Tickets für Regionalzüge sind teilweise zuggebunden. Weitere Informationen sie
 
 S-Bahnsysteme im Großraum Neapel `M` und Großraum Turin `sfm`.
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 U-Bahnen sind teilweise auch mit `M` gekennzeichnet und können nicht mit FIP genutzt werden.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -328,7 +329,23 @@ Wenn Zuschläge nicht vor Reisebeginn erworben werden, wird ein zusätzlicher Bo
 
 ## Ermäßigungen
 
-Bei öffentlichen Tarifen reisen Kinder bis einschließlich 4 Jahren kostenlos. In Nahverkehrszügen erhalten Kinder bis einschließlich 12 Jahre eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Personen ab 12 Jahren zahlen den regulären Erwachsenenpreis. In Fernverkehrszügen erhalten Kinder bis einschließlich 15 Jahre eine Ermäßigung von 50 % auf den Erwachsenenfahrpreis. Personen ab 15 Jahren zahlen den regulären Erwachsenenpreis.
+{{< children-discount >}}
+
+**Nahverkehrszüge:**
+
+| Alter                                | Ermäßigung                                   |
+| ------------------------------------ | -------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos[^3]                                |
+| {{< icon "child_care" >}} 4–11 Jahre | 50 % Ermäßigung auf den vollen Fahrpreis[^3] |
+| {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis                              |
+
+**Fernverkehrszüge:**
+
+| Alter                                | Ermäßigung                                                                                |
+| ------------------------------------ | ----------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos[^3]                                                                             |
+| {{< icon "child_care" >}} 4–14 Jahre | 50 % bzw. 30 % Ermäßigung auf den Basispreis (30 % in Schlaf- und Komfort-Liegewagen)[^3] |
+| {{< icon "person" >}} ab 15 Jahre    | Regulärer Preis                                                                           |
 
 ## Tarifliche Besonderheiten
 
@@ -443,3 +460,5 @@ Für Fahrten im Fernverkehr lohnt sich der FIP Freifahrtschein nur eingeschränk
 [^1]: [Frecciarossa Klassen](https://www.trenitalia.com/de/frecce/frecciarossa-1000.html)
 
 [^2]: [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1473286775702290556)
+
+[^3]: [Trenitalia – Kinderermäßigung](https://www.trenitalia.com/en/offers/children-s-discount.html)

@@ -1,9 +1,10 @@
 ---
-draft: false
 title: Hellenic Train
 country:
   - greece
 operator: ht
+content_images:
+  - image.webp
 aliases:
   - /booking/ht-ticket-office
   - /booking/ht-website
@@ -61,9 +62,9 @@ Les trains régionaux relient les villes et régions en dehors de l’axe princi
 
 Certains trains sont désignés sous le nom de Proastiakos ou Suburban Railway, ce qui est comparable à un S-Bahn. Dans le planificateur de voyage, ces services apparaissent également comme trains régionaux `REG`.
 
-{{< highlight confusion >}}
+{{< confusion greece >}}
 Les services touristiques comme le Pelion Train sont également indiqués comme `REG` dans le planificateur de voyage, mais le FIP n’y est pas valable.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -91,8 +92,8 @@ Les bus exploités par Hellenic Train acceptent les avantages FIP.[^1]
 
 Hellenic Train exploite trois liaisons ferroviaires touristiques ou historiques sur lesquelles le FIP n’est pas accepté.[^1]
 
-- Pelion Train d’Ano Lechonia (Άνω Λεχώνια) à Milies (Μηλιές) (https://www.hellenictrain.gr/en/mythical-route)
-- Chemin de fer à crémaillère « Odontotos » de Diakopto (Διακοπτό) à Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/attraction-rails)
+- Pelion Train d’Ano Lechonia (Άνω Λεχώνια) à Milies (Μηλιές) (https://www.hellenictrain.gr/en/the-pelion-train/)
+- Chemin de fer à crémaillère « Odontotos » de Diakopto (Διακοπτό) à Kalavryta (Καλάβρυτα) (https://www.hellenictrain.gr/en/diakopto-kalavryta-rack-railway/)
 - Katakolo (Κατάκολο) – Olympie (Αρχαία Ολυμπία) (https://www.hellenictrain.gr/en/katakolo-olympia)
 
 {{< highlight tip >}}
@@ -129,7 +130,13 @@ Si le voyage commence dans une gare où le guichet n’est pas occupé, les bill
 
 ## Réductions
 
-Aux tarifs publics, les enfants jusqu’à 4 ans voyagent gratuitement, les enfants jusqu’à 12 ans bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 12 ans, le tarif adulte régulier s’applique.[^1]
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                                                                                  |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit, à condition de n’occuper aucun siège propre ; sinon réduction de 50 % sur le tarif adulte[^1][^6] |
+| {{< icon "child_care" >}} 4–11 ans       | Réduction de 50 % sur le tarif adulte[^1][^6]                                                              |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal[^1]                                                                                           |
 
 {{% highlight tip %}}
 **Balkan Flexipass**
@@ -138,7 +145,7 @@ Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass pe
 
 - Bosnie-Herzégovine (ZFBH),
 - Bulgarie (BDZ),
-- Macédoine du Nord (MŽ-Transport),
+- Macédoine du Nord (ŽRSM),
 - Grèce (HT & Attica),
 - Monténégro (ŽPCG),
 - Roumanie (CFR Calatori & Regiotrans),
@@ -170,10 +177,12 @@ Un billet acheté en ligne peut être annulé au guichet ou via la [ligne télé
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782274-greece.html)
 
-[^2]: [Hellenic Train](https://www.hellenictrain.gr/en/ticket-sales-board)
+[^2]: [Hellenic Train](https://www.hellenictrain.gr/en/tickets-cards/sale-points-opening-hours/)
 
 [^3]: [LOK Report](https://www.lok-report.de/news/europa/item/65837-griechenland-betrieb-der-zahnradbahn-diakopto-kalvrita-vorlaeufig-eingestellt.html)
 
-[^4]: [Hellenic Train ETR PDF](https://www.hellenictrain.gr/sites/default/files/2022-11/Hellenic_Train_ETR_EN_0.pdf)
+[^4]: [Hellenic Train – ETR](https://www.hellenictrain.gr/press/anakoinosi-30092022-parateinetai-i-ekptosi-gia-taxidia-me-ta-grigora-trena-etr/)
 
-[^5]: [Hellenic Train Terms and Conditions](https://www.hellenictrain.gr/sites/default/files/2024-10/2024.10.16-PASSENGER%20TERMS%20AND%20CONDITIONS-EN.pdf)
+[^5]: [Hellenic Train – Terms & Conditions of Passenger Transportation](https://www.hellenictrain.gr/en/plan-your-trip/terms-conditions/terms-of-transport/)
+
+[^6]: [Hellenic Train – Offres pour les enfants](https://www.hellenictrain.gr/en/tickets-cards/tickets/discounts)

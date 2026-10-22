@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Euskotren Ticket Office
 params:
   fip_50: nil

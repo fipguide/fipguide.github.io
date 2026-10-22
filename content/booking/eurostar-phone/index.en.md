@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Eurostar Telephone
 description: Booking information for the Eurostar hotline.
 params:

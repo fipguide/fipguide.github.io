@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ŽPCG Ticket Office
 description: Booking information for ŽPCG ticket offices.
 params:

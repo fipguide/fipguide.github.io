@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleo Website
 description: Buchungsinformationen für die Koleo Website.
 params:

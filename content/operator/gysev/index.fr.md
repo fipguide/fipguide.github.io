@@ -1,10 +1,11 @@
 ---
-draft: false
 title: GySEV / Raaberbahn
 country:
   - austria
   - hungary
 operator: gysev
+content_images:
+  - image.webp
 aliases:
   - /booking/mav-ticket-machine
   - /booking/mav-ticket-office
@@ -50,9 +51,9 @@ Les lignes suivantes peuvent être utilisées avec le Coupon FIP GySEV en Autric
 
 GySEV exploite des trains Scarbantia `IC` entre Sopron et Budapest.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 En Hongrie, des trains InterCity de la compagnie ferroviaire d’État hongroise MÁV circulent également.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Réservations
 
@@ -71,9 +72,9 @@ Les réservations ne sont obligatoires qu’entre Győr et Budapest. Pour les tr
 
 Train régional rapide avec moins d’arrêts et matériel roulant moderne.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Certains trains Regionalexpress sont également exploités par les ÖBB où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -88,9 +89,9 @@ Certains trains Regionalexpress sont également exploités par les ÖBB où les 
 
 Train régional avec arrêts dans la plupart des gares.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Certains trains régionaux sont également exploités par les ÖBB où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -105,9 +106,9 @@ Certains trains régionaux sont également exploités par les ÖBB où les Bille
 
 Train régional avec arrêts dans la plupart des gares.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 Certains trains Személyvonat sont également exploités par [MÁV](/operator/mav#sz) où les Billets FIP GySEV ne sont pas acceptés. En cas de doute, vérifier le transporteur sur le site de l’opérateur ou sur [bahn.de](https://int.bahn.de/fr/).
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -152,15 +153,25 @@ Les billets avec réduction FIP ne peuvent pas être achetés à bord du train. 
 
 ## Réductions
 
+{{< children-discount >}}
+
 Les réductions diffèrent selon le pays dans lequel vous voyagez avec GySEV.
 
 ### Hongrie
 
-Avec les tarifs publics, les enfants de moins de 6 ans voyagent gratuitement. Les enfants jusqu’à 14 ans peuvent obtenir une réduction de 50% sur le tarif adulte. Les personnes à partir de 14 ans paient le tarif adulte.
+| Âge                                      | Réduction                                 |
+| ---------------------------------------- | ----------------------------------------- |
+| {{< icon "stroller" >}} 0–5 ans          | Gratuit[^3]                               |
+| {{< icon "child_care" >}} 6–13 ans       | Réduction de 50 % sur le tarif normal[^3] |
+| {{< icon "person" >}} à partir de 14 ans | Tarif normal[^3]                          |
 
 ### Autriche
 
-Avec les tarifs publics, les enfants de moins de 6 ans voyagent gratuitement. Les enfants jusqu’à 15 ans peuvent obtenir une réduction de 50% sur le tarif adulte. Les personnes à partir de 15 ans paient le tarif adulte.
+| Âge                                      | Réduction                                 |
+| ---------------------------------------- | ----------------------------------------- |
+| {{< icon "stroller" >}} 0–5 ans          | Gratuit[^3]                               |
+| {{< icon "child_care" >}} 6–14 ans       | Réduction de 50 % sur le tarif normal[^3] |
+| {{< icon "person" >}} à partir de 15 ans | Tarif normal[^3]                          |
 
 ## Conditions tarifaires spéciales
 
@@ -168,7 +179,7 @@ Avec les tarifs publics, les enfants de moins de 6 ans voyagent gratuitement. Le
 
 Pour un arrêt intermédiaire, le billet doit être composté à la gare où l’arrêt doit avoir lieu.
 
-### Correspondances - AJC
+### Correspondances – AJC
 
 Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 
@@ -181,3 +192,5 @@ Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lors
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
 
 [^2]: [GySEV service client Neusiedel am See - Pamhagen](https://github.com/fipguide/fipguide.github.io/issues/278)
+
+[^3]: [GySEV – Voyages internationaux](https://www2.gysev.hu/en/travel-offers/international-travel)

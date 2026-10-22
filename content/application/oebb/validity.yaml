@@ -1,12 +1,12 @@
 groups:
-  - name: coupon-not-available
+  coupon-not-available:
     status: invalid
     text:
       de: Nicht verfügbar
       en: Not available
       fr: Non disponible
     type: fip-coupon
-  - name: coupon-1
+  coupon-1:
     status: valid
     text:
       de: |
@@ -16,7 +16,7 @@ groups:
       fr: |
         **1 coupon** <small>Temps plein uniquement</small>
     type: fip-coupon
-  - name: coupon-1-1
+  coupon-1-1:
     status: valid
     text:
       de: >
@@ -28,7 +28,7 @@ groups:
         **1 coupon** <small>Temps plein <hr> Temps partiel (min. 50%): 1
         coupon</small>
     type: fip-coupon
-  - name: coupon-2-1
+  coupon-2-1:
     status: valid
     text:
       de: >
@@ -41,7 +41,7 @@ groups:
         **2 coupons** <small>Temps plein <hr> Temps partiel (min. 50%): 1
         coupon</small>
     type: fip-coupon
-  - name: coupon-3-1
+  coupon-3-1:
     status: valid
     text:
       de: >
@@ -54,7 +54,7 @@ groups:
         **3 coupons** <small>Temps plein <hr> Temps partiel (min. 50%): 1
         coupon</small>
     type: fip-coupon
-  - name: coupon-y1-9x1-45x0
+  coupon-y1-9x1-45x0:
     status: valid
     text:
       de: >
@@ -71,7 +71,7 @@ groups:
         mois** après le départ à la retraite: 1 coupon <hr> **Unique dans les 45
         mois** après le départ à la retraite: 0 coupon </small>
     type: fip-coupon
-  - name: coupon-y0-9x1-45x1
+  coupon-y0-9x1-45x1:
     status: valid
     text:
       de: >
@@ -88,7 +88,7 @@ groups:
         mois** après le départ à la retraite: 1 coupon <hr> **Unique dans les 45
         mois** après le départ à la retraite: 1 coupon </small>
     type: fip-coupon
-  - name: coupon-y0-9x2-45x1
+  coupon-y0-9x2-45x1:
     status: valid
     text:
       de: >
@@ -105,7 +105,7 @@ groups:
         mois** après le départ à la retraite: 2 coupons <hr> **Unique dans les
         45 mois** après le départ à la retraite: 1 coupon </small>
     type: fip-coupon
-  - name: coupon-y1-9x3-45x0
+  coupon-y1-9x3-45x0:
     status: valid
     text:
       de: >
@@ -122,7 +122,7 @@ groups:
         mois** après le départ à la retraite: 3 coupons <hr> **Unique dans les
         45 mois** après le départ à la retraite: 0 coupon </small>
     type: fip-coupon
-  - name: coupon-y0-9x0-45x1
+  coupon-y0-9x0-45x1:
     status: valid
     text:
       de: >
@@ -139,14 +139,14 @@ groups:
         mois** après le départ à la retraite: 0 coupon <hr> **Unique dans les 45
         mois** après le départ à la retraite: 1 coupon </small>
     type: fip-coupon
-  - name: reduced-50
+  reduced-50:
     status: valid
     text:
       de: 50 % Rabatt
       en: 50 % discount
       fr: 50 % de réduction
     type: fip-reduced-ticket
-  - name: reduced-no-discount
+  reduced-no-discount:
     status: invalid
     text:
       de: Kein Rabatt

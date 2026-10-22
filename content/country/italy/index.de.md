@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Italien
 country: italy
 params:
@@ -13,6 +12,8 @@ params:
       Est")'
     - Italo / NTV
     - '[Trenord](/operator/fs#gültigkeit-fip-tickets "Trenord")'
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

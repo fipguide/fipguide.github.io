@@ -1,10 +1,11 @@
 ---
-draft: false
 title: Ireland
 country: ireland
 params:
   operators_without_fip:
     - Transdev (Luas - Dublin Tram)
+content_images:
+  - image.webp
 ---
 
 ## FIP Information

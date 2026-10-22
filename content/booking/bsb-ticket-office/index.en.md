@@ -1,5 +1,4 @@
 ---
-draft: false
 title: BSB Ticket Office
 description: Booking information for BSB ticket offices.
 params:

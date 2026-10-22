@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SNCF Voyageurs
 country:
   - france
@@ -10,6 +9,8 @@ country:
   - belgium
   - luxembourg
 operator: sncf
+content_images:
+  - image.webp
 aliases:
   - /booking/sncf-phone
   - /booking/sncf-ticket-office
@@ -40,6 +41,8 @@ FIP Freifahrtscheine und FIP 50 / FIP 75 Tickets sind auf Verbindungen der SNCF 
 
 Es gilt eine Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie einigen Regionalzügen (`TER`). FIP hat in OUIGO-Zügen keine Gültigkeit. In den reservierungspflichtigen Zügen ist im FIP 50 / FIP 75 Ticketpreis immer eine Reservierung enthalten.
 
+An Bahnhöfen der SNCF wird das Gleis in der Regel 20 Minuten vor der Abfahrt bekannt gegeben.[^7]
+
 ### Fernverkehr
 
 {{% train-category
@@ -54,9 +57,11 @@ Es gilt eine Reservierungspflicht in allen `TGV`, fast allen `IC` Zügen sowie e
 
 Der `TGV` inOui ist der Hochgeschwindigkeitszug von SNCF Voyageurs und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele (z. B. München, Frankfurt am Main, Barcelona, Luxemburg, Brüssel, Mailand). Zusätzlich fahren `TGV` Lyria Züge von Frankreich in die Schweiz (Basel, Zürich, Lausanne, Genf).
 
-{{< highlight confusion >}}
+Der Zugang zum Bahnsteig (bei Stationen mit Bahnsteigschranken) sowie zu den Zügen ist bis zwei Minuten vor der Abfahrt möglich. Die Türen schließen zwei Minuten vor Abfahrt des Zuges. Das Ticket sollte bereitgehalten werden, da das Zugpersonal diese vor dem Einstieg in den Zug kontrollieren könnte.[^7] In Deutschland gelten diese Regelungen nicht.[^8]
+
+{{< confusion france >}}
 Die SNCF betreibt auch Low-Cost-Fernzüge unter dem Namen OUIGO, diese sind jedoch nicht mit FIP nutzbar.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{< highlight important >}}
 Es gelten Besonderheiten für grenzüberschreitende Verbindungen, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
@@ -84,9 +89,11 @@ Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit
 
 Der OUIGO (Grand Vitesse) ist der Low-Cost-Hochgeschwindigkeitszug der SNCF und verbindet zahlreiche Städte in Frankreich sowie internationale Ziele. Zusätzlich gibt es OUIGO Classique Züge, die aus herkömmlichen Reisezugwagen bestehen.
 
-{{< highlight confusion >}}
+Der Zugang zum Zug ist fünf Minuten vor der Abfahrt nicht mehr gewährleistet.[^7]
+
+{{< confusion france >}}
 Die SNCF betreibt auch `TGV` Züge unter dem Namen inOui, welche mit FIP nutzbar sind.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -100,6 +107,8 @@ Die SNCF betreibt auch `TGV` Züge unter dem Namen inOui, welche mit FIP nutzbar
 %}}
 
 Internationale Hochgeschwindigkeitszüge der SNCF in Kooperation mit der Deutschen Bahn, die zwischen Frankreich (Paris Est, Straßburg) und Deutschland (Karlsruhe, Mannheim, Frankfurt am Main, Erfurt, Halle (Saale) und Berlin bzw. Stuttgart und München) verkehren. Im Juli und August gibt es samstags zudem [Direktzüge zwischen Frankfurt (Main) und Bordeaux](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux).
+
+Der Zugang zum Bahnsteig (bei Stationen mit Bahnsteigschranken) sowie zu den Zügen ist bis zwei Minuten vor der Abfahrt möglich. Die Türen schließen zwei Minuten vor Abfahrt des Zuges. Das Ticket sollte bereitgehalten werden, da das Zugpersonal diese vor dem Einstieg in den Zug kontrollieren könnte.[^7] In Deutschland gelten diese Regelungen nicht.[^8]
 
 {{< highlight important >}}
 Es gelten Besonderheiten für grenzüberschreitende Verbindungen, siehe [Grenzüberschreitende TGV inOui / ICE Züge](#grenzüberschreitende-tgv-inoui--ice-züge).
@@ -130,6 +139,8 @@ Intercity-Züge der SNCF, die verschiedene Städte in Frankreich verbinden und m
 
 Auf der [Intercité-Website](https://www.sncf-voyageurs.com/de/voyagez-avec-nous/en-france/intercites/nos-destinations-intercites/) der SNCF werden Verbindungen mit und ohne Reservierungspflicht aufgelistet. Alternativ kann über die [Zugsuche](https://www.sncf-voyageurs.com/de/voyagez-avec-nous/horaires-et-itineraires/recherche-de-train/) der SNCF für jede Zugnummer die Reservierungsbedingungen abgerufen werden.
 
+Der Zugang zum Bahnsteig (bei Stationen mit Bahnsteigschranken) sowie zu den Zügen ist bis zwei Minuten vor der Abfahrt möglich. Die Türen schließen zwei Minuten vor Abfahrt des Zuges. Das Ticket sollte bereitgehalten werden, da das Zugpersonal diese vor dem Einstieg in den Zug kontrollieren könnte.[^7]
+
 #### Reservierungen
 
 Die Reservierungspreise unterscheiden sich zwischen Zügen zur Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak). Die Einordung der Züge ist öffentlich leider nicht einsehbar.
@@ -154,7 +165,11 @@ Nachtzüge der SNCF im französischen Inland. Internationale Nachtzugverbindunge
 
 #### Reservierungen
 
-Kosten abhängig von Strecke und Auslastung.
+|          | Sitzwagen | Liegewagen / Couchette |
+| -------- | --------- | ---------------------- |
+| National | 2 €       | 20 €                   |
+
+Es gibt keine Unterscheidung zwischen Hauptverkehrszeit (Peak) und außerhalb der Hauptverkehrszeit (Off-Peak)-Zügen bei den Intercité de nuit.
 
 {{% /train-category %}}
 
@@ -172,9 +187,11 @@ Kosten abhängig von Strecke und Auslastung.
 Der `TER` ist ein Regionalzug, der verschiedene Städte in Frankreich verbindet.
 Auf einigen Linien von Paris aus gibt es eine Reservierungspflicht, siehe [Reservierungspflicht im Regionalverkehr](#reservierungspflicht-im-regionalverkehr).
 
-{{< highlight confusion >}}
+Der Zugang zum Bahnsteig (bei Stationen mit Bahnsteigschranken) sowie zu den Zügen ist bis zwei Minuten vor der Abfahrt möglich. Die Türen schließen zwei Minuten vor Abfahrt des Zuges. Das Ticket sollte bereitgehalten werden, da das Zugpersonal diese vor dem Einstieg in den Zug kontrollieren könnte.[^7]
+
+{{< confusion france >}}
 Auf der Strecke Marseille – Nice betreibt Transdev die Züge, weshalb FIP nicht akzeptiert wird. Auf der Strecke Marseille – Toulon werden jedoch auch Züge der SNCF eingesetzt, bei denen FIP akzeptiert wird. Eine vorige Prüfung des Betreibers ist hier zwingend notwendig.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -278,7 +295,24 @@ FIP Tickets können nicht im Zug erworben werden.
 
 ## Ermäßigungen
 
-Bei normalen Tickets reisen Kinder bis einschließlich 4 Jahre kostenlos. Kinder bis einschließlich 12 Jahre erhalten eine Ermäßigung von 50 % auf den Erwachsenentarif. Personen ab 12 Jahren zahlen den vollen Erwachsenentarif.
+{{< children-discount >}}
+
+| Alter                             | Ermäßigung      |
+| --------------------------------- | --------------- |
+| {{< icon "stroller" >}} 0–3 Jahre | Kostenlos[^6]   |
+| {{< icon "person" >}} ab 4 Jahre  | Regulärer Preis |
+
+### Forfait Bambin
+
+Kinder unter 4 Jahren fahren kostenlos auf dem Schoß eines Erwachsenen, ohne gebuchten Sitzplatz, in `TGV` inOui, `TER` und Intercité-Zügen; dies muss bei der Buchung angegeben werden, und pro Reisenden ist nur ein Kind erlaubt. Wird ein eigener Sitzplatz gewünscht, kann das _Forfait Bambin_ zum Festpreis von 9 € gebucht werden. Bei OUIGO fahren Kinder unter 4 Jahren ebenfalls kostenlos auf dem Schoß eines Erwachsenen; ein eigener Sitzplatz ist für 8 € bei OUIGO Grande Vitesse und für 5 € bei OUIGO Vitesse Classique erhältlich. In jedem Fall muss das Alter des Kindes durch einen Ausweis nachgewiesen werden.[^6]
+
+### Avantage Adulte Karte
+
+Die _Avantage Adulte_-Karte bietet eine Ermäßigung von 60 % für begleitete Kinder zwischen 4 und 11 Jahren.[^6]
+
+### Familles Nombreuses Karte
+
+Kinderreiche Familien mit 3 oder mehr Kindern können die _Familles Nombreuses_-Karte beantragen. [Weitere Informationen](https://www.sncf-connect.com/en-en/help/offer-children-and-families#ancre-11001)[^6]
 
 ## Tarifliche Besonderheiten
 
@@ -483,3 +517,9 @@ Die SNCF ist nicht die einfachste Bahngesellschaft, was FIP betrifft, da in viel
 [^4]: [FIP Guide Community: TGV nach Luxemburg](https://discord.com/channels/1250522473188032512/1456387852836274240)
 
 [^5]: [FIP Guide Community: ICE Frankfurt–Bordeaux](https://discord.com/channels/1250522473188032512/1482738819982950462)
+
+[^6]: [SNCF Connect – Angebote für Kinder und Familien](https://www.sncf-connect.com/en-en/help/offer-children-and-families#ancre-11001)
+
+[^7]: [SNCF Connect – Boarding Train](https://www.sncf-connect.com/en-en/help/boarding-train)
+
+[^8]: [DB – Was muss ich bei meiner Reise mit der SNCF beachten?](https://www.bahn.de/faq/internationale-reise-sncf-was-beachten)

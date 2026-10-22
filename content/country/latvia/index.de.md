@@ -1,10 +1,11 @@
 ---
-draft: false
 title: Lettland
 country: latvia
 params:
   operators_without_fip:
     - Latvijas dzelzceļš (LDz)
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

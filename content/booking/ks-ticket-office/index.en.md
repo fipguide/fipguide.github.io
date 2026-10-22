@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Śląskie Ticket Office
 description: Booking information for Koleje Śląskie Ticket Office.
 params:

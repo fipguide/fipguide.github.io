@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet NS
 description: Informations de réservation aux guichets de la NS.
 params:

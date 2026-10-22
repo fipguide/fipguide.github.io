@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ZOU! Ticketschalter
 description: Buchungsinformationen für die ZOU ! Ticketschalter.
 params:
@@ -9,7 +8,7 @@ params:
   fip_50: true
   fip_75: true
   reservations: true
-  additional_info_link: https://itineraires-zou.maregionsud.fr/fr/plan?poi=PointOfSale
+  additional_info_link: https://zou.maregionsud.fr/de/verkaufsstellen
   type: onsite
 ---
 

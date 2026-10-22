@@ -1,5 +1,4 @@
 ---
-draft: false
 title: NS Ticket Office
 description: Booking information for NS ticket offices.
 params:

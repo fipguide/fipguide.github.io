@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Espagne
 country: spain
 params:
@@ -7,6 +6,8 @@ params:
     - Iryo
     - OUIGO
     - ’[Avlo](/operator/renfe#longue-distance "Avlo")’
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP

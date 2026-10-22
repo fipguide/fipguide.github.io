@@ -1,9 +1,10 @@
 ---
-draft: false
 title: NS
 country:
   - netherlands
 operator: ns
+content_images:
+  - image.webp
 aliases:
   - /booking/ns-phone
   - /booking/ns-ticket-office
@@ -160,11 +161,11 @@ Unlike in other countries, these are not true long-distance trains, but rather f
 
 Regional trains with more stops than Intercity, but still only at important stations.
 
-{{< highlight confusion >}}
+{{< confusion netherlands >}}
 Trains of the Sneltrein / Regional-Express `RE` category, including the connections Venlo – Hamm (Germany) and Arnhem – Düsseldorf (Germany), as well as other RE connections, are not operated by NS and cannot be used with FIP.
 
 An exception applies to the Three-Country Train (Liège-Guillemins – Maastricht – Heerlen – Aachen): between Maastricht and Liège-Guillemins, the train is operated on behalf of NS and SNCB, and NS/SNCB tickets including FIP remain valid. Between Maastricht and Aachen (via Heerlen), the train is operated by Arriva and FIP is not valid.
-{{< /highlight >}}
+{{< /confusion >}}
 {{% /train-category %}}
 
 {{% train-category
@@ -191,11 +192,11 @@ Regional trains for short connections, stopping at every station along the route
 
 Regional trains with red-grey R-net branding on the route from Alphen aan den Rijn to Gouda.
 
-{{< highlight confusion >}}
+{{< confusion netherlands >}}
 R-net (Randstadnet) is a transport concept in the Randstad metropolitan region, operated by several companies with uniform red-grey vehicle branding. It includes trains, metros, trams, and buses. Only the R-net connection from Alphen aan den Rijn to Gouda, operated by NS, can be used with FIP. [^6] All other R-net connections, in particular the Geldermalsen - Dordrecht line (Qbuzz Stoptrein), cannot be used with FIP.
 
 In the NS journey planner, the services are marked as `R-net NS Sprinter`. Not to be confused with the `R-net Qbuzz Stoptrein`, which may not be used with FIP. In other journey planners, such as DB, the service may only be shown as `RE` operated by "R-net". Here, a distinction from the R-net Qbuzz Stoptrein is only possible based on the line!
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -241,7 +242,17 @@ FIP 50 Tickets cannot be purchased on the train. [^1]
 
 ## Discounts
 
-Children under 4 years of age travel free of charge. Children between 4 and 11 years of age (inclusive) require a [Railrunner ticket](https://www.ns.nl/en/tickets/railrunner) for € 2.50, valid for a whole day. Alternatively, for children between 4 and 11 years of age (inclusive) travelling accompanied by an adult, the free seasonal ticket ["Kids Vrij"](https://www.ns.nl/en/season-tickets/kids-vrij.html) can be obtained. An OV chipkaart is required for this (one-time fee of € 7.50). From age 12, the regular FIP adult fare applies.
+{{< children-discount >}}
+
+| Age                                  | Discount                                                                                        |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free                                                                                            |
+| {{< icon "child_care" >}} 4–11 years | [Railrunner ticket](https://www.ns.nl/en/tickets/railrunner) for € 2.50 (valid for a whole day) |
+| {{< icon "person" >}} from 12 years  | Regular price                                                                                   |
+
+### Free "Kids Vrij" Season Ticket
+
+Alternatively, for children between 4 and 11 years of age (inclusive) travelling accompanied by an adult, the free seasonal ticket ["Kids Vrij"](https://www.ns.nl/en/season-tickets/kids-vrij.html) can be obtained. An OV chipkaart is required for this (one-time fee of € 7.50).
 
 ## Special Tariff Conditions
 
@@ -256,6 +267,18 @@ This is not a ticket, but an access pass, valid for:
   - Up to 12 passages in total per day.
 
 If needed, a new access coupon can be requested at the NS ticket office.
+
+### Connections
+
+#### HOTNAT
+
+If a connecting train is missed at the stations Paris, Brussels, Cologne, Munich, Basel, or Zurich, HOTNAT can be used.
+
+This operator is part of HOTNAT (Hop on the Next Available Train). [More information in the FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
 
 ## Recommendations
 

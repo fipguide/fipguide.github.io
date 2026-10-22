@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet BLS
 description: Informations de réservation pour les centres de voyage BLS.
 params:

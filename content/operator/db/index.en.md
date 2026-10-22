@@ -1,9 +1,10 @@
 ---
-draft: false
 title: DB
 country:
   - germany
 operator: db
+content_images:
+  - image.webp
 aliases:
   - /booking/db-ticket-office
   - /booking/db-website
@@ -48,7 +49,7 @@ The `ICE` is a high-speed train and the highest train category of DB. It connect
 
 Reservation required for cross-border journeys to France.
 
-In the past, there was a reservation requirement for cross-border journeys in summer months to Austria, Belgium and the Nederlands. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
+In the past, there was a reservation requirement for cross-border journeys in summer months to Austria, Belgium, Denmark and the Nederlands. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
 
 {{% /train-category %}}
 
@@ -62,6 +63,10 @@ In the past, there was a reservation requirement for cross-border journeys in su
 %}}
 
 Cross-border high-speed trains of SNCF in cooperation with DB. These run from Frankfurt, Mannheim, Karlsruhe, Saarbrücken, Stuttgart, and Munich to Paris.
+
+{{< confusion germany >}}
+Some `TGV` trains run from Paris to Freiburg and are operated entirely by SNCF, including within Germany. Only SNCF is listed as the operator for these trains, see [Identify train operators and search connections](#fip-information). On these trains, DB Coupons and national travel concessions for DB employees are not valid in Germany. Instead, SNCF FIP Global Fare tickets can be purchased.
+{{< /confusion >}}
 
 #### Reservations
 
@@ -186,6 +191,21 @@ Some Nightjet services operate with [Intercity](#ic) coaches. These coaches may 
 
 {{% /train-category %}}
 
+{{% train-category
+    id="ferry"
+    title="Ferry Wangerooge – Harlesiel"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+DB Fernverkehr operates the ferry connection between Wangerooge and Harlesiel in the North Sea. FIP 50 Tickets and FIP Coupons are accepted for the crossing.
+
+Only long-distance tickets are valid, not local transport tickets such as the _Deutschlandticket_. This does not need to be considered when purchasing FIP 50 Tickets for this route, as they are always issued as long-distance tickets in this case. Further information in the section [Tariff Distinction between Local and Long-Distance Transport](#tariff-distinction-between-local-and-long-distance-transport).
+
+{{% /train-category %}}
+
 ### Local Transport
 
 Local trains are often operated by other companies that do not accept FIP. In the [DB journey planner](https://www.bahn.de), trains of all operators are listed. Only trains with _DB_ in the operator name in the _journey information_ can be used with FIP.
@@ -205,9 +225,9 @@ Local trains are often operated by other companies that do not accept FIP. In th
 
 Regional express trains connect towns and cities with stops at the main stations. Sometimes the trains also run long-distance routes.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Trains of the `RE` category are often operated by other companies.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -222,9 +242,9 @@ Trains of the `RE` category are often operated by other companies.
 
 Regional trains connect towns and cities with stops at almost all stations.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Trains of the `RB` category are often operated by other companies.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -239,8 +259,25 @@ Trains of the `RB` category are often operated by other companies.
 
 Local trains in large cities and metropolitan regions with stops at all stations.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Trains of the `S` category are often operated by other companies.
+{{< /confusion >}}
+
+{{% /train-category %}}
+
+{{% train-category
+    id="mex"
+    title="Metropolexpress (MEX)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+Regional trains connecting Stuttgart and the surrounding area. In the surrounding area, `MEX` trains stop at many stations, whereas in the S-Bahn vicinity trains only stop at a handful of stations.
+
+{{< highlight confusion >}}
+Trains of the `MEX` category are often operated by other companies.
 {{< /highlight >}}
 
 {{% /train-category %}}
@@ -303,7 +340,7 @@ FIP 50 Tickets are considered _Flexpreis_ tickets and can therefore be cancelled
     classes.first="€ 6,90"
     classes.second="€ 5,50"
 %}}
-Reservations for domestic German connections cost € 5.50 (2nd class) or € 6.90 (1st class). Cross-border connections cost € 3.
+Reservations for domestic German connections cost € 5.50 (2nd class) or € 6.90 (1st class). Cross-border connections cost € 3,50.
 {{% highlight inofficial %}}
 Currently, no FIP 50 Tickets for domestic travel within Germany can be sold via the ÖBB hotline. However, cross-border bookings of FIP 50 Tickets are still possible (see [Discord FIP Community ÖBB Hotline Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
 {{% /highlight %}}
@@ -323,7 +360,13 @@ FIP 50 Tickets cannot be purchased on the train.
 
 ## Discounts
 
-For public fares, children up to 6 years travel free, children between 6 and 14 years receive a 50% discount on the adult fare. From 14 years, the regular adult fare applies.
+{{< children-discount >}}
+
+| Age                                  | Discount                                      |
+| ------------------------------------ | --------------------------------------------- |
+| {{< icon "child_care" >}} 0–5 years  | Free                                          |
+| {{< icon "child_care" >}} 6–14 years | 50% discount, if travelling unaccompanied[^3] |
+| {{< icon "person" >}} from 15 years  | Regular price[^3]                             |
 
 ### Children Traveling Free
 
@@ -349,22 +392,9 @@ Children under 6 years always travel free and do not need their own ticket.
 In the Nordhessischer Verkehrsverbund (NVV), no discounts for DB employees are recognized in regional transport. Therefore, no FIP discounts apply here.
 A [map](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Liniennetz_Nordhessen_Schematisch.pdf) of the affected regional train lines is available.
 
-### DB Regio Stuttgart
-
-DB Regio Stuttgart (formerly SWEG Bahn Stuttgart) does not accept FIP discounts. These include the following lines: [^2]
-
-- RE 6: Tübingen - Stuttgart
-- RE 10a: Heilbronn - Mosbach-Neckarelz - Heidelberg - Mannheim
-- RE 10b: Heilbronn - Sinsheim (Elsenz) - Heidelberg - Mannheim
-- RE 12: Tübingen - Stuttgart - Heilbronn
-- RE 17a: Stuttgart - Mühlacker - Pforzheim - Karlsruhe/Bad Wildbad
-- RE 17c: Stuttgart - Mühlacker - Bretten - Bruchsal
-- RE 18: Tübingen - Stuttgart - Heilbronn - Osterburken
-- RE 71: Mühlacker - Bretten - Bruchsal – Heidelberg
-
 ### DB Regio Bayern
 
-The trains of DB Regio Bayern between Nürnberg Hbf and Regensburg Hbf are operated on behalf of the railway operator agilis. Therefore, no FIP discounts are recognized on this section. [^2]
+The trains of DB Regio Bayern between Nürnberg Hbf and Regensburg Hbf are operated on behalf of the railway operator agilis. Therefore, no FIP discounts are recognized on this section. On other lines of DB Regio Bayern, FIP applies. [^2]
 
 ### Journeys in Transport Associations
 
@@ -386,6 +416,14 @@ In the following example, the selected connection is within the transport associ
 ![Ticket selection VRS](ticket_vrs.en.webp)
 
 {{% /expander %}}
+
+#### Cross-Association Tariffs
+
+In some federal states, several transport associations cooperate to jointly offer uniform tickets for local transport. FIP 50 Tickets are generally not issued within these cross-association tariffs. The following federal states have transport-association-spanning tariffs:
+
+- **Baden-Württemberg**: _bwtarif_ [Open overview](https://assets.static-bahn.de/dam/jcr:45aead8a-90e4-4856-966f-1eaf38c04f0a/bwegt_Karte_bwtarif_07-01-2025_barrierefrei.2025-08-01-13-22-45.pdf)
+- **Niedersachsen**: _Niedersachsen-Tarif_ [Open overview](https://www.niedersachsentarif.de/fahrkarten/niedersachsen-ticket/)
+- **Nordrhein-Westfalen**: _NRW-Tarif_ [Open overview](https://infoportal.mobil.nrw/nrw-tarif/nrw-tarif-im-ueberblick.html)
 
 ### Tariff Distinction between Local and Long-Distance Transport
 
@@ -420,9 +458,23 @@ On August 1, 2026, Regionalverkehre Start GmbH was integrated into DB Regio AG. 
 
 On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.[^1]
 
+### Connections
+
+#### HOTNAT
+
+If a connecting train is missed at the stations Paris, Brussels, Cologne, Munich, Basel, or Zurich, HOTNAT can be used.
+
+This operator is part of HOTNAT (Hop on the Next Available Train). [More information in the FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ## Recommendations
 
-Deutsche Bahn operates a wide variety of connections. For example, you can use the Thuringian Mountain Railway from Obstfelderschmiede to Cursdorf. Connections through the Black Forest (Black Forest Railway) or along the left Rhine route are also highly recommended. In long-distance transport, a highlight is that there is usually a restaurant car on every ´ICE´ connection. Although the food is not freshly cooked, the dishes are still very varied.
+Deutsche Bahn operates a wide variety of connections. For example, you can use the Thuringian Mountain Railway from Obstfelderschmiede to Cursdorf. Connections through the Black Forest (Black Forest Railway) or along the left Rhine route are also highly recommended.
+
+In long-distance transport, a highlight is that there is usually a restaurant car on every `ICE` connection. Although the food is not freshly cooked, the dishes are still very varied. The current menu can be viewed [here](https://db-bordgastronomie.de/digitalespeisekarte); new seasonal dishes and drinks are introduced every two months. On board `ICE` services, you may also use the [ICE Portal](https://iceportal.de/uk-international-guests), which displays travel information and the currently available menu, as well as offering a wide range of films, podcasts and newspapers.
 
 <!--
     Personal recommendations and special personal notes for the journey
@@ -433,3 +485,5 @@ Deutsche Bahn operates a wide variety of connections. For example, you can use t
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782273-germany.html)
 
 [^2]: [DB Mobidig: Where is my travel pass valid](https://db-mobidig.deutschebahn.com/md-home/Navigation/Wo-gilt-meine-Fahrverguenstigung-9077792)
+
+[^3]: [DB – Your Journey with Children](https://www.bahn.de/service/individuelle-reise/kinder)

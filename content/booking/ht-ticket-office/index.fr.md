@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet Hellenic Train
 description: Informations de réservation pour les guichets Hellenic Train.
 params:
@@ -8,7 +7,7 @@ params:
     second: gratuit
   fip_50: true
   reservations: true
-  additional_info_link: https://www.hellenictrain.gr/en/sale-points
+  additional_info_link: https://www.hellenictrain.gr/en/tickets-cards/sale-points-opening-hours/
   type: onsite
 ---
 

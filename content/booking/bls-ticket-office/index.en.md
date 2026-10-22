@@ -1,5 +1,4 @@
 ---
-draft: false
 title: BLS Ticket Office
 description: Booking information for BLS travel centres.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ZOU! Ticket Office
 description: Booking information for ZOU ! ticket offices.
 params:
@@ -9,7 +8,7 @@ params:
   fip_50: true
   fip_75: true
   reservations: true
-  additional_info_link: https://itineraires-zou.maregionsud.fr/fr/plan?poi=PointOfSale
+  additional_info_link: https://zou.maregionsud.fr/en/sales-points
   type: onsite
 ---
 

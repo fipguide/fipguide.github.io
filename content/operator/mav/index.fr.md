@@ -1,9 +1,10 @@
 ---
-draft: false
-title: MÁV
+title: MÁV-START
 country:
   - hungary
 operator: mav
+content_images:
+  - image.webp
 ---
 
 MÁV (Magyar Államvasutak, Chemins de fer d'État hongrois) est la principale compagnie ferroviaire en [Hongrie](/country/hungary) et exploite la majorité du trafic longue distance et régional.
@@ -41,9 +42,9 @@ Trains internationaux longue distance en coopération avec ÖBB et d'autres chem
 
 La classe affaires n'est pas disponible pour les vols intérieurs en Hongrie. Pour les vols internationaux, elle peut être réservée avec un coupon FIP 1re classe ou un billet FIP 50 ; un supplément de 22 € est appliqué.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 `RJ` peut aussi signifier RegioJet. Les billets FIP pour MÁV ne sont pas valables sur les trains RegioJet.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Réservations
 
@@ -62,9 +63,9 @@ Les réservations de places sont obligatoires pour le trafic intérieur, faculta
 
 Trains rapides nationaux avec voitures de voyageurs de 2e classe, certaines aussi avec voitures de 1ère classe et classe premium 1+. Occasionnellement, des [voitures restaurant](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) et/ou des [voitures bistro](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-bistro-cars) sont transportées.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 Les trains `IC` en Hongrie sont parfois aussi exploités par [GySEV](/operator/gysev#ic).
-{{< /highlight >}}
+{{< /confusion >}}
 
 Il y a parfois jusqu'à trois catégories de voitures :
 
@@ -175,9 +176,9 @@ Dans les systèmes d'information de connexion en dehors de MÁV, les trains peuv
 
 Trains régionaux classiques qui s'arrêtent à toutes les gares intermédiaires.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 Les trains `SZ` en Hongrie sont parfois aussi exploités par [GySEV](/operator/gysev#sz).
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -326,7 +327,15 @@ Lors de l'achat de billets à tarif réduit FIP ou lors d'un changement de class
 
 ## Réductions
 
-Les enfants jusqu'à et y compris 13 ans voyagent gratuitement. À partir de 14 ans, le tarif adulte FIP régulier s'applique.[^2]
+{{< children-discount >}}
+
+| Âge                                      | Réduction             |
+| ---------------------------------------- | --------------------- |
+| {{< icon "child_care" >}} 0–13 ans       | Gratuit[^2]           |
+| {{< icon "child_hat" >}} 14–25 ans       | Réduction de 50 %[^2] |
+| {{< icon "person" >}} à partir de 26 ans | Tarif normal[^2]      |
+
+### Accompagnement des enfants lors de voyages internationaux
 
 Pour les voyages internationaux, les enfants de moins de 10 ans ne peuvent pas voyager sans être accompagnés d'un adulte. Les enfants à partir de 10 ans doivent porter un [formulaire de consentement parental](https://www.raildeliverygroup.com/files/Publications/services/rst/RST_FIP_MAV_Parental_Consent_form_v2.pdf) signé. MÁV ne assume pas la responsabilité des enfants non accompagnés. Les parents sont responsables de tous les dommages causés par l'enfant. Si un enfant est trouvé voyageant sans accompagnement et sans formulaire de consentement parental, les autorités seront notifiées.[^1]
 

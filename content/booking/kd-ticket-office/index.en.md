@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Dolnośląskie Ticket Office
 description: Booking information for Koleje Dolnośląskie ticket offices.
 params:

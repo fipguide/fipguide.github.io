@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "{{ .File.ContentBaseName | title }}" # Remplacez le titre par le nom de la plateforme de réservation
 description: "" # Complète une description pour la plateforme de réservation
 params:

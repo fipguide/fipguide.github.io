@@ -1,9 +1,10 @@
 ---
-draft: false
 title: Trenitalia
 country:
   - italy
 operator: trenitalia
+content_images:
+  - image.webp
 aliases:
   - /booking/fs-ticket-machine
   - /booking/fs-ticket-office
@@ -45,9 +46,9 @@ La réservation (avec supplément) est obligatoire dans les trains longue distan
 
 Catégorie la plus élevée pour les trains à grande vitesse longue distance. Le Frecciarossa 1000 est signalé pour sa vitesse et son service supérieurs.
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Les trains du transporteur privé Italo sont aussi marqués AV mais ne sont pas accessibles avec FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
@@ -68,9 +69,9 @@ Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FI
 
 Trains à grande vitesse à pendulation.
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Les trains du transporteur privé Italo sont aussi marqués AV mais ne sont pas accessibles avec FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
@@ -244,9 +245,9 @@ Les billets pour les trains régionaux peuvent être liés à un train spécifiq
 
 Réseaux suburbains à Naples (`M`) et Turin (`sfm`).
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Les lignes de métro sont parfois aussi marquées `M` et ne sont pas accessibles avec FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -329,7 +330,23 @@ Si les suppléments ne sont pas achetés avant le voyage, un supplément à bord
 
 ## Réductions
 
-Les enfants jusqu’à 4 ans voyagent gratuitement au tarif public. Dans les trains régionaux, les enfants jusqu’à 12 ans bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 12 ans, le tarif adulte s’applique. Dans les trains longue distance, les enfants jusqu’à 15 ans bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 15 ans, le tarif adulte s’applique.
+{{< children-discount >}}
+
+**Trains régionaux :**
+
+| Âge                                      | Réduction                                      |
+| ---------------------------------------- | ---------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit[^3]                                    |
+| {{< icon "child_care" >}} 4–11 ans       | 50 % de remise sur le prix plein du billet[^3] |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal                                   |
+
+**Trains longue distance :**
+
+| Âge                                      | Réduction                                                                                          |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit[^3]                                                                                        |
+| {{< icon "child_care" >}} 4–14 ans       | 50 % ou 30 % de remise sur le prix de base (30 % pour les voitures-lits et couchettes confort)[^3] |
+| {{< icon "person" >}} à partir de 15 ans | Tarif normal                                                                                       |
 
 ## Conditions tarifaires spéciales
 
@@ -425,6 +442,10 @@ Les billets pour les trains régionaux non liés à un train (_non prenotabile_)
 
 L’interruption de voyage n’est pas autorisée dans les trains longue distance. Dans les trains régionaux, elle est possible sans formalités, sauf pour les Billets FIP 50 liés à un train spécifique avec numéro de train imprimé (voir [Billets liés à un train dans les trains régionaux](#billets-liés-à-un-train-dans-les-trains-régionaux)).
 
+### Correspondances – AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
+
 ### Services de remplacement ferroviaire
 
 Dans les bus de remplacement ferroviaire, les réductions FIP sont valables lorsqu’ils remplacent un train dans lequel le FIP aurait été valable.
@@ -440,3 +461,5 @@ Pour les trajets longue distance, le Coupon FIP n’est rentable que dans une ce
 [^1]: [Classes Frecciarossa](https://www.trenitalia.com/de/frecce/frecciarossa-1000.html)
 
 [^2]: [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1473286775702290556)
+
+[^3]: [Trenitalia – Réduction enfants](https://www.trenitalia.com/en/offers/children-s-discount.html)

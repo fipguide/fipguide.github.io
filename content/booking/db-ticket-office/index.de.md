@@ -1,5 +1,4 @@
 ---
-draft: false
 title: DB Ticketschalter
 description: Buchungsinformationen für die Deutsche Bahn Reisezentren.
 params:
@@ -15,6 +14,16 @@ aliases:
 ---
 
 Die Ticketschalter der Deutschen Bahn werden _DB Reisezentrum_ genannt und befinden sich in vielen größeren Bahnhöfen in Deutschland.
+
+{{% highlight inofficial %}}
+In vielen Ländern gibt es Agenturen der DB, welche möglicherweise FIP Tickets im ähnlichen Umfang wie DB Reisezentren in Deutschland verkaufen können. Da dies eine Vermutung des FIP Guide Teams ist, freuen wir uns über Erfahrungsberichte von Nutzer:innen.
+
+Die Liste der internationalen DB Agenturen ist auf der [Website der Deutschen Bahn](https://assets.static-bahn.de/dam/jcr:cfb35ea3-642e-4a17-9a2a-4a40af5d22b8/20241010_Internationale%20DB-Agenturen.pdf) zu finden.
+{{% /highlight %}}
+
+{{% highlight tip %}}
+Über das neue Verkaufssystem _VSPro_ können nur FIP 50 Tickets verkauft werden, die auch [online](/operator/db#db-website-fip-international) erhältlich sind. Alle anderen FIP Ticket müssen weiterhin über das bisherige Verkaufssystem _VSP_ verkauft werden. (Stand Oktober 2026)
+{{% /highlight %}}
 
 {{% booking-section "fip_50" %}}
 

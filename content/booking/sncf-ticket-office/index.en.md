@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SNCF Ticket Office
 description: Booking information for SNCF ticket offices.
 params:

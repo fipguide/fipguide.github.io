@@ -1,5 +1,4 @@
 ---
-draft: false
 title: CFR Călători Ticketschalter
 description: Buchungsinformationen für die CFR Călători Ticketschalter.
 params:

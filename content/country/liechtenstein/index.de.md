@@ -1,7 +1,8 @@
 ---
-draft: false
 title: Liechtenstein
 country: liechtenstein
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

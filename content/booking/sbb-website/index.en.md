@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SBB Website / App
 description: Booking information for FIP Tickets at SBB Website and App.
 params:

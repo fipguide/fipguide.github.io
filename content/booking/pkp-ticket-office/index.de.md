@@ -1,5 +1,4 @@
 ---
-draft: false
 title: PKP Intercity Ticketschalter
 description: Buchungsinformationen für die PKP Intercity Ticketschalter.
 params:

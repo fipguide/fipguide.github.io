@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Téléphone Eurostar
 description: Informations de réservation via la hotline Eurostar.
 params:

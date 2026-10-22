@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Wielkopolskie Ticket Office
 description: Booking information for the Koleje Wielkopolskie ticket offices.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Attica Sales Agencies
 description: Booking information for Attica sales agencies.
 params:

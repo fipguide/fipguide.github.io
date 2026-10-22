@@ -1,5 +1,4 @@
 ---
-draft: false
 title: DB Hotline FIP (DB Employees)
 description: Booking information for FIP Tickets for DB employees for
   neighboring countries of Germany by phone

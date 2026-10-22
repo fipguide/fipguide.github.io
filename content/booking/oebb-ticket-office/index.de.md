@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ÖBB Ticketschalter
 description: Buchungsinformationen für die ÖBB Ticketschalter.
 params:

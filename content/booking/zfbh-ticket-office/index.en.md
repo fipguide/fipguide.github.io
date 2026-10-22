@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "ŽFBH Ticket Office"
 description: "Booking information for the ŽFBH ticket offices."
 params:

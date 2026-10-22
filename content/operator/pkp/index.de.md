@@ -1,9 +1,10 @@
 ---
-draft: false
 title: PKP
 country:
   - poland
 operator: pkp
+content_images:
+  - image.webp
 aliases:
   - /booking/pkp-ticket-machine
   - /booking/pkp-ticket-office
@@ -179,9 +180,9 @@ Abweichende Preise für internationale Verbindungen. [Weitere Informationen](htt
 
 Regionalzugverbindungen mit Halten an den meisten Bahnhöfen, die von Polregio betrieben werden. Diese Züge haben keine 1. Klasse.
 
-{{< highlight confusion >}}
+{{< confusion poland >}}
 Regionalzüge werden in Polen teilweise auch von anderen Bahngesellschaften als Polregio betrieben. Diese haben teilweise ihre eigenen FIP-Ermäßigungen ([siehe Polen](/country/poland "Polen")).
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -302,6 +303,14 @@ Keine Gebühr wird für die Ausstellung eines Tickets im Zug für folgende Fahrg
 - Minderjährige – gemäß den Beförderungsbedingungen (RPO-PKP SKM) auf der Website [www.skm.pkp.pl](https://www.skm.pkp.pl/)
 
 ## Ermäßigungen
+
+{{< children-discount >}}
+
+| Alter                                | Ermäßigung          |
+| ------------------------------------ | ------------------- |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos[^1]       |
+| {{< icon "child_care" >}} 4–11 Jahre | 50% Ermäßigung[^1]  |
+| {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis[^1] |
 
 {{% highlight tip %}}
 Unabhängig von FIP gibt es von Polregio ein preisgünstiges Wochenendticket, das entweder als "MINI BILET TURYSTYCZNY" nur für "Regio"-Züge der Polregio oder als "BILET TURYSTYCZNY" auch für alle Züge der KW, KMŁ, Arriva RP und ŁKA (außer ŁKA Sprinter) genutzt werden kann. Damit kann von Freitag 18 Uhr bis Montag 6 Uhr mit den entsprechenden Zügen gefahren werden. Weitere Informationen auf der [Polregio Website](https://bilety.polregio.pl/en/sieciowe/47).

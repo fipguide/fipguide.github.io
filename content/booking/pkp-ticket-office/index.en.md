@@ -1,5 +1,4 @@
 ---
-draft: false
 title: PKP Intercity Ticket Office
 description: Booking information for PKP Intercity ticket offices.
 params:

@@ -1,10 +1,11 @@
 ---
-draft: false
 title: GySEV / Raaberbahn
 country:
   - austria
   - hungary
 operator: gysev
+content_images:
+  - image.webp
 aliases:
   - /booking/mav-ticket-machine
   - /booking/mav-ticket-office
@@ -50,9 +51,9 @@ Folgende Linien sind mit dem FIP Freifahrtschein der GySEV in Österreich in den
 
 Die GySEV betreibt Scarbantia `IC` Züge zwischen Sopron und Budapest.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 In Ungarn verkehren auch InterCity Züge der ungarischen Staatsbahn [MÁV](/operator/mav#ic).
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Reservierungen
 
@@ -71,9 +72,9 @@ Reservierungen sind nur zwischen Győr und Budapest verpflichtend. Bei Fahrten z
 
 Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Regionalexpress-Züge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -88,9 +89,9 @@ Regionalexpress-Züge werden teilweise auch von der ÖBB betrieben, bei denen FI
 
 Nahverkehrszug mit Halten an den meisten Stationen.
 
-{{< highlight confusion >}}
+{{< confusion austria >}}
 Regionalzüge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -105,9 +106,9 @@ Regionalzüge werden teilweise auch von der ÖBB betrieben, bei denen FIP Fahrka
 
 Nahverkehrszug mit Halten an den meisten Stationen.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 Személyvonat werden teilweise auch von der [MÁV](/operator/mav#sz) betrieben, bei denen FIP Fahrtkarten der GySEV nicht anerkannt werden. Im Zweifelsfall kann der Beförderer über die jeweilige Anbieterwebsite oder über [bahn.de](https://www.bahn.de) geklärt werden.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -152,15 +153,25 @@ Tickets mit FIP Ermäßigung können nicht im Zug erworben werden. [^1]
 
 ## Ermäßigungen
 
+{{< children-discount >}}
+
 Die Ermäßigungen unterscheiden sich je nach Land, in dem man mit GySEV unterwegs ist.
 
 ### Ungarn
 
-Bei öffentlichen Tarifen fahren Kinder bis 6 Jahren kostenlos. Kinder bis 14 Jahre können 50% Ermäßigung auf den Erwachsenenfahrpreis erhalten. Personen ab 14 Jahre zahlen den Erwachsenenpreis.
+| Alter                                | Ermäßigung                             |
+| ------------------------------------ | -------------------------------------- |
+| {{< icon "stroller" >}} 0–5 Jahre    | Kostenlos[^3]                          |
+| {{< icon "child_care" >}} 6–13 Jahre | 50% Ermäßigung auf regulären Preis[^3] |
+| {{< icon "person" >}} ab 14 Jahre    | Regulärer Preis[^3]                    |
 
 ### Österreich
 
-Bei öffentlichen Tarifen fahren Kinder bis 6 Jahren kostenlos. Kinder bis 15 Jahre können 50% Ermäßigung auf den Erwachsenenfahrpreis erhalten. Personen ab 15 Jahre zahlen den Erwachsenenpreis.
+| Alter                                | Ermäßigung                             |
+| ------------------------------------ | -------------------------------------- |
+| {{< icon "stroller" >}} 0–5 Jahre    | Kostenlos[^3]                          |
+| {{< icon "child_care" >}} 6–14 Jahre | 50% Ermäßigung auf regulären Preis[^3] |
+| {{< icon "person" >}} ab 15 Jahre    | Regulärer Preis[^3]                    |
 
 ## Tarifliche Besonderheiten
 
@@ -181,3 +192,5 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
 
 [^2]: [GySEV Support Neusiedel am See - Pamhagen](https://github.com/fipguide/fipguide.github.io/issues/278)
+
+[^3]: [GySEV – Internationale Reisen](https://www2.gysev.hu/en/travel-offers/international-travel)

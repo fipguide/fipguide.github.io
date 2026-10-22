@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Autriche
 country: austria
 params:
@@ -17,6 +16,8 @@ params:
     - WESTbahn
     - Wiener Lokalbahn (Badner Bahn)
     - Zillertalbahn
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP

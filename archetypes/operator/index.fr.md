@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "{{ .File.ContentBaseName | upper }}"
 country:
   # Ajoutez les abréviations des pays dans lesquels la compagnie ferroviaire opère en anglais.
@@ -7,6 +6,8 @@ country:
   - "country2"
   - "country3"
 operator: "{{ .File.ContentBaseName }}"
+content_images:
+  - "image.webp"
 ---
 
 <!-- Supprimez ce message si la page est complète -->
@@ -78,9 +79,9 @@ operator: "{{ .File.ContentBaseName }}"
   Une description de la catégorie de train peut être ajoutée ici.
 -->
 
-{{% highlight confusion %}}
-Ce bloc peut être ajouté s’il y a un risque que la catégorie de train soit confondue avec une autre.
-{{% /highlight %}}
+{{% confusion country %}}
+Ce fragment peut être complété s'il existe un risque de confusion entre la catégorie de train et une autre. Le pays où cette confusion pourrait survenir est indiqué en tant que paramètre (sous forme d'abréviation anglaise) afin de générer un lien vers la section correspondante, où l'opérateur ferroviaire peut être identifié.
+{{% /confusion %}}
 
 {{% highlight important %}}
 D’autres informations importantes peuvent être ajoutées ici.

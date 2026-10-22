@@ -1,5 +1,4 @@
 ---
-draft: false
 title: CP Ticket Office
 description: Booking information for the CP ticket offices.
 params:

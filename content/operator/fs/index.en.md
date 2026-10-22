@@ -1,9 +1,10 @@
 ---
-draft: false
 title: Trenitalia
 country:
   - italy
 operator: trenitalia
+content_images:
+  - image.webp
 aliases:
   - /booking/fs-ticket-machine
   - /booking/fs-ticket-office
@@ -45,9 +46,9 @@ Reservations (with surcharges) are mandatory on long-distance trains.
 
 Highest Italian train category for long-distance high-speed trains. Frecciarossa 1000 is marked for higher speed and service.
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Trains of the private operator Italo are also marked as AV but cannot be used with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
@@ -68,9 +69,9 @@ A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available 
 
 High-speed tilting trains.
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Trains of the private operator Italo are also marked as AV but cannot be used with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
@@ -242,9 +243,9 @@ Tickets for regional trains may be train-bound. See [Train binding in regional t
 
 Suburban rail systems in Naples (`M`) and Turin (`sfm`).
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Metro lines are sometimes also marked as `M` and cannot be used with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -327,7 +328,23 @@ If supplements are not purchased before travel, an additional on-board surcharge
 
 ## Discounts
 
-Children up to 4 years old travel free on public fares. On regional trains, children up to 12 years receive a 50% discount on the adult fare. From 12 years, the regular adult fare applies. On long-distance trains, children up to 15 years receive a 50% discount on the adult fare. From 15 years, the regular adult fare applies.
+{{< children-discount >}}
+
+**Regional trains:**
+
+| Age                                  | Discount                                  |
+| ------------------------------------ | ----------------------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free[^3]                                  |
+| {{< icon "child_care" >}} 4–11 years | 50% discount on the full ticket price[^3] |
+| {{< icon "person" >}} from 12 years  | Regular price                             |
+
+**Long-distance trains:**
+
+| Age                                  | Discount                                                                                 |
+| ------------------------------------ | ---------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 years    | Free[^3]                                                                                 |
+| {{< icon "child_care" >}} 4–14 years | 50% or 30% discount on the Base price (30% for Sleeping Cars and Comfort Couchettes)[^3] |
+| {{< icon "person" >}} from 15 years  | Regular price                                                                            |
 
 ## Special Tariff Conditions
 
@@ -423,6 +440,10 @@ Tickets for not train-bound regional trains (_non prenotabile_) must be validate
 
 Break of journey is not permitted on long-distance trains. On regional trains, break of journey is possible without notice or formalities, except for train-bound FIP 50 Tickets with printed train number (see [Train binding in regional trains](#train-binding-in-regional-trains)).
 
+### Connections – AJC
+
+This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
+
 ### Rail Replacement Services
 
 On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
@@ -438,3 +459,5 @@ For long-distance travel, the FIP Coupon is only worthwhile to a limited extent,
 [^1]: [Frecciarossa Classes](https://www.trenitalia.com/de/frecce/frecciarossa-1000.html)
 
 [^2]: [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1473286775702290556)
+
+[^3]: [Trenitalia – Children's Discount](https://www.trenitalia.com/en/offers/children-s-discount.html)

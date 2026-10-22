@@ -1,5 +1,4 @@
 ---
-draft: false
 title: NS Ticketschalter
 description: Buchungsinformationen für die NS Ticketschalter.
 params:

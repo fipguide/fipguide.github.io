@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Stena Line BV Ticket Office
 description: Booking information for the Stena Line BV Ticket Office.
 params:

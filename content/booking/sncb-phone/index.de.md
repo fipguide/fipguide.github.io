@@ -1,5 +1,4 @@
 ---
-draft: false
 title: SNCB Telefon
 description: Buchungsinformationen für die SNCB Hotline.
 params:

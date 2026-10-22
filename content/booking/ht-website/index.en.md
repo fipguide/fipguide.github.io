@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Hellenic Train Website / App
 description: Booking information for the Hellenic Train website and app.
 params:
@@ -13,7 +12,7 @@ params:
   type: online
 ---
 
-Hellenic Train also offers an [app](https://www.hellenictrain.gr/en/ht-new-platform-new-ticket-platform-has-its-own-mobile-app) through which FIP 50 Tickets can be booked.
+Hellenic Train also offers an [app](https://www.hellenictrain.gr/en/tickets-cards/tickets/hellenic-train-ticket-issuance/) through which FIP 50 Tickets can be booked.
 
 {{% booking-section "fip_50" %}}
 

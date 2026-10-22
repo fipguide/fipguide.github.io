@@ -1,6 +1,5 @@
 ---
 date: 2026-04-01
-draft: false
 title: Polish Operator Koleje Małopolskie is the Newest FIP Member
 description: Koleje Małopolskie (KMŁ) has been the newest FIP member since 1
   April 2026, further expanding the validity of FIP in Poland. Not all details
@@ -9,6 +8,8 @@ country:
   - poland
 operator:
   - kml
+content_images:
+  - image.webp
 ---
 
 Koleje Małopolskie (KMŁ) has been the newest FIP member since 1 April 2026, further expanding the validity of FIP in Poland. This means that all voivodeship-owned railway companies can now be used with FIP discounts.

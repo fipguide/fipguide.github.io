@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Transilien Ticket Office
 description: Booking information for Transilien ticket offices.
 params:

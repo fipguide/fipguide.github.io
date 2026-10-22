@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet PKP Intercity
 description: Informations de réservation pour les guichets PKP Intercity.
 params:

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: DB Website FIP (International)
 description: Booking information for FIP Tickets with a section in Germany.
 params:

@@ -1,9 +1,10 @@
 ---
-draft: false
 title: "ŽRS"
 country:
   - "bosnia-and-herzegovina"
 operator: "žrs"
+content_images:
+  - image.webp
 ---
 
 Die Željeznice Republike Srpske (ŽRS) ist das Eisenbahnverkehrsunternehmen der Förderation Republika Srpska in Bosnien und Herzegowina. Neben ihr existiert in dem Land auch noch die [Željeznice Federacije Bosne i Hercegovine (ŽFBH)](/operator/zfbh) der Förderation Bosnien und Herzegowina. Die ŽRS betreibt auf ihrem 418 km großen Schienennetz derzeit nur ein minimales Regionalzugangebot.
@@ -62,7 +63,7 @@ Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preis
 
 - Bosnien und Herzegowina (ŽFBH, ŽRS),
 - Bulgarien (BDŽ),
-- Nordmazedonien (MŽ-Transport),
+- Nordmazedonien (ŽRSM),
 - Griechenland (HT & Attica),
 - Montenegro (ŽPCG),
 - Rumänien (CFR Calatori & Regiotrans),

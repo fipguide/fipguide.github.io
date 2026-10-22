@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Site Web LTG-Link
 description: Informations de réservation pour le site de réservation de LTG-Link.
 params:

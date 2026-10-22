@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Trenitalia Ticket Office
 description: Booking information for Trenitalia ticket offices.
 params:

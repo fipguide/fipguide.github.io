@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Téléphone Attica
 description: Informations de réservation pour la ligne téléphonique Attica.
 params:

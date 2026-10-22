@@ -1,10 +1,11 @@
 ---
-draft: false
 title: GySEV / Raaberbahn
 country:
   - austria
   - hungary
 operator: gysev
+content_images:
+  - image.webp
 aliases:
   - /booking/mav-ticket-machine
   - /booking/mav-ticket-office
@@ -50,9 +51,9 @@ The following lines can be used with the GySEV FIP Coupon in Austria in the spec
 
 GySEV operates Scarbantia IC trains between Sopron and Budapest.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 In Hungary, InterCity trains are also operated by MÁV, the Hungarian state railway.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Reservations
 
@@ -71,9 +72,9 @@ Reservations are only mandatory between Győr and Budapest. For journeys between
 
 Fast local train with fewer stops and modern rolling stock.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 Regionalexpress trains are sometimes also operated by ÖBB where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [bahn.de](https://int.bahn.de/en).
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -88,9 +89,9 @@ Regionalexpress trains are sometimes also operated by ÖBB where GySEV FIP Ticke
 
 Local train stopping at most stations.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 Regional trains are sometimes also operated by ÖBB where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [bahn.de](https://int.bahn.de/en).
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -105,9 +106,9 @@ Regional trains are sometimes also operated by ÖBB where GySEV FIP Tickets are 
 
 Local train stopping at most stations.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 Személyvonat trains are sometimes also operated by [MÁV](/operator/mav#sz) where GySEV FIP Tickets are not accepted. If in doubt, check the operator via the provider's website or [bahn.de](https://int.bahn.de/en).
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -152,15 +153,25 @@ Tickets with FIP discount cannot be purchased on board. [^1]
 
 ## Discounts
 
+{{< children-discount >}}
+
 Discounts differ depending on the country in which you travel with GySEV.
 
 ### Hungary
 
-With public fares, children under 6 travel free of charge. Children up to 14 years can receive a 50% discount on the adult fare. Persons from 14 years pay the adult fare.
+| Age                                  | Discount                              |
+| ------------------------------------ | ------------------------------------- |
+| {{< icon "stroller" >}} 0–5 years    | Free of charge[^3]                    |
+| {{< icon "child_care" >}} 6–13 years | 50% discount on the regular price[^3] |
+| {{< icon "person" >}} from 14 years  | Regular price[^3]                     |
 
 ### Austria
 
-With public fares, children under 6 travel free of charge. Children up to 15 years can receive a 50% discount on the adult fare. Persons from 15 years pay the adult fare.
+| Age                                  | Discount                              |
+| ------------------------------------ | ------------------------------------- |
+| {{< icon "stroller" >}} 0–5 years    | Free of charge[^3]                    |
+| {{< icon "child_care" >}} 6–14 years | 50% discount on the regular price[^3] |
+| {{< icon "person" >}} from 15 years  | Regular price[^3]                     |
 
 ## Special Tariff Conditions
 
@@ -168,7 +179,7 @@ With public fares, children under 6 travel free of charge. Children up to 15 yea
 
 For a break of journey, the ticket must be stamped at the station where the break should be.
 
-### Connections - AJC
+### Connections – AJC
 
 This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
 
@@ -181,3 +192,5 @@ On rail replacement buses, FIP discounts apply when they replace a train on whic
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782238-austria-and-lichtenstein.html)
 
 [^2]: [GySEV Support Neusiedel am See - Pamhagen](https://github.com/fipguide/fipguide.github.io/issues/278)
+
+[^3]: [GySEV – International Travel](https://www2.gysev.hu/en/travel-offers/international-travel)

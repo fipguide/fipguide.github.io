@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Denmark
 country: denmark
 params:
@@ -10,6 +9,8 @@ params:
     - Nordjyske Jernbaner
     - SJ
     - Snälltåget
+content_images:
+  - image.webp
 ---
 
 ## FIP Information
@@ -61,4 +62,4 @@ From Germany, the direct `ECE` Hamburg - Copenhagen can be used, operating multi
 
 Alternatively, there are multiple daily `IC` trains from Flensburg to Fredericia, with good connections to Aarhus/Aalborg and Copenhagen.
 
-Entry via Tønder is also possible using local trains. DSB operates the Danish section of the route under the name "DSB Vores Tog", meaning FIP can be used. For the German section, a standard ticket or the Deutschlandticket is required, as the trains there are operated by NEG. Alternatively, ferries from Puttgarden or Warnemünde can be used to enter Denmark.
+Entry via Tønder is also possible using local trains. DSB operates the Danish section of the route under the name "DSB Vores Tog", meaning FIP can be used. For the German section, a standard ticket or the Deutschlandticket is required, as the trains there are operated by NEG. Alternatively, you can enter by ferry to Rødby or Gedser; however, FIP facilities are not valid in this case and the full fare must be paid.

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet CP
 description: Informations de réservation aux guichets CP.
 params:

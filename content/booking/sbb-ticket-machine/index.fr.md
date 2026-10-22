@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Distributeurs de billets CFF
 description: Informations sur l’achat de Billets FIP aux distributeurs de tickets des CFF
 params:

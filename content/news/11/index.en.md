@@ -1,6 +1,5 @@
 ---
 date: 2026-06-17
-draft: false
 title: "Great Britain: No More FIP Discount at Dartmouth Steam Railway"
 description: The Dartmouth Steam Railway and River Boat Company no longer grants
   any FIP discount. Previously, a 75% discount on the regular adult fare was
@@ -9,6 +8,8 @@ country:
   - united-kingdom
 operator:
   - gb
+content_images:
+  - image.webp
 ---
 
 The Dartmouth Steam Railway and River Boat Company in Great Britain no longer grants any FIP discount. Previously, a 75% discount on the regular adult fare was granted when the FIP Card was presented on site. [^1]

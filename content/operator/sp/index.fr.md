@@ -1,11 +1,12 @@
 ---
-draft: false
 title: Schweizer Privatbahnen
 description: Informations sur les conditions FIP des chemins de fer privés suisses.
 country:
   - switzerland
   - italy
 operator: sp
+content_images:
+  - image.webp
 ---
 
 En [Suisse](/country/switzerland "Suisse"), en plus de la compagnie nationale [SBB CFF FFS](/operator/sbb "SBB CFF FFS") et de la plus petite BLS, il existe une association de nombreuses entreprises ferroviaires regroupées sous l’appellation _Schweizer Privatbahnen_ (Chemins de fer privés suisses). On y trouve à la fois des trains réguliers du réseau suisse et des services plutôt touristiques. En plus des trains, certains bateaux, téléphériques et bus en font partie.
@@ -552,19 +553,6 @@ Les réservations de sièges peuvent être achetées [en ligne sur le site de Ce
 {{% /train-category %}}
 
 {{% train-category
-    id="stb"
-    title="Sensetalbahn (STB)"
-    type="regional"
-    fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
-%}}
-
-La Sensetalbahn exploitait la ligne Flamatt – Laupen – Gümmenen, aujourd’hui exploitée par la BLS. Il est donc discutable d’indiquer encore la STB ici.
-
-{{% /train-category %}}
-
-{{% train-category
     id="szu"
     title="Sihltal Zürich Uetliberg Bahn (SZU)"
     type="regional"
@@ -955,7 +943,20 @@ L’achat de billets FIP à bord n’est pas possible. Des frais de pénalité s
 
 ## Réductions
 
-Les enfants voyagent gratuitement sur les services réguliers (pas de croisières spéciales) jusqu’à 5 ans inclus. Les enfants jusqu’à 15 ans inclus bénéficient d’une réduction de 50 % sur le tarif adulte. À partir de 16 ans révolus, le tarif adulte s’applique.
+{{< children-discount >}}
+
+| Âge                                     | Réduction        |
+| --------------------------------------- | ---------------- |
+| {{< icon "child_care" >}} 0–5 ans       | Gratuit[^4]      |
+| {{< icon "person" >}} à partir de 6 ans | Tarif normal[^4] |
+
+### Carte Junior
+
+En outre, il est possible d’acheter une _Carte Junior_ pour 30 CHF. Elle permet à ses propres enfants jusqu’à 15 ans inclus de voyager lorsqu’ils sont accompagnés par un parent. Le parent accompagnateur doit disposer de son propre titre de transport valable pour le trajet (par ex. Coupon FIP ou Billet FIP 50). La Carte Junior peut être achetée sur place auprès des points de vente des transports publics en Suisse. Voir le site web des CFF : [Carte Junior](https://www.sbb.ch/fr/offres/carte-junior).
+
+### Carte journalière Enfant
+
+Alternativement, la _Carte journalière Enfant_ offre aux enfants de 6 à moins de 16 ans un voyage illimité sur les transports publics pendant une journée pour 19 CHF (2ᵉ classe) ou 33 CHF (1ᵉ classe). Voir le site web des CFF : [Carte journalière Enfant](https://www.sbb.ch/fr/offres/carte-journaliere-enfant).
 
 ## Conditions tarifaires spéciales
 
@@ -1002,3 +1003,5 @@ Lors d’un voyage avec un Coupon, il est conseillé, si possible, de disposer �
 [^2]: [Feedback RBS](https://discord.com/channels/1250522473188032512/1477450999454236892)
 
 [^3]: [Brienz-Rothorn-Bahn](https://brienz-rothorn-bahn.ch/fr/fragen-und-antworten/)
+
+[^4]: [SBB – Billets et abonnements pour les enfants et les jeunes](https://www.sbb.ch/en/travel-information/individual-needs/travelling-with-children/tickets-travelcards.html)

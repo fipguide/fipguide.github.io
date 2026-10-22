@@ -1,9 +1,10 @@
 ---
-draft: false
 title: NS
 country:
   - netherlands
 operator: ns
+content_images:
+  - image.webp
 aliases:
   - /booking/ns-phone
   - /booking/ns-ticket-office
@@ -160,11 +161,11 @@ Contrairement à d’autres pays, il ne s’agit pas de véritables trains longu
 
 Trains régionaux avec plus d’arrêts que les Intercity, mais uniquement dans les gares principales.
 
-{{< highlight confusion >}}
+{{< confusion netherlands >}}
 Les trains de la catégorie Sneltrein / Regional-Express `RE`, notamment les liaisons Venlo – Hamm (Allemagne) et Arnhem – Düsseldorf (Allemagne), ainsi que d’autres liaisons RE, ne sont pas exploités par NS et ne sont pas accessibles avec FIP.
 
 Une exception s’applique au Train des Trois Pays (Liège-Guillemins – Maastricht – Heerlen – Aix-la-Chapelle) : entre Maastricht et Liège-Guillemins, le train est exploité pour le compte de la NS et de la SNCB, et les billets NS/SNCB incluant le FIP restent valables. Entre Maastricht et Aix-la-Chapelle (via Heerlen), le train est exploité par Arriva et le FIP n’est pas valable.
-{{< /highlight >}}
+{{< /confusion >}}
 {{% /train-category %}}
 
 {{% train-category
@@ -191,11 +192,11 @@ Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares 
 
 Trains régionaux avec le branding R-net rouge-gris sur la ligne d’Alphen aan den Rijn à Gouda.
 
-{{< highlight confusion >}}
+{{< confusion netherlands >}}
 R-net (Randstadnet) est un concept de transport dans la région métropolitaine de la Randstad, exploité par plusieurs opérateurs avec un branding uniforme rouge-gris des véhicules. Il comprend des trains, métros, tramways et bus. Avec le FIP, seule la liaison R-net d’Alphen aan den Rijn à Gouda, exploitée par NS, peut être utilisée. [^6] Toutes les autres liaisons R-net, en particulier la ligne Geldermalsen - Dordrecht (Qbuzz Stoptrein), ne peuvent pas être utilisées avec le FIP.
 
 Dans la recherche d’itinéraire de la NS, les liaisons sont indiquées comme `R-net NS Sprinter`. Ne pas confondre avec le `R-net Qbuzz Stoptrein`, qui ne peut pas être utilisé avec le FIP. Dans d’autres systèmes d’information, par exemple celui de la DB, la liaison peut éventuellement être indiquée seulement comme `RE` de l’opérateur « R-net ». Ici, une distinction avec le R-net Qbuzz Stoptrein n’est possible que sur la base de la ligne !
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -241,7 +242,17 @@ Les Billets FIP 50 ne peuvent pas être achetés à bord. [^1]
 
 ## Réductions
 
-Les enfants de moins de 4 ans voyagent gratuitement. Les enfants entre 4 et 11 ans inclus ont besoin d’un [billet Railrunner](https://www.ns.nl/en/tickets/railrunner) à 2,50 €, valable toute une journée. Alternativement, pour les enfants entre 4 et 11 ans inclus voyageant accompagnés d’un adulte, l’abonnement saisonnier gratuit [« Kids Vrij »](https://www.ns.nl/en/season-tickets/kids-vrij.html) peut être obtenu. Une OV chipkaart est nécessaire à cet effet (frais uniques de 7,50 €). À partir de 12 ans, le tarif FIP adulte normal s’applique.
+{{< children-discount >}}
+
+| Âge                                      | Réduction                                                                                         |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit                                                                                           |
+| {{< icon "child_care" >}} 4–11 ans       | [Billet Railrunner](https://www.ns.nl/en/tickets/railrunner) à 2,50 € (valable toute une journée) |
+| {{< icon "person" >}} à partir de 12 ans | Tarif normal                                                                                      |
+
+### Abonnement gratuit « Kids Vrij »
+
+Alternativement, pour les enfants entre 4 et 11 ans inclus voyageant accompagnés d’un adulte, l’abonnement saisonnier gratuit [« Kids Vrij »](https://www.ns.nl/en/season-tickets/kids-vrij.html) peut être obtenu. Une OV chipkaart est nécessaire à cet effet (frais uniques de 7,50 €).
 
 ## Conditions tarifaires spéciales
 
@@ -256,6 +267,18 @@ Ce n’est pas un billet, mais un badge d’accès, valable :
   - Jusqu’à 12 passages en tout par jour.
 
 Si nécessaire, un nouveau coupon d’accès peut être demandé au guichet NS.
+
+### Correspondances
+
+#### HOTNAT
+
+Si un train de correspondance est manqué dans les gares de Paris, Bruxelles, Cologne, Munich, Bâle ou Zurich, HOTNAT peut être utilisé.
+
+Cet opérateur fait partie de HOTNAT (Hop on the Next Available Train). [Plus d’informations dans la FAQ.](/general/faq/#hotnat)
+
+#### AJC
+
+Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 
 ## Recommandations
 

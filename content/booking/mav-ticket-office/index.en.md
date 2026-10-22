@@ -1,5 +1,4 @@
 ---
-draft: false
 title: MÁV Ticket Office
 description: Booking information for MÁV ticket office.
 params:

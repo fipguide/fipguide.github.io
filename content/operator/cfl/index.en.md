@@ -1,9 +1,10 @@
 ---
-draft: false
 title: CFL
 country:
   - luxembourg
 operator: cfl
+content_images:
+  - image.webp
 aliases:
   - /booking/cfl-phone
   - /booking/cfl-ticket-office
@@ -136,22 +137,34 @@ Tickets for first class travel or upgrades from second to first class must be pu
 
 ## Discounts
 
-For public fares, children up to 6 years travel free of charge, children between 6 and 12 years receive a 50% discount on the adult fare. From 12 years, the regular adult fare applies.[^1]
-Travel in second class is generally free of charge, so this is only relevant for first class.
+{{< children-discount >}}
+
+Travel in second class is generally free of charge.
+
+For 1st class, the following child discounts apply:
+
+| Age                                  | Discount                                                                                          |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–11 years | Free (when accompanied by a person holding a valid 1st class ticket, limited to two children)[^3] |
+| {{< icon "person" >}} from 12 years  | Regular price[^3]                                                                                 |
+
+### Accompaniment of Young Children
+
+Children who have not yet reached the age of 4 must be accompanied by a person who is at least 12 years old.[^3]
 
 ### Special Tariff Conditions
 
 ### CFL Bus Luxembourg - Saarbrücken
 
-On the CFL express bus between Luxembourg and Saarbrücken, free travel is not generally possible. Fares can be found on the [CFL website](https://www.cfl.lu/en-gb/ticket/internationaldetail/saarbrueckenexpress/1000). \
+On the CFL express bus between Luxembourg and Saarbrücken, free travel is not generally possible. Fares can be found on the [CFL website](https://www.cfl.lu/en-gb/ticket/international/allemagne/saarbrueckenexpress). \
 There are no further FIP discounts on this connection.
 
 ### CFL Bus Lorraine Express
 
-CFL operates an express bus between Luxembourg and _Lorraine TGV_ station in France as a TGV feeder. Free travel is not generally possible on this bus. Fares can be found on the [CFL website](https://www.cfl.lu/en-gb/ticket/internationaldetail/gare-lorraine). The buses require a reservation and a ticket can be purchased up to 2.5 hours before departure. \
+CFL operates an express bus between Luxembourg and _Lorraine TGV_ station in France as a TGV feeder. Free travel is not generally possible on this bus. Details can be found on the [CFL website](https://www.cfl.lu/en-gb/ticket/international/france/gare-lorraine). The buses require a reservation and a ticket can be purchased up to 2.5 hours before departure. \
 We have no official information regarding the validity of FIP discounts.
 
-### Connections - AJC
+### Connections – AJC
 
 This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
 
@@ -160,3 +173,5 @@ This operator is part of AJC (Agreement on Journey Continuation). [More informat
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782281-luxembourg.html)
 
 [^2]: [FIP Guide Community: SNCB Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470057862993543220)
+
+[^3]: [CFL – Children and Young People](https://www.cfl.lu/en-gb/customerservices/detail/enfants-et-jeunes)

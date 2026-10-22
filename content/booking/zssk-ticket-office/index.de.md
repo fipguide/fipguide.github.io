@@ -1,5 +1,4 @@
 ---
-draft: false
 title: ZSSK Ticketschalter
 description: Buchungsinformationen für die ZSSK Ticketschalter.
 params:

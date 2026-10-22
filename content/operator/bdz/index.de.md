@@ -1,9 +1,10 @@
 ---
-draft: false
 title: BDŽ
 country:
   - bulgaria
 operator: bdz
+content_images:
+  - image.webp
 aliases:
   - /booking/bdz-ticket-office
 ---
@@ -121,14 +122,23 @@ FIP-ermäßigte Fahrkarten können nur im Zug gekauft werden, wenn die Abfahrt v
 
 ## Ermäßigungen
 
-Für reguläre Fahrkarten reisen Kinder unter 7 Jahren kostenlos. Auf nationalen Relationen erhalten Kinder unter 10 Jahren, auf internationalen Routen Kinder unter 12 Jahren eine Ermäßigung von 50% auf den Erwachsenentarif. Ältere Kinder zahlen den vollen Erwachsenentarif.
+{{< children-discount >}}
+
+| Alter                               | Ermäßigung          |
+| ----------------------------------- | ------------------- |
+| {{< icon "child_care" >}} 0–6 Jahre | Kostenlos[^3]       |
+| {{< icon "person" >}} ab 7 Jahre    | Regulärer Preis[^3] |
+
+### Railway Passes
+
+Die BDŽ bietet weitere Ermäßigungen für Kinder, Familien, Studierende und andere Gruppen mit [Railway Passes](https://www.bdz.bg/en/a/railway-passes).[^2]
 
 {{% highlight tip %}}
 Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preislich lohnen. Er ermöglicht unbegrenzte Fahrten auf den Eisenbahnnetzen von:
 
 - Bosnien und Herzegowina (ŽFBH, ŽRS),
 - Bulgarien (BDŽ),
-- Nordmazedonien (MŽ-Transport),
+- Nordmazedonien (ŽRSM),
 - Griechenland (HT & Attica),
 - Montenegro (ŽPCG),
 - Rumänien (CFR Calatori & Regiotrans),
@@ -157,3 +167,7 @@ Die BDŽ betreibt auf einem etwas in die Jahre gekommenen Schienennetz noch ein 
 ## Quellen
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782242-bulgaria.html)
+
+[^2]: [BDŽ – Railway Passes](https://www.bdz.bg/en/a/railway-passes)
+
+[^3]: [BDŽ – Railway Passes and Discounts](https://www.bdz.bg/en/a/railway-passes-and-discounts)

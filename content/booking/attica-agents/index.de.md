@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Attica Verkaufsagenturen
 description: Buchungsinformationen für die Attica Verkaufsagenturen.
 params:

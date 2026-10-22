@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Site Web Koleje Dolnośląskie
 description: Informations sur la réservation pour le site web Koleje Dolnośląskie.
 params:

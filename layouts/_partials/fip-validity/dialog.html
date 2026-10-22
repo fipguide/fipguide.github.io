@@ -14,7 +14,7 @@
   {{- with $appPage -}}
     {{- with .Resources.Get "validity.yaml" -}}
       {{- $validity := . | transform.Unmarshal -}}
-      {{- $groupsMap = partial "fip-validity/groups-map" $validity -}}
+      {{- $groupsMap = $validity.groups -}}
       {{- $entry = index (index (index $validity "operators") $currentSlug) $type -}}
     {{- end -}}
   {{- end -}}

@@ -1,5 +1,4 @@
 ---
-draft: false
 title: National Rail Ticketschalter
 description: Buchungsinformationen für die National Rail Ticketschalter.
 params:

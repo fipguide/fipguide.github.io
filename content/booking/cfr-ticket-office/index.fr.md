@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet CFR Călători
 description: Informations de réservation pour le Guichet CFR Călători.
 params:

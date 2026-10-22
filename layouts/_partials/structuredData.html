@@ -12,7 +12,7 @@
   {{ $mainEntity = "FAQPage" }}
 {{ end }}
 
-{{ $image := (partial "helper/contentImage" .).Permalink }}
+{{ $image := (partial "helper/contentImage" .).firstImage.Permalink }}
 
 <script type="application/ld+json">{
   "@context": "https://schema.org",

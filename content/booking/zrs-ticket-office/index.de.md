@@ -1,5 +1,4 @@
 ---
-draft: false
 title: "ŽRS Ticketschalter"
 description: "Buchungsinformationen für die ŽRS Ticketschalter."
 params:

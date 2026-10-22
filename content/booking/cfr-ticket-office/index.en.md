@@ -1,5 +1,4 @@
 ---
-draft: false
 title: CFR Călători Ticket Office
 description: Booking information for the CFR Călători Ticket Office.
 params:

@@ -1,9 +1,10 @@
 ---
-draft: false
 title: PKP
 country:
   - poland
 operator: pkp
+content_images:
+  - image.webp
 aliases:
   - /booking/pkp-ticket-machine
   - /booking/pkp-ticket-office
@@ -179,9 +180,9 @@ Different prices for international connections. [More information](https://www.i
 
 Regional train connections stopping at most stations, operated by Polregio. These trains do not have 1st class.
 
-{{< highlight confusion >}}
+{{< confusion poland >}}
 Regional trains in Poland are sometimes also operated by railway companies other than Polregio. These sometimes have their own FIP discounts. [See Poland](/country/poland "Poland")
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -303,6 +304,14 @@ No fee is charged for issuing a ticket on the train for the following passengers
 
 ## Discounts
 
+{{< children-discount >}}
+
+| Age                                  | Discount           |
+| ------------------------------------ | ------------------ |
+| {{< icon "stroller" >}} 0–3 years    | Free of charge[^1] |
+| {{< icon "child_care" >}} 4–11 years | 50% discount[^1]   |
+| {{< icon "person" >}} from 12 years  | Regular price[^1]  |
+
 {{% highlight tip %}}
 Regardless of FIP, Polregio offers an affordable weekend ticket, available either as "MINI BILET TURYSTYCZNY" for "Regio" trains of Polregio only, or as "BILET TURYSTYCZNY" which is also valid on all trains of KW, KMŁ, Arriva RP and ŁKA (except ŁKA Sprinter). It allows travel from Friday 18:00 to Monday 06:00 on the corresponding trains. More information on the [Polregio website](https://bilety.polregio.pl/en/sieciowe/47).
 {{% /highlight %}}
@@ -376,7 +385,7 @@ FIP Tickets are not valid on the KM Słoneczny special train (Warsaw to Gdansk/G
 
 FIP Tickets are not valid on cable cars and rack railways operated by PKP.
 
-### Connections - AJC
+### Connections – AJC
 
 This operator is part of AJC (Agreement on Journey Continuation). [More information in the FAQ.](/general/faq/#ajc)
 

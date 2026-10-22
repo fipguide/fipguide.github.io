@@ -1,9 +1,10 @@
 ---
-draft: false
 title: Euskotren
 country:
   - spain
 operator: euskotren
+content_images:
+  - image.webp
 aliases:
   - /booking/euskotren-ticket-office
 ---

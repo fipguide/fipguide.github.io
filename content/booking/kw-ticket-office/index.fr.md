@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Guichet Koleje Wielkopolskie
 description: Informations de réservation pour les guichets Koleje Wielkopolskie.
 params:

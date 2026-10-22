@@ -1,10 +1,11 @@
 ---
-draft: false
 title: Renfe
 country:
   - spain
   - france
 operator: renfe
+content_images:
+  - image.webp
 aliases:
   - /booking/renfe-ticket-office
 ---
@@ -45,7 +46,7 @@ Seuls les trains de banlieue (Cercanías) sont accessibles sans restriction avec
 
 Trains longue distance à grande vitesse à voie normale et à écartement variable (jusqu’à 300 km/h). Les Coupons FIP ne sont pas acceptés.
 
-Les AVE internationaux vers/depuis la France ont des tarifs FIP Global différents selon le tronçon. La réservation des liaisons internationales se fait uniquement auprès de Renfe, donc les billets doivent être achetés dans une gare espagnole lors de l’embarquement en Espagne. Les billets FIP peuvent être achetés à bord lors de l’embarquement en France ; le paiement par carte est accepté. [^3]
+Les AVE internationaux vers/depuis la France ont des tarifs FIP Global différents selon le tronçon. La réservation des liaisons internationales se fait uniquement auprès de Renfe, donc les billets doivent être achetés dans une gare espagnole lors de l’embarquement en Espagne. Les billets FIP peuvent être achetés à bord lors de l’embarquement en France ; le paiement par carte est accepté. Même si le train est complet et qu’aucun siège n’est disponible, le voyage est généralement possible. [^3]
 
 **Tarif Global FIP (indépendant de la distance) :**[^5]
 
@@ -247,7 +248,17 @@ Les billets pour les trains `AVE` internationaux peuvent être achetés à bord 
 
 ## Réductions
 
-Les enfants de moins de 4 ans voyagent gratuitement sans siège propre. Pour les enfants de moins de 12 ans, une réduction de 40 % s’applique. À partir de 12 ans, le plein tarif est facturé.
+{{< children-discount >}}
+
+| Âge                                      | Réduction                       |
+| ---------------------------------------- | ------------------------------- |
+| {{< icon "stroller" >}} 0–3 ans          | Gratuit (sans siège propre)[^6] |
+| {{< icon "child_care" >}} 4–13 ans       | 40 % de réduction[^6]           |
+| {{< icon "person" >}} à partir de 14 ans | Tarif normal[^6]                |
+
+### Accompagnement des enfants
+
+Dans les trains `AVE` (grande vitesse), les `AVE` internationaux entre l’Espagne et la France, les trains Larga Distancia (grandes lignes) et `Avant` (grande vitesse moyenne distance), les enfants de moins de 14 ans doivent être accompagnés d’un adulte ou utiliser le service pour mineurs non accompagnés, lorsque celui-ci est proposé sur le train.[^6]
 
 ## Conditions tarifaires spéciales
 
@@ -259,7 +270,7 @@ Les trajets avec Billets FIP 50 ou FIP Global ne peuvent pas être interrompus. 
 
 Les bénéfices FIP s’appliquent également au réseau à voie métrique de Renfe Feve (Ferrocarriles de Vía Estrecha) entre Ferrol et Bilbao, dans le nord de l’Espagne.
 
-### Correspondances - AJC
+### Correspondances – AJC
 
 Cet opérateur fait partie de l’AJC (Agreement on Journey Continuation). [Plus d’informations dans la FAQ.](/general/faq/#ajc)
 
@@ -280,3 +291,5 @@ Renfe fonctionne souvent comme une compagnie aérienne : contrôle des bagages, 
 [^3]: [Retour utilisateur : achat de billets à bord](https://github.com/fipguide/fipguide.github.io/issues/449)
 
 [^5]: [Tarifs FIP Renfe (PKP, avril 2026)](https://pkp.pl/images/fip/2026/Renfe%20dopaty%2001.04.2026.pdf)
+
+[^6]: [Renfe – Enfants](https://www.renfe.com/es/en/travel/prepare-your-trip/descuentos/ninos)

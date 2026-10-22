@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Koleje Dolnośląskie Fahrkartenautomat
 description: Buchungsinformationen für die Koleje Dolnośląskie Fahrkartenautomaten.
 params:

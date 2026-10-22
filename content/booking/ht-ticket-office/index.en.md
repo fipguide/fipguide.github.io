@@ -1,5 +1,4 @@
 ---
-draft: false
 title: Hellenic Train Ticket Office
 description: Booking information for Hellenic Train ticket offices.
 params:
@@ -8,7 +7,7 @@ params:
     second: free
   fip_50: true
   reservations: true
-  additional_info_link: https://www.hellenictrain.gr/en/sale-points
+  additional_info_link: https://www.hellenictrain.gr/en/tickets-cards/sale-points-opening-hours/
   type: onsite
 ---
 
