@@ -1,0 +1,17 @@
+{{ $try := try (resources.GetRemote "https://gc.zgo.at/count.js") }}
+{{ with $try.Err }}
+  {{ errorf "unable to fetch count.js: %s" . }}
+{{ else with $try.Value }}
+  <script>
+    if (window.location.host !== "fipguide.org")
+      window.goatcounter = { no_onload: true };
+  </script>
+  {{ with . | fingerprint }}
+    <script
+      data-goatcounter="https://fipguide.goatcounter.com/count"
+      async
+      src="{{ .RelPermalink }}"
+      integrity="{{ .Data.Integrity }}"
+    ></script>
+  {{ end }}
+{{ end }}
