@@ -1,12 +1,12 @@
 groups:
-  - name: coupon-not-available
+  coupon-not-available:
     status: invalid
     text:
       de: Nicht verfügbar
       en: Not available
       fr: Non disponible
     type: fip-coupon
-  - name: coupon-1
+  coupon-1:
     status: valid
     text:
       de: |
@@ -19,7 +19,7 @@ groups:
         **1 coupon**
         <small>Par an.</small>
     type: fip-coupon
-  - name: coupon-2
+  coupon-2:
     status: valid
     text:
       de: |
@@ -32,7 +32,7 @@ groups:
         **2 coupons**
         <small>Par an.</small>
     type: fip-coupon
-  - name: coupon-sncf-nord
+  coupon-sncf-nord:
     status: valid
     text:
       de: >
@@ -48,7 +48,7 @@ groups:
 
         <small>Réseau entier : 4 coupons par an. Région Nord : 8 coupons par an.</small>
     type: fip-coupon
-  - name: relatives-sncf-nord
+  relatives-sncf-nord:
     status: valid
     text:
       de: >
@@ -64,7 +64,7 @@ groups:
 
         <small>Réseau entier : 2 coupons par an. Région Nord : 4 coupons par an.</small>
     type: fip-coupon
-  - name: relatives-sncf-retired
+  relatives-sncf-retired:
     status: valid
     text:
       de: |
@@ -77,14 +77,14 @@ groups:
         **1 coupon**
         <small>Par an (enfant uniquement).</small>
     type: fip-coupon
-  - name: reduced-50
+  reduced-50:
     status: valid
     text:
       de: 50 % Rabatt
       en: 50 % discount
       fr: 50 % de réduction
     type: fip-reduced-ticket
-  - name: reduced-75
+  reduced-75:
     status: valid
     text:
       de: 75 % Rabatt

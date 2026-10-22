@@ -1,5 +1,5 @@
 groups:
-  - name: reduced-75
+  reduced-75:
     status: valid
     text:
       de: 75 % Rabatt
