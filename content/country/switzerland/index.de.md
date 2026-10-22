@@ -97,7 +97,7 @@ Aus Frankreich verkehren grenzüberschreitende TGV Züge nach Zürich über Base
 
 Zusätzlich gibt es verschiedene, grenzüberschreitende Regionalzugverbindungen. In Basel ist der Bahnhof Basel SBB der Grenzbahnhof, ab welchem SNCF Freifahrtscheine für Züge z. B. `TER` Richtung Straßburg gelten.
 
-Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen [Léman Express](/operator/sbb#lex), betrieben von SBB und SNCF.
+Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen [Léman Express](/operator/sbb#lex), betrieben von SBB und SNCF. In diesen Zügen gilt FIP bei grenzüberschreitenden Fahrten nur eingeschränkt, siehe [Léman Express](/operator/sbb#lex).
 
 `TER` Züge von Lyon nach Genf dürfen bis Genf mit SNCF Freifahrtschein genutzt werden.[^2]
 
