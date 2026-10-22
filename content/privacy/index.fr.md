@@ -56,6 +56,10 @@ Les données personnelles sont transmises ou mises à disposition des tiers suiv
 - Divers prestataires ou partenaires qui nous assistent dans le traitement des commandes, la communication client, la publicité et la fourniture de services, les prestataires informatiques et les sous-traitants techniques (sous-traitants au sens de l’article 28 du RGPD). Ces partenaires sont tenus de respecter toutes les dispositions en matière de protection des données. Des règles strictes s’appliquent au traitement des données, notamment, ces partenaires ne peuvent utiliser les données que pour exécuter leurs missions en notre nom. Nous restons responsables du respect des réglementations de protection des données par ces partenaires et avons conclu avec eux des contrats de traitement de données.
 - À notre conseiller fiscal pour remplir nos obligations fiscales
 
+## Analyse du site Web
+
+Nous utilisons le service GoatCounter pour l’analyse statistique des visites sur notre site web. GoatCounter n’utilise pas de cookies, ne stocke pas d’adresses IP et ne collecte aucune donnée personnelle permettant d’identifier un visiteur individuel. Seules des données agrégées et anonymes sont collectées (par exemple la page consultée, le type de navigateur, le système d’exploitation, la largeur d’écran, le pays d’origine, l’URL de référence), lesquelles ne peuvent pas être recoupées entre elles et servent exclusivement à l’analyse statistique de l’utilisation du site. La base légale est notre intérêt légitime selon l’article 6, paragraphe 1, point f du RGPD à analyser et améliorer notre offre. Pour plus d’informations, consultez la [politique de confidentialité de GoatCounter](https://www.goatcounter.com/privacy).
+
 ## Vos droits
 
 Vous disposez d’un droit d’accès, de rectification, d’effacement, de limitation, de portabilité des données, de révocation et d’opposition.

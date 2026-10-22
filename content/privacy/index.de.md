@@ -56,6 +56,10 @@ Personenbezogene Daten werden von uns an die nachfolgend bezeichneten Dritten we
 - Verschiedene Dienstleister oder Partnerunternehmen, die uns bei der Bestellabwicklung, bei der Versorgung der Kunden mit Informationen, Werbung und bei der Bereitstellung von Dienstleistungen unterstützen, EDV Dienstleister und technische Verarbeiter (Auftragsverarbeiter gemäß Art. 28 DS-GVO). Diese Unternehmen sind verpflichtet, sämtliche Datenschutzbestimmungen einzuhalten. Für die Auftragsdatenverarbeitung gelten strenge datenschutzrechtliche Vorschriften, insbesondere dürfen diese Unternehmen die Daten ausschließlich zur Erfüllung ihrer Aufgaben in unserem Auftrag nutzen. Für die Einhaltung der datenschutzrechtlichen Vorschriften durch diese Unternehmen sind wir verantwortlich und haben wir entsprechende Auftragsverarbeitungsvereinbarungen mit den Dienstleistern geschlossen
 - an unseren Steuerberater zur Erfüllung unserer steuerrechtlichen Verpflichtungen
 
+## Webseitenanalyse
+
+Wir nutzen den Dienst GoatCounter zur statistischen Auswertung der Zugriffe auf unsere Website. GoatCounter verwendet keine Cookies, speichert keine IP-Adressen und erfasst keine personenbezogenen Daten, die eine Identifizierung einzelner Besucher ermöglichen. Erhoben werden ausschließlich aggregierte, anonyme Daten (z. B. aufgerufene Seite, Browsertyp, Betriebssystem, Bildschirmbreite, Herkunftsland, Referrer), die nicht miteinander verknüpft werden können und ausschließlich der statistischen Auswertung der Websitenutzung dienen. Rechtsgrundlage ist unser berechtigtes Interesse gemäß Art. 6 Abs. 1 lit. f DSGVO an der Analyse und Verbesserung unseres Angebots. Weitere Informationen finden Sie in der [Datenschutzerklärung von GoatCounter](https://www.goatcounter.com/privacy).
+
 ## Ihre Rechte
 
 Ihnen stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu.
