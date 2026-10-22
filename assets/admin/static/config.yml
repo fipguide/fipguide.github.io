@@ -1,11 +1,13 @@
 backend:
   name: github
   repo: fipguide/fipguide.github.io
-  branch: "{{ or (os.Getenv "FIPGUIDE_BRANCH") "main" }}"
-  auth_scope: repo
+  branch: main
+  auth_scope: [public_repo, workflow]
   open_authoring: true
   site_domain: fipguide.netlify.app
   preview_context: netlify/fipguide-test/deploy-preview
+  prompt_commit_messages: true
+  cms_label_prefix: cms/
 publish_mode: editorial_workflow
 app_title: "FIP Guide CMS"
 editor:
@@ -90,27 +92,19 @@ x_fip_validity_target_fields_reduced: &fip_validity_target_fields_reduced
     group_type: "fip-reduced-ticket"
     required: false
 
-x_fip_validity_columns: &fip_validity_columns
-  - label: "FIP Coupon"
-    name: "fip-coupon"
-    widget: "object"
-    summary: "Target groups"
-    hint: "Number and validity of FIP Coupons available to this target group."
-    fields: *fip_validity_target_fields_coupon
-  - label: "FIP Reduced Ticket"
-    name: "fip-reduced-ticket"
-    widget: "object"
-    summary: "Target groups"
-    hint: "Discount on FIP Reduced Tickets (FIP 50 / FIP 75) available to this target group."
-    fields: *fip_validity_target_fields_reduced
-
 collections:
   - name: "news"
     label: "News"
     label_singular: "News Article"
+    editor:
+      second_pane: false
     folder: "content/news"
-    path: "{{"{{"}}slug}}/index"
-    preview_path: "{{"{{"}}locale}}/news/{{"{{"}}slug}}/"
+    path: "{{slug}}/index"
+    preview_path: "{{locale}}/news/{{slug}}/"
+    slug:
+      auto_increment: true
+      hint: "A sequential number used as the article slug, e.g. 1."
+      pattern: ["^[0-9]+$", "Must contain only numbers"]
     publish: false
     create: true
     delete: false
@@ -174,11 +168,13 @@ collections:
         widget: "markdown"
         i18n: true
         editor_components:
-          - "image"
+          - "image2"
+          - "table"
           - "highlight"
           - "expander"
           - "button"
           - "dialog"
+          - "dialog-trigger"
           - "float-image"
           - "wip"
           - "icon"
@@ -190,10 +186,12 @@ collections:
   - name: "country"
     label: "Countries"
     label_singular: "Country"
+    editor:
+      second_pane: false
     folder: "content/country"
-    path: "{{"{{"}}slug}}/index"
-    preview_path: "{{"{{"}}locale}}/country/{{"{{"}}slug}}/"
-    thumbnail: "/images/flags/{{"{{"}}slug}}.webp"
+    path: "{{slug}}/index"
+    preview_path: "{{locale}}/country/{{slug}}/"
+    thumbnail: "/images/flags/{{slug}}.webp"
     create: false
     publish: false
     delete: false
@@ -231,11 +229,13 @@ collections:
         widget: "markdown"
         i18n: true
         editor_components:
-          - "image"
+          - "image2"
+          - "table"
           - "highlight"
           - "expander"
           - "button"
           - "dialog"
+          - "dialog-trigger"
           - "float-image"
           - "wip"
           - "icon"
@@ -247,9 +247,11 @@ collections:
   - name: "operator"
     label: "Operators"
     label_singular: "Operator"
+    editor:
+      second_pane: false
     folder: "content/operator"
-    path: "{{"{{"}}slug}}/index"
-    preview_path: "{{"{{"}}locale}}/operator/{{"{{"}}slug}}/"
+    path: "{{slug}}/index"
+    preview_path: "{{locale}}/operator/{{slug}}/"
     publish: false
     create: false
     delete: false
@@ -292,7 +294,8 @@ collections:
         widget: "markdown"
         i18n: true
         editor_components:
-          - "image"
+          - "image2"
+          - "table"
           - "highlight"
           - "expander"
           - "fip-validity"
@@ -300,19 +303,23 @@ collections:
           - "booking"
           - "button"
           - "dialog"
+          - "dialog-trigger"
           - "float-image"
           - "wip"
           - "icon"
           - "footnote-reference"
           - "columns"
           - "footnote"
+          - "children-discount"
 
   - name: "application"
     label: "FIP Application"
     label_singular: "FIP Application Page"
+    editor:
+      second_pane: false
     folder: "content/application"
-    path: "{{"{{"}}slug}}/index"
-    preview_path: "{{"{{"}}locale}}/application/{{"{{"}}slug}}/"
+    path: "{{slug}}/index"
+    preview_path: "{{locale}}/application/{{slug}}/"
     publish: false
     create: true
     delete: false
@@ -356,7 +363,7 @@ collections:
             How and when can employees of this issuer request FIP Coupons?
           -->
 
-          {{"{{"}}< fip-validity-table type="fip-coupon" >}}
+          {{< fip-validity-table type="fip-coupon" >}}
 
           ## FIP Reduced Ticket
 
@@ -364,14 +371,16 @@ collections:
             How and when can employees of this issuer request FIP Reduced Tickets (FIP 50 / FIP 75)?
           -->
 
-          {{"{{"}}< fip-validity-table type="fip-reduced-ticket" >}}
+          {{< fip-validity-table type="fip-reduced-ticket" >}}
         editor_components:
-          - "image"
+          - "image2"
+          - "table"
           - "highlight"
           - "expander"
           - "fip-validity-table"
           - "button"
           - "dialog"
+          - "dialog-trigger"
           - "float-image"
           - "wip"
           - "icon"
@@ -382,11 +391,13 @@ collections:
   - name: "fip-validity"
     label: "FIP Validity Tables"
     label_singular: "FIP Validity Table"
+    editor:
+      second_pane: false
     folder: "content/application"
-    path: "{{"{{"}}slug}}/validity"
+    path: "{{slug}}/validity"
     extension: "yaml"
     format: "yaml"
-    summary: "{{"{{"}}dirname}}"
+    summary: "{{dirname}}"
     create: true
     publish: false
     delete: false
@@ -394,23 +405,26 @@ collections:
       - label: "Validity Groups"
         name: "groups"
         widget: "list"
-        summary: "{{"{{"}}fields.name}} ({{"{{"}}fields.type}}, {{"{{"}}fields.status}})"
-        hint: "The validity groups available for this issuer. Referenced by name in the Operators section below."
+        map_key_field: "id"
+        summary: "{{fields.id}} ({{fields.type}}, {{fields.status}})"
+        hint: "The validity groups available for this issuer. Referenced by ID in the Operators section below."
         fields:
-          - label: "Name"
-            name: "name"
+          - label: "ID"
+            name: "id"
             widget: "string"
+            pattern:
+              ["^[a-z0-9-]+$", "Use lowercase letters, digits and hyphens only"]
             hint: 'Unique identifier of this group, e.g. "coupon-1".'
-          - label: "Type"
-            name: "type"
-            widget: "select"
-            options: ["fip-coupon", "fip-reduced-ticket"]
-            required: false
-            hint: "Which FIP product this group applies to. Restricts which dropdowns it shows up in below. Leave unset to show it under both."
           - label: "Status"
             name: "status"
             widget: "select"
-            options: ["valid", "invalid", "unknown"]
+            options:
+              - label: "Valid"
+                value: "valid"
+              - label: "Invalid"
+                value: "invalid"
+              - label: "Unknown"
+                value: "unknown"
           - label: "Text"
             name: "text"
             widget: "object"
@@ -436,28 +450,53 @@ collections:
                   - "icon"
                   - "footnote-reference"
                 minimal: true
+          - label: "Type"
+            name: "type"
+            widget: "select"
+            options:
+              - label: "FIP Coupon"
+                value: "fip-coupon"
+              - label: "FIP Reduced Ticket"
+                value: "fip-reduced-ticket"
+            required: false
+            hint: "Which FIP product this group applies to. Restricts which dropdowns it shows up in below. Leave unset to show it under both."
       - label: "Operators"
         name: "operators"
-        widget: "object"
+        widget: "list"
+        map_key_field: "operator"
         collapsed: true
-        summary: "Validity Groups"
+        summary: "{{fields.operator}}"
         hint: "For each target operator, select the applicable validity group per FIP product and target group."
         fields:
-{{- range (sort (where site.RegularPages "Type" "operator") "File.ContentBaseName") }}
-          - label: {{ printf "%q" .Title }}
-            name: {{ printf "%q" .File.ContentBaseName }}
+          - label: "Operator"
+            name: "operator"
+            widget: "relation"
+            collection: "operator"
+            search_fields: ["title"]
+            value_field: "operator"
+            display_fields: ["title"]
+            hint: "The operator this validity information applies to."
+          - label: "FIP Coupon"
+            name: "fip-coupon"
             widget: "object"
-            collapsed: true
-            summary: "FIP Coupon & FIP Reduced Ticket"
-            fields: *fip_validity_columns
-{{- end }}
+            summary: "Target groups"
+            hint: "Number and validity of FIP Coupons available to this target group."
+            fields: *fip_validity_target_fields_coupon
+          - label: "FIP Reduced Ticket"
+            name: "fip-reduced-ticket"
+            widget: "object"
+            summary: "Target groups"
+            hint: "Discount on FIP Reduced Tickets (FIP 50 / FIP 75) available to this target group."
+            fields: *fip_validity_target_fields_reduced
 
   - name: "booking"
     label: "Booking Platforms"
     label_singular: "Booking Platform"
+    editor:
+      second_pane: false
     folder: "content/booking"
-    path: "{{"{{"}}slug}}/index"
-    preview_path: "{{"{{"}}locale}}/booking/{{"{{"}}slug}}/"
+    path: "{{slug}}/index"
+    preview_path: "{{locale}}/booking/{{slug}}/"
     publish: false
     create: true
     delete: false
@@ -566,7 +605,20 @@ collections:
             name: type
             widget: select
             options:
-              [website, online, onsite, phone, email, socialmedia, machine]
+              - label: "Website"
+                value: "website"
+              - label: "Online"
+                value: "online"
+              - label: "On-Site"
+                value: "onsite"
+              - label: "Telephone"
+                value: "phone"
+              - label: "Email"
+                value: "email"
+              - label: "Social Media"
+                value: "socialmedia"
+              - label: "Ticket Machine"
+                value: "machine"
             i18n: duplicate
           - label: "Email Templates"
             name: email_templates
@@ -664,7 +716,7 @@ collections:
         widget: "markdown"
         i18n: true
         default: |
-          {{"{{"}}% booking-section "fip_50" %}}
+          {{% booking-section "fip_50" %}}
 
           ## FIP 50 Tickets
 
@@ -672,9 +724,9 @@ collections:
               Explain the steps for booking FIP 50 Tickets with this booking platform.
           -->
 
-          {{"{{"}}% /booking-section %}}
+          {{% /booking-section %}}
 
-          {{"{{"}}% booking-section "fip_global_fare" %}}
+          {{% booking-section "fip_global_fare" %}}
 
           ## FIP Global Fare
 
@@ -682,9 +734,9 @@ collections:
               Explain the steps for booking FIP Global Fares with this booking platform.
           -->
 
-          {{"{{"}}% /booking-section %}}
+          {{% /booking-section %}}
 
-          {{"{{"}}% booking-section "reservations" %}}
+          {{% booking-section "reservations" %}}
 
           ## Reservations
 
@@ -692,15 +744,17 @@ collections:
               Explain the steps for booking reservations with this booking platform.
           -->
 
-          {{"{{"}}% /booking-section %}}
+          {{% /booking-section %}}
         editor_components:
-          - "image"
+          - "image2"
+          - "table"
           - "highlight"
           - "expander"
           - "booking-section"
           - "button"
           - "satellite"
           - "dialog"
+          - "dialog-trigger"
           - "float-image"
           - "wip"
           - "icon"
@@ -711,14 +765,16 @@ collections:
   - name: "general"
     label: "General Pages"
     i18n: true
+    editor:
+      second_pane: false
     files:
       - name: "contribution"
         label: "Contribution"
-        file: "content/contribution/index.{{"{{"}}locale}}.md"
+        file: "content/contribution/index.{{locale}}.md"
         media_folder: ""
         public_folder: ""
         i18n: true
-        preview_path: "{{"{{"}}locale}}/contribution/"
+        preview_path: "{{locale}}/contribution/"
         fields:
           - label: "Title"
             name: "title"
@@ -729,11 +785,13 @@ collections:
             widget: "markdown"
             i18n: true
             editor_components:
-              - "image"
+              - "image2"
+              - "table"
               - "highlight"
               - "expander"
               - "button"
               - "dialog"
+              - "dialog-trigger"
               - "float-image"
               - "wip"
               - "icon"
@@ -743,11 +801,11 @@ collections:
 
       - name: "generalinformation"
         label: "General Information"
-        file: "content/general/generalinformation/index.{{"{{"}}locale}}.md"
+        file: "content/general/generalinformation/index.{{locale}}.md"
         media_folder: ""
         public_folder: ""
         i18n: true
-        preview_path: "{{"{{"}}locale}}/general/generalinformation/"
+        preview_path: "{{locale}}/general/generalinformation/"
         fields:
           - label: "Title"
             name: "title"
@@ -768,11 +826,13 @@ collections:
             widget: "markdown"
             i18n: true
             editor_components:
-              - "image"
+              - "image2"
+              - "table"
               - "highlight"
               - "expander"
               - "button"
               - "dialog"
+              - "dialog-trigger"
               - "float-image"
               - "wip"
               - "icon"
@@ -782,11 +842,11 @@ collections:
 
       - name: "fip-application"
         label: "FIP Application"
-        file: "content/general/fip-validity/index.{{"{{"}}locale}}.md"
+        file: "content/general/fip-validity/index.{{locale}}.md"
         media_folder: ""
         public_folder: ""
         i18n: true
-        preview_path: "{{"{{"}}locale}}/general/fip-validity/"
+        preview_path: "{{locale}}/general/fip-validity/"
         fields:
           - label: "Title"
             name: "title"
@@ -807,11 +867,13 @@ collections:
             widget: "markdown"
             i18n: true
             editor_components:
-              - "image"
+              - "image2"
+              - "table"
               - "highlight"
               - "expander"
               - "button"
               - "dialog"
+              - "dialog-trigger"
               - "float-image"
               - "wip"
               - "icon"
@@ -822,9 +884,11 @@ collections:
   - name: "faq"
     label: "FAQ"
     label_singular: "FAQ Entry"
+    editor:
+      second_pane: false
     folder: "content/general/faq"
-    path: "{{"{{"}}slug}}/index"
-    preview_path: "{{"{{"}}locale}}/general/faq/{{"{{"}}slug}}/"
+    path: "{{slug}}/index"
+    preview_path: "{{locale}}/general/faq/{{slug}}/"
     publish: false
     create: true
     delete: false
@@ -838,17 +902,20 @@ collections:
         name: "weight"
         widget: "number"
         required: false
+        min: 0
         i18n: duplicate
       - label: "Body"
         name: "body"
         widget: "markdown"
         i18n: true
         editor_components:
-          - "image"
+          - "image2"
+          - "table"
           - "highlight"
           - "expander"
           - "button"
           - "dialog"
+          - "dialog-trigger"
           - "float-image"
           - "wip"
           - "icon"
@@ -859,9 +926,11 @@ collections:
   - name: "identify-operator"
     label: "Identify Operator"
     label_singular: "Identify Operator"
+    editor:
+      second_pane: false
     folder: "content/identify-operator"
-    path: "{{"{{"}}slug}}/index"
-    preview_path: "{{"{{"}}locale}}/identify-operator/{{"{{"}}slug}}/"
+    path: "{{slug}}/index"
+    preview_path: "{{locale}}/identify-operator/{{slug}}/"
     publish: false
     create: true
     delete: false
@@ -886,11 +955,13 @@ collections:
         widget: "markdown"
         i18n: true
         editor_components:
-          - "image"
+          - "image2"
+          - "table"
           - "highlight"
           - "expander"
           - "button"
           - "dialog"
+          - "dialog-trigger"
           - "float-image"
           - "wip"
           - "icon"

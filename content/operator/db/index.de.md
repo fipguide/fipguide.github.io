@@ -197,6 +197,21 @@ Einige Nightjet-Verbindungen werden mit [Intercity](#ic)-Sitzwagen geführt. Die
 
 {{% /train-category %}}
 
+{{% train-category
+    id="ferry"
+    title="Fähre Wangerooge – Harlesiel"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+DB Fernverkehr betreibt die Fährverbindung zwischen Wangerooge und Harlesiel in der Nordsee. FIP 50 Tickets und FIP Freifahrtscheine werden für die Überfahrt akzeptiert.
+
+Es gelten nur Tickets des Fernverkehrs und keine Nahverkehrstickets wie das _Deutschlandticket_. Beim Kauf von FIP 50 Tickets für diese Strecke ist das nicht zu beachten, da diese in diesem Fall immer als Fernverkehrsticket ausgestellt werden. Weitere Informationen im Abschnitt [Tarifliche Unterscheidung zwischen Nah- und Fernverkehr](#tarifliche-unterscheidung-zwischen-nah--und-fernverkehr).
+
+{{% /train-category %}}
+
 ### Nahverkehr
 
 Die Züge im Nahverkehr werden oftmals auch von anderen Betreibern betrieben, die kein FIP akzeptieren. In der [Verbindungsauskunft der DB](https://www.bahn.de) sind die Züge aller Betreiber hinterlegt. Nur Züge mit _DB_ im Betreibernamen in den _Fahrtinformationen_ können mit FIP genutzt werden.
@@ -331,7 +346,7 @@ FIP 50 Tickets gelten als _Flexpreis_ und sind daher bis vor den 1. Geltungstag 
     classes.first="6,90 €"
     classes.second="5,50 €"
 %}}
-Reservierungen für innerdeutsche Verbindungen kosten 5,50 € (2. Klasse) bzw. 6,90 € (1. Klasse). Grenzüberschreitende Verbindungen kosten 3 €.
+Reservierungen für innerdeutsche Verbindungen kosten 5,50 € (2. Klasse) bzw. 6,90 € (1. Klasse). Grenzüberschreitende Verbindungen kosten 3,50 €.
 {{% highlight inofficial %}}
 Zurzeit können temporär keine FIP 50 Tickets für nationale Fahrten innerhalb Deutschlands über die ÖBB Hotline verkauft werden. Grenzüberschreitende Buchungen von FIP 50 Tickets sind jedoch weiterhin möglich (siehe [Discord FIP Community ÖBB Hotline Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
 {{% /highlight %}}
