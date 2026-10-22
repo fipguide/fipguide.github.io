@@ -34,8 +34,6 @@ Innerhalb der Niederlande ist bei der NS keine Reservierung erforderlich und in 
 
 Zuschläge müssen teilweise für Eurocity Direct und Intercity Direct Züge gezahlt werden.
 
-test
-
 {{% train-category
     id="ice"
     title="Intercity-Express (ICE)"
@@ -252,11 +250,11 @@ FIP 50 Tickets können nicht im Zug gekauft werden. [^1]
 
 {{< children-discount >}}
 
-| Alter | Ermäßigung |
-| --- | --- |
-| {{< icon "stroller" >}} 0–3 Jahre | Kostenlos |
+| Alter                                | Ermäßigung                                                                                 |
+| ------------------------------------ | ------------------------------------------------------------------------------------------ |
+| {{< icon "stroller" >}} 0–3 Jahre    | Kostenlos                                                                                  |
 | {{< icon "child_care" >}} 4–11 Jahre | [Railrunner-Ticket](https://www.ns.nl/en/tickets/railrunner) für 2,50 € (ganztägig gültig) |
-| {{< icon "person" >}} ab 12 Jahre | Regulärer Preis |
+| {{< icon "person" >}} ab 12 Jahre    | Regulärer Preis                                                                            |
 
 ### Kostenfreie Zeitkarte „Kids Vrij"
 
@@ -271,8 +269,8 @@ Dies ist kein Ticket, sondern ein Zugangspass, gültig für:
 
 - Bis zu 8 einzelne Tage innerhalb eines Zeitraums von 3 Monaten.
 - Pro Tag (von 00:00 bis 23:59):
-    - Bis zu 6 Ein- oder Ausgänge am selben Bahnhof.
-    - Insgesamt bis zu 12 Durchgänge pro Tag.
+  - Bis zu 6 Ein- oder Ausgänge am selben Bahnhof.
+  - Insgesamt bis zu 12 Durchgänge pro Tag.
 
 Falls benötigt, kann ein neuer Zugangscoupon am NS-Schalter angefordert werden.
 
