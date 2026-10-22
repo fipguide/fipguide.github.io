@@ -226,7 +226,7 @@ In the Geneva area, cross-border regional trains operate under the name Léman E
 
 In the SNCF timetable information, Léman Express connections are displayed as `LEX` + line number (L1, L2, etc.). In the SBB timetable information, the trains are sometimes displayed as `RL`, and occasionally as `TER`.
 
-Within France and within Switzerland, FIP discounts apply as usual. On cross-border journeys, FIP is only valid when travelling via the Annemasse border point. For all other cross-border journeys, regular fare tickets must be purchased. [^9]<sup>, </sup>[^10]
+Within France and within Switzerland, FIP discounts apply as usual. On cross-border journeys, FIP is only valid when travelling via the Annemasse border point. For cross-border journeys between La Plaine and Bellegarde (Gr), regular fare tickets must be purchased. [^9]<sup>, </sup>[^10]
 
 {{% /train-category %}}
 

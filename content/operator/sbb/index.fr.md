@@ -175,7 +175,7 @@ Dans la région genevoise, les trains régionaux transfrontaliers circulent sous
 
 Sur le site de la SNCF, les correspondances Léman Express sont indiquées par « LEX » suivi du numéro de ligne (L1, L2, etc.). Sur le site des CFF, les trains sont parfois indiqués par « RL » et occasionnellement par « TER ».
 
-En France comme en Suisse, les réductions FIP s’appliquent comme d’habitude. Sur les trajets transfrontaliers, la FIP n’est valable que pour les trajets passant par le point frontière d’Annemasse. Pour tous les autres trajets transfrontaliers, il est nécessaire d’acheter des billets au tarif normal. [^4]<sup>, </sup>[^5]
+En France comme en Suisse, les réductions FIP s’appliquent comme d’habitude. Sur les trajets transfrontaliers, la FIP n’est valable que pour les trajets passant par le point frontière d’Annemasse. Pour les trajets transfrontaliers entre La Plaine et Bellegarde (Gr), il est nécessaire d’acheter des billets au tarif normal. [^4]<sup>, </sup>[^5]
 
 {{% /train-category %}}
 

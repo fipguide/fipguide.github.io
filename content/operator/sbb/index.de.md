@@ -175,7 +175,7 @@ Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léma
 
 In der Fahrplanauskunft der SNCF werden Verbindungen des Léman Express als `LEX` + Liniennummer (L1, L2, usw.) angezeigt. In der Fahrplanauskunft der SBB werden die Züge manchmal als `RL` angezeigt, teilweise auch als `TER`.
 
-Innerhalb Frankreichs und innerhalb der Schweiz gelten FIP Vergünstigungen wie gewohnt. Auf grenzüberschreitenden Fahrten gilt FIP nur bei Fahrt über den Grenzpunkt Annemasse. Für alle anderen grenzüberschreitenden Fahrten müssen Normalpreistickets erworben werden. [^4]<sup>, </sup>[^5]
+Innerhalb Frankreichs und innerhalb der Schweiz gelten FIP Vergünstigungen wie gewohnt. Auf grenzüberschreitenden Fahrten gilt FIP nur bei Fahrt über den Grenzpunkt Annemasse. Für grenzüberschreitenden Fahrten zwischen La Plaine und Bellegarde (Gr) müssen Normalpreistickets erworben werden. [^4]<sup>, </sup>[^5]
 
 {{% /train-category %}}
 
