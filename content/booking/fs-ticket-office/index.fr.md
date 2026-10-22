@@ -12,7 +12,7 @@ params:
 
 ## Billets FIP 50
 
-Les Billets FIP 50 peuvent être achetés aux guichets Trenitalia. Une réduction de 50 % sur le tarif _TARIFFA REGIONALE_ est généralement appliquée. Pour les trains longue distance, le supplément supplément _Biglietti gratuiti FS_ (calculé selon le tarif _CAMBIO SERVIZIO_) est en outre requis.
+Les Billets FIP 50 peuvent être achetés aux guichets Trenitalia. Une réduction de 50 % sur le tarif _TARIFFA REGIONALE_ est généralement appliquée. Pour les trains longue distance, le supplément _Biglietti gratuiti FS_ (calculé selon le tarif _CAMBIO SERVIZIO_) est en outre requis.
 {{% /booking-section %}}
 
 {{% booking-section "reservations" %}}
