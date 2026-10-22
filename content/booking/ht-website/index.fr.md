@@ -22,42 +22,39 @@ Les billets pour le FIP 50 peuvent être réservés sur le site web et dans l'ap
 
 ## Processus de réservation site web
 
-{{% float-image
+{{< float-image
     src="step-1.webp"
     alt="Sélection de la langue"
     width="50%"
-    position="right"
-%}}
+    position="right" >}}
 **Étape 1**
 
 Changez la langue en anglais ou en italien si nécessaire.
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="step-2.webp"
     alt="Sélection de la correspondance"
     width="50%"
-    position="right"
-%}}
+    position="right" >}}
 **Étape 2**
 
 Sélectionnez une correspondance appropriée. Le prix du billet régulier est d’abord affiché.
 Les noms de gares doivent être saisis en anglais.
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="step-3.webp"
     alt="Sélection FIP CARD"
     width="50%"
-    position="right"
-%}}
+    position="right" >}}
 **Étape 3**
 
 À l’étape suivante, sélectionnez « FIP CARD » dans le champ « Offer » et saisissez le numéro de la Carte FIP.
 Le prix du billet régulier est alors réduit de 50 %.
 
 Pour les services nécessitant une réservation, une réservation est ajoutée gratuitement. Le siège peut optionnellement être choisi en sélectionnant l’option « Choose seat ».
-{{% /float-image %}}
+{{< /float-image >}}
 
 {{< highlight inofficial >}}
 Lors de l'achat d'un billet via l'application Hellenic Train, le message suivant peut s'afficher :

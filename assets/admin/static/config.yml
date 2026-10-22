@@ -748,7 +748,7 @@ collections:
         editor_components:
           - "image2"
           - "table"
-          - "highlight-raw"
+          - "highlight"
           - "expander"
           - "booking-section"
           - "button"

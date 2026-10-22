@@ -58,33 +58,30 @@ For international journeys using FIP Coupons, you must hold FIP Coupons for all 
 
 ### Select Discount Options
 
-{{% float-image
+{{< float-image
   src="mav-website-birthday.webp"
   alt="MÁV Date of Birth"
   width="50%"
-  position="right"
-%}}
+  position="right" >}}
 To add a discount option, on the connection search page under _Passengers and Discounts_, the passenger overview must be opened. Only after entering the date of birth can the discount be added with _Add Discounts_.
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
   src="mav-website-discounts.webp"
   alt="MÁV Discounts"
   width="50%"
-  position="right"
-%}}
+  position="right" >}}
 Here the discount option can now be selected and confirmed with OK.
-{{% /float-image %}}
+{{< /float-image >}}
 
 ### Book Reservations
 
-{{% float-image
+{{< float-image
   src="only-seat-reservation.webp"
   width="50%"
-  position="right"
-%}}
+  position="right" >}}
 The option "I only need seat reservation" can be found in the connection information. For FIP 50 Tickets, the reservation is automatically added and charged for trains requiring a reservation.
-{{% /float-image %}}
+{{< /float-image >}}
 
 {{< highlight "important" >}}
 
