@@ -23,10 +23,6 @@ repos:
       - id: check-xml
         exclude: "^layouts/.*rss\\.xml$"
       - id: check-yaml
-        exclude:
-          glob:
-            - "**/validity.yaml"
-            - "layouts/admin/section.cmsconfig.yml"
       - id: debug-statements
       - id: destroyed-symlinks
       - id: end-of-file-fixer
@@ -47,7 +43,8 @@ repos:
         name: prettier
         entry: prettier --write
         language: node
-        types_or: [javascript, scss, html, markdown]
+        types_or: [javascript, scss, html, markdown, yaml]
+        exclude: "^i18n/"
         additional_dependencies:
           - "prettier@3.6.2"
           - "prettier-plugin-go-template@0.0.6"

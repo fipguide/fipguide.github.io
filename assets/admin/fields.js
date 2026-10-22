@@ -8,17 +8,15 @@ function FipValiditySelectControl(props) {
   var groups = props.entry ? props.entry.getIn(["data", "groups"]) : null;
   groups = groups && typeof groups.toJS === "function" ? groups.toJS() : [];
   var groupType = props.field ? props.field.get("group_type") : null;
-  if (groupType) {
-    groups = groups.filter(function (group) {
-      return !group.type || group.type === groupType;
-    });
-  }
+
   var options = groups
     .filter(function (group) {
-      return !!group.name;
+      return (
+        !!group.id && (!groupType || !group.type || group.type === groupType)
+      );
     })
     .map(function (group) {
-      return { label: group.name, value: group.name };
+      return { label: group.id, value: group.id };
     });
 
   return h(SelectControl, {
