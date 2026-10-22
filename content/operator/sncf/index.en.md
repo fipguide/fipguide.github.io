@@ -226,7 +226,7 @@ In the Geneva area, cross-border regional trains operate under the name Léman E
 
 In the SNCF timetable information, Léman Express connections are displayed as `LEX` + line number (L1, L2, etc.). In the SBB timetable information, the trains are sometimes displayed as `RL`, and occasionally as `TER`.
 
-Within France and Switzerland, FIP discounts apply as usual. FIP discounts do not apply to cross-border journeys; instead, regular fare tickets must be purchased. [^9]
+Within France and within Switzerland, FIP discounts apply as usual. On cross-border journeys, FIP is only valid when travelling via the Annemasse border point. For all other cross-border journeys, regular fare tickets must be purchased. [^9]<sup>, </sup>[^10]
 
 {{% /train-category %}}
 
@@ -542,4 +542,6 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 
 [^8]: [DB – Was muss ich bei meiner Reise mit der SNCF beachten?](https://www.bahn.de/faq/internationale-reise-sncf-was-beachten)
 
-[^9]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
+[^9]: [Rail Delivery Group – Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
+
+[^10]: [FIP Guide Community – Léman Express](https://discord.com/channels/1250522473188032512/1441391294189408269/1452707469909561406)

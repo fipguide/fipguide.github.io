@@ -226,7 +226,7 @@ Dans la région genevoise, les trains régionaux transfrontaliers circulent sous
 
 Sur le site de la SNCF, les correspondances Léman Express sont indiquées par `LEX` suivi du numéro de ligne (L1, L2, etc.). Sur le site des CFF, les trains sont parfois indiqués par `RL`, et occasionnellement par `TER`.
 
-En France et en Suisse, les réductions FIP s'appliquent comme d'habitude. Les réductions FIP ne s'appliquent pas aux trajets transfrontaliers ; il est alors nécessaire d'acheter des billets au tarif normal. [^9]
+En France comme en Suisse, les réductions FIP s’appliquent comme d’habitude. Sur les trajets transfrontaliers, la FIP n’est valable que pour les trajets passant par le point frontière d’Annemasse. Pour tous les autres trajets transfrontaliers, il est nécessaire d’acheter des billets au tarif normal. [^9]<sup>, </sup>[^10]
 
 {{% /train-category %}}
 
@@ -541,4 +541,6 @@ La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent ac
 
 [^8]: [DB – Was muss ich bei meiner Reise mit der SNCF beachten?](https://www.bahn.de/faq/internationale-reise-sncf-was-beachten)
 
-[^9]: [Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
+[^9]: [Rail Delivery Group – Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
+
+[^10]: [FIP Guide Community – Léman Express](https://discord.com/channels/1250522473188032512/1441391294189408269/1452707469909561406)
