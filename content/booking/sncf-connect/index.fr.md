@@ -11,8 +11,6 @@ params:
   reservations: true
   booking_link: https://www.sncf-connect.com/fr-fr
   type: website
-aliases:
-  - sncf_website
 ---
 
 Les agents de la SNCF peuvent acheter en ligne, via SNCF Connect, des réservations et des Tarifs Globaux pour certaines liaisons.

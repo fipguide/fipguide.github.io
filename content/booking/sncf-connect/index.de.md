@@ -11,8 +11,6 @@ params:
   reservations: true
   booking_link: https://www.sncf-connect.com/de-de
   type: website
-aliases:
-  - sncf_website
 ---
 
 Mitarbeitende der SNCF können online über SNCF Connect Reservierungen und Globalpreise für ausgewählte Verbindungen kaufen.

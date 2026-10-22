@@ -11,8 +11,6 @@ params:
   reservations: true
   booking_link: https://www.sncf-connect.com/en-en
   type: website
-aliases:
-  - sncf_website
 ---
 
 SNCF employees can purchase reservations and Global Fares for selected connections online via SNCF Connect.
