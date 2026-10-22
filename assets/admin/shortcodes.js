@@ -162,6 +162,28 @@ function makeToBlock(name, cfg) {
   };
 }
 
+function registerDualBracketComponent(name, cfg) {
+  function register(id, bracket) {
+    CMS.registerEditorComponent({
+      id: id,
+      label: cfg.label,
+      icon: cfg.icon,
+      fields: cfg.fields,
+      pattern: shortcodePattern(name, bracket),
+      fromBlock: cfg.fromBlock,
+      toBlock: makeToBlock(
+        name,
+        Object.assign({ bracket: bracket }, cfg.toBlockOptions),
+      ),
+      toPreview: function () {
+        return "";
+      },
+    });
+  }
+  register(name, "%");
+  register(name + "-raw", "<");
+}
+
 // Matches `![prefix[linkText](linkHref)suffix](src "title")`, where the
 // nested `[linkText](linkHref)` link and the quoted title are both optional.
 var imagePattern =
@@ -253,42 +275,17 @@ var highlightFields = [
   },
 ];
 
-CMS.registerEditorComponent({
-  id: "highlight",
+registerDualBracketComponent("highlight", {
   label: "Highlight",
   icon: "stylus_highlighter",
   fields: highlightFields,
-  pattern: shortcodePattern("highlight", "%"),
   fromBlock: function (match) {
     return { type: match[1].trim(), body: match[2].trim() };
   },
-  toBlock: makeToBlock("highlight", {
+  toBlockOptions: {
     fields: highlightFields,
     bodyMode: "required",
     bodySeparator: "\n",
-  }),
-  toPreview: function () {
-    return "";
-  },
-});
-
-CMS.registerEditorComponent({
-  id: "highlight-raw",
-  label: "Highlight",
-  icon: "stylus_highlighter",
-  fields: highlightFields,
-  pattern: shortcodePattern("highlight", "<"),
-  fromBlock: function (match) {
-    return { type: match[1].trim(), body: match[2].trim() };
-  },
-  toBlock: makeToBlock("highlight", {
-    bracket: "<",
-    fields: highlightFields,
-    bodyMode: "required",
-    bodySeparator: "\n",
-  }),
-  toPreview: function () {
-    return "";
   },
 });
 
@@ -1108,12 +1105,10 @@ var floatImageFields = [
   },
 ];
 
-CMS.registerEditorComponent({
-  id: "float-image",
+registerDualBracketComponent("float-image", {
   label: "Float Image",
   icon: "format_image_left",
   fields: floatImageFields,
-  pattern: shortcodePattern("float-image"),
   fromBlock: function (match) {
     var p = parseHugoParams(match[1]);
     return {
@@ -1125,41 +1120,10 @@ CMS.registerEditorComponent({
       body: match[2].trim(),
     };
   },
-  toBlock: makeToBlock("float-image", {
+  toBlockOptions: {
     fields: floatImageFields,
     bodyMode: "optionalPaired",
     multiline: true,
-  }),
-  toPreview: function () {
-    return "";
-  },
-});
-
-CMS.registerEditorComponent({
-  id: "float-image-raw",
-  label: "Float Image",
-  icon: "format_image_left",
-  fields: floatImageFields,
-  pattern: shortcodePattern("float-image", "<"),
-  fromBlock: function (match) {
-    var p = parseHugoParams(match[1]);
-    return {
-      src: String(p.src || ""),
-      alt: String(p.alt || ""),
-      caption: String(p.caption || ""),
-      width: String(p.width || "50%"),
-      position: String(p.position || "right"),
-      body: match[2].trim(),
-    };
-  },
-  toBlock: makeToBlock("float-image", {
-    bracket: "<",
-    fields: floatImageFields,
-    bodyMode: "optionalPaired",
-    multiline: true,
-  }),
-  toPreview: function () {
-    return "";
   },
 });
 
