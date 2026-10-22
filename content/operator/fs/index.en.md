@@ -40,8 +40,7 @@ Reservations (with surcharges) are mandatory on long-distance trains.
     title="Frecciarossa (FR AV)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Highest Italian train category for long-distance high-speed trains. Frecciarossa 1000 is marked for higher speed and service.
@@ -63,8 +62,7 @@ A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available 
     title="Frecciargento (FA AV)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 High-speed tilting trains.
@@ -86,8 +84,7 @@ A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available 
     title="Frecciabianca (FB)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Fast trains outside high-speed lines.
@@ -105,8 +102,7 @@ A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available 
     title="FrecciaLink (FL)"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Connecting buses for high-speed trains.
@@ -120,8 +116,7 @@ Connecting buses for high-speed trains.
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Fast trains mostly outside high-speed lines.
@@ -137,8 +132,7 @@ A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available 
     title="InterCity Notte (ICN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 National night train with sleeper, couchette, and seat cars.
@@ -154,8 +148,7 @@ A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available 
     title="Eurocity (EC) / Railjet (RJ) / Railjet Xpress (RJX)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 International fast trains to Germany, Austria, and Switzerland.
@@ -178,8 +171,7 @@ The reservation price always includes a surcharge when using a FIP Coupon.
     title="Nightjet (NJ) / Euronight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 International night trains to Germany, Austria, and Switzerland.
@@ -203,8 +195,7 @@ The variable reservation price always includes a surcharge when using a FIP Coup
     title="Regionale Veloce (RV)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Fast regional trains stopping at main stations.
@@ -220,8 +211,7 @@ Tickets for regional trains may be train-bound. See [Train binding in regional t
     title="Regionale (R / REG)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regional trains stopping at most stations.
@@ -237,8 +227,7 @@ Tickets for regional trains may be train-bound. See [Train binding in regional t
     title="Metropolitano (M) / Servizio Ferroviario Metropolitano (sfm)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Suburban rail systems in Naples (`M`) and Turin (`sfm`).
@@ -254,8 +243,7 @@ Metro lines are sometimes also marked as `M` and cannot be used with FIP.
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Buses are excluded from FIP discounts. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.

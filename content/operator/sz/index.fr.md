@@ -37,8 +37,7 @@ Dans la recherche d’horaires en ligne de SŽ, les liaisons transfrontalières 
     title="InterCity Slovenia (ICS)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains nationaux grandes lignes exploités avec le type de train [SŽ 310 “Pendolino”](https://potniski.sz.si/en/train/emg-310-316-pendolino/). Ces trains utilisent la technologie pendulaire, offrent des temps de trajet plus courts et peu d’arrêts intermédiaires. En semaine, un petit bistrot propose également des snacks et des boissons. La ligne est principalement exploitée entre Ljubljana et Maribor.
@@ -54,8 +53,7 @@ Sur les trains `ICS`, une réservation et un supplément sont obligatoires. Le s
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Trains grandes lignes avec peu d’arrêts intermédiaires qui relient les grandes villes. Ils circulent généralement uniquement en Slovénie ; les trains internationaux vers Budapest via l’Autriche sont également parfois indiqués comme `IC` sur certains tronçons.
@@ -71,8 +69,7 @@ Aucune réservation n’est obligatoire, mais un supplément de 1,50 € s’app
     title="EuroCity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Trains internationaux relativement rapides qui relient la Slovénie à l’Autriche ou à la Croatie.
@@ -88,8 +85,7 @@ Aucune réservation n’est obligatoire, mais un supplément de 1,50 € s’app
     title="Mednarodni vlaki (MV)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Trains internationaux qui circulent entre la Slovénie et l’Autriche, la Hongrie ou la Croatie. Ils effectuent peu d’arrêts intermédiaires.
@@ -105,8 +101,7 @@ Aucune réservation n’est obligatoire, mais un supplément de 1,50 € s’app
     title="EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains de nuit internationaux vers la Croatie, l’Autriche et l’Allemagne. Les trains proposent des voitures-couchettes et des voitures-lits ainsi que des voitures assises, et sont exploités à l’étranger en coopération avec d’autres compagnies ferroviaires.
@@ -126,8 +121,7 @@ Pour les voyages entièrement en Slovénie, un supplément de 1,50 € s’appli
     title="Lokalni potniški vlaki (LP ou LPV)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains régionaux nationaux qui desservent généralement aussi les petites gares.
@@ -139,8 +133,7 @@ Trains régionaux nationaux qui desservent généralement aussi les petites gare
     title="Regionalni (RG)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains régionaux nationaux, similaires à [LP/LPV](#lpv).
@@ -152,8 +145,7 @@ Trains régionaux nationaux, similaires à [LP/LPV](#lpv).
     title="Maloobmejnia (MO)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains régionaux qui circulent en correspondance transfrontalière.
@@ -165,8 +157,7 @@ Trains régionaux qui circulent en correspondance transfrontalière.
     title="Avtovlak (AVT)"
     type="highspeed"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains automobiles qui traversent le plus long tunnel ferroviaire de Slovénie (tunnel de Bohinj). FIP n’est pas valable ici.
@@ -178,8 +169,7 @@ Trains automobiles qui traversent le plus long tunnel ferroviaire de Slovénie (
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Bus SŽ. FIP n’est pas valable, sauf s’il s’agit d’un service de remplacement ferroviaire.

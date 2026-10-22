@@ -41,8 +41,7 @@ Zuschläge müssen teilweise für Eurocity Direct und Intercity Direct Züge gez
     title="Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
     additional_information_url="https://www.nsinternational.com/en/trains/ice"
 %}}
 
@@ -65,8 +64,7 @@ Bei grenzüberschreitenden Reisen zur Hochsaison ist eine Reservierung erforderl
     title="Eurocity Direct (ECD)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
 
@@ -102,8 +100,7 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
     title="Eurocity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
 
@@ -118,8 +115,7 @@ Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten
     title="Intercity Direct (ICD)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.ns.nl/en/travel-information/special-routes/intercity-direct.html"
 %}}
 
@@ -142,8 +138,7 @@ Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak 
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten.
@@ -155,8 +150,7 @@ Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle
     title="Sneltrein (RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regionalzüge mit mehr Halten als beim Intercity, aber trotzdem nur an wichtigeren Stationen.
@@ -173,8 +167,7 @@ Eine Ausnahme gilt für den Dreiländerzug (Liège-Guillemins – Maastricht –
     title="Sprinter"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
@@ -186,8 +179,7 @@ Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
     title="R-net NS Sprinter"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regionalzüge mit rot-grauem R-net Branding auf der Strecke von von Alphen aan den Rijn nach Gouda.

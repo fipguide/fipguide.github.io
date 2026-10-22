@@ -36,8 +36,7 @@ Train categories are shown in BDŽ journey planners as described below. In other
     title="Cross-country International Train (IC-INT)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 International trains running between Bucharest in Romania and Sofia or Varna. These trains run directly only in the summer; otherwise, a change in Ruse is required. In other planners, they may also be shown as `IR`.
@@ -55,8 +54,7 @@ A seat reservation is mandatory in both classes.
     title="Intercity Fast Train (ICF)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 Relatively fast trains connecting major cities with few stops. They often use more modern rolling stock, e.g., former DB IC coaches. Overnight trains may include couchette or sleeper cars, which require a reservation.
@@ -72,8 +70,7 @@ A reservation is required for some trains (marked with _R_).
     title="Express train (EXP)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 National trains connecting cities with few stops.
@@ -89,8 +86,7 @@ A reservation is required for some trains (marked with _R_).
     title="Regional Train (REG)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Regional trains in domestic traffic, usually with many stops and not very fast. Only 2nd class coaches are available.
@@ -102,8 +98,7 @@ Regional trains in domestic traffic, usually with many stops and not very fast. 
     title="Suburban Commuter Train (SUB)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regional trains in domestic traffic stopping at most stations, often running more frequently than other trains.

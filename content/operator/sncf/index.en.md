@@ -50,8 +50,7 @@ At SNCF stations, the platform is usually announced 20 minutes before departure.
     title="Train à grande vitesse inOui (TGV inOui) / TGV Lyria"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
     route_overview_url="https://www.sncf-connect.com/assets/media/2021-05/2014_axes-tgv_0.pdf"
 %}}
 
@@ -83,8 +82,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
     title="OUIGO (Grande Vitesse / Train Classique)"
     type="highspeed"
     fip_accepted=false
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 OUIGO (Grande Vitesse) is SNCF's low-cost high-speed train connecting numerous cities in France and some international destinations. There are also OUIGO Classique trains composed of conventional coaching stock.
@@ -102,8 +100,7 @@ SNCF also operates `TGV` trains under the inOui brand, which are valid with FIP.
     title="Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 International high-speed trains operated by SNCF in cooperation with Deutsche Bahn, running between France (Paris Est, Strasbourg) and Germany (Karlsruhe, Mannheim, Frankfurt am Main, Erfurt, Halle (Saale) and Berlin or Stuttgart and Munich). In July and August, there are also [direct trains between Frankfurt (Main) and Bordeaux on Saturdays](https://www.bahn.de/angebot/urlaub/bahnreisen/summerrail/bordeaux).
@@ -131,8 +128,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
     title="Intercité (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 Intercity trains operated by SNCF, connecting various cities in France, mostly requiring reservations.
@@ -157,8 +153,7 @@ Prices differ between peak and off-peak trains for national journeys. The classi
     title="Intercité de nuit"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 SNCF night trains within France. International Nightjet connections ended in December 2025.
@@ -180,8 +175,7 @@ There is no distinction between peak and off-peak trains for Intercité de nuit.
     title="Train express régional (TER)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 `TER` is SNCF's regional train, connecting various cities in France.
@@ -200,8 +194,7 @@ On the Marseille – Nice route, Transdev operates the trains, so FIP is not acc
     title="Réseau Express Régional (RER)"
     type="regional"
     fip_accepted=partially
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 RER is a suburban train operated by SNCF in Île de France (Greater Paris) and surrounding cities.
@@ -217,8 +210,7 @@ FIP is only valid on certain RER lines, see [Trains in Greater Paris](#trains-in
     title="Bus"
     type="bus"
     fip_accepted=partially
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP discounts also apply on buses operated by SNCF, except for long-distance buses (e.g. BlaBlaCar Bus). On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid. [^1]
@@ -346,8 +338,7 @@ This reservation requirement applies to the following lines:
     title="TGV/ICE trains to Germany"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 International `TGV` and `ICE` trains are reservation-required in the French section. In Germany, reservations are not required and FIP Coupons are valid.
@@ -371,8 +362,7 @@ Some `TGV` trains run from Paris to Freiburg and are operated entirely by SNCF, 
     title="TGV trains to Italy, Spain, and Belgium"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 International `TGV` services from France to Italy, Spain, or Belgium are reservation-required throughout and FIP Coupons are not valid. Instead, FIP Global Fares can be purchased, which can be expensive (up to €130).
@@ -384,8 +374,7 @@ International `TGV` services from France to Italy, Spain, or Belgium are reserva
     title="TGV trains to Luxembourg"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Cross-border `TGV` connections from France to Luxembourg require reservations for the entire journey, and FIP Coupons are not valid. Instead, FIP Global Fares can be purchased.
@@ -404,8 +393,7 @@ Prices as of 2026: [^4]
     title="TGV Lyria trains to Switzerland"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 International `TGV` Lyria services from France to Switzerland are reservation-required in the French section and FIP Coupons are not valid. FIP Global Fares can be purchased. In Switzerland, reservations are not required and FIP Coupons are valid.
@@ -423,8 +411,6 @@ RATP operates the Paris Métro, bus lines, and part of the RER network. SNCF ope
     title="RER trains"
     type="regional"
     fip_accepted=partially
-    reservation_required=false
-    reservation_possible=nil
 %}}
 
 Some RER lines are operated by SNCF. FIP discounts apply on the following sections:
@@ -446,8 +432,6 @@ Access to some stations is restricted by ticket barriers. When using FIP Coupons
     title="Transilien trains"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=nil
 %}}
 
 FIP discounts apply on all Transilien lines H, J, K, L, N, P, R, U, and V.
@@ -461,8 +445,6 @@ Access to some stations is restricted by ticket barriers. When using FIP Coupons
     title="Trams"
     type="tram"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=nil
 %}}
 
 FIP discounts do not apply on trams in Greater Paris.[^3]

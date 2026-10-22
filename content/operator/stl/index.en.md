@@ -35,8 +35,7 @@ The ferry connections on the Irish Sea are operated as a separate FIP operator, 
     title="Ferry (Day Service)"
     type="ship"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 One ferry operates in each direction:
@@ -62,8 +61,7 @@ A cabin can be booked as an optional extra.
     title="Ferry (Night Service)"
     type="ship"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 One ferry operates in each direction:

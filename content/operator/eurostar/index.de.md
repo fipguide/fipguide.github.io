@@ -46,8 +46,7 @@ Alle Züge sind reservierungspflichtig und ein zuggebundenes Ticket muss vor Abf
     title="Eurostar (Blue): London – Paris / Brüssel / Amsterdam"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Hochgeschwindigkeitszug zwischen Großbritannien und Europa.
@@ -66,8 +65,7 @@ Hochgeschwindigkeitszug zwischen Großbritannien und Europa.
     title="Eurostar (Red): Paris – Amsterdam / Brüssel / Köln / Dortmund"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Niederlanden.
@@ -87,8 +85,7 @@ Hochgeschwindigkeitszug zwischen Belgien, Deutschland, Frankreich und den Nieder
     title="Eurostar Snow: Amsterdam / Brüssel – Französische Alpen"
     type="highspeed"
     fip_accepted=false
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Hochgeschwindigkeitszug von Amsterdam und Brüssel in die Französischen Alpen.

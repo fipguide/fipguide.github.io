@@ -50,8 +50,7 @@ Polish long-distance trains are partially reservation-required. The reservation 
     title="Express Intercity Premium (EIP)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 High-speed trains with tilting technology (Pendolino), operated by PKP Intercity and mainly running between Gdynia/Gdańsk and Kraków/Katowice via Warsaw, but also occasionally found on other routes.
@@ -72,8 +71,7 @@ For reservations not sold at the corresponding price by PKP, payment of a surcha
     title="Express InterCity (EIC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Comfortable trains with modernized passenger cars, operated by PKP Intercity and stopping only in the most important cities. Cross-border EICs are also designated as EC in other countries. [^3]
@@ -90,8 +88,7 @@ Some trains require reservations. The reservation requirement can be checked in 
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Express trains with passenger cars or modern multiple units, operated by PKP Intercity and stopping only at important stations. [^4]
@@ -109,8 +106,7 @@ Some trains require reservations. The reservation requirement can be checked in 
     title="IC Nieśpieszny (ICN)"
     type="highspeed"
     fip_accepted=false
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 The IC Nieśpieszny is a retro-style experience train operated by PKP Intercity, with a focus on consciously relaxed and slow travel in historic restored coaches.
@@ -128,8 +124,7 @@ Reservation is required.
     title="Twoje Linie Kolejowe (TLK)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Interregional trains operated by PKP Intercity, characterized by particularly affordable ticket prices with basic comfort features. [^5]
@@ -147,8 +142,7 @@ Some trains require reservations. The reservation requirement can be checked in 
     title="EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 International night train connections operated by PKP Intercity, running from or to Germany, Czech Republic, Austria, Hungary and Ukraine.
@@ -174,8 +168,7 @@ Different prices for international connections. [More information](https://www.i
     title="Regio (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regional train connections stopping at most stations, operated by Polregio. These trains do not have 1st class.
@@ -191,8 +184,7 @@ Regional trains in Poland are sometimes also operated by railway companies other
     title="InterRegio (IR)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Direct trains between Łódź and Warsaw, operated by Polregio and in a higher fare class than regular Regio trains.
@@ -204,8 +196,7 @@ Direct trains between Łódź and Warsaw, operated by Polregio and in a higher f
     title="superREGIO (sR)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Interregional trains operated by Polregio and equipped with higher comfort than normal regional trains.
@@ -217,8 +208,7 @@ Interregional trains operated by Polregio and equipped with higher comfort than 
     title="Warsaw Modlin Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP Tickets are not valid on KM buses between Modlin and Warsaw Modlin Airport.

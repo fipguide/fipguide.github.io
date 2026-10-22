@@ -29,8 +29,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SV gültig. Be
     title="Inter City (COKO)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
     additional_information_url="https://srbijavoz.rs/brzi-vozovi/"
 %}}
 
@@ -48,8 +47,7 @@ Auf der Strecke sind Reservierungen verpflichtend.
     title="Brzi Voz"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Die Zugkategorie "Brzi Voz" entspricht klassischen Schnellzügen, sie verkehren bei der SV ausschließlich Richtung Montenegro.
@@ -75,8 +73,7 @@ Reservierungen können [via Telefon](#telefon) vorgenommen werden.
     title="Inter Regio Voz (IR)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Schnellzüge mit Halten an den wichtigsten Bahnhöfen. Teilweise werden die Züge nur mit Wagen der 2. Klasse betrieben.
@@ -92,8 +89,7 @@ Auf einigen Verbindungen sind Reservierungen verpflichtend, auf anderen Verbindu
     title="Regio Expres (REx)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Züge der Kategorie Regio Expres (REx) bieten wie die Züge der Kategorie `IR` nur Verkehrshalte in den wichtigsten Städten.
@@ -109,8 +105,7 @@ Auf einigen Verbindungen sind Reservierungen verpflichtend, auf anderen Verbindu
     title="Regio Voz (Re)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Züge der Kategorie Regio Voz (Re) verbinden kleinere Ortschaften mit den Ballungszentren. Diese Züge halten an vielen Bahnhöfen und verkehren in der Regel mit älterem Fahrzeugmaterial. Teilweise werden die Züge nur mit Wagen der 2. Klasse betrieben.
@@ -126,8 +121,7 @@ Auf einigen Verbindungen sind Reservierungen verpflichtend, auf anderen Verbindu
     title="BG:VOZ"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Als BG:VOZ betreibt die SV im Ballungsraum Belgrad zwei Linien ähnlich zu einer S-Bahn.
@@ -139,8 +133,6 @@ Als BG:VOZ betreibt die SV im Ballungsraum Belgrad zwei Linien ähnlich zu einer
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=nil
 %}}
 
 FIP Fahrkarten gelten nicht auf von der SV betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.[^4]
