@@ -3,7 +3,7 @@
   {{ errorf "unable to fetch count.js: %s" . }}
 {{ else with $try.Value }}
   <script>
-    if (window.location.host !== "fipguide.org")
+    if (window.location.host !== "www.fipguide.org")
       window.goatcounter = { no_onload: true };
   </script>
   {{ with . | fingerprint }}
