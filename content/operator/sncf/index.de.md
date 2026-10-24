@@ -292,6 +292,8 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="sncf-ticket-office" /%}}
 
+{{% booking id="sncf-nomad-ticket-machine" /%}}
+
 {{% booking id="zou-ticket-office" /%}}
 
 {{% booking id="transilien-ticket-office"
@@ -356,6 +358,8 @@ Diese Reservierungspflicht gilt auf folgenden Linien:
 
 - Paris – Argentan – Granville
 - Paris – Dieppe
+
+Für diese Züge können Reservierungen vor Ort an den [SNCF Nomad Ticketautomaten](#sncf-nomad-ticket-machine) erworben werden.
 
 #### TER Grand Est
 
