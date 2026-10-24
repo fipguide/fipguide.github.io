@@ -198,6 +198,33 @@ Der variable Reservierungspreis enthält immer einen Aufschlag bei Nutzung mit F
 
 {{% /train-category %}}
 
+{{% train-category
+    id="ece"
+    title="Eurocity-Express (ECE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Internationale Schnellzüge der höchsten Kategorie auf der Strecke zwischen Frankfurt, Karlsruhe, Zürich und Mailand.
+Die Züge werden von der SBB in Kooperation mit der DB und Trenitalia betrieben.
+
+{{< highlight important >}}
+Bis zur italienischen Grenze sind die Züge aufschlags- und reservierungspflichtig. Günstiger ist die Fahrt Richtung Schweiz mit Umstieg in Chiasso ([siehe Anreise Schweiz](/country/switzerland#italien "Anreise Schweiz")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
+
+**Aufschlag/Reservierung:**
+
+- 1\. Klasse: 13 €
+- 2\. Klasse: 11 €
+  {{< /highlight >}}
+
+#### Reservierungen
+
+Reservierungspflicht innerhalb Italiens und bei grenzüberschreitenden Fahrten in die Schweiz.
+
+{{% /train-category %}}
+
 ### Nahverkehr
 
 {{% train-category
