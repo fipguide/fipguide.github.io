@@ -88,7 +88,7 @@ Example tickets without supplement required:
 - Brussels - Rotterdam
 - Breda - Rotterdam
 
-The supplement can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of € 1.50 is charged for a single-use ticket.
+The supplement can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or on site at ticket machines/counters. On site, the supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of € 1.50 is charged for a single-use ticket.
 
 Holders of an OV-chipkaart can buy a discounted supplement for € 1.92 (40 % discount) at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
 {{< /highlight >}}
@@ -126,11 +126,18 @@ International train between Rotterdam and Brussels with several intermediate sto
 Partly supplement-required fast train between Lelystad or Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal, and Breda.
 
 {{< highlight important >}}
+{{% float-image
+    src="toeslag-supplement.webp"
+    alt="Supplement machine at Schiphol Airport"
+    width="30%"
+    position="right"
+%}}
 For journeys on the section between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of € 3.20 must be paid for FIP 50 Tickets.
 
 The supplement can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of € 1.50 is charged for a single-use ticket.
 
-Holders of an OV-chipkaart can buy a discounted supplement for € 1.92 (40 % discount) at the supplement counter in the station during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
+Holders of an OV-chipkaart, debit, or credit card [^7] can buy a discounted supplement for € 1.92 (40 % discount) at red supplement machines labelled "Toeslag / Zuschlag" in the station (see image on the right) during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
+{{% /float-image %}}
 {{< /highlight >}}
 
 ![Intercity Direct Network, Spag85, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg)](intercity-direct-map.webp)
@@ -299,3 +306,5 @@ NS impresses with a dense schedule and good connections. Delays and cancellation
 [^5]: [FIP Guide Community: NS Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470489435937312788)
 
 [^6]: [FIP Guide Community: R-net NS Sprinter](https://discord.com/channels/1250522473188032512/1518627741459677204/1519419404272668733)
+
+[^7]: [NS Website: Check in and out with your debit card](https://www.ns.nl/en/travel/check-in-check-out/debit-card)
