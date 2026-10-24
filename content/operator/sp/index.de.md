@@ -236,13 +236,14 @@ Auf folgenden Abschnitten gelten FIP Freifahrtscheine und FIP 50 Tickets uneinge
 - BLM: Lauterbrunnen nach Grütschalp (Seilbahn)
 - BLM: Grütschalp nach Murren (Zug)
 - JB: Eiger Express Seilbahn von Grindelwald nach Eigergletscher
+- JB: Jungfraubahn auf dem Abschnitt Kleine Scheidegg – Eigergletscher (Zug) [^5]
 
 Auf folgenden Abschnitten gelten keine FIP Freifahrtscheine, jedoch FIP 50 Tickets:
 
 - BGF: Grindelwald – First (Gondel)
 - BOB: Wilderswil – Schynige Platte (Zug)
 - HB: Interlaken – Harder Kulm (Standseilbahn)
-- JB: Kleine Scheidegg – Jungfraujoch (Zug)
+- JB: Jungfraubahn auf dem Abschnitt Eigergletscher – Jungfraujoch (Zug)
 
 Auf folgenden Routen werden keine FIP Vergünstigungen gewährt:
 
@@ -1005,3 +1006,5 @@ Bei Fahrt mit einem Freifahrtschein ist es empfehlenswert, falls möglich auch d
 [^3]: [Brienz-Rothorn-Bahn](https://brienz-rothorn-bahn.ch/fragen-und-antworten)
 
 [^4]: [SBB – Fahrkarten und Abonnemente für Kinder und Jugendliche](https://www.sbb.ch/en/travel-information/individual-needs/travelling-with-children/tickets-travelcards.html)
+
+[^5]: [Feedback via Email](https://github.com/fipguide/fipguide.github.io/issues/1275)
