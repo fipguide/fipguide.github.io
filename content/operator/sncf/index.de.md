@@ -308,11 +308,6 @@ Nationale Verbindungen können online leider nicht erworben werden.
     classes.second="2 € / 11 €"
 /%}}
 
-{{% booking id="sbb-ticket-office"
-    classes.first="2 € / 16 €"
-    classes.second="2 € / 11 €"
-/%}}
-
 {{% booking id="sncb-ticket-office"
     classes.first="2 € / 16 €"
     classes.second="2 € / 11 €"
@@ -324,9 +319,9 @@ Nationale Verbindungen können online leider nicht erworben werden.
 /%}}
 
 {{% booking id="sbb-ticket-office"
-    subtitle="Nur für SBB und SNCF Mitarbeitende"
     classes.first="2 € / 16 €"
     classes.second="2 € / 11 €"
+    subtitle="Buchung nur für Mitarbeitende der SBB und SNCF möglich"
 /%}}
 
 {{% booking id="db-ticket-office"

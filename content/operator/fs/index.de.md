@@ -338,7 +338,7 @@ InterCity Notte (ICN): 25 € (1./2. Klasse, Sitzwagen)
 
 {{% booking id="sbb-ticket-office"
     subtitle="Nur für SBB Mitarbeitende und nicht für alle Verbindungen verfügbar"
-    reservations=nil
+    classes=nil
 /%}}
 
 ### Im Zug
