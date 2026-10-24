@@ -191,6 +191,21 @@ Certains services Nightjet sont assurés par des voitures [Intercity](#ic). Ces 
 
 {{% /train-category %}}
 
+{{% train-category
+    id="ferry"
+    title="Ferry Wangerooge – Harlesiel"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+DB Fernverkehr exploite la liaison par ferry entre Wangerooge et Harlesiel en mer du Nord. Les billets FIP 50 et les Coupons FIP sont acceptés pour la traversée.
+
+Seuls les billets du trafic longue distance sont valables, et non les billets du trafic local comme le _Deutschlandticket_. Cela ne doit pas être pris en compte lors de l’achat de billets FIP 50 pour ce trajet, car ils sont dans ce cas toujours émis comme billets longue distance. Plus d’informations dans la section [Distinction tarifaire entre trains longue distance et trains locaux](#distinction-tarifaire-entre-trains-longue-distance-et-trains-locaux).
+
+{{% /train-category %}}
+
 ### Trafic local
 
 Les trains du trafic local sont souvent exploités par d’autres opérateurs qui n’acceptent pas le FIP. Dans la [recherche d’itinéraire de la DB](https://www.bahn.de), tous les opérateurs sont indiqués. Seuls les trains avec _DB_ dans le nom de l’opérateur dans les _informations de trajet_ peuvent être utilisés avec FIP.
@@ -318,6 +333,12 @@ Les Billets FIP 50 sont considérés comme _Flexpreis_ et peuvent donc être ann
     subtitle="Billets FIP 50 nationaux et transfrontaliers pour tout le trajet (non valables dans le pays d’émission de la Carte FIP)."
 /%}}
 
+{{% booking id="sncf-connect"
+    subtitle="Réservé aux agents de la SNCF et uniquement pour les liaisons TGV transfrontalières"
+    reservations=false
+    fip_75=nil
+/%}}
+
 ### Par téléphone
 
 {{% booking id="oebb-phone"
@@ -325,7 +346,7 @@ Les Billets FIP 50 sont considérés comme _Flexpreis_ et peuvent donc être ann
     classes.first="6,90 €"
     classes.second="5,50 €"
 %}}
-Les réservations pour les trajets intérieurs allemands coûtent 5,50 € (2e classe) ou 6,90 € (1re classe). Les connexions transfrontalières coûtent 3 €.
+Les réservations pour les trajets intérieurs allemands coûtent 5,50 € (2e classe) ou 6,90 € (1re classe). Les connexions transfrontalières coûtent 3,50 €.
 {{% highlight inofficial %}}
 Actuellement, aucun Billet FIP 50 pour les trajets domestiques en Allemagne ne peut être vendu via la hotline ÖBB. Cependant, les réservations transfrontalières de Billets FIP 50 restent possibles (voir [Retours de la communauté Discord FIP sur la hotline ÖBB](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
 {{% /highlight %}}

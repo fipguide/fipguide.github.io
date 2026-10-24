@@ -132,6 +132,13 @@ Das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets ist über die Euro
     fip_75=nil
 /%}}
 
+{{% booking id="sncf-connect"
+    subtitle="Nur für SNCF Mitarbeitende"
+    reservations=nil
+    fip_50=nil
+    fip_75=nil
+/%}}
+
 ### Telefon
 
 {{% booking id="eurostar-phone"
