@@ -296,6 +296,12 @@ Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
 
+{{% booking id="sbb-ticket-office"
+    classes.first="4 CHF"
+    classes.second="4 CHF"
+    subtitle="Buchung von FIP 50 Tickets nur für Mitarbeitende der SBB und ÖBB möglich"
+/%}}
+
 {{% booking id="sz-ticket-office"
     subtitle="Für grenzüberschreitende Züge zwischen Slowenien und Österreich"
 /%}}

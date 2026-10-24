@@ -200,6 +200,12 @@ Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="db-ticket-office" /%}}
 
+{{% booking id="sbb-ticket-office"
+    classes.first="6 CHF"
+    classes.second="6 CHF"
+    subtitle="Booking of FIP 50 Tickets only possible for SBB and SNCF employees"
+/%}}
+
 ### On the Train
 
 {{% highlight important %}}
