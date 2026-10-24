@@ -46,15 +46,15 @@ Reservations (with surcharges) are mandatory on long-distance trains.
 
 Highest Italian train category for long-distance high-speed trains. Frecciarossa 1000 is marked for higher speed and service.
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Trains of the private operator Italo are also marked as AV but cannot be used with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
 #### Reservations
 
-A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available on-site at Trenitalia ticket offices.
+When used with a FIP Coupon, these trains require a supplement. The supplement to be purchased is called _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) and is only available on-site at Trenitalia ticket offices, [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase).
 
 {{% /train-category %}}
 
@@ -69,15 +69,15 @@ A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available 
 
 High-speed tilting trains.
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Trains of the private operator Italo are also marked as AV but cannot be used with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
 #### Reservations
 
-A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available on-site at Trenitalia ticket offices.
+When used with a FIP Coupon, these trains require a supplement. The supplement to be purchased is called _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) and is only available on-site at Trenitalia ticket offices, [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase).
 
 {{% /train-category %}}
 
@@ -96,7 +96,7 @@ Prices [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase)
 
 #### Reservations
 
-A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available on-site at Trenitalia ticket offices.
+When used with a FIP Coupon, these trains require a supplement. The supplement to be purchased is called _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) and is only available on-site at Trenitalia ticket offices, [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase).
 
 {{% /train-category %}}
 
@@ -126,9 +126,9 @@ Connecting buses for high-speed trains.
 
 Fast trains mostly outside high-speed lines.
 
-#### Reservierungen
+#### Reservations
 
-A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available on-site at Trenitalia ticket offices.
+When used with a FIP Coupon, these trains require a supplement. The supplement to be purchased is called _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) and is only available on-site at Trenitalia ticket offices, [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase).
 
 {{% /train-category %}}
 
@@ -143,7 +143,9 @@ A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available 
 
 National night train with sleeper, couchette, and seat cars.
 
-A _CAMBIO SERVIZIO_ supplement is required when using FIP. It is only available on-site at Trenitalia ticket offices. For couchette or sleeper, an additional supplement applies.
+#### Reservations
+
+When used with a FIP Coupon, these trains require a supplement. The supplement to be purchased is called _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) and is only available on-site at Trenitalia ticket offices, [see Ticket and Reservation Purchase](#ticket-and-reservation-purchase).
 
 {{% /train-category %}}
 
@@ -243,9 +245,9 @@ Tickets for regional trains may be train-bound. See [Train binding in regional t
 
 Suburban rail systems in Naples (`M`) and Turin (`sfm`).
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Metro lines are sometimes also marked as `M` and cannot be used with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -272,6 +274,19 @@ Le Frecce long-distance trains have special class categories. [^1]
 **Executive**: Luxury class with private compartment for 10 people and meeting room. Not bookable with FIP.
 
 ## Ticket and Reservation Purchase
+
+When using long-distance trains with a FIP Coupon, a _Biglietti gratuiti FS_ supplement (calculated by the tariff _CAMBIO SERVIZIO_) must be purchased.
+
+For FIP 50 Tickets, the price is likewise made up of the supplement and a 50% discount on the regional train fare. With Trenitalia, _CAMBIO SERVIZIO_ is usually calculated based on the difference between the long-distance and the regional train fare. [^4]
+
+| Train category        | FIP 50                                  | FIP Coupon             | FIP duty travel           |
+| --------------------- | --------------------------------------- | ---------------------- | ------------------------- |
+| `FR AV` Frecciarossa  | 50% Tariffa Regionale + Combio Servizio | Combio Servizio        | Diritto Ammissione (€ 25) |
+| `FA AV` Frecciargento | 50% Tariffa Regionale + Combio Servizio | Combio Servizio        | Diritto Ammissione (€ 25) |
+| `FB` Frecciabianca    | 50% Tariffa Regionale + Combio Servizio | Combio Servizio        | Diritto Ammissione (€ 20) |
+| `IC` InterCity        | 50% Tariffa Regionale + Combio Servizio | Combio Servizio        | Diritto Ammissione (€ 3)  |
+| `ICN` InterCity Notte | 50% Tariffa Regionale + Combio Servizio | Combio Servizio        | Combio Servizio Notte     |
+| Regional              | 50% Tariffa Regionale                   | No supplement required | No supplement required    |
 
 ### Online
 
@@ -461,3 +476,5 @@ For long-distance travel, the FIP Coupon is only worthwhile to a limited extent,
 [^2]: [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1473286775702290556)
 
 [^3]: [Trenitalia – Children's Discount](https://www.trenitalia.com/en/offers/children-s-discount.html)
+
+[^4]: [FIP Guide Community – Trenitalia Ticket Table](https://discord.com/channels/1250522473188032512/1503438273937412256/1514223273603235870)

@@ -1,0 +1,25 @@
+{{ $try := try (resources.GetRemote "https://gc.zgo.at/count.js") }}
+{{ with $try.Err }}
+  {{ errorf "unable to fetch count.js: %s" . }}
+{{ else with $try.Value }}
+  <script>
+    if (
+      window.location.host !== "www.fipguide.org" ||
+      navigator.globalPrivacyControl ||
+      navigator.doNotTrack === "1"
+    )
+      window.goatcounter = { no_onload: true };
+    window.addEventListener("hashchange", () => {
+      if (location.hash === "#toggle-goatcounter") location.reload();
+    });
+  </script>
+  {{ with . | fingerprint }}
+    <script
+      data-goatcounter="https://fipguide.goatcounter.com/count"
+      async
+      src="{{ .RelPermalink }}"
+      integrity="{{ .Data.Integrity }}"
+      onload="if (location.hash === '#toggle-goatcounter') history.replaceState(null, '', location.pathname + location.search)"
+    ></script>
+  {{ end }}
+{{ end }}

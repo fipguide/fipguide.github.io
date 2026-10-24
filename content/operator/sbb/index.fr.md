@@ -2,6 +2,7 @@
 title: SBB CFF FFS
 country:
   - switzerland
+operator: sbb
 content_images:
   - image.webp
 aliases:
@@ -162,6 +163,24 @@ Trains s’arrêtant à toutes les gares. Dans les agglomérations, ils sont aus
 {{% /train-category %}}
 
 {{% train-category
+    id="lex"
+    title="Léman-Express (RL)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.lemanexpress.com/les-7-lignes-lex/"
+%}}
+
+Dans la région genevoise, les trains régionaux transfrontaliers circulent sous le nom de Léman Express et sont exploités par les CFF et la SNCF.
+
+Sur le site de la SNCF, les correspondances Léman Express sont indiquées par « LEX » suivi du numéro de ligne (L1, L2, etc.). Sur le site des CFF, les trains sont parfois indiqués par « RL » et occasionnellement par « TER ».
+
+En France comme en Suisse, les réductions FIP s’appliquent comme d’habitude. Sur les trajets transfrontaliers, la FIP n’est valable que pour les trajets passant par le point frontière d’Annemasse. Pour les trajets transfrontaliers entre La Plaine et Bellegarde (Gr), il est nécessaire d’acheter des billets au tarif normal. [^4]<sup>, </sup>[^5]
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"
@@ -290,3 +309,7 @@ Le Coupon FIP est particulièrement avantageux en Suisse : large réseau, peu de
 [^2]: [Communauté FIP Guide — Commentaires](https://discord.com/channels/1250522473188032512/1448243039398264893)
 
 [^3]: [SBB – Billets et abonnements pour les enfants et les jeunes](https://www.sbb.ch/en/travel-information/individual-needs/travelling-with-children/tickets-travelcards.html)
+
+[^4]: [Rail Delivery Group – Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
+
+[^5]: [FIP Guide Community – Léman Express](https://discord.com/channels/1250522473188032512/1441391294189408269/1452707469909561406)

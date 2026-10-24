@@ -64,9 +64,9 @@ In the past, there was a reservation requirement for cross-border journeys in su
 
 Cross-border high-speed trains of SNCF in cooperation with DB. These run from Frankfurt, Mannheim, Karlsruhe, Saarbrücken, Stuttgart, and Munich to Paris.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Some `TGV` trains run from Paris to Freiburg and are operated entirely by SNCF, including within Germany. Only SNCF is listed as the operator for these trains, see [Identify train operators and search connections](#fip-information). On these trains, DB Coupons and national travel concessions for DB employees are not valid in Germany. Instead, SNCF FIP Global Fare tickets can be purchased.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Reservations
 
@@ -191,6 +191,21 @@ Some Nightjet services operate with [Intercity](#ic) coaches. These coaches may 
 
 {{% /train-category %}}
 
+{{% train-category
+    id="ferry"
+    title="Ferry Wangerooge – Harlesiel"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+DB Fernverkehr operates the ferry connection between Wangerooge and Harlesiel in the North Sea. FIP 50 Tickets and FIP Coupons are accepted for the crossing.
+
+Only long-distance tickets are valid, not local transport tickets such as the _Deutschlandticket_. This does not need to be considered when purchasing FIP 50 Tickets for this route, as they are always issued as long-distance tickets in this case. Further information in the section [Tariff Distinction between Local and Long-Distance Transport](#tariff-distinction-between-local-and-long-distance-transport).
+
+{{% /train-category %}}
+
 ### Local Transport
 
 Local trains are often operated by other companies that do not accept FIP. In the [DB journey planner](https://www.bahn.de), trains of all operators are listed. Only trains with _DB_ in the operator name in the _journey information_ can be used with FIP.
@@ -210,9 +225,9 @@ Local trains are often operated by other companies that do not accept FIP. In th
 
 Regional express trains connect towns and cities with stops at the main stations. Sometimes the trains also run long-distance routes.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Trains of the `RE` category are often operated by other companies.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -227,9 +242,9 @@ Trains of the `RE` category are often operated by other companies.
 
 Regional trains connect towns and cities with stops at almost all stations.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Trains of the `RB` category are often operated by other companies.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -244,9 +259,9 @@ Trains of the `RB` category are often operated by other companies.
 
 Local trains in large cities and metropolitan regions with stops at all stations.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Trains of the `S` category are often operated by other companies.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -318,6 +333,12 @@ FIP 50 Tickets are considered _Flexpreis_ tickets and can therefore be cancelled
     subtitle="Domestic and cross-border FIP 50 Tickets for the entire route (not valid in the country of issue of the FIP Card)."
 /%}}
 
+{{% booking id="sncf-connect"
+    subtitle="Only for SNCF employees and only for cross-border TGV connections"
+    reservations=false
+    fip_75=nil
+/%}}
+
 ### Telephone
 
 {{% booking id="oebb-phone"
@@ -325,7 +346,7 @@ FIP 50 Tickets are considered _Flexpreis_ tickets and can therefore be cancelled
     classes.first="€ 6,90"
     classes.second="€ 5,50"
 %}}
-Reservations for domestic German connections cost € 5.50 (2nd class) or € 6.90 (1st class). Cross-border connections cost € 3.
+Reservations for domestic German connections cost € 5.50 (2nd class) or € 6.90 (1st class). Cross-border connections cost € 3,50.
 {{% highlight inofficial %}}
 Currently, no FIP 50 Tickets for domestic travel within Germany can be sold via the ÖBB hotline. However, cross-border bookings of FIP 50 Tickets are still possible (see [Discord FIP Community ÖBB Hotline Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
 {{% /highlight %}}
@@ -379,7 +400,7 @@ A [map](https://www.nvv.de/fileadmin/nvv/data/2._Fahrtinfo/4._Liniennetz/Linienn
 
 ### DB Regio Bayern
 
-The trains of DB Regio Bayern between Nürnberg Hbf and Regensburg Hbf are operated on behalf of the railway operator agilis. Therefore, no FIP discounts are recognized on this section. [^2]
+The trains of DB Regio Bayern between Nürnberg Hbf and Regensburg Hbf are operated on behalf of the railway operator agilis. Therefore, no FIP discounts are recognized on this section. On other lines of DB Regio Bayern, FIP applies. [^2]
 
 ### Journeys in Transport Associations
 
@@ -401,6 +422,14 @@ In the following example, the selected connection is within the transport associ
 ![Ticket selection VRS](ticket_vrs.en.webp)
 
 {{% /expander %}}
+
+#### Cross-Association Tariffs
+
+In some federal states, several transport associations cooperate to jointly offer uniform tickets for local transport. FIP 50 Tickets are generally not issued within these cross-association tariffs. The following federal states have transport-association-spanning tariffs:
+
+- **Baden-Württemberg**: _bwtarif_ [Open overview](https://assets.static-bahn.de/dam/jcr:45aead8a-90e4-4856-966f-1eaf38c04f0a/bwegt_Karte_bwtarif_07-01-2025_barrierefrei.2025-08-01-13-22-45.pdf)
+- **Niedersachsen**: _Niedersachsen-Tarif_ [Open overview](https://www.niedersachsentarif.de/fahrkarten/niedersachsen-ticket/)
+- **Nordrhein-Westfalen**: _NRW-Tarif_ [Open overview](https://infoportal.mobil.nrw/nrw-tarif/nrw-tarif-im-ueberblick.html)
 
 ### Tariff Distinction between Local and Long-Distance Transport
 

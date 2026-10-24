@@ -1,12 +1,12 @@
 groups:
-  - name: coupon-not-available
+  coupon-not-available:
     status: invalid
     text:
       de: Nicht verfügbar
       en: Not available
       fr: Non disponible
     type: fip-coupon
-  - name: free-travel
+  free-travel:
     status: valid
     text:
       de: >
@@ -22,7 +22,7 @@ groups:
 
         <small>Un nombre illimité de coupons pays peut être demandé (un coupon par demande).</small>
     type: fip-coupon
-  - name: coupon-1
+  coupon-1:
     status: valid
     text:
       de: |
@@ -35,7 +35,7 @@ groups:
         **1 coupon**
         <small>Par an.</small>
     type: fip-coupon
-  - name: coupon-2
+  coupon-2:
     status: valid
     text:
       de: |
@@ -48,7 +48,7 @@ groups:
         **2 coupons**
         <small>Par an.</small>
     type: fip-coupon
-  - name: coupon-4
+  coupon-4:
     status: valid
     text:
       de: |
@@ -61,7 +61,7 @@ groups:
         **4 coupons**
         <small>Par an.</small>
     type: fip-coupon
-  - name: coupon-1-onetime
+  coupon-1-onetime:
     status: valid
     text:
       de: |
@@ -74,7 +74,7 @@ groups:
         **1 coupon**
         <small>Unique, dans les 45 mois suivant le départ.</small>
     type: fip-coupon
-  - name: relatives-sncf-active
+  relatives-sncf-active:
     status: valid
     text:
       de: >

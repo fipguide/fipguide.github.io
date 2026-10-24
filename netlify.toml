@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build:admin && echo 'resourceDir: /opt/build/cache/resources_cache' >> hugo.yaml && FIPGUIDE_BRANCH=\"$HEAD\" hugo --gc --minify -b $DEPLOY_PRIME_URL && npx -y pagefind --site public"
+  command = "FIPGUIDE_BRANCH=\"$HEAD\" npm run build:admin && echo 'resourceDir: /opt/build/cache/resources_cache' >> hugo.yaml && hugo --gc --minify -b $DEPLOY_PRIME_URL && npx -y pagefind --site public"
   publish = "public"
 
 [build.environment]

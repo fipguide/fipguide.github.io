@@ -64,9 +64,9 @@ Für grenzüberschreitende Fahrten in den Sommermonaten nach Österreich, Belgie
 
 Grenzüberschreitende Hochgeschwindigkeitszüge der SNCF in Kooperation mit der DB. Diese verkehren von Frankfurt, Mannheim, Saarbrücken, München, Stuttgart und Karlsruhe nach Paris.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Einige wenige `TGV` Züge verkehren von Paris nach Freiburg und werden vollständig (auch in Deutschland) von der SNCF betrieben. Als Betreiber wird für diese Züge nur die SNCF aufgeführt, siehe [Zugbetreiber identifizieren und Verbindungen suchen](/country/germany#fip-nutzung). In diesen Zügen gelten in Deutschland keine DB Freifahrtscheine und keine nationalen Fahrvergünstigungen für DB Mitarbeitende. Stattdessen können FIP Globalpreistickets der SNCF erworben werden.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Reservierungen
 
@@ -197,6 +197,21 @@ Einige Nightjet-Verbindungen werden mit [Intercity](#ic)-Sitzwagen geführt. Die
 
 {{% /train-category %}}
 
+{{% train-category
+    id="ferry"
+    title="Fähre Wangerooge – Harlesiel"
+    type="ship"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+%}}
+
+DB Fernverkehr betreibt die Fährverbindung zwischen Wangerooge und Harlesiel in der Nordsee. FIP 50 Tickets und FIP Freifahrtscheine werden für die Überfahrt akzeptiert.
+
+Es gelten nur Tickets des Fernverkehrs und keine Nahverkehrstickets wie das _Deutschlandticket_. Beim Kauf von FIP 50 Tickets für diese Strecke ist das nicht zu beachten, da diese in diesem Fall immer als Fernverkehrsticket ausgestellt werden. Weitere Informationen im Abschnitt [Tarifliche Unterscheidung zwischen Nah- und Fernverkehr](#tarifliche-unterscheidung-zwischen-nah--und-fernverkehr).
+
+{{% /train-category %}}
+
 ### Nahverkehr
 
 Die Züge im Nahverkehr werden oftmals auch von anderen Betreibern betrieben, die kein FIP akzeptieren. In der [Verbindungsauskunft der DB](https://www.bahn.de) sind die Züge aller Betreiber hinterlegt. Nur Züge mit _DB_ im Betreibernamen in den _Fahrtinformationen_ können mit FIP genutzt werden.
@@ -216,9 +231,9 @@ Eine Orientierung bieten [Übersichtskarten](https://www.schienennahverkehr.de/v
 
 Regionalexpresszüge verbinden Orte und Städte mit Halten an den wichtigsten Stationen. Teilweise verkehren die Züge auch überregional über längere Strecken.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Die Züge der Kategorie `RE` werden oftmals auch von anderen Betreibern betrieben.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -233,9 +248,9 @@ Die Züge der Kategorie `RE` werden oftmals auch von anderen Betreibern betriebe
 
 Regionalbahnzüge verbinden Orte und Städte mit Halten an fast allen Stationen.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Die Züge der Kategorie `RB` werden oftmals auch von anderen Betreibern betrieben.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -250,9 +265,9 @@ Die Züge der Kategorie `RB` werden oftmals auch von anderen Betreibern betriebe
 
 Nahverkehrszüge in großen Städten und Metropolregionen mit Halt an allen Stationen.
 
-{{< highlight confusion >}}
+{{< confusion germany >}}
 Die Züge der Kategorie `S` werden oftmals auch von anderen Betreibern betrieben.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -324,6 +339,12 @@ FIP 50 Tickets gelten als _Flexpreis_ und sind daher bis vor den 1. Geltungstag 
     subtitle="Nationale und grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)."
 /%}}
 
+{{% booking id="sncf-connect"
+    subtitle="Nur für SNCF Mitarbeitende und nur für grenzüberschreitende TGV Verbindungen"
+    reservations=false
+    fip_75=nil
+/%}}
+
 ### Telefon
 
 {{% booking id="oebb-phone"
@@ -331,7 +352,7 @@ FIP 50 Tickets gelten als _Flexpreis_ und sind daher bis vor den 1. Geltungstag 
     classes.first="6,90 €"
     classes.second="5,50 €"
 %}}
-Reservierungen für innerdeutsche Verbindungen kosten 5,50 € (2. Klasse) bzw. 6,90 € (1. Klasse). Grenzüberschreitende Verbindungen kosten 3 €.
+Reservierungen für innerdeutsche Verbindungen kosten 5,50 € (2. Klasse) bzw. 6,90 € (1. Klasse). Grenzüberschreitende Verbindungen kosten 3,50 €.
 {{% highlight inofficial %}}
 Zurzeit können temporär keine FIP 50 Tickets für nationale Fahrten innerhalb Deutschlands über die ÖBB Hotline verkauft werden. Grenzüberschreitende Buchungen von FIP 50 Tickets sind jedoch weiterhin möglich (siehe [Discord FIP Community ÖBB Hotline Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
 {{% /highlight %}}
@@ -385,7 +406,7 @@ Hier gibt es eine [Übersichtskarte](https://www.nvv.de/fileadmin/nvv/data/2._Fa
 
 ### DB Regio Bayern
 
-Die Züge von DB Regio Bayern zwischen Nürnberg Hbf und Regensburg Hbf werden im Auftrag für das Eisenbahnunternehmen agilis betrieben. Daher werden in diesem Abschnitt keine FIP Vergünstigungen anerkannt. [^2]
+Die Züge von DB Regio Bayern zwischen Nürnberg Hbf und Regensburg Hbf werden im Auftrag für das Eisenbahnunternehmen agilis betrieben. Daher werden in diesem Abschnitt keine FIP Vergünstigungen anerkannt. Auf anderen Linien von DB Regio Bayern gilt FIP. [^2]
 
 ### Fahrten in Verkehrsverbünden
 
@@ -407,6 +428,14 @@ In folgendem Beispiel liegt die gewählte Verbindung im Verkehrsverbund _VRS_:
 ![Ticketauswahl VRS](ticket_vrs.de.webp)
 
 {{% /expander %}}
+
+#### Übergreifende Tarife
+
+In einigen Bundesländern gibt es Kooperationen mehrerer Verkehrsverbünde, um gemeinsam einheitliche Tickets für den Nahverkehr anzubieten. FIP 50 Tickets werden in diesen übergreifenden Tarifen in der Regel nicht ausgestellt. In folgenden Bundesländern gibt es Verkehrsverbund-übergreifende Tarife:
+
+- **Baden-Württemberg**: _bwtarif_ [Übersicht öffnen](https://assets.static-bahn.de/dam/jcr:45aead8a-90e4-4856-966f-1eaf38c04f0a/bwegt_Karte_bwtarif_07-01-2025_barrierefrei.2025-08-01-13-22-45.pdf)
+- **Niedersachsen**: _Niedersachsen-Tarif_ [Übersicht öffnen](https://www.niedersachsentarif.de/fahrkarten/niedersachsen-ticket/)
+- **Nordrhein-Westfalen**: _NRW-Tarif_ [Übersicht öffnen](https://infoportal.mobil.nrw/nrw-tarif/nrw-tarif-im-ueberblick.html)
 
 ### Tarifliche Unterscheidung zwischen Nah- und Fernverkehr
 

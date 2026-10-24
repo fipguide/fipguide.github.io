@@ -59,9 +59,9 @@ The `TGV` inOui is SNCF Voyageurs's high-speed train, connecting many cities in 
 
 Access to the platform (at stations with platform barriers) and to the trains is possible up to two minutes before departure. The doors close two minutes before departure. The ticket should be kept ready, as staff may check it before boarding the train.[^7] These rules do not apply in Germany.[^8]
 
-{{< highlight confusion >}}
+{{< confusion france >}}
 SNCF also operates low-cost long-distance trains under the OUIGO brand, but these are not valid with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{< highlight important >}}
 Special conditions apply for international connections, see [International TGV inOui / ICE trains](#international-tgv-inoui--ice-trains).
@@ -91,9 +91,9 @@ OUIGO (Grande Vitesse) is SNCF's low-cost high-speed train connecting numerous c
 
 Access to the train is no longer guaranteed five minutes before departure.[^7]
 
-{{< highlight confusion >}}
+{{< confusion france >}}
 SNCF also operates `TGV` trains under the inOui brand, which are valid with FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -189,9 +189,9 @@ Some lines from Paris require reservations, see [Reservation requirement in regi
 
 Access to the platform (at stations with platform barriers) and to the trains is possible up to two minutes before departure. The doors close two minutes before departure. The ticket should be kept ready, as staff may check it before boarding the train.[^7]
 
-{{< highlight confusion >}}
+{{< confusion france >}}
 On the Marseille – Nice route, Transdev operates the trains, so FIP is not accepted. However, on the Marseille – Toulon route, SNCF trains are also used, where FIP is accepted. Prior verification of the operator is essential here.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -213,6 +213,24 @@ FIP is only valid on certain RER lines, see [Trains in Greater Paris](#trains-in
 {{% /train-category %}}
 
 {{% train-category
+    id="lex"
+    title="Léman-Express (LEX / L)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.lemanexpress.com/en/les-6-lignes-lex/"
+%}}
+
+In the Geneva area, cross-border regional trains operate under the name Léman Express, run by SBB and SNCF.
+
+In the SNCF timetable information, Léman Express connections are displayed as `LEX` + line number (L1, L2, etc.). In the SBB timetable information, the trains are sometimes displayed as `RL`, and occasionally as `TER`.
+
+Within France and within Switzerland, FIP discounts apply as usual. On cross-border journeys, FIP is only valid when travelling via the Annemasse border point. For cross-border journeys between La Plaine and Bellegarde (Gr), regular fare tickets must be purchased. [^9]<sup>, </sup>[^10]
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"
@@ -230,6 +248,11 @@ FIP discounts also apply on buses operated by SNCF, except for long-distance bus
 ### Online
 
 Domestic journeys unfortunately cannot be purchased online.
+
+{{% booking id="sncf-connect"
+    subtitle="Only for SNCF employees"
+    fip_global_fare=nil
+/%}}
 
 {{% booking id="db-website-fip-db"
     subtitle="Cross-border FIP 50 Tickets for TGV/ICE and regional trains between Germany and France, with ticket valid only for the French section. Only for Deutsche Bahn employees."
@@ -543,3 +566,7 @@ SNCF is not the easiest railway company for FIP, as reservations are often requi
 [^7]: [SNCF Connect – Boarding Train](https://www.sncf-connect.com/en-en/help/boarding-train)
 
 [^8]: [DB – Was muss ich bei meiner Reise mit der SNCF beachten?](https://www.bahn.de/faq/internationale-reise-sncf-was-beachten)
+
+[^9]: [Rail Delivery Group – Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
+
+[^10]: [FIP Guide Community – Léman Express](https://discord.com/channels/1250522473188032512/1441391294189408269/1452707469909561406)

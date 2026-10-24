@@ -57,9 +57,9 @@ Le `TGV` inOui est le train à grande vitesse des SNCF Voyageurs, reliant de nom
 
 L’accès au quai (dans les gares avec barrières de quai) ainsi qu’aux trains est possible jusqu’à deux minutes avant le départ. Les portes se ferment deux minutes avant le départ. Le billet doit être prêt, car le personnel peut le contrôler avant l’embarquement.[^7] Ces règles ne s’appliquent pas en Allemagne.[^8]
 
-{{< highlight confusion >}}
+{{< confusion france >}}
 La SNCF exploite aussi des trains longue distance low-cost sous la marque OUIGO, mais ceux-ci ne sont pas valables avec FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{< highlight important >}}
 Des conditions particulières s’appliquent pour les liaisons internationales, voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux).
@@ -89,9 +89,9 @@ OUIGO (Grande Vitesse) est le service grande vitesse low-cost de la SNCF, relian
 
 L’accès au train n’est plus garanti cinq minutes avant le départ.[^7]
 
-{{< highlight confusion >}}
+{{< confusion france >}}
 La SNCF exploite aussi des `TGV` sous la marque inOui, qui sont valables avec le FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -189,9 +189,9 @@ Certaines lignes au départ de Paris sont à réservation obligatoire, voir [Ré
 
 L’accès au quai (dans les gares avec barrières de quai) ainsi qu’aux trains est possible jusqu’à deux minutes avant le départ. Les portes se ferment deux minutes avant le départ. Le billet doit être prêt, car le personnel peut le contrôler avant l’embarquement.[^7]
 
-{{< highlight confusion >}}
+{{< confusion france >}}
 Sur la ligne Marseille – Nice, Transdev exploite les trains, c’est pourquoi FIP n’est pas accepté. Cependant, sur la ligne Marseille – Toulon, des trains de la SNCF sont également utilisés, où FIP est accepté. Une vérification préalable de l’exploitant est donc indispensable ici.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -213,6 +213,24 @@ FIP n’est valable que sur certains tronçons du RER, voir [Trains en Île-de-F
 {{% /train-category %}}
 
 {{% train-category
+    id="lex"
+    title="Léman-Express (LEX / L)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.lemanexpress.com/les-7-lignes-lex/"
+%}}
+
+Dans la région genevoise, les trains régionaux transfrontaliers circulent sous le nom de Léman Express et sont exploités par les CFF et la SNCF.
+
+Sur le site de la SNCF, les correspondances Léman Express sont indiquées par `LEX` suivi du numéro de ligne (L1, L2, etc.). Sur le site des CFF, les trains sont parfois indiqués par `RL`, et occasionnellement par `TER`.
+
+En France comme en Suisse, les réductions FIP s’appliquent comme d’habitude. Sur les trajets transfrontaliers, la FIP n’est valable que pour les trajets passant par le point frontière d’Annemasse. Pour les trajets transfrontaliers entre La Plaine et Bellegarde (Gr), il est nécessaire d’acheter des billets au tarif normal. [^9]<sup>, </sup>[^10]
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"
@@ -230,6 +248,11 @@ Les réductions FIP sont aussi valables dans les bus exploités par la SNCF, sau
 ### En ligne
 
 Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
+
+{{% booking id="sncf-connect"
+    subtitle="Réservé aux agents de la SNCF"
+    fip_global_fare=nil
+/%}}
 
 {{% booking id="db-website-fip-db"
     subtitle="Billets FIP 50 transfrontaliers pour TGV/ICE et trains régionaux entre l’Allemagne et la France, avec une part de billet uniquement pour la section française. Réservé aux employés de la Deutsche Bahn."
@@ -542,3 +565,7 @@ La SNCF n’est pas la compagnie la plus simple pour FIP, car il faut souvent ac
 [^7]: [SNCF Connect – Boarding Train](https://www.sncf-connect.com/en-en/help/boarding-train)
 
 [^8]: [DB – Was muss ich bei meiner Reise mit der SNCF beachten?](https://www.bahn.de/faq/internationale-reise-sncf-was-beachten)
+
+[^9]: [Rail Delivery Group – Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
+
+[^10]: [FIP Guide Community – Léman Express](https://discord.com/channels/1250522473188032512/1441391294189408269/1452707469909561406)
