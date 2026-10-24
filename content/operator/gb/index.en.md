@@ -534,6 +534,11 @@ Through the _[Seatfrog](https://seatfrog.com/)_ app, upgrades to First Class can
 
 {{% booking id="national-rail-ticket-office" /%}}
 
+{{% booking id="sbb-ticket-office"
+    reservations=nil
+    subtitle="Booking of FIP 50 Tickets only possible for SBB and SNCF employees"
+/%}}
+
 ### On the Train
 
 FIP-discounted tickets are not issued on trains, except in certain rural areas where tickets are generally only issued on trains (_Pay-Trains_).

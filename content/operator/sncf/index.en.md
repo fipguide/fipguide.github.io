@@ -308,11 +308,6 @@ Domestic journeys unfortunately cannot be purchased online.
     classes.second="€ 2 / € 11"
 /%}}
 
-{{% booking id="sbb-ticket-office"
-    classes.first="€ 2 / € 16"
-    classes.second="€ 2 / € 11"
-/%}}
-
 {{% booking id="sncb-ticket-office"
     classes.first="€ 2 / € 16"
     classes.second="€ 2 / € 11"
@@ -321,6 +316,12 @@ Domestic journeys unfortunately cannot be purchased online.
 {{% booking id="ns-ticket-office"
     classes.first="€ 2 / € 16"
     classes.second="€ 2 / € 11"
+/%}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="€ 2 / € 16"
+    classes.second="€ 2 / € 11"
+    subtitle="Booking only possible for SBB and SNCF employees"
 /%}}
 
 {{% booking id="db-ticket-office"
