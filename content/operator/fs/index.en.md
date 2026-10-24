@@ -198,6 +198,33 @@ The variable reservation price always includes a surcharge when using a FIP Coup
 
 {{% /train-category %}}
 
+{{% train-category
+    id="ece"
+    title="Eurocity-Express (ECE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+International high-speed trains of the highest category on the route between Frankfurt, Karlsruhe, Zurich, and Milan.
+The trains are operated by SBB in cooperation with DB and Trenitalia.
+
+{{< highlight important >}}
+Up to the Italian border, these trains require a surcharge and reservation. It is cheaper to travel towards Switzerland with a change in Chiasso ([see Arrival in Switzerland](/country/switzerland#italy "Arrival in Switzerland")). The surcharge can be purchased at a DB or SBB ticket office or on the train.
+
+**Surcharge/Reservation:**
+
+- 1st class: € 13
+- 2nd class: € 11
+  {{< /highlight >}}
+
+#### Reservations
+
+Reservations are mandatory within Italy and for cross-border journeys to Switzerland.
+
+{{% /train-category %}}
+
 ### Regional Trains
 
 {{% train-category

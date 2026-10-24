@@ -198,6 +198,33 @@ Le prix de la réservation inclut toujours un supplément avec un Coupon FIP.
 
 {{% /train-category %}}
 
+{{% train-category
+    id="ece"
+    title="Eurocity-Express (ECE)"
+    type="highspeed"
+    fip_accepted=true
+    reservation_required=true
+    reservation_possible=true
+%}}
+
+Trains internationaux à grande vitesse de la catégorie la plus élevée sur la ligne entre Francfort, Karlsruhe, Zurich et Milan.
+Les trains sont exploités par les CFF en coopération avec DB et Trenitalia.
+
+{{< highlight important >}}
+Jusqu’à la frontière italienne, ces trains sont soumis à réservation et à supplément. Il est moins cher de voyager en direction de la Suisse avec un changement à Chiasso ([voir Arrivée en Suisse](/country/switzerland#italie "Arrivée en Suisse")). Le supplément peut être acheté au guichet DB ou CFF ou à bord du train.
+
+**Supplément/Réservation :**
+
+- 1ʳᵉ classe : 13 €
+- 2ᵉ classe : 11 €
+  {{< /highlight >}}
+
+#### Réservations
+
+Réservation obligatoire en Italie et pour les trajets transfrontaliers vers la Suisse.
+
+{{% /train-category %}}
+
 ### Trains régionaux
 
 {{% train-category
