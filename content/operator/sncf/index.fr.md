@@ -298,9 +298,30 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
     subtitle="Pour trains en Île-de-France"
 /%}}
 
+{{% booking id="cfl-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
+
+{{% booking id="dsb-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
+
+{{% booking id="sncb-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
+
 {{% booking id="ns-ticket-office"
     classes.first="2 € / 16 €"
     classes.second="2 € / 11 €"
+/%}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+    subtitle="Réservation uniquement possible pour les agents de la CFF et de la SNCF"
 /%}}
 
 {{% booking id="db-ticket-office"

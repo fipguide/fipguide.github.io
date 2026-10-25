@@ -337,6 +337,11 @@ InterCity Notte (ICN) : 25 € (1ère/2ᵉ classe, voiture assise)
 {{% /highlight %}}
 {{% /booking %}}
 
+{{% booking id="sbb-ticket-office"
+    subtitle="Uniquement pour les agents de la CFF et pas disponible pour toutes les liaisons"
+    classes=nil
+/%}}
+
 ### À bord du train
 
 Si les suppléments ne sont pas achetés avant le voyage, un supplément à bord est appliqué (sauf si aucun point de vente ou distributeur n’est disponible à la gare de départ).

@@ -166,6 +166,10 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 
 {{% booking id="db-ticket-office" /%}}
 
+{{% booking id="sbb-ticket-office"
+    reservations=nil
+/%}}
+
 ## Ermäßigungen
 
 {{< children-discount >}}

@@ -296,6 +296,12 @@ Reservations for direct trains are cheaper via ÖBB.
 Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
 
+{{% booking id="sbb-ticket-office"
+    classes.first="CHF 4"
+    classes.second="CHF 4"
+    subtitle="Booking of FIP 50 Tickets only possible for SBB and ÖBB employees"
+/%}}
+
 {{% booking id="sz-ticket-office"
     subtitle="For cross-border trains between Slovenia and Austria"
 /%}}
