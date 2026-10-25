@@ -297,8 +297,8 @@ Reservations for direct trains are cheaper via ÖBB.
 {{% /booking %}}
 
 {{% booking id="sbb-ticket-office"
-    classes.first="4 CHF"
-    classes.second="4 CHF"
+    classes.first="CHF 4"
+    classes.second="CHF 4"
     subtitle="Booking of FIP 50 Tickets only possible for SBB and ÖBB employees"
 /%}}
 

@@ -361,8 +361,8 @@ Reservation for individual trains without transfer is cheaper via ÖBB.
 {{% /booking %}}
 
 {{% booking id="sbb-ticket-office"
-    classes.first="6 CHF"
-    classes.second="6 CHF"
+    classes.first="CHF 6"
+    classes.second="CHF 6"
 /%}}
 
 ### On the Train

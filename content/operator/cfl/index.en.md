@@ -132,8 +132,8 @@ Due to the booking fee, it may be worthwhile to purchase a regular first class t
 {{% booking id="cfl-ticket-office" /%}}
 
 {{% booking id="sbb-ticket-office"
-    classes.first="6 CHF"
-    classes.second="6 CHF"
+    classes.first="CHF 6"
+    classes.second="CHF 6"
     subtitle="Booking of FIP 50 Tickets only possible for SBB and SNCF employees"
 /%}}
 
