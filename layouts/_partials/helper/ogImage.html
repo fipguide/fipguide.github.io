@@ -1,6 +1,5 @@
 {{- $contentImage := (partial "helper/contentImage" .).firstImage -}}
 {{- if reflect.IsImageResourceProcessable $contentImage -}}
-  {{- $image := $contentImage.Fill "1200x630 center jpg q85" -}}
   {{- $logo := resources.Get "images/og-image-overlay.jpg" -}}
   {{- $overlay := images.Overlay $logo 0 540 -}}
   {{- $title := truncate 35 .Title -}}
@@ -11,7 +10,7 @@
     "y" 556
     )
   -}}
-  {{- $image = $image | images.Filter $overlay | images.Filter $text -}}
+  {{- $image := $contentImage.Fill "1200x630 center jpg q85" | images.Filter $overlay | images.Filter $text -}}
   {{- return $image -}}
 {{- else -}}
   {{- return "{{ .Site.BaseURL }}og-image.jpg" -}}
