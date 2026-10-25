@@ -36,7 +36,7 @@ module:
     - source: "node_modules/@material-symbols/svg-700/rounded"
       target: "static/icons/material-symbols-rounded"
   hugoVersion:
-    min: "0.164.0"
+    min: "0.168.0"
 
 related:
   includeNewer: true
