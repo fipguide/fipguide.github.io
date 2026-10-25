@@ -11,7 +11,7 @@
     "y" 556
     )
   -}}
-  {{- $image := $image | images.Filter $overlay | images.Filter $text -}}
+  {{- $image = $image | images.Filter $overlay | images.Filter $text -}}
   {{- return $image -}}
 {{- else -}}
   {{- return "{{ .Site.BaseURL }}og-image.jpg" -}}
