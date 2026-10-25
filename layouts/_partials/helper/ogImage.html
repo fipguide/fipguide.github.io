@@ -1,17 +1,17 @@
 {{- $contentImage := (partial "helper/contentImage" .).firstImage -}}
+{{- $logo := resources.Get "images/og-image-overlay.jpg" -}}
+{{- $overlay := images.Overlay $logo 0 540 -}}
+{{- $title := truncate 35 .Title -}}
+{{- $text := images.Text $title (dict
+  "color" "#000000"
+  "size" 48
+  "x" 15
+  "y" 556
+  )
+-}}
 {{- if reflect.IsImageResourceProcessable $contentImage -}}
-  {{- $logo := resources.Get "images/og-image-overlay.jpg" -}}
-  {{- $overlay := images.Overlay $logo 0 540 -}}
-  {{- $title := truncate 35 .Title -}}
-  {{- $text := images.Text $title (dict
-    "color" "#000000"
-    "size" 48
-    "x" 15
-    "y" 556
-    )
-  -}}
-  {{- $image := $contentImage.Fill "1200x630 center jpg q85" | images.Filter $overlay | images.Filter $text -}}
-  {{- return $image -}}
-{{- else -}}
-  {{- return "{{ .Site.BaseURL }}og-image.jpg" -}}
+  {{- return ($contentImage.Fill "1200x630 center jpg q85" | images.Filter $overlay | images.Filter $text) -}}
+{{- end -}}
+{{- with resources.Get "images/default.webp" -}}
+  {{- return (.Fill "1200x630 center jpg q85" | images.Filter $overlay | images.Filter $text) -}}
 {{- end -}}
