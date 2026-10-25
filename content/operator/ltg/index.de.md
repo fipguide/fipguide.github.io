@@ -98,7 +98,7 @@ Personen ab 18 Jahren zahlen den vollen regulären Preis, jedoch gibt es zahlrei
 
 ### Spezialzüge und historische Fahrten
 
-Im Sommer betreibt LTG-Link direkte Züge zwischen Vilnius und der Ostsee als _Seaside Express_ bzw. _Palangos Link_ nach Kretinga. In Kretinga besteht Bus-Anschluss nach Palanga. FIP gilt in diesen Zügen und Anschlussbussen. Weitere Informationen sind auf der [Website von LTG-Link](https://ltg.lt/en/naujienos/2026/from-city-to-seaside-with-one-ticket/) verfügbar.[^3] [^5]
+Im Sommer betreibt LTG-Link direkte Züge zwischen Vilnius und der Ostsee als _Seaside Express_ bzw. _Palangos Link_ nach Kretinga. In Kretinga besteht Bus-Anschluss nach Palanga. FIP gilt in diesen Zügen und Anschlussbussen. Weitere Informationen sind auf der [Website von LTG-Link](https://ltg.lt/en/naujienos/2026/from-city-to-seaside-with-one-ticket/) verfügbar.[^3]<sup>, </sup>[^5]
 
 ### Fahrtunterbrechung
 

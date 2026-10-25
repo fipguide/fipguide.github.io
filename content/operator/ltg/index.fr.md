@@ -98,7 +98,7 @@ Les personnes de plus de 18 ans paient le plein tarif normal, mais de nombreuses
 
 ### Trains spéciaux et historiques
 
-En été, LTG-Link exploite des trains directs entre Vilnius et la mer Baltique sous le nom de _Seaside Express_ ou _Palangos Link_ vers Kretinga. À Kretinga, correspondance en bus pour Palanga. FIP est valable dans ces trains et les bus de correspondance. Plus d’informations sont disponibles sur le [site de LTG-Link](https://ltg.lt/en/naujienos/2026/from-city-to-seaside-with-one-ticket/).[^3] [^5]
+En été, LTG-Link exploite des trains directs entre Vilnius et la mer Baltique sous le nom de _Seaside Express_ ou _Palangos Link_ vers Kretinga. À Kretinga, correspondance en bus pour Palanga. FIP est valable dans ces trains et les bus de correspondance. Plus d’informations sont disponibles sur le [site de LTG-Link](https://ltg.lt/en/naujienos/2026/from-city-to-seaside-with-one-ticket/).[^3]<sup>, </sup>[^5]
 
 ### Possibilité d’interrompre le trajet
 
