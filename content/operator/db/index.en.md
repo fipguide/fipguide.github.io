@@ -333,6 +333,12 @@ FIP 50 Tickets are considered _Flexpreis_ tickets and can therefore be cancelled
     subtitle="Domestic and cross-border FIP 50 Tickets for the entire route (not valid in the country of issue of the FIP Card)."
 /%}}
 
+{{% booking id="sncf-connect"
+    subtitle="Only for SNCF employees and only for cross-border TGV connections"
+    reservations=false
+    fip_75=nil
+/%}}
+
 ### Telephone
 
 {{% booking id="oebb-phone"
@@ -353,6 +359,11 @@ Currently, no FIP 50 Tickets for domestic travel within Germany can be sold via 
 %}}
 Reservation for individual trains without transfer is cheaper via ÖBB.
 {{% /booking %}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="CHF 6"
+    classes.second="CHF 6"
+/%}}
 
 ### On the Train
 

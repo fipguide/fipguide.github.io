@@ -339,6 +339,12 @@ FIP 50 Tickets gelten als _Flexpreis_ und sind daher bis vor den 1. Geltungstag 
     subtitle="Nationale und grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)."
 /%}}
 
+{{% booking id="sncf-connect"
+    subtitle="Nur für SNCF Mitarbeitende und nur für grenzüberschreitende TGV Verbindungen"
+    reservations=false
+    fip_75=nil
+/%}}
+
 ### Telefon
 
 {{% booking id="oebb-phone"
@@ -359,6 +365,11 @@ Zurzeit können temporär keine FIP 50 Tickets für nationale Fahrten innerhalb 
 %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="6 CHF"
+    classes.second="6 CHF"
+/%}}
 
 ### Im Zug
 

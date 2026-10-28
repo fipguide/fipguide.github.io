@@ -4,60 +4,92 @@ description: Information about privacy policies and the protection of personal
   data in the FIP Guide.
 ---
 
+## Controller
+
+The controller responsible for data processing on this website within the meaning of the General Data Protection Regulation (GDPR) is:
+
 **Lennart Rommeiß**\
 Klingerstraße 15\
-51143 Köln
+51143 Köln\
+Email: [nextstop@fipguide.org](mailto:nextstop@fipguide.org)
 
-The protection of your personal data is a special concern to us. We process your data exclusively on the basis of the legal provisions (GDPR, TKG 2003). In this privacy policy, we inform you about the most important aspects of data processing within the framework of our website.
+No data protection officer has been appointed, as there is no legal obligation to do so.
 
-## Responsible Party
+## General
 
-The responsible party for data processing is the person Lennart Rommeiß located at Klingerstraße 15, 51143 Köln. You can reach us by email at [nextstop@fipguide.org](mailto:nextstop@fipguide.org) or by mail at the address Klingerstraße 15, 51143 Köln.
+The FIP Guide is a non-commercial community project. We only process personal data to the extent necessary for operating the website, responding to inquiries and statistically evaluating its usage. We do not sell data, do not run advertising and do not create user profiles. No automated decision-making, including profiling, according to Art. 22 GDPR takes place.
 
-## Data Security
+The connection to this website is encrypted via TLS.
 
-We take appropriate precautions to protect your personal data in accordance with Art 32 GDPR. These measures particularly concern protection against unauthorized, unlawful, or accidental access, processing, loss, use, and manipulation.
+## Hosting
 
-## Website
+This website is hosted on GitHub Pages, a service of GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. When you access the website, GitHub automatically processes technical data transmitted by your browser (IP address, date and time of access, page visited, referrer, browser and operating system). This data is technically necessary to deliver the website and to ensure its security. We ourselves have no access to these server logs. In addition, the profile pictures of the team on the “About us” page are loaded from GitHub servers (avatars.githubusercontent.com); the same information applies to this.
 
-### Personal Data, Purpose of Data Processing, and Legal Basis
+The legal basis is our legitimate interest according to Art. 6 para. 1 lit. f GDPR in providing the website securely and reliably. The transfer to the USA is based on the adequacy decision of the EU Commission on the EU-US Data Privacy Framework (Art. 45 GDPR), under which GitHub is certified. Further information can be found in the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
-Personal data are details that can be clearly assigned to a person. These include, among other things, details such as full name, address, email, and telephone number. When you visit our website, additional data are automatically collected for technical reasons (IP address, start and end of the session, date and time of the request, accessed subpage on our website, type and version of the browser, operating system, referrer URL). These technical details can be personal data in individual cases. As a rule, we only use these technical details if this is necessary (for technical reasons) for the operation and protection of our website against attacks and misuse, as well as pseudonymized or anonymized for statistical purposes.
+## Contact Form
 
-If you contact us via the inquiry form on the website or by email, the data you provide (first name, last name, address, telephone number, email) will be stored by us for six months for the purpose of processing the inquiry and in case of follow-up questions. We do not pass on this data without your consent. Processing of your personal data for specific purposes (e.g., use of your email for newsletters, advertising) can also take place based on your consent. You can revoke your consent at any time with effect for the future. This also applies to the revocation of consent declarations that were given to us before the GDPR came into effect. You will be informed separately about the purposes and consequences of a revocation or non-granting of consent in the corresponding text of the consent.
+If you send us a message via the contact form, we process the data you provide (topic, message, name, email address and, where applicable, further information in the topic-specific fields) in order to process your inquiry and answer follow-up questions. Providing an email address is required if you would like a reply; without this information we cannot answer your inquiry.
 
-To fulfill contracts or pre-contractual measures and beyond, we process your data (first name, last name, address, telephone number, email) if necessary to protect legitimate interests of ours or third parties, particularly for the following purposes:
+To send the form data, we use the Web3Forms service of Web3Creative, India. Web3Forms forwards the form data to us by email and uses infrastructure from Amazon Web Services, Cloudflare and Hetzner for this purpose. To prevent spam, your IP address and email address are transmitted to the services CleanTalk and Akismet (Automattic Inc., USA). The transfer to third countries is based on standard contractual clauses of the EU Commission (Art. 46 para. 2 lit. c GDPR). Further information can be found in the [Web3Forms Privacy Policy](https://web3forms.com/privacy).
 
-- Responding to inquiries
-- Technical administration
-- Advertising or market and opinion research, provided you have not objected to the use of your data
-- Reviewing and optimizing procedures for demand analysis
-- Further development of services and products as well as existing systems and processes
-- Statistical evaluations or market analysis
-- Assertion of legal claims & defense in legal disputes not directly related to the contractual relationship
-- Prevention and investigation of criminal offenses, unless exclusively for compliance with legal requirements
+The legal basis is our legitimate interest according to Art. 6 para. 1 lit. f GDPR in answering inquiries and preventing spam. We delete your inquiry as soon as it has been fully processed and no further questions are to be expected, but no later than after three years. Web3Forms automatically deletes form data no later than three years after submission.
 
-The legal bases for data processing are:
+## Contact by Email
 
-- Contract processing according to Art 6 para 1 lit b GDPR
-- Your possible consent according to Art 6 para 1 lit a GDPR
-- Legitimate interest according to Art 6 para 1 lit f GDPR
+If you contact us by email, we process your email address, your name and the content of your message in order to process your inquiry. Our mailbox is operated by STRATO GmbH, Otto-Ostrowski-Straße 7, 10249 Berlin. The legal basis is our legitimate interest according to Art. 6 para. 1 lit. f GDPR in answering inquiries. We delete your message as soon as it has been fully processed and no further questions are to be expected, but no later than after three years.
 
-## Storage Duration
+## Website Analytics
 
-The deletion of stored personal data occurs when you, as a user of our website and/or customer, revoke the consent to storage, when your data is no longer necessary for the purpose pursued with the storage, and after the expiration of legal retention periods or after the end of any ongoing legal disputes, or when your storage is otherwise unlawful or becomes unlawful.
+We use the GoatCounter service (Martin Tournoij, Ireland) for statistical analysis of visits to our website. The data is processed on servers of Hetzner Online GmbH in Germany and Finland; no transfer to third countries takes place. GoatCounter does not use cookies.
 
-## Data Transfer / Recipients or Categories of Recipients
+When a page is accessed, your IP address and your browser identifier (User-Agent) are transmitted to GoatCounter. This data is not stored permanently, but only kept for a maximum of 8 hours in order to recognize repeated page views and to determine the country of origin, and is then discarded. Only aggregated counts are stored (page visited, referrer, browser, operating system, country of origin), which cannot be linked together and do not allow conclusions to be drawn about individual visitors. This aggregated data is stored until our GoatCounter account is deleted.
 
-Your data will only be transferred to external parties in connection with contract processing, for the purpose of fulfilling legal requirements, where we are obliged to provide information, report, or pass on data, or if the data transfer is in the public interest or you have previously consented. You have the right to revoke a given consent with effect for the future at any time.
+The legal basis is our legitimate interest according to Art. 6 para. 1 lit. f GDPR in analyzing and improving our offering. If your browser sends the “Global Privacy Control” or “Do Not Track” signal, no tracking takes place. How you can object to tracking is described in the section [Right to Object](#right-to-object). Further information can be found in the [GoatCounter Privacy Policy](https://www.goatcounter.com/help/privacy).
 
-Personal data will be transferred or disclosed by us to the following designated third parties:
+## Local Storage in the Browser
 
-- Various service providers or partner operators that support us in order processing, customer information, advertising, and the provision of services, IT service providers, and technical processors (processors according to Art. 28 GDPR). These operators are obliged to comply with all data protection regulations. Strict data protection regulations apply to order data processing, in particular, these operators may only use the data to fulfill their tasks on our behalf. We are responsible for compliance with data protection regulations by these operators and have concluded corresponding order processing agreements with the service providers
-- To our tax advisor to fulfill our tax obligations
+This website does not use cookies. For individual functions, we store settings in the local storage of your browser:
+
+- the selected color scheme (light or dark mode)
+- the most recently selected issuing railway company in the overview of the validity of FIP Tickets
+- your objection to tracking by GoatCounter, if you have declared it
+
+These entries are only stored on your device, are not transmitted to us and are only set when you use the respective function. The storage is permitted according to Section 25 para. 2 no. 2 TDDDG, as it is strictly necessary to provide the function you have explicitly requested. You can delete the entries at any time by deleting the website data in your browser.
+
+## Content from the DB Intranet
+
+The page on the taxation of FIP Tickets loads data from a server in the intranet of Deutsche Bahn (fipguide.gitpages.tech.rz.db.de), which is operated by DB Systel GmbH, Jürgen-Ponto-Platz 1, 60329 Frankfurt am Main. In doing so, your IP address and technical data of your browser are transmitted to this server. The server can only be reached from the Deutsche Bahn network; outside this network, no transmission takes place. The legal basis is our legitimate interest according to Art. 6 para. 1 lit. f GDPR in providing up-to-date information for Deutsche Bahn employees.
+
+## External Links
+
+Our website contains links to external services, e.g. Discord, GitHub, LinkedIn and PayPal. Merely visiting our website does not transmit any data to these providers. Only when you click on a link do the privacy policies of the respective provider apply.
+
+## Content Management System
+
+Contributors use the Decap CMS content management system to edit content. Login is done via a GitHub account and is handled via Netlify (Netlify, Inc., USA). In doing so, GitHub and Netlify process the account data of the logged-in person according to their respective privacy policies. Contributions are stored publicly in the project’s GitHub repository and are linked to the GitHub username there. The legal basis is Art. 6 para. 1 lit. f GDPR. This processing only takes place when using the content management system at /admin, not during the usual use of the website.
 
 ## Your Rights
 
-You have the right to information, correction, deletion, restriction, data portability, revocation, and objection.
+You have the following rights towards us regarding the personal data concerning you:
 
-If you believe that the processing of your data violates data protection law or your data protection rights have otherwise been violated, you can complain to us at [nextstop@fipguide.org](mailto:nextstop@fipguide.org) or the data protection authority.
+- Right of access (Art. 15 GDPR)
+- Right to rectification (Art. 16 GDPR)
+- Right to erasure (Art. 17 GDPR)
+- Right to restriction of processing (Art. 18 GDPR)
+- Right to data portability (Art. 20 GDPR)
+- Right to withdraw consent given with effect for the future (Art. 7 para. 3 GDPR)
+
+To exercise your rights, an email to [nextstop@fipguide.org](mailto:nextstop@fipguide.org) is sufficient. Please note that for data that we cannot assign to a person (e.g. the aggregated counts of GoatCounter), we cannot provide information or carry out deletion (Art. 11 GDPR).
+
+You also have the right to lodge a complaint with a data protection supervisory authority (Art. 77 GDPR). The authority responsible for us is:
+
+Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen\
+Kavalleriestraße 2–4\
+40213 Düsseldorf
+
+## Right to Object
+
+Insofar as we process your data on the basis of our legitimate interest (Art. 6 para. 1 lit. f GDPR), you have the right according to Art. 21 GDPR to object to this processing at any time on grounds relating to your particular situation. You can send your objection by email to [nextstop@fipguide.org](mailto:nextstop@fipguide.org).
+
+In addition, you can object to tracking by GoatCounter at any time without giving reasons by [disabling tracking by GoatCounter in this browser](/privacy/#toggle-goatcounter). This stores an entry in your browser that prevents tracking; accessing the link again re-enables tracking. The objection only applies to the respective browser and device and is lost if you delete your browser’s website data. Alternatively, you can disable JavaScript, use a script blocker or enable the “Global Privacy Control” or “Do Not Track” setting in your browser.

@@ -296,6 +296,12 @@ La réservation de trains directs (sans correspondance) est moins chère via ÖB
 La réservation de trains directs (sans correspondance) est moins chère via ÖBB.
 {{% /booking %}}
 
+{{% booking id="sbb-ticket-office"
+    classes.first="4 CHF"
+    classes.second="4 CHF"
+    subtitle="Réservation de Billets FIP 50 réservée aux agents de la CFF et des ÖBB"
+/%}}
+
 {{% booking id="sz-ticket-office"
     subtitle="Pour les trains transfrontaliers entre la Slovénie et l’Autriche"
 /%}}

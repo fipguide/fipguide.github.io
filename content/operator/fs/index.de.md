@@ -54,7 +54,7 @@ Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
 #### Reservierungen
 
-Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis heißt _CAMBIO SERVIZIO_ und ist nur vor Ort an Trenitalia Ticketschaltern erhältlich.
+Die Züge sind bei Nutzung mit FIP Freifahrtschein aufpreispflichtig, der zu lösende Aufpreis heißt _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) und ist nur vor Ort an Trenitalia Ticketschaltern erhältlich, [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf).
 
 {{% /train-category %}}
 
@@ -77,7 +77,7 @@ Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
 #### Reservierungen
 
-Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis heißt _CAMBIO SERVIZIO_ und ist nur vor Ort an Trenitalia Ticketschaltern erhältlich.
+Die Züge sind bei Nutzung mit FIP Freifahrtschein aufpreispflichtig, der zu lösende Aufpreis heißt _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) und ist nur vor Ort an Trenitalia Ticketschaltern erhältlich, [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf).
 
 {{% /train-category %}}
 
@@ -96,7 +96,7 @@ Preise [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf)
 
 #### Reservierungen
 
-Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis heißt _CAMBIO SERVIZIO_ und ist nur vor Ort an Trenitalia Ticketschaltern erhältlich.
+Die Züge sind bei Nutzung mit FIP Freifahrtschein aufpreispflichtig, der zu lösende Aufpreis heißt _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) und ist nur vor Ort an Trenitalia Ticketschaltern erhältlich, [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf).
 
 {{% /train-category %}}
 
@@ -128,7 +128,7 @@ Schnellzug meist abseits von Hochgeschwindigkeitsstrecken.
 
 #### Reservierungen
 
-Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis heißt _CAMBIO SERVIZIO_ und ist nur vor Ort an Trenitalia Ticketschaltern erhältlich.
+Die Züge sind bei Nutzung mit FIP Freifahrtschein aufpreispflichtig, der zu lösende Aufpreis heißt _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) und ist nur vor Ort an Trenitalia Ticketschaltern erhältlich, [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf).
 
 {{% /train-category %}}
 
@@ -145,7 +145,7 @@ Nationaler Nachtzug mit Schlaf-, Liege- und Sitzwagen.
 
 #### Reservierungen
 
-Die Züge sind bei Nutzung mit FIP aufpreispflichtig, der zu lösende Aufpreis heißt _CAMBIO SERVIZIO_ und ist nur vor Ort an Trenitalia Ticketschaltern erhältlich. Für Liege- oder Schlafwagen kommt noch ein Aufschlag für die jeweilige Kategorie dazu.
+Die Züge sind bei Nutzung mit FIP Freifahrtschein aufpreispflichtig, der zu lösende Aufpreis heißt _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) und ist nur vor Ort an Trenitalia Ticketschaltern erhältlich, [siehe Ticket- und Reservierungskauf](#ticket--und-reservierungskauf).
 
 {{% /train-category %}}
 
@@ -275,6 +275,19 @@ In Le Frecce Fernzügen gibt es teilweise abweichende Klassenkategorien. [^1]
 
 ## Ticket- und Reservierungskauf
 
+Bei der Nutzung von Fernverkehszügen mit FIP Freifahrtschein muss ein Aufschlag _Biglietti gratuiti FS_ (berechnet nach dem Tarif _CAMBIO SERVIZIO_) erworben werden.
+
+Bei FIP 50 Tickets setzt sich der Preis ebenfalls aus dem Zuschlag und 50 % Rabatt auf den Regionalzugtarif zusammen. _CAMBIO SERVIZIO_ berechnet sich bei der Trenitalia in der Regel an der Differenz zwischen dem Fern- und dem Regionalzugtarif. [^4]
+
+| Zugkategorie          | FIP 50                                   | FIP Freifahrtschein        | FIP Dienstreise            |
+| --------------------- | ---------------------------------------- | -------------------------- | -------------------------- |
+| `FR AV` Frecciarossa  | 50 % Tariffa Regionale + Combio Servizio | Combio Servizio            | Diritto Ammissione (25 €)  |
+| `FA AV` Frecciargento | 50 % Tariffa Regionale + Combio Servizio | Combio Servizio            | Diritto Ammissione (25 €)  |
+| `FB` Frecciabianca    | 50 % Tariffa Regionale + Combio Servizio | Combio Servizio            | Diritto Ammissione (20 €)  |
+| `IC` InterCity        | 50 % Tariffa Regionale + Combio Servizio | Combio Servizio            | Diritto Ammissione (3 €)   |
+| `ICN` InterCity Notte | 50 % Tariffa Regionale + Combio Servizio | Combio Servizio            | Combio Servizio Notte      |
+| Nahverkehr            | 50 % Tariffa Regionale                   | Kein Aufpreis erforderlich | Kein Aufpreis erforderlich |
+
 ### Online
 
 {{% booking id="db-website-fip-db"
@@ -322,6 +335,11 @@ InterCity (IC): 3 € (1./2. Klasse) \
 InterCity Notte (ICN): 25 € (1./2. Klasse, Sitzwagen)
 {{% /highlight %}}
 {{% /booking %}}
+
+{{% booking id="sbb-ticket-office"
+    subtitle="Nur für SBB Mitarbeitende und nicht für alle Verbindungen verfügbar"
+    classes=nil
+/%}}
 
 ### Im Zug
 
@@ -458,3 +476,5 @@ Für Fahrten im Fernverkehr lohnt sich der FIP Freifahrtschein nur eingeschränk
 [^2]: [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1473286775702290556)
 
 [^3]: [Trenitalia – Kinderermäßigung](https://www.trenitalia.com/en/offers/children-s-discount.html)
+
+[^4]: [FIP Guide Community – Trenitalia Ticket Table](https://discord.com/channels/1250522473188032512/1503438273937412256/1514223273603235870)

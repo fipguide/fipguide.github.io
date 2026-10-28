@@ -271,6 +271,11 @@ Alternatively, you can also book directly through the [Polregio website](https:/
     subtitle="Except EIP"
 /%}}
 
+{{% booking id="sbb-ticket-office"
+    classes=nil
+    subtitle="Booking only possible to a limited extent on selected connections"
+/%}}
+
 ### On the Train
 
 #### PKP Intercity (EIC, IC, TLK)
