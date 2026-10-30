@@ -1,5 +1,6 @@
 enableRobotsTXT: true
 enableGitInfo: true
+buildFuture: true
 ignoreLogs: ["warning-rendershortcodes-in-html"]
 
 security:

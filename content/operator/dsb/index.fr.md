@@ -166,6 +166,10 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
 
 {{% booking id="db-ticket-office" /%}}
 
+{{% booking id="sbb-ticket-office"
+    reservations=nil
+/%}}
+
 ## Réductions
 
 {{< children-discount >}}

@@ -337,6 +337,11 @@ InterCity Notte (ICN): € 25 (1st/2nd class, seat car)
 {{% /highlight %}}
 {{% /booking %}}
 
+{{% booking id="sbb-ticket-office"
+    subtitle="Only for SBB employees and not available for all connections"
+    classes=nil
+/%}}
+
 ### On the Train
 
 If supplements are not purchased before travel, an additional on-board surcharge is applied (except where no sales points or ticket machines are available at the departure station).

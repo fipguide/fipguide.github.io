@@ -66,19 +66,29 @@ Die Züge führen Wagen der 1., 2. und 3. Klasse. Mit Ausnahme einiger Saisonzü
 
 ### Vor Ort
 
-Reisezentren befinden sich nur noch in Vilnius, Kaunas und Klaipeda; ob sie 2026 noch Fahrkarten verkaufen oder reine Infoschalter werden, war Ende 2025 noch nicht absehbar.
+LTG-Link verfügt über keine Ticketschalter in den Bahnhöfen, an denen FIP Tickets und Reservierungen verkauft werden könnten. [^5]
 
-Die inzwischen an vielen Stationen aufgestellten Fahrkartenautomaten geben keine FIP-Fahrscheine aus (Stand: 11/2025).
+Auch an Fahrkartenautomaten können keine FIP Tickets erworben werden. [^5]
+
+### Im Zug
+
+Im Zug können FIP 50 Tickets und Reservierungen (bzw. kostenlose Tickets für Züge ohne Reservierungspflicht) erworben werden. [^5]
+
+{{% highlight tip %}}
+Der Vorabkauf von Tickets und Reservierungen online über die [Website](#online) wird von LTG-Link dringend empfohlen, damit in Züge mit Reservierungspflicht eine Mitfahrt garantiert werden kann.
+
+Dies gilt insbesonders für die Route Vilnius – Klaipėda in den Sommermonaten, da hier möglicherweise Züge ausgebucht sind.
+{{% /highlight %}}
 
 ## Ermäßigungen
 
 {{< children-discount >}}
 
-| Alter                                | Ermäßigung                                                                                                                                    |
-| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| {{< icon "child_care" >}} 0–7 Jahre  | Kostenlos, 2. Klasse, auf dem Schoß der Eltern (max. 2 Kinder ohne eigenen Sitzplatz); andernfalls 50% Ermäßigung auf den regulären Preis[^4] |
-| {{< icon "child_care" >}} 8–17 Jahre | 50% Ermäßigung auf den regulären Preis[^4]                                                                                                    |
-| {{< icon "person" >}} ab 18 Jahre    | Regulärer Preis[^4]                                                                                                                           |
+| Alter                                | Ermäßigung                                                                                                                                                     |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–7 Jahre  | Kostenlos, 2. Klasse, auf dem Schoß der Eltern (max. 2 Kinder ohne eigenen Sitzplatz); andernfalls 50% Ermäßigung auf den regulären Preis[^4]<sup>, </sup>[^5] |
+| {{< icon "child_care" >}} 8–17 Jahre | 50% Ermäßigung auf den regulären Preis[^4]                                                                                                                     |
+| {{< icon "person" >}} ab 18 Jahre    | Regulärer Preis[^4]                                                                                                                                            |
 
 ### Weitere Ermäßigungen
 
@@ -88,7 +98,7 @@ Personen ab 18 Jahren zahlen den vollen regulären Preis, jedoch gibt es zahlrei
 
 ### Spezialzüge und historische Fahrten
 
-Im Sommer betreibt LTG-Link freitags bis sonntags direkte Züge zwischen Vilnius und der Ostsee („seaside express"), die nur in Kretinga und Klaipeda halten. In Kretinga besteht Bus-Anschluss nach Palanga, in Klaipeda auf die Kurische Nehrung. FIP gilt in diesen Zügen und Anschlussbussen.[^3]
+Im Sommer betreibt LTG-Link direkte Züge zwischen Vilnius und der Ostsee als _Seaside Express_ bzw. _Palangos Link_ nach Kretinga. In Kretinga besteht Bus-Anschluss nach Palanga. FIP gilt in diesen Zügen und Anschlussbussen. Weitere Informationen sind auf der [Website von LTG-Link](https://ltg.lt/en/naujienos/2026/from-city-to-seaside-with-one-ticket/) verfügbar.[^3]<sup>, </sup>[^5]
 
 ### Fahrtunterbrechung
 
@@ -111,3 +121,5 @@ In Vilnius betreibt LTG-Link die einzige Lounge. Den Zugang erhält man bereits 
 [^3]: [Feedback: LTG Link Sea Side Express](https://github.com/fipguide/fipguide.github.io/issues/817)
 
 [^4]: [LTG-Link – Ermäßigung für Kinder und Schüler:innen](https://ltglink.lt/en/discount-for-children-and-pupils)
+
+[^5]: [LTG-Link Mail Feedback Ticketschalter und Reservierungen](https://github.com/fipguide/fipguide.github.io/issues/543)

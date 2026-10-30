@@ -360,6 +360,11 @@ Currently, no FIP 50 Tickets for domestic travel within Germany can be sold via 
 Reservation for individual trains without transfer is cheaper via ÖBB.
 {{% /booking %}}
 
+{{% booking id="sbb-ticket-office"
+    classes.first="CHF 6"
+    classes.second="CHF 6"
+/%}}
+
 ### On the Train
 
 FIP 50 Tickets cannot be purchased on the train.

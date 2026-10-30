@@ -131,6 +131,12 @@ Aufgrund der anfallenden Buchungsgebühr lohnt sich ggf. der Kauf einer regulär
 
 {{% booking id="cfl-ticket-office" /%}}
 
+{{% booking id="sbb-ticket-office"
+    classes.first="6 CHF"
+    classes.second="6 CHF"
+    subtitle="Buchung von FIP 50 Tickets nur für Mitarbeitende der SBB und SNCF möglich"
+/%}}
+
 ### Im Zug
 
 Tickets für die Fahrt in der ersten Klasse bzw. Upgrades von der zweiten in die ersten Klasse müssen vor dem Einsteigen in den Zug gekauft werden.

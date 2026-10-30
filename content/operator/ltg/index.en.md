@@ -66,19 +66,29 @@ Trains have 1st, 2nd, and 3rd class coaches. Except for some seasonal trains bet
 
 ### On-Site
 
-Travel centers are now only located in Vilnius, Kaunas, and Klaipeda; whether they will still sell tickets or become information desks only in 2026 was not yet clear at the end of 2025.
+LTG-Link does not have any ticket offices at stations where FIP tickets and reservations could be sold. [^5]
 
-The ticket machines now installed at many stations do not issue FIP tickets (as of 11/2025).
+FIP tickets cannot be purchased at ticket machines either. [^5]
+
+### On the Train
+
+On the train, FIP 50 Tickets and reservations (or free tickets for trains without a reservation requirement) can be purchased. [^5]
+
+{{% highlight tip %}}
+LTG-Link strongly recommends purchasing tickets and reservations in advance online via the [Website](#online) to guarantee a seat on trains with a reservation requirement.
+
+This applies in particular to the Vilnius – Klaipėda route during the summer months, as trains may be fully booked here.
+{{% /highlight %}}
 
 ## Discounts
 
 {{< children-discount >}}
 
-| Age                                  | Discount                                                                                                                       |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| {{< icon "child_care" >}} 0–7 years  | Free of charge, 2nd class, on parent's lap (max. 2 children without own seat); otherwise 50% discount on the regular price[^4] |
-| {{< icon "child_care" >}} 8–17 years | 50% discount on the regular price[^4]                                                                                          |
-| {{< icon "person" >}} from 18 years  | Regular price[^4]                                                                                                              |
+| Age                                  | Discount                                                                                                                                        |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–7 years  | Free of charge, 2nd class, on parent's lap (max. 2 children without own seat); otherwise 50% discount on the regular price[^4]<sup>, </sup>[^5] |
+| {{< icon "child_care" >}} 8–17 years | 50% discount on the regular price[^4]                                                                                                           |
+| {{< icon "person" >}} from 18 years  | Regular price[^4]                                                                                                                               |
 
 ### Further Discounts
 
@@ -88,7 +98,7 @@ Persons aged 18 and over pay the full regular price, but there are numerous othe
 
 ### Special Trains and Historic Services
 
-In summer, LTG-Link operates direct trains between Vilnius and the Baltic Sea (“seaside express") on Fridays to Sundays, stopping only in Kretinga and Klaipeda. In Kretinga there is a bus connection to Palanga, in Klaipeda to the Curonian Spit. FIP is valid on these trains and connecting buses.[^3]
+In summer, LTG-Link operates direct trains between Vilnius and the Baltic Sea as _Seaside Express_ or _Palangos Link_ to Kretinga. In Kretinga there is a bus connection to Palanga. FIP is valid on these trains and connecting buses. Further information is available on the [LTG-Link website](https://ltg.lt/en/naujienos/2026/from-city-to-seaside-with-one-ticket/).[^3]<sup>, </sup>[^5]
 
 ### Break of Journey
 
@@ -111,3 +121,5 @@ LTG-Link operates the only lounge in Vilnius. Access is free for 1st class passe
 [^3]: [Feedback: LTG Link Sea Side Express](https://github.com/fipguide/fipguide.github.io/issues/817)
 
 [^4]: [LTG-Link – Discount for Children and Pupils](https://ltglink.lt/en/discount-for-children-and-pupils)
+
+[^5]: [LTG-Link Mail Feedback Ticket Office and Reservations](https://github.com/fipguide/fipguide.github.io/issues/543)
