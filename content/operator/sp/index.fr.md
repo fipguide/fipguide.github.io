@@ -235,18 +235,17 @@ Sur les sections suivantes, les Coupons FIP et les Billets FIP 50 sont valables 
 - WAB : Grindelwald à Lauterbrunnen via Kleine Scheidegg et Wengen
 - BLM : Lauterbrunnen à Grütschalp (téléphérique)
 - BLM : Grütschalp à Mürren (train)
-- JB : Téléphérique Eiger Express de Grindelwald à Eigergletscher
-- JB: Jungfraubahn sur la section Kleine Scheidegg – Eigergletscher (train) [^5]
 
 Sur les sections suivantes, les Coupons FIP ne sont pas valables, mais les Billets FIP 50 sont acceptés :
 
 - BGF : Grindelwald – First (télécabine)
 - BOB : Wilderswil – Schynige Platte (train)
 - HB : Interlaken – Harder Kulm (funiculaire)
-- JB : Jungfraubahn sur la section Eigergletscher – Jungfraujoch (train)
+- JB : Kleine Scheidegg – Jungfraujoch (train)
 
 Aucune réduction FIP n’est accordée sur les lignes suivantes :
 
+- Téléphérique Eiger Express de Grindelwald à Eigergletscher [^5]
 - Funiculaire Heimwehfluhbahn entre Interlaken et Heimwehfluh
 - Téléphérique Wengen – Männlichen
 - Télécabine Grindelwald – Männlichen (GGM)
@@ -1007,4 +1006,4 @@ Lors d’un voyage avec un Coupon, il est conseillé, si possible, de disposer �
 
 [^4]: [SBB – Billets et abonnements pour les enfants et les jeunes](https://www.sbb.ch/en/travel-information/individual-needs/travelling-with-children/tickets-travelcards.html)
 
-[^5]: [Feedback via Email](https://github.com/fipguide/fipguide.github.io/issues/1275)
+[^5]: [Information from Jungfraubahnen Management AG](https://github.com/fipguide/fipguide.github.io/issues/1128)

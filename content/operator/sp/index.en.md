@@ -235,18 +235,17 @@ On the following sections, FIP Coupons and FIP 50 Tickets are valid without rest
 - WAB: Grindelwald to Lauterbrunnen via Kleine Scheidegg and Wengen
 - BLM: Lauterbrunnen to Grütschalp (cable car)
 - BLM: Grütschalp to Mürren (train)
-- JB: Eiger Express cable car from Grindelwald to Eigergletscher
-- JB: Jungfraubahn on the section Kleine Scheidegg – Eigergletscher (train) [^5]
 
 On the following sections, FIP Coupons are not valid, but FIP 50 Tickets are accepted:
 
 - BGF: Grindelwald – First (gondola)
 - BOB: Wilderswil – Schynige Platte (train)
 - HB: Interlaken – Harder Kulm (funicular)
-- JB: Jungfraubahn on the section Eigergletscher – Jungfraujoch (train)
+- JB: Kleine Scheidegg – Jungfraujoch (train)
 
 No FIP discounts are granted on the following routes:
 
+- Eiger Express cable car from Grindelwald to Eigergletscher [^5]
 - Heimwehfluhbahn funicular from Interlaken to Heimwehfluh
 - Wengen – Männlichen aerial cableway
 - Grindelwald – Männlichen gondola (GGM)
@@ -1007,4 +1006,4 @@ When traveling with a Coupon, it is advisable, if possible, also to have the Cou
 
 [^4]: [SBB – Tickets and travelcards for children and young people](https://www.sbb.ch/en/travel-information/individual-needs/travelling-with-children/tickets-travelcards.html)
 
-[^5]: [Feedback via Email](https://github.com/fipguide/fipguide.github.io/issues/1275)
+[^5]: [Information from Jungfraubahnen Management AG](https://github.com/fipguide/fipguide.github.io/issues/1128)
