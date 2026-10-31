@@ -1046,6 +1046,9 @@ collections:
 singletons:
   - name: "borderpoints"
     label: "Border Points"
+    label_singular: "Border Point"
+    editor:
+      second_pane: false
     file: "content/country/borderpoints.{{locale}}.yaml"
     i18n: true
     fields:
