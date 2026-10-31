@@ -1,5 +1,6 @@
 ---
 title: BDŽ
+shortName: BDŽ
 country:
   - bulgaria
 operator: bdz

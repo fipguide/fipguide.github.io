@@ -1,5 +1,6 @@
 ---
 title: SBB CFF FFS
+shortName: SBB
 country:
   - switzerland
 operator: sbb

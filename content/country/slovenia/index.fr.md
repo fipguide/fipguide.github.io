@@ -4,6 +4,11 @@ country: slovenia
 params:
   operators_without_fip:
     - Optima Express
+  border_points:
+    - it-si
+    - si-hr
+    - at-si
+    - hu-si
 content_images:
   - image.webp
 ---
@@ -26,16 +31,7 @@ La ligne ferroviaire la plus pittoresque du pays est la ligne de Bohinj de Jesen
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                 | Points frontières                                                                                                    |
-| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| [Italie](/country/italy) ([FS](/operator/fs))        | Nova Gorica (fr), Villa Opicina (fr) (slovène : Opčine, triangulaire : Opcina)                                       |
-| Croatie (HŽ)                                         | Buzet (Gr), Čakovec (Gr), Dobova (Gr), Kumrovec (Gr), Metlika (Gr), Mursko Središće (Gr), Rogatec (Gr), Šapjane (Gr) |
-| [Autriche](/country/austria) ([ÖBB](/operator/oebb)) | Bleiburg (Gr) (slovène : Pliberk), Jesenice (Gr) (allemand : Assling), Spielfeld (Gr) (slovène : Špilje)             |
-| Hongrie (MÁV, [GySEV](/operator/gysev))              | Hodoš (Gr) (également appelé Őrihodos)                                                                               |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Italie
 

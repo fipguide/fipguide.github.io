@@ -1,5 +1,6 @@
 ---
 title: ÖBB
+shortName: ÖBB
 country:
   - austria
   - liechtenstein

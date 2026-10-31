@@ -4,8 +4,8 @@ country: austria
 params:
   operators_without_fip:
     - Achenseebahn
-    - ’[CAT (City Airport Train)
-      Vienne](/operator/oebb#aéroport-de-vienne--city-airport-train-cat "CAT")’
+    - ’[CAT (City Airport Train) Vienne](/operator/oebb#aéroport-de-vienne--city-airport-train-cat
+      "CAT")’
     - Graz–Köflacher Bahn (GKB)
     - Montafonerbahn
     - NÖVOG
@@ -16,6 +16,15 @@ params:
     - WESTbahn
     - Wiener Lokalbahn (Badner Bahn)
     - Zillertalbahn
+  border_points:
+    - at-cz
+    - at-sk
+    - at-hu-gysev
+    - at-hu-mav
+    - at-si
+    - at-it
+    - at-ch
+    - at-de
 content_images:
   - image.webp
 ---
@@ -43,20 +52,7 @@ Ces deux lignes sont bien développées, avec une fréquence d’un train toutes
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                          | Points frontières                                                                                                      |
-| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [République tchèque](/country/czechia) ([ČD](/operator/cd))   | Bernhardsthal (Gr), Unterretzbach (Gr), Gmünd NÖ (Gr), Summerau (Gr)                                                   |
-| [Slovaquie](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Marchegg (Gr), Kittsee (Gr)                                                                                            |
-| Hongrie ([GySEV](/operator/gysev))                            | Pamhagen (Gr), Szentgotthárd, Sopron                                                                                   |
-| Hongrie (MÁV)                                                 | Hegyeshalom (Gr), Sopron                                                                                               |
-| [Slovénie](/country/slovenia) ([SŽ](/operator/sz))            | Bleiburg (Gr), Spielfeld-Strass (Gr), Rosenbach (Gr)                                                                   |
-| [Italie](/country/italy) ([FS](/operator/fs))                 | Brennero/Brenner, San Candido/Innichen, Tarvisio Boscoverde                                                            |
-| [Suisse](/country/switzerland) ([CFF](/operator/sbb))         | Buchs SG, St. Margrethen                                                                                               |
-| [Allemagne](/country/germany) ([DB](/operator/db))            | Passau, Salzbourg (trains régionaux vers Salzburg Liefering), Simbach am Inn, Kufstein, Mittenwald (Gr), Lindau-Reutin |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### République tchèque
 

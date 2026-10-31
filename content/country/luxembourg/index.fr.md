@@ -1,6 +1,11 @@
 ---
 title: Luxembourg
 country: luxembourg
+params:
+  border_points:
+    - be-lu
+    - de-lu
+    - lu-fr
 content_images:
   - image.webp
 ---
@@ -17,15 +22,7 @@ La ligne principale nord-sud traverse tout le pays et passe en partie par les mo
 
 ## Arrivée et points frontières
 
-{{% expander "Point frontière" border %}}
-
-| Pays                                                  | Points frontières                  |
-| ----------------------------------------------------- | ---------------------------------- |
-| [Belgique](/country/belgium) ([SNCB](/operator/sncb)) | Athus, Gouvy (fr), Sterpenich (fr) |
-| [Allemagne](/country/germany) ([DB](/operator/db))    | Igel (Gr)                          |
-| [France](/country/france) ([SNCF](/operator/sncf))    | Bettembourg (fr), Rodange (fr)     |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Belgique
 

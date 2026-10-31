@@ -1,5 +1,6 @@
 ---
 title: DB
+shortName: DB
 country:
   - germany
 operator: db

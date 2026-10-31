@@ -1,6 +1,11 @@
 ---
 title: "North Macedonia"
 country: "north-macedonia"
+params:
+  border_points:
+    - rs-mk
+    - gr-mk
+    - mk-xk
 content_images:
   - image.webp
 ---
@@ -20,15 +25,7 @@ There is no regular timetable, but only individual trains operating at longer in
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                                    | Border Points                                          |
-| ---------------------------------------------------------- | ------------------------------------------------------ |
-| [Serbia](/country/serbia) ([SV](/operator/sv))             | Tabanovci (fr) (Serbian: Табановце; Albanian: Tabanoc) |
-| [Greece](/country/greece) ([Hellenic Train](/operator/ht)) | Gevgelija (fr) (Macedonian: Гевгелија)                 |
-| Kosovo (Trainkos)                                          | Elez Han (Serbian: Елез Хан)                           |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Serbia
 

@@ -1,5 +1,6 @@
 ---
 title: "ŽFBH"
+shortName: ŽFBH
 country:
   - "bosnia-and-herzegovina"
 operator: "žfbh"

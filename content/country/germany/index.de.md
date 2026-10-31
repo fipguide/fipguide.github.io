@@ -82,6 +82,21 @@ params:
     - WESTbahn – WB
     - WestfalenBahn – WFB
     - Württembergische Eisenbahn-Gesellschaft mbH – WEG
+  border_points:
+    - dk-de
+    - de-se
+    - de-pl
+    - cz-de
+    - at-de
+    - de-bsb
+    - de-ch
+    - de-fr
+    - de-lu
+    - be-de
+    - de-eurostar
+    - de-nl
+  border_points_footnotes:
+    - MS = Mitte See
 content_images:
   - image.webp
 ---
@@ -136,26 +151,7 @@ Die "Allianz pro Schiene" prämiert einmal jährlich die schönsten Bahnhöfe de
 Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgeführt sein als Land (Bahngesellschaft) und ihre Grenzpunkte.
 -->
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                                                            | Grenzpunkte                                                                                                                                                                                            |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Dänemark](/country/denmark) ([DSB](/operator/dsb))                             | Flensburg (Gr), Rostock Seehafen Fähre (Scandlines), Puttgarden (MS), Tønder (Gr)                                                                                                                      |
-| Schweden (SJ)                                                                   | Lübeck-Travemünde Hafen, Lübeck-Travemünde Skandinavienkai, Sassnitz (Gr)                                                                                                                              |
-| [Polen](/country/poland) ([PKP](/operator/pkp))                                 | Alhlbeck (Gr), Forst (Gr), Frankfurt (Oder) (Gr), Grambow (Gr), Gubin (Gr), Kostrzyn nad Odrą (Gr), Tantow (Gr), Zgorzelec (Gr)                                                                        |
-| [Tschechien](/country/czechia) ([ČD](/operator/cd))                             | Bayerisch Eisenstein, Cheb (Gr), Furth im Wald (Gr), Kraslice (Gr), Potůčky (Gr), Rumburk (Gr), Schöna (Gr), Sebnitz (Gr), Selb-Plößberg (Gr), Vejprty (Gr), Vojtanov (Gr), Waidhaus (Gr), Zittau (Gr) |
-| [Österreich](/country/austria) ([ÖBB](/operator/oebb))                          | Kufstein, Lindau Reutin, Mittenwald (Gr), Passau Hbf, Salzburg Hbf, Simbach am Inn                                                                                                                     |
-| [BSB](/operator/bsb)                                                            | Friedrichshafen, Langenargen, Lindau, Konstanz, Radolfzell, Schaffhausen, Überlingen                                                                                                                   |
-| [Schweiz](/country/switzerland) ([SBB](/operator/sbb), BLS, [SP](/operator/sp)) | Basel Bad Bf, Konstanz, Schaffhausen, Waldshut                                                                                                                                                         |
-| [Frankreich](/country/france) ([SNCF](/operator/sncf))                          | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (Gr), Neuenburg (Baden) (Gr), Wissembourg (Gr)                                                                                        |
-| [Luxemburg](/country/luxembourg) ([CFL](/operator/cfl))                         | Igel (Gr)                                                                                                                                                                                              |
-| [Belgien](/country/belgium) ([SNCB](/operator/sncb))                            | Aachen Süd (Gr)                                                                                                                                                                                        |
-| [Eurostar](/operator/eurostar)                                                  | Aachen, Duisburg, Düsseldorf, Düsseldorf Airport, Essen, Köln                                                                                                                                          |
-| [Niederlande](/country/netherlands) ([NS](/operator/ns))                        | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr)                                                                                                      |
-
-MS = Mitte See
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Dänemark
 

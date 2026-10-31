@@ -1,6 +1,9 @@
 ---
 title: Montenegro
 country: montenegro
+params:
+  border_points:
+    - me-rs
 content_images:
   - image.webp
 ---
@@ -21,13 +24,7 @@ Die Verbindung von Podgorica nach Shkodër (Albanien) existiert, wird aktuell je
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                            | Grenzpunkte       |
-| ----------------------------------------------- | ----------------- |
-| [Serbien](/country/serbia) ([SV](/operator/sv)) | Bijelo Polje (Gr) |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Serbien
 

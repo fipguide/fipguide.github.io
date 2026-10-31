@@ -1,5 +1,6 @@
 ---
 title: National Rail
+shortName: National Rail
 country:
   - united-kingdom
 operator: gb

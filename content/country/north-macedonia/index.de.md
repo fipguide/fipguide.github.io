@@ -1,6 +1,11 @@
 ---
 title: "Nordmazedonien"
 country: "north-macedonia"
+params:
+  border_points:
+    - rs-mk
+    - gr-mk
+    - mk-xk
 content_images:
   - image.webp
 ---
@@ -20,15 +25,7 @@ Es gibt keinen Taktverkehr, sondern nur einzelne Züge, welche in größeren zei
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                                             | Grenzpunkte                                              |
-| ---------------------------------------------------------------- | -------------------------------------------------------- | --- |
-| [Serbien](/country/serbia) ([SV](/operator/sv))                  | Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc) |
-| [Griechenland](/country/greece) ([Hellenic Train](/operator/ht)) | Gevgelija (fr) (Mazedonisch: Гевгелија)                  |
-| Kosovo (Trainkos)                                                | Elez Han (Serbisch: Елез Хан)                            |     |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Serbien
 

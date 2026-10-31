@@ -5,6 +5,10 @@ params:
   operators_without_fip:
     - RegioJet
     - Leo Express
+  border_points:
+    - hu-sk-gysev
+    - hu-sk-mav
+    - cz-sk
 content_images:
   - image.webp
 ---
@@ -32,15 +36,7 @@ Ein besonderes Highlight ist die Fahrt in der hohen Tatra mit der Tatranská že
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                                  | Grenzpunkte                                                                                                 |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| [Ungarn](/country/hungary) ([GySEV](/operator/gysev)) | Rajka (Gr)                                                                                                  |
-| [Ungarn](/country/hungary) ([MÁV](/operator/mav))     | Bánréve (Gr), Čaňa (Gr), Fiľakovo (Gr), Komárom (Gr), Sátoraljaújhely (Gr), Szob (Gr)                       |
-| [Tschechien](/country/czechia) ([ČD](/operator/cd))   | Čadca (Gr), Hodonin (Gr), Horní Lideč (Gr), Kúty (Gr), Myjava (Gr), Nemšová (Gr), Skalica na Slovensku (Gr) |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Polen
 

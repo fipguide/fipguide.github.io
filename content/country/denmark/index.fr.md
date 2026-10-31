@@ -9,6 +9,9 @@ params:
     - Nordjyske Jernbaner
     - SJ
     - Snälltåget
+  border_points:
+    - dk-se
+    - dk-de
 content_images:
   - image.webp
 ---
@@ -38,14 +41,7 @@ Les trains danois circulent généralement à horaires réguliers et sont ponctu
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                               | Points frontières                                                              |
-| -------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Suède (SJ)                                         | Helsingborg (via Helsingør)                                                    |
-| [Allemagne](/country/germany) ([DB](/operator/db)) | Flensburg (Gr), Puttgarden (via Rødby Faerge), Tønder, Warnemünde (via Gedser) |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Suède
 

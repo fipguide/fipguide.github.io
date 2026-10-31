@@ -1,0 +1,31 @@
+{{- $country := .country -}}
+{{- $page := .page -}}
+{{- $rows := partial "border-points/rows" . -}}
+
+{{- with $rows -}}
+  <table>
+    <thead>
+      <tr>
+        <th>{{ T "borderPoints.country" }}</th>
+        <th>{{ T "borderPoints.points" }}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{- range . }}
+        <tr>
+          <td>{{ .label | safeHTML }}</td>
+          <td>{{ delimit .points ", " }}</td>
+        </tr>
+      {{- end }}
+    </tbody>
+  </table>
+
+  {{- with $page.Params.border_points_footnotes -}}
+    <p class="o-border-points__footnotes">
+      {{- range $index, $footnote := . -}}
+        {{- if $index }}<br />{{ end -}}
+        {{ $footnote }}
+      {{- end -}}
+    </p>
+  {{- end -}}
+{{- end -}}

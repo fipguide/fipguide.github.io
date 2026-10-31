@@ -4,6 +4,11 @@ country: lithuania
 params:
   operators_without_fip:
     - Aukštaitijos siaurasis geležinkelis (chemin de fer musée)
+  border_points:
+    - lv-lt
+    - lt-by
+    - lt-pl
+    - lt-ru
 content_images:
   - image.webp
 ---
@@ -40,16 +45,7 @@ Sur la ligne vers Turmantas, les anciennes automotrices DR1A d’origine soviét
 
 ## Arrivée et points frontières
 
-{{% expander "Point frontière" border %}}
-
-| Pays                                              | Points frontière                                                          |
-| ------------------------------------------------- | ------------------------------------------------------------------------- |
-| [Lettonie](/country/latvia) (LDz)                 | Joniškis                                                                  |
-| Biélorussie                                       | Frontière fermée                                                          |
-| [Pologne](/country/poland) ([PKP](/operator/pkp)) | Mockava                                                                   |
-| Russie                                            | Pas de montée/descente en transit Russie-Biélorussie-Lituanie-Kaliningrad |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Lettonie
 
