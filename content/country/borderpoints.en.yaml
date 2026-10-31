@@ -310,7 +310,6 @@ cz-de:
       id: czechia
     operators:
       - id: cd
-      - id: kd
   b:
     country:
       id: germany
