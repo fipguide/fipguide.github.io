@@ -411,44 +411,40 @@ Les trains régionaux sont classés en liés à un train (_prenotabile_) et non 
 **Lié à un train :** \
 Les billets pour les trains liés à un train ne sont valables que pour le train indiqué sur le billet. Ces trains sont identifiés par :
 
-{{% float-image
+{{< float-image
     src="prenotabile_2.webp"
     alt="FS Prenotabile Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 La mention "prenotabile" dans les informations du train :
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="prenotabile_1.webp"
     alt="FS Prenotabile Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 L’intitulé du billet "Prenotazione – Ordinaria" :
-{{% /float-image %}}
+{{< /float-image >}}
 
 **Non lié à un train :** \
 Les billets pour les trains non liés à un train sont valables dans le train réservé et tous les autres trains non liés à un train sur le trajet, mais pas dans les trains liés à un train.
 
-{{% float-image
+{{< float-image
     src="ordinaria_2.webp"
     alt="FS Ordinaria Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 La mention "non prenotabile" dans les informations du train :
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="ordinaria_1.webp"
     alt="FS Ordinaria Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 L’intitulé du billet "Ordinaria" :
-{{% /float-image %}}
+{{< /float-image >}}
 
 {{% /expander %}}
 

@@ -91,9 +91,9 @@ Les informations suivantes doivent être indiquées dans l’e-mail:
 En règle générale, Stena Line vous envoie deux e-mails de réponse. Le premier e-mail confirme la demande de réservation. Le deuxième e-mail vous propose une option de paiement via pay per link. Vous devez alors saisir les données de votre carte de crédit.
 Une fois le paiement effectué, vous recevez un e-mail avec la confirmation de réservation, qui fait également office de billet. Vous devez bien sûr emporter avec vous les billets FIP.
 
-{{< highlight important >}}
+{{% highlight important %}}
 Le paiement via pay per link n’est possible que le jour même où l’e-mail correspondant à la demande de paiement a été reçu. Le lien expire à minuit. Si tel est le cas, veuillez recontacter Stena Line.
-{{< /highlight >}}
+{{% /highlight %}}
 
 {{% booking-section "fip_50" %}}
 

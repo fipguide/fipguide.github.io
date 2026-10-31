@@ -32,8 +32,8 @@ InterCity Notte (ICN) : 25 € (1ère/2ᵉ classe, voiture assise)
 {{< /highlight >}}
 {{% /booking-section %}}
 
-{{< highlight tip >}}
+{{% highlight tip %}}
 Pour les trajets courts en Le Frecce et autres trains longue distance, le tarif normal est parfois moins cher que les Billets FIP à tarif réduit.
 
 De plus, les suppléments pour Le Frecce et autres trains longue distance peuvent parfois être plus chers qu’un Billet FIP 50.
-{{< /highlight >}}
+{{% /highlight %}}
