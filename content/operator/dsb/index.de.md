@@ -35,8 +35,7 @@ Innerhalb von Dänemark sind Reservierungen möglich, aber nicht verpflichtend. 
     title="IntercityLyn (ICL)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 IntercityLyn-Züge sind die schnellsten Züge der DSB. Sie verkehren mit bis zu 180 km/h mit wenigen Halten auf den Hauptstrecken durch das Land. So verbinden sie beispielsweise Aalborg, Aarhus und Kopenhagen miteinander.
@@ -48,8 +47,7 @@ IntercityLyn-Züge sind die schnellsten Züge der DSB. Sie verkehren mit bis zu 
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Intercity-Züge sind ähnlich wie die `ICL` Züge, halten jedoch öfter und sind langsamer. Sie verkehren auch grenzüberschreitend ins deutsche Flensburg.
@@ -61,8 +59,7 @@ Intercity-Züge sind ähnlich wie die `ICL` Züge, halten jedoch öfter und sind
     title="Eurocity-Express (ECE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Eurocity-Express-Züge verkehren grenzüberschreitend auf der Strecke zwischen Hamburg und Kopenhagen, die aktuell u. a. über Padborg, Kolding und Odense fahren.
@@ -78,8 +75,7 @@ Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in 
     title="Railjet (RAIL JET)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Railjet-Züge verkehren grenzüberschreitend auf der Strecke zwischen Kopenhagen und Prag via Hamburg und Berlin.
@@ -97,8 +93,7 @@ Eine Reservierung ist bei einer grenzüberschreitenden Fahrt empfehlenswert, in 
     title="Regionalzug (R / RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regional-Züge stellen den Nahverkehr zwischen verschiedenen Orten sicher. Sie halten außerhalb des S-Bahn-Netzes in Kopenhagen an allen Stationen und sind daher eher langsam.
@@ -118,8 +113,7 @@ Züge, die als `RE` gekennzeichnet sind, werden in der Regel von der DSB betrieb
     title="S-tog (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch mit FIP-Fahrkarten genutzt werden. Sie verkehrt im dichten Takt mit Halt an allen Stationen und ist mit S-Bahn-Systemen in anderen Ländern gut zu vergleichen.

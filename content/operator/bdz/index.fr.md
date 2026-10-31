@@ -36,8 +36,7 @@ Les catégories de trains sont affichées dans les horaires BDŽ comme décrit c
     title="Cross-country International Train (IC-INT)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains internationaux reliant Bucarest (Roumanie) à Sofia ou Varna. Ces trains ne circulent directement qu’en été ; sinon, une correspondance à Ruse est nécessaire. Dans d’autres horaires, ils peuvent aussi être indiqués comme `IR`.
@@ -55,8 +54,7 @@ La réservation de siège est obligatoire en 1ère et 2ᵉ classe.
     title="Intercity Fast Train (ICF)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 Trains relativement rapides reliant les grandes villes avec peu d’arrêts. Ils utilisent souvent du matériel plus moderne, par exemple d’anciennes voitures IC de la DB. Les trains de nuit peuvent inclure des voitures-couchettes ou lits, nécessitant une réservation.
@@ -72,8 +70,7 @@ Une réservation est obligatoire pour certains trains (indiqué par _R_).
     title="Express train (EXP)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 Trains nationaux reliant des villes avec peu d’arrêts.
@@ -89,8 +86,7 @@ Une réservation est obligatoire pour certains trains (indiqué par _R_).
     title="Regional Train (REG)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Trains régionaux en trafic intérieur, généralement avec de nombreux arrêts et peu rapides. Seules des voitures de 2ᵉ classe sont disponibles.
@@ -102,8 +98,7 @@ Trains régionaux en trafic intérieur, généralement avec de nombreux arrêts 
     title="Suburban Commuter Train (SUB)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains régionaux en trafic intérieur desservant la plupart des gares, circulant souvent à une fréquence plus élevée que les autres trains.

@@ -46,8 +46,7 @@ Tous les trains nécessitent une réservation obligatoire et un Billet FIP globa
     title="Eurostar (Bleu) : Londres – Paris / Bruxelles / Amsterdam"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Train à grande vitesse entre le Royaume-Uni et l’Europe.
@@ -66,8 +65,7 @@ Train à grande vitesse entre le Royaume-Uni et l’Europe.
     title="Eurostar (Rouge) : Paris – Amsterdam / Bruxelles / Cologne / Dortmund"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Train à grande vitesse entre Belgique, France, Pays-Bas et Allemagne.
@@ -87,8 +85,7 @@ Train à grande vitesse entre Belgique, France, Pays-Bas et Allemagne.
     title="Eurostar Snow : Amsterdam / Bruxelles – Alpes françaises"
     type="highspeed"
     fip_accepted=false
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Train à grande vitesse saisonnier vers les Alpes françaises.

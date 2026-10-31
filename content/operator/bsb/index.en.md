@@ -38,8 +38,7 @@ FIP discounts apply with the following operators:
     title="Fähre"
     type="ship"
     fip_accepted=partially
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     route_overview_url="https://www.bsb.de/sites/default/files/2025-11/VSU%20Fahrplan_2026_WEB.pdf"
 %}}
 

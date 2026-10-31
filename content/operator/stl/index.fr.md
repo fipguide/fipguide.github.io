@@ -35,8 +35,7 @@ Les liaisons maritimes sur la mer d’Irlande sont exploitées comme opérateur 
     title="Ferry (traversée de jour)"
     type="ship"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Un ferry circule dans chaque direction :
@@ -62,8 +61,7 @@ Une cabine peut être réservée en option.
     title="Ferry (traversée de nuit)"
     type="ship"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Un ferry circule dans chaque direction :

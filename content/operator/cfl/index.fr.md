@@ -36,8 +36,7 @@ Les agents de [SNCB / NMBS](/operator/sncb) et de [NS](/operator/ns) peuvent obt
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Les trains InterCity relient Luxembourg à Liège et Bruxelles en Belgique.
@@ -49,8 +48,7 @@ Les trains InterCity relient Luxembourg à Liège et Bruxelles en Belgique.
     title="Regionalexpress (RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains avec arrêt dans certaines gares.
@@ -62,8 +60,7 @@ Trains avec arrêt dans certaines gares.
     title="Regionalbahn (RB)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains avec arrêt dans toutes les gares.
@@ -75,8 +72,7 @@ Trains avec arrêt dans toutes les gares.
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 La CFL exploite également des lignes de bus interurbaines. Celles-ci n’acceptent pas le FIP, mais grâce à la gratuité des transports publics, aucun billet n’est requis.
@@ -88,8 +84,7 @@ La CFL exploite également des lignes de bus interurbaines. Celles-ci n’accept
     title="Funiculaire Pfaffenthal-Kirchberg"
     type="funicular"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Le funiculaire relie la halte ferroviaire Pfaffenthal-Kirchberg à la plateforme de correspondance sur le plateau du Kirchberg.

@@ -29,8 +29,7 @@ Les Coupons FIP et les Billets FIP 50 sont valables sur les relations de SV. Pou
     title="Inter City (COKO)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
     additional_information_url="https://srbijavoz.rs/brzi-vozovi/"
 %}}
 
@@ -48,8 +47,7 @@ Les réservations sont obligatoires sur cette ligne.
     title="Brzi Voz"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 La catégorie de train « Brzi Voz » correspond aux trains rapides classiques ; chez SV, ils circulent exclusivement en direction du Monténégro.
@@ -75,8 +73,7 @@ Les réservations peuvent être effectuées [par téléphone](#par-téléphone).
     title="Inter Regio Voz (IR)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Trains rapides avec arrêts dans les gares les plus importantes. Certains trains sont exploités uniquement avec des voitures de deuxième classe.
@@ -92,8 +89,7 @@ Sur certaines relations, les réservations sont obligatoires ; sur d’autres re
     title="Regio Expres (REx)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Les trains de la catégorie Regio Expres (REx), comme les trains de la catégorie `IR`, ne desservent que les villes les plus importantes.
@@ -109,8 +105,7 @@ Sur certaines relations, les réservations sont obligatoires ; sur d’autres re
     title="Regio Voz (Re)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Les trains de la catégorie Regio Voz (Re) relient les petites localités aux centres urbains. Ces trains s’arrêtent dans de nombreuses gares et circulent en règle générale avec du matériel roulant plus ancien. Certains trains sont exploités uniquement avec des voitures de deuxième classe.
@@ -126,8 +121,7 @@ Sur certaines relations, les réservations sont obligatoires ; sur d’autres re
     title="BG:VOZ"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Sous la marque BG:VOZ, SV exploite deux lignes dans l’agglomération de Belgrade, comparables à un S-Bahn.
@@ -139,8 +133,6 @@ Sous la marque BG:VOZ, SV exploite deux lignes dans l’agglomération de Belgra
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=nil
 %}}
 
 Les billets FIP ne sont pas valables sur les lignes de bus exploitées par SV, sauf s’il s’agit d’un service de remplacement ferroviaire.[^4]

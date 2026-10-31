@@ -34,8 +34,7 @@ There is no reservation requirement on any BLS train.
     title="InterRegio (IR) / RegioExpress (RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 National trains with stops in larger cities.
@@ -47,8 +46,7 @@ National trains with stops in larger cities.
     title="Regio (R) / S-Bahn (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains that stop at all stations. In urban areas also referred to as S-Bahn.
@@ -60,8 +58,7 @@ Trains that stop at all stations. In urban areas also referred to as S-Bahn.
     title="Panorama Express (PE)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 The GoldenPass Express is a continuous train connection from Montreux to Interlaken Ost operated by the BLS in cooperation with the [MOB](/operator/sp#mob). The MOB operates the train on the narrow-gauge section between Montreux and Zweisimmen, and the BLS on the standard-gauge section between Zweisimmen and Interlaken Ost. In the connection information, these trains are marked as `PE`.
@@ -79,8 +76,7 @@ Traveling without a seat reservation is only possible if there are free seats av
     title="Car Transport (AT)"
     type="regional"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Car trains on the routes Kandersteg – Goppenstein, Brig – Iselle, and Kandersteg – Iselle.
@@ -96,8 +92,7 @@ FIP is not valid on these trains, but the parallel running trains of the `RE 1` 
     title="Bus"
     type="bus"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP is valid on all BLS buses, including those of _Busland AG_ and buses used for rail replacement services.
@@ -109,8 +104,7 @@ FIP is valid on all BLS buses, including those of _Busland AG_ and buses used fo
     title="Ship"
     type="ship"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP is valid on BLS ships on Lake Thun and Lake Brienz.

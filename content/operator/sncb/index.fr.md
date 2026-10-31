@@ -39,8 +39,7 @@ En Belgique, aucune réservation n’est requise dans les trains de la SNCB, et 
     title="Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Trains à grande vitesse de la Deutsche Bahn, exploités par la SNCB en Belgique. Ils circulent entre Bruxelles (Midi) et l’Allemagne (Cologne / Francfort-sur-le-Main). Certains trains circulent également entre l’Allemagne et Anvers via l’aéroport de Bruxelles-Zaventem ou en été entre l’Allemagne et la côte belge. Tous les trains ICE peuvent également être utilisés en Belgique avec des Billets FIP sans supplément.
@@ -56,8 +55,7 @@ Une réservation est obligatoire pour les trajets transfrontaliers en haute sais
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Contrairement à d’autres pays, il ne s’agit pas de véritables trains longue distance, mais plutôt de trains régionaux rapides avec peu d’arrêts.
@@ -69,8 +67,7 @@ Contrairement à d’autres pays, il ne s’agit pas de véritables trains longu
     title="Eurocity Direct (ECD)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
 
@@ -89,8 +86,7 @@ Pour les trajets aux Pays-Bas, des règles spéciales s’appliquent, voir [NS E
     title="Eurocity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
 
@@ -103,8 +99,7 @@ Train international entre Rotterdam et Bruxelles avec plusieurs arrêts intermé
     title="Train local oder Lokale trein (L)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains régionaux s’arrêtant dans la plupart des gares, souvent simplement appelés `R` pour train régional dans les informations de correspondance.
@@ -116,8 +111,7 @@ Trains régionaux s’arrêtant dans la plupart des gares, souvent simplement ap
     title="Train S oder S-Trein (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Train suburbain dans les agglomérations d’Anvers, Bruxelles, Charleroi, Gand ou Liège. Ils relient les grandes villes aux banlieues et s’arrêtent généralement partout. Contrairement à d’autres pays, les trains S n’ont pas d’horaires plus denses que les autres catégories. Dans les informations de correspondance, ils sont parfois aussi regroupés sous `R` pour train régional.
@@ -129,8 +123,7 @@ Train suburbain dans les agglomérations d’Anvers, Bruxelles, Charleroi, Gand 
     title="Train d’heure de pointe oder Piekuurtrein (P)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains supplémentaires aux heures de pointe du lundi au vendredi matin et en fin d’après-midi, souvent simplement appelés `R` pour train régional dans les informations de correspondance.
@@ -142,8 +135,7 @@ Trains supplémentaires aux heures de pointe du lundi au vendredi matin et en fi
     title="Express (E/EXP/EXTRA)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains supplémentaires lors des périodes de forte affluence, notamment pendant l’été vers la côte belge.
@@ -155,8 +147,7 @@ Trains supplémentaires lors des périodes de forte affluence, notamment pendant
     title="Tourist (T)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains supplémentaires vers certaines destinations touristiques, souvent simplement appelés `R` pour train régional.

@@ -41,8 +41,7 @@ Un supplément est partiellement nécessaire pour les trains Eurocity Direct et 
     title="Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
     additional_information_url="https://www.nsinternational.com/en/trains/ice"
 %}}
 
@@ -65,8 +64,7 @@ Une réservation est obligatoire pour les trajets transfrontaliers en haute sais
     title="Eurocity Direct (ECD)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
 
@@ -102,8 +100,7 @@ Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tar
     title="Eurocity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
 
@@ -118,8 +115,7 @@ Train international entre Rotterdam et Bruxelles avec plusieurs arrêts intermé
     title="Intercity Direct (ICD)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.ns.nl/en/travel-information/special-routes/intercity-direct.html"
 %}}
 
@@ -142,8 +138,7 @@ Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tar
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Contrairement à d’autres pays, il ne s’agit pas de véritables trains longue distance, mais plutôt de trains régionaux rapides avec peu d’arrêts.
@@ -155,8 +150,7 @@ Contrairement à d’autres pays, il ne s’agit pas de véritables trains longu
     title="Sneltrein (RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains régionaux avec plus d’arrêts que les Intercity, mais uniquement dans les gares principales.
@@ -173,8 +167,7 @@ Une exception s’applique au Train des Trois Pays (Liège-Guillemins – Maastr
     title="Sprinter"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares du parcours.
@@ -186,8 +179,7 @@ Trains régionaux pour les courtes distances, avec arrêt dans toutes les gares 
     title="R-net NS Sprinter"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains régionaux avec le branding R-net rouge-gris sur la ligne d’Alphen aan den Rijn à Gouda.
