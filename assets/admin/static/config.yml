@@ -92,20 +92,6 @@ x_fip_validity_target_fields_reduced: &fip_validity_target_fields_reduced
     group_type: "fip-reduced-ticket"
     required: false
 
-x_fip_validity_columns: &fip_validity_columns
-  - label: "FIP Coupon"
-    name: "fip-coupon"
-    widget: "object"
-    summary: "Target groups"
-    hint: "Number and validity of FIP Coupons available to this target group."
-    fields: *fip_validity_target_fields_coupon
-  - label: "FIP Reduced Ticket"
-    name: "fip-reduced-ticket"
-    widget: "object"
-    summary: "Target groups"
-    hint: "Discount on FIP Reduced Tickets (FIP 50 / FIP 75) available to this target group."
-    fields: *fip_validity_target_fields_reduced
-
 x_border_side: &border_side
   - label: "Country"
     name: "country"
@@ -133,7 +119,7 @@ x_border_side: &border_side
     widget: "list"
     required: false
     i18n: true
-    summary: "{{"{{"}}fields.id}}{{"{{"}}fields.label}}"
+    summary: "{{fields.id}}{{fields.label}}"
     fields:
       - label: "Operator"
         name: "id"
@@ -272,30 +258,39 @@ collections:
         collapsed: true
         summary: "Operators & Border Points"
         fields:
-          - label: "Operators without FIP"
-            name: "operators_without_fip"
+          - name: "operators_without_fip"
+            label: "Operators without FIP"
+            label_singular: "Operator"
             widget: "list"
             required: false
-            i18n: duplicate
+            i18n: true
             hint: "List of operators in this country that do not accept FIP."
-          - label: "Border Points"
-            name: "border_points"
+          - name: "border_points"
+            label: "Border Points"
             widget: "relation"
             collection: "_singletons"
             file: "borderpoints"
-            value_field: "{{"{{"}}borders.*.id}}"
-            display_fields: ["{{"{{"}}borders.*.id}}"]
-            search_fields: ["{{"{{"}}borders.*.id}}"]
+            value_field: "{{borders.*.id}}"
+            display_fields: ["{{borders.*.id}}"]
+            search_fields: ["{{borders.*.id}}"]
             multiple: true
             required: false
             i18n: duplicate
-            hint: 'Border IDs in clockwise order, starting in the north of the country. To add or edit borders, see the [Border Points](/admin/#/collections/_singletons/entries/borderpoints) singleton.'
+            hint: "Border IDs in clockwise order, starting in the north of the country. To add or edit borders, see the [Border Points](/admin/#/collections/_singletons/entries/borderpoints) singleton."
           - label: "Border Points Footnotes"
             name: "border_points_footnotes"
             widget: "list"
             required: false
             i18n: true
             hint: "Optional footnotes shown below the border point table."
+      - label: "Content Images"
+        name: "content_images"
+        widget: "image"
+        multiple: true
+        required: false
+        i18n: duplicate
+        hint: "Images shown for this page. Prefer .webp images."
+        accept: "image/webp"
       - label: "Body"
         name: "body"
         widget: "markdown"
@@ -310,6 +305,8 @@ collections:
           - "dialog-trigger"
           - "float-image"
           - "wip"
+          - "icon"
+          - "footnote-reference"
           - "border-points"
           - "identify-operator"
           - "columns"
@@ -1049,7 +1046,7 @@ collections:
 singletons:
   - name: "borderpoints"
     label: "Border Points"
-    file: "content/country/borderpoints.{{"{{"}}locale}}.yaml"
+    file: "content/country/borderpoints.{{locale}}.yaml"
     i18n: true
     fields:
       - label: "Borders"
@@ -1059,13 +1056,14 @@ singletons:
         map_key_field: "id"
         i18n: true
         collapsed: true
-        summary: "{{"{{"}}fields.id}}"
+        summary: "{{fields.id}}"
         hint: "Each border is defined once; both country tables are generated from it."
         fields:
           - label: "ID"
             name: "id"
             widget: "string"
-            pattern: ["^[a-z0-9-]+$", "Use lowercase letters, digits and hyphens only"]
+            pattern:
+              ["^[a-z0-9-]+$", "Use lowercase letters, digits and hyphens only"]
             i18n: duplicate
             hint: 'Unique identifier, e.g. "at-cz". Referenced in the Border Points field on each Country page.'
           - label: "Side A"

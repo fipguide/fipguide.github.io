@@ -505,11 +505,11 @@ gr-mk:
       - id: ht
   b:
     country:
-      label: Nordmazedonien
+      id: north-macedonia
     operators:
-      - label: ŽRSM
+      - id: zrsm
   points:
-    - Gevgelija (fr)
+    - "Gevgelija (fr) (Mazedonisch: Гевгелија)"
 gr-tr:
   a:
     country:
@@ -1042,11 +1042,24 @@ rs-mk:
       - id: sv
   b:
     country:
-      label: Nordmazedonien
+      id: north-macedonia
     operators:
-      - label: ŽRSM
+      - id: zrsm
   points:
     - "Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc)"
+mk-xk:
+  a:
+    country:
+      id: north-macedonia
+    operators:
+      - id: zrsm
+  b:
+    country:
+      label: Kosovo
+    operators:
+      - label: Trainkos
+  points:
+    - "Elez Han (Serbisch: Елез Хан)"
 rs-hr:
   a:
     country:
