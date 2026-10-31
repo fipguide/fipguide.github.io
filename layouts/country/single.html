@@ -1,5 +1,4 @@
 {{ define "main" }}
-  {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
   {{ $contentImage := partial "helper/contentImage" . }}
 
 
@@ -28,7 +27,7 @@
         class="o-single__container o-related__operator-wrapper"
       >
         {{ $title := print (T "operators.listTitle") " in " .Title }}
-        {{ partial "related" (dict "index" "country" "pageType" "operator" "title" $title "page" . "identifier" "operators") }}
+        {{ partial "related" (dict "index" "country" "pageType" "operator" "title" $title "page" .) }}
         {{ with .Params.operators_without_fip }}
           {{ partial "intersector" }}
           <h3 id="operators-without-fip-title">

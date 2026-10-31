@@ -4,7 +4,6 @@ shortName: Stena Line BV
 country:
   - netherlands
   - united-kingdom
-operator: stl
 content_images:
   - image.webp
 aliases:

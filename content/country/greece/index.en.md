@@ -1,6 +1,5 @@
 ---
 title: Greece
-country: greece
 params:
   operators_without_fip:
     - STASY (Urban Rail Transport S.A.)

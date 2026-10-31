@@ -1,6 +1,5 @@
 ---
 title: "Nordmazedonien"
-country: "north-macedonia"
 params:
   border_points:
     - rs-mk

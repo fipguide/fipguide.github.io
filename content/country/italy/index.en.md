@@ -1,6 +1,5 @@
 ---
 title: Italy
-country: italy
 params:
   operators_without_fip:
     - Azienda Regionale Sarda Trasporti

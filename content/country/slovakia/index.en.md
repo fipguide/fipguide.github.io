@@ -1,6 +1,5 @@
 ---
 title: Slovakia
-country: slovakia
 params:
   operators_without_fip:
     - RegioJet

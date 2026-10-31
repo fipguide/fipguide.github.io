@@ -1,6 +1,5 @@
 ---
 title: Bulgarie
-country: bulgaria
 params:
   operators_without_fip:
     - Optima Express

@@ -4,7 +4,6 @@ shortName: ÖBB
 country:
   - austria
   - liechtenstein
-operator: oebb
 content_images:
   - image.webp
 aliases:

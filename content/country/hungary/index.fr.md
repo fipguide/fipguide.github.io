@@ -1,6 +1,5 @@
 ---
 title: Hongrie
-country: hungary
 params:
   operators_without_fip:
     - RegioJet

@@ -2,6 +2,10 @@
 date: 2026-10-04
 title: "DB Regio dans la vallée de la Neckar désormais utilisable avec FIP"
 description: DB Regio Stuttgart a été entièrement intégré à DB Regio Bade-Wurtemberg depuis le 01.08.2026 et les trains dans la vallée de la Neckar peuvent donc être utilisés avec FIP.
+country:
+  - germany
+operator:
+  - db
 content_images:
   - image.webp
 ---

@@ -4,7 +4,6 @@ shortName: Renfe
 country:
   - spain
   - france
-operator: renfe
 content_images:
   - image.webp
 aliases:

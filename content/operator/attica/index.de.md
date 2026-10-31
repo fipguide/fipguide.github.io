@@ -4,7 +4,6 @@ shortName: Attica
 country:
   - greece
   - italy
-operator: attica
 content_images:
   - image.webp
 aliases:

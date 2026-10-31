@@ -1,6 +1,5 @@
 ---
 title: Serbia
-country: serbia
 params:
   operators_without_fip:
     - Optima Express

@@ -1,6 +1,5 @@
 ---
 title: Pologne
-country: poland
 params:
   operators_without_fip:
     - Arriva

@@ -5,7 +5,6 @@ country:
   - austria
   - germany
   - switzerland
-operator: bsb
 content_images:
   - image.webp
 aliases:
