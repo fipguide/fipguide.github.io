@@ -126,18 +126,17 @@ International train between Rotterdam and Brussels with several intermediate sto
 Partly supplement-required fast train between Lelystad or Amersfoort, Amsterdam Zuid, Schiphol Airport, Rotterdam Centraal, and Breda.
 
 {{< highlight important >}}
-{{% float-image
+{{< float-image
     src="toeslag-supplement.webp"
     alt="Supplement machine at Schiphol Airport"
     width="30%"
-    position="right"
-%}}
+    position="right" >}}
 For journeys on the section between Rotterdam and Schiphol, a [supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) of € 3.20 must be paid for FIP 50 Tickets.
 
 The supplement can be purchased [online](https://www.ns.nl/en/tickets/icd-supplement), in the NS app, or at ticket machines/counters. The supplement can be loaded onto an OV-chipkaart. Without an OV-chipkaart, an additional fee of € 1.50 is charged for a single-use ticket.
 
 Holders of an OV-chipkaart, debit, or credit card [^7] can buy a discounted supplement for € 1.92 (40 % discount) at red supplement machines labelled "Toeslag / Zuschlag" in the station (see image on the right) during [off-peak times](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
-{{% /float-image %}}
+{{< /float-image >}}
 {{< /highlight >}}
 
 ![Intercity Direct Network, Spag85, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg)](intercity-direct-map.webp)
@@ -173,6 +172,7 @@ Trains of the Sneltrein / Regional-Express `RE` category, including the connecti
 
 An exception applies to the Three-Country Train (Liège-Guillemins – Maastricht – Heerlen – Aachen): between Maastricht and Liège-Guillemins, the train is operated on behalf of NS and SNCB, and NS/SNCB tickets including FIP remain valid. Between Maastricht and Aachen (via Heerlen), the train is operated by Arriva and FIP is not valid.
 {{< /confusion >}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -244,9 +244,9 @@ Domestic journeys unfortunately cannot be purchased online.
 {{% booking id="db-ticket-office" /%}}
 
 {{% booking id="sbb-ticket-office"
+    subtitle="Booking of FIP 50 Tickets only possible for SBB and SNCF employees"
     classes.first="CHF 6"
     classes.second="CHF 6"
-    subtitle="Booking of FIP 50 Tickets only possible for SBB and SNCF employees"
 /%}}
 
 ### On the Train
