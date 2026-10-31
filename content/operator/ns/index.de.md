@@ -173,6 +173,7 @@ Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Ver
 
 Eine Ausnahme gilt für den Dreiländerzug (Liège-Guillemins – Maastricht – Heerlen – Aachen): Zwischen Maastricht und Liège-Guillemins wird der Zug im Auftrag der NS und SNCB betrieben, NS/SNCB-Tickets einschließlich FIP bleiben gültig. Zwischen Maastricht und Aachen (über Heerlen) wird der Zug von Arriva betrieben und FIP ist nicht gültig.
 {{< /confusion >}}
+
 {{% /train-category %}}
 
 {{% train-category
@@ -244,9 +245,9 @@ Nationale Verbindungen können online leider nicht erworben werden.
 {{% booking id="db-ticket-office" /%}}
 
 {{% booking id="sbb-ticket-office"
+    subtitle="Buchung von FIP 50 Tickets nur für Mitarbeitende der SBB und SNCF möglich"
     classes.first="6 CHF"
     classes.second="6 CHF"
-    subtitle="Buchung von FIP 50 Tickets nur für Mitarbeitende der SBB und SNCF möglich"
 /%}}
 
 ### Im Zug
