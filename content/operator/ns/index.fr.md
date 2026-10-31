@@ -50,9 +50,9 @@ Un supplément est partiellement nécessaire pour les trains Eurocity Direct et 
 Trains à grande vitesse de la Deutsche Bahn, exploités aux Pays-Bas par NS. Ils circulent entre Amsterdam et l’Allemagne (Cologne / Francfort-sur-le-Main ou Hanovre / Berlin), mais peuvent également être utilisés à l’intérieur des Pays-Bas entre Amsterdam et Arnhem ou Hengelo avec un Coupon FIP sans supplément. Avec un Billet FIP 50, un supplément est toutefois requis.
 
 {{< highlight important >}}
-Lors de l’utilisation de Billets FIP 50 pour des trajets nationaux aux Pays-Bas, un [supplément ICE](https://www.ns.nl/en/tickets/ice-supplement) de 3 € par trajet doit être payé. Aucun supplément n’est requis avec un Coupon FIP.
+Lors de l’utilisation de Billets FIP 50 pour des trajets nationaux aux Pays-Bas, un [supplément ICE](https://www.ns.nl/en/tickets/ice-supplement) de 3,20 € par trajet doit être payé. Aucun supplément n’est requis avec un Coupon FIP.
 
-Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/ice-supplement), via l’application NS ou sur place au guichet ou au distributeur. Sur place, il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
+Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/ice-supplement), via l’application NS ou sur place au guichet ou au distributeur. Sur place, il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,60 € sont facturés au distributeur ou au guichet pour un billet unique.
 {{< /highlight >}}
 
 #### Réservations
@@ -74,7 +74,12 @@ Une réservation est obligatoire pour les trajets transfrontaliers en haute sais
 Train international avec supplément entre Lelystad, Amsterdam et Bruxelles, avec arrêts à Almere, Schiphol, Rotterdam et Anvers.
 
 {{< highlight important >}}
-Pour un trajet exclusivement national sur le tronçon entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) de 3,20 € est requis pour les Billets FIP 50.
+{{< float-image
+    src="toeslag-supplement.webp"
+    alt="Distributeur de supplément à l’aéroport de Schiphol"
+    width="30%"
+    position="right" >}}
+Pour un trajet exclusivement national sur le tronçon entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/tickets/icd-supplement) de 3,20 € est requis pour les Billets FIP 50.
 
 Si le Billet FIP 50 comprend également un tronçon international (embarquement ou débarquement de l’`ECD` en dehors des Pays-Bas), aucun supplément n’est requis pour les Billets FIP 50, même si le tronçon Rotterdam - Schiphol est emprunté avec l’`ECD`.
 
@@ -89,9 +94,10 @@ Exemples de billets sans supplément requis :
 - Bruxelles - Rotterdam
 - Breda - Rotterdam
 
-Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-supplement), via l’application NS ou sur place au guichet ou au distributeur. Sur place, il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
+Le supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-supplement), via l’application NS ou sur place au guichet ou au distributeur. Sur place, il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,60 € sont facturés au distributeur ou au guichet pour un billet unique.
 
-Les détenteurs d’une carte OV-chipkaart peuvent acheter un supplément à tarif réduit de 1,92 € (40 % de réduction) au guichet pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
+Les détenteurs d’une carte OV-chipkaart, de débit ou de crédit [^7] peuvent acheter un supplément à tarif réduit de 1,92 € (40 % de réduction) aux distributeurs rouges portant la mention « Toeslag / Zuschlag » en gare (voir image à droite) pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
+{{< /float-image >}}
 {{< /highlight >}}
 
 ![Réseau Eurocity (Direct)](eurocity-map.fr.svg)
@@ -132,9 +138,9 @@ Train rapide, partiellement avec supplément, entre Lelystad ou Amersfoort, Amst
     alt="Distributeur de supplément à l’aéroport de Schiphol"
     width="30%"
     position="right" >}}
-Pour les trajets sur le tronçon entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) de 3,20 € est requis pour les Billets FIP 50.
+Pour les trajets sur le tronçon entre Rotterdam et Schiphol, un [supplément](https://www.ns.nl/en/tickets/icd-supplement) de 3,20 € est requis pour les Billets FIP 50.
 
-Ce supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-supplement), via l’application NS ou sur place au guichet ou au distributeur. Il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,50 € s’appliquent pour un billet unique.
+Ce supplément peut être acheté [en ligne](https://www.ns.nl/en/tickets/icd-supplement), via l’application NS ou sur place au guichet ou au distributeur. Il peut être chargé sur une carte OV-chipkaart. Sans carte OV-chipkaart, des frais supplémentaires de 1,60 € sont facturés au distributeur ou au guichet pour un billet unique.
 
 Les détenteurs d’une carte OV-chipkaart, d’une carte de débit ou de crédit [^7] peuvent acheter un supplément à tarif réduit de 1,92 € (40 % de réduction) aux distributeurs rouges portant la mention « Toeslag / Zuschlag » en gare (voir image à droite) pendant les [heures creuses](https://www.ns.nl/en/travel-information/off-peak-hours.html). [^1] [^2] [^3] [^4]
 {{< /float-image >}}
@@ -308,7 +314,7 @@ NS se distingue par une grande fréquence et des connexions efficaces. Des retar
 
 [^3]: [NS Intercity Direct Supplement](https://www.ns.nl/en/tickets/icd-supplement)
 
-[^4]: [NS Tickets: Intercity Direct Supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html)
+[^4]: [NS Tickets: Intercity Direct Supplement](https://www.ns.nl/en/tickets/icd-supplement)
 
 [^5]: [FIP Guide Community: NS Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470489435937312788)
 

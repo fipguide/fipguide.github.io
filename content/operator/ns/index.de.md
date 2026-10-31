@@ -50,9 +50,9 @@ Zuschläge müssen teilweise für Eurocity Direct und Intercity Direct Züge gez
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in den Niederlanden von der NS übernommen werden. Sie verkehren zwischen Amsterdam und Deutschland (Köln / Frankfurt am Main bzw. Hannover / Berlin), können jedoch auch innerhalb der Niederlande zwischen Amsterdam und Arnhem bzw. Hengelo mit FIP Freifahrtschein ohne Aufschlag genutzt werden. Bei FIP 50 Tickets ist jedoch ein Zuschlag erforderlich.
 
 {{< highlight important >}}
-Bei der Nutzung von FIP 50 Tickets im niederländischen Binnenverkehr muss ein [ICE Aufschlag](https://www.ns.nl/en/tickets/ice-supplement) in Höhe von 3 € pro Fahrt gezahlt werden. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich.
+Bei der Nutzung von FIP 50 Tickets im niederländischen Binnenverkehr muss ein [ICE Aufschlag](https://www.ns.nl/en/tickets/ice-supplement) in Höhe von 3,20 € pro Fahrt gezahlt werden. Bei Nutzung der FIP Freifahrt ist der Zuschlag nicht erforderlich.
 
-Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
+Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/ice-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Am Automaten bzw. Schalter wird ohne OV-Chipkarte eine zusätzliche Gebühr von 1,60 € für ein Einmalticket erhoben.
 {{< /highlight >}}
 
 #### Reservierungen
@@ -74,7 +74,12 @@ Bei grenzüberschreitenden Reisen zur Hochsaison ist eine Reservierung erforderl
 Internationaler, zuschlagspflichtiger Zug zwischen Lelystad, Amsterdam und Brüssel mit Halt in Almere, Schiphol, Rotterdam und Antwerpen.
 
 {{< highlight important >}}
-Beim einer ausschließlich nationale Fahrt auf dem Abschnitt zwischen Rotterdam und Schiphol ist bei FIP 50 Tickets ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3,20 € zu entrichten.
+{{< float-image
+    src="toeslag-supplement.webp"
+    alt="Zuschlagsautomat am Schiphol Airport"
+    width="30%"
+    position="right" >}}
+Beim einer ausschließlich nationale Fahrt auf dem Abschnitt zwischen Rotterdam und Schiphol ist bei FIP 50 Tickets ein [Zuschlag](https://www.ns.nl/en/tickets/icd-supplement) in Höhe von 3,20 € zu entrichten.
 
 Beinhaltet das FIP 50 Ticket auch einen internationalen Abschnitt (bei Ein- oder Ausstieg in den `ECD` außerhalb der Niederlande), muss kein Zuschlag für FIP 50 Tickets erworben werden, selbst wenn man dabei den Abschnitt Rotterdam - Schiphol mit dem `ECD` befährt.
 
@@ -89,9 +94,10 @@ Beispieltickets ohne Zuschlagspflicht:
 - Brüssel - Rotterdam
 - Breda - Rotterdam
 
-Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte wird eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
+Der Aufschlag kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Vor Ort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Am Automaten bzw. Schalter wird ohne OV-Chipkarte eine zusätzliche Gebühr von 1,60 € für ein Einmalticket erhoben.
 
-Inhaber einer OV-Chipkarte können am Zuschlagsschalter im Bahnhof zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,92 € (40 % Rabatt) erwerben. [^1] [^2] [^3] [^4]
+Inhaber einer OV-Chipkarte, Debit- oder Kreditkarte [^7] können an roten Zuschlagsautomaten mit der Beschriftung "Toeslag / Zuschlag" im Bahnhof (siehe Bild rechts) zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,92 € (40 % Rabatt) erwerben. [^1] [^2] [^3] [^4]
+{{< /float-image >}}
 {{< /highlight >}}
 
 ![Eurocity (Direct) Netz](eurocity-map.de.svg)
@@ -132,15 +138,15 @@ Teilweise zuschlagspflichtiger Schnellzug zwischen Lelystad oder Amersfoort, Ams
     alt="Zuschlagsautomat am Schiphol Airport"
     width="30%"
     position="right" >}}
-Bei Fahrten auf dem Abschnitt zwischen Rotterdam und Schiphol ist für FIP 50 Tickets ein [Zuschlag](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html) in Höhe von 3,20 € zu entrichten.
+Bei Fahrten auf dem Abschnitt zwischen Rotterdam und Schiphol ist für FIP 50 Tickets ein [Zuschlag](https://www.ns.nl/en/tickets/icd-supplement) in Höhe von 3,20 € zu entrichten.
 
-Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Ohne OV-Chipkarte für eine zusätzliche Gebühr von 1,50 € für ein Einmalticket erhoben.
+Dieser kann [Online](https://www.ns.nl/en/tickets/icd-supplement) bzw. in der NS-App oder vor Ort am Automaten bzw. Schalter gekauft werden. Dort kann der Aufschlag auf eine OV-Chipkarte geladen werden. Am Automaten bzw. Schalter wird ohne OV-Chipkarte eine zusätzliche Gebühr von 1,60 € für ein Einmalticket erhoben.
 
 Inhaber einer OV-Chipkarte, Debit- oder Kreditkarte [^7] können an roten Zuschlagsautomaten mit der Beschriftung "Toeslag / Zuschlag" im Bahnhof (siehe Bild rechts) zu [Off-Peak Zeiten](https://www.ns.nl/en/travel-information/off-peak-hours.html) einen vergünstigten Zuschlag für 1,92 € (40 % Rabatt) erwerben. [^1] [^2] [^3] [^4]
 {{< /float-image >}}
 {{< /highlight >}}
 
-![Intercity Direct Netz, Spag85, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg)](intercity-direct-map.webp)
+![Intercity Direct Netz, Spag85, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg)\](intercity-direct-map.webp)
 
 {{% /train-category %}}
 
@@ -308,7 +314,7 @@ Die NS überzeugt durch einen dichten Takt und guten Anschlüssen. Verspätungen
 
 [^3]: [NS Intercity Direct Supplement](https://www.ns.nl/en/tickets/icd-supplement)
 
-[^4]: [NS Tickets: Intercity Direct Supplement](https://www.ns.nl/en/season-tickets/other/intercity-direct-supplement.html)
+[^4]: [NS Tickets: Intercity Direct Supplement](https://www.ns.nl/en/tickets/icd-supplement)
 
 [^5]: [FIP Guide Community: NS Unlimited Pass](https://discord.com/channels/1250522473188032512/1433782574806728804/1470489435937312788)
 
