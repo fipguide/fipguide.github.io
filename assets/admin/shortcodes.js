@@ -184,10 +184,8 @@ function registerDualBracketComponent(name, cfg) {
   register(name + "-raw", "<");
 }
 
-// Matches `![prefix[linkText](linkHref)suffix](src "title")`, where the
-// nested `[linkText](linkHref)` link and the quoted title are both optional.
 var imagePattern =
-  /!\[([^[\]]*)(?:\[([^\]]*)\]\(([^)]*)\))?([^\]]*)\]\(([^) "]+)(?: "([^"]*)")?\)/;
+  /!\[((?:[^\[\]]|\[[^\]]*\]\([^)]*\))*)\]\(([^) "]+)(?: "([^"]*)")?\)/;
 
 var imageFields = [
   {
@@ -202,6 +200,7 @@ var imageFields = [
     widget: "markdown",
     required: false,
     minimal: true,
+    multiline: false,
     hint: "Describes the image for accessibility and is also shown as a visible caption below the image.",
     editor_components: ["icon", "dialog-trigger", "footnote-reference"],
     param: {},
@@ -223,18 +222,10 @@ CMS.registerEditorComponent({
   fields: imageFields,
   pattern: imagePattern,
   fromBlock: function (match) {
-    var prefix = match[1] || "";
-    var linkText = match[2];
-    var linkHref = match[3];
-    var suffix = match[4] || "";
-    var alt =
-      linkText !== undefined
-        ? prefix + "[" + linkText + "](" + linkHref + ")" + suffix
-        : prefix + suffix;
     return {
-      alt: alt,
-      src: String(match[5] || ""),
-      title: String(match[6] || ""),
+      alt: match[1] || "",
+      src: String(match[2] || ""),
+      title: String(match[3] || ""),
     };
   },
   toBlock: function (data) {
