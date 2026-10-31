@@ -4,6 +4,8 @@ shortName: MÁV
 country:
   - hungary
 operator: mav
+content_images:
+  - image.webp
 ---
 
 MÁV (Magyar Államvasutak, Hungarian State Railways) is the main railway company in [Hungary](/country/hungary) and operates the majority of long-distance and regional traffic.
@@ -41,9 +43,9 @@ International long-distance trains in cooperation with ÖBB and other partner ra
 
 Business Class is not available for domestic journeys within Hungary. For international journeys, Business Class can be used with a 1st-class FIP Coupon pass or FIP 50 ticket; a supplement of € 22 applies.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 `RJ` can also stand for RegioJet. FIP tickets for MÁV are not valid on RegioJet trains.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Reservations
 
@@ -62,9 +64,9 @@ Seat reservations are mandatory for domestic traffic, optional for international
 
 National express trains with 2nd class passenger cars, some also with 1st class and premium class 1+ cars. Occasionally [restaurant cars](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) and/or [bistro cars](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-bistro-cars) are carried.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 `IC` trains in Hungary are sometimes also operated by [GySEV](/operator/gysev#ic).
-{{< /highlight >}}
+{{< /confusion >}}
 
 There are sometimes up to three car classes:
 
@@ -175,9 +177,9 @@ In connection information systems outside of MÁV, the trains may be listed as `
 
 Classic regional trains that stop at all intermediate stations.
 
-{{< highlight confusion >}}
+{{< confusion hungary >}}
 `SZ` trains in Hungary are sometimes also operated by [GySEV](/operator/gysev#sz).
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 

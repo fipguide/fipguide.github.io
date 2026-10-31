@@ -22,6 +22,10 @@ La liste des agences DB internationales est disponible sur le [site web de la De
 
 {{% /highlight %}}
 
+{{% highlight tip %}}
+Avec le nouveau système de vente _VSPro_, seuls les Billets FIP 50 qui sont également disponibles [en ligne](/operator/db#db-website-fip-international) peuvent être vendus. Tous les autres Billets FIP doivent continuer à être vendus via l'ancien système de vente _VSP_. (À partir d'octobre 2026)
+{{% /highlight %}}
+
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50

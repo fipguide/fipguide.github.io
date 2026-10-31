@@ -8,6 +8,8 @@ params:
     -  # IDs des points frontières dans le sens horaire, en commençant par le nord du pays, comme défini dans `content/country/borderpoints.fr.yaml`
   border_points_footnotes:
     -  # Notes de bas de page facultatives sous le tableau des points frontières
+content_images:
+  - "image.webp"
 ---
 
 <!-- Supprimez ce message si la page est complète -->

@@ -9,6 +9,8 @@ params:
     - si-hr
     - at-si
     - hu-si
+content_images:
+  - image.webp
 ---
 
 ## FIP Information

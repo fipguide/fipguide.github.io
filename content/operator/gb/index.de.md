@@ -4,6 +4,8 @@ shortName: National Rail
 country:
   - united-kingdom
 operator: gb
+content_images:
+  - image.webp
 aliases:
   - /booking/caledonian-sleeper-website
   - /booking/lner-website
@@ -533,6 +535,11 @@ Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen 
 ### Vor Ort
 
 {{% booking id="national-rail-ticket-office" /%}}
+
+{{% booking id="sbb-ticket-office"
+    reservations=nil
+    subtitle="Buchung von FIP 50 Tickets nur für Mitarbeitende der SBB und SNCF möglich"
+/%}}
 
 ### Im Zug
 

@@ -4,6 +4,8 @@ shortName: CIE
 country:
   - ireland
 operator: cie
+content_images:
+  - image.webp
 aliases:
   - /booking/irish-rail-ticket-office
   - /booking/irish-rail-website

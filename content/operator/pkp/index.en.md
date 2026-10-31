@@ -4,6 +4,8 @@ shortName: PKP
 country:
   - poland
 operator: pkp
+content_images:
+  - image.webp
 aliases:
   - /booking/pkp-ticket-machine
   - /booking/pkp-ticket-office
@@ -179,9 +181,9 @@ Different prices for international connections. [More information](https://www.i
 
 Regional train connections stopping at most stations, operated by Polregio. These trains do not have 1st class.
 
-{{< highlight confusion >}}
+{{< confusion poland >}}
 Regional trains in Poland are sometimes also operated by railway companies other than Polregio. These sometimes have their own FIP discounts. [See Poland](/country/poland "Poland")
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -268,6 +270,11 @@ Alternatively, you can also book directly through the [Polregio website](https:/
 
 {{% booking id="db-ticket-office"
     subtitle="Except EIP"
+/%}}
+
+{{% booking id="sbb-ticket-office"
+    classes=nil
+    subtitle="Booking only possible to a limited extent on selected connections"
 /%}}
 
 ### On the Train

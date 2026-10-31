@@ -8,6 +8,8 @@ params:
     -  # List border IDs in clockwise order, starting in the north of the country, as defined in `content/country/borderpoints.en.yaml`
   border_points_footnotes:
     -  # Optional footnotes shown below the border point table
+content_images:
+  - "image.webp"
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->

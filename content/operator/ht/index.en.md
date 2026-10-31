@@ -4,6 +4,8 @@ shortName: HT
 country:
   - greece
 operator: ht
+content_images:
+  - image.webp
 aliases:
   - /booking/ht-ticket-office
   - /booking/ht-website
@@ -61,9 +63,9 @@ Regional trains connect cities and regions outside the main axis.
 
 Some trains are referred to as Proastiakos or Suburban Railway, which is comparable to an S-Bahn. In the journey planner, these services also appear as regional trains `REG`.
 
-{{< highlight confusion >}}
+{{< confusion greece >}}
 Tourist services such as the Pelion Train are also shown as `REG` in the journey planner, but FIP is not valid on these.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -144,7 +146,7 @@ For travellers through several Balkan countries, the Balkan Flexipass could be w
 
 - Bosnia and Herzegovina (ZFBH),
 - Bulgaria (BDZ),
-- North Macedonia (MŽ-Transport),
+- North Macedonia (ŽRSM),
 - Greece (HT & Attica),
 - Montenegro (ŽPCG),
 - Romania (CFR Calatori & Regiotrans),

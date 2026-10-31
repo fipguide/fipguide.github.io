@@ -5,6 +5,8 @@ country:
   - netherlands
   - united-kingdom
 operator: stl
+content_images:
+  - image.webp
 aliases:
   - /booking/stena-line-bv-email
   - /booking/stena-line-bv-phone
@@ -99,43 +101,39 @@ Im Allgemeinen ist die Überfahrt über Nacht teurer als die Überfahrt am Tag. 
 
 {{% expander "Kosten online herausfinden" info %}}
 
-{{% float-image
+{{< float-image
     src="determine_costs_1.webp"
     alt="Step 1"
     width="40%"
-    position="right"
-%}}
+    position="right" >}}
 Die anfallenden Kosten für Tag- und Nachtfahrten können bereits vor der Buchung über die Website von Stena Line eingesehen werden. Hierzu muss zunächst die [Website der Stena Line (UK)](https://www.stenaline.co.uk/) aufgerufen werden. Wenn die Preise in Euro gewünscht sind, kann unten auf der Startseite eine entsprechende Sprache gewählt werden.
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="determine_costs_2.webp"
     alt="Step 2"
     width="40%"
-    position="right"
-%}}
+    position="right" >}}
 Im nächsten Schritt musst du zur alten Buchung wechseln. Bei der neuen Buchung werden die Kosten nicht aufgeschlüsselt angezeigt.
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="determine_costs_3.webp"
     alt="Step 3"
     width="40%"
-    position="right"
-%}}
+    position="right" >}}
 Anschließend können die Buchungsschritte durchlaufen werden. Bei der Wahl des Tarifs kann Flexi oder Economy ausgewählt werden.
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="determine_costs_4.webp"
     alt="Step 4"
     width="40%"
-    position="right"
-%}}
+    position="right" >}}
 Nachdem du alle gewünschten Zusatzoptionen und Kabinen ausgewählt hast, erhältst du in der Seitenleiste eine Kostenaufschlüsselung. Mit FIP Freifahrtschein werden die Fahrtkosten (angegeben als Economy oder Flexi) auf 0 gesetzt, der Restbetrag bleibt bestehen. Daher können die Fahrtkosten einfach abgezogen werden, um die Kosten mit FIP Freifahrtschein zu ermitteln.
 
 Stand 22.12.2025 betragen die Hafengebühren 3 £ / 3 € und die Umweltgebühren 10,30 £ / 12 € pro Person und Fahrt. Hinzu kommen die Kabinenkosten sowie andere Zusatzoptionen, die zum vollen Preis berechnet werden.
-{{% /float-image %}}
+{{< /float-image >}}
 
 {{% /expander %}}
 

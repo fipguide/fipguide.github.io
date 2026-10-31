@@ -33,6 +33,12 @@ First of all, we have to the install the node packages by running:
 npm i
 ```
 
+The CMS admin interface (`/admin`) is bundled separately with Vite and is not rebuilt automatically by Hugo. Run the following command whenever you change files in `assets/admin/` (or after installing/updating packages) to (re)generate it:
+
+```zsh
+npm run build:admin
+```
+
 Then, we can start the integrated hugo server with:
 
 ```zsh
@@ -47,7 +53,7 @@ To initialize the search index, run the following command in a separate terminal
 npx -y pagefind --site public
 ```
 
-### Run prek hooks
+### Run pre-commit hooks
 
 We use the [prek framework](https://prek.dev/) to run some checks to ensure a consistent code quality.
 
@@ -66,6 +72,13 @@ prek install
 ```
 
 ## Content Contributions
+
+### Use the CMS for local changes
+
+If you have built the admin interface before using `npm run build:admin` and started the development server with `hugo server`, you can access the CMS at `http://localhost:1313/admin`. On the login screen select "Work with Local Repository" and then select the root of the repository on your disk. Changes are then written back to your local repository. Once you have finished editing, you can commit and push the changes manually using Git.
+
+> [!NOTE]
+> The CMS for local changes does not work with Firefox or Safari, so use a Chromium based browser instead.
 
 ### Add new pages
 

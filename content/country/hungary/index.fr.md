@@ -15,6 +15,8 @@ params:
     - hu-si
     - at-hu-mav
     - at-hu-gysev
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP

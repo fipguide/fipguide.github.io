@@ -17,6 +17,8 @@ params:
   border_points_footnotes:
     - "[>] = En direction de (par exemple, Locarno [> Domodossola] = Locarno est le
       point frontière en direction de Domodossola)"
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP
@@ -91,7 +93,7 @@ Depuis la France, des trains TGV transfrontaliers circulent vers Zurich via Bâl
 
 Il existe également différentes liaisons régionales transfrontalières. À Bâle, la gare de Basel SBB est la gare frontière à partir de laquelle les Coupons FIP SNCF sont valables pour les trains, par exemple les `TER` en direction de Strasbourg.
 
-Dans la région de Genève, des trains régionaux transfrontaliers circulent sous le nom de Léman Express, exploités par la SBB et la SNCF.
+Dans la région de Genève, des trains régionaux transfrontaliers circulent sous le nom de [Léman Express](/operator/sbb#lex), exploités par la SBB et la SNCF. Dans ces trains, la FIP n’est valable que de manière limitée sur les trajets transfrontaliers, voir [Léman Express](/operator/sbb#lex).
 
 Les trains `TER` de Lyon à Genève peuvent être utilisés jusqu’à Genève avec un Coupon FIP de la SNCF.[^2]
 

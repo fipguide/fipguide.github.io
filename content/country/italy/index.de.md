@@ -20,6 +20,8 @@ params:
   border_points_footnotes:
     - "[>] = In Richtung (z. B. Domodossola [> Locarno] = Domodossola ist der Grenzpunkt
       in Richtung Locarno)"
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

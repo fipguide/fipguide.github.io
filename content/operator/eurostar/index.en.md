@@ -8,6 +8,8 @@ country:
   - united-kingdom
   - france
 operator: eurostar
+content_images:
+  - image.webp
 aliases:
   - /booking/eurostar-phone
   - /booking/eurostar-ticket-office
@@ -127,6 +129,13 @@ Checking in, rebooking, canceling, and upgrading tickets is possible via the Eur
 /%}}
 
 {{% booking id="internationalrail-email"
+    fip_50=nil
+    fip_75=nil
+/%}}
+
+{{% booking id="sncf-connect"
+    subtitle="Only for SNCF employees"
+    reservations=nil
     fip_50=nil
     fip_75=nil
 /%}}

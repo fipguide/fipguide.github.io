@@ -4,6 +4,8 @@ shortName: SV
 country:
   - serbia
 operator: sv
+content_images:
+  - image.webp
 ---
 
 Srbija Voz (Србија Воз) est la compagnie ferroviaire nationale de Serbie et exploite la majeure partie du trafic voyageurs dans le pays.
@@ -177,7 +179,7 @@ Pour les voyageurs traversant plusieurs pays des Balkans, le Balkan Flexipass pe
 
 - Bosnie-Herzégovine (ZFBH),
 - Bulgarie (BDZ),
-- Macédoine du Nord (MŽ-Transport),
+- Macédoine du Nord (ŽRSM),
 - Grèce (HT & Attica),
 - Monténégro (ŽPCG),
 - Roumanie (CFR Calatori & Regiotrans),

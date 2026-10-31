@@ -9,6 +9,8 @@ params:
     - SJ Sverige
   border_points:
     - no-se
+content_images:
+  - image.webp
 ---
 
 ## FIP Information

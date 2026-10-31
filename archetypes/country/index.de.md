@@ -8,6 +8,8 @@ params:
     -  # Grenzpunkt-IDs im Uhrzeigersinn, startend im Norden des Landes, wie in `content/country/borderpoints.de.yaml` definiert
   border_points_footnotes:
     -  # Optionale Fußnoten unter der Grenzpunkt-Tabelle
+content_images:
+  - "image.webp"
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->

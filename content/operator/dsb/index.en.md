@@ -4,6 +4,8 @@ shortName: DSB
 country:
   - denmark
 operator: dsb
+content_images:
+  - image.webp
 aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
@@ -104,11 +106,11 @@ Regional trains provide local connections between various locations. Outside the
 
 As of September 1, 2026, the DSB Vores Tog (formerly GoCollective) routes in Central and West Jutland and on Funen can also be used. [^4]
 
-{{< highlight confusion >}}
+{{< confusion denmark >}}
 Trains from other operators are also displayed as `R`, so always check beforehand if the operator is DSB. \
 Trains marked as `RA` are not operated by DSB and therefore not included in FIP. \
 Trains marked as `RE` are usually DSB operated trains.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -164,6 +166,10 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 {{% booking id="dsb-ticket-office" /%}}
 
 {{% booking id="db-ticket-office" /%}}
+
+{{% booking id="sbb-ticket-office"
+    reservations=nil
+/%}}
 
 ## Discounts
 

@@ -4,6 +4,8 @@ shortName: DSB
 country:
   - denmark
 operator: dsb
+content_images:
+  - image.webp
 aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
@@ -104,11 +106,11 @@ Trains régionaux desservant toutes les gares hors du réseau S-tog de Copenhagu
 
 À compter du 1er septembre 2026, les itinéraires de DSB Vores Tog (anciennement GoCollective) dans le Jutland central et occidental et sur l'île de Fionie peuvent également être utilisés. [^4]
 
-{{< highlight confusion >}}
+{{< confusion denmark >}}
 D’autres opérateurs utilisent aussi la catégorie `R` — vérifiez toujours que le train est bien exploité par DSB. \
 Les trains marqués `RA` ne sont pas exploités par DSB et ne sont donc pas inclus dans FIP. \
 Les trains marqués `RE` sont généralement exploités par DSB.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -164,6 +166,10 @@ Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquen
 {{% booking id="dsb-ticket-office" /%}}
 
 {{% booking id="db-ticket-office" /%}}
+
+{{% booking id="sbb-ticket-office"
+    reservations=nil
+/%}}
 
 ## Réductions
 

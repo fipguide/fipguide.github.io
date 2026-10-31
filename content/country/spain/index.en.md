@@ -9,6 +9,8 @@ params:
   border_points:
     - pt-es
     - es-fr
+content_images:
+  - image.webp
 ---
 
 ## FIP Information

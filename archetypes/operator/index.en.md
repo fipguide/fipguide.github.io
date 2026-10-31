@@ -6,6 +6,8 @@ country:
   - "country2"
   - "country3"
 operator: "{{ .File.ContentBaseName }}"
+content_images:
+  - "image.webp"
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->
@@ -77,9 +79,9 @@ operator: "{{ .File.ContentBaseName }}"
   A description of the train category can be added here.
 -->
 
-{{% highlight confusion %}}
-This highlight can be added if there is a risk that the train category could be confused with another one.
-{{% /highlight %}}
+{{% confusion country %}}
+This snippet can be added if there is a risk that the train category could be confused with another one. The country where the confusion might arise should be specified as a parameter using its English abbreviation, so that a link can be generated to the relevant section where the train operator can be identified.
+{{% /confusion %}}
 
 {{% highlight important %}}
 Further important information can be added here.

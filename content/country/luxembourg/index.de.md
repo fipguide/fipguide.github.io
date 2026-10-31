@@ -6,6 +6,8 @@ params:
     - be-lu
     - de-lu
     - lu-fr
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

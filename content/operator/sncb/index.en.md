@@ -4,6 +4,8 @@ shortName: SNCB
 country:
   - belgium
 operator: sncb
+content_images:
+  - image.webp
 aliases:
   - /booking/sncb-phone
   - /booking/sncb-ticket-office
@@ -198,6 +200,12 @@ Domestic journeys unfortunately cannot be purchased online.
 /%}}
 
 {{% booking id="db-ticket-office" /%}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="CHF 6"
+    classes.second="CHF 6"
+    subtitle="Booking of FIP 50 Tickets only possible for SBB and SNCF employees"
+/%}}
 
 ### On the Train
 

@@ -17,6 +17,8 @@ params:
   border_points_footnotes:
     - "[>] = Direction (e.g. Locarno [> Domodossola] = Locarno is the border point towards
       Domodossola)"
+content_images:
+  - image.webp
 ---
 
 ## FIP Information
@@ -91,7 +93,7 @@ From France, cross-border TGV trains operate to Zurich via Basel. Within Switzer
 
 There are also various cross-border regional train connections. In Basel, Basel SBB station is the border station, from which SNCF Coupons are valid for trains such as `TER` towards Strasbourg.
 
-In the Geneva area, cross-border regional trains operate under the name Léman Express, run by SBB and SNCF.
+In the Geneva area, cross-border regional trains operate under the name [Léman Express](/operator/sbb#lex), run by SBB and SNCF. On these trains, FIP is only valid to a limited extent on cross-border journeys, see [Léman Express](/operator/sbb#lex).
 
 `TER` trains from Lyon to Geneva can be used up to Geneva with an SNCF Coupon.[^2]
 

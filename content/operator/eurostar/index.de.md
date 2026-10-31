@@ -8,6 +8,8 @@ country:
   - united-kingdom
   - france
 operator: eurostar
+content_images:
+  - image.webp
 aliases:
   - /booking/eurostar-phone
   - /booking/eurostar-ticket-office
@@ -127,6 +129,13 @@ Das Einchecken, Umbuchen, Stornieren und Upgraden von Tickets ist über die Euro
 /%}}
 
 {{% booking id="internationalrail-email"
+    fip_50=nil
+    fip_75=nil
+/%}}
+
+{{% booking id="sncf-connect"
+    subtitle="Nur für SNCF Mitarbeitende"
+    reservations=nil
     fip_50=nil
     fip_75=nil
 /%}}

@@ -4,6 +4,8 @@ shortName: ČD
 country:
   - czechia
 operator: cd
+content_images:
+  - image.webp
 aliases:
   - /booking/cd-ticket-office
   - /booking/cd-website
@@ -82,9 +84,9 @@ There are usually three classes:
 
 The trains feature modern rolling stock in the ÖBB Railjet style, but with blue exterior. Bicycles, prams, and other bulky luggage can be taken on board. Food and drinks are available in the restaurant car or via at-seat service. In 1st class, passengers receive a free bottle of water and a newspaper; in Business Class, additionally a welcome drink and a 50 CZK voucher for the restaurant (within Czechia only). For children, there is a dedicated children's cinema.
 
-{{< highlight confusion >}}
+{{< confusion czechia >}}
 Not to be confused with RegioJet trains, which are sometimes also marked as `RJ`. This private operator does not accept FIP Tickets.
-{{< /highlight >}}
+{{< /confusion >}}
 
 #### Reservations
 
@@ -735,8 +737,6 @@ The ČD Lounges in Praha hl. n., Olomouc hl. n., Břeclav, and Brno hl. n. can b
 ## Sources
 
 [^1]: [Rail Delivery Group](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782244-czechia.html)
-
-[^3]: [ČD – Domestic Tickets](https://www.cd.cz/en/typy-jizdenek/vnitrostatni-jizdenky/-28762/)
 
 [^2]: [ČD Lounges](https://www.cd.cz/en/dalsi-sluzby/sluzby-ve-stanici/-27959/)
 

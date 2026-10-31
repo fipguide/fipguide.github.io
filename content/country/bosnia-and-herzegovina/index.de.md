@@ -5,6 +5,10 @@ params:
   border_points:
     - ba-hr
     - ba-rs
+title: "Bosnien und Herzegowina"
+country: "bosnia-and-herzegovina"
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

@@ -4,6 +4,8 @@ shortName: Vy
 country:
   - norway
 operator: vy
+content_images:
+  - image.webp
 aliases:
   - /booking/entur-chat
   - /booking/entur-phone

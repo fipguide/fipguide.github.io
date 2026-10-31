@@ -4,6 +4,8 @@ shortName: National Rail
 country:
   - united-kingdom
 operator: gb
+content_images:
+  - image.webp
 aliases:
   - /booking/caledonian-sleeper-website
   - /booking/lner-website
@@ -536,6 +538,11 @@ Via l’application _[Seatfrog](https://seatfrog.com/)_, il est possible d’ach
 ### En gare
 
 {{% booking id="national-rail-ticket-office" /%}}
+
+{{% booking id="sbb-ticket-office"
+    reservations=nil
+    subtitle="Réservation de Billets FIP 50 réservée aux agents de la CFF et de la SNCF"
+/%}}
 
 ### À bord du train
 

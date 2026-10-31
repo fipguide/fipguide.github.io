@@ -7,6 +7,8 @@ params:
   border_points:
     - ie-gb-rail
     - ie-gb-sll
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

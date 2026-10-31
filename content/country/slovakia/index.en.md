@@ -9,6 +9,8 @@ params:
     - hu-sk-gysev
     - hu-sk-mav
     - cz-sk
+content_images:
+  - image.webp
 ---
 
 ## FIP Information

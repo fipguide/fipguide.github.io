@@ -9,6 +9,8 @@ params:
     - bg-tr
     - bg-gr
     - bg-rs
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP

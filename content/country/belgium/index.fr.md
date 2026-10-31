@@ -10,6 +10,8 @@ params:
     - be-de
     - be-lu
     - be-fr
+content_images:
+  - image.webp
 ---
 
 ## Informations FIP

@@ -1,5 +1,5 @@
 groups:
-  - name: coupon-4fields
+  coupon-4fields:
     status: valid
     text:
       de: >
@@ -15,14 +15,14 @@ groups:
 
         <small>Avec 4 champs chacun par an. Chaque champ est valable deux jours.</small>
     type: fip-coupon
-  - name: coupon-not-available
+  coupon-not-available:
     status: invalid
     text:
       de: Nicht verfügbar
       en: Not available
       fr: Non disponible
     type: fip-coupon
-  - name: coupon-2fields
+  coupon-2fields:
     status: valid
     text:
       de: >
@@ -38,7 +38,7 @@ groups:
 
         <small>Avec 4 champs chacun par an. Chaque champ est valable deux jours.</small>
     type: fip-coupon
-  - name: coupon-4fields-4
+  coupon-4fields-4:
     status: valid
     text:
       de: >
@@ -54,7 +54,7 @@ groups:
 
         <small>Avec 4 champs chacun par an. Chaque champ est valable deux jours.</small>
     type: fip-coupon
-  - name: coupon-6fields
+  coupon-6fields:
     status: valid
     text:
       de: >
@@ -70,7 +70,7 @@ groups:
 
         <small>Avec 4 champs chacun par an. Chaque champ est valable deux jours.</small>
     type: fip-coupon
-  - name: coupon-crossing
+  coupon-crossing:
     status: valid
     text:
       de: >
@@ -86,14 +86,14 @@ groups:
 
         <small>Avec 2 champs chacun par an. Chaque champ est valable pour une traversée.</small>
     type: fip-coupon
-  - name: reduced-50
+  reduced-50:
     status: valid
     text:
       de: 50 % Rabatt
       en: 50 % discount
       fr: 50 % de réduction
     type: fip-reduced-ticket
-  - name: reduced-75
+  reduced-75:
     status: valid
     text:
       de: 75 % Rabatt
@@ -328,7 +328,7 @@ operators:
       active-relatives: coupon-not-available
       retired: coupon-not-available
       retired-relatives: coupon-not-available
-  zrms:
+  zrsm:
     fip-coupon:
       active: coupon-4fields
       active-relatives: coupon-not-available

@@ -25,6 +25,8 @@ params:
     - at-it
     - at-ch
     - at-de
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

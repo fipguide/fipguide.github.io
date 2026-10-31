@@ -4,6 +4,8 @@ shortName: ŽPCG
 country:
   - montenegro
 operator: zpcg
+content_images:
+  - image.webp
 ---
 
 ŽPCG (Željeznički prevoz Crne Gore, Жељезнички превоз Црне Горе) ist der nationale Personenverkehrsbetreiber in Montenegro.
@@ -122,7 +124,7 @@ Für Reisende durch mehrere Balkanländer kann sich der _Balkan Flexipass_ preis
 
 - Bosnien und Herzegowina (ŽFBH, ŽRS),
 - Bulgarien (BDŽ),
-- Nordmazedonien (MŽ-Transport),
+- Nordmazedonien (ŽRSM),
 - Griechenland (HT & Attica),
 - Montenegro (ŽPCG),
 - Rumänien (CFR Calatori & Regiotrans),

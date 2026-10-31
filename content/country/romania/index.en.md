@@ -15,6 +15,8 @@ params:
     - bg-ro
     - ro-rs
     - hu-ro
+content_images:
+  - image.webp
 ---
 
 ## FIP Information

@@ -12,6 +12,8 @@ params:
   border_points:
     - dk-se
     - dk-de
+content_images:
+  - image.webp
 ---
 
 ## FIP Information

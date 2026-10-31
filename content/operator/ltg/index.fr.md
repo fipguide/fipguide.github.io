@@ -5,6 +5,8 @@ country:
   - lithuania
   - latvia
 operator: ltg
+content_images:
+  - image.webp
 aliases:
   - /booking/ltg-website
 ---
@@ -65,19 +67,29 @@ Les trains comportent des voitures de 1re, 2e et 3e classe. À l’exception de 
 
 ### En gare
 
-Des centres de voyage existent uniquement à Vilnius, Kaunas et Klaipeda ; il n’était pas encore certain fin 2025 s’ils vendraient encore des billets en 2026 ou deviendraient de simples guichets d’information.
+LTG-Link ne dispose pas de guichets dans les gares où des billets FIP et des réservations pourraient être vendus. [^5]
 
-Les distributeurs de billets installés dans de nombreuses gares ne délivrent pas de billets FIP (état : 11/2025).
+Les billets FIP ne peuvent pas non plus être achetés aux distributeurs de billets. [^5]
+
+### À bord du train
+
+À bord du train, il est possible d’acheter des Billets FIP 50 et des réservations (ou des billets gratuits pour les trains sans obligation de réservation). [^5]
+
+{{% highlight tip %}}
+LTG-Link recommande vivement d’acheter les billets et réservations à l’avance en ligne via le [site Web](#en-ligne), afin de garantir une place dans les trains avec obligation de réservation.
+
+Cela vaut particulièrement pour la ligne Vilnius – Klaipėda pendant les mois d’été, car les trains peuvent y être complets.
+{{% /highlight %}}
 
 ## Réductions
 
 {{< children-discount >}}
 
-| Âge                                      | Réduction                                                                                                                           |
-| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| {{< icon "child_care" >}} 0–7 ans        | Gratuit, 2ᵉ classe, sur les genoux des parents (max. 2 enfants sans place assise) ; sinon réduction de 50 % sur le tarif normal[^4] |
-| {{< icon "child_care" >}} 8–17 ans       | Réduction de 50 % sur le tarif normal[^4]                                                                                           |
-| {{< icon "person" >}} à partir de 18 ans | Tarif normal[^4]                                                                                                                    |
+| Âge                                      | Réduction                                                                                                                                            |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| {{< icon "child_care" >}} 0–7 ans        | Gratuit, 2ᵉ classe, sur les genoux des parents (max. 2 enfants sans place assise) ; sinon réduction de 50 % sur le tarif normal[^4]<sup>, </sup>[^5] |
+| {{< icon "child_care" >}} 8–17 ans       | Réduction de 50 % sur le tarif normal[^4]                                                                                                            |
+| {{< icon "person" >}} à partir de 18 ans | Tarif normal[^4]                                                                                                                                     |
 
 ### Autres réductions
 
@@ -87,7 +99,7 @@ Les personnes de plus de 18 ans paient le plein tarif normal, mais de nombreuses
 
 ### Trains spéciaux et historiques
 
-En été, LTG-Link exploite des trains directs entre Vilnius et la mer Baltique (« seaside express ») les vendredis, samedis et dimanches, avec arrêt uniquement à Kretinga et Klaipeda. À Kretinga, correspondance en bus pour Palanga, à Klaipeda pour la presqu’île de Courlande. FIP est valable dans ces trains et les bus de correspondance.[^3]
+En été, LTG-Link exploite des trains directs entre Vilnius et la mer Baltique sous le nom de _Seaside Express_ ou _Palangos Link_ vers Kretinga. À Kretinga, correspondance en bus pour Palanga. FIP est valable dans ces trains et les bus de correspondance. Plus d’informations sont disponibles sur le [site de LTG-Link](https://ltg.lt/en/naujienos/2026/from-city-to-seaside-with-one-ticket/).[^3]<sup>, </sup>[^5]
 
 ### Possibilité d’interrompre le trajet
 
@@ -110,3 +122,5 @@ Le transport de vélos est possible dans tous les trains. Dans les trains avec r
 [^3]: [Feedback: LTG Link Sea Side Express](https://github.com/fipguide/fipguide.github.io/issues/817)
 
 [^4]: [LTG-Link – Réduction pour les enfants et les élèves](https://ltglink.lt/en/discount-for-children-and-pupils)
+
+[^5]: [LTG-Link Mail Feedback Guichet et réservations](https://github.com/fipguide/fipguide.github.io/issues/543)

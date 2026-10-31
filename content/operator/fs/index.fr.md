@@ -4,6 +4,8 @@ shortName: FS
 country:
   - italy
 operator: trenitalia
+content_images:
+  - image.webp
 aliases:
   - /booking/fs-ticket-machine
   - /booking/fs-ticket-office
@@ -45,15 +47,15 @@ La réservation (avec supplément) est obligatoire dans les trains longue distan
 
 Catégorie la plus élevée pour les trains à grande vitesse longue distance. Le Frecciarossa 1000 est signalé pour sa vitesse et son service supérieurs.
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Les trains du transporteur privé Italo sont aussi marqués AV mais ne sont pas accessibles avec FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
 #### Réservations
 
-Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FIP. Il est disponible uniquement en gare aux guichets Trenitalia.
+Lors de l’utilisation avec un Coupon FIP, ces trains sont soumis à un supplément. Le supplément à acheter s’appelle _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) et est disponible uniquement en gare aux guichets Trenitalia, [voir Achat de billets et réservations](#achat-de-billets-et-réservations).
 
 {{% /train-category %}}
 
@@ -68,15 +70,15 @@ Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FI
 
 Trains à grande vitesse à pendulation.
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Les trains du transporteur privé Italo sont aussi marqués AV mais ne sont pas accessibles avec FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-réservations)
 
 #### Réservations
 
-Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FIP. Il est disponible uniquement en gare aux guichets Trenitalia.
+Lors de l’utilisation avec un Coupon FIP, ces trains sont soumis à un supplément. Le supplément à acheter s’appelle _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) et est disponible uniquement en gare aux guichets Trenitalia, [voir Achat de billets et réservations](#achat-de-billets-et-réservations).
 
 {{% /train-category %}}
 
@@ -95,7 +97,7 @@ Voir les prix sous [Achat de billets et réservations](#achat-de-billets-et-rés
 
 #### Réservations
 
-Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FIP. Il est disponible uniquement en gare aux guichets Trenitalia.
+Lors de l’utilisation avec un Coupon FIP, ces trains sont soumis à un supplément. Le supplément à acheter s’appelle _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) et est disponible uniquement en gare aux guichets Trenitalia, [voir Achat de billets et réservations](#achat-de-billets-et-réservations).
 
 {{% /train-category %}}
 
@@ -127,7 +129,7 @@ Trains rapides principalement hors lignes à grande vitesse.
 
 #### Réservations
 
-Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FIP. Il est disponible uniquement en gare aux guichets Trenitalia.
+Lors de l’utilisation avec un Coupon FIP, ces trains sont soumis à un supplément. Le supplément à acheter s’appelle _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) et est disponible uniquement en gare aux guichets Trenitalia, [voir Achat de billets et réservations](#achat-de-billets-et-réservations).
 
 {{% /train-category %}}
 
@@ -144,7 +146,7 @@ Train de nuit national avec voitures couchettes, lits et places assises.
 
 #### Réservations
 
-Un supplément _CAMBIO SERVIZIO_ est obligatoire lors de l’utilisation avec FIP. Il est disponible uniquement en gare aux guichets Trenitalia. Pour les couchettes ou lits, un supplément supplémentaire s’applique.
+Lors de l’utilisation avec un Coupon FIP, ces trains sont soumis à un supplément. Le supplément à acheter s’appelle _Biglietti gratuiti FS_ (_CAMBIO SERVIZIO_) et est disponible uniquement en gare aux guichets Trenitalia, [voir Achat de billets et réservations](#achat-de-billets-et-réservations).
 
 {{% /train-category %}}
 
@@ -244,9 +246,9 @@ Les billets pour les trains régionaux peuvent être liés à un train spécifiq
 
 Réseaux suburbains à Naples (`M`) et Turin (`sfm`).
 
-{{< highlight confusion >}}
+{{< confusion italy >}}
 Les lignes de métro sont parfois aussi marquées `M` et ne sont pas accessibles avec FIP.
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -273,6 +275,19 @@ Les trains Le Frecce longue distance ont des catégories de classes particulièr
 **Executive** : Classe luxe avec compartiment privé pour 10 personnes et salle de réunion. Non réservable avec FIP.
 
 ## Achat de billets et réservations
+
+Lors de l’utilisation des trains longue distance avec un Coupon FIP, un supplément _Biglietti gratuiti FS_ (calculé selon le tarif _CAMBIO SERVIZIO_) doit être acheté.
+
+Pour les Billets FIP 50, le prix se compose également du supplément et d’une réduction de 50 % sur le tarif des trains régionaux. Chez Trenitalia, _CAMBIO SERVIZIO_ se calcule généralement sur la différence entre le tarif longue distance et le tarif régional. [^4]
+
+| Catégorie de train    | FIP 50                                   | Coupon FIP              | Voyage de service FIP     |
+| --------------------- | ---------------------------------------- | ----------------------- | ------------------------- |
+| `FR AV` Frecciarossa  | 50 % Tariffa Regionale + Combio Servizio | Combio Servizio         | Diritto Ammissione (25 €) |
+| `FA AV` Frecciargento | 50 % Tariffa Regionale + Combio Servizio | Combio Servizio         | Diritto Ammissione (25 €) |
+| `FB` Frecciabianca    | 50 % Tariffa Regionale + Combio Servizio | Combio Servizio         | Diritto Ammissione (20 €) |
+| `IC` InterCity        | 50 % Tariffa Regionale + Combio Servizio | Combio Servizio         | Diritto Ammissione (3 €)  |
+| `ICN` InterCity Notte | 50 % Tariffa Regionale + Combio Servizio | Combio Servizio         | Combio Servizio Notte     |
+| Trains régionaux      | 50 % Tariffa Regionale                   | Aucun supplément requis | Aucun supplément requis   |
 
 ### En ligne
 
@@ -322,6 +337,11 @@ InterCity (IC) : 3 € (1ère/2ᵉ classe) \
 InterCity Notte (ICN) : 25 € (1ère/2ᵉ classe, voiture assise)
 {{% /highlight %}}
 {{% /booking %}}
+
+{{% booking id="sbb-ticket-office"
+    subtitle="Uniquement pour les agents de la CFF et pas disponible pour toutes les liaisons"
+    classes=nil
+/%}}
 
 ### À bord du train
 
@@ -392,44 +412,40 @@ Les trains régionaux sont classés en liés à un train (_prenotabile_) et non 
 **Lié à un train :** \
 Les billets pour les trains liés à un train ne sont valables que pour le train indiqué sur le billet. Ces trains sont identifiés par :
 
-{{% float-image
+{{< float-image
     src="prenotabile_2.webp"
     alt="FS Prenotabile Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 La mention "prenotabile" dans les informations du train :
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="prenotabile_1.webp"
     alt="FS Prenotabile Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 L’intitulé du billet "Prenotazione – Ordinaria" :
-{{% /float-image %}}
+{{< /float-image >}}
 
 **Non lié à un train :** \
 Les billets pour les trains non liés à un train sont valables dans le train réservé et tous les autres trains non liés à un train sur le trajet, mais pas dans les trains liés à un train.
 
-{{% float-image
+{{< float-image
     src="ordinaria_2.webp"
     alt="FS Ordinaria Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 La mention "non prenotabile" dans les informations du train :
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="ordinaria_1.webp"
     alt="FS Ordinaria Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 L’intitulé du billet "Ordinaria" :
-{{% /float-image %}}
+{{< /float-image >}}
 
 {{% /expander %}}
 
@@ -462,3 +478,5 @@ Pour les trajets longue distance, le Coupon FIP n’est rentable que dans une ce
 [^2]: [FIP Guide Community Feedback](https://discord.com/channels/1250522473188032512/1473286775702290556)
 
 [^3]: [Trenitalia – Réduction enfants](https://www.trenitalia.com/en/offers/children-s-discount.html)
+
+[^4]: [FIP Guide Community – Trenitalia Ticket Table](https://discord.com/channels/1250522473188032512/1503438273937412256/1514223273603235870)

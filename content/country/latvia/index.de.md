@@ -9,6 +9,8 @@ params:
     - lv-ru
     - lv-by
     - lv-lt
+content_images:
+  - image.webp
 ---
 
 ## FIP Nutzung

@@ -4,6 +4,8 @@ country: montenegro
 params:
   border_points:
     - me-rs
+content_images:
+  - image.webp
 ---
 
 ## FIP Information

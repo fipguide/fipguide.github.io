@@ -4,6 +4,8 @@ shortName: National Rail
 country:
   - united-kingdom
 operator: gb
+content_images:
+  - image.webp
 aliases:
   - /booking/caledonian-sleeper-website
   - /booking/lner-website
@@ -532,6 +534,11 @@ Through the _[Seatfrog](https://seatfrog.com/)_ app, upgrades to First Class can
 ### On-Site
 
 {{% booking id="national-rail-ticket-office" /%}}
+
+{{% booking id="sbb-ticket-office"
+    reservations=nil
+    subtitle="Booking of FIP 50 Tickets only possible for SBB and SNCF employees"
+/%}}
 
 ### On the Train
 

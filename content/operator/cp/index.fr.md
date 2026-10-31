@@ -4,6 +4,8 @@ shortName: CP
 country:
   - portugal
 operator: cp
+content_images:
+  - image.webp
 aliases:
   - /booking/cp-ticket-office
 ---

@@ -4,6 +4,8 @@ shortName: NS
 country:
   - netherlands
 operator: ns
+content_images:
+  - image.webp
 aliases:
   - /booking/ns-phone
   - /booking/ns-ticket-office
@@ -160,11 +162,11 @@ Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle
 
 Regionalzüge mit mehr Halten als beim Intercity, aber trotzdem nur an wichtigeren Stationen.
 
-{{< highlight confusion >}}
+{{< confusion netherlands >}}
 Die Züge der Kategorie Sneltrein / Regional-Express `RE`, unter anderem die Verbindungen Venlo – Hamm (Deutschland) und Arnhem – Düsseldorf (Deutschland) sowie andere RE-Verbindungen werden nicht von der NS betrieben und sind mit FIP nicht nutzbar.
 
 Eine Ausnahme gilt für den Dreiländerzug (Liège-Guillemins – Maastricht – Heerlen – Aachen): Zwischen Maastricht und Liège-Guillemins wird der Zug im Auftrag der NS und SNCB betrieben, NS/SNCB-Tickets einschließlich FIP bleiben gültig. Zwischen Maastricht und Aachen (über Heerlen) wird der Zug von Arriva betrieben und FIP ist nicht gültig.
-{{< /highlight >}}
+{{< /confusion >}}
 {{% /train-category %}}
 
 {{% train-category
@@ -191,11 +193,11 @@ Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
 
 Regionalzüge mit rot-grauem R-net Branding auf der Strecke von von Alphen aan den Rijn nach Gouda.
 
-{{< highlight confusion >}}
+{{< confusion netherlands >}}
 R-net (Randstadnet) ist ein Verkehrskonzept in der Metropolregion Randstad, welches von mehreren Betreibern in einheitlichem rot-grauem Fahrzeug-Branding betrieben wird. Es umfasst Züge, U-Bahnen, Straßenbahnen und Busse. Mit FIP ist ausschließlich die R-net Verbindung von Alphen aan den Rijn nach Gouda nutzbar, die von der NS betrieben wird. [^6] Alle anderen R-net Verbindungen, insbesondere die Linie Geldermalsen - Dordrecht (Qbuzz Stoptrein), sind mit FIP nicht nutzbar.
 
 In der Verbindungsauskunft der NS werden die Verbindungen als `R-net NS Sprinter` gekennzeichnet. Nicht zu verwechseln mit dem `R-net Qbuzz Stoptrein`, der nicht mit FIP genutzt werden darf. In anderen Auskunftsmedien, z. B. der DB, wird die Verbindung gegebenenfalls nur als `RE` des Betreibers "R-net" angegeben. Hier ist eine Unterscheidung zum R-net Qbuzz Stoptrein nur anhand der Linie möglich!
-{{< /highlight >}}
+{{< /confusion >}}
 
 {{% /train-category %}}
 
@@ -234,6 +236,12 @@ Nationale Verbindungen können online leider nicht erworben werden.
 {{% booking id="ns-ticket-office" /%}}
 
 {{% booking id="db-ticket-office" /%}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="6 CHF"
+    classes.second="6 CHF"
+    subtitle="Buchung von FIP 50 Tickets nur für Mitarbeitende der SBB und SNCF möglich"
+/%}}
 
 ### Im Zug
 

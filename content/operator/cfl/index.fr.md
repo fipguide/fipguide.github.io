@@ -4,6 +4,8 @@ shortName: CFL
 country:
   - luxembourg
 operator: cfl
+content_images:
+  - image.webp
 aliases:
   - /booking/cfl-phone
   - /booking/cfl-ticket-office
@@ -128,6 +130,12 @@ En raison des frais de réservation, il peut être avantageux d’acheter un bil
 ### En gare
 
 {{% booking id="cfl-ticket-office" /%}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="6 CHF"
+    classes.second="6 CHF"
+    subtitle="Réservation de Billets FIP 50 réservée aux agents de la CFF et de la SNCF"
+/%}}
 
 ### À bord du train
 
