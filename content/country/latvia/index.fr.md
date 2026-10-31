@@ -1,6 +1,5 @@
 ---
 title: Lettonie
-country: latvia
 params:
   operators_without_fip:
     - Latvijas dzelzceļš (LDz)

@@ -2,7 +2,6 @@
 title: "ŽRSM"
 country:
   - "north-macedonia"
-operator: "zrsm"
 content_images:
   - image.webp
 ---

@@ -3,7 +3,6 @@ title: KD
 shortName: KD
 country:
   - pologne
-operator: kd
 content_images:
   - image.webp
 aliases:

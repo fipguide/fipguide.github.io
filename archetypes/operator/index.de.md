@@ -5,7 +5,6 @@ country:
   - "country1"
   - "country2"
   - "country3"
-operator: "{{ .File.ContentBaseName }}"
 content_images:
   - "image.webp"
 ---

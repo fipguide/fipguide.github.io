@@ -5,7 +5,6 @@ description: Informationen über die FIP-Bedingungen bei den Schweizer Privatbah
 country:
   - switzerland
   - italy
-operator: sp
 content_images:
   - image.webp
 ---

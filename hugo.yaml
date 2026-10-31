@@ -39,14 +39,6 @@ module:
   hugoVersion:
     min: "0.164.0"
 
-related:
-  includeNewer: true
-  indices:
-    - name: country
-      weight: 100
-    - name: operator
-      weight: 100
-
 markup:
   tableOfContents:
     startLevel: 2

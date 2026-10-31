@@ -3,7 +3,6 @@ title: DSB
 shortName: DSB
 country:
   - denmark
-operator: dsb
 content_images:
   - image.webp
 aliases:

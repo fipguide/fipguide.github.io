@@ -1,6 +1,5 @@
 ---
 title: Spanien
-country: spain
 params:
   operators_without_fip:
     - Iryo

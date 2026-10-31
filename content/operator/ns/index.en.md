@@ -3,7 +3,6 @@ title: NS
 shortName: NS
 country:
   - netherlands
-operator: ns
 content_images:
   - image.webp
 aliases:

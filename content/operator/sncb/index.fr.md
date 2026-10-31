@@ -3,7 +3,6 @@ title: SNCB / NMBS
 shortName: SNCB
 country:
   - belgium
-operator: sncb
 content_images:
   - image.webp
 aliases:

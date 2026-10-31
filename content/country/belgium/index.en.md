@@ -1,6 +1,5 @@
 ---
 title: Belgium
-country: belgium
 params:
   operators_without_fip:
     - European Sleeper

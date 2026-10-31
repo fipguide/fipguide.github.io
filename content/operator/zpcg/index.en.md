@@ -3,7 +3,6 @@ title: ŽPCG
 shortName: ŽPCG
 country:
   - montenegro
-operator: zpcg
 content_images:
   - image.webp
 ---

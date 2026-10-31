@@ -5,7 +5,6 @@ description: Information on the FIP conditions at the Swiss private railways.
 country:
   - switzerland
   - italy
-operator: sp
 content_images:
   - image.webp
 ---

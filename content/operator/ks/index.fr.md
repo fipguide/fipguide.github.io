@@ -3,7 +3,6 @@ title: KŚ
 shortName: KŚ
 country:
   - poland
-operator: ks
 content_images:
   - image.webp
 aliases:

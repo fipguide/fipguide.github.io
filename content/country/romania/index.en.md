@@ -1,6 +1,5 @@
 ---
 title: Romania
-country: romania
 params:
   operators_without_fip:
     - Astra Trains Carpatic (ATC)

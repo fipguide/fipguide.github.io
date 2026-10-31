@@ -3,7 +3,6 @@ title: Trenitalia
 shortName: FS
 country:
   - italy
-operator: trenitalia
 content_images:
   - image.webp
 aliases:

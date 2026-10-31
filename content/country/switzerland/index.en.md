@@ -1,6 +1,5 @@
 ---
 title: Switzerland
-country: switzerland
 params:
   operators_without_fip:
     - European Sleeper

@@ -3,7 +3,6 @@ title: National Rail
 shortName: National Rail
 country:
   - united-kingdom
-operator: gb
 content_images:
   - image.webp
 aliases:

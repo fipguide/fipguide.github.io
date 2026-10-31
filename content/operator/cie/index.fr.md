@@ -3,7 +3,6 @@ title: CIE
 shortName: CIE
 country:
   - ireland
-operator: cie
 content_images:
   - image.webp
 aliases:

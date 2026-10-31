@@ -104,7 +104,7 @@ x_border_side: &border_side
         widget: "relation"
         collection: "country"
         search_fields: ["title"]
-        value_field: "country"
+        value_field: "{{slug}}"
         display_fields: ["title"]
         required: false
         i18n: duplicate
@@ -126,7 +126,7 @@ x_border_side: &border_side
         widget: "relation"
         collection: "operator"
         search_fields: ["title"]
-        value_field: "operator"
+        value_field: "{{slug}}"
         display_fields: ["title"]
         required: false
         i18n: duplicate
@@ -184,7 +184,7 @@ collections:
         widget: "relation"
         collection: "country"
         search_fields: ["title"]
-        value_field: "country"
+        value_field: "{{slug}}"
         display_fields: ["title"]
         multiple: true
         required: false
@@ -195,7 +195,7 @@ collections:
         widget: "relation"
         collection: "operator"
         search_fields: ["title"]
-        value_field: "operator"
+        value_field: "{{slug}}"
         display_fields: ["title"]
         multiple: true
         required: false
@@ -247,10 +247,6 @@ collections:
         name: "title"
         widget: "string"
         i18n: true
-      - label: "Country"
-        name: "country"
-        widget: "string"
-        i18n: duplicate
       - label: "Parameters"
         name: "params"
         widget: "object"
@@ -340,16 +336,11 @@ collections:
         widget: "relation"
         collection: "country"
         search_fields: ["title"]
-        value_field: "country"
+        value_field: "{{slug}}"
         display_fields: ["title"]
         multiple: true
         i18n: duplicate
         hint: "List of countries the operator operates in."
-      - label: "Operator"
-        name: "operator"
-        widget: "string"
-        i18n: duplicate
-        hint: A unique identifier of the operator (slug).
       - label: "Content Images"
         name: "content_images"
         widget: "image"
@@ -547,7 +538,7 @@ collections:
             widget: "relation"
             collection: "operator"
             search_fields: ["title"]
-            value_field: "operator"
+            value_field: "{{slug}}"
             display_fields: ["title"]
             hint: "The operator this validity information applies to."
           - label: "FIP Coupon"

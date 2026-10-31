@@ -3,7 +3,6 @@ title: SŽ
 shortName: SŽ
 country:
   - slovenia
-operator: sz
 content_images:
   - image.webp
   - image2.webp
