@@ -146,7 +146,7 @@ Inhaber einer OV-Chipkarte, Debit- oder Kreditkarte [^7] können an roten Zuschl
 {{< /float-image >}}
 {{< /highlight >}}
 
-![Intercity Direct Netz, Spag85, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg)\](intercity-direct-map.webp)
+![Intercity Direct Netz, Spag85, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Intercity_direct_network.jpg)](intercity-direct-map.webp)
 
 {{% /train-category %}}
 
