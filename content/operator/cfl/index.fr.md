@@ -130,6 +130,12 @@ En raison des frais de réservation, il peut être avantageux d’acheter un bil
 
 {{% booking id="cfl-ticket-office" /%}}
 
+{{% booking id="sbb-ticket-office"
+    classes.first="6 CHF"
+    classes.second="6 CHF"
+    subtitle="Réservation de Billets FIP 50 réservée aux agents de la CFF et de la SNCF"
+/%}}
+
 ### À bord du train
 
 Les billets pour voyager en première classe ou pour un surclassement de la deuxième à la première classe doivent être achetés avant de monter dans le train.

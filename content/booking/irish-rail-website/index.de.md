@@ -20,14 +20,13 @@ Online können Reservierungen für die 2. Klasse erworben werden. Hierzu muss zu
 
 ![Passagieroptionen öffnen](./reservation-step-1.png)
 
-{{% float-image
+{{< float-image
     src="reservation-step-2.png"
     alt="Auswahl Free Travel Pass"
     width="50%"
-    position="left"
-%}}
+    position="left" >}}
 Im Anschluss kann die Auswahl "Adults" abgewählt und die Option "Free Travel Pass" ausgewählt werden.
-{{% /float-image %}}
+{{< /float-image >}}
 
 Reservierungen für die 2. Klasse werden kostenfrei ausgegeben. Lediglich auf einigen stark ausgelasteten Verbindungen werden Reservierungsgebühren von 2,50 € erhoben.
 

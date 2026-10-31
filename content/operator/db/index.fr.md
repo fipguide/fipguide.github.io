@@ -333,6 +333,12 @@ Les Billets FIP 50 sont considérés comme _Flexpreis_ et peuvent donc être ann
     subtitle="Billets FIP 50 nationaux et transfrontaliers pour tout le trajet (non valables dans le pays d’émission de la Carte FIP)."
 /%}}
 
+{{% booking id="sncf-connect"
+    subtitle="Réservé aux agents de la SNCF et uniquement pour les liaisons TGV transfrontalières"
+    reservations=false
+    fip_75=nil
+/%}}
+
 ### Par téléphone
 
 {{% booking id="oebb-phone"
@@ -340,7 +346,7 @@ Les Billets FIP 50 sont considérés comme _Flexpreis_ et peuvent donc être ann
     classes.first="6,90 €"
     classes.second="5,50 €"
 %}}
-Les réservations pour les trajets intérieurs allemands coûtent 5,50 € (2e classe) ou 6,90 € (1re classe). Les connexions transfrontalières coûtent 3 €.
+Les réservations pour les trajets intérieurs allemands coûtent 5,50 € (2e classe) ou 6,90 € (1re classe). Les connexions transfrontalières coûtent 3,50 €.
 {{% highlight inofficial %}}
 Actuellement, aucun Billet FIP 50 pour les trajets domestiques en Allemagne ne peut être vendu via la hotline ÖBB. Cependant, les réservations transfrontalières de Billets FIP 50 restent possibles (voir [Retours de la communauté Discord FIP sur la hotline ÖBB](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
 {{% /highlight %}}
@@ -353,6 +359,11 @@ Actuellement, aucun Billet FIP 50 pour les trajets domestiques en Allemagne ne p
 %}}
 La réservation de trains directs sans correspondance est moins chère via l’ÖBB.
 {{% /booking %}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="6 CHF"
+    classes.second="6 CHF"
+/%}}
 
 ### À bord du train
 

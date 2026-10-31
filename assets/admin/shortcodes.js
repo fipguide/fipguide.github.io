@@ -112,6 +112,11 @@ function renderMultilineOpen(bracket, name, params, opts) {
       return pad + p;
     }),
   );
+  if (bracket === "<") {
+    var lastIndex = lines.length - 1;
+    lines[lastIndex] = lines[lastIndex] + " " + close;
+    return lines.join("\n");
+  }
   return lines.join("\n") + "\n" + close;
 }
 
@@ -155,6 +160,28 @@ function makeToBlock(name, cfg) {
 
     return open + bodySep + body + bodySep + closeTag;
   };
+}
+
+function registerDualBracketComponent(name, cfg) {
+  function register(id, bracket) {
+    CMS.registerEditorComponent({
+      id: id,
+      label: cfg.label,
+      icon: cfg.icon,
+      fields: cfg.fields,
+      pattern: shortcodePattern(name, bracket),
+      fromBlock: cfg.fromBlock,
+      toBlock: makeToBlock(
+        name,
+        Object.assign({ bracket: bracket }, cfg.toBlockOptions),
+      ),
+      toPreview: function () {
+        return "";
+      },
+    });
+  }
+  register(name, "%");
+  register(name + "-raw", "<");
 }
 
 // Matches `![prefix[linkText](linkHref)suffix](src "title")`, where the
@@ -248,42 +275,17 @@ var highlightFields = [
   },
 ];
 
-CMS.registerEditorComponent({
-  id: "highlight",
+registerDualBracketComponent("highlight", {
   label: "Highlight",
   icon: "stylus_highlighter",
   fields: highlightFields,
-  pattern: shortcodePattern("highlight", "%"),
   fromBlock: function (match) {
     return { type: match[1].trim(), body: match[2].trim() };
   },
-  toBlock: makeToBlock("highlight", {
+  toBlockOptions: {
     fields: highlightFields,
     bodyMode: "required",
     bodySeparator: "\n",
-  }),
-  toPreview: function () {
-    return "";
-  },
-});
-
-CMS.registerEditorComponent({
-  id: "highlight-raw",
-  label: "Highlight",
-  icon: "stylus_highlighter",
-  fields: highlightFields,
-  pattern: shortcodePattern("highlight", "<"),
-  fromBlock: function (match) {
-    return { type: match[1].trim(), body: match[2].trim() };
-  },
-  toBlock: makeToBlock("highlight", {
-    bracket: "<",
-    fields: highlightFields,
-    bodyMode: "required",
-    bodySeparator: "\n",
-  }),
-  toPreview: function () {
-    return "";
   },
 });
 
@@ -359,7 +361,7 @@ var expanderFields = [
     widget: "markdown",
     editor_components: [
       "button",
-      "float-image",
+      "float-image-raw",
       "highlight-raw",
       "icon",
       "image2",
@@ -556,7 +558,7 @@ var trainCategoryFields = [
     widget: "markdown",
     editor_components: [
       "button",
-      "float-image",
+      "float-image-raw",
       "highlight-raw",
       "icon",
       "image2",
@@ -781,7 +783,7 @@ var bookingSectionFields = [
     widget: "markdown",
     editor_components: [
       "button",
-      "float-image",
+      "float-image-raw",
       "highlight-raw",
       "icon",
       "image2",
@@ -1103,12 +1105,10 @@ var floatImageFields = [
   },
 ];
 
-CMS.registerEditorComponent({
-  id: "float-image",
+registerDualBracketComponent("float-image", {
   label: "Float Image",
   icon: "format_image_left",
   fields: floatImageFields,
-  pattern: shortcodePattern("float-image"),
   fromBlock: function (match) {
     var p = parseHugoParams(match[1]);
     return {
@@ -1120,13 +1120,10 @@ CMS.registerEditorComponent({
       body: match[2].trim(),
     };
   },
-  toBlock: makeToBlock("float-image", {
+  toBlockOptions: {
     fields: floatImageFields,
     bodyMode: "optionalPaired",
     multiline: true,
-  }),
-  toPreview: function () {
-    return "";
   },
 });
 

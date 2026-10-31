@@ -213,6 +213,24 @@ FIP gilt nur eingeschränkt in `RER` Zügen, siehe [Züge im Großraum Paris](#z
 {{% /train-category %}}
 
 {{% train-category
+    id="lex"
+    title="Léman-Express (LEX / L)"
+    type="regional"
+    fip_accepted=true
+    reservation_required=false
+    reservation_possible=false
+    route_overview_url="https://www.lemanexpress.com/de/die-6-lex-linien/"
+%}}
+
+Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen Léman Express, betrieben von SBB und SNCF.
+
+In der Fahrplanauskunft der SNCF werden Verbindungen des Léman Express als `LEX` + Liniennummer (L1, L2, usw.) angezeigt. In der Fahrplanauskunft der SBB werden die Züge manchmal als `RL` angezeigt, teilweise auch als `TER`.
+
+Innerhalb Frankreichs und innerhalb der Schweiz gelten FIP Vergünstigungen wie gewohnt. Auf grenzüberschreitenden Fahrten gilt FIP nur bei Fahrt über den Grenzpunkt Annemasse. Für grenzüberschreitenden Fahrten zwischen La Plaine und Bellegarde (Gr) müssen Normalpreistickets erworben werden. [^9]<sup>, </sup>[^10]
+
+{{% /train-category %}}
+
+{{% train-category
     id="bus"
     title="Bus"
     type="bus"
@@ -230,6 +248,11 @@ FIP Vergünstigungen gelten auch in Bussen, die von der SNCF betrieben werden. A
 ### Online
 
 Nationale Verbindungen können online leider nicht erworben werden.
+
+{{% booking id="sncf-connect"
+    subtitle="Nur für SNCF Mitarbeitende"
+    fip_global_fare=nil
+/%}}
 
 {{% booking id="db-website-fip-db"
     subtitle="Grenzüberschreitende FIP 50 Tickets für TGV/ICE und Regionalzüge zwischen Deutschland und Frankreich, mit Ticketanteil nur für den französischen Abschnitt. Nur für Mitarbeitende der Deutschen Bahn."
@@ -275,9 +298,30 @@ Nationale Verbindungen können online leider nicht erworben werden.
     subtitle="Für Züge im Großraum Paris"
 /%}}
 
+{{% booking id="cfl-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
+
+{{% booking id="dsb-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
+
+{{% booking id="sncb-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+/%}}
+
 {{% booking id="ns-ticket-office"
     classes.first="2 € / 16 €"
     classes.second="2 € / 11 €"
+/%}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="2 € / 16 €"
+    classes.second="2 € / 11 €"
+    subtitle="Buchung nur für Mitarbeitende der SBB und SNCF möglich"
 /%}}
 
 {{% booking id="db-ticket-office"
@@ -523,3 +567,7 @@ Die SNCF ist nicht die einfachste Bahngesellschaft, was FIP betrifft, da in viel
 [^7]: [SNCF Connect – Boarding Train](https://www.sncf-connect.com/en-en/help/boarding-train)
 
 [^8]: [DB – Was muss ich bei meiner Reise mit der SNCF beachten?](https://www.bahn.de/faq/internationale-reise-sncf-was-beachten)
+
+[^9]: [Rail Delivery Group – Léman Express](https://www.raildeliverygroup.com/rst/europe-and-fip/countries/469782262-france.html#Leman)
+
+[^10]: [FIP Guide Community – Léman Express](https://discord.com/channels/1250522473188032512/1441391294189408269/1452707469909561406)

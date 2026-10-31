@@ -271,6 +271,11 @@ Alternativ kann auch direkt über die [Website von Polregio](https://bilety.polr
     subtitle="Außer EIP"
 /%}}
 
+{{% booking id="sbb-ticket-office"
+    classes=nil
+    subtitle="Buchung nur eingeschränkt auf ausgewählten Verbindungen möglich"
+/%}}
+
 ### Im Zug
 
 #### PKP Intercity (EIC, IC, TLK)

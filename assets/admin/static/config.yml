@@ -118,6 +118,7 @@ collections:
       - label: "Publish Date"
         name: "date"
         widget: "datetime"
+        type: "date"
         i18n: duplicate
       - label: "Author"
         name: "author"
@@ -748,7 +749,7 @@ collections:
         editor_components:
           - "image2"
           - "table"
-          - "highlight-raw"
+          - "highlight"
           - "expander"
           - "booking-section"
           - "button"

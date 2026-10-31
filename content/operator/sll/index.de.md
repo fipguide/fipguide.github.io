@@ -60,41 +60,37 @@ Mit einem FIP Freifahrtschein ist der Fahrpreis kostenlos.
 
 {{% expander "Kosten online herausfinden" info %}}
 
-{{% float-image
+{{< float-image
     src="determine_costs_1.webp"
     alt="Step 1"
     width="40%"
-    position="right"
-%}}
+    position="right" >}}
 Die anfallenden Kosten können bereits vor der Buchung über die Website von Stena Line eingesehen werden. Hierzu muss zunächst die [Website der Stena Line (UK)](https://www.stenaline.co.uk/) aufgerufen werden. Wenn die Preise in Euro gewünscht sind, kann unten auf der Startseite eine entsprechende Sprache gewählt werden.
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="determine_costs_2.webp"
     alt="Step 2"
     width="40%"
-    position="right"
-%}}
+    position="right" >}}
 Im nächsten Schritt musst du zur alten Buchung wechseln. Bei der neuen Buchung werden die Kosten nicht aufgeschlüsselt angezeigt.
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="determine_costs_3.webp"
     alt="Step 3"
     width="40%"
-    position="right"
-%}}
+    position="right" >}}
 Anschließend können die Buchungsschritte durchlaufen werden. Bei der Wahl des Tarifs kann Flexi oder Economy ausgewählt werden.
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="determine_costs_4.webp"
     alt="Step 4"
     width="40%"
-    position="right"
-%}}
+    position="right" >}}
 Nachdem du alle gewünschten Zusatzoptionen und Kabinen ausgewählt hast, erhältst du in der Seitenleiste eine Kostenaufschlüsselung. Mit FIP Freifahrtschein werden die Fahrtkosten (angegeben als Economy oder Flexi) auf 0 gesetzt, der Restbetrag bleibt bestehen. Daher können die Fahrtkosten einfach abgezogen werden, um die Kosten mit FIP Freifahrtschein zu ermitteln.
-{{% /float-image %}}
+{{< /float-image >}}
 
 Die Hafengebühren und Umweltabgaben werden auf den Fahrpreis gemäß den folgenden Informationen (Stand 09.05.2026) aufgeschlagen: [^2]
 

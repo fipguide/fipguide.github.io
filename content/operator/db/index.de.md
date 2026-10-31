@@ -339,6 +339,12 @@ FIP 50 Tickets gelten als _Flexpreis_ und sind daher bis vor den 1. Geltungstag 
     subtitle="Nationale und grenzüberschreitende FIP 50 Tickets für die gesamte Strecke (keine Gültigkeit im Ausstellungsland des FIP Ausweises)."
 /%}}
 
+{{% booking id="sncf-connect"
+    subtitle="Nur für SNCF Mitarbeitende und nur für grenzüberschreitende TGV Verbindungen"
+    reservations=false
+    fip_75=nil
+/%}}
+
 ### Telefon
 
 {{% booking id="oebb-phone"
@@ -346,7 +352,7 @@ FIP 50 Tickets gelten als _Flexpreis_ und sind daher bis vor den 1. Geltungstag 
     classes.first="6,90 €"
     classes.second="5,50 €"
 %}}
-Reservierungen für innerdeutsche Verbindungen kosten 5,50 € (2. Klasse) bzw. 6,90 € (1. Klasse). Grenzüberschreitende Verbindungen kosten 3 €.
+Reservierungen für innerdeutsche Verbindungen kosten 5,50 € (2. Klasse) bzw. 6,90 € (1. Klasse). Grenzüberschreitende Verbindungen kosten 3,50 €.
 {{% highlight inofficial %}}
 Zurzeit können temporär keine FIP 50 Tickets für nationale Fahrten innerhalb Deutschlands über die ÖBB Hotline verkauft werden. Grenzüberschreitende Buchungen von FIP 50 Tickets sind jedoch weiterhin möglich (siehe [Discord FIP Community ÖBB Hotline Feedback](https://discord.com/channels/1250522473188032512/1433782574806728804/1501610707274301501)).
 {{% /highlight %}}
@@ -359,6 +365,11 @@ Zurzeit können temporär keine FIP 50 Tickets für nationale Fahrten innerhalb 
 %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="6 CHF"
+    classes.second="6 CHF"
+/%}}
 
 ### Im Zug
 
