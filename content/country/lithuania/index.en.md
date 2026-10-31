@@ -4,6 +4,11 @@ country: lithuania
 params:
   operators_without_fip:
     - Aukštaitijos siaurasis geležinkelis (heritage railway)
+  border_points:
+    - lv-lt
+    - lt-by
+    - lt-pl
+    - lt-ru
 content_images:
   - image.webp
 ---
@@ -40,16 +45,7 @@ On the route to Turmantas, the old DR1A trains from Soviet production are still 
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                          | Border Points                                                                 |
-| ------------------------------------------------ | ----------------------------------------------------------------------------- |
-| [Latvia](/country/latvia) (LDz)                  | Joniškis                                                                      |
-| Belarus                                          | Border closed                                                                 |
-| [Poland](/country/poland) ([PKP](/operator/pkp)) | Mockava                                                                       |
-| Russia                                           | No boarding/alighting in transit traffic Russia-Belarus-Lithuania-Kaliningrad |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Latvia
 

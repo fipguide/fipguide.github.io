@@ -4,6 +4,11 @@ country: portugal
 params:
   operators_without_fip:
     - Fertagus
+  border_points:
+    - pt-es
+  border_points_footnotes:
+    - "[>] = Direction (par exemple : V. Real de Sto António Guardiana [> Ayamonte]
+      = le point frontalier à V. Real de Sto António Guardiana est orienté vers Ayamonte)"
 content_images:
   - image.webp
 ---
@@ -33,16 +38,7 @@ Gares particulièrement recommandées :
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                 | Points frontières                                                                                                                                |
-| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Espagne](/country/spain) ([Renfe](/operator/renfe)) | Badajoz (fr), Barca de Alva (fr), Fuentes de Oñoro (fr), Valença (fr), Valencia de Alcántara (fr), V. Real de Sto António Guardiana [> Ayamonte] |
-
-\
-[>] = Direction (par exemple : V. Real de Sto António Guardiana [> Ayamonte] = le point frontalier à V. Real de Sto António Guardiana est orienté vers Ayamonte)
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Espagne
 

@@ -4,6 +4,11 @@ country: latvia
 params:
   operators_without_fip:
     - Latvijas dzelzceļš (LDz)
+  border_points:
+    - lv-ee
+    - lv-ru
+    - lv-by
+    - lv-lt
 content_images:
   - image.webp
 ---
@@ -22,16 +27,7 @@ Lettlands Eisenbahnnetz basiert auf der 1520 mm‑Breitspur. Der Personenverke
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                                      | Grenzpunkte     |
-| --------------------------------------------------------- | --------------- |
-| Estland                                                   | Valga           |
-| Russland                                                  | Grenze gesperrt |
-| Belarus/Weißrussland                                      | Grenze gesperrt |
-| [Litauen](/country/lithuania) ([LTG-Link](/operator/ltg)) | Joniškis        |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Estland
 

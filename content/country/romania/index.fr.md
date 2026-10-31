@@ -9,6 +9,12 @@ params:
     - SFTRA (Softrans)
     - TFC (Transferoviar Călători)
     - TFI (Ferotrans)
+  border_points:
+    - ro-ua
+    - ro-md
+    - bg-ro
+    - ro-rs
+    - hu-ro
 content_images:
   - image.webp
 ---
@@ -31,17 +37,7 @@ Les lignes longeant les Carpates sont particulièrement pittoresques, par exempl
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                 | Points frontières                                                                                                        |
-| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Ukraine (UZ)                                         | Vicsani (fr)                                                                                                             |
-| Moldavie (CFM)                                       | Iasi, Ungheni (fr)                                                                                                       |
-| [Bulgarie](/country/bulgaria) ([BDŽ](/operator/bdz)) | Ruse (fr) (bulgare : Русе), Vidin (fr)                                                                                   |
-| [Serbie](/country/serbia) ([SV](/operator/sv))       | Jimbolia (fr) (serbe : Жомбољ), Vršac (fr) (serbe : Вршац)                                                               |
-| [Hongrie](/country/hungary) ([MÁV](/operator/mav))   | Biharkeresztes (fr), Curtici (fr) (hongrois : Kürtös), Nyirábrány (fr), Salonta (fr) (hongrois : Nagyszalonta, Szalonta) |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Ukraine
 

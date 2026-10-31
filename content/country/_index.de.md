@@ -1,5 +1,7 @@
 ---
 title: Übersicht der Länder
+build:
+  publishResources: false
 description: Übersichtliche Darstellung aller Länder, in denen
   FIP-Vergünstigungen genutzt werden können. Erfahre, in welchen Ländern FIP 50
   Tickets und internationale Freifahrten genutzt werden können.

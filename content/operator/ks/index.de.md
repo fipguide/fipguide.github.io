@@ -1,5 +1,6 @@
 ---
 title: KŚ
+shortName: KŚ
 country:
   - poland
 operator: ks

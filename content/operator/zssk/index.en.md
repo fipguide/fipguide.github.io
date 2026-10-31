@@ -1,5 +1,6 @@
 ---
 title: ZSSK / ZSR
+shortName: ZSSK
 country:
   - slovakia
 operator: zssk

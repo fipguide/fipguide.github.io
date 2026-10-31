@@ -1,5 +1,6 @@
 ---
 title: ŽPCG
+shortName: ŽPCG
 country:
   - montenegro
 operator: zpcg

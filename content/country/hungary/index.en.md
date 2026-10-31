@@ -5,6 +5,16 @@ params:
   operators_without_fip:
     - RegioJet
     - BKV Zrt. (Budapesti Közlekedési Zártkörűen Működő Részvénytársaság)
+  border_points:
+    - hu-sk-mav
+    - hu-sk-gysev
+    - hu-ua
+    - hu-ro
+    - hu-rs
+    - hu-hr
+    - hu-si
+    - at-hu-mav
+    - at-hu-gysev
 content_images:
   - image.webp
 ---
@@ -25,21 +35,7 @@ The infrastructure is being partially modernized, while there are still routes w
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                                      | Border Points                                                                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Bánréve (Gr), Čaňa (Gr), Fil'akovo (Gr), Komárom (Gr), Sátoralújhely (Gr), Szob (Gr) |
-| [Slovakia](/country/slovakia) ([GySEV](/operator/gysev))     | Rajka (Gr)                                                                           |
-| Ukraine (UZ)                                                 | Záhony (Gr)                                                                          |
-| [Romania](/country/romania) ([CFR](/operator/cfr))           | Biharkeresztes (fr), Curtici (Gr), Nyirábrány (Gr), Salonta (Gr)                     |
-| [Serbia](/country/serbia) ([SV](/operator/sv))               | Röszke (Gr), Subotica (Gr)                                                           |
-| Croatia (HŽ)                                                 | Koprivnica (Gr), Kotoriba (Gr), Magyarbóly (Gr)                                      |
-| [Slovenia](/country/slovenia) ([SŽ](/operator/sz))           | Hodos (Gr)                                                                           |
-| [Austria](/country/austria) ([ÖBB](/operator/oebb))          | Hegyshalom (Gr), Sopron                                                              |
-| [Austria](/country/austria) ([GySEV](/operator/gysev))       | Pamhagen (Gr), Szentgotthárd, Sopron                                                 |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Slovakia
 

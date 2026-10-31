@@ -1,6 +1,11 @@
 ---
 title: "Macédoine du Nord"
 country: "north-macedonia"
+params:
+  border_points:
+    - rs-mk
+    - gr-mk
+    - mk-xk
 content_images:
   - image.webp
 ---
@@ -20,15 +25,7 @@ Il n’existe pas d’horaires réguliers, mais seulement des trains individuels
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                      | Points frontières                                       |
-| --------------------------------------------------------- | ------------------------------------------------------- |
-| [Serbie](/country/serbia) ([SV](/operator/sv))            | Tabanovci (fr) (Serbe : Табановце ; albanais : Tabanoc) |
-| [Grèce](/country/greece) ([Hellenic Train](/operator/ht)) | Gevgelija (fr) (Macédonien : Гевгелија)                 |
-| Kosovo (Trainkos)                                         | Elez Han (Serbe : Елез Хан)                             |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Serbie
 

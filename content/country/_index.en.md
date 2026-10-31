@@ -1,5 +1,7 @@
 ---
 title: Overview of countries
+build:
+  publishResources: false
 description: A clear overview of all countries where FIP benefits are available.
   Find out in which countries FIP 50 tickets and FIP coupons can be used.
 params:

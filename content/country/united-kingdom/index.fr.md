@@ -17,6 +17,13 @@ params:
     - London Trams (anciennement Croydon Tramlink)
     - Transport for Greater Manchester
     - Tyne and Wear Metro
+    - Wightlink ferry (Portsmouth Harbour à Ryde Pier Head station sur l’île de Wight)
+  border_points:
+    - nl-gb-stl
+    - gb-eurostar
+    - ie-gb-rail
+    - ie-gb-sll
+    - gb-gb-sll
     - Wightlink ferry (Portsmouth Harbour à Ryde Pier Head station sur l’île de
       Wight)
 content_images:
@@ -49,17 +56,7 @@ De plus, de nombreuses attractions de loisirs et touristiques proposent des offr
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                                                                                       | Points frontières                |
-| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| [Pays-Bas](/country/netherlands) ([Stena Line BV](/operator/stl))                                                          | Harwich P.Q.                     |
-| [France](/country/france), [Belgique](/country/belgium), [Pays-Bas](/country/netherlands) ([Eurostar](/operator/eurostar)) | London St. Pancras International |
-| [Irlande](/country/ireland) ([CIE](/operator/cie))                                                                         | Dundalk                          |
-| [Irlande](/country/ireland) ([Stena Line Limited](/operator/sll))                                                          | Holyhead, Fishguard              |
-| [Royaume-Uni](/country/united-kingdom) ([Stena Line Limited](/operator/sll))                                               | Cairnryan, Liverpool, Belfast    |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Pays-Bas
 

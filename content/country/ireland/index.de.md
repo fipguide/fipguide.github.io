@@ -4,6 +4,9 @@ country: ireland
 params:
   operators_without_fip:
     - Transdev (Luas - Straßenbahn Dublin)
+  border_points:
+    - ie-gb-rail
+    - ie-gb-sll
 content_images:
   - image.webp
 ---
@@ -24,14 +27,7 @@ Reservierungen sind nicht zwingend erforderlich, werden jedoch aufgrund der häu
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                                                                    | Grenzpunkte          |
-| --------------------------------------------------------------------------------------- | -------------------- |
-| [Vereinigtes Königreich](/country/united-kingdom) ([NIR](/operator/nir))                | Dundalk              |
-| [Vereinigtes Königreich](/country/united-kingdom) ([Stena Line Limited](/operator/sll)) | Dublin Bay, Rosslare |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Vereinigtes Königreich
 

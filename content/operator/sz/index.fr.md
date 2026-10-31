@@ -1,5 +1,6 @@
 ---
 title: SŽ
+shortName: SŽ
 country:
   - slovenia
 operator: sz

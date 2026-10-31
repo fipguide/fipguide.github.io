@@ -1,0 +1,14 @@
+{{- $prefix := .prefix -}}
+{{- $page := .page -}}
+{{- $id := .id -}}
+{{- $out := "" -}}
+{{- if $id -}}
+  {{- with site.GetPage (printf "/%s/%s" $prefix $id) -}}
+    {{- $ref := printf "/%s/%s" $prefix $id -}}
+    {{- $text := .Params.shortName | default .LinkTitle -}}
+    {{- $out = partial "link" (dict "Destination" $ref "Text" $text "Page" $page) -}}
+  {{- end -}}
+{{- else -}}
+  {{- $out = .label -}}
+{{- end -}}
+{{- return $out -}}

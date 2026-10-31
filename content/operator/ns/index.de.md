@@ -1,5 +1,6 @@
 ---
 title: NS
+shortName: NS
 country:
   - netherlands
 operator: ns
