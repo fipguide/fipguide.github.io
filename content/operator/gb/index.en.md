@@ -460,7 +460,7 @@ Great Britain distinguishes between different ticket categories. FIP 50 / FIP 75
 
   [BR Fares](https://www.brfares.com/!roverhome) offers a page where you can enter the Rover name and select "FIP Discount 50%" or "FIP Discount 75%" as discount option. If it shows a result, the Rover is valid with FIP, otherwise it isn't.
 
-  {{% expander "List of Available Rovers with FIP Discount" info %}}
+{{% expander "List of Available Rovers with FIP Discount" info %}}
 
 This is an unofficial list of available Rovers provided by the community (as of 24 January 2026). [^3]
 
