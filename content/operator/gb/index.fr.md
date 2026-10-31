@@ -540,8 +540,8 @@ Via l’application _[Seatfrog](https://seatfrog.com/)_, il est possible d’ach
 {{% booking id="national-rail-ticket-office" /%}}
 
 {{% booking id="sbb-ticket-office"
-    reservations=nil
     subtitle="Réservation de Billets FIP 50 réservée aux agents de la CFF et de la SNCF"
+    reservations=nil
 /%}}
 
 ### À bord du train

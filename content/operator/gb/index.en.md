@@ -536,8 +536,8 @@ Through the _[Seatfrog](https://seatfrog.com/)_ app, upgrades to First Class can
 {{% booking id="national-rail-ticket-office" /%}}
 
 {{% booking id="sbb-ticket-office"
-    reservations=nil
     subtitle="Booking of FIP 50 Tickets only possible for SBB and SNCF employees"
+    reservations=nil
 /%}}
 
 ### On the Train
