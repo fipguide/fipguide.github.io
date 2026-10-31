@@ -93,10 +93,10 @@ Weitere grenzüberschreitende Regionalzugverbindungen können nur auf polnischer
 
 Von Deutschland aus kann über mehrere Wege das polnische Netz erreicht werden. Der meistgenutzte Grenzübergang ist in Frankfurt (Oder). Über diesen verkehren Eurocity-Züge zwischen Berlin und Warschau tagsüber alle 2 Stunden. Darüber hinaus sind hier auch Einzelleistungen zwischen Berlin und Gdingen (Gdynia) / Krakau / Przemysl im Fahrplan zu finden.
 
-Neben den Fernzügen kommen noch vereinzelte Regionalzüge zwischen Frankfurt (Oder) und Rzepin / Zielona Góra dazu, die wie die `EC` Züge mit PKP FIP-Tickets plus Ticket für den DB-Abschnitt genutzt werden können.
+Neben den Fernzügen kommen noch vereinzelte Regionalzüge zwischen Frankfurt (Oder) und Rzepin / Zielona Góra dazu, die wie die `EC` Züge mit [PKP](/operator/pkp)-FIP-Tickets plus Ticket für den [DB](/operator/db)-Abschnitt genutzt werden können.
 
-Ausschließlich im Fernverkehr wird seit Dezember 2025 auch der Grenzübergang Horka für Direktzüge zwischen Leipzig und Breslau, Krakau bis nach Przemysl genutzt. Diese `EC` Züge können ebenfalls mit PKP FIP-Tickets plus Ticket für den DB-Abschnitt befahren werden.
+Ausschließlich im Fernverkehr wird seit Dezember 2025 auch der Grenzübergang Horka für Direktzüge zwischen Leipzig und Breslau, Krakau bis nach Przemysl genutzt. Diese `EC` Züge können ebenfalls mit [PKP](/operator/pkp)-FIP-Tickets plus Ticket für den [DB](/operator/db)-Abschnitt befahren werden.
 
-Die anderen Grenzübergänge werden aktuell nur im Regionalverkehr befahren. Für Züge über Forst, Grambow, Guben und Tantow gilt die gleiche Regel wie bei den oben genannten Grenzübergängen, also FIP-Tickets der PKP plus Ticket für den DB-Abschnitt müssen vorhanden sein. Bei Kostrzyn ist der Betreiber auf deutscher Seite die Niederbarnimer Eisenbahn (NEB), bei der keine FIP-Tickets gelten, für den polnischen Abschnitt sollten FIP-Tickets der PKP gültig sein.
+Die anderen Grenzübergänge werden aktuell nur im Regionalverkehr befahren. Für Züge über Forst müssen entweder FIP-Tickets der [PKP](/operator/pkp) bzw. [KD](/operator/kd) (Vorher Betreiber prüfen!) und ein Ticket für den [DB](/operator/db)-Abschnitt vorhanden sein; für Züge über Grambow, Guben und Tantow sind FIP-Tickets der [PKP](/operator/pkp) plus Ticket für den [DB](/operator/db)-Abschnitt erforderlich. Bei Kostrzyn ist der Betreiber auf deutscher Seite die Niederbarnimer Eisenbahn (NEB), bei der keine FIP-Tickets gelten, für den polnischen Abschnitt sollten FIP-Tickets der [PKP](/operator/pkp) gültig sein.
 
 Eine Besonderheit ist der Grenzübergang Zgorzelec, hier wird für den Abschnitt zwischen dem deutschen Görlitz und dem Bahnhof Zgorzelec kein Ticket benötigt.
