@@ -1,5 +1,5 @@
 ---
-title: Verfallen meine Freifahrtscheine, wenn ich zurück im Bahnnetz des Ausgabebahn bin?
+title: Verfallen meine Freifahrtscheine, wenn ich zurück im Bahnnetz der Ausgabebahn bin?
 ---
 
 Grundsätzlich gilt folgende Regel:
