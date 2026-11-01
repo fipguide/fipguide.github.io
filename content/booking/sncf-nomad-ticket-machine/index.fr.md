@@ -9,23 +9,22 @@ params:
   additional_info_link: "https://www.ter.sncf.com/normandie/se-deplacer/automates-nomad"
 ---
 
+{{% float-image
+    src="nomad-ticket-machine.jpg"
+    alt="Distributeurs de billets SNCF Nomad"
+    width="40%"
+    position="right"
+%}}
+
 Les bornes de billetterie de la région Normandie, appelées bornes SNCF Nomad, permettent d'acheter des billets FIP 50 et FIP ​​75, ainsi que d'effectuer des réservations. Il est également possible de réaliser un surclassement de la seconde vers la première classe.
+
+{{% /float-image %}}
 
 {{% booking-section "fip_50" %}}
 
 ## Billets FIP 50 / FIP 75
 
-{{< float-image
-src="nomad-ticket-machine.jpg"
-alt="Distributeurs de billets SNCF Nomad"
-width="40%"
-position="right"
-
-> }}
-
 Il est possible d'acheter des billets FIP 50 et FIP ​​75 aux bornes SNCF Nomad. Lors de l'achat, les options FIP 50 ou FIP 75 (en première ou seconde classe) peuvent être sélectionnées en tant que type de réduction.[^1]
-
-{{< /float-image >}}
 
 {{% /booking-section %}}
 
