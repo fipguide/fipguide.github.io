@@ -211,7 +211,7 @@ Internationale Schnellzüge der höchsten Kategorie auf der Strecke zwischen Fra
 Die Züge werden von der SBB in Kooperation mit der DB und Trenitalia betrieben.
 
 {{< highlight important >}}
-Bis zur italienischen Grenze sind die Züge aufschlags- und reservierungspflichtig. Günstiger ist die Fahrt Richtung Schweiz mit Umstieg in Chiasso ([siehe Anreise Schweiz](/country/switzerland#italien "Anreise Schweiz")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
+Innerhalb Italiens sind die Züge aufschlags- und reservierungspflichtig. Günstiger ist die Fahrt Richtung Schweiz mit Umstieg in Chiasso ([siehe Anreise Schweiz](/country/switzerland#italien "Anreise Schweiz")). Der Zuschlag kann am DB oder SBB Ticketschalter oder im Zug erworben werden.
 
 **Aufschlag/Reservierung:**
 

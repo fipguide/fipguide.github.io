@@ -211,7 +211,7 @@ International high-speed trains of the highest category on the route between Fra
 The trains are operated by SBB in cooperation with DB and Trenitalia.
 
 {{< highlight important >}}
-Up to the Italian border, these trains require a surcharge and reservation. It is cheaper to travel towards Switzerland with a change in Chiasso ([see Arrival in Switzerland](/country/switzerland#italy "Arrival in Switzerland")). The surcharge can be purchased at a DB or SBB ticket office or on the train.
+Within Italy, these trains require a surcharge and reservation. It is cheaper to travel towards Switzerland with a change in Chiasso ([see Arrival in Switzerland](/country/switzerland#italy "Arrival in Switzerland")). The surcharge can be purchased at a DB or SBB ticket office or on the train.
 
 **Surcharge/Reservation:**
 
