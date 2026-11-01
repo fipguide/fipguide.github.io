@@ -1,5 +1,6 @@
 ---
 title: CFL
+shortName: CFL
 country:
   - luxembourg
 operator: cfl
@@ -130,6 +131,12 @@ Due to the booking fee, it may be worthwhile to purchase a regular first class t
 ### On-Site
 
 {{% booking id="cfl-ticket-office" /%}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="CHF 6"
+    classes.second="CHF 6"
+    subtitle="Booking of FIP 50 Tickets only possible for SBB and SNCF employees"
+/%}}
 
 ### On the Train
 

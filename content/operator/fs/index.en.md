@@ -1,5 +1,6 @@
 ---
 title: Trenitalia
+shortName: FS
 country:
   - italy
 operator: trenitalia
@@ -364,6 +365,11 @@ InterCity Notte (ICN): € 25 (1st/2nd class, seat car)
 {{% /highlight %}}
 {{% /booking %}}
 
+{{% booking id="sbb-ticket-office"
+    subtitle="Only for SBB employees and not available for all connections"
+    classes=nil
+/%}}
+
 ### On the Train
 
 If supplements are not purchased before travel, an additional on-board surcharge is applied (except where no sales points or ticket machines are available at the departure station).
@@ -433,44 +439,40 @@ Regional trains are classified as train-bound (_prenotabile_) and not train-boun
 **Train-bound:** \
 Tickets for train-bound trains are valid only for the train indicated on the ticket. Train-bound trains are identified by:
 
-{{% float-image
+{{< float-image
     src="prenotabile_2.webp"
     alt="FS Prenotabile Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 The note "prenotabile" in the train information:
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="prenotabile_1.webp"
     alt="FS Prenotabile Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 Ticket label "Prenotazione - Ordinaria":
-{{% /float-image %}}
+{{< /float-image >}}
 
 **Not train-bound:** \
 Tickets for not train-bound trains are valid on the booked train and all other not train-bound trains on the route, but not on train-bound trains.
 
-{{% float-image
+{{< float-image
     src="ordinaria_2.webp"
     alt="FS Ordinaria Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 The note "non prenotabile" in the train information:
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="ordinaria_1.webp"
     alt="FS Ordinaria Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 Ticket label "Ordinaria":
-{{% /float-image %}}
+{{< /float-image >}}
 
 {{% /expander %}}
 

@@ -4,14 +4,21 @@ country: france
 params:
   operators_without_fip:
     - CFC (Chemins de fer de la Corse / Chemins de fer corses)
-    - ’[Frecciarossa
-      (Trenitalia)](/operator/fs/#trains-frecciarossa-internationaux-vers-paris
+    - ’[Frecciarossa (Trenitalia)](/operator/fs/#trains-frecciarossa-internationaux-vers-paris
       "Frecciarossa (Trenitalia)")’
     - Getlink (Eurotunnel LeShuttle)
     - GoVolta
     - ’[OUIGO](/operator/sncf#Fernverkehr "OUIGO")’
     - RATP
     - Transdev
+  border_points:
+    - fr-eurostar
+    - be-fr
+    - lu-fr
+    - de-fr
+    - fr-ch
+    - fr-it
+    - es-fr
 content_images:
   - image.webp
 ---
@@ -36,19 +43,7 @@ Un point fort particulier est la ligne régionale le long de la Côte d’Azur d
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                                             | Points frontières                                                                                                                            |
-| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Eurostar](/operator/eurostar)                                                   | Paris, Lille                                                                                                                                 |
-| [Belgique](/country/belgium) ([SNCB](/operator/sncb))                            | Blandain (fr), Givet (fr), Jeumont (fr), Quévy (fr), Tourcoing (fr)                                                                          |
-| [Luxembourg](/country/luxembourg) ([CFL](/operator/cfl))                         | Bettembourg (fr), Rodange (fr)                                                                                                               |
-| [Allemagne](/country/germany) ([DB](/operator/db))                               | Apach (fr), Forbach (fr), Hanweiler (Gr), Kehl (Gr), Lauterbourg (fr), Neuenburg(Bd)(Gr), Wissembourg (fr)                                   |
-| [Suisse](/country/switzerland) ([CFF](/operator/sbb), BLS et [SP](/operator/sp)) | Annemasse, Bâle SBB, Delle (fr), Genève [via Bellegarde], Le Châtelard-Frontière (fr), Le Locle-Col des Roches, Les Verrières (fr), Vallorbe |
-| [Italie](/country/italy) ([FS](/operator/fs))                                    | Limone-Confine, Modane (fr), Piene (fr), Ventimiglia (fr)                                                                                    |
-| [Espagne](/country/spain) ([Renfe](/operator/renfe))                             | Canfranc (fr), Hendaye (fr), Port-Bou, La Tour-de-Carol-Enveitg                                                                              |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Royaume-Uni
 

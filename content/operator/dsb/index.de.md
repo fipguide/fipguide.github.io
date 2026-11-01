@@ -1,5 +1,6 @@
 ---
 title: DSB
+shortName: DSB
 country:
   - denmark
 operator: dsb
@@ -165,6 +166,10 @@ Die S-Bahn Kopenhagen wird ebenfalls von der DSB betrieben und kann daher auch m
 {{% booking id="dsb-ticket-office" /%}}
 
 {{% booking id="db-ticket-office" /%}}
+
+{{% booking id="sbb-ticket-office"
+    reservations=nil
+/%}}
 
 ## Ermäßigungen
 

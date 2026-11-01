@@ -1,5 +1,6 @@
 ---
 title: Schweizer Privatbahnen
+shortName: SP
 description: Informations sur les conditions FIP des chemins de fer privés suisses.
 country:
   - switzerland

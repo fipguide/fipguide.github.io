@@ -5,6 +5,11 @@ params:
   operators_without_fip:
     - European Sleeper
     - OUIGO
+  border_points:
+    - be-nl
+    - be-de
+    - be-lu
+    - be-fr
 content_images:
   - image.webp
 ---
@@ -31,16 +36,7 @@ Besonders erwähnenswert sind die beeindruckenden Bahnhofsgebäude von Liège-Gu
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                                     | Grenzpunkte                                                         |
-| -------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Niederlande](/country/netherlands) ([NS](/operator/ns)) | Roosendaal (fr), Visé (fr)                                          |
-| [Deutschland](/country/germany) ([DB](/operator/db))     | Aachen Süd (Gr)                                                     |
-| [Luxemburg](/country/luxembourg) ([CFL](/operator/cfl))  | Athus, Gouvy (fr), Sterpenich (fr)                                  |
-| [Frankreich](/country/france) ([SNCF](/operator/sncf))   | Blandain (fr), Givet (fr), Jeumont (fr), Quèvy (fr), Tourcoing (fr) |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Niederlande
 

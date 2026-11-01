@@ -1,5 +1,6 @@
 ---
 title: DSB
+shortName: DSB
 country:
   - denmark
 operator: dsb
@@ -165,6 +166,10 @@ The Copenhagen S-train is also operated by DSB and can therefore be used with FI
 {{% booking id="dsb-ticket-office" /%}}
 
 {{% booking id="db-ticket-office" /%}}
+
+{{% booking id="sbb-ticket-office"
+    reservations=nil
+/%}}
 
 ## Discounts
 

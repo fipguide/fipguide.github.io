@@ -58,33 +58,30 @@ Für internationale Fahrten mit FIP Freifahrtscheinen müssen Freifahrtscheine f
 
 ### Rabattoptionen auswählen
 
-{{% float-image
+{{< float-image
   src="mav-website-birthday.webp"
   alt="MÁV Geburtsdatum"
   width="50%"
-  position="right"
-%}}
+  position="right" >}}
 Um eine Rabattoption hinzuzufügen, muss auf der Startseite der Verbindungssuche unter _Passengers and Discounts_ die Übersicht der Reisenden geöffnet werden. Erst nachdem das Geburtsdatum eingegeben wurde, kann mit _Add Discounts_ die Ermäßigung hinzugefügt werden.
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
   src="mav-website-discounts.webp"
   alt="MÁV Ermäßigungen"
   width="50%"
-  position="right"
-%}}
+  position="right" >}}
 Hier kann nun die Rabattoption ausgewählt werden und mit OK bestätigt werden.
-{{% /float-image %}}
+{{< /float-image >}}
 
 ### Reservierungen buchen
 
-{{% float-image
+{{< float-image
   src="only-seat-reservation.webp"
   width="50%"
-  position="right"
-%}}
+  position="right" >}}
 Die Option „I only need seat reservation" ist in den Verbindungsinformationen zu finden. Bei FIP 50 Tickets wird die Reservierung bei reservierungspflichtigen Zügen automatisch ergänzt und mit berechnet.
-{{% /float-image %}}
+{{< /float-image >}}
 
 {{< highlight "important" >}}
 

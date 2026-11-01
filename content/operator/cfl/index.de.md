@@ -1,5 +1,6 @@
 ---
 title: CFL
+shortName: CFL
 country:
   - luxembourg
 operator: cfl
@@ -130,6 +131,12 @@ Aufgrund der anfallenden Buchungsgebühr lohnt sich ggf. der Kauf einer regulär
 ### Vor Ort
 
 {{% booking id="cfl-ticket-office" /%}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="6 CHF"
+    classes.second="6 CHF"
+    subtitle="Buchung von FIP 50 Tickets nur für Mitarbeitende der SBB und SNCF möglich"
+/%}}
 
 ### Im Zug
 

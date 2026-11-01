@@ -1,5 +1,6 @@
 ---
 title: PKP
+shortName: PKP
 country:
   - poland
 operator: pkp
@@ -266,6 +267,11 @@ Alternativement, vous pouvez aussi réserver directement via le [site web de Pol
 
 {{% booking id="db-ticket-office"
     subtitle="Sauf EIP"
+/%}}
+
+{{% booking id="sbb-ticket-office"
+    classes=nil
+    subtitle="Réservation possible uniquement de manière limitée sur certaines liaisons"
 /%}}
 
 ### À bord du train

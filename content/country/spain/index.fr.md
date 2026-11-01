@@ -6,6 +6,9 @@ params:
     - Iryo
     - OUIGO
     - ’[Avlo](/operator/renfe#longue-distance "Avlo")’
+  border_points:
+    - pt-es
+    - es-fr
 content_images:
   - image.webp
 ---
@@ -30,14 +33,7 @@ Pour les voyages longue distance, des contrôles de bagages sont effectués à l
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                               | Points frontières                                                                                           |
-| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| [Portugal](/country/portugal) ([CP](/operator/cp)) | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Oñoro (fr), Valença (fr), Valencia de Alcántara (fr) |
-| [France](/country/france) ([SNCF](/operator/sncf)) | Canfranc (fr), Hendaye (fr), Port-Bou (fr), La Tour-de-Carol-Enveitg                                        |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### France
 

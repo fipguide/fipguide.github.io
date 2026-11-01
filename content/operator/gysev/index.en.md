@@ -1,5 +1,6 @@
 ---
 title: GySEV / Raaberbahn
+shortName: GySEV
 country:
   - austria
   - hungary

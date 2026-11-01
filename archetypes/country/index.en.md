@@ -4,6 +4,10 @@ country: "{{ .File.ContentBaseName }}"
 params:
   operators_without_fip:
     -  # List operators without FIP here
+  border_points:
+    -  # List border IDs in clockwise order, starting in the north of the country, as defined in `content/country/borderpoints.en.yaml`
+  border_points_footnotes:
+    -  # Optional footnotes shown below the border point table
 content_images:
   - "image.webp"
 ---
@@ -40,15 +44,10 @@ content_images:
 ## Arrival and Border Points
 
 <!--
-Only border points at the national border with other countries. These should be listed as country (railway operator) and their border points. The list is arranged in a clockwise direction, starting in the north of the country.
+Only border points at the national border with other countries. They are maintained in `content/country/borderpoints.en.yaml` (per-border details) and `params.border_points` in this page's frontmatter (row order, clockwise starting in the north of the country), and rendered here automatically as a table.
 -->
 
-{{% expander "Border Points" border %}}
-
-| Country | Border Points |
-| ------- | ------------- |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### <Country Name>
 

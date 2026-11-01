@@ -6,6 +6,9 @@ params:
     - Iryo
     - '[OUIGO](/operator/sncf#Fernverkehr "OUIGO")'
     - '[Avlo](/operator/renfe#langstrecke "Avlo")'
+  border_points:
+    - pt-es
+    - es-fr
 content_images:
   - image.webp
 ---
@@ -30,14 +33,7 @@ Zudem finden bei Fernverkehrsreisen Gepäckkontrollen an den Bahnhöfen statt, d
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                                   | Grenzpunkte                                                                                                 |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| [Portugal](/country/portugal) ([CP](/operator/cp))     | Ayamonte, Badajoz (fr), Barca de Alva (fr), Fuentes de Onoro (fr), Valença (fr), Valencia de Alcántara (fr) |
-| [Frankreich](/country/france) ([SNCF](/operator/sncf)) | Canfranc (fr), Hendaye (fr), Port-Bou (fr), La Tour-de-Carol-Enveitg                                        |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Frankreich
 
