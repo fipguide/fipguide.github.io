@@ -1,5 +1,6 @@
 ---
 title: SV
+shortName: SV
 country:
   - serbia
 operator: sv

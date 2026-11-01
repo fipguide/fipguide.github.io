@@ -7,6 +7,8 @@ params:
     - Flåm Railway
     - Flytoget Airport Express
     - SJ Sverige
+  border_points:
+    - no-se
 content_images:
   - image.webp
 ---
@@ -33,13 +35,7 @@ The state-owned company _Entur_ plays a central role in public transport in Norw
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country     | Border Points                                                                       |
-| ----------- | ----------------------------------------------------------------------------------- |
-| Sweden (SJ) | Bjørnfjell (Gr), Halden (Kornsjø (Gr)), Kongsvinger (Charlottenberg (Gr)), Storlien |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Sweden
 

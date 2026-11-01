@@ -4,6 +4,11 @@ country: latvia
 params:
   operators_without_fip:
     - Latvijas dzelzceļš (LDz)
+  border_points:
+    - lv-ee
+    - lv-ru
+    - lv-by
+    - lv-lt
 content_images:
   - image.webp
 ---
@@ -22,16 +27,7 @@ Le réseau ferroviaire letton utilise l’écartement large de 1520 mm. Le tra
 
 ## Arrivée et points frontières
 
-{{% expander "Point frontière" border %}}
-
-| Pays                                                       | Points frontières |
-| ---------------------------------------------------------- | ----------------- |
-| Estonie                                                    | Valga             |
-| Russie                                                     | Frontière fermée  |
-| Biélorussie                                                | Frontière fermée  |
-| [Lituanie](/country/lithuania) ([LTG-Link](/operator/ltg)) | Joniškis          |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Estonie
 

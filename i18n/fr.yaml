@@ -16,6 +16,10 @@ booking:
   send-mail: Envoyer un e-mail
   visit-additional-information-website: Informations complémentaires
   visit-booking-website: Aller sur le site de réservation
+borderPoints:
+  country: Pays
+  points: Points frontières
+  title: Points frontières
 childrenDiscount: >-
   La Remise FIP s’applique en principe aux tarifs adultes et non aux tarifs
   enfants. Pour cette raison, il convient de vérifier si les tarifs publics sont

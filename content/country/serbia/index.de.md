@@ -4,6 +4,14 @@ country: serbia
 params:
   operators_without_fip:
     - Optima Express
+  border_points:
+    - hu-rs
+    - ro-rs
+    - bg-rs
+    - rs-mk
+    - me-rs
+    - ba-rs
+    - rs-hr
 content_images:
   - image.webp
 ---
@@ -26,19 +34,7 @@ Die Züge in Serbien sind abseits der Hauptstrecken meist eher älter und wenige
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                                                                                       | Grenzpunkte                                              |
-| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| [Ungarn](/country/hungary) ([MÁV](/operator/mav))                                                          | Röszke (Gr), Subotica (Gr)                               |
-| [Rumänien](/country/romania) ([CFR](/operator/cfr))                                                        | Jimbolia (fr), Vršac (fr)                                |
-| [Bulgarien](/country/bulgaria) ([BDZ](/operator/bdz))                                                      | Dimitrovgrad (fr)                                        |
-| [Nordmazedonien](/country/north-macedonia) ([ŽRSM](/operator/zrsm))                                        | Tabanovci (fr) (Serbisch: Табановце; Albanisch: Tabanoc) |
-| [Montenegro](/country/montenegro) ([ŽPCG](/operator/zpcg))                                                 | Bijelo Polje (Gr)                                        |
-| [Bosnien und Herzegowina](/country/bosnia-and-herzegovina) ([ŽFBH](/operator/zfbh) / [ŽRS](/operator/zrs)) | Zvornik                                                  |
-| Kroatien (HŽ)                                                                                              | Erdut (Gr) (Serbisch: Ердут), Šid (Gr) (Serbisch: Шид)   |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Ungarn
 

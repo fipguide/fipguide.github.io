@@ -5,6 +5,14 @@ params:
   operators_without_fip:
     - STASY (Urban Rail Transport S.A.)
     - THEMA S.A. – Thessaloniki Metro
+  border_points:
+    - gr-mk
+    - bg-gr
+    - gr-tr
+    - gr-it
+  border_points_footnotes:
+    - "[>] = In Richtung (z. B. Patras [> Ancona] = Patras ist der Grenzpunkt in Richtung
+      Ancona)"
 content_images:
   - image.webp
 ---
@@ -29,18 +37,7 @@ Die Qualität der Züge variiert: Während moderne elektrische Triebzüge auf de
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                                                | Grenzpunkte                             |
-| ------------------------------------------------------------------- | --------------------------------------- |
-| [Nordmazedonien](/country/north-macedonia) ([ŽRSM](/operator/zrsm)) | Gevgelija (fr) (Mazedonisch: Гевгелија) |
-| [Bulgarien](/country/bulgaria) ([BDŽ](/operator/bdz))               | Kulata (fr), Svilengrad (fr)            |
-| Türkei (TCDD)                                                       | Pythio (Πύθιο)                          |
-| [Italien](/country/italy) ([Attica](/operator/attica))              | Patras (Πάτρα) [>Ancona, >Bari]         |
-
-[>] = In Richtung (z. B. Patras [> Ancona] = Patras ist der Grenzpunkt in Richtung Ancona)
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Nordmazedonien
 

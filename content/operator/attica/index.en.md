@@ -1,5 +1,6 @@
 ---
 title: Attica
+shortName: Attica
 country:
   - greece
   - italy

@@ -1,6 +1,10 @@
 ---
-title: "Bosnie-Herzégovine"
-country: "bosnia-and-herzegovina"
+title: Bosnie-Herzégovine
+country: bosnia-and-herzegovina
+params:
+  border_points:
+    - ba-hr
+    - ba-rs
 content_images:
   - image.webp
 ---
@@ -25,13 +29,7 @@ La ligne Sarajevo–Mostar relie non seulement les deux villes les plus touristi
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-| Pays | Points frontières |
-| --- | --- |
-| Croatie (HŽ) | Brčko (Gr), Martin Brod (Gr), Metković (Gr), Slavonski Šamac (Gr), Volinja (Gr) |
-| [Serbie](/country/serbia) ([SV](/operator/sv)) | Zvornik |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Croatie
 

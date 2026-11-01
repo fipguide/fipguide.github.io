@@ -1,0 +1,7 @@
+{{- $data := dict -}}
+{{- with site.GetPage "/country" -}}
+  {{- with .Resources.Get (printf "borderpoints.%s.yaml" site.Language.Lang) -}}
+    {{- $data = . | transform.Unmarshal -}}
+  {{- end -}}
+{{- end -}}
+{{- return $data -}}

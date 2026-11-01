@@ -9,6 +9,14 @@ params:
     - Szybka Kolej Miejska w Warszawie
     - Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL)
     - Warszawska Kolej Dojazdowa (WKD)
+  border_points:
+    - pl-ru
+    - lt-pl
+    - pl-by
+    - pl-ua
+    - pl-sk
+    - cz-pl
+    - de-pl
 content_images:
   - image.webp
 ---
@@ -39,19 +47,7 @@ The condition, density and frequency of railway lines are often very dependent o
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                                      | Border Points                                                                                                     |
-| ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| Russia (RZD)                                                 | Braniewo (Gr)                                                                                                     |
-| [Lithuania](/country/lithuania) ([LTG-Link](/operator/ltg))  | Mockava (Gr)                                                                                                      |
-| Belarus (BC)                                                 | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Podlaskie Voivodeship)                                  |
-| Ukraine (UZ)                                                 | Jagodin (Gr) (Yahodyn, Yagodyn or Ягодин), Medyka (Gr)                                                            |
-| [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Lupkow (Gr)                                                                                                       |
-| [Czechia](/country/czechia) ([ČD](/operator/cd))             | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr)     |
-| [Germany](/country/germany) ([DB AG](/operator/db))          | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Russia
 

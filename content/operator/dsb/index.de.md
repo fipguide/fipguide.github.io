@@ -1,5 +1,6 @@
 ---
 title: DSB
+shortName: DSB
 country:
   - denmark
 operator: dsb

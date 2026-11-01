@@ -1,5 +1,6 @@
 ---
 title: MÁV-START
+shortName: MÁV
 country:
   - hungary
 operator: mav

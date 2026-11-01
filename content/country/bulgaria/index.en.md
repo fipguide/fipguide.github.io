@@ -4,6 +4,11 @@ country: bulgaria
 params:
   operators_without_fip:
     - Optima Express
+  border_points:
+    - bg-ro
+    - bg-tr
+    - bg-gr
+    - bg-rs
 content_images:
   - image.webp
 ---
@@ -24,16 +29,7 @@ The route highlights include, on the one hand, the north–south lines running t
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                                    | Border Points                                                            |
-| ---------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [Romania](/country/romania) ([CFR](/operator/cfr))         | Ruse (fr) (Bulgarian: Русе), Vidin (fr)                                  |
-| Turkey (TCDD)                                              | Kapikule (fr)                                                            |
-| [Greece](/country/greece) ([Hellenic Train](/operator/ht)) | Kulata (fr) (Bulgarian: Кулата), Svilengrad (fr) (Bulgarian: Свиленград) |
-| [Serbia](/country/serbia) ([SV](/operator/sv))             | Dimitrovgrad (fr) (Bulgarian: Цариброд, Tsaribrod)                       |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Romania
 

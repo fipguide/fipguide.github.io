@@ -16,6 +16,10 @@ booking:
   send-mail: Send email
   visit-additional-information-website: Additional Information
   visit-booking-website: To Booking Website
+borderPoints:
+  country: Country
+  points: Border Points
+  title: Border Points
 childrenDiscount: >-
   The FIP Discount generally applies to adult fares and not to children's fares.
   For this reason, it should be checked whether public fares are cheaper. The
