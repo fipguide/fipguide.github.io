@@ -15,7 +15,17 @@ Die Ticketautomaten in der Region Normandie, die als SNCF Nomad Automaten bekann
 
 ## FIP 50 / FIP 75 Fahrkarten
 
+{{< float-image
+src="nomad-ticket-machine.jpg"
+alt="SNCF Nomad Fahrkartenautomat"
+width="40%"
+position="right"
+
+> }}
+
 Es ist möglich, FIP 50 und FIP 75 Tickets an den SNCF Nomad Automaten zu erwerben. Im Rahmen der Buchung können FIP 50 bzw. FIP 75 der ersten bzw. zweiten Klasse als Rabattkate ausgewählt werden.[^1]
+
+{{< /float-image >}}
 
 {{% /booking-section %}}
 

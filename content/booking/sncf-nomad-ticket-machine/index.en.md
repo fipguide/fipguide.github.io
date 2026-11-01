@@ -15,7 +15,17 @@ The ticket machines in the Normandy region, known as SNCF Nomad machines, allow 
 
 ## FIP 50 / FIP 75 Tickets
 
+{{< float-image
+src="nomad-ticket-machine.jpg"
+alt="SNCF Nomad Ticket Machine"
+width="40%"
+position="right"
+
+> }}
+
 It is possible to purchase FIP 50 and FIP 75 tickets at SNCF Nomad ticket machines. During the booking process, you can select the FIP 50 or FIP 75 discount category for either first or second class.[^1]
+
+{{< /float-image >}}
 
 {{% /booking-section %}}
 
