@@ -246,7 +246,7 @@ Auf folgenden Abschnitten gelten keine FIP Freifahrtscheine, jedoch FIP 50 Ticke
 
 Auf folgenden Routen werden keine FIP Vergünstigungen gewährt:
 
-- Eiger Express Seilbahn von Grindelwald nach Eigergletscher (Zug) [^5]
+- Eiger Express Seilbahn von Grindelwald nach Eigergletscher [^5]
 - Heimwehfluhbahn Standseilbahn von Interlaken nach Heimwehfluh
 - Luftseilbahn Wengen – Männlichen
 - Gondelbahn Grindelwald – Männlichen (GGM)
