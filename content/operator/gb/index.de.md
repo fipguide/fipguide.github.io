@@ -460,7 +460,7 @@ In Großbritannien wird in verschiedene Ticketkategorien unterschieden. Nicht au
 
   [BR Fares](https://www.brfares.com/!roverhome) bietet eine Seite an, auf der man den Rover-Namen eingeben und "FIP Discount 50%" oder "FIP Discount 75%" als Ermäßigungsoption auswählen kann. Wenn ein Ergebnis angezeigt wird, ist der Rover mit FIP gültig, andernfalls nicht.
 
-  {{% expander "Liste der verfügbaren Rovers mit FIP Rabatt" info %}}
+{{% expander "Liste der verfügbaren Rovers mit FIP Rabatt" info %}}
 
 Dies ist eine inoffizielle Liste verfügbarer Rovers aus der Community (Stand 24. Januar 2026). [^3]
 
@@ -537,8 +537,8 @@ Auf einigen Routen verkehren Züge von unterschiedlichen Betreibern. Auf diesen 
 {{% booking id="national-rail-ticket-office" /%}}
 
 {{% booking id="sbb-ticket-office"
-    reservations=nil
     subtitle="Buchung von FIP 50 Tickets nur für Mitarbeitende der SBB und SNCF möglich"
+    reservations=nil
 /%}}
 
 ### Im Zug
