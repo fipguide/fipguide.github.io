@@ -1,6 +1,5 @@
 ---
 title: Slowakei
-country: slovakia
 params:
   operators_without_fip:
     - RegioJet

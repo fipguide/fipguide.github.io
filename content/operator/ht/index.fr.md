@@ -3,7 +3,6 @@ title: Hellenic Train
 shortName: HT
 country:
   - greece
-operator: ht
 content_images:
   - image.webp
 aliases:

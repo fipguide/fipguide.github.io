@@ -3,7 +3,6 @@ title: DB
 shortName: DB
 country:
   - germany
-operator: db
 content_images:
   - image.webp
 aliases:

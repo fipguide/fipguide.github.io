@@ -9,7 +9,6 @@ country:
   - spain
   - belgium
   - luxembourg
-operator: sncf
 content_images:
   - image.webp
 aliases:

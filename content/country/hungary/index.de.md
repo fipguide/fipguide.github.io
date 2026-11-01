@@ -1,6 +1,5 @@
 ---
 title: Ungarn
-country: hungary
 params:
   operators_without_fip:
     - RegioJet

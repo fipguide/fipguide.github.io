@@ -1,6 +1,5 @@
 ---
 title: Bosnie-Herzégovine
-country: bosnia-and-herzegovina
 params:
   border_points:
     - ba-hr

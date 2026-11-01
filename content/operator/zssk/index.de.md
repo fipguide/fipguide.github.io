@@ -3,7 +3,6 @@ title: ZSSK / ŽSR
 shortName: ZSSK
 country:
   - slovakia
-operator: zssk
 content_images:
   - image.webp
 aliases:

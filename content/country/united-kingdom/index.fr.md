@@ -1,6 +1,5 @@
 ---
 title: Royaume-Uni
-country: united-kingdom
 params:
   operators_without_fip:
     - Blackpool Tramway

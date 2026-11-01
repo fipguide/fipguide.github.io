@@ -1,6 +1,5 @@
 ---
 title: Dänemark
-country: denmark
 params:
   operators_without_fip:
     - Lokaltog
