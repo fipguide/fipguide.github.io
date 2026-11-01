@@ -1,8 +1,8 @@
 ---
 title: "ŽRS"
+shortName: ŽRS
 country:
   - "bosnia-and-herzegovina"
-operator: "žrs"
 content_images:
   - image.webp
 ---

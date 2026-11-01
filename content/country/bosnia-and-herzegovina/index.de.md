@@ -1,6 +1,9 @@
 ---
-title: "Bosnien und Herzegowina"
-country: "bosnia-and-herzegovina"
+title: Bosnien und Herzegowina
+params:
+  border_points:
+    - ba-hr
+    - ba-rs
 content_images:
   - image.webp
 ---
@@ -25,13 +28,7 @@ Die Strecke zwischen Sarajevo und Mostar verbindet nicht nur die zwei touristisc
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-| Land | Grenzpunkte |
-| --- | --- |
-| Kroatien (HŽ) | Brčko (Gr), Martin Brod (Gr), Metković (Gr), Slavonski Šamac (Gr), Volinja (Gr) |
-| [Serbien](/country/serbia) ([SV](/operator/sv)) | Zvornik |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Kroatien
 

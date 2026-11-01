@@ -2,7 +2,6 @@
 title: KMŁ
 country:
   - poland
-operator: kml
 content_images:
   - image.webp
 aliases:

@@ -1,6 +1,5 @@
 ---
 title: Niederlande
-country: netherlands
 params:
   operators_without_fip:
     - Arriva Nederland
@@ -11,6 +10,10 @@ params:
     - Keolis Nederland
     - Qbuzz
     - VIAS Rail
+  border_points:
+    - de-nl
+    - be-nl
+    - nl-gb-stl
 content_images:
   - image.webp
 ---
@@ -37,15 +40,7 @@ Besonders ist in den Niederlanden, dass sich an allen etwas größeren Bahnhöfe
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                                                               | Grenzpunkte                                                                                       |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| [Deutschland](/country/germany) ([DB](/operator/db))                               | Bad Bentheim (Gr), Emmerich (Gr), Gronau (Westf) (Gr), Herzogenrath (Gr), Venlo (Gr), Weener (Gr) |
-| [Belgien](/country/belgium) ([SNCB](/operator/sncb))                               | Roosendaal (fr), Visé                                                                             |
-| [Vereinigtes Königreich](/country/united-kingdom) ([Stena Line BV](/operator/stl)) | Hoek van Holland                                                                                  |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Deutschland
 

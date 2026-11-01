@@ -1,8 +1,8 @@
 ---
 title: National Rail
+shortName: National Rail
 country:
   - united-kingdom
-operator: gb
 content_images:
   - image.webp
 aliases:
@@ -459,7 +459,7 @@ Au Royaume-Uni, il existe différentes catégories de billets. La Réduction FIP
 
   [BR Fares](https://www.brfares.com/!roverhome) propose une page où vous pouvez saisir le nom du Rover et sélectionner "FIP Discount 50%" ou "FIP Discount 75%" comme option de réduction. Si un résultat s’affiche, le Rover est valable avec FIP, sinon il ne l’est pas.
 
-  {{% expander "Liste des Rovers disponibles avec réduction FIP" info %}}
+{{% expander "Liste des Rovers disponibles avec réduction FIP" info %}}
 
 Il s’agit d’une liste non officielle des Rovers disponibles fournie par la communauté (état au 24 janvier 2026). [^3]
 
@@ -537,6 +537,11 @@ Via l’application _[Seatfrog](https://seatfrog.com/)_, il est possible d’ach
 ### En gare
 
 {{% booking id="national-rail-ticket-office" /%}}
+
+{{% booking id="sbb-ticket-office"
+    subtitle="Réservation de Billets FIP 50 réservée aux agents de la CFF et de la SNCF"
+    reservations=nil
+/%}}
 
 ### À bord du train
 

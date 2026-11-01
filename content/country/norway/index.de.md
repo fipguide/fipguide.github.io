@@ -1,12 +1,13 @@
 ---
 title: Norwegen
-country: norway
 params:
   operators_without_fip:
     - Arctic Train
     - Flåmbahn
     - Flytoget Airport Express
     - SJ Sverige
+  border_points:
+    - no-se
 content_images:
   - image.webp
 ---
@@ -33,13 +34,7 @@ Das staatliche Unternehmen _Entur_ spielt eine zentrale Rolle im öffentlichen V
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land          | Grenzpunkte                                                                          |
-| ------------- | ------------------------------------------------------------------------------------ |
-| Schweden (SJ) | Bjørnfjell (Gr), Halden (Kornsjø (Gr)), Konigsvinger (Charlottenberg (Gr)), Storlien |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Schweden
 

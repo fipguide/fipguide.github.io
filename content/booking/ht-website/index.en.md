@@ -22,42 +22,39 @@ FIP 50 Tickets can be booked on the website and in the app.
 
 ## Booking process website
 
-{{% float-image
+{{< float-image
     src="step-1.webp"
     alt="Language selection"
     width="50%"
-    position="right"
-%}}
+    position="right" >}}
 **Step 1**
 
 Change the language to English or Italian if needed.
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="step-2.webp"
     alt="Connection selection"
     width="50%"
-    position="right"
-%}}
+    position="right" >}}
 **Step 2**
 
 Select a suitable connection. The regular ticket price is shown initially.
 Station names must be entered in the English spelling.
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="step-3.webp"
     alt="FIP CARD selection"
     width="50%"
-    position="right"
-%}}
+    position="right" >}}
 **Step 3**
 
 In the next step, select "FIP CARD" in the "Offer" field and enter the FIP Card number.
 The regular ticket price is then reduced by 50%.
 
 For services requiring a reservation, a reservation is added free of charge. Optionally, a seat can be selected by choosing the "Choose seat" option.
-{{% /float-image %}}
+{{< /float-image >}}
 
 {{< highlight inofficial >}}
 When purchasing a ticket via the Hellenic Train app, the following message may appear:

@@ -1,9 +1,13 @@
 ---
 title: Litauen
-country: lithuania
 params:
   operators_without_fip:
     - Aukštaitijos siaurasis geležinkelis (Museumsbahn)
+  border_points:
+    - lv-lt
+    - lt-by
+    - lt-pl
+    - lt-ru
 content_images:
   - image.webp
 ---
@@ -40,16 +44,7 @@ Auf der Strecke nach Turmantas kommen noch die alten DR1A-Triebwagen aus sowjeti
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                            | Grenzpunkte                                                               |
-| ----------------------------------------------- | ------------------------------------------------------------------------- |
-| [Lettland](/country/latvia) (LDz)               | Joniškis                                                                  |
-| Belarus/Weißrussland                            | Grenze gesperrt                                                           |
-| [Polen](/country/poland) ([PKP](/operator/pkp)) | Mockava                                                                   |
-| Russland                                        | Kein Ein-/Ausstieg im Transitverkehr Russland-Belarus-Litauen-Kaliningrad |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Lettland
 

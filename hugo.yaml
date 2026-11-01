@@ -1,5 +1,6 @@
 enableRobotsTXT: true
 enableGitInfo: true
+buildFuture: true
 ignoreLogs: ["warning-rendershortcodes-in-html"]
 
 security:
@@ -37,14 +38,6 @@ module:
       target: "static/icons/material-symbols-rounded"
   hugoVersion:
     min: "0.164.0"
-
-related:
-  includeNewer: true
-  indices:
-    - name: country
-      weight: 100
-    - name: operator
-      weight: 100
 
 markup:
   tableOfContents:

@@ -1,8 +1,8 @@
 ---
 title: PKP
+shortName: PKP
 country:
   - poland
-operator: pkp
 content_images:
   - image.webp
 aliases:
@@ -269,6 +269,11 @@ Alternativ kann auch direkt über die [Website von Polregio](https://bilety.polr
 
 {{% booking id="db-ticket-office"
     subtitle="Außer EIP"
+/%}}
+
+{{% booking id="sbb-ticket-office"
+    classes=nil
+    subtitle="Buchung nur eingeschränkt auf ausgewählten Verbindungen möglich"
 /%}}
 
 ### Im Zug

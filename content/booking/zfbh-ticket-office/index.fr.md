@@ -9,9 +9,9 @@ params:
 
 Les guichets de la ŽFBH ne se trouvent que dans les gares les plus importantes. Une liste des guichets est disponible en bas du [site de la ŽFBH](https://www.zfbh.ba/en/kontakt/).
 
-{{< highlight inofficial >}}
+{{% highlight inofficial %}}
 Dans certains guichets, les billets ne peuvent parfois être payés qu’en espèces.
-{{< /highlight >}}
+{{% /highlight %}}
 
 {{% booking-section "fip_50" %}}
 

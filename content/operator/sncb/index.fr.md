@@ -1,8 +1,8 @@
 ---
 title: SNCB / NMBS
+shortName: SNCB
 country:
   - belgium
-operator: sncb
 content_images:
   - image.webp
 aliases:
@@ -199,6 +199,12 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 /%}}
 
 {{% booking id="db-ticket-office" /%}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="6 CHF"
+    classes.second="6 CHF"
+    subtitle="Réservation de Billets FIP 50 réservée aux agents de la CFF et de la SNCF"
+/%}}
 
 ### À bord du train
 

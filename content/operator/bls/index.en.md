@@ -1,8 +1,8 @@
 ---
 title: BLS
+shortName: BLS
 country:
   - switzerland
-operator: bls
 content_images:
   - image.webp
 aliases:

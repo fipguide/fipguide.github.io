@@ -1,8 +1,8 @@
 ---
 title: DB
+shortName: DB
 country:
   - germany
-operator: db
 content_images:
   - image.webp
 aliases:
@@ -359,6 +359,11 @@ Actuellement, aucun Billet FIP 50 pour les trajets domestiques en Allemagne ne p
 %}}
 La réservation de trains directs sans correspondance est moins chère via l’ÖBB.
 {{% /booking %}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="6 CHF"
+    classes.second="6 CHF"
+/%}}
 
 ### À bord du train
 

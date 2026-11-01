@@ -16,6 +16,10 @@ booking:
   send-mail: E-Mail senden
   visit-additional-information-website: Weitere Informationen
   visit-booking-website: Zur Buchungsseite
+borderPoints:
+  country: Land
+  points: Grenzpunkte
+  title: Grenzpunkte
 childrenDiscount: >-
   Grundsätzlich wird der FIP Rabatt auf die Erwachsenentarife und nicht auf
   Kindertarife angewendet. Auf diesem Grund sollte geprüft werden, ob
