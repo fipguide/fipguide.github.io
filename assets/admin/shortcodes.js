@@ -163,12 +163,12 @@ function makeToBlock(name, cfg) {
 }
 
 function registerDualBracketComponent(name, cfg) {
-  function register(id, bracket) {
+  function register(id, bracket, fields) {
     CMS.registerEditorComponent({
       id: id,
       label: cfg.label,
       icon: cfg.icon,
-      fields: cfg.fields,
+      fields: fields,
       pattern: shortcodePattern(name, bracket),
       fromBlock: cfg.fromBlock,
       toBlock: makeToBlock(
@@ -180,8 +180,21 @@ function registerDualBracketComponent(name, cfg) {
       },
     });
   }
-  register(name, "%");
-  register(name + "-raw", "<");
+
+  var rawFields = cfg.fields.map(function (field) {
+    if (!field.editor_components) return field;
+    return Object.assign({}, field, {
+      editor_components: field.editor_components.map(function (component) {
+        if (component === "highlight" || component === "float-image") {
+          return component + "-raw";
+        }
+        return component;
+      }),
+    });
+  });
+
+  register(name, "%", cfg.fields);
+  register(name + "-raw", "<", rawFields);
 }
 
 // Matches `![prefix[linkText](linkHref)suffix](src "title")`, where the
