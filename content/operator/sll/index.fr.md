@@ -4,7 +4,6 @@ shortName: Stena Line Limited
 country:
   - ireland
   - united-kingdom
-operator: sll
 content_images:
   - image.webp
 aliases:

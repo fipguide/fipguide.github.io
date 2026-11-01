@@ -3,7 +3,6 @@ title: NIR
 shortName: NIR
 country:
   - united-kingdom
-operator: nir
 content_images:
   - image.webp
 aliases:

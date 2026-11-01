@@ -3,7 +3,6 @@ title: PKP
 shortName: PKP
 country:
   - poland
-operator: pkp
 content_images:
   - image.webp
 aliases:

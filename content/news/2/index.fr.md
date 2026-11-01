@@ -6,8 +6,8 @@ description: La SNCB propose désormais des Billets FIP transfrontaliers en
   ligne, facilitant la réservation de voyages internationaux à tarif réduit
   depuis la Belgique.
 country:
-  - belgique
-  - pays-bas
+  - belgium
+  - netherlands
 operator:
   - sncb
 content_images:

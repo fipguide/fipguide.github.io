@@ -1,6 +1,5 @@
 ---
 title: Norwegen
-country: norway
 params:
   operators_without_fip:
     - Arctic Train

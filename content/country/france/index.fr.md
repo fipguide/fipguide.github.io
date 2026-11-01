@@ -1,6 +1,5 @@
 ---
 title: France
-country: france
 params:
   operators_without_fip:
     - CFC (Chemins de fer de la Corse / Chemins de fer corses)

@@ -1,6 +1,5 @@
 ---
 title: Slovénie
-country: slovenia
 params:
   operators_without_fip:
     - Optima Express

@@ -1,6 +1,5 @@
 ---
 title: Lithuania
-country: lithuania
 params:
   operators_without_fip:
     - Aukštaitijos siaurasis geležinkelis (heritage railway)

@@ -23,23 +23,21 @@
     <div class="o-single__container">
       {{ if eq .Page.Type "operator" }}
         <ul aria-label="{{ T "contentNavigation.relatedCountries" }}">
-          {{ $related := .Site.RegularPages.RelatedIndices . "country" }}
+          {{ $related := where (where .Site.RegularPages "Type" "country") "File.ContentBaseName" "in" .Params.country }}
           {{ with $related }}
             {{ range . }}
-              {{ if eq .Page.Type "country" }}
-                <li>
-                  <a
-                    href="{{ .RelPermalink }}"
-                    aria-label="{{ print (T "navigate-to-country") " " .LinkTitle }}"
+              <li>
+                <a
+                  href="{{ .RelPermalink }}"
+                  aria-label="{{ print (T "navigate-to-country") " " .LinkTitle }}"
+                >
+                  {{ partial "icon" "arrow_back" }}
+                  <span class="o-aside__backlink-text"
+                    >{{ partial "flag" (dict "country" .File.ContentBaseName) }}
+                    {{ .LinkTitle }}</span
                   >
-                    {{ partial "icon" "arrow_back" }}
-                    <span class="o-aside__backlink-text"
-                      >{{ partial "flag" (dict "country" .File.ContentBaseName) }}
-                      {{ .LinkTitle }}</span
-                    >
-                  </a>
-                </li>
-              {{ end }}
+                </a>
+              </li>
             {{ end }}
           {{ end }}
         </ul>
@@ -50,12 +48,12 @@
       {{ partial "toc" (dict "context" . "startLevel" 2 "endLevel" 3 ) }}
 
       {{ if eq .Page.Type "country" }}
-        {{ partial "related" (dict "index" "country" "pageType" "operator" "title" (T "operators.listTitle") "page" . "identifier" "operators") }}
-        {{ partial "related" (dict "index" "country" "pageType" "news" "title" (T "related.news") "page" . "identifier" "news") }}
+        {{ partial "related" (dict "index" "country" "pageType" "operator" "title" (T "operators.listTitle") "page" .) }}
+        {{ partial "related" (dict "index" "country" "pageType" "news" "title" (T "related.news") "page" .) }}
       {{ end }}
       {{ if eq .Page.Type "operator" }}
         {{ partial "neighboringOperators" (dict "title" (T "related.operators-nearby") "page" . "identifier" "operators") }}
-        {{ partial "related" (dict "index" "operator" "pageType" "news" "title" (T "related.news") "page" . "identifier" "news") }}
+        {{ partial "related" (dict "index" "operator" "pageType" "news" "title" (T "related.news") "page" .) }}
       {{ end }}
       <hr aria-hidden="true" />
       <ul>

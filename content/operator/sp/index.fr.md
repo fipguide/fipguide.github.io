@@ -5,7 +5,6 @@ description: Informations sur les conditions FIP des chemins de fer privés suis
 country:
   - switzerland
   - italy
-operator: sp
 content_images:
   - image.webp
 ---

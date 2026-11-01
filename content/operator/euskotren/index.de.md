@@ -2,7 +2,6 @@
 title: Euskotren
 country:
   - spain
-operator: euskotren
 content_images:
   - image.webp
 aliases:

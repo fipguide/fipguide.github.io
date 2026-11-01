@@ -7,7 +7,6 @@ country:
   - netherlands
   - united-kingdom
   - france
-operator: eurostar
 content_images:
   - image.webp
 aliases:

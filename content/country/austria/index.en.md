@@ -1,6 +1,5 @@
 ---
 title: Austria
-country: austria
 params:
   operators_without_fip:
     - Achenseebahn
