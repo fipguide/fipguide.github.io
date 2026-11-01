@@ -217,6 +217,12 @@ Teilweise sind die Cercanías nur über Zugangsschranken erreichbar. Vor Ort mus
 
 ## Ticket- und Reservierungskauf
 
+{{% highlight important %}}
+Die Renfe führt derzeit ein neues Ticketsystem ein. Dies hat auch Auswirkungen auf die Buchung von FIP Tickets über externe Agenturen und die Buchung über das DB Reisezentrum. Derzeit wird von Einschränkungen bei der Buchung berichtet. Sobald uns konkrete Informationen vorliegen, werden wir diese Seite aktualisieren.
+
+Weitere Updates kann du in der [FIP Guide Community](https://discord.com/channels/1250522473188032512/1566155261691830424/1566155261691830424) verfolgen.
+{{% /highlight %}}
+
 ### Online
 
 Die Buchung von Reservierungen, FIP Globalpreis oder FIP 50 ist online nicht möglich.
@@ -231,7 +237,6 @@ Eine telefonische Buchung bei Renfe scheint nicht möglich zu sein. Bei der Hotl
     fip_global_fare=true
     reservations=nil
 %}}
-
 #### FIP Globalpreis
 
 In den DB Reisezentren können Tickets für reservierungspflichtige Züge verkauft werden. Hier ist darauf zu achten, dass als Klasse entweder "T" (für Turista) oder "P" (für Preferente) angegeben wird. Wenn als Klasse die 1. Klasse oder 2. Klasse ausgewählt wird, schlägt das Ausstellen der Tickets mit einer Fehlermeldung fehl. Es wurde zudem berichtet, dass die Buchung der Klasse "P" teilweise fehlschlägt, in diesem Fall funktioniert eine Buchung der Klasse "T" oftmals. Eine Buchungsgebühr wird nicht erhoben.
