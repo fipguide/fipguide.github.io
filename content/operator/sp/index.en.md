@@ -239,7 +239,7 @@ On the following sections, FIP Coupons and FIP 50 Tickets are valid without rest
 On the following sections, FIP Coupons are not valid, but FIP 50 Tickets are accepted:
 
 - BGF: Grindelwald – First (gondola)
-- BOB: Wilderswil – Schynige Platte (train)
+- SPB: Wilderswil – Schynige Platte (train)
 - HB: Interlaken – Harder Kulm (funicular)
 - JB: Kleine Scheidegg – Jungfraujoch (train)
 
