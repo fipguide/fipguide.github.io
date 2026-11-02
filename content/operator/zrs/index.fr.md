@@ -28,7 +28,6 @@ Les Coupons FIP et les Billets FIP 50 / FIP 75 sont valables sur les liaisons de
     title="Putnički (P)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
 %}}
 Trains régionaux qui desservent toutes les arrêts intermédiaires et garantissent un service de base au sein de l’entité.
 {{% /train-category %}}

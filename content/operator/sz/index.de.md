@@ -37,8 +37,7 @@ Außerdem werden in der Onlineauskunft der SŽ grenzüberschreitende Verbindunge
     title="InterCity Slovenia (ICS)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Nationale Fernzüge, die mit dem Zugtyp [SŽ 310 “Pendolino”](https://potniski.sz.si/en/train/emg-310-316-pendolino/) gefahren werden. Dieser zeichnet sich durch verwendete Neigetechnik, kürzere Reisezeiten und wenige Zwischenhalte aus. Unter der Woche werden in einem kleinen Bistro auch Snacks und Getränke angeboten. Meist wird die Route zwischen den beiden größten Städten Ljubljana nach Maribor bedient.
@@ -54,8 +53,7 @@ Beim `ICS` ist eine Reservierung sowie ein Aufschlag für die Zugkategorie verpf
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Fernverkehrszüge, die mit wenigen Zwischenhalten größere Städte miteinander verbinden. Meistens verkehren sie nur innerhalb Sloweniens; die internationalen Züge nach Budapest über Österreich werden jedoch ebenfalls, zumindest auf Teilabschnitten, als `IC` bezeichnet.
@@ -71,8 +69,7 @@ Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets 
     title="EuroCity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Vergleichsweise schnelle internationale Fernzüge, die Slowenien mit Österreich oder Kroatien verbinden.
@@ -88,8 +85,7 @@ Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets 
     title="Mednarodni vlaki (MV)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Internationale Züge, die zwischen Slowenien und Österreich, Ungarn oder Kroatien verkehren. Sie verkehren mit wenigen Zwischenhalten.
@@ -105,8 +101,7 @@ Es besteht keine Reservierungspflicht, jedoch wird bei FIP rabattierten Tickets 
     title="EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Internationale Nachtzüge nach Kroatien, Österreich und Deutschland. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben.
@@ -126,8 +121,7 @@ Bei Fahrten ausschließlich im Inlandsverkehr von Slowenien wird ein Aufschlag v
     title="Lokalni potniški vlaki (LP oder LPV)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Nationale Regionalzüge, die meist auch an kleineren Bahnhöfen halten.
@@ -139,8 +133,7 @@ Nationale Regionalzüge, die meist auch an kleineren Bahnhöfen halten.
     title="Regionalni (RG)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Nationale Regionalzüge, genauso wie [LP/LPV](#lpv).
@@ -152,8 +145,7 @@ Nationale Regionalzüge, genauso wie [LP/LPV](#lpv).
     title="Maloobmejnia (MO)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regionalzüge, die grenzüberschreitend verkehren.
@@ -165,8 +157,7 @@ Regionalzüge, die grenzüberschreitend verkehren.
     title="Avtovlak (AVT)"
     type="highspeed"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Autozüge, die durch den längsten Eisenbahntunnel Sloweniens (Bohinj Tunnel) verkehren. FIP ist hier nicht gültig.
@@ -178,8 +169,7 @@ Autozüge, die durch den längsten Eisenbahntunnel Sloweniens (Bohinj Tunnel) ve
     title="Busse"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Busse der SŽ. FIP ist hier nicht gültig, außer es handelt sich um einen Schienenersatzverkehr.

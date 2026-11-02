@@ -35,8 +35,7 @@ Au Danemark, les réservations sont possibles mais non obligatoires. Sur les tra
     title="IntercityLyn (ICL)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Les trains IntercityLyn sont les plus rapides de la DSB. Ils circulent jusqu’à 180 km/h, avec peu d’arrêts, et relient les grandes villes comme Aalborg, Aarhus et Copenhague.
@@ -48,8 +47,7 @@ Les trains IntercityLyn sont les plus rapides de la DSB. Ils circulent jusqu’�
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Similaires aux ICL mais avec plus d’arrêts et une vitesse inférieure. Ils desservent aussi Flensburg (Allemagne).
@@ -61,8 +59,7 @@ Similaires aux ICL mais avec plus d’arrêts et une vitesse inférieure. Ils de
     title="Eurocity-Express (ECE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Trains transfrontaliers entre Hambourg et Copenhague, via Padborg, Kolding et Odense.
@@ -78,8 +75,7 @@ Réservation conseillée et généralement obligatoire en été.
     title="Railjet (RAIL JET)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Les trains Railjet circulent en trafic transfrontalier sur la liaison entre Copenhague et Prague via Hambourg et Berlin.
@@ -97,8 +93,7 @@ Une réservation est recommandée pour les trajets transfrontaliers et général
     title="Train régional (R / RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains régionaux desservant toutes les gares hors du réseau S-tog de Copenhague.
@@ -118,8 +113,7 @@ Les trains marqués `RE` sont généralement exploités par DSB.
     title="S-tog (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Le réseau S-tog de Copenhague est également exploité par DSB. Trains fréquents, desservant toutes les stations, comparables aux `RER` ou S-Bahn.

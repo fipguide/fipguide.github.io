@@ -42,8 +42,7 @@ Sitzplatzreservierungen sind nur in SuperCity `SC` und einigen `IC` Zügen verpf
     title="SuperCity (SC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
     additional_information_url="https://www.cd.cz/en/nase-vlaky/supercity/pendolino/-27274/"
 %}}
 
@@ -68,8 +67,7 @@ Die Preise für die Reservierung sind variabel (siehe [reservierungspflichtige Z
     title="Railjet (RJ)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
     additional_information_url="https://www.cd.cz/en/nase-vlaky/railjet/railjet/-27275/"
 %}}
 
@@ -98,8 +96,7 @@ Sitzplatzreservierungen sind möglich, in der Business Class sogar verpflichtend
     title="Eurocity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
     additional_information_url="https://www.cd.cz/en/nase-vlaky/ec-ic/armpee/-27279/"
 %}}
 
@@ -116,8 +113,7 @@ Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzie
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
     additional_information_url="https://www.cd.cz/en/nase-vlaky/ec-ic/armpee/-27279/"
 %}}
 
@@ -138,8 +134,7 @@ Eine Reservierung ist für einige Züge erforderlich (siehe [reservierungspflich
     title="Expres (Ex)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
     additional_information_url="https://www.cd.cz/en/nase-vlaky/rychlik/interpanter/-27301/"
 %}}
 
@@ -152,8 +147,7 @@ Schnellzüge im innertschechischen Verkehr sowie zwischen Praha und Žilina oder
     title="Rychlík (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.cd.cz/en/nase-vlaky/rychlik/interpanter/-27301/"
 %}}
 
@@ -170,8 +164,7 @@ Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzie
     title="Spěšný vlak (Sp)"
     type="regional"
     fip_accepted=partially
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.cd.cz/en/nase-vlaky/regionalni-vlak-cd/regiopanter/-27532/"
 %}}
 
@@ -192,8 +185,7 @@ Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzie
     title="Osobní vlak (Os)"
     type="regional"
     fip_accepted=partially
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.cd.cz/en/nase-vlaky/regionalni-vlak-cd/regiopanter/-27532/"
 %}}
 
@@ -214,8 +206,7 @@ Die Züge sind auf einigen Verbindungen zuschlagspflichtig (siehe [ČD kommerzie
     title="Nightjet (NJ) / EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
     route_overview_url="https://www.cd.cz/en/nase-vlaky/nocni-vlaky/-27543/"
 %}}
 
@@ -238,8 +229,7 @@ Abhängig von Strecke und Auslastung sowie Wagenkategorie.
     title="Bus"
     type="bus"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 FIP Freifahrtscheine gelten nicht in Bussen, die von der ČD betrieben werden. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.

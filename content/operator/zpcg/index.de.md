@@ -29,8 +29,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ŽPCG gültig.
     title="Nationale Züge"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Die ŽPCG betreibt Regionalzüge im Binnenverkehr, welche ausschließlich die zweite Klasse führen.
@@ -50,8 +49,7 @@ Bei Vorlage des FIP Ausweises wird ein Rabatt von 50 % auf die [regulären Ticke
     title="Internationale Züge"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Zwischen Montenegro und Serbien betreibt die ŽPCG in den Sommermonaten Tagzüge sowie ganzjährig Nachtzüge mit Sitz-, Liege- und Schlafwagen sowie (teilweise) Speisewagen.
@@ -73,8 +71,6 @@ Für Liege-/Schlafwagenreservierungen fällt eine zusätzliche Servicegebühr vo
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=nil
 %}}
 
 FIP Fahrkarten gelten nicht auf von der ŽPCG betriebenen Buslinien, es sei denn, diese stellen einen Schienenersatzverkehr dar.[^2]

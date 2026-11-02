@@ -34,8 +34,7 @@ Les catégories de trains sont en partie également utilisées par d’autres op
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains nationaux longue distance avec peu d’arrêts intermédiaires et un confort comparativement plus élevé. Ils circulent principalement au départ de Bucarest dans les différentes directions du pays.
@@ -57,8 +56,7 @@ Une réservation de place assise est obligatoire. Si le train est complet, une r
     title="InterRegio (IR)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains relativement rapides reliant les grandes villes du pays avec peu d’arrêts intermédiaires. Certains circulent également en transfrontalier, notamment vers la Hongrie.
@@ -80,8 +78,7 @@ Une réservation de place assise est obligatoire. Si le train est complet, une r
     title="InterRegio Noapte (IRN)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains principalement internationaux circulant de nuit. Ils sont aussi parfois référencés comme `D` dans les recherches de correspondances d’autres fournisseurs.
@@ -107,8 +104,7 @@ Pour les voitures-couchettes et voitures-lits, les tarifs suivants s’appliquen
     title="Autres trains internationaux"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 Les trains internationaux vers la Bulgarie, la Moldavie et l’Ukraine circulent sans catégorie de train spécifique et n’ont qu’un numéro de train.
@@ -134,8 +130,7 @@ Pour les voitures-couchettes et voitures-lits, les tarifs suivants s’appliquen
     title="Regio (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 Trains régionaux desservant également les petites localités. Les différents trains sur une même ligne n’ont souvent pas de schéma d’arrêt fixe, ce qui signifie que les petits arrêts ne sont desservis que par certains trains `R`.

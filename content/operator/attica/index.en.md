@@ -32,8 +32,7 @@ The Attica Group is a major Greek ferry operator running several brands, includi
     title="Italy – Greece (Superfast Ferries & Anek Line)"
     type="ship"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
     additional_information_url="https://www.superfast.com/de-de/hafen-und-destinationen"
 %}}
 
@@ -55,8 +54,7 @@ FIP beneficiaries receive a 50% discount on cabin or seat classes, regardless of
     title="Greek Domestic Routes (Blue Star Ferries, Hellenic Seaways & Anek Line)"
     type="ship"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
     additional_information_url="https://www.bluestarferries.com/en-gb/destinations"
 %}}
 

@@ -37,8 +37,7 @@ Mitarbeitende der [SNCB / NMBS](/operator/sncb) und [NS](/operator/ns) können e
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 InterCity-Züge verbinden Luxemburg mit Liège und Brüssel in Belgien.
@@ -50,8 +49,7 @@ InterCity-Züge verbinden Luxemburg mit Liège und Brüssel in Belgien.
     title="Regionalexpress (RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Züge mit Halt an manchen Stationen.
@@ -63,8 +61,7 @@ Züge mit Halt an manchen Stationen.
     title="Regionalbahn (RB)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Züge mit Halt an allen Stationen.
@@ -76,8 +73,7 @@ Züge mit Halt an allen Stationen.
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Die CFL betreibt auch überregionale Buslinien. Diese akzeptieren zwar kein FIP, durch den kostenlosen öffentlichen Nahverkehr ist jedoch kein Fahrschein erforderlich.
@@ -89,8 +85,7 @@ Die CFL betreibt auch überregionale Buslinien. Diese akzeptieren zwar kein FIP,
     title="Standseilbahn Pfaffenthal-Kirchberg"
     type="funicular"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Die Standseilbahn verbindet die Bahnhaltestelle Pfaffenthal-Kirchberg mit der Umsteigeplattform auf dem Kirchberg-Plateau.

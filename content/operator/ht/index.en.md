@@ -30,8 +30,7 @@ Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) operate
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 These trains connect Athens (Αθήνα) and Thessaloniki (Θεσσαλονίκη) as well as Larisa (Λάρισα) and other major cities. The route is electrified and offers the fastest travel times in the country. FIP is fully accepted, but a free seat reservation is mandatory.
@@ -54,8 +53,7 @@ Since individual reservations are not available online, first book an FIP 50 Tic
     title="Regional Train (REG)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regional trains connect cities and regions outside the main axis.
@@ -73,8 +71,7 @@ Tourist services such as the Pelion Train are also shown as `REG` in the journey
     title="Bus"
     type="bus"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Buses operated by Hellenic Train accept FIP benefits.[^1]
@@ -86,8 +83,7 @@ Buses operated by Hellenic Train accept FIP benefits.[^1]
     title="Tourist and historic trains"
     type="regional"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Hellenic Train operates three tourist or historic train services on which FIP is not accepted.[^1]

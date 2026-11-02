@@ -35,8 +35,7 @@ Die Fährverbindungen auf der irischen See werden als eigenständiger FIP-Betrei
     title="Fähre (Tagfahrt)"
     type="ship"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Pro Richtung verkehrt eine Fähre:
@@ -62,8 +61,7 @@ Eine Kabine kann optional dazugebucht werden.
     title="Fähre (Nachtfahrt)"
     type="ship"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Pro Richtung verkehrt eine Fähre:

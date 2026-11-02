@@ -40,8 +40,7 @@ Seuls les trains de banlieue (Cercanías) sont accessibles sans restriction avec
     title="AVE"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains longue distance à grande vitesse à voie normale et à écartement variable (jusqu’à 300 km/h). Les Coupons FIP ne sont pas acceptés.
@@ -63,8 +62,7 @@ Les AVE internationaux vers/depuis la France ont des tarifs FIP Global différen
     title="Avlo"
     type="highspeed"
     fip_accepted=false
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains à grande vitesse à bas prix (jusqu’à 300 km/h).
@@ -76,8 +74,7 @@ Trains à grande vitesse à bas prix (jusqu’à 300 km/h).
     title="Euromed"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains à grande vitesse à écartement variable (Figueres {{< icon "arrow_range" >}} Alicante). Les Coupons FIP gratuits ne sont pas acceptés.
@@ -95,8 +92,7 @@ Trains à grande vitesse à écartement variable (Figueres {{< icon "arrow_range
     title="Alvia"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains à grande vitesse à écartement variable (jusqu’à 250 km/h). Les Coupons FIP gratuits ne sont pas acceptés.
@@ -114,8 +110,7 @@ Trains à grande vitesse à écartement variable (jusqu’à 250 km/h). Les Co
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains de voyageurs entre le régional et la grande vitesse (jusqu’à 250 km/h). Les Coupons FIP gratuits ne sont pas acceptés.
@@ -133,8 +128,7 @@ Trains de voyageurs entre le régional et la grande vitesse (jusqu’à 250 km
     title="Celta: Porto – Vigo"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Le Celta est un train international entre Renfe et CP (Portugal) de Porto à Vigo. Les Coupons FIP gratuits ne sont pas acceptés.
@@ -150,8 +144,7 @@ Le Celta est un train international entre Renfe et CP (Portugal) de Porto à Vig
     title="Avant"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains à grande vitesse, durée de trajet < 90 minutes. Les Coupons FIP gratuits ne sont pas acceptés.
@@ -165,8 +158,7 @@ Trains à grande vitesse, durée de trajet < 90 minutes. Les Coupons FIP gratuit
     title="MD"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Trains régionaux accélérés. Les Coupons FIP gratuits ne sont acceptés que sur les trains non soumis à réservation obligatoire de cette catégorie. Actuellement, cela ne concerne que la ligne Barcelone(-Girona-Figueres)-Port Bou.
@@ -186,8 +178,7 @@ Les réservations sont obligatoires, sauf sur la ligne Barcelone(-Gérone-Figuer
     title="Cercanías / Rodalia / Aldiriak"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains de banlieue, comparables à un RER/S-Bahn. Les Coupons FIP gratuits sont valables sans restriction.

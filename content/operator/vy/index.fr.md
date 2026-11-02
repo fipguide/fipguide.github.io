@@ -43,8 +43,7 @@ Cependant, seule la mention **Vy Group AS** est imprimée sur la Carte FIP et su
     title="Fjerntog (F)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains grandes lignes sur les lignes principales du pays avec café. Certains trains circulent comme trains de nuit avec voitures assises, couchettes et voitures-lits. Dans le planificateur de voyage sur [Entur](https://entur.no/), les trains de nuit sont indiqués par un croissant de lune {{% icon "bedtime" %}}.
@@ -89,8 +88,7 @@ Avec un billet pour le train de nuit, il est possible de passer le temps jusqu�
     title="Regionekspress (RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Le Regionekspress relie des localités et des villes avec des arrêts dans les principales gares. Certains trains disposent de distributeurs automatiques pour les snacks et les boissons.
@@ -113,8 +111,7 @@ Sur le RE20, le FIP n’est reconnu qu’entre Oslo S et Halden, mais pas pour l
     title="Regiontog (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Le Regiontog relie des localités et des villes avec des arrêts dans presque toutes les gares. Certains trains disposent de distributeurs automatiques pour les snacks et les boissons.
@@ -152,8 +149,7 @@ Sur les lignes R60 et R65, une réservation gratuite est obligatoire.
     title="Lokaltog (L)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Trains locaux dans les agglomérations d’Oslo, Bergen et Stavanger.
@@ -177,8 +173,6 @@ Les trains marqués d’un X ne s’arrêtent pas dans toutes les gares (par exe
     title="Flytog (FLY)"
     type="highspeed"
     fip_accepted=false
-    reservation_required=nil
-    reservation_possible=nil
 %}}
 
 Flytoget est l’express aéroportuaire entre Oslo Airport et Oslo S. Les Réductions FIP ne peuvent pas y être utilisées.
@@ -194,8 +188,6 @@ En alternative, les lignes de trains régionaux R10, R11 et R12 peuvent être ut
     title="Vy express / Vy flybussen"
     type="bus"
     fip_accepted=false
-    reservation_required=nil
-    reservation_possible=nil
 %}}
 
 Vy exploite un réseau de lignes d’autocars longues distances qui ne peuvent toutefois pas être utilisées avec FIP.[^1]

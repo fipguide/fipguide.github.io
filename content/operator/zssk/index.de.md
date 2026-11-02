@@ -39,8 +39,7 @@ Reservierungspflicht für `SC` und `IC` Züge. Andere ZSSK Züge erfordern nur e
     title="SuperCity (SC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Schnelle Neigetechnik-Züge (Pendolino), die zwischen Prag (Tschechien) und Košice, mit wenigen Halten verkehren.
@@ -56,8 +55,7 @@ Schnelle Neigetechnik-Züge (Pendolino), die zwischen Prag (Tschechien) und Koš
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 _Zur Zeit ist der Betrieb der Intercity-Zügen aus wirtschaftlichen Gründen eingestellt. Die Züge werden durch `EX` Züge ersetzt._
@@ -75,8 +73,7 @@ Grenzüberschreitende Fernzüge, die eigenwirtschaftlich von der ZSSK und CD erb
     title="Eurocity (EC) / Railjet (RJ)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Grenzüberschreitende Züge zwischen der Slowakei und Tschechien, Österreich oder Ungarn. Sie verkehren oft mit wenigen Halten und im Vergleich relativ hoher Durchschnittsgeschwindigkeit. Die `RJ` Züge sind Railjet-Züge der Österreichischen Bundesbahn, die auf slowakischem Abschnitt auch mit ZSSK-Freifahrtscheinen genutzt werden können.
@@ -96,8 +93,7 @@ Reservierungspflicht nur in der 1. Klasse.
     title="EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 `EN` sind internationale Nachtzüge, bei denen Reservierungspflicht besteht und die Möglichkeit einen Aufpreis für Liege- oder Schlafwagen zu zahlen. Sonst sind sie ähnlich wie die `EC`.
@@ -113,8 +109,7 @@ Reservierungspflicht nur in der 1. Klasse.
     title="Express (Ex)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Eine Art InterRegio mit weniger Halten als ein Regionalzug, aber mehr als beispielsweise den `IC`. Oft haben sie auch ein Bordrestaurant und fahren mit komfortablen Lok-Wagen-Zügen.
@@ -130,8 +125,7 @@ Reservierungspflicht nur in der 1. Klasse.
     title="Rychlik (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Schnelle Regionalzüge mit Halten an den wichtigsten Bahnhöfen in der Region, eine Art Regionalexpress mit sehr unterschiedlichem Wagenmaterial.
@@ -147,8 +141,7 @@ Reservierungspflicht nur in der 1. Klasse.
     title="Osobní vlak (Os)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Standard-Regionalzüge, die meist überall halten (es gibt jedoch Ausnahmen). Gerade auf Nebenstrecken verkehren sie oft mit veralteten Wagenmaterial. Teilweise werden sie auch als S-Bahnen vermarktet, ohne jedoch wirklich in einem S-Bahn-Takt zu fahren.
@@ -164,8 +157,7 @@ Reservierungspflicht nur in der 1. Klasse.
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Busse sind von FIP-Rabatten ausgeschlossen. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.[^1]

@@ -45,8 +45,7 @@ The following lines can be used with the GySEV FIP Coupon in Austria in the spec
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 GySEV operates Scarbantia IC trains between Sopron and Budapest.
@@ -66,8 +65,7 @@ Reservations are only mandatory between Győr and Budapest. For journeys between
     title="Regionalexpress (REX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Fast local train with fewer stops and modern rolling stock.
@@ -83,8 +81,7 @@ Regionalexpress trains are sometimes also operated by ÖBB where GySEV FIP Ticke
     title="Regionalzug (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Local train stopping at most stations.
@@ -100,8 +97,7 @@ Regional trains are sometimes also operated by ÖBB where GySEV FIP Tickets are 
     title="Személyvonat (Sz)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Local train stopping at most stations.
@@ -117,8 +113,7 @@ Személyvonat trains are sometimes also operated by [MÁV](/operator/mav#sz) whe
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP discounts are not valid on GySEV bus connections. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.

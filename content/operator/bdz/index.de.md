@@ -36,8 +36,7 @@ Die Zugkategorien werden bei der BDŽ wie unten beschrieben in der Reiseauskunft
     title="Cross-country International Train (IC-INT)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Internationale Züge, die zwischen Bukarest in Rumänien nach Sofia oder Varna verkehren. Diese Züge verkehren nur in dem Sommerhalbjahr direkt, ansonsten ist ein Umstieg in Ruse nötig. Sie werden in der Verbindungsauskunft bei anderen Anbietern auch teilweise als `IR` gekennzeichnet.
@@ -55,8 +54,7 @@ Eine Sitzplatzreservierung ist in beiden Klassen verpflichtend.
     title="Intercity Fast Train (ICF)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Meistens verkehren sie mit modernerem Wagenmaterial, bspw. ehemaligen IC-Wagen der Deutschen Bahn. Bei Zügen über Nacht sind auch teilweise Liege- oder Schlafwagen eingereiht, die mit einer entsprechenden Reservierung genutzt werden können.
@@ -72,8 +70,7 @@ Eine Reservierung ist für einige Züge erforderlich (mit _R_ gekennzeichnet).
     title="Express train (EXP)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 Nationale Züge, die mit wenig Zwischenhalten Städte miteinander verbinden.
@@ -89,8 +86,7 @@ Eine Reservierung ist für einige Züge erforderlich (mit _R_ gekennzeichnet).
     title="Regional Train (REG)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Regionalzüge im innerbulgarischen Verkehr, die meist viele Zwischenhalte haben und nicht besonders schnell sind. Sie besitzen nur Wagen der 2. Klasse.
@@ -102,8 +98,7 @@ Regionalzüge im innerbulgarischen Verkehr, die meist viele Zwischenhalte haben 
     title="Suburban Commuter Train (SUB)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regionalbahnen im innerbulgarischen Verkehr mit Halt an meist allen Stationen, die oft in einem dichteren Takt als die meisten anderen Züge verkehren.

@@ -34,8 +34,7 @@ FIP Coupons and FIP 50 Tickets are valid on MÁV connections. For cross-border j
     title="Railjet (RJ) / Railjet Xpress (RJX)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 International long-distance trains in cooperation with ÖBB and other partner railways, for example on the Vienna – Budapest axis and Prague – Bratislava – Budapest. Economy Class (2nd class), First Class (1st class) and Business Class are available. A [dining car from ÖBB](https://www.oebb.at/de/reiseplanung-services/im-zug/bordservice) or [dining car from ČD](https://www.cd.cz/en/dalsi-sluzby/jidelni-vozy-a-obcerstveni-ve-vlaku/-27986/) is carried.
@@ -57,8 +56,7 @@ Seat reservations are mandatory for domestic traffic, optional for international
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 National express trains with 2nd class passenger cars, some also with 1st class and premium class 1+ cars. Occasionally [restaurant cars](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-dining-cars) and/or [bistro cars](https://www.mavcsoport.hu/en/mav-szemelyszallitas/domestic-travels/utasellato-bistro-cars) are carried.
@@ -84,8 +82,7 @@ A reservation is mandatory.
     title="EuroCity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 EuroCity trains are international express trains on routes between Budapest and Bratislava, Prague, Berlin or Warsaw. Most trains consist of Czech Railway cars, while the train to/from Berlin is formed from Hungarian cars and the train to/from Warsaw from Polish cars.
@@ -102,8 +99,7 @@ Seat reservations are mandatory for domestic traffic, optional for international
     title="EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
     additional_information_url="https://www.mavcsoport.hu/en/mav-szemelyszallitas/international-travels/travel-night-trains"
 %}}
 
@@ -120,8 +116,7 @@ Reservations are mandatory.
     title="InterRegio (IR)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 InterRegio connections are express trains in domestic traffic and form the basic schedule outside the international corridors. Usually only 2nd class is offered.
@@ -133,8 +128,7 @@ InterRegio connections are express trains in domestic traffic and form the basic
     title="Expresszug (EX)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Express trains that usually only run on weekends and during holidays. Various car types are used and most trains have 2nd and 1st class.
@@ -152,8 +146,7 @@ A reservation is mandatory.
     title="Györsvonat (GY)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Express trains used on many main routes – primarily where no InterCity trains operate. The trains stop in medium-sized and larger cities.
@@ -170,8 +163,7 @@ In connection information systems outside of MÁV, the trains may be listed as `
     title="Személyvonat (SZ)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Classic regional trains that stop at all intermediate stations.
@@ -187,8 +179,7 @@ Classic regional trains that stop at all intermediate stations.
     title="Sebesvonat (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Express trains that serve both regional and long-distance traffic. They therefore stop in some route sections almost everywhere, while for example near Budapest they only stop at the most important stations.
@@ -202,8 +193,7 @@ The S-Bahn trains in the Budapest region are also abbreviated as `S`, though the
     title="EuRegio (ER)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regional trains on the route Győr – Hegyeshalom – Bruck an der Leitha (– Vienna).
@@ -215,8 +205,7 @@ Regional trains on the route Győr – Hegyeshalom – Bruck an der Leitha (– 
     title="Budapesti Helyiérdekű Vasút (BHÉV)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 The BHÉV or short HÉV lines connect Budapest with the suburbs in the surrounding area. They are identified by the letter H followed by the line number (H5 – H9).
@@ -230,8 +219,7 @@ The BHÉV or short HÉV lines connect Budapest with the suburbs in the surroundi
     title="Személyvonat (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 S-trains are part of the Budapest S-Bahn and are the slowest trains. They are identified by the letter S followed by the line number.
@@ -245,8 +233,7 @@ The express trains _Sebesvonat_ of MÁV are also abbreviated with `S`, but these
     title="Gyorsított személy (G)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 G-trains are part of the Budapest S-Bahn and are accelerated trains, i.e. they do not stop at all stations. They are identified by the letter G followed by the line number.
@@ -258,8 +245,7 @@ G-trains are part of the Budapest S-Bahn and are accelerated trains, i.e. they d
     title="Zónázó személy (Z)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Z-trains are part of the Budapest S-Bahn and are zone trains, i.e. they only stop at the most important stations in Budapest's city area and then at selected major suburban stations. They are identified by the letter Z followed by the line number.
@@ -273,8 +259,7 @@ Z-trains are part of the Budapest S-Bahn and are zone trains, i.e. they only sto
     title="TramTrain Szeged – Hódmezővásárhely"
     type="tram"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.stadlerrail.com/de/loesungen/referenzen/citylink-mav"
 %}}
 
@@ -287,8 +272,7 @@ The TramTrain between Szeged and Hódmezővásárhely can be used with FIP.[^1] 
     title="Balatonfenyves Narrow Gauge Railway"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.mavcsoport.hu/mav-szemelyszallitas/szolgaltatasok/balatonfenyvesi-kisvasut"
 %}}
 
@@ -301,8 +285,7 @@ The narrow-gauge railway from Balatonfenyves to Somogyszentpál and Csisztafürd
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP tickets are not valid on MÁV buses. On buses in substitute rail service, FIP benefits apply if they replace a train in which FIP would have been valid.[^1]

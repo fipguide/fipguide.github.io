@@ -30,8 +30,7 @@ Die Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) bet
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Diese Züge verbinden Athen (Αθήνα) und Thessaloniki (Θεσσαλονίκη) sowie Larisa (Λάρισα) und andere größere Städte. Die Verbindung ist elektrifiziert und bietet die schnellsten Reisezeiten im Land. FIP wird vollständig anerkannt, jedoch ist eine kostenfreie Sitzplatzreservierung zwingend erforderlich.
@@ -54,8 +53,7 @@ Da online keine einzelnen Reservierungen verfügbar sind, buche zunächst ein FI
     title="Regionalzug (REG)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regionalzüge verbinden Städte und Regionen außerhalb der Hauptachse.
@@ -73,8 +71,7 @@ Touristische Verbindungen wie der Pelion-Train werden in der Verbindung ebenfall
     title="Bus"
     type="bus"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Von Hellenic Train betriebene Busse erkennen FIP-Vergünstigungen an.[^1]
@@ -86,8 +83,7 @@ Von Hellenic Train betriebene Busse erkennen FIP-Vergünstigungen an.[^1]
     title="Touristische und historische Züge"
     type="regional"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Hellenic Train betreibt drei touristische bzw. historische Zugverbindungen, auf welchen allerdings kein FIP anerkannt wird.[^1]

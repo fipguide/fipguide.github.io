@@ -35,8 +35,7 @@ FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SBB ohne Einsc
     title="Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Zürich, Bern oder Interlaken. Wegen Verspätungen in Deutschland enden diese Züge teilweise außerplanmäßig in Basel und werden dann innerhalb der Schweiz durch einen Ersatzzug ersetzt.
@@ -48,8 +47,7 @@ Hochgeschwindigkeitszüge aus Deutschland nach Basel und teilweise weiter nach Z
     title="Train à Grande Vitesse (TGV)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Hochgeschwindigkeitszüge aus Frankreich nach Zürich über Basel.
@@ -65,8 +63,7 @@ Die Züge sind außerhalb der Schweiz und bei grenzüberschreitenden Fahren rese
     title="Eurocity (EC) / Eurocity-Express (ECE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Internationale Züge Richtung Deutschland und Italien.
@@ -85,8 +82,7 @@ Für den italienischen Abschnitt sind eine Reservierung und ein Zuschlag erforde
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Schnelle nationale Züge mit Halten nur in den wichtigsten Städten und Umstiegsbahnhöfen.
@@ -100,8 +96,7 @@ Einige [Nightjet](#nj)-Verbindungen werden mit `IC`-Sitzwagen geführt. Diese Si
     title="Nightjet (NJ) / EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Nightjet Nachtzüge der ÖBB und EuroNight Nachtzüge der ČD, MÁV und HŽ, die in der Schweiz von der SBB betrieben werden. Diese verkehren unter anderem nach Berlin, Dresden, Leipzig, Prag, Budapest, Ljubljana und Zagreb.
@@ -119,8 +114,7 @@ Eine Reservierung ist erforderlich, außer in Sitzwagen bei Intercity, Eurocity 
     title="Panorama Express (PE)"
     type="regional"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
     additional_information_url="https://www.sbb.ch/de/freizeit-ferien/zuege-schiffe/panoramareisen/gotthard-panorama-express.html"
 %}}
 
@@ -141,8 +135,7 @@ Die Züge führen nur Wagen der 1. Klasse. Zu einem Freifahrschein der 2. Klasse
     title="InterRegio (IR) / RegionalExpress (RE)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Nationale Züge mit Halten in größeren Städten.
@@ -154,8 +147,7 @@ Nationale Züge mit Halten in größeren Städten.
     title="Regio (R) / S-Bahn (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Züge mit Halt an allen Stationen. In Ballungszentren auch als S-Bahn bezeichnet.
@@ -185,8 +177,7 @@ Innerhalb Frankreichs und innerhalb der Schweiz gelten FIP Vergünstigungen wie 
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP Fahrkarten gelten nicht auf von der SBB betriebenen Buslinien. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.

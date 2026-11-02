@@ -49,8 +49,7 @@ Cost: \
     title="Railjet (RJ) / Railjet Xpress (RJX)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 National and international high-speed trains of ÖBB’s highest category. They run regularly between Austria’s major cities and to Germany, Italy, Czech Republic, Hungary, Slovakia, and Switzerland. Trains have 3 classes and a bistro. Railjets with fewer stops are marketed as Railjet Xpress.
@@ -76,8 +75,7 @@ For Railjets to Italy, a supplement is payable from the Italian border. See [Spe
     title="Intercity (IC) / Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Most `IC` trains on main routes have gradually been replaced by Railjets. `IC` trains still operate on secondary routes such as Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Vienna – Gmunden – Stainach-Irdning, and as supplements to Railjets on Vienna–Lienz (East Tyrol). There are also `IC` and `ICE` trains on some international routes to Germany in cooperation with Deutsche Bahn, with the Austrian section operated by ÖBB.
@@ -97,8 +95,7 @@ Reservation is mandatory sometimes in high season (summer) on international rout
     title="InterRegio (IR)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 From August 2025, InterRegio `IR` will be introduced as a new long-distance category on secondary routes, largely replacing previous `IC` services. Examples include Graz – Unzmarkt or Graz – Linz. The aim is to connect places to long-distance services that previously had few or no direct connections. Trains run every two or four hours.
@@ -110,8 +107,7 @@ From August 2025, InterRegio `IR` will be introduced as a new long-distance cate
     title="Eurocity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 International trains to neighboring countries operated by ÖBB in cooperation with other railways. Some of these services are also labeled as `IC`.
@@ -125,8 +121,7 @@ For Eurocity trains to Italy, a supplement is payable from the Italian border. S
     title="Nightjet (NJ) / EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 ÖBB night trains to various European countries. They offer sleeper, couchette, and seating cars and are operated abroad in cooperation with other railways.
@@ -151,8 +146,7 @@ For Nightjet trains, reservations/surcharges for sleeper and couchette cars can 
     title="D-Zug (D)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 `D` trains are mainly used as relief trains during peak times (e.g., Fridays and Sundays), usually only offer 2nd class, and provide no special comfort as they use older rolling stock.
@@ -166,8 +160,7 @@ For Nightjet trains, reservations/surcharges for sleeper and couchette cars can 
     title="Regionalexpress (REX) / Cityjet Xpress (CJX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Fast local train with fewer stops and modern rolling stock.
@@ -183,8 +176,7 @@ Regionalexpress trains are sometimes operated by other private railways where Ö
     title="Regionalzug (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Local train stopping at most stations.
@@ -202,8 +194,7 @@ The designation `R` Regionalzug is also used in ÖBB’s journey planner for pur
     title="Schnellbahn (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Local train at least hourly, stopping at all stations. Comparable to an S-Bahn.
@@ -226,8 +217,7 @@ Including:
     title="ÖBB Postbus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP Tickets are not valid on ÖBB Postbus. On rail replacement buses, FIP discounts apply when they replace a train on which FIP would have been valid.
