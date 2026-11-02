@@ -217,6 +217,12 @@ In some cases, the Cercanías can only be accessed via access gates. On site, st
 
 ## Ticket and Reservation Purchase
 
+{{% highlight important %}}
+Renfe is currently introducing a new ticketing system. This also affects the booking of FIP Tickets through external agencies and bookings through DB Reisezentrum. Booking restrictions are currently being reported. We will update this page as soon as concrete information is available.
+
+You can follow further updates in the [FIP Guide Community](https://discord.com/channels/1250522473188032512/1566155261691830424/1566155261691830424).
+{{% /highlight %}}
+
 ### Online
 
 It is not possible to book reservations, FIP Global Fare or FIP 50 online.
