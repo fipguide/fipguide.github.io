@@ -1,41 +1,51 @@
-const gallery = document.querySelector(".m-image-gallery");
-const galleryPictures = gallery.querySelector(".m-image-gallery__pictures");
+function initGallery() {
+  const gallery = document.querySelector(".m-image-gallery");
+  if (!gallery) return;
 
-const nextButton = gallery.querySelector("#next");
-const prevButton = gallery.querySelector("#prev");
+  const galleryPictures = gallery.querySelector(".m-image-gallery__pictures");
 
-// There is an problem with the scroll-snap on mobile devices, so we need to add the gap between the items when scrolling to make it work properly.
-const galleryGap = 15;
+  const nextButton = gallery.querySelector("#next");
+  const prevButton = gallery.querySelector("#prev");
 
-const getItemWidth = () =>
-  galleryPictures.children[0]?.getBoundingClientRect().width ??
-  galleryPictures.clientWidth;
+  // There is an problem with the scroll-snap on mobile devices, so we need to add the gap between the items when scrolling to make it work properly.
+  const galleryGap = 15;
 
-const updateButtonState = () => {
-  const maxScrollLeft =
-    galleryPictures.scrollWidth - galleryPictures.clientWidth;
+  const getItemWidth = () =>
+    galleryPictures.children[0]?.getBoundingClientRect().width ??
+    galleryPictures.clientWidth;
 
-  prevButton.disabled = galleryPictures.scrollLeft === 0;
-  nextButton.disabled = galleryPictures.scrollLeft >= maxScrollLeft;
-};
+  const updateButtonState = () => {
+    const maxScrollLeft =
+      galleryPictures.scrollWidth - galleryPictures.clientWidth;
 
-nextButton.addEventListener("click", () => {
-  galleryPictures.scrollTo({
-    left: galleryPictures.scrollLeft + getItemWidth() + galleryGap,
-    behavior: "smooth",
+    prevButton.disabled = galleryPictures.scrollLeft === 0;
+    nextButton.disabled = galleryPictures.scrollLeft >= maxScrollLeft;
+  };
+
+  nextButton.addEventListener("click", () => {
+    galleryPictures.scrollTo({
+      left: galleryPictures.scrollLeft + getItemWidth() + galleryGap,
+      behavior: "smooth",
+    });
   });
-});
 
-prevButton.addEventListener("click", () => {
-  galleryPictures.scrollTo({
-    left: galleryPictures.scrollLeft - getItemWidth() - galleryGap,
-    behavior: "smooth",
+  prevButton.addEventListener("click", () => {
+    galleryPictures.scrollTo({
+      left: galleryPictures.scrollLeft - getItemWidth() - galleryGap,
+      behavior: "smooth",
+    });
   });
-});
 
-galleryPictures.addEventListener("scroll", updateButtonState, {
-  passive: true,
-});
-window.addEventListener("resize", updateButtonState);
+  galleryPictures.addEventListener("scroll", updateButtonState, {
+    passive: true,
+  });
+  window.addEventListener("resize", updateButtonState);
 
-updateButtonState();
+  updateButtonState();
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  if (document.querySelector(".m-image-gallery")) {
+    initGallery();
+  }
+});
