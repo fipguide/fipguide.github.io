@@ -6,8 +6,7 @@ params:
   border_points:
     - pt-es
   border_points_footnotes:
-    - "[>] = Direction (par exemple : V. Real de Sto António Guardiana [> Ayamonte]
-      = le point frontalier à V. Real de Sto António Guardiana est orienté vers Ayamonte)"
+    - "[>] = Direction (par exemple : V. Real de Sto António Guardiana [> Ayamonte] = le point frontalier à V. Real de Sto António Guardiana est orienté vers Ayamonte)"
 content_images:
   - image.webp
 ---
