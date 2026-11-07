@@ -1,6 +1,5 @@
 ---
 title: Denmark
-country: denmark
 params:
   operators_without_fip:
     - Lokaltog
@@ -9,6 +8,9 @@ params:
     - Nordjyske Jernbaner
     - SJ
     - Snälltåget
+  border_points:
+    - dk-se
+    - dk-de
 content_images:
   - image.webp
 ---
@@ -38,14 +40,7 @@ Trains in Denmark typically run on a regular schedule and are generally punctual
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                          | Border Points                                                                  |
-| ------------------------------------------------ | ------------------------------------------------------------------------------ |
-| Sweden (SJ)                                      | Helsingborg (via Helsingør)                                                    |
-| [Germany](/country/germany) ([DB](/operator/db)) | Flensburg (Gr), Puttgarden (via Rødby Faerge), Tønder, Warnemünde (via Gedser) |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Sweden
 

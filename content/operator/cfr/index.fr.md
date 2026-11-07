@@ -1,8 +1,8 @@
 ---
 title: CFR Călători
+shortName: CFR
 country:
   - romania
-operator: cfr
 content_images:
   - image.webp
 aliases:

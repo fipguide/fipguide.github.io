@@ -1,12 +1,12 @@
 ---
 title: Eurostar
+shortName: Eurostar
 country:
   - belgium
   - germany
   - netherlands
   - united-kingdom
   - france
-operator: eurostar
 content_images:
   - image.webp
 aliases:

@@ -9,9 +9,9 @@ params:
 
 Ticket offices of the ŽFBH are only found at the most important stations. A list of the ticket offices is available at the bottom of the [ŽFBH website](https://www.zfbh.ba/en/kontakt/).
 
-{{< highlight inofficial >}}
+{{% highlight inofficial %}}
 At some ticket offices, tickets may only be paid for in cash.
-{{< /highlight >}}
+{{% /highlight %}}
 
 {{% booking-section "fip_50" %}}
 

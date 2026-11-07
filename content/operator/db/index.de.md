@@ -1,8 +1,8 @@
 ---
 title: DB
+shortName: DB
 country:
   - germany
-operator: db
 content_images:
   - image.webp
 aliases:
@@ -365,6 +365,11 @@ Zurzeit können temporär keine FIP 50 Tickets für nationale Fahrten innerhalb 
 %}}
 Die Reservierung von einzelnen Zügen ohne Umstieg ist über die ÖBB günstiger.
 {{% /booking %}}
+
+{{% booking id="sbb-ticket-office"
+    classes.first="6 CHF"
+    classes.second="6 CHF"
+/%}}
 
 ### Im Zug
 

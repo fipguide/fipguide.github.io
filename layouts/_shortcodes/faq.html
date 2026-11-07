@@ -1,7 +1,7 @@
 {{ range sort .Page.Pages "Weight" }}
   {{ partial "expander" (dict
     "Title" .Title
-    "Variant" "faq"
+    "Icon" "help"
     "Name" "faq"
     "Id" (printf "%s" (.File.Dir | path.Base | anchorize))
     "Content" .Content

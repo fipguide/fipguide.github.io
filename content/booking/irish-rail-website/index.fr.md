@@ -20,14 +20,13 @@ Les réservations pour la 2e classe peuvent être achetées en ligne. Pour ce fa
 
 ![Ouvrir les options passager](./reservation-step-1.png)
 
-{{% float-image
+{{< float-image
     src="reservation-step-2.png"
     alt="Sélection Free Travel Pass"
     width="50%"
-    position="left"
-%}}
+    position="left" >}}
 Ensuite, la sélection « Adults » peut être désactivée et l’option « Free Travel Pass » sélectionnée.
-{{% /float-image %}}
+{{< /float-image >}}
 
 Les réservations pour la 2e classe sont délivrées gratuitement. Seules quelques liaisons très fréquentées donnent lieu à des frais de réservation de 2,50 €.
 

@@ -1,8 +1,8 @@
 ---
 title: SBB CFF FFS
+shortName: SBB
 country:
   - switzerland
-operator: sbb
 content_images:
   - image.webp
 aliases:

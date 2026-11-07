@@ -92,6 +92,51 @@ x_fip_validity_target_fields_reduced: &fip_validity_target_fields_reduced
     group_type: "fip-reduced-ticket"
     required: false
 
+x_border_side: &border_side
+  - label: "Country"
+    name: "country"
+    widget: "object"
+    required: false
+    i18n: true
+    fields:
+      - label: "Country"
+        name: "id"
+        widget: "relation"
+        collection: "country"
+        search_fields: ["title"]
+        value_field: "{{slug}}"
+        display_fields: ["title"]
+        required: false
+        i18n: duplicate
+      - label: "Label"
+        name: "label"
+        widget: "string"
+        required: false
+        i18n: true
+        hint: "Only needed for countries without their own page, or to override the page title."
+  - label: "Operators"
+    name: "operators"
+    widget: "list"
+    required: false
+    i18n: true
+    summary: "{{fields.id}}{{fields.label}}"
+    fields:
+      - label: "Operator"
+        name: "id"
+        widget: "relation"
+        collection: "operator"
+        search_fields: ["title"]
+        value_field: "{{slug}}"
+        display_fields: ["title"]
+        required: false
+        i18n: duplicate
+      - label: "Label"
+        name: "label"
+        widget: "string"
+        required: false
+        i18n: true
+        hint: "Only needed for operators without their own page. The short name shown for operators with a page is set on the operator page itself."
+
 collections:
   - name: "news"
     label: "News"
@@ -118,6 +163,7 @@ collections:
       - label: "Publish Date"
         name: "date"
         widget: "datetime"
+        type: "date"
         i18n: duplicate
       - label: "Author"
         name: "author"
@@ -138,7 +184,7 @@ collections:
         widget: "relation"
         collection: "country"
         search_fields: ["title"]
-        value_field: "country"
+        value_field: "{{slug}}"
         display_fields: ["title"]
         multiple: true
         required: false
@@ -149,7 +195,7 @@ collections:
         widget: "relation"
         collection: "operator"
         search_fields: ["title"]
-        value_field: "operator"
+        value_field: "{{slug}}"
         display_fields: ["title"]
         multiple: true
         required: false
@@ -201,21 +247,38 @@ collections:
         name: "title"
         widget: "string"
         i18n: true
-      - label: "Country"
-        name: "country"
-        widget: "string"
-        i18n: duplicate
-      - name: params
-        label: "Parameters"
-        widget: object
+      - label: "Parameters"
+        name: "params"
+        widget: "object"
         i18n: true
+        collapsed: true
+        summary: "Operators & Border Points"
         fields:
-          - label: "Operators without FIP"
-            name: operators_without_fip
-            widget: list
+          - name: "operators_without_fip"
+            label: "Operators without FIP"
             label_singular: "Operator"
+            widget: "list"
+            required: false
             i18n: true
             hint: "List of operators in this country that do not accept FIP."
+          - name: "border_points"
+            label: "Border Points"
+            widget: "relation"
+            collection: "_singletons"
+            file: "borderpoints"
+            value_field: "{{borders.*.id}}"
+            display_fields: ["{{borders.*.id}}"]
+            search_fields: ["{{borders.*.id}}"]
+            multiple: true
+            required: false
+            i18n: duplicate
+            hint: "Border IDs in clockwise order, starting in the north of the country. To add or edit borders, see the [Border Points](/admin/#/collections/_singletons/entries/borderpoints) singleton."
+          - label: "Border Points Footnotes"
+            name: "border_points_footnotes"
+            widget: "list"
+            required: false
+            i18n: true
+            hint: "Optional footnotes shown below the border point table."
       - label: "Content Images"
         name: "content_images"
         widget: "image"
@@ -240,6 +303,7 @@ collections:
           - "wip"
           - "icon"
           - "footnote-reference"
+          - "border-points"
           - "identify-operator"
           - "columns"
           - "footnote"
@@ -261,21 +325,22 @@ collections:
         name: "title"
         widget: "string"
         i18n: true
+      - label: "Short Name"
+        name: "shortName"
+        widget: "string"
+        required: false
+        i18n: true
+        hint: "Abbreviation shown in border point tables, e.g. “DB” instead of the full title. Falls back to the title if not set."
       - label: "Countries"
         name: "country"
         widget: "relation"
         collection: "country"
         search_fields: ["title"]
-        value_field: "country"
+        value_field: "{{slug}}"
         display_fields: ["title"]
         multiple: true
         i18n: duplicate
         hint: "List of countries the operator operates in."
-      - label: "Operator"
-        name: "operator"
-        widget: "string"
-        i18n: duplicate
-        hint: A unique identifier of the operator (slug).
       - label: "Content Images"
         name: "content_images"
         widget: "image"
@@ -473,7 +538,7 @@ collections:
             widget: "relation"
             collection: "operator"
             search_fields: ["title"]
-            value_field: "operator"
+            value_field: "{{slug}}"
             display_fields: ["title"]
             hint: "The operator this validity information applies to."
           - label: "FIP Coupon"
@@ -748,7 +813,7 @@ collections:
         editor_components:
           - "image2"
           - "table"
-          - "highlight-raw"
+          - "highlight"
           - "expander"
           - "booking-section"
           - "button"
@@ -968,3 +1033,49 @@ collections:
           - "footnote-reference"
           - "columns"
           - "footnote"
+
+singletons:
+  - name: "borderpoints"
+    label: "Border Points"
+    label_singular: "Border Point"
+    editor:
+      second_pane: false
+    file: "content/country/borderpoints.{{locale}}.yaml"
+    i18n: true
+    fields:
+      - label: "Borders"
+        name: "borders"
+        widget: "list"
+        root: true
+        map_key_field: "id"
+        i18n: true
+        collapsed: true
+        summary: "{{fields.id}}"
+        hint: "Each border is defined once; both country tables are generated from it."
+        fields:
+          - label: "ID"
+            name: "id"
+            widget: "string"
+            pattern:
+              ["^[a-z0-9-]+$", "Use lowercase letters, digits and hyphens only"]
+            i18n: duplicate
+            hint: 'Unique identifier, e.g. "at-cz". Referenced in the Border Points field on each Country page.'
+          - label: "Side A"
+            name: "a"
+            widget: "object"
+            i18n: true
+            collapsed: true
+            summary: "Country & Operators"
+            fields: *border_side
+          - label: "Side B"
+            name: "b"
+            widget: "object"
+            i18n: true
+            collapsed: true
+            summary: "Country & Operators"
+            fields: *border_side
+          - label: "Border Points"
+            name: "points"
+            widget: "list"
+            i18n: true
+            hint: "One name per crossing, shown in both country tables."

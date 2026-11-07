@@ -1,6 +1,5 @@
 ---
 title: Pologne
-country: poland
 params:
   operators_without_fip:
     - Arriva
@@ -9,6 +8,14 @@ params:
     - Szybka Kolej Miejska w Warszawie
     - Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL)
     - Warszawska Kolej Dojazdowa (WKD)
+  border_points:
+    - pl-ru
+    - lt-pl
+    - pl-by
+    - pl-ua
+    - pl-sk
+    - cz-pl
+    - de-pl
 content_images:
   - image.webp
 ---
@@ -39,19 +46,7 @@ L’état, la densité et la fréquence des lignes ferroviaires dépendent souve
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays                                                          | Points frontières                                                                                                 |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Russie (RZD)                                                  | Braniewo (Gr)                                                                                                     |
-| [Lituanie](/country/lithuania) ([LTG-Link](/operator/ltg))    | Mockava (Gr)                                                                                                      |
-| Biélorussie (BC)                                              | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Voïvodie de Podlachie)                                  |
-| Ukraine (UZ)                                                  | Jagodin (Gr) (Yahodyn, Yagodyn ou Ягодин), Medyka (Gr)                                                            |
-| [Slovaquie](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Lupkow (Gr)                                                                                                       |
-| [Tchéquie](/country/czechia) ([ČD](/operator/cd))             | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr)     |
-| [Allemagne](/country/germany) ([DB AG](/operator/db))         | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Russie
 
@@ -97,10 +92,10 @@ Les autres liaisons régionales transfrontalières ne peuvent être utilisées a
 
 Depuis l’Allemagne, le réseau polonais peut être atteint par plusieurs voies. Le passage frontalier le plus utilisé est à Frankfurt (Oder). Des trains Eurocity entre Berlin et Varsovie circulent toutes les 2 heures pendant la journée via ce passage. De plus, des services individuels entre Berlin et Gdynia / Cracovie / Przemysl peuvent également être trouvés dans les horaires.
 
-En plus des trains grandes lignes, quelques trains régionaux circulent également entre Francfort (Oder) et Rzepin / Zielona Góra, qui peuvent être utilisés comme les trains « EC » avec des Billets FIP PKP plus un billet pour la section DB.
+En plus des trains grandes lignes, quelques trains régionaux circulent également entre Francfort (Oder) et Rzepin / Zielona Góra, qui peuvent être utilisés comme les trains « EC » avec des Billets FIP de [PKP](/operator/pkp) plus un billet pour la section [DB](/operator/db).
 
-Uniquement dans le trafic grandes lignes, depuis décembre 2025, le passage frontalier de Horka est également utilisé pour les trains directs entre Leipzig et Wrocław, Cracovie jusqu’à Przemyśl. Ces trains « EC » peuvent également être empruntés avec des Billets FIP de la PKP plus un billet pour la section DB.
+Uniquement dans le trafic grandes lignes, depuis décembre 2025, le passage frontalier de Horka est également utilisé pour les trains directs entre Leipzig et Wrocław, Cracovie jusqu’à Przemyśl. Ces trains « EC » peuvent également être empruntés avec des Billets FIP de la [PKP](/operator/pkp) plus un billet pour la section [DB](/operator/db).
 
-Les autres passages frontaliers ne sont actuellement desservis que par des trains régionaux. Pour les trains passant par Forst, Grambow, Guben et Tantow, la même règle s’applique que pour les passages frontaliers mentionnés ci-dessus, c’est-à-dire qu’il faut disposer de Billets FIP de la PKP plus un billet pour la section DB. À Kostrzyn, l’opérateur côté allemand est la Niederbarnimer Eisenbahn (NEB), où les Billets FIP ne sont pas valables ; pour la section polonaise, les Billets FIP de la PKP devraient être valables.
+Les autres passages frontaliers ne sont actuellement desservis que par des trains régionaux. Pour les trains passant par Forst, il faut disposer de Billets FIP de la [PKP](/operator/pkp) ou de la [KD](/operator/kd) (vérifiez au préalable l’opérateur !), ainsi que d’un billet pour la section [DB](/operator/db) ; pour les trains passant par Grambow, Guben et Tantow, des Billets FIP de la [PKP](/operator/pkp) plus un billet pour la section [DB](/operator/db) sont requis. À Kostrzyn, l’opérateur côté allemand est la Niederbarnimer Eisenbahn (NEB), où les Billets FIP ne sont pas valables ; pour la section polonaise, les Billets FIP de la [PKP](/operator/pkp) devraient être valables.
 
 Une particularité concerne le passage frontalier de Zgorzelec : pour la section entre Görlitz (Allemagne) et la gare de Zgorzelec, aucun billet n’est nécessaire.

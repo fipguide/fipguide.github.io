@@ -20,14 +20,13 @@ Reservations for 2nd class can be purchased online. To do so, the passenger opti
 
 ![Open passenger options](./reservation-step-1.png)
 
-{{% float-image
+{{< float-image
     src="reservation-step-2.png"
     alt="Select Free Travel Pass"
     width="50%"
-    position="left"
-%}}
+    position="left" >}}
 Then the "Adults" selection can be deselected and the "Free Travel Pass" option selected.
-{{% /float-image %}}
+{{< /float-image >}}
 
 Reservations for 2nd class are issued free of charge. Only on some heavily used services are reservation fees of 2.50 € charged.
 

@@ -2,6 +2,10 @@
 date: 2026-10-04
 title: "DB Regio services in the Neckar Valley now available with FIP"
 description: DB Regio Stuttgart has been fully integrated into DB Regio Baden-Württemberg since 1 August 2026, meaning that trains in the Neckar Valley can now be used with FIP.
+country:
+  - germany
+operator:
+  - db
 content_images:
   - image.webp
 ---

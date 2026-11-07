@@ -1,8 +1,8 @@
 ---
 title: Trenitalia
+shortName: FS
 country:
   - italy
-operator: trenitalia
 content_images:
   - image.webp
 aliases:
@@ -336,6 +336,11 @@ InterCity Notte (ICN): 25 € (1./2. Klasse, Sitzwagen)
 {{% /highlight %}}
 {{% /booking %}}
 
+{{% booking id="sbb-ticket-office"
+    subtitle="Nur für SBB Mitarbeitende und nicht für alle Verbindungen verfügbar"
+    classes=nil
+/%}}
+
 ### Im Zug
 
 Wenn Zuschläge nicht vor Reisebeginn erworben werden, wird ein zusätzlicher Bordzuschlag erhoben (außer in Fällen, in denen es am Abfahrtsbahnhof keine Verkaufsstellen oder Fahrkartenautomaten gibt).
@@ -405,44 +410,40 @@ Bei Regionalzügen wird in zuggebunden (_prenotabile_) und nicht zuggebunden (_n
 **Zuggebunden:** \
 Tickets für zuggebundene Züge gelten ausschließlich für den auf dem Ticket angegebenen Zug. Die zuggebundenen Züge sind erkennbar an:
 
-{{% float-image
+{{< float-image
     src="prenotabile_2.webp"
     alt="FS Prenotabile Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 Der Bemerkung "prenotabile" in den Zuginformationen:
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="prenotabile_1.webp"
     alt="FS Prenotabile Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 Der Ticketbezeichnung "Prenotazione - Ordinaria":
-{{% /float-image %}}
+{{< /float-image >}}
 
 **Nicht Zuggebunden:** \
 Tickets, die für nicht zuggebundene Züge gekauft werden, sind in dem gebuchten Zug und und allen anderen nicht zuggebundenen Zügen auf der Strecke gültig, jedoch nicht in zugebundenen Zügen.
 
-{{% float-image
+{{< float-image
     src="ordinaria_2.webp"
     alt="FS Ordinaria Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 Der Bemerkung "non prenotabile" in den Zuginformationen:
-{{% /float-image %}}
+{{< /float-image >}}
 
-{{% float-image
+{{< float-image
     src="ordinaria_1.webp"
     alt="FS Ordinaria Ticket"
     width="60%"
-    position="right"
-%}}
+    position="right" >}}
 Der Ticketbezeichung "Ordinaria":
-{{% /float-image %}}
+{{< /float-image >}}
 
 {{% /expander %}}
 

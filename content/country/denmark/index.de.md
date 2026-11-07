@@ -1,6 +1,5 @@
 ---
 title: Dänemark
-country: denmark
 params:
   operators_without_fip:
     - Lokaltog
@@ -9,6 +8,9 @@ params:
     - Nordjyske Jernbaner
     - SJ
     - Snälltåget
+  border_points:
+    - dk-se
+    - dk-de
 content_images:
   - image.webp
 ---
@@ -38,14 +40,7 @@ Auf diesen verkehren Fernverkehrszüge mit einer überdurchschnittlichen Durchsc
 
 ## Anreise und Grenzpunkte
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land                                                 | Grenzpunkte                                                                      |
-| ---------------------------------------------------- | -------------------------------------------------------------------------------- |
-| Schweden (SJ)                                        | Helsingborg (über Helsingør)                                                     |
-| [Deutschland](/country/germany) ([DB](/operator/db)) | Flensburg (Gr), Puttgarden (über Rødby Faerge), Tønder, Warnemünde (über Gedser) |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Schweden
 

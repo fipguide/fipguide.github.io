@@ -1,8 +1,8 @@
 ---
 title: KD
+shortName: KD
 country:
   - poland
-operator: kd
 content_images:
   - image.webp
 aliases:

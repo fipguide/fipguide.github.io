@@ -1,8 +1,8 @@
 ---
 title: SV
+shortName: SV
 country:
   - serbia
-operator: sv
 content_images:
   - image.webp
 ---

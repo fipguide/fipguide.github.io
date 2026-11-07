@@ -1,6 +1,5 @@
 ---
 title: Poland
-country: poland
 params:
   operators_without_fip:
     - Arriva
@@ -9,6 +8,14 @@ params:
     - Szybka Kolej Miejska w Warszawie
     - Stowarzyszenie Kolejowych Przewozów Lokalnych (SKPL)
     - Warszawska Kolej Dojazdowa (WKD)
+  border_points:
+    - pl-ru
+    - lt-pl
+    - pl-by
+    - pl-ua
+    - pl-sk
+    - cz-pl
+    - de-pl
 content_images:
   - image.webp
 ---
@@ -39,19 +46,7 @@ The condition, density and frequency of railway lines are often very dependent o
 
 ## Arrival and Border Points
 
-{{% expander "Border Points" border %}}
-
-| Country                                                      | Border Points                                                                                                     |
-| ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| Russia (RZD)                                                 | Braniewo (Gr)                                                                                                     |
-| [Lithuania](/country/lithuania) ([LTG-Link](/operator/ltg))  | Mockava (Gr)                                                                                                      |
-| Belarus (BC)                                                 | Brest (Gr) (Брэст), Bruzgi / Bruzhi (Gr), Czeremcha (Gr) (Podlaskie Voivodeship)                                  |
-| Ukraine (UZ)                                                 | Jagodin (Gr) (Yahodyn, Yagodyn or Ягодин), Medyka (Gr)                                                            |
-| [Slovakia](/country/slovakia) ([ZSSK / ŽSR](/operator/zssk)) | Lupkow (Gr)                                                                                                       |
-| [Czechia](/country/czechia) ([ČD](/operator/cd))             | Bohumin (Gr), Cesky Tesin (Gr), Głuchołazy / Hlucholazy (Gr), Harrachov (Gr), Lichkov (Gr), Zebrzydowice (Gr)     |
-| [Germany](/country/germany) ([DB AG](/operator/db))          | Forst (Gr), Frankfurt/Oder (Gr), Grambow (Gr), Guben (Gr), Horka (Gr), Kostrzyn (Gr), Tantow (Gr), Zgorzelec (Gr) |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Russia
 
@@ -97,10 +92,10 @@ Further cross-border regional train connections can only be used with FIP on the
 
 From Germany, the Polish network can be reached via several routes. The most used border crossing is in Frankfurt (Oder). Eurocity trains between Berlin and Warsaw run every 2 hours during the day via this crossing. In addition, individual services between Berlin and Gdynia / Krakow / Przemysl can also be found in the timetable.
 
-In addition to the long-distance trains, there are also individual regional trains between Frankfurt (Oder) and Rzepin / Zielona Góra, which like the `EC` trains can be used with PKP FIP Tickets plus ticket for the DB section.
+In addition to the long-distance trains, there are also individual regional trains between Frankfurt (Oder) and Rzepin / Zielona Góra, which like the `EC` trains can be used with [PKP](/operator/pkp) FIP Tickets plus ticket for the [DB](/operator/db) section.
 
-Exclusively in long-distance traffic, the Horka border crossing has also been used since December 2025 for direct trains between Leipzig and Wrocław, Krakow to Przemyśl. These `EC` trains can also be used with PKP FIP Tickets plus ticket for the DB section.
+Exclusively in long-distance traffic, the Horka border crossing has also been used since December 2025 for direct trains between Leipzig and Wrocław, Krakow to Przemyśl. These `EC` trains can also be used with [PKP](/operator/pkp) FIP Tickets plus ticket for the [DB](/operator/db) section.
 
-The other border crossings are currently only served by regional traffic. For trains via Forst, Grambow, Guben and Tantow, the same rule applies as for the border crossings mentioned above, so FIP Tickets from PKP plus ticket for the DB section must be available. At Kostrzyn, the operator on the German side is Niederbarnimer Eisenbahn (NEB), for which no FIP Tickets are valid, for the Polish section PKP FIP Tickets should be valid.
+The other border crossings are currently only served by regional traffic. For trains via Forst, either [PKP](/operator/pkp) or [KD](/operator/kd) FIP Tickets must be available (check the operator beforehand!), together with a ticket for the [DB](/operator/db) section; for trains via Grambow, Guben and Tantow, [PKP](/operator/pkp) FIP Tickets plus a ticket for the [DB](/operator/db) section are required. At Kostrzyn, the operator on the German side is Niederbarnimer Eisenbahn (NEB), for which no FIP Tickets are valid, for the Polish section [PKP](/operator/pkp) FIP Tickets should be valid.
 
 A special feature is the Zgorzelec border crossing, here no ticket is required for the section between German Görlitz and Zgorzelec station.

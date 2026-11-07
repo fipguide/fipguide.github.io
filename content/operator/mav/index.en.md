@@ -1,8 +1,8 @@
 ---
 title: MÁV-START
+shortName: MÁV
 country:
   - hungary
-operator: mav
 content_images:
   - image.webp
 ---

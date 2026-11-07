@@ -1,9 +1,12 @@
 ---
 title: "{{ .File.ContentBaseName | title }}" # Ändere den Name auf den deutschen Ländernamen
-country: "{{ .File.ContentBaseName }}"
 params:
   operators_without_fip:
     -  # Liste Betreiber, die kein FIP akzeptieren
+  border_points:
+    -  # Grenzpunkt-IDs im Uhrzeigersinn, startend im Norden des Landes, wie in `content/country/borderpoints.de.yaml` definiert
+  border_points_footnotes:
+    -  # Optionale Fußnoten unter der Grenzpunkt-Tabelle
 content_images:
   - "image.webp"
 ---
@@ -40,15 +43,10 @@ content_images:
 ## Anreise und Grenzpunkte
 
 <!--
-Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese sollten aufgeführt sein als Land (Bahngesellschaft) und ihre Grenzpunkte. Die Auflistung erfolgt im Uhrzeigersinn, startend im Norden des Landes.
+Nur Grenzpunkte an der Landesgrenze zu anderen Ländern. Diese werden in `content/country/borderpoints.de.yaml` (Details pro Grenze) und über `params.border_points` im Frontmatter dieser Seite (Reihenfolge der Zeilen, im Uhrzeigersinn startend im Norden des Landes) gepflegt und hier automatisch als Tabelle ausgegeben.
 -->
 
-{{% expander "Grenzpunkte" border %}}
-
-| Land | Grenzpunkte |
-| ---- | ----------- |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### <Name des Nachbarlandes>
 

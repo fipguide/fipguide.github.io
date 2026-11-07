@@ -1,12 +1,13 @@
 ---
 title: Norvège
-country: norway
 params:
   operators_without_fip:
     - Arctic Train
     - Chemin de fer de Flåm
     - Flytoget Airport Express
     - SJ Sverige
+  border_points:
+    - no-se
 content_images:
   - image.webp
 ---
@@ -33,13 +34,7 @@ L’entreprise publique _Entur_ joue un rôle central dans les transports public
 
 ## Arrivée et points frontières
 
-{{% expander "Points frontières" border %}}
-
-| Pays       | Points frontières                                                                   |
-| ---------- | ----------------------------------------------------------------------------------- |
-| Suède (SJ) | Bjørnfjell (Gr), Halden (Kornsjø (Gr)), Kongsvinger (Charlottenberg (Gr)), Storlien |
-
-{{% /expander %}}
+{{< border-points >}}
 
 ### Suède
 
