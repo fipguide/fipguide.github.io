@@ -1,0 +1,13 @@
+{{- $contentImageData := partial "helper/contentImage" . -}}
+{{- $contentImage := $contentImageData.firstImage -}}
+{{- if reflect.IsImageResourceProcessable $contentImage -}}
+  {{- $image := $contentImage.Fill "1200x630 center jpg q85" -}}
+  {{- if eq $contentImageData.contentImageType "image" -}}
+    {{- $logo := resources.Get "images/og-image-overlay.jpg" -}}
+    {{- $overlay := images.Overlay $logo 0 0 -}}
+    {{- $image = $image | images.Filter $overlay -}}
+  {{- end -}}
+  {{- return $image -}}
+{{- else -}}
+  {{- return resources.Get "images/og-image.jpg" -}}
+{{- end -}}
