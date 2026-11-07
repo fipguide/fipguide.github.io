@@ -292,7 +292,9 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="sncf-ticket-office" /%}}
 
-{{% booking id="sncf-nomad-ticket-machine" /%}}
+{{% booking id="sncf-nomad-ticket-machine"
+    subtitle="Vraisemblablement, vente possible uniquement pour les trains NOMAD TER"
+/%}}
 
 {{% booking id="zou-ticket-office" /%}}
 

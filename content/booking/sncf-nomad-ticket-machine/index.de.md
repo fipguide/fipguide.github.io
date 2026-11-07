@@ -18,6 +18,8 @@ params:
 
 Die Ticketautomaten in der Region Normandie, die als SNCF Nomad Automaten bekannt sind, bieten die Möglichkeit, FIP 50 und FIP 75 Tickets sowie Reservierungen zu erwerben. Ein Upgrade von der zweiten Klasse in die erste Klasse ist ebenfalls möglich.
 
+Uns ist nicht bekannt, ob an den Automaten nur Tickets für NOMAD `TER` Züge gekauft werden können oder auch für `TGV` und andere Züge.
+
 {{% /float-image %}}
 
 {{% booking-section "fip_50" %}}

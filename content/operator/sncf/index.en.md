@@ -292,7 +292,9 @@ Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="sncf-ticket-office" /%}}
 
-{{% booking id="sncf-nomad-ticket-machine" /%}}
+{{% booking id="sncf-nomad-ticket-machine"
+    subtitle="Likely only for NOMAD TER trains"
+/%}}
 
 {{% booking id="zou-ticket-office" /%}}
 

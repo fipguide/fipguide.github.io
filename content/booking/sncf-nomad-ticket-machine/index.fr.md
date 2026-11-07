@@ -18,6 +18,8 @@ params:
 
 Les bornes de billetterie de la région Normandie, appelées bornes SNCF Nomad, permettent d'acheter des billets FIP 50 et FIP ​​75, ainsi que d'effectuer des réservations. Il est également possible de réaliser un surclassement de la seconde vers la première classe.
 
+Nous ignorons si les automates permettent uniquement l'achat de billets pour les trains NOMAD `TER`, ou s'il est également possible d'y acheter des billets pour des `TGV` et d'autres trains.
+
 {{% /float-image %}}
 
 {{% booking-section "fip_50" %}}

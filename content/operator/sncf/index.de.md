@@ -292,7 +292,9 @@ Nationale Verbindungen können online leider nicht erworben werden.
 
 {{% booking id="sncf-ticket-office" /%}}
 
-{{% booking id="sncf-nomad-ticket-machine" /%}}
+{{% booking id="sncf-nomad-ticket-machine"
+    subtitle="Vermutlich nur Verkauf für NOMAD TER-Züge möglich"
+/%}}
 
 {{% booking id="zou-ticket-office" /%}}
 

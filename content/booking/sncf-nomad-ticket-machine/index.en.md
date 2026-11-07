@@ -18,6 +18,8 @@ params:
 
 The ticket machines in the Normandy region, known as SNCF Nomad machines, allow for the purchase of FIP 50 and FIP 75 tickets, as well as seat reservations. Upgrades from second class to first class are also available.
 
+We do not know whether the ticket machines can be used only for NOMAD `TER` trains, or also for `TGV` and other trains.
+
 {{% /float-image %}}
 
 {{% booking-section "fip_50" %}}
