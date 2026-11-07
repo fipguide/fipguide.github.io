@@ -384,6 +384,7 @@ de-pl:
       id: poland
     operators:
       - id: pkp
+      - id: kd
   points:
     - Ahlbeck (Gr)
     - Forst (Gr)

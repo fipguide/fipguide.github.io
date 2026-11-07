@@ -217,6 +217,12 @@ Teilweise sind die Cercanías nur über Zugangsschranken erreichbar. Vor Ort mus
 
 ## Ticket- und Reservierungskauf
 
+{{% highlight important %}}
+Die Renfe führt derzeit ein neues Ticketsystem ein. Dies hat auch Auswirkungen auf die Buchung von FIP Tickets über externe Agenturen und die Buchung über das DB Reisezentrum. Derzeit wird von Einschränkungen bei der Buchung berichtet. Sobald uns konkrete Informationen vorliegen, werden wir diese Seite aktualisieren.
+
+Weitere Updates kannst du in der [FIP Guide Community](https://discord.com/channels/1250522473188032512/1566155261691830424/1566155261691830424) verfolgen.
+{{% /highlight %}}
+
 ### Online
 
 Die Buchung von Reservierungen, FIP Globalpreis oder FIP 50 ist online nicht möglich.
