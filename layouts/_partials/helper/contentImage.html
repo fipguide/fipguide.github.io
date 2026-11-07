@@ -1,4 +1,5 @@
 {{ $contentImages := slice }}
+{{ $contentImageType := "image" }}
 {{ with .Params.content_images }}
   {{ range . }}
     {{ $imagePath := strings.TrimPrefix "./" . }}
@@ -7,10 +8,14 @@
     {{ end }}
   {{ end }}
 {{ end }}
-{{ if not $contentImages }}
+{{ if and (not $contentImages) (eq .Kind "single") }}
   {{ $contentImages = slice (resources.Get "images/default.webp") }}
+  {{ $contentImageType = "single-default" }}
+{{ else if not $contentImages }}
+  {{ $contentImages = slice (resources.Get "images/og-image.jpg") }}
+  {{ $contentImageType = "content-default" }}
 {{ end }}
 
 {{ $firstImage := index $contentImages 0 }}
 
-{{ return dict "image" $firstImage "firstImage" $firstImage "images" $contentImages }}
+{{ return dict "image" $firstImage "firstImage" $firstImage "images" $contentImages "contentImageType" $contentImageType }}
