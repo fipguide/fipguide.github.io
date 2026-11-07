@@ -309,7 +309,7 @@ var confusionFields = [
     widget: "relation",
     collection: "country",
     search_fields: ["title"],
-    value_field: "country",
+    value_field: "{{slug}}",
     display_fields: ["title"],
     param: { positional: true, required: true },
   },

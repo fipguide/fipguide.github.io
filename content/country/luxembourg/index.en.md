@@ -1,6 +1,5 @@
 ---
 title: Luxembourg
-country: luxembourg
 params:
   border_points:
     - be-lu

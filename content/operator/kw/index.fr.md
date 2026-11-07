@@ -2,7 +2,6 @@
 title: KW
 country:
   - poland
-operator: kw
 content_images:
   - image.webp
 aliases:

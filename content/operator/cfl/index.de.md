@@ -3,7 +3,6 @@ title: CFL
 shortName: CFL
 country:
   - luxembourg
-operator: cfl
 content_images:
   - image.webp
 aliases:

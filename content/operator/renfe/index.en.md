@@ -4,7 +4,6 @@ shortName: Renfe
 country:
   - spain
   - france
-operator: renfe
 content_images:
   - image.webp
 aliases:
@@ -217,6 +216,12 @@ In some cases, the Cercanías can only be accessed via access gates. On site, st
 **Premium**: An XL Comfort seat including catering. Comparable to 1st class. A FIP-Card 1st class is required. [More Information](https://www.renfe.com/es/en/travel/prepare-your-trip/billetes-ave-y-largadistancia/premium)
 
 ## Ticket and Reservation Purchase
+
+{{% highlight important %}}
+Renfe is currently introducing a new ticketing system. This also affects the booking of FIP Tickets through external agencies and bookings through DB Reisezentrum. Booking restrictions are currently being reported. We will update this page as soon as concrete information is available.
+
+You can follow further updates in the [FIP Guide Community](https://discord.com/channels/1250522473188032512/1566155261691830424/1566155261691830424).
+{{% /highlight %}}
 
 ### Online
 

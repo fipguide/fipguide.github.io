@@ -1,6 +1,5 @@
 ---
 title: Monténégro
-country: montenegro
 params:
   border_points:
     - me-rs

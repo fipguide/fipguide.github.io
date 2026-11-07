@@ -3,7 +3,6 @@ title: BDŽ
 shortName: BDŽ
 country:
   - bulgaria
-operator: bdz
 content_images:
   - image.webp
 aliases:

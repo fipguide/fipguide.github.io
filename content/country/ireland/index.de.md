@@ -1,6 +1,5 @@
 ---
 title: Irland
-country: ireland
 params:
   operators_without_fip:
     - Transdev (Luas - Straßenbahn Dublin)
