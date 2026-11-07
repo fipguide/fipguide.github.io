@@ -292,6 +292,10 @@ Les trajets nationaux ne peuvent malheureusement pas être achetés en ligne.
 
 {{% booking id="sncf-ticket-office" /%}}
 
+{{% booking id="sncf-nomad-ticket-machine"
+    subtitle="Vraisemblablement, vente possible uniquement pour les trains NOMAD TER"
+/%}}
+
 {{% booking id="zou-ticket-office" /%}}
 
 {{% booking id="transilien-ticket-office"
@@ -377,6 +381,8 @@ Cette obligation s’applique aux lignes suivantes :
 
 - Paris – Argentan – Granville
 - Paris – Dieppe
+
+Pour ces trains, des réservations peuvent être effectuées sur place aux [automates SNCF Nomad](#sncf-nomad-ticket-machine).
 
 #### TER Grand Est
 

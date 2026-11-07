@@ -292,6 +292,10 @@ Domestic journeys unfortunately cannot be purchased online.
 
 {{% booking id="sncf-ticket-office" /%}}
 
+{{% booking id="sncf-nomad-ticket-machine"
+    subtitle="Likely only for NOMAD TER trains"
+/%}}
+
 {{% booking id="zou-ticket-office" /%}}
 
 {{% booking id="transilien-ticket-office"
@@ -377,6 +381,8 @@ This reservation requirement applies to the following lines:
 
 - Paris – Argentan – Granville
 - Paris – Dieppe
+
+For these trains, reservations can be purchased on-site at the [SNCF Nomad ticket machines](#sncf-nomad-ticket-machine).
 
 #### TER Grand Est
 
