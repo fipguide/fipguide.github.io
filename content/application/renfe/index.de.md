@@ -14,3 +14,7 @@ Als FIP-berechtigte Kinder beziehungsweise Waisen gelten:
 ## FIP Ermäßigtes Ticket
 
 {{< fip-validity-table type="fip-reduced-ticket" >}}
+
+## Quellen
+
+[Guía de uso de facilidades internacionales de transporte para personal ferroviario (FIP)](https://ferroviaris.fesmcugt.cat/download/impresos_i_formularis/grupo_renfe/billete_internacional/GUIA-BILLETE-INTERNACIONAL.pdf)

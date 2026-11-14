@@ -16,3 +16,7 @@ Les enfants ou orphelins éligibles au FIP sont :
 ## Billet FIP à tarif réduit
 
 {{< fip-validity-table type="fip-reduced-ticket" >}}
+
+## Sources
+
+[Guía de uso de facilidades internacionales de transporte para personal ferroviario (FIP)](https://ferroviaris.fesmcugt.cat/download/impresos_i_formularis/grupo_renfe/billete_internacional/GUIA-BILLETE-INTERNACIONAL.pdf)
