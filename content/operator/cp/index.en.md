@@ -158,7 +158,9 @@ The Celta is an international cooperation service between CP and Renfe from Port
 
 ### On the Train
 
-If no CP sales office is available at the origin station or it is not staffed more than 24 hours before departure, tickets can be purchased on board. This is among other available inside the Badajoz Entrocamento connection.[^1]
+If no CP sales office is available at the origin station or it is not staffed more than 24 hours before departure, tickets can be purchased on board. [^1]
+
+This is particularly relevant for cross-border trains, such as the Badajoz–Entroncamento connection, where no CP sales offices are available.
 
 ## Discounts
 

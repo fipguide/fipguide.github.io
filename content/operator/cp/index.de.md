@@ -160,6 +160,8 @@ Der Celta ist ein internationaler Kooperationszug zwischen der CP und der spanis
 
 Wenn keine Verkaufsstelle der CP am Startbahnhof vorhanden ist oder mehr als 24 Stunden vor Abfahrt nicht besetzt ist, können Tickets im Zug gekauft werden. [^1]
 
+Dies ist unter anderem bei grenzüberschreitenden Zügen, wie auf der Verbindung Badajoz – Entroncamento relevant, da hier keine Verkaufsstellen der CP vorhanden sind.
+
 ## Ermäßigungen
 
 {{< children-discount >}}
