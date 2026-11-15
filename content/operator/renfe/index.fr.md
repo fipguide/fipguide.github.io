@@ -217,6 +217,12 @@ Dans certains cas, les Cercanías ne sont accessibles que par des portiques. Sur
 
 ## Achat de billets et réservations
 
+{{% highlight important %}}
+Renfe met actuellement en place un nouveau système de billetterie. Cela a également des répercussions sur la réservation de Billets FIP auprès d’agences externes et dans les centres de services DB. Des restrictions de réservation sont actuellement signalées. Nous mettrons cette page à jour dès que nous disposerons d’informations concrètes.
+
+Vous pouvez suivre les prochaines mises à jour dans la [communauté FIP Guide](https://discord.com/channels/1250522473188032512/1566155261691830424/1566155261691830424).
+{{% /highlight %}}
+
 ### En ligne
 
 Les Billets FIP Global et FIP 50 ne peuvent pas être achetés en ligne.

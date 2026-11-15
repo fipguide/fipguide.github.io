@@ -160,6 +160,8 @@ Le Celta est un train international en coopération entre la CP et Renfe entre P
 
 Si aucune billetterie CP n’est disponible à la gare de départ ou si elle n’est pas ouverte plus de 24 heures avant le départ, les billets peuvent être achetés à bord du train. [^1]
 
+Cela est particulièrement pertinent pour les trains transfrontaliers, tels que la liaison Badajoz – Entroncamento, où il n’y a pas de guichets CP disponibles.
+
 ## Réductions
 
 {{< children-discount >}}
