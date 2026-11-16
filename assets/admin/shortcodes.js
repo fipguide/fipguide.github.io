@@ -1156,6 +1156,25 @@ CMS.registerEditorComponent({
 });
 
 CMS.registerEditorComponent({
+  id: "border-points",
+  label: "Border Points",
+  icon: "share_location",
+  fields: [],
+  pattern: selfClosingPattern("border-points"),
+  fromBlock: function () {
+    return {};
+  },
+  toBlock: makeToBlock("border-points", {
+    bracket: "<",
+    fields: [],
+    bodyMode: "none",
+  }),
+  toPreview: function () {
+    return "";
+  },
+});
+
+CMS.registerEditorComponent({
   id: "children-discount",
   label: "Children Discount Notice",
   icon: "child_care",
