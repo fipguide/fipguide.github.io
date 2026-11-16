@@ -631,15 +631,6 @@ var bookingFields = [
     },
   },
   {
-    name: "booking_data_link",
-    label: "Booking Platform Link",
-    widget: "cms-edit-link",
-    static: true,
-    required: false,
-    href: "#/collections/booking",
-    label_template: "Manage Booking Platforms \u2192",
-  },
-  {
     name: "subtitle",
     label: "Subtitle",
     widget: "string",
@@ -752,7 +743,6 @@ CMS.registerEditorComponent({
     var rawId = p.id ? String(p.id) : "";
     return {
       id: rawId,
-      booking_data_link: rawId,
       subtitle: String(p.subtitle || ""),
       classes_first: String(p["classes.first"] || ""),
       classes_second: String(p["classes.second"] || ""),
