@@ -1,5 +1,8 @@
 ---
+aliases:
+  - /fr/general/faq/dbf0f4be7fe0/
 title: Mes Coupons FIP expirent-ils lorsque je retourne sur le réseau ferroviaire de l’entreprise émettrice ?
+weight: 20
 ---
 
 En règle générale, la règle suivante s’applique :

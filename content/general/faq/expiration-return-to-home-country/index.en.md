@@ -1,5 +1,8 @@
 ---
+aliases:
+  - /en/general/faq/dbf0f4be7fe0/
 title: Do my FIP Coupons expire when I return to the issuing railway’s network?
+weight: 20
 ---
 
 The following rule generally applies:
