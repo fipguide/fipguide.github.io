@@ -24,7 +24,7 @@
     "@panzoom/panzoom": "^4.6.2",
     "@sveltia/cms": "^0.256.1",
     "pagefind": "^1.6.0",
-    "prettier": "^3.9.10"
+    "prettier": "^3.10.1"
   },
   "devDependencies": {
     "prettier-plugin-go-template": "^0.0.15",
