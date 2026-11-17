@@ -352,7 +352,6 @@ collections:
       - label: "Aliases"
         name: "aliases"
         widget: "hidden"
-        default: []
         i18n: sync
       - label: "Body"
         name: "body"
@@ -579,7 +578,6 @@ collections:
       - label: "Aliases"
         name: "aliases"
         widget: "hidden"
-        default: []
         i18n: sync
       - name: params
         label: "Parameters"
@@ -884,7 +882,6 @@ collections:
           - label: "Aliases"
             name: "aliases"
             widget: "hidden"
-            default: []
             i18n: sync
           - label: "Body"
             name: "body"
@@ -925,7 +922,6 @@ collections:
           - label: "Aliases"
             name: "aliases"
             widget: "hidden"
-            default: []
             i18n: sync
           - label: "Body"
             name: "body"
