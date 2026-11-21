@@ -174,6 +174,11 @@ Les bus sont exclus des réductions FIP. Dans les bus de remplacement ferroviair
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 {{% booking id="zssk-website"

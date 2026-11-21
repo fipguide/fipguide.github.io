@@ -215,6 +215,11 @@ In der Verbindungsauskunft der NS werden die Verbindungen als `R-net NS Sprinter
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 Nationale Verbindungen können online leider nicht erworben werden.

@@ -236,6 +236,11 @@ FIP Tickets are not valid on ÖBB Postbus. On rail replacement buses, FIP discou
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="oebb-website" %}}

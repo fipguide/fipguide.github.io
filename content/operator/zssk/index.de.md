@@ -174,6 +174,11 @@ Busse sind von FIP-Rabatten ausgeschlossen. In Bussen des Schienenersatzverkehrs
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="zssk-website"

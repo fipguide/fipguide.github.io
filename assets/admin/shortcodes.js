@@ -767,6 +767,66 @@ CMS.registerEditorComponent({
   },
 });
 
+var bookingFilterFields = [
+  {
+    name: "reservations",
+    label: "Reservations",
+    widget: "boolean",
+    default: false,
+    required: false,
+    param: { bare: true },
+  },
+  {
+    name: "fip_global_fare",
+    label: "FIP Global Fare",
+    widget: "boolean",
+    default: false,
+    required: false,
+    param: { bare: true },
+  },
+  {
+    name: "fip_50",
+    label: "FIP 50",
+    widget: "boolean",
+    default: false,
+    required: false,
+    param: { bare: true },
+  },
+  {
+    name: "fip_75",
+    label: "FIP 75",
+    widget: "boolean",
+    default: false,
+    required: false,
+    param: { bare: true },
+  },
+];
+
+CMS.registerEditorComponent({
+  id: "booking-filters",
+  label: "Booking Filters",
+  icon: "filter_list",
+  fields: bookingFilterFields,
+  pattern: selfClosingPattern("booking-filters"),
+  fromBlock: function (match) {
+    var p = parseHugoParams(match[1]);
+    return {
+      reservations: Boolean(p.reservations),
+      fip_global_fare: Boolean(p.fip_global_fare),
+      fip_50: Boolean(p.fip_50),
+      fip_75: Boolean(p.fip_75),
+    };
+  },
+  toBlock: makeToBlock("booking-filters", {
+    fields: bookingFilterFields,
+    multiline: true,
+    multilineThreshold: 0,
+  }),
+  toPreview: function () {
+    return "";
+  },
+});
+
 var bookingSectionFields = [
   {
     name: "section",

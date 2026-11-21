@@ -188,6 +188,11 @@ Busse der SŽ. FIP ist hier nicht gültig, außer es handelt sich um einen Schie
 
 ## Ticket- und Reservierungskauf
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="db-website"

@@ -188,6 +188,11 @@ SŽ buses. FIP is not valid, except when they are used as rail replacement servi
 
 ## Ticket and Reservation Purchase
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="db-website"

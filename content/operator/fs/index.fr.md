@@ -315,6 +315,11 @@ Pour les Billets FIP 50, le prix se compose également du supplément et d’une
 | `ICN` InterCity Notte | 50 % Tariffa Regionale + Combio Servizio | Combio Servizio         | Combio Servizio Notte     |
 | Trains régionaux      | 50 % Tariffa Regionale                   | Aucun supplément requis | Aucun supplément requis   |
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 {{% booking id="db-website-fip-db"

@@ -331,6 +331,11 @@ FIP-Vergünstigungen gelten nicht in Bussen. In Bussen des Schienenersatzverkehr
 
 FIP 50 Tickets gelten als _Flexpreis_ und sind daher bis vor den 1. Geltungstag des Tickets kostenlos stornierbar. Danach wird eine Gebühr fällig. Reservierungen sind nur eingeschränkt kurz nach Kauf stornierbar. Weitere Informationen zur Stornierung auf der [Website der Deutschen Bahn](https://www.bahn.de/service/informationen-buchung/umtausch-stornierung).
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### Online
 
 {{% booking id="db-website" /%}}

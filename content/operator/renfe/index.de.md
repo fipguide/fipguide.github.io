@@ -223,6 +223,11 @@ Die Renfe führt derzeit ein neues Ticketsystem ein. Dies hat auch Auswirkungen 
 Weitere Updates kannst du in der [FIP Guide Community](https://discord.com/channels/1250522473188032512/1566155261691830424/1566155261691830424) verfolgen.
 {{% /highlight %}}
 
+{{% booking-filters
+  fip_global_fare=true
+  fip_50=true
+%}}
+
 ### Online
 
 Die Buchung von Reservierungen, FIP Globalpreis oder FIP 50 ist online nicht möglich.

@@ -112,6 +112,11 @@ Trains régionaux en trafic intérieur desservant la plupart des gares, circulan
 
 ## Achat de billets et réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En gare
 
 {{% booking id="bdz-ticket-office" /%}}
