@@ -28,19 +28,16 @@
     background-color: var(--bg-neutral);
   }
 
-  &:focus-visible {
-    outline: var(--outline-focus-indicator) solid 2px;
-    outline-offset: 2px;
-  }
+  @include focus-indicator(0.2rem);
 
   &[aria-pressed="true"] {
-    background-color: var(--link-default);
-    border-color: var(--link-default);
+    background-color: var(--chip-active-bg);
+    border-color: var(--chip-active-bg);
     color: #ffffff;
 
     &:hover {
-      background-color: var(--link-hovered);
-      border-color: var(--link-hovered);
+      background-color: var(--chip-active-hover-bg);
+      border-color: var(--chip-active-hover-bg);
     }
   }
 

@@ -67,6 +67,8 @@ $highlight-colors-dark: (
   --link-default: #{$link-default};
   --link-hovered: #{$link-hovered};
   --link-special: #{$link-special};
+  --chip-active-bg: #{$link-default};
+  --chip-active-hover-bg: #{$link-hovered};
 
   --bg-default: #{$bg-default};
   --bg-neutral: #{$bg-neutral};

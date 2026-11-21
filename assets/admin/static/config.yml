@@ -366,6 +366,7 @@ collections:
           - "fip-validity"
           - "train-category"
           - "booking"
+          - "booking-filters"
           - "button"
           - "dialog"
           - "dialog-trigger"
