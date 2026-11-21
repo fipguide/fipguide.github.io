@@ -26,7 +26,7 @@ Uns ist nicht bekannt, ob an den Automaten nur Tickets für NOMAD `TER` Züge ge
 
 ## FIP 50 / FIP 75 Fahrkarten
 
-Es ist möglich, FIP 50 und FIP 75 Tickets an den SNCF Nomad Automaten zu erwerben. Im Rahmen der Buchung können FIP 50 bzw. FIP 75 der ersten bzw. zweiten Klasse als Rabattkate ausgewählt werden.[^1]
+Es ist möglich, FIP 50 und FIP 75 Tickets an den SNCF Nomad Automaten zu erwerben. Im Rahmen der Buchung können FIP 50 bzw. FIP 75 der ersten bzw. zweiten Klasse als Rabattkarte ausgewählt werden.[^1]
 
 {{% /booking-section %}}
 
