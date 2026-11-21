@@ -3,9 +3,7 @@ function initBookingFilters() {
 
   filterGroups.forEach((group) => {
     const chips = group.querySelectorAll(".a-booking-filter-chip");
-    const bookings = group.parentElement.querySelectorAll(
-      ".o-expander--booking",
-    );
+    const bookings = group.parentElement.querySelectorAll(".o-booking");
 
     chips.forEach((chip) => {
       chip.addEventListener("click", () => {

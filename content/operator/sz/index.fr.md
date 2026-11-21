@@ -188,6 +188,11 @@ Bus SŽ. FIP n’est pas valable, sauf s’il s’agit d’un service de remplac
 
 ## Achat de billets et de réservations
 
+{{% booking-filters
+  reservations=true
+  fip_50=true
+%}}
+
 ### En ligne
 
 {{% booking id="db-website"
