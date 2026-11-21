@@ -24,8 +24,7 @@ Sur son site web, la BLS propose une [carte schématique des lignes](https://www
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50"
->}}
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 ## Catégories de trains et réservations
 

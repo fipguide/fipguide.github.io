@@ -21,8 +21,7 @@ Sur son site Web, la KMŁ propose un [aperçu des lignes exploitées](https://ko
 
 {{< fip-validity
     fip_coupon="valid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables chez la KMŁ.
 

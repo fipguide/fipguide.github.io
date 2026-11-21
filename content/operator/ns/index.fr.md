@@ -25,8 +25,7 @@ Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des [Pay
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50"
->}}
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 Les Coupons FIP et Billets FIP 50 sont valables sur les trains NS. Pour les trajets transfrontaliers, il faut un Billet FIP 50 continu ou des Coupons FIP valables dans les deux pays.
 

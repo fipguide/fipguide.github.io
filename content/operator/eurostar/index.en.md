@@ -32,8 +32,7 @@ Eurostar is an operator of high-speed trains in Western Europe. Originally, only
     fip_reduced_ticket="invalid"
     fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
     fip_global_fare="valid"
-    disable_info=true
->}}
+    disable_info=true >}}
 
 The purchase of discounted FIP Global Fare tickets at a fixed rate is possible. All tickets are train-specific due to the reservation requirement. However, rebooking to other trains or canceling FIP Tickets is possible via the [Eurostar website](https://www.eurostar.com/). Tickets can only be purchased separately and not as part of through tickets. [^1]
 

@@ -25,8 +25,7 @@ LTG-Link publishes an [overview of the route network](https://ltglink.lt/en/rout
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50"
->}}
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 {{% highlight important %}}
 For all journeys with a FIP Coupon, a free ticket or reservation must be obtained before each journey ([see Train Categories and Reservations](#train-categories-and-reservations)).

@@ -30,8 +30,7 @@ Les remises FIP sont valables auprès des opérateurs suivants :
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50"
->}}
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 ## Catégories de trains et réservations
 

@@ -20,8 +20,7 @@ Les Slovenske železnice (SŽ) sont la compagnie ferroviaire nationale de [Slov�
 
 {{< fip-validity
     fip_coupon="valid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les services SŽ. Pour les trajets transfrontaliers, soit un Billet FIP 50 continu, soit des Coupons FIP pour les deux pays sont requis.
 

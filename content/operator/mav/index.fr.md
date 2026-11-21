@@ -22,8 +22,7 @@ Un aperçu du trafic offert est fourni par la [carte du réseau de routes de la 
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="Billet FIP 50"
->}}
+    fip_reduced_ticket_subtitle="Billet FIP 50" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les connexions MÁV. Pour les voyages transfrontaliers, soit un billet FIP 50 continu, soit des Coupons FIP des deux pays doivent être disponibles.
 

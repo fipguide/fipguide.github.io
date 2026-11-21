@@ -40,12 +40,10 @@ content_images:
 -->
 
 {{< fip-validity
-fip_coupon="valid"
-fip_reduced_ticket="valid"
-fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
-fip_global_fare="valid"
-
-> }}
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
+    fip_global_fare="valid" >}}
 
 <!--
   Où les Billets FIP 50 / Coupons FIP sont-ils valables et quelles sont les restrictions ? Quel billet est nécessaire pour le voyage (par ex. Billet FIP 50 continu ou Coupons FIP des deux pays) ?

@@ -24,8 +24,7 @@ Ferrovie dello Stato Italiane (FS) est la compagnie ferroviaire nationale italie
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50"
->}}
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 {{% highlight important %}}
 Les Coupons FIP et les Billets FIP 50 sont valables dans les trains Trenitalia. Dans les filiales autres que Trenitalia (ex. Trenord, Ferrovie Sud Est), les rabais FIP ne s’appliquent pas, même si les trains portent le logo Trenitalia. Exception : TPER en Émilie-Romagne. [Voir Trains régionaux en Émilie-Romagne](#trains-régionaux-en-émilie-romagne)

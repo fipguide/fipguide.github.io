@@ -26,8 +26,7 @@ Sur son site Web, KD propose une [carte d’ensemble des lignes](https://kolejed
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50"
->}}
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont acceptés chez KD.
 

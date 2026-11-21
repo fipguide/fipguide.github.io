@@ -26,8 +26,7 @@ There are many different railway companies in [Great Britain](/country/united-ki
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
->}}
+    fip_reduced_ticket_subtitle="FIP 50 / FIP 75" >}}
 
 FIP Coupons and FIP 50 / FIP 75 Tickets are valid with all listed railway companies, see [Train Categories and Reservations](#train-categories-and-reservations).
 

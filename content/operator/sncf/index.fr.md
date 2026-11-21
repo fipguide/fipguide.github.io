@@ -34,8 +34,7 @@ La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferr
     fip_reduced_ticket="valid"
     fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
     fip_global_fare="valid"
-    fip_global_fare_subtitle="pour les trains internationaux `TGV`"
->}}
+    fip_global_fare_subtitle="pour les trains internationaux `TGV`" >}}
 
 Les Coupons FIP et Billets FIP 50 / FIP 75 sont valables sur les services SNCF. Pour les trajets transfrontaliers en trains régionaux, il faut soit un Billet FIP 50 / FIP 75 continu, soit des Coupons FIP valables dans chaque pays. Sur les trains grandes lignes internationaux (`TGV` ou `ICE`), des Tarifs Globaux s’appliquent (voir [Trains TGV inOui / ICE internationaux](#trains-tgv-inoui--ice-internationaux)).
 

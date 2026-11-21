@@ -26,8 +26,7 @@ Au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), il existe de nombreuses
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
->}}
+    fip_reduced_ticket_subtitle="FIP 50 / FIP 75" >}}
 
 Les Coupons FIP et Billets FIP 50 / FIP 75 sont valables auprès de toutes les compagnies listées, voir [Catégories de trains et réservations](#catégories-de-trains-et-réservations).
 

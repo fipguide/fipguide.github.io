@@ -18,8 +18,7 @@ Die Željeznice Federacije Bosne i Hercegovine (ŽFBH) ist das Eisenbahnverkehrs
 
 {{< fip-validity
     fip_coupon="invalid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 FIP 50 Tickets sind auf Verbindungen der ŽFBH gültig. Bei grenzüberschreitenden Fahrten nach Kroatien muss entweder ein durchgängiges FIP 50 Ticket oder ein FIP 50 Ticket bis zur kroatischen Grenze und ein FIP Freifahrtschein der HŽ vorhanden sein. Bei Fahrten über die Entitätsgrenze (derzeit nicht vorhanden) wäre entweder ein durchgängiges FIP 50 Ticket oder ein FIP 50 Ticket bis zur Entitätsgrenze und ein FIP Freifahrtschein der ŽRS nötig.
 

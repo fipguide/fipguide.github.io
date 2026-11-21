@@ -26,8 +26,7 @@ Sur son site Web KŚ propose une [carte d’aperçu des lignes](https://www.kole
 
 {{< fip-validity
     fip_coupon="valid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valides chez KŚ.
 

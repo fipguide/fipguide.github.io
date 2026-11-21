@@ -23,8 +23,7 @@ CP (Comboios de Portugal) is the Portuguese state railway and the main railway c
     fip_reduced_ticket="valid"
     fip_reduced_ticket_subtitle="FIP 50"
     fip_global_fare="valid"
-    fip_global_fare_subtitle="Celta train only"
->}}
+    fip_global_fare_subtitle="Celta train only" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on CP services. For cross-border journeys a continuous FIP 50 ticket or valid FIP Coupons for both countries is required where applicable.
 

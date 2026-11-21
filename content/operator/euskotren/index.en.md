@@ -24,8 +24,7 @@ In northern [Spain](/country/spain "Spain"), Euskotren operates a Basque railway
     fip_reduced_ticket_subtitle="FIP 50"
     additional="valid"
     additional_subtitle="Special 'Euskotren FIP Ticket' (for holders & relatives)"
-    disable_info=true
->}}
+    disable_info=true >}}
 
 {{% float-image
     src="euskotren_fip_ticket.webp"

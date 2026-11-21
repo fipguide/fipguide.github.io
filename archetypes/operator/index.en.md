@@ -40,12 +40,10 @@ content_images:
 -->
 
 {{< fip-validity
-fip_coupon="valid"
-fip_reduced_ticket="valid"
-fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
-fip_global_fare="valid"
-
-> }}
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
+    fip_global_fare="valid" >}}
 
 <!--
   Where are FIP 50 Tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?

@@ -27,8 +27,7 @@ The ferry connections on the Irish Sea are operated as a separate FIP operator, 
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50"
->}}
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 ## Ship Categories and Reservations
 

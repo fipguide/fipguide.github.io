@@ -23,8 +23,7 @@ On its website, ŁKA provides a [route map overview](https://lka.lodzkie.pl/kole
 
 {{< fip-validity
     fip_coupon="valid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid with ŁKA.
 

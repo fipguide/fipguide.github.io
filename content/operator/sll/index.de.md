@@ -24,8 +24,7 @@ Die Fährverbindungen zwischen Harwich ([Vereinigtes Königreich](/country/unite
 
 {{< fip-validity
     fip_coupon="valid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 ## Schiffskategorien und Reservierungen
 

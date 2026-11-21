@@ -23,8 +23,7 @@ Sur son site Web, ŁKA propose une [carte d’aperçu des lignes](https://lka.lo
 
 {{< fip-validity
     fip_coupon="valid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valides chez ŁKA.
 

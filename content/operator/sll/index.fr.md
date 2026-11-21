@@ -24,8 +24,7 @@ Les services de ferry entre Harwich ([Royaume-Uni](/country/united-kingdom)) et 
 
 {{< fip-validity
     fip_coupon="valid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 ## Catégories de navires et réservations
 

@@ -40,12 +40,10 @@ content_images:
 -->
 
 {{< fip-validity
-fip_coupon="valid"
-fip_reduced_ticket="valid"
-fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
-fip_global_fare="valid"
-
-> }}
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
+    fip_global_fare="valid" >}}
 
 <!--
   Wo gelten FIP 50 Tickets/FIP Freifahrtscheine und gibt es Einschränkungen? Welches Ticket wird bei Einreise benötigt (z. B. durchgehendes FIP 50 Ticket oder FIP Freifahrtscheine beider Länder)

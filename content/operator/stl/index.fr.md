@@ -27,8 +27,7 @@ Les liaisons maritimes sur la mer d’Irlande sont exploitées comme opérateur 
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50"
->}}
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 ## Catégories de navires et réservations
 

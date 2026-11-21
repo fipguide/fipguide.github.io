@@ -24,8 +24,7 @@ Im Norden [Spaniens](/country/spain "Spaniens") betreibt Euskotren ein Netz der 
     fip_reduced_ticket_subtitle="FIP 50"
     additional="valid"
     additional_subtitle="Spezielles 'Euskotren FIP Ticket' (für Inhaber & Angehörige)"
-    disable_info=true
->}}
+    disable_info=true >}}
 
 {{% float-image
     src="euskotren_fip_ticket.webp"

@@ -21,8 +21,7 @@ Auf der Website bietet die KMŁ eine [Übersicht der betriebenen Linien](https:/
 
 {{< fip-validity
     fip_coupon="valid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der KMŁ gültig.
 

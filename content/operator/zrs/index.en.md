@@ -19,8 +19,7 @@ The Željeznice Republike Srpske (ŽRS) is the railway operator of the Republika
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
->}}
+    fip_reduced_ticket_subtitle="FIP 50 / FIP 75" >}}
 
 FIP Coupons and FIP 50 / FIP 75 Tickets are valid on ŽRS services. For cross-border journeys (currently not offered), either a through FIP 50 / FIP 75 Ticket or FIP Coupons from both countries would be required. For journeys across the entity border (also currently not available), either a through FIP 50 / FIP 75 Ticket or an FIP Coupon of ŽRS in combination with an FIP 50 / FIP 75 Ticket from the entity border would be required.
 

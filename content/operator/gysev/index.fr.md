@@ -25,8 +25,7 @@ La Raab-Oedenburg-Ebenfurter Eisenbahn AG (en hongrois Győr-Sopron-Ebenfurti Va
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50"
->}}
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 {{% highlight important %}}
 La FIP est valable sur toutes les lignes GySEV en Hongrie. Cependant, le Coupon FIP GySEV est principalement destiné à la Hongrie et n’est valable sur les lignes GySEV en Autriche qu’avec des restrictions.

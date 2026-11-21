@@ -21,8 +21,7 @@ On its website, KMŁ provides an [overview of the operated lines](https://koleje
 
 {{< fip-validity
     fip_coupon="valid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on KMŁ.
 

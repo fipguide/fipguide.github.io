@@ -23,8 +23,7 @@ Auf ihrer Website bietet die ŁKA eine [Übersichtskarte der Strecken](https://l
 
 {{< fip-validity
     fip_coupon="valid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der ŁKA gültig.
 

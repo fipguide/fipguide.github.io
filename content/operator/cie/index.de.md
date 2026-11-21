@@ -25,8 +25,7 @@ Auf ihrer Website bietet Irish Rail eine [Übersichtskarte der Strecken](https:/
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
->}}
+    fip_reduced_ticket_subtitle="FIP 50 / FIP 75" >}}
 
 ## Zugkategorien und Reservierungen
 

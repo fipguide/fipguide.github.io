@@ -18,8 +18,7 @@ content_images:
 
 {{< fip-validity
     fip_coupon="invalid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 FIP 50 Tickets are valid on ŽFBH services. For cross-border journeys to Croatia, either a through FIP 50 Ticket or an FIP 50 Ticket to the Croatian border and an FIP Coupon of HŽ is required. For journeys across the entity border (currently not available), either a through FIP 50 Ticket or an FIP 50 Ticket to the entity border and an FIP Coupon of ŽRS would be required.
 

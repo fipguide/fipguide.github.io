@@ -24,8 +24,7 @@ Sur le site Web de KW, toutes les [lignes actuellement desservies en service ré
 
 {{< fip-validity
     fip_coupon="valid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valides chez KW.
 

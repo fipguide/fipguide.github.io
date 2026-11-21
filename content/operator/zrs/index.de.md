@@ -19,8 +19,7 @@ Die Željeznice Republike Srpske (ŽRS) ist das Eisenbahnverkehrsunternehmen der
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
->}}
+    fip_reduced_ticket_subtitle="FIP 50 / FIP 75" >}}
 
 <!-- Merker: Für SV, ZFBH und SZ gibt es 75% FIP Rabatt -->
 

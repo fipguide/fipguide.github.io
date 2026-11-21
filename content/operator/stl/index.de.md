@@ -27,8 +27,7 @@ Die Fährverbindungen auf der irischen See werden als eigenständiger FIP-Betrei
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50"
->}}
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 ## Schiffskategorien und Reservierungen
 

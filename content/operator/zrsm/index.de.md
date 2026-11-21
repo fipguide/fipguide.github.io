@@ -17,8 +17,7 @@ Die Železnici na Republika Severna Makedonija (ŽRSM) ist die staatliche Eisenb
 
 {{< fip-validity
     fip_coupon="valid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der ŽRSM gültig. Grenzüberschreitende Verbindungen werden derzeit nicht angeboten.
 

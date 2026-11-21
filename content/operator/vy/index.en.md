@@ -32,8 +32,7 @@ The [Vy network map](https://www.vy.no/files/eyx1eny7/vyno-production/1e6de6b67a
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50"
->}}
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 FIP Discounts are recognized by the three operators Vy, SJ Nord and Go-Ahead Nordic.
 However, only **Vy Group AS** is printed on the FIP Card and the FIP Coupons.

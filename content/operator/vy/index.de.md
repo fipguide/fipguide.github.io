@@ -32,8 +32,7 @@ Online ist das [Streckennetz der Vy](https://www.vy.no/files/eyx1eny7/vyno-produ
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50"
->}}
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 FIP-Vergünstigungen werden von den drei Betreibern Vy, SJ Nord und Go-Ahead Nordic anerkannt.
 Auf dem FIP Ausweis und den FIP Freifahrtscheinen ist allerdings nur **Vy Group AS** abgedruckt.

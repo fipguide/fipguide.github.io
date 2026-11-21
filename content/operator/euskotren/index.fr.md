@@ -24,8 +24,7 @@ Dans le nord de l’[Espagne](/country/spain "Espagne"), Euskotren exploite un r
     fip_reduced_ticket_subtitle="FIP 50"
     additional="valid"
     additional_subtitle="’Euskotren FIP Ticket’ spécial (pour titulaires et accompagnants)"
-    disable_info=true
->}}
+    disable_info=true >}}
 
 {{% float-image
     src="euskotren_fip_ticket.webp"

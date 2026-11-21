@@ -19,8 +19,7 @@ content_images:
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50"
->}}
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les liaisons de ŽPCG. Pour les trajets transfrontaliers, il faut disposer soit d’un Billet FIP 50 continu, soit des Coupons FIP des deux pays.
 

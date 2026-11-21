@@ -26,8 +26,7 @@ On its website, KŚ provides a [route map overview](https://www.kolejeslaskie.pl
 
 {{< fip-validity
     fip_coupon="valid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid with KŚ.
 

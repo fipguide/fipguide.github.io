@@ -23,8 +23,7 @@ Die CP (Comboios de Portugal) ist die portugiesische Staatsbahn und die wichtigs
     fip_reduced_ticket="valid"
     fip_reduced_ticket_subtitle="FIP 50"
     fip_global_fare="valid"
-    fip_global_fare_subtitle="nur Celta Zug"
->}}
+    fip_global_fare_subtitle="nur Celta Zug" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der CP gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
 

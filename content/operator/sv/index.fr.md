@@ -19,8 +19,7 @@ Srbija Voz (Србија Воз) est la compagnie ferroviaire nationale de Serbi
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50"
->}}
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les relations de SV. Pour les trajets transfrontaliers, il faut disposer soit d’un billet FIP à tarif réduit direct, soit de Coupons FIP des deux pays.
 

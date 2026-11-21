@@ -23,8 +23,7 @@ La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise e
     fip_reduced_ticket="valid"
     fip_reduced_ticket_subtitle="FIP 50"
     fip_global_fare="valid"
-    fip_global_fare_subtitle="uniquement pour le train Celta"
->}}
+    fip_global_fare_subtitle="uniquement pour le train Celta" >}}
 
 Les Coupons FIP et les Billets FIP 50 sont valables sur les services de la CP. Pour les trajets transfrontaliers, un Billet FIP 50 continu ou des Coupons FIP valables pour les deux pays sont requis lorsque cela s’applique.
 

@@ -25,8 +25,7 @@ La SNCB (Société nationale des chemins de fer belges) ou NMBS (Nationale Maats
 {{< fip-validity
     fip_coupon="valid"
     fip_reduced_ticket="valid"
-    fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
->}}
+    fip_reduced_ticket_subtitle="FIP 50 / FIP 75" >}}
 
 Les Coupons FIP et les Billets FIP 50 / FIP 75 sont valables sur les trains de la SNCB. Pour les trajets transfrontaliers, un Billet FIP 50 / FIP 75 continu ou des Coupons FIP des deux pays concernés sont nécessaires.
 

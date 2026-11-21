@@ -26,8 +26,7 @@ Auf ihrer Website bietet die KŚ eine [Übersichtskarte der Strecken](https://ww
 
 {{< fip-validity
     fip_coupon="valid"
-    fip_reduced_ticket="valid"
->}}
+    fip_reduced_ticket="valid" >}}
 
 FIP Freifahrtscheine und FIP 50 Tickets sind bei der KŚ gültig.
 
