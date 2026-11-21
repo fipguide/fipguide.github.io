@@ -34,16 +34,16 @@ content_images:
 -->
 
 <!--
-  Use the following shortcodes to display FIP validity. The following parameters can be passed:
-  - `type`: fip-coupon, fip-reduced-ticket, fip-global-fare, additional
-  - `status`: valid, invalid, unknown
-  - `text`: Optional custom text to display
-  - `disable_dialog`: true/false (default: false) - Set to true to disable the dialog
+  Use the following shortcode to display FIP validity. The following parameters can be passed:
+  - `fip_coupon`, `fip_reduced_ticket`, `fip_global_fare`, `additional`: valid, invalid, unknown
+  - `fip_coupon_subtitle`, `fip_reduced_ticket_subtitle`, `fip_global_fare_subtitle`, `additional_subtitle`: Optional subtitle displayed next to the tag
 -->
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
-{{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
+    fip_global_fare="valid" >}}
 
 <!--
   Where are FIP 50 Tickets/FIP Coupons valid and are there any restrictions? Which ticket is required for entry (e.g., continuous FIP 50 ticket or FIP Coupons of both countries)?

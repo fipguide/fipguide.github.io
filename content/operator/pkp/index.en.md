@@ -22,9 +22,10 @@ The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together wit
 
 ## Validity of FIP Tickets
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
-
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid with PKP. This includes:
 

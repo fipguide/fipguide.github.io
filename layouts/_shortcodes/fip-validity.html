@@ -1,10 +1,14 @@
 {{- partial "fip-validity/main" (
   dict
-  "type" (.Get "type")
-  "status" (.Get "status")
-  "text" (.Get "text")
-  "subtitle" (.Get "subtitle")
-  "disable_dialog" (.Get "disable_dialog")
+  "fip_coupon" (.Get "fip_coupon")
+  "fip_coupon_subtitle" (.Get "fip_coupon_subtitle")
+  "fip_reduced_ticket" (.Get "fip_reduced_ticket")
+  "fip_reduced_ticket_subtitle" (.Get "fip_reduced_ticket_subtitle")
+  "fip_global_fare" (.Get "fip_global_fare")
+  "fip_global_fare_subtitle" (.Get "fip_global_fare_subtitle")
+  "additional" (.Get "additional")
+  "additional_subtitle" (.Get "additional_subtitle")
+  "disable_info" (.Get "disable_info")
   "page" .Page
   )
 -}}

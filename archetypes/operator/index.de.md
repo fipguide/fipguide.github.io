@@ -34,16 +34,16 @@ content_images:
 -->
 
 <!--
-  Verwende die folgenden Shortcodes, um die FIP-Gültigkeit anzuzeigen. Die folgenden Parameter können übergeben werden:
-  - `type`: fip-coupon, fip-reduced-ticket, fip-global-fare, additional
-  - `status`: valid, invalid, unknown
-  - `text`: Optionaler benutzerdefinierter Text zur Anzeige
-  - `disable_dialog`: true/false (Standard: false) - Auf true setzen, um den Dialog zu deaktivieren
+  Verwende den folgenden Shortcode, um die FIP-Gültigkeit anzuzeigen. Die folgenden Parameter können übergeben werden:
+  - `fip_coupon`, `fip_reduced_ticket`, `fip_global_fare`, `additional`: valid, invalid, unknown
+  - `fip_coupon_subtitle`, `fip_reduced_ticket_subtitle`, `fip_global_fare_subtitle`, `additional_subtitle`: Optionaler Untertitel, der neben dem Tag angezeigt wird
 -->
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
-{{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
+    fip_global_fare="valid" >}}
 
 <!--
   Wo gelten FIP 50 Tickets/FIP Freifahrtscheine und gibt es Einschränkungen? Welches Ticket wird bei Einreise benötigt (z. B. durchgehendes FIP 50 Ticket oder FIP Freifahrtscheine beider Länder)

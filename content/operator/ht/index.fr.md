@@ -19,9 +19,10 @@ Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) exploit
 
 ## Validité des Billets FIP
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
-
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 ## Catégories de trains et réservations
 

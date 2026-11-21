@@ -21,11 +21,13 @@ Renfe Operadora est la compagnie ferroviaire publique en [Espagne](/country/spai
 
 ## Validité des Billets FIP
 
-{{< fip-validity type="fip-coupon" status="valid" text="Sauf trains à réservation obligatoire" >}}
-
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" text="Sauf trains à réservation obligatoire" >}}
-
-{{< fip-validity type="fip-global-fare" status="valid" text="Pour les trains à réservation obligatoire (sauf Avlo)" disable_dialog=true >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_coupon_subtitle="Sauf trains à réservation obligatoire"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50 — Sauf trains à réservation obligatoire"
+    fip_global_fare="valid"
+    fip_global_fare_subtitle="Pour les trains à réservation obligatoire (sauf Avlo)" >}}
 
 ## Catégories de trains et réservations
 

@@ -19,9 +19,10 @@ In [Switzerland](/country/switzerland "Switzerland"), in addition to the nationa
 
 ## Validity of FIP Tickets
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
-
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 FIP 50 Tickets are valid with all listed railway companies, see [Rail and Bus Operators](#rail-and-bus-operators), as well as with the [ship operators](#ship-operators). FIP Coupons are also valid almost everywhere, with a few exceptions.
 

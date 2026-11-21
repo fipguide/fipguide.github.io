@@ -22,9 +22,9 @@ On the KW website, all [routes currently operated in regular service](https://ko
 
 ## Validity of FIP Tickets
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
-
-{{< fip-validity type="fip-reduced-ticket" status="valid" >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_reduced_ticket="valid" >}}
 
 FIP Coupons and FIP 50 Tickets are valid with KW.
 

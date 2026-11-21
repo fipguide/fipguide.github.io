@@ -27,9 +27,10 @@ Hierbei gelten FIP Ermäßigungen bei den folgenden Betreibern:
 
 ## Gültigkeit FIP Tickets
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
-
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 ## Kategorien und Reservierungen
 

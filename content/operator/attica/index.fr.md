@@ -21,9 +21,10 @@ Le groupe Attica est un important opérateur grec de ferries exploitant plusieur
 
 ## Validité des Billets FIP
 
-{{< fip-validity type="fip-coupon" status="invalid" disable_dialog=true >}}
-
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" disable_dialog=true >}}
+{{< fip-validity
+    fip_coupon="invalid"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 ## Catégories de navires et réservations
 

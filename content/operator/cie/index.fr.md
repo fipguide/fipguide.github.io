@@ -22,9 +22,10 @@ Sur son site web, Irish Rail propose une [carte d’ensemble des lignes](https:/
 
 ## Validité des Billets FIP
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
-
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50 / FIP 75" >}}
 
 ## Catégories de trains et réservations
 

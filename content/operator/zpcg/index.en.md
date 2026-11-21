@@ -16,9 +16,10 @@ content_images:
 
 ## Validity of FIP Tickets
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
-
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 FIP Coupons and FIP 50 Tickets are valid on ŽPCG services. For cross-border journeys, either a continuous FIP 50 Ticket or FIP Coupons for both countries must be available.
 

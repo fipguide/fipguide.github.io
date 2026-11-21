@@ -19,9 +19,10 @@ In der [Schweiz](/country/switzerland "Schweiz") gibt es neben der Staatsbahn [S
 
 ## Gültigkeit FIP Tickets
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
-
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50" >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50" >}}
 
 FIP 50 Tickets gelten in allen aufgeführten Bahnunternehmen, siehe [Zug- und Busbetreiber](#zug--und-busbetreiber), sowie bei den [Schiffbetreibern](#betreiber-von-schiffen). FIP Freifahrtscheine gelten mit wenigen Ausnahmen auch überall.
 

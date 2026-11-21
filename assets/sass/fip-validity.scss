@@ -111,6 +111,14 @@
     margin-top: 1rem;
   }
 
+  &-dialog__type-title {
+    margin-top: 1.5rem;
+
+    &:first-of-type {
+      margin-top: 1rem;
+    }
+  }
+
   &__dropdown-button {
     border: var(--border-visible);
     border-radius: var(--border-radius-m);
@@ -153,6 +161,13 @@
       }
     }
   }
+}
+
+.o-fip-validity-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin-bottom: 0.8rem;
 }
 
 [data-fip-select-first] {

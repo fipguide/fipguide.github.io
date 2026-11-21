@@ -34,16 +34,16 @@ content_images:
 -->
 
 <!--
-  Utilisez les shortcodes suivants pour afficher la validité FIP. Les paramètres suivants peuvent être transmis :
-  - `type` : fip-coupon, fip-reduced-ticket, fip-global-fare, additional
-  - `status` : valid, invalid, unknown
-  - `text` : Texte personnalisé optionnel à afficher
-  - `disable_dialog` : true/false (par défaut : false) - Définir sur true pour désactiver la boîte de dialogue
+  Utilisez le shortcode suivant pour afficher la validité FIP. Les paramètres suivants peuvent être transmis :
+  - `fip_coupon`, `fip_reduced_ticket`, `fip_global_fare`, `additional` : valid, invalid, unknown
+  - `fip_coupon_subtitle`, `fip_reduced_ticket_subtitle`, `fip_global_fare_subtitle`, `additional_subtitle` : Sous-titre optionnel affiché à côté du tag
 -->
 
-{{< fip-validity type="fip-coupon" status="valid" >}}
-{{< fip-validity type="fip-reduced-ticket" status="valid" subtitle="FIP 50 / FIP 75" >}}
-{{< fip-validity type="fip-global-fare" status="valid" disable_dialog=true >}}
+{{< fip-validity
+    fip_coupon="valid"
+    fip_reduced_ticket="valid"
+    fip_reduced_ticket_subtitle="FIP 50 / FIP 75"
+    fip_global_fare="valid" >}}
 
 <!--
   Où les Billets FIP 50 / Coupons FIP sont-ils valables et quelles sont les restrictions ? Quel billet est nécessaire pour le voyage (par ex. Billet FIP 50 continu ou Coupons FIP des deux pays) ?
