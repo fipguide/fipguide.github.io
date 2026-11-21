@@ -10,7 +10,7 @@ params:
 ---
 
 {{% float-image
-    src="nomad-ticket-machine.jpg"
+    src="nomad-ticket-machine.webp"
     alt="Distributeurs de billets SNCF Nomad"
     width="40%"
     position="right"

@@ -10,7 +10,7 @@ params:
 ---
 
 {{% float-image
-    src="nomad-ticket-machine.jpg"
+    src="nomad-ticket-machine.webp"
     alt="SNCF Nomad Ticket Machine"
     width="40%"
     position="right"
