@@ -8,6 +8,17 @@ aliases:
   - /booking/kw-ticket-machine
   - /booking/kw-ticket-office
   - /booking/kw-website
+updates:
+  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+    date: 2026-09-19
+  - message: "DB-FIP-Hotline ergänzt."
+    date: 2026-06-13
+  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+    date: 2026-05-04
+  - message: "KML hinzugefügt."
+    date: 2026-04-01
+  - message: "KW und LKA hinzugefügt."
+    date: 2026-02-25
 ---
 
 Die Koleje Wielkopolskie, kurz KW, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Großpolen anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland) FIP anbietet.

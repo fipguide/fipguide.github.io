@@ -16,6 +16,21 @@ params:
     - cz-de
 content_images:
   - image.webp
+updates:
+  - message: "Regeln für die Grenze Deutschland–Tschechien aktualisiert."
+    date: 2026-10-12
+  - message: "AŽD als Betreiber ohne FIP hinzugefügt."
+    date: 2026-06-13
+  - message: "Fahrplanänderungen aktualisiert."
+    date: 2025-12-28
+  - message: "FIP-Ermäßigungsinformationen für Tschechien und ČD aktualisiert."
+    date: 2025-11-20
+  - message: "Frankreich hinzugefügt."
+    date: 2025-10-12
+  - message: "Trenitalia hinzugefügt."
+    date: 2025-10-09
+  - message: "ČD als Betreiber hinzugefügt."
+    date: 2025-09-20
 ---
 
 ## FIP Nutzung

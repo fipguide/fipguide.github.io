@@ -8,6 +8,11 @@
       {{ partial "tag" (dict "Type" "newsUpdate" "RawText" (print (i18n "news.updated") " " (. | time.Format ":date_long"))) }}
     {{- end }}
   </div>
+  {{ with .Params.updates }}
+    {{ partial "updateHistory" $ }}
+  {{ end }}
+{{ else if .Params.updates }}
+  {{ partial "updateHistory" . }}
 {{ else if .GitInfo }}
   {{ $href := print .Site.Params.gitHubUrl "/commits/" .GitInfo.Hash "/content/" .File.Path }}
   <a

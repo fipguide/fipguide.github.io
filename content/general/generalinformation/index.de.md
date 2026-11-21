@@ -7,6 +7,9 @@ description: Übergreifende Informationen zu FIP, FIP Ausweis (Internationale
 toc: true
 aliases:
   - /generalinformation/
+updates:
+  - message: "Seiteninhalt hinzugefügt."
+    date: 2025-12-18
 ---
 
 ## Allgemein

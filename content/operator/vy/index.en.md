@@ -9,6 +9,11 @@ aliases:
   - /booking/entur-chat
   - /booking/entur-phone
   - /booking/entur-ticket-office
+updates:
+  - message: "Updated age limits and rules for children."
+    date: 2026-09-19
+  - message: "Added Norway."
+    date: 2026-04-20
 ---
 
 Vy Group (formerly Norges Statsbaner) is the state railway company in [Norway](/country/norway). Together with its subsidiaries, it operates most of the passenger rail transport in Norway.

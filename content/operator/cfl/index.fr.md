@@ -8,6 +8,23 @@ content_images:
 aliases:
   - /booking/cfl-phone
   - /booking/cfl-ticket-office
+updates:
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Suppression de l’option de réservation sur le site de CFL."
+    date: 2026-07-22
+  - message: "Ajout de HOTNAT et d’AJC."
+    date: 2026-07-13
+  - message: "Ajout du pass illimité SNCB."
+    date: 2026-05-12
+  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+    date: 2026-05-04
+  - message: "Ajout des informations sur la première classe au guichet CFL."
+    date: 2026-01-21
+  - message: "Ajout de la Lituanie."
+    date: 2025-12-28
+  - message: "Ajout du Luxembourg."
+    date: 2025-12-15
 ---
 
 La CFL (Société nationale des chemins de fer luxembourgeois) est la compagnie ferroviaire nationale du [Luxembourg](/country/luxembourg "Luxembourg") et la principale société ferroviaire du pays.

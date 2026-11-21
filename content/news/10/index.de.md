@@ -9,6 +9,13 @@ operator:
   - sncb
 content_images:
   - image.webp
+updates:
+  - message: "Fahrkartenautomat als Buchungsoption bei SNCB ergänzt."
+    date: 2026-06-03
+  - message: "Situation des Ticketverkaufs im Zug bei SNCB aktualisiert."
+    date: 2026-05-02
+  - message: "Nachricht zum Ende des Ticketverkaufs im Zug bei SNCB hinzugefügt."
+    date: 2026-04-09
 ---
 
 Ab dem 1. Juli 2026 stellt die belgische Staatsbahn SNCB / NMBS den Ticketverkauf an Bord ein. So soll sichergestellt werden, dass alle Reisenden vor dem Einsteigen ein gültiges Ticket besitzen.

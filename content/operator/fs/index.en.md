@@ -9,6 +9,33 @@ aliases:
   - /booking/fs-ticket-machine
   - /booking/fs-ticket-office
   - /booking/fs-website
+updates:
+  - message: "Added ECE to FS operator pages."
+    date: 2026-11-14
+  - message: "Added information about free FS tickets on Trenitalia."
+    date: 2026-10-22
+  - message: "Added connections information to the English and French pages."
+    date: 2026-09-20
+  - message: "Updated age limits and rules for children."
+    date: 2026-09-19
+  - message: "Replaced DIRITTO AMMISSIONE with CAMBIO SERVIZIO."
+    date: 2026-08-18
+  - message: "Added HOTNAT and AJC."
+    date: 2026-07-13
+  - message: "Added DB FIP Hotline."
+    date: 2026-06-13
+  - message: "Updated booking information for FIP Tickets based on user feedback."
+    date: 2026-05-12
+  - message: "Standardized bus handling and add unknown FIP acceptance status."
+    date: 2026-05-04
+  - message: "Added minimum ticket price for regional trains to Fiumicino."
+    date: 2026-03-15
+  - message: "Updated FIP validity for EC and RJ trains between Italy and Austria."
+    date: 2026-01-10
+  - message: "Updated information on international rail journeys in Italy."
+    date: 2025-12-28
+  - message: "Added trenitalia."
+    date: 2025-10-09
 ---
 
 Ferrovie dello Stato Italiane (FS) is the Italian state railway. FIP discounts only apply to its subsidiary Trenitalia in [Italy](/country/italy "Italy").

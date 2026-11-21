@@ -4,6 +4,9 @@ title: "Jetzt für DB Mitarbeitende: FIP Steuerrechner"
 description: Der neue Steuerrechner für DB Mitarbeitende in Deutschland ist jetzt im FIP Guide verfügbar.
 content_images:
   - image.webp
+updates:
+  - message: "Steuerrechner für DB-Mitarbeitende ergänzt."
+    date: 2026-09-24
 ---
 
 Der neue DB FIP Steuerrechner ist jetzt im FIP Guide verfügbar. Du findest ihn auf der Seite [DB Steuerrechner](/general/taxation/).

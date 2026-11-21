@@ -10,6 +10,27 @@ aliases:
   - /booking/pkp-ticket-office
   - /booking/pkp-website
   - /booking/koleo-website
+updates:
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout de HOTNAT et d’AJC."
+    date: 2026-07-13
+  - message: "Ajout de PKP ICN comme catégorie de train."
+    date: 2026-06-18
+  - message: "Ajout de la hotline FIP de DB."
+    date: 2026-06-13
+  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+    date: 2026-05-04
+  - message: "Mise à jour de la validité FIP chez ČD."
+    date: 2026-03-10
+  - message: "Ajout de KW et de LKA."
+    date: 2026-02-25
+  - message: "Ajout d’informations sur KS."
+    date: 2026-02-19
+  - message: "Ajout de Trenitalia."
+    date: 2025-10-09
+  - message: "Ajout de PKP."
+    date: 2025-08-25
 ---
 
 Les chemins de fer polonais PKP (Polskie Koleje Państwowe) exploitent, avec leurs filiales PKP Intercity et Polregio, une grande partie du transport ferroviaire de voyageurs en [Pologne](/country/poland "Pologne").

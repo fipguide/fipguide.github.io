@@ -18,6 +18,33 @@ params:
       in Richtung Domodossola)"
 content_images:
   - image.webp
+updates:
+  - message: "Léman Express auf den Seiten von SNCF und SBB ergänzt."
+    date: 2026-10-24
+  - message: "Grenzüberschreitenden Trenitalia-Preis auf 11 € aktualisiert."
+    date: 2026-06-19
+  - message: "BLS hinzugefügt."
+    date: 2026-02-08
+  - message: "Grenzpunkt zwischen der Schweiz und Frankreich aktualisiert."
+    date: 2026-01-08
+  - message: "Neue Betreiber ohne FIP hinzugefügt."
+    date: 2025-12-22
+  - message: "SP hinzugefügt."
+    date: 2025-12-15
+  - message: "Informationen eines SBB-Kollegen ergänzt."
+    date: 2025-10-20
+  - message: "Frankreich hinzugefügt."
+    date: 2025-10-12
+  - message: "Englische und französische Übersetzungen ergänzt."
+    date: 2025-10-09
+  - message: "Trenitalia hinzugefügt."
+    date: 2025-10-09
+  - message: "Grenzpunkte in Liechtenstein aktualisiert."
+    date: 2025-09-29
+  - message: "Französische Sprachversion hinzugefügt."
+    date: 2025-07-21
+  - message: "SBB hinzugefügt."
+    date: 2025-07-13
 ---
 
 ## FIP Nutzung

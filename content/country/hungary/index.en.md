@@ -16,6 +16,9 @@ params:
     - at-hu-gysev
 content_images:
   - image.webp
+updates:
+  - message: "Added Hungary and MÁV."
+    date: 2026-07-29
 ---
 
 ## FIP Information

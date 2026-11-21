@@ -254,6 +254,8 @@ satellite:
 search:
   open-aria-label: Ouvrir la zone de recherche
 skipToContent: Aller au contenu
+smallUpdates:
+  headline: Petites mises à jour
 support:
   text: >-
     Vous souhaitez partager vos connaissances sur les réglementations FIP ?
@@ -374,7 +376,9 @@ trainCategory:
   riskOfConfusion: Risque de confusion
   routeOverview: Aperçu de l'itinéraire
 updateDate:
-  aria-label: Ouvrir l'historique des commits de la page
+  aria-label: Ouvrir l’historique des modifications de cette page
+  dialogTitle: Historique des modifications de la page
+  githubHistory: Voir l’historique complet sur GitHub
   label: Dernière mise à jour
 wip: >-
   Cette page est encore en cours de construction et le contenu peut être

@@ -13,6 +13,11 @@ params:
     - rs-hr
 content_images:
   - image.webp
+updates:
+  - message: "Ajout de la Bosnie."
+    date: 2026-08-30
+  - message: "Ajout de la Serbie."
+    date: 2026-06-29
 ---
 
 ## Informations FIP

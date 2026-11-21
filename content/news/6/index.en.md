@@ -9,6 +9,11 @@ operator:
   - sp
 content_images:
   - image.webp
+updates:
+  - message: "Added France."
+    date: 2025-10-12
+  - message: "News Rigi-Bahnen."
+    date: 2025-08-25
 ---
 
 Rigi-Bahnen operate various mountain railways to the Rigi, known as the "Queen of the Mountains". The company includes both rack railways and cable cars and connects several locations around Lake Lucerne with this popular tourist destination. The Vitznau-Rigi Railway was Europe's first mountain railway in 1871.

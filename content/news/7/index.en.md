@@ -5,6 +5,9 @@ description: The FIP Guide Community now offers a place to exchange ideas and
   ask questions about FIP.
 content_images:
   - image.webp
+updates:
+  - message: "Added the FIP Guide community."
+    date: 2025-11-15
 ---
 
 Our FIP Guide Community is now open to everyone interested! In the community, you can ask questions about using FIP tickets, exchange ideas with others, and benefit from the experiences of the community. Whether you are looking for travel planning tips, need information about border points, or want to stay updated on current changes – this is the right place for you.

@@ -2,6 +2,11 @@
 title: Liechtenstein
 content_images:
   - image.webp
+updates:
+  - message: "Grenzpunkte in Liechtenstein aktualisiert."
+    date: 2025-09-29
+  - message: "Liechtenstein hinzugefügt."
+    date: 2025-08-04
 ---
 
 ## FIP Nutzung

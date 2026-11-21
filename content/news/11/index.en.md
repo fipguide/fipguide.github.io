@@ -10,6 +10,11 @@ operator:
   - gb
 content_images:
   - image.webp
+updates:
+  - message: "Removed free ferry from Dartmouth Steam Railway."
+    date: 2026-06-19
+  - message: "Added Dartmouth Steam Railway FIP update."
+    date: 2026-06-18
 ---
 
 The Dartmouth Steam Railway and River Boat Company in Great Britain no longer grants any FIP discount. Previously, a 75% discount on the regular adult fare was granted when the FIP Card was presented on site. [^1]

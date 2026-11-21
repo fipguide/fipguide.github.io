@@ -7,6 +7,21 @@ content_images:
   - image.webp
 aliases:
   - /booking/cfr-ticket-office
+updates:
+  - message: "Ajout de la Macédoine du Nord."
+    date: 2026-10-08
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout de la Bosnie."
+    date: 2026-08-30
+  - message: "Mise à jour des tarifs de réservation CFR."
+    date: 2026-06-16
+  - message: "Ajout des guichets DB comme option d’achat pour CFR."
+    date: 2026-05-09
+  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+    date: 2026-05-04
+  - message: "Ajout de la Roumanie."
+    date: 2026-03-14
 ---
 
 La Societatea Natională de Transport Feroviar de Călători « CFR Călători » S.A., en abrégé CFR Călători, est la compagnie ferroviaire nationale de [Roumanie](/country/romania "Roumanie") et exploite la majorité des services voyageurs sur le réseau ferroviaire roumain.

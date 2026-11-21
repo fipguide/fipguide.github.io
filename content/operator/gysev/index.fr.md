@@ -10,6 +10,25 @@ aliases:
   - /booking/mav-ticket-machine
   - /booking/mav-ticket-office
   - /booking/mav-website
+updates:
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout de HOTNAT et d’AJC."
+    date: 2026-07-13
+  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+    date: 2026-05-04
+  - message: "Mise à jour des informations de réservation GySEV."
+    date: 2025-12-14
+  - message: "Ajout de Trenitalia."
+    date: 2025-10-09
+  - message: "Ajout d’une source pour GySEV."
+    date: 2025-08-11
+  - message: "Informations sur GySEV complétées."
+    date: 2025-08-11
+  - message: "Ajout de la version française."
+    date: 2025-07-21
+  - message: "Ajout de l’Autriche."
+    date: 2025-07-10
 ---
 
 La Raab-Oedenburg-Ebenfurter Eisenbahn AG (en hongrois Győr-Sopron-Ebenfurti Vasút Zrt.), abrégée GySEV ou Raaberbahn, est une compagnie ferroviaire privée hongroise qui exploite des trains régionaux en Hongrie et en [Autriche](/country/austria "Autriche"). Elle assure principalement le transport de voyageurs au sud et à l’est du lac de Neusiedl (ouest de la Hongrie), parfois même sur sa propre infrastructure.

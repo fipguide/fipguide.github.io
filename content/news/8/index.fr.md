@@ -10,6 +10,9 @@ operator:
   - cd
 content_images:
   - image.webp
+updates:
+  - message: "Mise à jour de la validité FIP chez ČD."
+    date: 2026-03-10
 ---
 
 En Tchéquie, les České dráhy (ČD) ont encore restreint les conditions d’utilisation des avantages FIP. En cause : de nouveaux appels d’offres publics et une pression concurrentielle croissante de la part d’opérateurs privés tels que Leo Express et Regiojet.

@@ -26,6 +26,31 @@ params:
     - at-de
 content_images:
   - image.webp
+updates:
+  - message: "Ajout de la Slovénie et de SŽ."
+    date: 2026-07-11
+  - message: "Suppression de Schneebergbahn."
+    date: 2026-05-15
+  - message: "Mise à jour des informations sur DB Regio Mobidig."
+    date: 2026-05-12
+  - message: "Ajout de l’Aussenfern Railway."
+    date: 2026-01-17
+  - message: "Amélioration des informations sur les voyages internationaux en Italie."
+    date: 2025-12-28
+  - message: "Mise à jour des changements d’horaires."
+    date: 2025-12-28
+  - message: "Ajout de Trenitalia."
+    date: 2025-10-09
+  - message: "Mise à jour des points frontières au Liechtenstein."
+    date: 2025-09-29
+  - message: "Informations sur GySEV complétées."
+    date: 2025-08-11
+  - message: "Ajout de la version française."
+    date: 2025-07-21
+  - message: "Ajout des CFF."
+    date: 2025-07-13
+  - message: "Ajout de l’Autriche."
+    date: 2025-07-10
 ---
 
 ## Informations FIP

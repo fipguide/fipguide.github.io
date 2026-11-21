@@ -9,6 +9,17 @@ content_images:
 aliases:
   - /booking/stena-line-limited-email
   - /booking/stena-line-limited-phone
+updates:
+  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+    date: 2026-09-19
+  - message: "E-Mail-Buchung bei Stena Line Limited entfernt."
+    date: 2026-06-27
+  - message: "Hafengebühren bei SLL aktualisiert."
+    date: 2026-05-12
+  - message: "Buchungsmöglichkeiten bei Stena Line erweitert."
+    date: 2026-04-10
+  - message: "SLL hinzugefügt."
+    date: 2026-02-25
 ---
 
 Das Unternehmen Stena Line betreibt diverse Personen- und Fahrzeugfähren. Der Betrieb der Strecken auf der irischen See werden im Kontext von FIP als Stena Line Limited (SLL) genannt.

@@ -7,6 +7,33 @@ country:
   - italy
 content_images:
   - image.webp
+updates:
+  - message: "FIP-Freifahrtschein-Gültigkeit bei der Jungfraubahn aktualisiert."
+    date: 2026-11-01
+  - message: "Abschnitt zur Sensetalbahn und kleinere Korrekturen entfernt."
+    date: 2026-09-29
+  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+    date: 2026-09-19
+  - message: "Brienz-Rothorn-Bahn hinzugefügt."
+    date: 2026-08-19
+  - message: "Jungfraubahn-Informationen aktualisiert."
+    date: 2026-08-17
+  - message: "Inoffizielle Informationen zum Skifahren mit JB ergänzt."
+    date: 2026-06-22
+  - message: "MIB von der SP-Seite entfernt."
+    date: 2026-05-09
+  - message: "THURBO-Strecken und grenzüberschreitende Informationen aktualisiert."
+    date: 2026-04-05
+  - message: "RBS-Informationen aktualisiert."
+    date: 2026-03-10
+  - message: "Informationen zu SOB präzisiert."
+    date: 2026-02-07
+  - message: "Centovalli-Informationen verbessert."
+    date: 2026-02-06
+  - message: "Deutschland hinzugefügt."
+    date: 2025-12-19
+  - message: "SP hinzugefügt."
+    date: 2025-12-15
 ---
 
 In der [Schweiz](/country/switzerland "Schweiz") gibt es neben der Staatsbahn [SBB CFF FFS](/operator/sbb "SBB CFF FFS") und der kleineren BLS auch noch einen Zusammenschluss vieler verschiedener Eisenbahnverkehrsunternehmen, die als _Schweizer Privatbahnen_ zusammengefasst werden. Darunter sind sowohl reguläre Züge im Schweizer Streckennetz, als auch eher touristische Verkehre. Neben Zügen sind hier auch einige Schiffe, Seilbahnen oder Busse zu finden.

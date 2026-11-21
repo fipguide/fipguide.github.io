@@ -10,6 +10,27 @@ aliases:
   - /booking/pkp-ticket-office
   - /booking/pkp-website
   - /booking/koleo-website
+updates:
+  - message: "Updated age limits and rules for children."
+    date: 2026-09-19
+  - message: "Added HOTNAT and AJC."
+    date: 2026-07-13
+  - message: "Added PKP ICN train category."
+    date: 2026-06-18
+  - message: "Added DB FIP Hotline."
+    date: 2026-06-13
+  - message: "Standardized bus handling and add unknown FIP acceptance status."
+    date: 2026-05-04
+  - message: "Updated ČD FIP validity."
+    date: 2026-03-10
+  - message: "Added KW and ŁKA."
+    date: 2026-02-25
+  - message: "Added KŚ information."
+    date: 2026-02-19
+  - message: "Added trenitalia."
+    date: 2025-10-09
+  - message: "Added PKP."
+    date: 2025-08-25
 ---
 
 The Polish State Railways PKP (Polskie Koleje Państwowe) operates, together with its subsidiaries PKP Intercity and Polregio, a large part of passenger rail transport in [Poland](/country/poland "Poland").

@@ -16,6 +16,67 @@ aliases:
   - /booking/ffestiniogtravel-phone
   - /booking/internationalrail-email
   - /booking/railtourguide-website
+updates:
+  - message: "Buchungsinformationen zu SNCF Connect ergänzt."
+    date: 2026-10-22
+  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+    date: 2026-09-19
+  - message: "Traivelling entfernt."
+    date: 2026-08-21
+  - message: "FIP-Kartenkontrolle bei Eurostar ergänzt."
+    date: 2026-08-14
+  - message: "Eurostar-Stornierungsbedingungen aktualisiert."
+    date: 2026-08-14
+  - message: "Informationen zu traivelling.com ergänzt."
+    date: 2026-07-24
+  - message: "HOTNAT und AJC ergänzt."
+    date: 2026-07-13
+  - message: "Eurostar-Preise in GBP ergänzt."
+    date: 2026-06-27
+  - message: "Kinderregelung bei Eurostar aktualisiert."
+    date: 2026-06-22
+  - message: "RailTourGuide und Ffestiniog als Buchungsmöglichkeiten hinzugefügt."
+    date: 2026-04-23
+  - message: "FIP-75-Unterstützung an verschiedenen Stellen ergänzt."
+    date: 2026-04-01
+  - message: "Stornierungs- und Umbuchungsbedingungen für Eurostar ergänzt."
+    date: 2026-03-15
+  - message: "Buchungsmöglichkeiten per Telefon bei NS ergänzt."
+    date: 2026-02-08
+  - message: "Erste Klasse am CFL-Ticketschalter ergänzt."
+    date: 2026-01-21
+  - message: "Traivelling hinzugefügt."
+    date: 2026-01-09
+  - message: "Fehlende Eurostar-Preise ergänzt."
+    date: 2026-01-03
+  - message: "Großbritannien hinzugefügt."
+    date: 2025-10-21
+  - message: "Frankreich hinzugefügt."
+    date: 2025-10-12
+  - message: "Trenitalia hinzugefügt."
+    date: 2025-10-09
+  - message: "Eurostar-Buchungsinformationen aktualisiert."
+    date: 2025-09-30
+  - message: "PKP hinzugefügt."
+    date: 2025-08-25
+  - message: "Französische Sprachversion hinzugefügt."
+    date: 2025-07-21
+  - message: "Österreich als Land hinzugefügt."
+    date: 2025-07-10
+  - message: "Eurostar-Buchungsproblem behoben."
+    date: 2025-07-08
+  - message: "Informationen zu internationalen Verbindungen ab London ergänzt."
+    date: 2025-07-04
+  - message: "Eurostar-Preise aktualisiert."
+    date: 2025-06-17
+  - message: "Eurostar-Preise erhöht."
+    date: 2025-05-21
+  - message: "Klasse, wer Tickets über International Rail Ltd. und nicht über National Rail bucht."
+    date: 2025-05-08
+  - message: "Informationen zu DSB ergänzt."
+    date: 2025-05-07
+  - message: "Seiteninhalt hinzugefügt."
+    date: 2025-01-18
 ---
 
 Eurostar ist ein Betreiber von Hochgeschwindigkeitszügen in Westeuropa. Ursprünglich wurden nur die blauen Züge zwischen London und Paris/Brüssel/Amsterdam durch den Eurotunnel als Eurostar bezeichnet. Nach dem Zusammenschluss zwischen Thalys und Eurostar werden auch die roten Thalys-Züge als Eurostar (Red) bezeichnet. Eurostar verkehrt in [Deutschland](/country/germany "Deutschland"), [Frankreich](/country/france "Frankreich"), dem [Vereinigten Königreich](/country/united-kingdom "Vereinigtes Königreich"), [Belgien](/country/belgium "Belgien") und den [Niederlanden](/country/netherlands "Niederlande").

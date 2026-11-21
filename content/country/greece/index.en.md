@@ -14,6 +14,11 @@ params:
       in the direction of Ancona)"
 content_images:
   - image.webp
+updates:
+  - message: "Added north-macedonia."
+    date: 2026-10-08
+  - message: "Added greece, attica & hellenic train."
+    date: 2026-03-22
 ---
 
 ## FIP Information

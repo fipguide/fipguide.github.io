@@ -83,6 +83,25 @@
   }
 }
 
+.o-startpage__updates-list {
+  list-style: none;
+  padding: 0;
+
+  li {
+    border-bottom: var(--border);
+    border-color: var(--color-table-border);
+    padding: 1rem 0;
+  }
+
+  time {
+    font-size: 1.3rem;
+  }
+
+  p {
+    margin: 0.5rem 0;
+  }
+}
+
 .o-startpage__search {
   margin-bottom: 2rem;
   height: 6rem;

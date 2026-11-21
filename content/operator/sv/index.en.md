@@ -5,6 +5,15 @@ country:
   - serbia
 content_images:
   - image.webp
+updates:
+  - message: "Added north-macedonia."
+    date: 2026-10-08
+  - message: "Updated age limits and rules for children."
+    date: 2026-09-19
+  - message: "Added Bosnia."
+    date: 2026-08-30
+  - message: "Added Serbia."
+    date: 2026-06-29
 ---
 
 Srbija Voz (Србија Воз) is the state railway company in Serbia and operates the majority of passenger traffic in the country.

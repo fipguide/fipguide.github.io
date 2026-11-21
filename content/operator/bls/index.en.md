@@ -7,6 +7,19 @@ content_images:
   - image.webp
 aliases:
   - /booking/bls-ticket-office
+updates:
+  - message: "Removed section about Sensetalbahn + minor fixes."
+    date: 2026-09-29
+  - message: "Updated age limits and rules for children."
+    date: 2026-09-19
+  - message: "Added HOTNAT and AJC."
+    date: 2026-07-13
+  - message: "Added DB FIP Hotline."
+    date: 2026-06-13
+  - message: "Standardized bus handling and add unknown FIP acceptance status."
+    date: 2026-05-04
+  - message: "Added BLS."
+    date: 2026-02-08
 ---
 
 The BLS (formerly Bern-Lötschberg-Simplon-Bahn) is a public railway company in [Switzerland](/country/switzerland "Switzerland"). It operates many train, bus and ship connections and primarily runs in the Canton of Bern.

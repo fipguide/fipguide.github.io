@@ -8,6 +8,13 @@ params:
     - ie-gb-sll
 content_images:
   - image.webp
+updates:
+  - message: "Removed Fishguard sailing from Irish Ferries."
+    date: 2026-08-03
+  - message: "Removed duplicate identify-operator on Ireland page."
+    date: 2026-04-04
+  - message: "Added Ireland (CIE) and Northern Ireland (NIR)."
+    date: 2026-03-12
 ---
 
 ## FIP Information

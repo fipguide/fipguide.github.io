@@ -98,6 +98,39 @@ params:
     - MS = Milieu du lac
 content_images:
   - image.webp
+updates:
+  - message: "Mise à jour des règles à la frontière Allemagne–Tchéquie."
+    date: 2026-10-12
+  - message: "Ajout de l’Ilztalbahn comme opérateur sans FIP."
+    date: 2026-10-05
+  - message: "Mise à jour des conditions FIP chez Scandlines et DB Regio Stuttgart."
+    date: 2026-09-20
+  - message: "Mise à jour des conditions FIP au Danemark à partir du 1er septembre 2026."
+    date: 2026-09-03
+  - message: "Mise à jour des informations sur Regionalverkehre Start GmbH."
+    date: 2026-08-01
+  - message: "Ajout de la liaison directe Copenhague–Prague en RJ."
+    date: 2026-07-07
+  - message: "Ajout d’informations sur les trains SNCF en Allemagne."
+    date: 2026-05-12
+  - message: "Amélioration de la description de la frontière Allemagne–Belgique."
+    date: 2026-03-12
+  - message: "Mise à jour des règles de la ligne RS4 de l’Ortenau S-Bahn."
+    date: 2026-02-22
+  - message: "Ajout de la liaison directe Francfort–Bordeaux."
+    date: 2026-02-01
+  - message: "Ajout de l’Aussenfern Railway."
+    date: 2026-01-17
+  - message: "Amélioration des informations sur PKP."
+    date: 2025-12-30
+  - message: "Mise à jour des changements d’horaires."
+    date: 2025-12-28
+  - message: "Ajout de nouveaux opérateurs sans FIP."
+    date: 2025-12-22
+  - message: "Mise à jour des informations sur l’IC Amsterdam."
+    date: 2025-12-21
+  - message: "Ajout de l’Allemagne."
+    date: 2025-12-19
 ---
 
 ## Informations FIP

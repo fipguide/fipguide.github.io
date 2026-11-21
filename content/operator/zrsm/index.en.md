@@ -4,6 +4,11 @@ country:
   - "north-macedonia"
 content_images:
   - image.webp
+updates:
+  - message: "Improved information for North Macedonia."
+    date: 2026-10-09
+  - message: "Added north-macedonia."
+    date: 2026-10-08
 ---
 
 Železnici na Republika Severna Makedonija (ŽRSM) is the state railway company of North Macedonia. The subsidiary ŽRSM Transport operates passenger rail services in the country.

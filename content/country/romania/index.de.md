@@ -16,6 +16,9 @@ params:
     - hu-ro
 content_images:
   - image.webp
+updates:
+  - message: "Rumänien hinzugefügt."
+    date: 2026-03-14
 ---
 
 ## FIP Nutzung

@@ -6,6 +6,9 @@ description: General information about FIP, the FIP Card (International Discount
 toc: true
 aliases:
   - /generalinformation/
+updates:
+  - message: "Page content added."
+    date: 2025-12-18
 ---
 
 ## General

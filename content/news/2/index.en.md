@@ -11,6 +11,17 @@ operator:
   - sncb
 content_images:
   - image.webp
+updates:
+  - message: "Removed FIP 50 ticket booking from SNCB website."
+    date: 2025-11-08
+  - message: "Translations."
+    date: 2025-10-09
+  - message: "Added French language."
+    date: 2025-07-21
+  - message: "Added translation."
+    date: 2025-02-17
+  - message: "Page content added."
+    date: 2025-01-18
 ---
 
 The Belgian national railway company SNCB / NMBS now offers tickets with FIP discount on their [international ticket website](https://www.b-europe.com/EN) in addition to regular cross-border tickets. This significantly simplifies the purchase of tickets that go beyond the borders of Belgium. Previously, these had to be purchased at a counter in Belgium or certain neighboring countries such as Germany or the Netherlands.

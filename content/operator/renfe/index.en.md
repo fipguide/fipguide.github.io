@@ -8,6 +8,59 @@ content_images:
   - image.webp
 aliases:
   - /booking/renfe-ticket-office
+updates:
+  - message: "Added restrictions on ticket booking with Renfe."
+    date: 2026-11-02
+  - message: "Adopt ave international hint."
+    date: 2026-10-04
+  - message: "Updated age limits and rules for children."
+    date: 2026-09-19
+  - message: "Updated FIP and booking details for CP and Renfe."
+    date: 2026-09-03
+  - message: "Added HOTNAT and AJC."
+    date: 2026-07-13
+  - message: "Removed Renfe Bono Gratuit."
+    date: 2026-06-27
+  - message: "Standardized bus handling and add unknown FIP acceptance status."
+    date: 2026-05-04
+  - message: "Added Zugpost travel reports for the railway."
+    date: 2026-05-02
+  - message: "Updated Renfe ticket prices for 2026."
+    date: 2026-05-02
+  - message: "Corrected Renfe FIP issuer information."
+    date: 2026-04-05
+  - message: "Added Barcelona Cercanías ticket gate info to Renfe page."
+    date: 2026-04-05
+  - message: "Added Ireland (CIE) and Northern Ireland (NIR)."
+    date: 2026-03-12
+  - message: "Updated information on international rail journeys in Italy."
+    date: 2025-12-28
+  - message: "Updated Spain border ticket purchase."
+    date: 2025-10-30
+  - message: "Added information for FEVE."
+    date: 2025-10-19
+  - message: "Updated cross-border train information for France and Spain."
+    date: 2025-10-18
+  - message: "Added France."
+    date: 2025-10-12
+  - message: "English and french translations."
+    date: 2025-10-09
+  - message: "Translations."
+    date: 2025-10-09
+  - message: "Added trenitalia."
+    date: 2025-10-09
+  - message: "Extend gysev information."
+    date: 2025-08-11
+  - message: "Added French language."
+    date: 2025-07-21
+  - message: "Added information about international AVE."
+    date: 2025-07-13
+  - message: "Added Austria."
+    date: 2025-07-10
+  - message: "Clarified Renfe class options."
+    date: 2025-05-28
+  - message: "Added Spain and the Renfe operator."
+    date: 2025-05-26
 ---
 
 Renfe Operadora is the state-owned railroad company in [Spain](/country/spain "Spain"). It operates comfortable high-speed trains, various regional trains and suburban trains.

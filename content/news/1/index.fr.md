@@ -11,6 +11,15 @@ operator:
   - ltg
 content_images:
   - image.webp
+updates:
+  - message: "Mise à jour des liens entre les anciennes actualités."
+    date: 2026-01-14
+  - message: "Ajout de la version française."
+    date: 2025-07-21
+  - message: "Ajout d’une traduction."
+    date: 2025-02-17
+  - message: "Contenu de la page ajouté."
+    date: 2025-01-18
 ---
 
 Depuis le 1er janvier 2024, la compagnie nationale des chemins de fer lituaniens (LTG Link) est officiellement membre du FIP. Les employés des chemins de fer bénéficient de trajets gratuits et de billets à tarif réduit sur les lignes internationales. Cette coopération renforce la mobilité transfrontalière et rend l’utilisation du train encore plus attractive pour les cheminots lors de leurs déplacements privés.

@@ -6,6 +6,13 @@ content_images:
   - image.webp
 aliases:
   - /booking/kml-ticket-office
+updates:
+  - message: "Informationen zu den bus de KMŁ ergänzt."
+    date: 2026-10-02
+  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+    date: 2026-05-04
+  - message: "KML hinzugefügt."
+    date: 2026-04-01
 ---
 
 Die Koleje Małopolskie, kurz KMŁ, ist ein polnisches Eisenbahnverkehrsunternehmen, das hauptsächlich Regionalverkehr in der Woiwodschaft Kleinpolen anbietet. Es ist eines der insgesamt fünf verschiedenen Unternehmen, das in [Polen](/country/poland) FIP anbietet.

@@ -8,6 +8,51 @@ content_images:
 aliases:
   - /booking/ns-phone
   - /booking/ns-ticket-office
+updates:
+  - message: "Nutzung des ICD-Nebensaison-Zuschlags mit Debit- oder Kreditkarte ergänzt."
+    date: 2026-10-31
+  - message: "Verbindungsabschnitt auf den englischen und französischen Seiten ergänzt."
+    date: 2026-09-20
+  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+    date: 2026-09-19
+  - message: "Vorübergehende grenzüberschreitende ICE-Reservierungspflicht entfernt."
+    date: 2026-09-03
+  - message: "Informationen zum Drei-Länder-Zug ergänzt."
+    date: 2026-08-08
+  - message: "HOTNAT und AJC ergänzt."
+    date: 2026-07-13
+  - message: "R-Net-Verbindungen klarer unterschieden."
+    date: 2026-07-10
+  - message: "R-Net näher erläutert."
+    date: 2026-07-07
+  - message: "SNCB-Netzkarte ergänzt."
+    date: 2026-05-12
+  - message: "Vorübergehende Reservierungspflicht in ICE-Zügen ergänzt."
+    date: 2026-04-25
+  - message: "Informationen zu NS-Ermäßigungen ergänzt."
+    date: 2026-03-11
+  - message: "Informationen zu NS-ICD- und ECD-Zügen aktualisiert."
+    date: 2026-02-25
+  - message: "Buchungsmöglichkeiten per Telefon bei NS ergänzt."
+    date: 2026-02-08
+  - message: "Amsterdam-IC-Informationen aktualisiert."
+    date: 2025-12-21
+  - message: "FIP-50-Ticketbuchung auf der SNCB-Website entfernt."
+    date: 2025-11-08
+  - message: "ICE-Zuschlag für die Linie 77 ergänzt."
+    date: 2025-10-10
+  - message: "NS-RE-Informationen an den Standard angepasst."
+    date: 2025-10-10
+  - message: "Trenitalia hinzugefügt."
+    date: 2025-10-09
+  - message: "Französische Sprachversion hinzugefügt."
+    date: 2025-07-21
+  - message: "Österreich als Land hinzugefügt."
+    date: 2025-07-10
+  - message: "NS als Betreiber hinzugefügt."
+    date: 2025-05-28
+  - message: "Seiteninhalt hinzugefügt."
+    date: 2025-03-23
 ---
 
 Die Nederlandse Spoorwegen (NS) ist die staatliche Eisenbahngesellschaft der [Niederlande](/country/netherlands "Niederlande") und betreibt den Großteil des Personenverkehrs auf dem niederländischen Schienennetz.

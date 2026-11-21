@@ -20,6 +20,41 @@ params:
     - es-fr
 content_images:
   - image.webp
+updates:
+  - message: "Added Léman Express to SNCF and SBB operator page."
+    date: 2026-10-24
+  - message: "Added govolta to non FIP operators in France."
+    date: 2026-07-13
+  - message: "Added Serbia."
+    date: 2026-06-29
+  - message: "Updated luxemburg borders."
+    date: 2026-05-13
+  - message: "Added SNCF trains in Germany."
+    date: 2026-05-12
+  - message: "Added missing countries."
+    date: 2026-05-12
+  - message: "Updated Renfe ticket prices for 2026."
+    date: 2026-05-02
+  - message: "Updated rules for Ortenau S-Bahn line RS4."
+    date: 2026-02-22
+  - message: "Added a direct Frankfurt–Bordeaux train."
+    date: 2026-02-01
+  - message: "Updated swiss french border."
+    date: 2026-01-08
+  - message: "France Belgium border."
+    date: 2025-12-29
+  - message: "Minor adjustments SNCF."
+    date: 2025-12-27
+  - message: "Updated Spain border ticket purchase."
+    date: 2025-10-30
+  - message: "Added gb."
+    date: 2025-10-21
+  - message: "Added information from SBB colleague."
+    date: 2025-10-20
+  - message: "Updated cross-border train information for France and Spain."
+    date: 2025-10-18
+  - message: "Added France."
+    date: 2025-10-12
 ---
 
 ## FIP Information

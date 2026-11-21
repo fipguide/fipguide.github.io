@@ -7,6 +7,19 @@ content_images:
   - image.webp
 aliases:
   - /booking/bls-ticket-office
+updates:
+  - message: "Abschnitt zur Sensetalbahn und kleinere Korrekturen entfernt."
+    date: 2026-09-29
+  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+    date: 2026-09-19
+  - message: "HOTNAT und AJC ergänzt."
+    date: 2026-07-13
+  - message: "DB-FIP-Hotline ergänzt."
+    date: 2026-06-13
+  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+    date: 2026-05-04
+  - message: "BLS hinzugefügt."
+    date: 2026-02-08
 ---
 
 Die BLS (ehemals Bern-Lötschberg-Simplon-Bahn) ist eine öffentliche Eisenbahngesellschaft in der [Schweiz](/country/switzerland "Schweiz"). Sie betreibt viele Zug-, Bus- und Schiffsverbindungen und fährt primär im Kanton Bern.

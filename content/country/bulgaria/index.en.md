@@ -10,6 +10,17 @@ params:
     - bg-rs
 content_images:
   - image.webp
+updates:
+  - message: "Added missing countries."
+    date: 2026-05-12
+  - message: "Added greece, attica & hellenic train."
+    date: 2026-03-22
+  - message: "Added France."
+    date: 2025-10-12
+  - message: "Bulgaria corrections."
+    date: 2025-10-09
+  - message: "Added Bulgaria/BDŽ."
+    date: 2025-10-07
 ---
 
 ## FIP Information

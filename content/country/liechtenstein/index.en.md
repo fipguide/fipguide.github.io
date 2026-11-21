@@ -2,6 +2,11 @@
 title: Liechtenstein
 content_images:
   - image.webp
+updates:
+  - message: "Updated Liechtenstein borders."
+    date: 2025-09-29
+  - message: "Added Liechtenstein."
+    date: 2025-08-04
 ---
 
 ## FIP Information

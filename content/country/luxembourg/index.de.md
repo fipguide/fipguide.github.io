@@ -7,6 +7,11 @@ params:
     - lu-fr
 content_images:
   - image.webp
+updates:
+  - message: "Grenzpunkte in Luxemburg aktualisiert."
+    date: 2026-05-13
+  - message: "Luxemburg hinzugefügt."
+    date: 2025-12-15
 ---
 
 ## FIP Nutzung

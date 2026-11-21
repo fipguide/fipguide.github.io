@@ -5,6 +5,11 @@ params:
     - me-rs
 content_images:
   - image.webp
+updates:
+  - message: "Added Bosnia."
+    date: 2026-08-30
+  - message: "Added montenegro & ŽPCG."
+    date: 2026-05-02
 ---
 
 ## FIP Information

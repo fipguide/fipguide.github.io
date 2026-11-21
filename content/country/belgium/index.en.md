@@ -11,6 +11,33 @@ params:
     - be-fr
 content_images:
   - image.webp
+updates:
+  - message: "Added information about the three-country train (DE/BE/NL)."
+    date: 2026-08-08
+  - message: "Added a ticket machine as a booking option for SNCB."
+    date: 2026-06-03
+  - message: "Updated luxemburg borders."
+    date: 2026-05-13
+  - message: "Improved Germany / Belgium border description."
+    date: 2026-03-12
+  - message: "France Belgium border."
+    date: 2025-12-29
+  - message: "Translations."
+    date: 2025-10-09
+  - message: "Added trenitalia."
+    date: 2025-10-09
+  - message: "Added French language."
+    date: 2025-07-21
+  - message: "Added Austria."
+    date: 2025-07-10
+  - message: "Border Points on country page."
+    date: 2025-05-30
+  - message: "Added OUIGO EC and ŽSR Highlight."
+    date: 2025-05-09
+  - message: "Added translation."
+    date: 2025-02-17
+  - message: "Page content added."
+    date: 2025-01-18
 ---
 
 ## FIP Information

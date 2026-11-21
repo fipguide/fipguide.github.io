@@ -16,6 +16,67 @@ aliases:
   - /booking/ffestiniogtravel-phone
   - /booking/internationalrail-email
   - /booking/railtourguide-website
+updates:
+  - message: "Added SNCF Connect booking information."
+    date: 2026-10-22
+  - message: "Updated age limits and rules for children."
+    date: 2026-09-19
+  - message: "Removed traivelling."
+    date: 2026-08-21
+  - message: "Eurostar FIP card inspection."
+    date: 2026-08-14
+  - message: "Updated eurostar cencellation policy."
+    date: 2026-08-14
+  - message: "Added information regarding traivelling.com."
+    date: 2026-07-24
+  - message: "Added HOTNAT and AJC."
+    date: 2026-07-13
+  - message: "Added GBP prices to Eurostar red."
+    date: 2026-06-27
+  - message: "Updated children rule for Eurostar."
+    date: 2026-06-22
+  - message: "Added RailTourGuide and Ffestiniog as booking options."
+    date: 2026-04-23
+  - message: "Added FIP 75 information in several places."
+    date: 2026-04-01
+  - message: "Added Eurostar cancellation and rebooking policy."
+    date: 2026-03-15
+  - message: "Added ns phone booking options."
+    date: 2026-02-08
+  - message: "CFL ticket office first class."
+    date: 2026-01-21
+  - message: "Added traivelling."
+    date: 2026-01-09
+  - message: "Added missing Eurostar prices."
+    date: 2026-01-03
+  - message: "Added gb."
+    date: 2025-10-21
+  - message: "Added France."
+    date: 2025-10-12
+  - message: "Added trenitalia."
+    date: 2025-10-09
+  - message: "Updated Eurostar booking information."
+    date: 2025-09-30
+  - message: "Added PKP."
+    date: 2025-08-25
+  - message: "Added French language."
+    date: 2025-07-21
+  - message: "Added Austria."
+    date: 2025-07-10
+  - message: "Eurostar booking problem."
+    date: 2025-07-08
+  - message: "Added london international."
+    date: 2025-07-04
+  - message: "Eurostar Price Update 2."
+    date: 2025-06-17
+  - message: "Added eurostar price increase."
+    date: 2025-05-21
+  - message: "Eurostar booking is via International Rail Ltd, not National Rail."
+    date: 2025-05-08
+  - message: "Added DSB information."
+    date: 2025-05-07
+  - message: "Page content added."
+    date: 2025-01-18
 ---
 
 Eurostar is an operator of high-speed trains in Western Europe. Originally, only the blue trains between London and Paris/Brussels/Amsterdam through the Eurotunnel were referred to as Eurostar. After the merger between Thalys and Eurostar, the red Thalys trains are now also referred to as Eurostar (Red). Eurostar operates in [Germany](/country/germany "Germany"), [France](/country/france "France"), the [United Kingdom](/country/united-kingdom "United Kingdom"), [Belgium](/country/belgium "Belgium"), and the [Netherlands](/country/netherlands "Netherlands").

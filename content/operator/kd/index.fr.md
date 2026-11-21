@@ -9,6 +9,19 @@ aliases:
   - /booking/kd-ticket-machine
   - /booking/kd-ticket-office
   - /booking/kd-website
+updates:
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout de la hotline FIP de DB."
+    date: 2026-06-13
+  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+    date: 2026-05-04
+  - message: "Ajout de KW et de LKA."
+    date: 2026-02-25
+  - message: "Suppression des informations de réservation Polregio de la page KD."
+    date: 2026-01-30
+  - message: "Ajout de KD comme nouvel opérateur."
+    date: 2026-01-22
 ---
 
 Koleje Dolnośląskie (KD) est une compagnie ferroviaire polonaise assurant principalement des services régionaux dans la voïvodie de Basse-Silésie. C’est l’une des cinq compagnies différentes de [Pologne](/country/poland) qui proposent le FIP.

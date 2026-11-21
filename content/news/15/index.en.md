@@ -8,6 +8,9 @@ operator:
   - db
 content_images:
   - image.webp
+updates:
+  - message: "DB Regio Stuttgart news."
+    date: 2026-10-04
 ---
 
 On 1 August 2026, the Neckar Valley network, formerly operated by DB Regio Stuttgart GmbH, was fully integrated into DB Regio Baden-Württemberg and can therefore be used with FIP. [^1]

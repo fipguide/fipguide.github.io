@@ -10,6 +10,13 @@ params:
     - lt-ru
 content_images:
   - image.webp
+updates:
+  - message: "Poland Lithuania cross border tickets."
+    date: 2026-10-04
+  - message: "Reviewed Lithuania, LTG Link and Latvia and did some changes."
+    date: 2026-01-09
+  - message: "Added Lithuania."
+    date: 2025-12-28
 ---
 
 ## FIP Information

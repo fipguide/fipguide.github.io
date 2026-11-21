@@ -16,6 +16,21 @@ params:
     - cz-de
 content_images:
   - image.webp
+updates:
+  - message: "Mise à jour des règles à la frontière Allemagne–Tchéquie."
+    date: 2026-10-12
+  - message: "Ajout d’AŽD comme opérateur sans FIP."
+    date: 2026-06-13
+  - message: "Mise à jour des changements d’horaires."
+    date: 2025-12-28
+  - message: "Mise à jour des réductions FIP pour la Tchéquie et ČD."
+    date: 2025-11-20
+  - message: "Ajout de la France."
+    date: 2025-10-12
+  - message: "Ajout de Trenitalia."
+    date: 2025-10-09
+  - message: "Ajout de ČD comme opérateur."
+    date: 2025-09-20
 ---
 
 ## Informations FIP

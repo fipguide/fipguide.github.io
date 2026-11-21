@@ -11,6 +11,33 @@ params:
     - be-fr
 content_images:
   - image.webp
+updates:
+  - message: "Ajout d’informations sur le train des trois pays."
+    date: 2026-08-08
+  - message: "Ajout du distributeur de billets comme option de réservation chez SNCB."
+    date: 2026-06-03
+  - message: "Mise à jour des points frontières au Luxembourg."
+    date: 2026-05-13
+  - message: "Amélioration de la description de la frontière Allemagne–Belgique."
+    date: 2026-03-12
+  - message: "Mise à jour de la frontière entre la France et la Belgique."
+    date: 2025-12-29
+  - message: "Ajout de traductions."
+    date: 2025-10-09
+  - message: "Ajout de Trenitalia."
+    date: 2025-10-09
+  - message: "Ajout de la version française."
+    date: 2025-07-21
+  - message: "Ajout de l’Autriche."
+    date: 2025-07-10
+  - message: "Ajout de points frontières sur la page pays."
+    date: 2025-05-30
+  - message: "Mise en évidence de Ouigo EC et de ZSR."
+    date: 2025-05-09
+  - message: "Ajout d’une traduction."
+    date: 2025-02-17
+  - message: "Contenu de la page ajouté."
+    date: 2025-01-18
 ---
 
 ## Informations FIP

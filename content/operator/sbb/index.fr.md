@@ -9,6 +9,39 @@ aliases:
   - /booking/sbb-ticket-machine
   - /booking/sbb-ticket-office
   - /booking/sbb-website
+updates:
+  - message: "Ajout du Léman Express dans les pages de SNCF et SBB."
+    date: 2026-10-24
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout de HOTNAT et d’AJC."
+    date: 2026-07-13
+  - message: "Ajout d’informations sur la carte Junior des CFF."
+    date: 2026-06-19
+  - message: "Ajout de la hotline FIP de DB."
+    date: 2026-06-13
+  - message: "Ajout d’informations sur les services Nightjet utilisant des voitures Intercity."
+    date: 2026-05-23
+  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+    date: 2026-05-04
+  - message: "Ajout d’informations sur le métro RET."
+    date: 2026-04-09
+  - message: "Ajout de BLS."
+    date: 2026-02-08
+  - message: "Précision des informations sur SOB."
+    date: 2026-02-07
+  - message: "Mise à jour de l’acceptation des Coupons FIP par SBB et BLS."
+    date: 2025-12-15
+  - message: "Ajout de SP."
+    date: 2025-12-15
+  - message: "Ajout de la France."
+    date: 2025-10-12
+  - message: "Ajout de Trenitalia."
+    date: 2025-10-09
+  - message: "Ajout de la version française."
+    date: 2025-07-21
+  - message: "Ajout des CFF."
+    date: 2025-07-13
 ---
 
 Les CFF (Chemins de fer fédéraux suisses, SBB en allemand, FFS en italien) sont la compagnie ferroviaire nationale de la [Suisse](/country/switzerland "Suisse"). Ils exploitent la majeure partie du réseau ferroviaire suisse et sont réputés pour leur ponctualité et leur fiabilité.

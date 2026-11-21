@@ -6,8 +6,38 @@
   flex-wrap: wrap;
 }
 
+button.o-last-updated {
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
 .o-last-updated > .a-icon {
   font-size: 1.5rem;
+}
+
+.o-update-history {
+  list-style: none;
+  padding: 0;
+
+  li {
+    border-bottom: var(--border);
+    border-color: var(--color-table-border);
+    padding: 1rem 0;
+  }
+
+  time {
+    font-weight: 700;
+  }
+
+  p {
+    margin: 0.5rem 0 0;
+  }
 }
 
 code {

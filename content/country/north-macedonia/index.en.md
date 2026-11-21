@@ -7,6 +7,11 @@ params:
     - mk-xk
 content_images:
   - image.webp
+updates:
+  - message: "Improved information for North Macedonia."
+    date: 2026-10-09
+  - message: "Added north-macedonia."
+    date: 2026-10-08
 ---
 
 ## FIP Information

@@ -9,6 +9,17 @@ content_images:
 aliases:
   - /booking/stena-line-limited-email
   - /booking/stena-line-limited-phone
+updates:
+  - message: "Updated age limits and rules for children."
+    date: 2026-09-19
+  - message: "Removed Stena Line Limited email booking."
+    date: 2026-06-27
+  - message: "Updated SLL port fees."
+    date: 2026-05-12
+  - message: "Updated Stena Line booking options."
+    date: 2026-04-10
+  - message: "Added SLL."
+    date: 2026-02-25
 ---
 
 The company Stena Line operates various passenger and vehicle ferries. The ferry connections on the Irish Sea are referred to as Stena Line Limited (SLL) in the context of FIP.

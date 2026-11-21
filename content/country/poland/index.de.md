@@ -18,6 +18,29 @@ params:
     - de-pl
 content_images:
   - image.webp
+updates:
+  - message: "KD-Verbindungen am Grenzpunkt Forst (Gr) präzisiert."
+    date: 2026-11-02
+  - message: "Informationen zu grenzüberschreitenden Tickets zwischen Polen und Litauen ergänzt."
+    date: 2026-10-04
+  - message: "WKD hinzugefügt."
+    date: 2026-05-09
+  - message: "KML hinzugefügt."
+    date: 2026-04-01
+  - message: "KW und LKA hinzugefügt."
+    date: 2026-02-25
+  - message: "Informationen zu Litauen, LTG Link und Lettland überprüft und angepasst."
+    date: 2026-01-09
+  - message: "PKP-Informationen verbessert."
+    date: 2025-12-30
+  - message: "Litauen hinzugefügt."
+    date: 2025-12-28
+  - message: "Neue Betreiber ohne FIP hinzugefügt."
+    date: 2025-12-22
+  - message: "Frankreich hinzugefügt."
+    date: 2025-10-12
+  - message: "PKP hinzugefügt."
+    date: 2025-08-25
 ---
 
 ## FIP Nutzung

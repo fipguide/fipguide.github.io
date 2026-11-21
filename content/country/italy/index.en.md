@@ -21,6 +21,27 @@ params:
       towards Locarno)"
 content_images:
   - image.webp
+updates:
+  - message: "Added Slovenia and SŽ."
+    date: 2026-07-11
+  - message: "Updated the cross-border Trenitalia fare to €11."
+    date: 2026-06-19
+  - message: "Added missing countries."
+    date: 2026-05-12
+  - message: "Added greece, attica & hellenic train."
+    date: 2026-03-22
+  - message: "Updated information on international rail journeys in Italy."
+    date: 2025-12-28
+  - message: "Added new operators that do not accept FIP."
+    date: 2025-12-22
+  - message: "Updated information about the Strait of Messina."
+    date: 2025-10-30
+  - message: "Added France."
+    date: 2025-10-12
+  - message: "Translations."
+    date: 2025-10-09
+  - message: "Added trenitalia."
+    date: 2025-10-09
 ---
 
 ## FIP Information

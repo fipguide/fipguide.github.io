@@ -9,6 +9,15 @@ content_images:
   - image.webp
 aliases:
   - /booking/bsb-ticket-office
+updates:
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+    date: 2026-05-04
+  - message: "Ajout des conditions FIP du Bodensee-Personentarif."
+    date: 2026-04-25
+  - message: "Ajout de l’Allemagne."
+    date: 2025-12-19
 ---
 
 Les BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) exploitent les ferries sur le lac de Constance entre l’[Allemagne](/country/germany "Allemagne"), l’[Autriche](/country/austria "Autriche") et la [Suisse](/country/switzerland "Suisse").

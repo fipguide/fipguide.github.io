@@ -9,6 +9,57 @@ aliases:
   - /booking/sncb-phone
   - /booking/sncb-ticket-office
   - /booking/sncb-website
+updates:
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Suppression de l’obligation temporaire de réservation pour les ICE transfrontaliers."
+    date: 2026-09-03
+  - message: "Ajout d’informations sur le train des trois pays."
+    date: 2026-08-08
+  - message: "Ajout de HOTNAT et d’AJC."
+    date: 2026-07-13
+  - message: "Ajout du distributeur de billets comme option de réservation chez SNCB."
+    date: 2026-06-03
+  - message: "Harmonisation du sens de la recommandation SNCB dans la version française."
+    date: 2026-06-02
+  - message: "Mise à jour du supplément aéroportuaire SNCB."
+    date: 2026-05-28
+  - message: "Ajout du pass illimité SNCB."
+    date: 2026-05-12
+  - message: "Ajout d’une obligation temporaire de réservation dans les trains ICE."
+    date: 2026-04-25
+  - message: "Ajout d’une actualité sur la fin de la vente de billets à bord chez SNCB."
+    date: 2026-04-09
+  - message: "Ajout de la prise en charge du FIP 75 à plusieurs endroits."
+    date: 2026-04-01
+  - message: "Amélioration de la description de la frontière Allemagne–Belgique."
+    date: 2026-03-12
+  - message: "Mise à jour des règles SNCB pour les enfants selon la politique officielle."
+    date: 2026-03-10
+  - message: "Mise à jour des informations sur les trains NS ICD et ECD."
+    date: 2026-02-25
+  - message: "Ajout de la réservation téléphonique auprès de SNCB."
+    date: 2025-12-12
+  - message: "Ajout de Trenitalia."
+    date: 2025-10-09
+  - message: "Précision : le site de SNCB ne vend le FIP 50 que pour les voyages transfrontaliers."
+    date: 2025-10-03
+  - message: "Ajout d’informations sur les trains EuroCity pour NS et SNCB."
+    date: 2025-09-29
+  - message: "Correction du supplément à bord de SNCB pour les billets FIP."
+    date: 2025-08-03
+  - message: "Ajout de la version française."
+    date: 2025-07-21
+  - message: "Ajout de l’Autriche."
+    date: 2025-07-10
+  - message: "Ajout de NS comme opérateur."
+    date: 2025-05-28
+  - message: "Ajout d’informations sur DSB."
+    date: 2025-05-07
+  - message: "Ajout d’une traduction."
+    date: 2025-02-17
+  - message: "Contenu de la page ajouté."
+    date: 2025-01-18
 ---
 
 La SNCB (Société nationale des chemins de fer belges) ou NMBS (Nationale Maatschappij der Belgische Spoorwegen) est l’opérateur ferroviaire national belge et le plus important de [Belgique](/country/belgium "Belgique").

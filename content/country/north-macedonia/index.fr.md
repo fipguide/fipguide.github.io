@@ -7,6 +7,11 @@ params:
     - mk-xk
 content_images:
   - image.webp
+updates:
+  - message: "Amélioration des informations sur la Macédoine du Nord."
+    date: 2026-10-09
+  - message: "Ajout de la Macédoine du Nord."
+    date: 2026-10-08
 ---
 
 ## Informations FIP

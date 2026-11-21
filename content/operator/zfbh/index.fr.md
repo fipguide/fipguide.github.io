@@ -5,6 +5,11 @@ country:
   - "bosnia-and-herzegovina"
 content_images:
   - image.webp
+updates:
+  - message: "Ajout de la Macédoine du Nord."
+    date: 2026-10-08
+  - message: "Ajout de la Bosnie."
+    date: 2026-08-30
 ---
 
 Željeznice Federacije Bosne i Hercegovine (ŽFBH) est l’entreprise ferroviaire de la Fédération de Bosnie-Herzégovine dans le pays du même nom. À côté d’elle, le pays compte aussi [Željeznice Republike Srpske (ŽRS)](/operator/zrs), l’opérateur ferroviaire de la Fédération de Republika Srpska. La ŽFBH n’exploite actuellement que quelques liaisons sur ses 608 km de réseau ferroviaire, et seulement sur une partie de son réseau.

@@ -10,6 +10,11 @@ params:
     - lv-lt
 content_images:
   - image.webp
+updates:
+  - message: "Vérification et mise à jour des informations sur la Lituanie, LTG Link et la Lettonie."
+    date: 2026-01-09
+  - message: "Ajout de la Lituanie."
+    date: 2025-12-28
 ---
 
 ## Informations FIP

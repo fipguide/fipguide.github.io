@@ -1,0 +1,16 @@
+{{- $entries := slice -}}
+{{- $seen := dict -}}
+{{- range site.RegularPages -}}
+  {{- $page := . -}}
+  {{- if and (ne .Type "news") (not .IsHome) -}}
+    {{- range .Params.updates -}}
+      {{- $date := time.AsTime .date -}}
+      {{- $key := printf "%s|%s" ($date.Format "2006-01-02") .message -}}
+      {{- if not (isset $seen $key) -}}
+        {{- $seen = merge $seen (dict $key true) -}}
+        {{- $entries = $entries | append (dict "date" $date "message" .message "page" $page) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return (sort $entries "date" "desc") -}}

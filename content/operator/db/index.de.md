@@ -10,6 +10,59 @@ aliases:
   - /booking/db-website
   - /booking/db-website-fip-db
   - /booking/db-website-fip-international
+updates:
+  - message: "Buchungsinformationen zu SNCF Connect ergänzt."
+    date: 2026-10-22
+  - message: "Preise für grenzüberschreitende Reisen per ÖBB-Telefon aktualisiert."
+    date: 2026-10-22
+  - message: "Wangerooge–Harlesiel als Zugkategorie bei DB ergänzt."
+    date: 2026-10-15
+  - message: "Informationen zu übergreifenden Verkehrsverbünden aktualisiert."
+    date: 2026-10-14
+  - message: "MEX als Zugkategorie hinzugefügt."
+    date: 2026-10-09
+  - message: "Nutzung der FIP-Vergünstigungen bei Scandlines und DB Regio Stuttgart aktualisiert."
+    date: 2026-09-20
+  - message: "Verbindungsabschnitt auf den englischen und französischen Seiten ergänzt."
+    date: 2026-09-20
+  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+    date: 2026-09-19
+  - message: "Vorübergehende grenzüberschreitende ICE-Reservierungspflicht entfernt."
+    date: 2026-09-03
+  - message: "Stornierungsbedingungen für DB und GB ergänzt."
+    date: 2026-08-17
+  - message: "HBX hinzugefügt."
+    date: 2026-08-17
+  - message: "Informationen zu Regionalverkehre Start GmbH aktualisiert."
+    date: 2026-08-01
+  - message: "HOTNAT und AJC ergänzt."
+    date: 2026-07-13
+  - message: "Direktverbindung Kopenhagen–Prag mit dem RJ ergänzt."
+    date: 2026-07-07
+  - message: "FIP-Ermäßigungsinformationen zur S-Bahn Mitteldeutschland (S5/X) ergänzt."
+    date: 2026-06-03
+  - message: "Informationen zu Nightjet-Verbindungen mit Intercity-Wagen ergänzt."
+    date: 2026-05-23
+  - message: "Vorübergehende Buchungsinformationen zur ÖBB-Hotline in Deutschland ergänzt."
+    date: 2026-05-12
+  - message: "Informationen zu DB Regio Mobidig aktualisiert."
+    date: 2026-05-12
+  - message: "ÖBB-Reservierungspreis in Deutschland aktualisiert."
+    date: 2026-05-09
+  - message: "Kostenlose Mitfahrt für Kinder bei DB präzisiert."
+    date: 2026-05-04
+  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+    date: 2026-05-04
+  - message: "Vorübergehende Reservierungspflicht in ICE-Zügen ergänzt."
+    date: 2026-04-25
+  - message: "DB-Buchungsmöglichkeiten eingeschränkt."
+    date: 2026-02-19
+  - message: "Internationale Bahnreisen in Italien verbessert beschrieben."
+    date: 2025-12-28
+  - message: "Fahrplanänderungen aktualisiert."
+    date: 2025-12-28
+  - message: "Deutschland hinzugefügt."
+    date: 2025-12-19
 ---
 
 Die Deutsche Bahn (DB) ist das größte Eisenbahnverkehrsunternehmen in [Deutschland](/country/germany "Deutschland") und betreibt den Großteil des Fernverkehrs sowie viele Verbindungen im Regionalverkehr.

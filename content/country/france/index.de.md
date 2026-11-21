@@ -20,6 +20,41 @@ params:
     - es-fr
 content_images:
   - image.webp
+updates:
+  - message: "Léman Express auf den Seiten von SNCF und SBB ergänzt."
+    date: 2026-10-24
+  - message: "GoVolta zu den Betreibern ohne FIP in Frankreich hinzugefügt."
+    date: 2026-07-13
+  - message: "Serbien hinzugefügt."
+    date: 2026-06-29
+  - message: "Grenzpunkte in Luxemburg aktualisiert."
+    date: 2026-05-13
+  - message: "Informationen zu SNCF-Zügen in Deutschland ergänzt."
+    date: 2026-05-12
+  - message: "Fehlende Länder ergänzt."
+    date: 2026-05-12
+  - message: "Renfe-Ticketpreise für 2026 aktualisiert."
+    date: 2026-05-02
+  - message: "Regeln für die Ortenau-S-Bahn-Linie RS4 aktualisiert."
+    date: 2026-02-22
+  - message: "Direktverbindung Frankfurt–Bordeaux ergänzt."
+    date: 2026-02-01
+  - message: "Grenzpunkt zwischen der Schweiz und Frankreich aktualisiert."
+    date: 2026-01-08
+  - message: "Grenze zwischen Frankreich und Belgien aktualisiert."
+    date: 2025-12-29
+  - message: "Kleinere Anpassungen an den SNCF-Informationen."
+    date: 2025-12-27
+  - message: "Ticketkauf an der spanischen Grenze aktualisiert."
+    date: 2025-10-30
+  - message: "Großbritannien hinzugefügt."
+    date: 2025-10-21
+  - message: "Informationen eines SBB-Kollegen ergänzt."
+    date: 2025-10-20
+  - message: "Grenzüberschreitende Zugverbindungen zwischen Frankreich und Spanien aktualisiert."
+    date: 2025-10-18
+  - message: "Frankreich hinzugefügt."
+    date: 2025-10-12
 ---
 
 ## FIP Nutzung

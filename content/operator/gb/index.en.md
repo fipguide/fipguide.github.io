@@ -9,6 +9,47 @@ aliases:
   - /booking/caledonian-sleeper-website
   - /booking/lner-website
   - /booking/national-rail-ticket-office
+updates:
+  - message: "Updated age limits and rules for children."
+    date: 2026-09-19
+  - message: "Added cancellation policies for DB and Great Britain."
+    date: 2026-08-17
+  - message: "Removed free ferry from Dartmouth Steam Railway."
+    date: 2026-06-19
+  - message: "Added Dartmouth Steam Railway FIP update."
+    date: 2026-06-18
+  - message: "Elizabeth line ticket offices."
+    date: 2026-05-09
+  - message: "Added Lumo West Coast acceptance."
+    date: 2026-05-02
+  - message: "Updated name of London cable car."
+    date: 2026-05-02
+  - message: "Changed Dartmouth Steam Railway to not accept FIP."
+    date: 2026-04-26
+  - message: "Added FIP 75 information in several places."
+    date: 2026-04-01
+  - message: "Added FIP information for first-class services in Great Britain."
+    date: 2026-03-23
+  - message: "Updated summary for Lumo."
+    date: 2026-03-18
+  - message: "Added new Lumo West Coast routes."
+    date: 2026-03-15
+  - message: "Clarified snack-offer on greater anglia trains."
+    date: 2026-03-08
+  - message: "Added BR Fares to find FIP fares."
+    date: 2026-01-25
+  - message: "Updated London information."
+    date: 2026-01-18
+  - message: "Added seatfrog for gb."
+    date: 2026-01-17
+  - message: "Added rover rule of thumb."
+    date: 2026-01-09
+  - message: "Added rover rule of thumb."
+    date: 2026-01-09
+  - message: "Create rover details."
+    date: 2025-12-22
+  - message: "Added gb."
+    date: 2025-10-21
 ---
 
 There are many different railway companies in [Great Britain](/country/united-kingdom "Great Britain"), collectively known as _National Rail_. Each company operates its own routes, mostly focusing on a specific region of the country.

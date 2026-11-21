@@ -15,6 +15,57 @@ aliases:
   - /booking/sncf-phone
   - /booking/sncf-ticket-office
   - /booking/transilien-ticket-office
+updates:
+  - message: "Added SNCF Nomad ticket machines."
+    date: 2026-11-21
+  - message: "Added Léman Express to SNCF and SBB operator page."
+    date: 2026-10-24
+  - message: "Added SNCF Connect booking information."
+    date: 2026-10-22
+  - message: "Updated ICN reservation prices."
+    date: 2026-10-04
+  - message: "Added boarding rules in France."
+    date: 2026-10-04
+  - message: "Added connections information to the English and French pages."
+    date: 2026-09-20
+  - message: "Updated age limits and rules for children."
+    date: 2026-09-19
+  - message: "Added HOTNAT and AJC."
+    date: 2026-07-13
+  - message: "Added SNCF trains in Germany."
+    date: 2026-05-12
+  - message: "Standardized bus handling and add unknown FIP acceptance status."
+    date: 2026-05-04
+  - message: "Added FIP 75 information in several places."
+    date: 2026-04-01
+  - message: "Removed further references of Paris tram."
+    date: 2026-03-21
+  - message: "Clarified FIP validity for direct Frankfurt–Bordeaux ICE."
+    date: 2026-03-15
+  - message: "Added a direct Frankfurt–Bordeaux train."
+    date: 2026-02-01
+  - message: "Removed FIP acceptance for Paris trams."
+    date: 2026-01-31
+  - message: "Updated SNCF information regarding FIP access and ticket barriers."
+    date: 2026-01-28
+  - message: "Updated SNCF booking ways."
+    date: 2026-01-18
+  - message: "Updated FIP validity on Paris trams."
+    date: 2026-01-14
+  - message: "Added lookup for intercité reservations."
+    date: 2026-01-07
+  - message: "Updated SNCF reservation prices."
+    date: 2026-01-03
+  - message: "Minor adjustments SNCF."
+    date: 2025-12-27
+  - message: 'Describe two operators on "Marseille – Toulon" route.'
+    date: 2025-12-07
+  - message: "Minor SNCF improvements."
+    date: 2025-12-06
+  - message: "Removed FIP 50 ticket booking from SNCB website."
+    date: 2025-11-08
+  - message: "Added France."
+    date: 2025-10-12
 ---
 
 SNCF (Société Nationale des Chemins de fer Français) is the French national railway company and the main rail operator in [France](/country/france "France"). It operates almost all long-distance and regional trains in France.

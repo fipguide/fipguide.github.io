@@ -18,6 +18,33 @@ params:
       Domodossola)"
 content_images:
   - image.webp
+updates:
+  - message: "Added Léman Express to SNCF and SBB operator page."
+    date: 2026-10-24
+  - message: "Updated the cross-border Trenitalia fare to €11."
+    date: 2026-06-19
+  - message: "Added BLS."
+    date: 2026-02-08
+  - message: "Updated swiss french border."
+    date: 2026-01-08
+  - message: "Added new operators that do not accept FIP."
+    date: 2025-12-22
+  - message: "Added SP."
+    date: 2025-12-15
+  - message: "Added information from SBB colleague."
+    date: 2025-10-20
+  - message: "Added France."
+    date: 2025-10-12
+  - message: "English and french translations."
+    date: 2025-10-09
+  - message: "Added trenitalia."
+    date: 2025-10-09
+  - message: "Updated Liechtenstein borders."
+    date: 2025-09-29
+  - message: "Added French language."
+    date: 2025-07-21
+  - message: "Added SBB."
+    date: 2025-07-13
 ---
 
 ## FIP Information

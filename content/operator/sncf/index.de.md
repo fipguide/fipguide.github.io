@@ -15,6 +15,57 @@ aliases:
   - /booking/sncf-phone
   - /booking/sncf-ticket-office
   - /booking/transilien-ticket-office
+updates:
+  - message: "SNCF-Nomad-Fahrkartenautomaten hinzugefügt."
+    date: 2026-11-21
+  - message: "Léman Express auf den Seiten von SNCF und SBB ergänzt."
+    date: 2026-10-24
+  - message: "Buchungsinformationen zu SNCF Connect ergänzt."
+    date: 2026-10-22
+  - message: "ICN-Reservierungspreise aktualisiert."
+    date: 2026-10-04
+  - message: "Einstiegsregeln in Frankreich ergänzt."
+    date: 2026-10-04
+  - message: "Verbindungsabschnitt auf den englischen und französischen Seiten ergänzt."
+    date: 2026-09-20
+  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+    date: 2026-09-19
+  - message: "HOTNAT und AJC ergänzt."
+    date: 2026-07-13
+  - message: "Informationen zu SNCF-Zügen in Deutschland ergänzt."
+    date: 2026-05-12
+  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+    date: 2026-05-04
+  - message: "FIP-75-Unterstützung an verschiedenen Stellen ergänzt."
+    date: 2026-04-01
+  - message: "Weitere Hinweise auf die Pariser Straßenbahn entfernt."
+    date: 2026-03-21
+  - message: "FIP-Gültigkeit für die ICE-Direktverbindung Frankfurt–Bordeaux präzisiert."
+    date: 2026-03-15
+  - message: "Direktverbindung Frankfurt–Bordeaux ergänzt."
+    date: 2026-02-01
+  - message: "FIP-Anerkennung in Pariser Straßenbahnen entfernt."
+    date: 2026-01-31
+  - message: "FIP-Zugang und Zugangsschranken bei SNCF aktualisiert."
+    date: 2026-01-28
+  - message: "Buchungsmöglichkeiten bei SNCF aktualisiert."
+    date: 2026-01-18
+  - message: "FIP-Gültigkeit in Pariser Straßenbahnen aktualisiert."
+    date: 2026-01-14
+  - message: "Suche nach Intercité-Reservierungen ergänzt."
+    date: 2026-01-07
+  - message: "SNCF-Reservierungspreise aktualisiert."
+    date: 2026-01-03
+  - message: "Kleinere Anpassungen an den SNCF-Informationen."
+    date: 2025-12-27
+  - message: "Zwei Betreiber auf der Strecke Marseille–Toulon beschrieben."
+    date: 2025-12-07
+  - message: "Kleinere Verbesserungen an den SNCF-Informationen."
+    date: 2025-12-06
+  - message: "FIP-50-Ticketbuchung auf der SNCB-Website entfernt."
+    date: 2025-11-08
+  - message: "Frankreich hinzugefügt."
+    date: 2025-10-12
 ---
 
 Die SNCF (Société Nationale des Chemins de fer Français) ist die französische Staatsbahn und die wichtigste Bahngesellschaft in [Frankreich](/country/france "Frankreich"). Sie betreibt fast alle Fern- und Regionalzüge in Frankreich.

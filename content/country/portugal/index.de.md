@@ -9,6 +9,17 @@ params:
     - "[>] = In Richtung (z. B. V. Real de Sto António Guardiana [> Ayamonte] = V. Real de Sto António Guardiana ist der Grenzpunkt in Richtung Ayamonte)"
 content_images:
   - image.webp
+updates:
+  - message: "Tickets für grenzüberschreitende Züge zwischen Portugal und Spanien ergänzt."
+    date: 2026-11-21
+  - message: "FIP- und Buchungsinformationen zu CP und Renfe aktualisiert."
+    date: 2026-09-03
+  - message: "Frankreich hinzugefügt."
+    date: 2025-10-12
+  - message: "Grammatik auf den Portugal-Seiten korrigiert."
+    date: 2025-10-08
+  - message: "Portugal und CP hinzugefügt."
+    date: 2025-09-14
 ---
 
 ## FIP Nutzung

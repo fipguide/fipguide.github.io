@@ -13,6 +13,17 @@ operator:
   - eurostar
 content_images:
   - image.webp
+updates:
+  - message: "Französische Sprachversion hinzugefügt."
+    date: 2025-07-21
+  - message: "Eurostar-Preise aktualisiert."
+    date: 2025-06-17
+  - message: "Eurostar-Preise erhöht."
+    date: 2025-05-21
+  - message: "Englische Informationen zu LTG ergänzt."
+    date: 2025-01-23
+  - message: "Seiteninhalt hinzugefügt."
+    date: 2025-01-18
 ---
 
 Ab dem 1. Mai 2025 erhöht Eurostar die Preise auf alle FIP Fahrkarten um 5€ bzw. 5 £. Die Preiserhöhung betrifft alle FIP Globalpreise bei Eurostar Blue und Eurostar Red (Thalys) in allen Klassen. Die neuen Preise gelten für alle Buchungen, die ab dem 1. Mai 2025 getätigt werden. [^1]

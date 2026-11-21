@@ -16,6 +16,35 @@ params:
     - nl-gb-stl
 content_images:
   - image.webp
+updates:
+  - message: "Mise à jour de la formulation sur le passage de la frontière aux Pays-Bas."
+    date: 2026-10-12
+  - message: "Ajout d’une section sur les correspondances dans les pages anglaise et française."
+    date: 2026-09-20
+  - message: "Ajout d’informations sur le train des trois pays."
+    date: 2026-08-08
+  - message: "Ajout de l’Irlande (CIE) et de l’Irlande du Nord (NIR)."
+    date: 2026-03-12
+  - message: "Ajout de SLL."
+    date: 2026-02-25
+  - message: "Ajout de nouveaux opérateurs sans FIP."
+    date: 2025-12-22
+  - message: "Ajout de Stena Line BV comme opérateur."
+    date: 2025-12-22
+  - message: "Mise à jour des informations sur l’IC Amsterdam."
+    date: 2025-12-21
+  - message: "Ajout de Trenitalia."
+    date: 2025-10-09
+  - message: "Ajout de la version française."
+    date: 2025-07-21
+  - message: "Ajout de l’Autriche."
+    date: 2025-07-10
+  - message: "Ajout de points frontières sur la page pays."
+    date: 2025-05-30
+  - message: "Ajout de NS comme opérateur."
+    date: 2025-05-28
+  - message: "Contenu de la page ajouté."
+    date: 2025-03-23
 ---
 
 ## Informations FIP

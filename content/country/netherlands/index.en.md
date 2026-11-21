@@ -16,6 +16,35 @@ params:
     - nl-gb-stl
 content_images:
   - image.webp
+updates:
+  - message: "Netherlands border wording."
+    date: 2026-10-12
+  - message: "Added connections information to the English and French pages."
+    date: 2026-09-20
+  - message: "Added information about the three-country train (DE/BE/NL)."
+    date: 2026-08-08
+  - message: "Added Ireland (CIE) and Northern Ireland (NIR)."
+    date: 2026-03-12
+  - message: "Added SLL."
+    date: 2026-02-25
+  - message: "Added new operators that do not accept FIP."
+    date: 2025-12-22
+  - message: "Operator Stena Line BV."
+    date: 2025-12-22
+  - message: "Updated amsterdam IC."
+    date: 2025-12-21
+  - message: "Added trenitalia."
+    date: 2025-10-09
+  - message: "Added French language."
+    date: 2025-07-21
+  - message: "Added Austria."
+    date: 2025-07-10
+  - message: "Border Points on country page."
+    date: 2025-05-30
+  - message: "Added operator NS."
+    date: 2025-05-28
+  - message: "Page content added."
+    date: 2025-03-23
 ---
 
 ## FIP Information

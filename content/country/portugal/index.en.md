@@ -9,6 +9,17 @@ params:
     - "[>] = Direction (for example: V. Real de Sto António Guardiana [> Ayamonte] = the border point at V. Real de Sto António Guardiana is oriented towards Ayamonte)"
 content_images:
   - image.webp
+updates:
+  - message: "Onboard tickets for cross-border trains Portugal / Spain."
+    date: 2026-11-21
+  - message: "Updated FIP and booking details for CP and Renfe."
+    date: 2026-09-03
+  - message: "Added France."
+    date: 2025-10-12
+  - message: "Grammatical issues on Portugal pages."
+    date: 2025-10-08
+  - message: "Added Portugal & CP."
+    date: 2025-09-14
 ---
 
 ## FIP Information

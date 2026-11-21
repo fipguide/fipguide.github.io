@@ -10,6 +10,37 @@ params:
     - es-fr
 content_images:
   - image.webp
+updates:
+  - message: "Mise à jour des informations FIP et de réservation sur CP et Renfe."
+    date: 2026-09-03
+  - message: "Ajout d’informations sur les AVE internationaux complets."
+    date: 2026-08-09
+  - message: "Ajout des pays manquants."
+    date: 2026-05-12
+  - message: "Mise à jour des tarifs Renfe pour 2026."
+    date: 2026-05-02
+  - message: "Mise à jour des modalités d’achat des billets à la frontière espagnole."
+    date: 2025-10-30
+  - message: "Mise à jour des informations sur les trains transfrontaliers entre la France et l’Espagne."
+    date: 2025-10-18
+  - message: "Ajout de la France."
+    date: 2025-10-12
+  - message: "Ajout de Trenitalia."
+    date: 2025-10-09
+  - message: "Ajout d’Euskotren comme opérateur."
+    date: 2025-09-02
+  - message: "Informations sur GySEV complétées."
+    date: 2025-08-11
+  - message: "Ajout de la version française."
+    date: 2025-07-21
+  - message: "Ajout d’informations sur les AVE internationaux."
+    date: 2025-07-13
+  - message: "Ajout de l’Autriche."
+    date: 2025-07-10
+  - message: "Ajout de points frontières sur la page pays."
+    date: 2025-05-30
+  - message: "Ajout de l’Espagne et de l’opérateur Renfe."
+    date: 2025-05-26
 ---
 
 ## Informations FIP

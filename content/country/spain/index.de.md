@@ -10,6 +10,37 @@ params:
     - es-fr
 content_images:
   - image.webp
+updates:
+  - message: "FIP- und Buchungsinformationen zu CP und Renfe aktualisiert."
+    date: 2026-09-03
+  - message: "Informationen zur Ausbuchung internationaler AVE ergänzt."
+    date: 2026-08-09
+  - message: "Fehlende Länder ergänzt."
+    date: 2026-05-12
+  - message: "Renfe-Ticketpreise für 2026 aktualisiert."
+    date: 2026-05-02
+  - message: "Ticketkauf an der spanischen Grenze aktualisiert."
+    date: 2025-10-30
+  - message: "Grenzüberschreitende Zugverbindungen zwischen Frankreich und Spanien aktualisiert."
+    date: 2025-10-18
+  - message: "Frankreich hinzugefügt."
+    date: 2025-10-12
+  - message: "Trenitalia hinzugefügt."
+    date: 2025-10-09
+  - message: "Euskotren als Betreiber hinzugefügt."
+    date: 2025-09-02
+  - message: "Informationen zu GySEV erweitert."
+    date: 2025-08-11
+  - message: "Französische Sprachversion hinzugefügt."
+    date: 2025-07-21
+  - message: "Informationen zu internationalen AVE ergänzt."
+    date: 2025-07-13
+  - message: "Österreich als Land hinzugefügt."
+    date: 2025-07-10
+  - message: "Grenzpunkte auf der Länderseite ergänzt."
+    date: 2025-05-30
+  - message: "Spanien und den Betreiber Renfe hinzugefügt."
+    date: 2025-05-26
 ---
 
 ## FIP Nutzung

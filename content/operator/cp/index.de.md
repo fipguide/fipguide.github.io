@@ -7,6 +7,23 @@ content_images:
   - image.webp
 aliases:
   - /booking/cp-ticket-office
+updates:
+  - message: "CP-Betreiberinformationen aktualisiert."
+    date: 2026-11-15
+  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+    date: 2026-09-19
+  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+    date: 2026-05-04
+  - message: "Reisebericht von Zugpost hinzugefügt."
+    date: 2026-05-02
+  - message: "Informationen eines SBB-Kollegen ergänzt."
+    date: 2025-10-20
+  - message: "Trenitalia hinzugefügt."
+    date: 2025-10-09
+  - message: "Grammatik auf den Portugal-Seiten korrigiert."
+    date: 2025-10-08
+  - message: "Portugal und CP hinzugefügt."
+    date: 2025-09-14
 ---
 
 Die CP (Comboios de Portugal) ist die portugiesische Staatsbahn und die wichtigste Bahngesellschaft in [Portugal](/country/portugal "Portugal").

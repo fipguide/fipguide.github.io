@@ -10,6 +10,37 @@ params:
     - es-fr
 content_images:
   - image.webp
+updates:
+  - message: "Updated FIP and booking details for CP and Renfe."
+    date: 2026-09-03
+  - message: "Booked out international AVE."
+    date: 2026-08-09
+  - message: "Added missing countries."
+    date: 2026-05-12
+  - message: "Updated Renfe ticket prices for 2026."
+    date: 2026-05-02
+  - message: "Updated Spain border ticket purchase."
+    date: 2025-10-30
+  - message: "Updated cross-border train information for France and Spain."
+    date: 2025-10-18
+  - message: "Added France."
+    date: 2025-10-12
+  - message: "Added trenitalia."
+    date: 2025-10-09
+  - message: "Added operator euskotren."
+    date: 2025-09-02
+  - message: "Extend gysev information."
+    date: 2025-08-11
+  - message: "Added French language."
+    date: 2025-07-21
+  - message: "Added information about international AVE."
+    date: 2025-07-13
+  - message: "Added Austria."
+    date: 2025-07-10
+  - message: "Border Points on country page."
+    date: 2025-05-30
+  - message: "Added Spain and the Renfe operator."
+    date: 2025-05-26
 ---
 
 ## FIP Information

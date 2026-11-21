@@ -21,6 +21,27 @@ params:
       vers Locarno)"
 content_images:
   - image.webp
+updates:
+  - message: "Ajout de la Slovénie et de SŽ."
+    date: 2026-07-11
+  - message: "Mise à jour à 11 € du tarif transfrontalier Trenitalia."
+    date: 2026-06-19
+  - message: "Ajout des pays manquants."
+    date: 2026-05-12
+  - message: "Ajout de la Grèce, d’Attica et de Hellenic Train."
+    date: 2026-03-22
+  - message: "Amélioration des informations sur les voyages internationaux en Italie."
+    date: 2025-12-28
+  - message: "Ajout de nouveaux opérateurs sans FIP."
+    date: 2025-12-22
+  - message: "Mise à jour des informations sur le détroit de Messine."
+    date: 2025-10-30
+  - message: "Ajout de la France."
+    date: 2025-10-12
+  - message: "Ajout de traductions."
+    date: 2025-10-09
+  - message: "Ajout de Trenitalia."
+    date: 2025-10-09
 ---
 
 ## Informations FIP

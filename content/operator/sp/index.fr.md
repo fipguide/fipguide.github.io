@@ -7,6 +7,33 @@ country:
   - italy
 content_images:
   - image.webp
+updates:
+  - message: "Mise à jour de la validité des Coupons FIP chez Jungfraubahn."
+    date: 2026-11-01
+  - message: "Suppression de la section sur Sensetalbahn et de quelques corrections mineures."
+    date: 2026-09-29
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout du chemin de fer Brienz-Rothorn."
+    date: 2026-08-19
+  - message: "Mise à jour des informations sur Jungfraubahn."
+    date: 2026-08-17
+  - message: "Ajout d’informations non officielles sur le ski avec JB."
+    date: 2026-06-22
+  - message: "Suppression de MIB de la page SP."
+    date: 2026-05-09
+  - message: "Mise à jour des lignes THURBO et des informations transfrontalières."
+    date: 2026-04-05
+  - message: "Mise à jour des informations sur RBS."
+    date: 2026-03-10
+  - message: "Précision des informations sur SOB."
+    date: 2026-02-07
+  - message: "Amélioration des informations sur Centovalli."
+    date: 2026-02-06
+  - message: "Ajout de l’Allemagne."
+    date: 2025-12-19
+  - message: "Ajout de SP."
+    date: 2025-12-15
 ---
 
 En [Suisse](/country/switzerland "Suisse"), en plus de la compagnie nationale [SBB CFF FFS](/operator/sbb "SBB CFF FFS") et de la plus petite BLS, il existe une association de nombreuses entreprises ferroviaires regroupées sous l’appellation _Schweizer Privatbahnen_ (Chemins de fer privés suisses). On y trouve à la fois des trains réguliers du réseau suisse et des services plutôt touristiques. En plus des trains, certains bateaux, téléphériques et bus en font partie.

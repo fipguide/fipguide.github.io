@@ -11,6 +11,13 @@ operator:
   - sncb
 content_images:
   - image.webp
+updates:
+  - message: "Ajout du distributeur de billets comme option de réservation chez SNCB."
+    date: 2026-06-03
+  - message: "Mise à jour de la situation de la vente de billets à bord chez SNCB."
+    date: 2026-05-02
+  - message: "Ajout d’une actualité sur la fin de la vente de billets à bord chez SNCB."
+    date: 2026-04-09
 ---
 
 À partir du 1er juillet 2026, la compagnie ferroviaire nationale belge SNCB / NMBS mettra fin à la vente de billets à bord. Cela vise à garantir que tous les voyageurs soient en possession d’un billet valable avant de monter à bord.

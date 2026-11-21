@@ -18,6 +18,33 @@ params:
       point frontière en direction de Domodossola)"
 content_images:
   - image.webp
+updates:
+  - message: "Ajout du Léman Express dans les pages de SNCF et SBB."
+    date: 2026-10-24
+  - message: "Mise à jour à 11 € du tarif transfrontalier Trenitalia."
+    date: 2026-06-19
+  - message: "Ajout de BLS."
+    date: 2026-02-08
+  - message: "Mise à jour du point frontière entre la Suisse et la France."
+    date: 2026-01-08
+  - message: "Ajout de nouveaux opérateurs sans FIP."
+    date: 2025-12-22
+  - message: "Ajout de SP."
+    date: 2025-12-15
+  - message: "Ajout d’informations communiquées par un collègue des CFF."
+    date: 2025-10-20
+  - message: "Ajout de la France."
+    date: 2025-10-12
+  - message: "Ajout des traductions anglaise et française."
+    date: 2025-10-09
+  - message: "Ajout de Trenitalia."
+    date: 2025-10-09
+  - message: "Mise à jour des points frontières au Liechtenstein."
+    date: 2025-09-29
+  - message: "Ajout de la version française."
+    date: 2025-07-21
+  - message: "Ajout des CFF."
+    date: 2025-07-13
 ---
 
 ## Informations FIP

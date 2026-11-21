@@ -8,6 +8,17 @@ content_images:
 aliases:
   - /booking/irish-rail-ticket-office
   - /booking/irish-rail-website
+updates:
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Mise à jour des informations sur l’opérateur CIE."
+    date: 2026-08-17
+  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+    date: 2026-05-04
+  - message: "Ajout de la prise en charge du FIP 75 à plusieurs endroits."
+    date: 2026-04-01
+  - message: "Ajout de l’Irlande (CIE) et de l’Irlande du Nord (NIR)."
+    date: 2026-03-12
 ---
 
 Córas Iompair Éireann (CIE) est la compagnie ferroviaire nationale d’[Irlande](/country/ireland) et la société mère d’Irish Rail (Iarnród Éireann). La filiale exploite la majorité du trafic ferroviaire en République d’Irlande, notamment les lignes principales entre Dublin, Cork, Galway et Limerick, ainsi que des liaisons régionales dans les environs de Dublin et Cork.

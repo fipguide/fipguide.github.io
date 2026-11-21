@@ -5,6 +5,17 @@ country:
   - montenegro
 content_images:
   - image.webp
+updates:
+  - message: "Nordmazedonien hinzugefügt."
+    date: 2026-10-08
+  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+    date: 2026-09-19
+  - message: "Bosnien hinzugefügt."
+    date: 2026-08-30
+  - message: "Serbien hinzugefügt."
+    date: 2026-06-29
+  - message: "Montenegro und ŽPCG hinzugefügt."
+    date: 2026-05-02
 ---
 
 ŽPCG (Željeznički prevoz Crne Gore, Жељезнички превоз Црне Горе) ist der nationale Personenverkehrsbetreiber in Montenegro.

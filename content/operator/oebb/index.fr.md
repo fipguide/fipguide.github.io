@@ -12,6 +12,47 @@ aliases:
   - /booking/oebb-ticket-machine
   - /booking/oebb-ticket-office
   - /booking/oebb-website
+updates:
+  - message: "Correction d’incohérences dans les informations ÖBB."
+    date: 2026-10-04
+  - message: "Ajout du supplément Brenner sur le site Web ÖBB."
+    date: 2026-10-02
+  - message: "Ajout d’une section sur les correspondances dans les pages anglaise et française."
+    date: 2026-09-20
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Renommage de Vienna Airport Lines en bus VAL."
+    date: 2026-09-05
+  - message: "Ajout de HOTNAT et d’AJC."
+    date: 2026-07-13
+  - message: "Ajout de la Slovénie et de SŽ."
+    date: 2026-07-11
+  - message: "Ajout de la hotline FIP de DB."
+    date: 2026-06-13
+  - message: "Suppression de Schneebergbahn."
+    date: 2026-05-15
+  - message: "Ajout d’informations temporaires sur la réservation par la hotline ÖBB en Allemagne."
+    date: 2026-05-12
+  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+    date: 2026-05-04
+  - message: "Suppression de la section sur les bus IC d’ÖBB."
+    date: 2026-02-13
+  - message: "Mise à jour de la validité FIP dans les trains EC et RJ entre l’Italie et l’Autriche."
+    date: 2026-01-10
+  - message: "Ajout d’informations sur le trafic du corridor Salzbourg–Kufstein."
+    date: 2026-01-07
+  - message: "Amélioration des informations sur les voyages internationaux en Italie."
+    date: 2025-12-28
+  - message: "Ajout de la France."
+    date: 2025-10-12
+  - message: "Ajout des traductions anglaise et française."
+    date: 2025-10-09
+  - message: "Ajout de Trenitalia."
+    date: 2025-10-09
+  - message: "Ajout de ČD comme opérateur."
+    date: 2025-09-20
+  - message: "Informations sur GySEV complétées."
+    date: 2025-08-11
 ---
 
 Les ÖBB (Österreichische Bundesbahnen) sont la compagnie ferroviaire nationale d’[Autriche](/country/austria "Autriche") et l’opérateur ferroviaire le plus important du pays. Elle assure la majorité des services voyageurs.

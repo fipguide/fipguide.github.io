@@ -8,6 +8,51 @@ content_images:
 aliases:
   - /booking/ns-phone
   - /booking/ns-ticket-office
+updates:
+  - message: "Ajout des modalités de paiement par carte du supplément ICD hors pointe."
+    date: 2026-10-31
+  - message: "Ajout d’une section sur les correspondances dans les pages anglaise et française."
+    date: 2026-09-20
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Suppression de l’obligation temporaire de réservation pour les ICE transfrontaliers."
+    date: 2026-09-03
+  - message: "Ajout d’informations sur le train des trois pays."
+    date: 2026-08-08
+  - message: "Ajout de HOTNAT et d’AJC."
+    date: 2026-07-13
+  - message: "Distinction plus claire entre les services R-Net."
+    date: 2026-07-10
+  - message: "Précisions sur R-Net."
+    date: 2026-07-07
+  - message: "Ajout du pass illimité SNCB."
+    date: 2026-05-12
+  - message: "Ajout d’une obligation temporaire de réservation dans les trains ICE."
+    date: 2026-04-25
+  - message: "Ajout d’informations sur les réductions NS."
+    date: 2026-03-11
+  - message: "Mise à jour des informations sur les trains NS ICD et ECD."
+    date: 2026-02-25
+  - message: "Ajout des options de réservation par téléphone auprès de NS."
+    date: 2026-02-08
+  - message: "Mise à jour des informations sur l’IC Amsterdam."
+    date: 2025-12-21
+  - message: "Suppression de la réservation de billets FIP 50 sur le site de SNCB."
+    date: 2025-11-08
+  - message: "Ajout du supplément ICE pour la ligne 77."
+    date: 2025-10-10
+  - message: "Mise en conformité des informations NS RE avec la norme."
+    date: 2025-10-10
+  - message: "Ajout de Trenitalia."
+    date: 2025-10-09
+  - message: "Ajout de la version française."
+    date: 2025-07-21
+  - message: "Ajout de l’Autriche."
+    date: 2025-07-10
+  - message: "Ajout de NS comme opérateur."
+    date: 2025-05-28
+  - message: "Contenu de la page ajouté."
+    date: 2025-03-23
 ---
 
 Les Nederlandse Spoorwegen (NS) sont la compagnie ferroviaire nationale des [Pays-Bas](/country/netherlands "Pays-Bas") et assurent la majorité du trafic voyageurs dans le pays.

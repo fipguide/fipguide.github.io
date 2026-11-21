@@ -8,6 +8,9 @@ operator:
   - dsb
 content_images:
   - image.webp
+updates:
+  - message: "Mise à jour des conditions FIP au Danemark à partir du 1er septembre 2026."
+    date: 2026-09-03
 ---
 
 À compter du 1er septembre 2026, la DSB a repris les services ferroviaires de GoCollective. Les lignes régionales existantes continueront d'être exploitées sous le nom de « DSB Vores Tog ». [^1]

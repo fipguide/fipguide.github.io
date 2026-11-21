@@ -55,5 +55,19 @@
         {{ end }}
       </div>
     </section>
+    <section class="o-startpage__updates">
+      <h2>{{ T "smallUpdates.headline" }}</h2>
+      <ul class="o-startpage__updates-list">
+        {{ range first 5 (partial "helper/sortedUpdates" .) }}
+          <li>
+            <time datetime="{{ .date.Format "2006-01-02" }}"
+              >{{ .date | time.Format ":date_long" }}</time
+            >
+            <p>{{ .message }}</p>
+            <a href="{{ .page.RelPermalink }}">{{ .page.Title }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </section>
   </div>
 {{ end }}

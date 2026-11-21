@@ -10,6 +10,9 @@ params:
     - no-se
 content_images:
   - image.webp
+updates:
+  - message: "Ajout de la Norvège."
+    date: 2026-04-20
 ---
 
 ## Informations FIP

@@ -21,6 +21,27 @@ params:
       in Richtung Locarno)"
 content_images:
   - image.webp
+updates:
+  - message: "Slowenien und SŽ hinzugefügt."
+    date: 2026-07-11
+  - message: "Grenzüberschreitenden Trenitalia-Preis auf 11 € aktualisiert."
+    date: 2026-06-19
+  - message: "Fehlende Länder ergänzt."
+    date: 2026-05-12
+  - message: "Griechenland, Attica und Hellenic Train hinzugefügt."
+    date: 2026-03-22
+  - message: "Internationale Bahnreisen in Italien verbessert beschrieben."
+    date: 2025-12-28
+  - message: "Neue Betreiber ohne FIP hinzugefügt."
+    date: 2025-12-22
+  - message: "Informationen zur Straße von Messina aktualisiert."
+    date: 2025-10-30
+  - message: "Frankreich hinzugefügt."
+    date: 2025-10-12
+  - message: "Übersetzungen ergänzt."
+    date: 2025-10-09
+  - message: "Trenitalia hinzugefügt."
+    date: 2025-10-09
 ---
 
 ## FIP Nutzung

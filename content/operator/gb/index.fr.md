@@ -9,6 +9,47 @@ aliases:
   - /booking/caledonian-sleeper-website
   - /booking/lner-website
   - /booking/national-rail-ticket-office
+updates:
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout des conditions d’annulation pour DB et GB."
+    date: 2026-08-17
+  - message: "Suppression du ferry gratuit du Dartmouth Steam Railway."
+    date: 2026-06-19
+  - message: "Mise à jour des informations FIP sur le Dartmouth Steam Railway."
+    date: 2026-06-18
+  - message: "Ajout des guichets de l’Elizabeth line."
+    date: 2026-05-09
+  - message: "Ajout de l’acceptation FIP sur la ligne Lumo West Coast."
+    date: 2026-05-02
+  - message: "Mise à jour du nom du téléphérique de Londres."
+    date: 2026-05-02
+  - message: "Dartmouth Steam Railway indiqué comme non valable avec le FIP."
+    date: 2026-04-26
+  - message: "Ajout de la prise en charge du FIP 75 à plusieurs endroits."
+    date: 2026-04-01
+  - message: "Ajout d’informations sur les services de première classe en Grande-Bretagne."
+    date: 2026-03-23
+  - message: "Mise à jour du résumé Lumo."
+    date: 2026-03-18
+  - message: "Ajout de nouvelles lignes Lumo West Coast."
+    date: 2026-03-15
+  - message: "Précision sur l’offre de collations dans les trains Greater Anglia."
+    date: 2026-03-08
+  - message: "Ajout des tarifs BR pour trouver les tarifs FIP."
+    date: 2026-01-25
+  - message: "Mise à jour des informations sur Londres."
+    date: 2026-01-18
+  - message: "Ajout de Seatfrog pour la Grande-Bretagne."
+    date: 2026-01-17
+  - message: "Ajout d’une règle pratique concernant le Rover."
+    date: 2026-01-09
+  - message: "Ajout d’une règle pratique concernant le Rover."
+    date: 2026-01-09
+  - message: "Ajout d’informations sur le Rover."
+    date: 2025-12-22
+  - message: "Ajout de la Grande-Bretagne."
+    date: 2025-10-21
 ---
 
 Au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), il existe de nombreuses compagnies ferroviaires différentes, regroupées sous le nom de _National Rail_. Chaque entreprise exploite ses propres lignes, la plupart se concentrant sur une région du pays.

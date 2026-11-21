@@ -10,6 +10,59 @@ aliases:
   - /booking/db-website
   - /booking/db-website-fip-db
   - /booking/db-website-fip-international
+updates:
+  - message: "Ajout d’informations sur la réservation via SNCF Connect."
+    date: 2026-10-22
+  - message: "Mise à jour des tarifs des voyages transfrontaliers réservés par téléphone auprès d’ÖBB."
+    date: 2026-10-22
+  - message: "Ajout de la catégorie de train Wangerooge–Harlesiel chez DB."
+    date: 2026-10-15
+  - message: "Mise à jour des informations sur les réseaux de transport intégrés."
+    date: 2026-10-14
+  - message: "Ajout de MEX comme catégorie de train."
+    date: 2026-10-09
+  - message: "Mise à jour des conditions FIP chez Scandlines et DB Regio Stuttgart."
+    date: 2026-09-20
+  - message: "Ajout d’une section sur les correspondances dans les pages anglaise et française."
+    date: 2026-09-20
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Suppression de l’obligation temporaire de réservation pour les ICE transfrontaliers."
+    date: 2026-09-03
+  - message: "Ajout des conditions d’annulation pour DB et GB."
+    date: 2026-08-17
+  - message: "Ajout de HBX."
+    date: 2026-08-17
+  - message: "Mise à jour des informations sur Regionalverkehre Start GmbH."
+    date: 2026-08-01
+  - message: "Ajout de HOTNAT et d’AJC."
+    date: 2026-07-13
+  - message: "Ajout de la liaison directe Copenhague–Prague en RJ."
+    date: 2026-07-07
+  - message: "Ajout d’informations sur les réductions FIP pour la S-Bahn Mitteldeutschland (S5/X)."
+    date: 2026-06-03
+  - message: "Ajout d’informations sur les services Nightjet utilisant des voitures Intercity."
+    date: 2026-05-23
+  - message: "Ajout d’informations temporaires sur la réservation par la hotline ÖBB en Allemagne."
+    date: 2026-05-12
+  - message: "Mise à jour des informations sur DB Regio Mobidig."
+    date: 2026-05-12
+  - message: "Mise à jour du tarif de réservation ÖBB en Allemagne."
+    date: 2026-05-09
+  - message: "Précision sur la gratuité pour les enfants chez DB."
+    date: 2026-05-04
+  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+    date: 2026-05-04
+  - message: "Ajout d’une obligation temporaire de réservation dans les trains ICE."
+    date: 2026-04-25
+  - message: "Restriction des options de réservation DB."
+    date: 2026-02-19
+  - message: "Amélioration des informations sur les voyages internationaux en Italie."
+    date: 2025-12-28
+  - message: "Mise à jour des changements d’horaires."
+    date: 2025-12-28
+  - message: "Ajout de l’Allemagne."
+    date: 2025-12-19
 ---
 
 La Deutsche Bahn (DB) est la plus grande entreprise ferroviaire d’[Allemagne](/country/germany "Allemagne") et exploite la majorité du trafic longue distance ainsi que de nombreuses liaisons régionales.

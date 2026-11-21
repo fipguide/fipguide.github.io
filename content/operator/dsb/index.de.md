@@ -9,6 +9,37 @@ aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
   - /booking/dsb-website
+updates:
+  - message: "Nutzung der FIP-Vergünstigungen bei Scandlines und DB Regio Stuttgart aktualisiert."
+    date: 2026-09-20
+  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+    date: 2026-09-19
+  - message: "FIP-Nutzung in Dänemark ab dem 1. September 2026 aktualisiert."
+    date: 2026-09-03
+  - message: "DSB-Bordzuschlag und Frühstückszeiten ergänzt."
+    date: 2026-08-09
+  - message: "HOTNAT und AJC ergänzt."
+    date: 2026-07-13
+  - message: "Direktverbindung Kopenhagen–Prag mit dem RJ ergänzt."
+    date: 2026-07-07
+  - message: "DB-FIP-Hotline ergänzt."
+    date: 2026-06-13
+  - message: "DSB-Hinweis zu Regionalzügen angepasst."
+    date: 2026-05-13
+  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+    date: 2026-05-04
+  - message: "Fahrplanänderungen aktualisiert."
+    date: 2025-12-28
+  - message: "Trenitalia hinzugefügt."
+    date: 2025-10-09
+  - message: "Informationen zu GySEV erweitert."
+    date: 2025-08-11
+  - message: "Französische Sprachversion hinzugefügt."
+    date: 2025-07-21
+  - message: "Österreich als Land hinzugefügt."
+    date: 2025-07-10
+  - message: "Informationen zu DSB ergänzt."
+    date: 2025-05-07
 ---
 
 Die DSB (Danske Statsbaner) ist die staatliche Eisenbahngesellschaft in [Dänemark](/country/denmark "Dänemark"). Sie betreibt den Großteil des Personenverkehrs auf dem dänischen Schienennetz. Unter dem Betreibernamen "DSB Vores Tog" betreibt sie seit dem 01.09.2026 auch Zugverkehr in Mittel- und Westjütland und auf Fünen. [^4]

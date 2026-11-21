@@ -7,6 +7,25 @@ content_images:
   - image.webp
 aliases:
   - /booking/bdz-ticket-office
+updates:
+  - message: "Nordmazedonien hinzugefügt."
+    date: 2026-10-08
+  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+    date: 2026-09-19
+  - message: "Bosnien hinzugefügt."
+    date: 2026-08-30
+  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+    date: 2026-05-04
+  - message: "FIP-Gültigkeit bei ČD aktualisiert."
+    date: 2026-03-10
+  - message: "Informationen zu Bulgarien korrigiert."
+    date: 2025-10-09
+  - message: "Online-Buchungsmöglichkeit bei BDZ entfernt."
+    date: 2025-10-08
+  - message: "BDZ-Reservierungspreise aktualisiert."
+    date: 2025-10-08
+  - message: "Bulgarien und BDŽ hinzugefügt."
+    date: 2025-10-07
 ---
 
 Die Balgarski Darschawni Schelesnizi (BDŽ) ist die staatliche Eisenbahngesellschaft von [Bulgarien](/country/bulgaria "Bulgarien") und betreibt derzeit fast alle Verbindungen im Personenverkehr auf dem bulgarischen Schienennetz.

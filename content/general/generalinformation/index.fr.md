@@ -7,6 +7,9 @@ description: Informations générales sur le FIP, la Carte FIP (Carte
 toc: true
 aliases:
   - /generalinformation/
+updates:
+  - message: "Contenu de la page ajouté."
+    date: 2025-12-18
 ---
 
 ## Généralités

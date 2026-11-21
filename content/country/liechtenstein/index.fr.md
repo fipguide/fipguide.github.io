@@ -2,6 +2,11 @@
 title: Liechtenstein
 content_images:
   - image.webp
+updates:
+  - message: "Mise à jour des points frontières au Liechtenstein."
+    date: 2025-09-29
+  - message: "Ajout du Liechtenstein."
+    date: 2025-08-04
 ---
 
 ## Informations FIP

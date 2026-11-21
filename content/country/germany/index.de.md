@@ -98,6 +98,39 @@ params:
     - MS = Mitte See
 content_images:
   - image.webp
+updates:
+  - message: "Regeln für die Grenze Deutschland–Tschechien aktualisiert."
+    date: 2026-10-12
+  - message: "Ilztalbahn als Betreiber ohne FIP hinzugefügt."
+    date: 2026-10-05
+  - message: "Nutzung der FIP-Vergünstigungen bei Scandlines und DB Regio Stuttgart aktualisiert."
+    date: 2026-09-20
+  - message: "FIP-Nutzung in Dänemark ab dem 1. September 2026 aktualisiert."
+    date: 2026-09-03
+  - message: "Informationen zu Regionalverkehre Start GmbH aktualisiert."
+    date: 2026-08-01
+  - message: "Direktverbindung Kopenhagen–Prag mit dem RJ ergänzt."
+    date: 2026-07-07
+  - message: "Informationen zu SNCF-Zügen in Deutschland ergänzt."
+    date: 2026-05-12
+  - message: "Grenzbeschreibung Deutschland–Belgien verbessert."
+    date: 2026-03-12
+  - message: "Regeln für die Ortenau-S-Bahn-Linie RS4 aktualisiert."
+    date: 2026-02-22
+  - message: "Direktverbindung Frankfurt–Bordeaux ergänzt."
+    date: 2026-02-01
+  - message: "Aussenfern Railway hinzugefügt."
+    date: 2026-01-17
+  - message: "PKP-Informationen verbessert."
+    date: 2025-12-30
+  - message: "Fahrplanänderungen aktualisiert."
+    date: 2025-12-28
+  - message: "Neue Betreiber ohne FIP hinzugefügt."
+    date: 2025-12-22
+  - message: "Amsterdam-IC-Informationen aktualisiert."
+    date: 2025-12-21
+  - message: "Deutschland hinzugefügt."
+    date: 2025-12-19
 ---
 
 ## FIP Nutzung

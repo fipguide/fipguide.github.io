@@ -26,6 +26,31 @@ params:
     - at-de
 content_images:
   - image.webp
+updates:
+  - message: "Slowenien und SŽ hinzugefügt."
+    date: 2026-07-11
+  - message: "Schneebergbahn entfernt."
+    date: 2026-05-15
+  - message: "Informationen zu DB Regio Mobidig aktualisiert."
+    date: 2026-05-12
+  - message: "Aussenfern Railway hinzugefügt."
+    date: 2026-01-17
+  - message: "Internationale Bahnreisen in Italien verbessert beschrieben."
+    date: 2025-12-28
+  - message: "Fahrplanänderungen aktualisiert."
+    date: 2025-12-28
+  - message: "Trenitalia hinzugefügt."
+    date: 2025-10-09
+  - message: "Grenzpunkte in Liechtenstein aktualisiert."
+    date: 2025-09-29
+  - message: "Informationen zu GySEV erweitert."
+    date: 2025-08-11
+  - message: "Französische Sprachversion hinzugefügt."
+    date: 2025-07-21
+  - message: "SBB hinzugefügt."
+    date: 2025-07-13
+  - message: "Österreich als Land hinzugefügt."
+    date: 2025-07-10
 ---
 
 ## FIP Nutzung

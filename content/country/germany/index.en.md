@@ -98,6 +98,39 @@ params:
     - MS = Middle of the lake
 content_images:
   - image.webp
+updates:
+  - message: "Updated rules for Germany-Czechia border."
+    date: 2026-10-12
+  - message: "Added Ilztalbahn to Non-FIP-Operator."
+    date: 2026-10-05
+  - message: "Updated FIP travel conditions for Scandlines and DB Regio Stuttgart."
+    date: 2026-09-20
+  - message: "Updates on FIP usage in Denmark starting 1 september 2026."
+    date: 2026-09-03
+  - message: "Updated Regionalverkehre Start GmbH."
+    date: 2026-08-01
+  - message: "Added a direct RJ service between Copenhagen and Prague."
+    date: 2026-07-07
+  - message: "Added SNCF trains in Germany."
+    date: 2026-05-12
+  - message: "Improved Germany / Belgium border description."
+    date: 2026-03-12
+  - message: "Updated rules for Ortenau S-Bahn line RS4."
+    date: 2026-02-22
+  - message: "Added a direct Frankfurt–Bordeaux train."
+    date: 2026-02-01
+  - message: "Added Aussenfern Railway."
+    date: 2026-01-17
+  - message: "Improved PKP information."
+    date: 2025-12-30
+  - message: "Content update timetable change."
+    date: 2025-12-28
+  - message: "Added new operators that do not accept FIP."
+    date: 2025-12-22
+  - message: "Updated amsterdam IC."
+    date: 2025-12-21
+  - message: "Added Germany."
+    date: 2025-12-19
 ---
 
 ## FIP Information

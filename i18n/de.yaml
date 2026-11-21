@@ -253,6 +253,8 @@ satellite:
 search:
   open-aria-label: Suchbereich öffnen
 skipToContent: Zum Inhalt springen
+smallUpdates:
+  headline: Kleine Änderungen
 support:
   text: >
     Du möchtest dein Wissen rund um FIP-Regelungen teilen? Schau im Bereich
@@ -376,7 +378,9 @@ trainCategory:
   riskOfConfusion: Verwechslungsgefahr
   routeOverview: Streckenübersicht
 updateDate:
-  aria-label: Öffne die Commit-Verlauf der Seite
+  aria-label: Änderungsverlauf dieser Seite öffnen
+  dialogTitle: Änderungsverlauf der Seite
+  githubHistory: Vollständigen Verlauf auf GitHub ansehen
   label: Zuletzt aktualisiert
 wip: >-
   An dieser Seite wird noch gearbeitet und Inhalte können unvollständig sein.

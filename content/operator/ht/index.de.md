@@ -8,6 +8,17 @@ content_images:
 aliases:
   - /booking/ht-ticket-office
   - /booking/ht-website
+updates:
+  - message: "Nordmazedonien hinzugefügt."
+    date: 2026-10-08
+  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+    date: 2026-09-19
+  - message: "Bosnien hinzugefügt."
+    date: 2026-08-30
+  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+    date: 2026-05-04
+  - message: "Griechenland, Attica und Hellenic Train hinzugefügt."
+    date: 2026-03-22
 ---
 
 Die Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) betreibt den gesamten staatlichen Personenverkehr auf dem griechischen Normalspurnetz. Das Unternehmen betreibt Fern-, Regional- und den Vorortverkehr („Proastiakos“). Seit 2017 ist es eine hundertprozentige Tochter der italienischen Staatsbahn Ferrovie dello Stato Italiane (FS).

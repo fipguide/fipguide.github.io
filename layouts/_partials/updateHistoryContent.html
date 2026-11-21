@@ -1,0 +1,13 @@
+{{- $page := .page -}}
+<ul class="o-update-history">
+  {{- range .updates }}
+    {{- $date := time.AsTime .date }}
+    <li>
+      <time datetime="{{ $date.Format "2006-01-02" }}"
+        >{{ $date | time.Format ":date_long" }}</time
+      >
+      <p>{{ .message }}</p>
+    </li>
+  {{- end }}
+</ul>
+{{ partial "link" (dict "Destination" .githubLink "Text" (T "updateDate.githubHistory") "Page" $page) }}

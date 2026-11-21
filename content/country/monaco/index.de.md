@@ -2,6 +2,11 @@
 title: Monaco
 content_images:
   - image.webp
+updates:
+  - message: "FIP- und Buchungsinformationen zu CP und Renfe aktualisiert."
+    date: 2026-09-03
+  - message: "Frankreich hinzugefügt."
+    date: 2025-10-12
 ---
 
 ## FIP Nutzung

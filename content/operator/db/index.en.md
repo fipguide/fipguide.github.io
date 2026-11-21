@@ -10,6 +10,59 @@ aliases:
   - /booking/db-website
   - /booking/db-website-fip-db
   - /booking/db-website-fip-international
+updates:
+  - message: "Added SNCF Connect booking information."
+    date: 2026-10-22
+  - message: "Updated prices for cross-border travel booked by phone via ÖBB."
+    date: 2026-10-22
+  - message: "Added the Wangerooge–Harlesiel ferry train category to DB."
+    date: 2026-10-15
+  - message: "Updated information on integrated public transport networks."
+    date: 2026-10-14
+  - message: "Added MEX as a train category."
+    date: 2026-10-09
+  - message: "Updated FIP travel conditions for Scandlines and DB Regio Stuttgart."
+    date: 2026-09-20
+  - message: "Added connections information to the English and French pages."
+    date: 2026-09-20
+  - message: "Updated age limits and rules for children."
+    date: 2026-09-19
+  - message: "Removed temporary cross-border ICE reservations."
+    date: 2026-09-03
+  - message: "Added cancellation policies for DB and Great Britain."
+    date: 2026-08-17
+  - message: "Added HBX."
+    date: 2026-08-17
+  - message: "Updated Regionalverkehre Start GmbH."
+    date: 2026-08-01
+  - message: "Added HOTNAT and AJC."
+    date: 2026-07-13
+  - message: "Added a direct RJ service between Copenhagen and Prague."
+    date: 2026-07-07
+  - message: "Added S-Bahn Mitteldeutschland (S5/X) FIP discount information."
+    date: 2026-06-03
+  - message: "Added information about Nightjet services using Intercity coaches."
+    date: 2026-05-23
+  - message: "Added temporary booking information for ÖBB Hotline in Germany."
+    date: 2026-05-12
+  - message: "Updated DB Regio Mobidig information."
+    date: 2026-05-12
+  - message: "Updated ÖBB Reservation Price in Germany."
+    date: 2026-05-09
+  - message: "Clarified free children option for DB."
+    date: 2026-05-04
+  - message: "Standardized bus handling and add unknown FIP acceptance status."
+    date: 2026-05-04
+  - message: "Added temporarily required reservation in ICE-trains."
+    date: 2026-04-25
+  - message: "Restrict DB booking options."
+    date: 2026-02-19
+  - message: "Updated information on international rail journeys in Italy."
+    date: 2025-12-28
+  - message: "Content update timetable change."
+    date: 2025-12-28
+  - message: "Added Germany."
+    date: 2025-12-19
 ---
 
 Deutsche Bahn (DB) is the largest railway company in [Germany](/country/germany "Germany"), operating most long-distance services as well as many regional connections.

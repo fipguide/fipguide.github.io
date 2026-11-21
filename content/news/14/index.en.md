@@ -4,6 +4,9 @@ title: "Now for DB employees: FIP tax calculator"
 description: The new tax calculator for DB employees in Germany is now available in the FIP Guide.
 content_images:
   - image.webp
+updates:
+  - message: "Added taxation calculator for DB employees."
+    date: 2026-09-24
 ---
 
 The new DB FIP tax calculator is now available in the FIP Guide. You can find it on the page [DB tax calculator](/general/taxation/).

@@ -7,6 +7,13 @@ content_images:
 aliases:
   - /booking/lka-ticket-machine
   - /booking/lka-ticket-office
+updates:
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+    date: 2026-05-04
+  - message: "Ajout de KW et de LKA."
+    date: 2026-02-25
 ---
 
 Łódzka Kolej Aglomeracyjna, abrégées ŁKA, est une entreprise de transport ferroviaire polonaise qui propose principalement des services régionaux dans la voïvodie de Łódź. C’est l’une des cinq entreprises différentes qui proposent le FIP en [Pologne](/country/poland).

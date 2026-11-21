@@ -8,6 +8,59 @@ content_images:
   - image.webp
 aliases:
   - /booking/renfe-ticket-office
+updates:
+  - message: "Ajout de restrictions pour la réservation des billets Renfe."
+    date: 2026-11-02
+  - message: "Mise à jour de l’indication sur les AVE internationaux."
+    date: 2026-10-04
+  - message: "Mise à jour des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Mise à jour des informations FIP et de réservation sur CP et Renfe."
+    date: 2026-09-03
+  - message: "Ajout de HOTNAT et d’AJC."
+    date: 2026-07-13
+  - message: "Suppression du Bono Gratuit de Renfe."
+    date: 2026-06-27
+  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+    date: 2026-05-04
+  - message: "Ajout d’un récit de voyage de Zugpost."
+    date: 2026-05-02
+  - message: "Mise à jour des tarifs Renfe pour 2026."
+    date: 2026-05-02
+  - message: "Correction des informations sur Renfe comme émetteur FIP."
+    date: 2026-04-05
+  - message: "Ajout d’informations sur les portillons d’accès des Cercanías de Barcelone chez Renfe."
+    date: 2026-04-05
+  - message: "Ajout de l’Irlande (CIE) et de l’Irlande du Nord (NIR)."
+    date: 2026-03-12
+  - message: "Amélioration des informations sur les voyages internationaux en Italie."
+    date: 2025-12-28
+  - message: "Mise à jour des modalités d’achat des billets à la frontière espagnole."
+    date: 2025-10-30
+  - message: "Ajout d’informations sur FEVE."
+    date: 2025-10-19
+  - message: "Mise à jour des informations sur les trains transfrontaliers entre la France et l’Espagne."
+    date: 2025-10-18
+  - message: "Ajout de la France."
+    date: 2025-10-12
+  - message: "Ajout des traductions anglaise et française."
+    date: 2025-10-09
+  - message: "Ajout de traductions."
+    date: 2025-10-09
+  - message: "Ajout de Trenitalia."
+    date: 2025-10-09
+  - message: "Informations sur GySEV complétées."
+    date: 2025-08-11
+  - message: "Ajout de la version française."
+    date: 2025-07-21
+  - message: "Ajout d’informations sur les AVE internationaux."
+    date: 2025-07-13
+  - message: "Ajout de l’Autriche."
+    date: 2025-07-10
+  - message: "Précision des options de classe de Renfe."
+    date: 2025-05-28
+  - message: "Ajout de l’Espagne et de l’opérateur Renfe."
+    date: 2025-05-26
 ---
 
 Renfe Operadora est la compagnie ferroviaire publique en [Espagne](/country/spain "Espagne"). Elle exploite des trains à grande vitesse confortables, divers trains régionaux et des trains de banlieue.
