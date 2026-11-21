@@ -107,7 +107,7 @@ x_border_side: &border_side
         value_field: "{{slug}}"
         display_fields: ["title"]
         required: false
-        i18n: duplicate
+        i18n: sync
       - label: "Label"
         name: "label"
         widget: "string"
@@ -129,7 +129,7 @@ x_border_side: &border_side
         value_field: "{{slug}}"
         display_fields: ["title"]
         required: false
-        i18n: duplicate
+        i18n: sync
       - label: "Label"
         name: "label"
         widget: "string"
@@ -164,11 +164,11 @@ collections:
         name: "date"
         widget: "datetime"
         type: "date"
-        i18n: duplicate
+        i18n: sync
       - label: "Author"
         name: "author"
         widget: "string"
-        i18n: duplicate
+        i18n: sync
         required: false
       - label: "Title"
         name: "title"
@@ -188,7 +188,7 @@ collections:
         display_fields: ["title"]
         multiple: true
         required: false
-        i18n: duplicate
+        i18n: sync
         hint: "List of countries this news article is about."
       - label: "Operators"
         name: "operator"
@@ -199,14 +199,14 @@ collections:
         display_fields: ["title"]
         multiple: true
         required: false
-        i18n: duplicate
+        i18n: sync
         hint: "List of operators this news article is about."
       - label: "Content Images"
         name: "content_images"
         widget: "image"
         multiple: true
         required: false
-        i18n: duplicate
+        i18n: sync
         hint: "Images shown for this page. Prefer .webp images."
         accept: "image/webp"
       - label: "Body"
@@ -271,7 +271,7 @@ collections:
             search_fields: ["{{borders.*.id}}"]
             multiple: true
             required: false
-            i18n: duplicate
+            i18n: sync
             hint: "Border IDs in clockwise order, starting in the north of the country. To add or edit borders, see the [Border Points](/admin/#/collections/_singletons/entries/borderpoints) singleton."
           - label: "Border Points Footnotes"
             name: "border_points_footnotes"
@@ -284,7 +284,7 @@ collections:
         widget: "image"
         multiple: true
         required: false
-        i18n: duplicate
+        i18n: sync
         hint: "Images shown for this page. Prefer .webp images."
         accept: "image/webp"
       - label: "Body"
@@ -339,21 +339,21 @@ collections:
         value_field: "{{slug}}"
         display_fields: ["title"]
         multiple: true
-        i18n: duplicate
+        i18n: sync
         hint: "List of countries the operator operates in."
       - label: "Content Images"
         name: "content_images"
         widget: "image"
         multiple: true
         required: false
-        i18n: duplicate
+        i18n: sync
         hint: "Images shown for this page. Prefer .webp images."
         accept: "image/webp"
       - label: "Aliases"
         name: "aliases"
         widget: "hidden"
         default: []
-        i18n: duplicate
+        i18n: sync
       - label: "Body"
         name: "body"
         widget: "markdown"
@@ -580,7 +580,7 @@ collections:
         name: "aliases"
         widget: "hidden"
         default: []
-        i18n: duplicate
+        i18n: sync
       - name: params
         label: "Parameters"
         widget: object
@@ -609,7 +609,7 @@ collections:
               - label: "No"
                 value: false
             required: false
-            i18n: duplicate
+            i18n: sync
           - label: "FIP Coupon"
             name: fip_coupon
             widget: select
@@ -619,7 +619,7 @@ collections:
               - label: "No"
                 value: false
             required: false
-            i18n: duplicate
+            i18n: sync
           - label: "FIP Global Fare"
             name: fip_global_fare
             widget: select
@@ -629,7 +629,7 @@ collections:
               - label: "No"
                 value: false
             required: false
-            i18n: duplicate
+            i18n: sync
           - label: "FIP 75"
             name: fip_75
             widget: select
@@ -639,7 +639,7 @@ collections:
               - label: "No"
                 value: false
             required: false
-            i18n: duplicate
+            i18n: sync
           - label: "Reservations"
             name: reservations
             widget: select
@@ -649,22 +649,22 @@ collections:
               - label: "No"
                 value: false
             required: false
-            i18n: duplicate
+            i18n: sync
           - label: "Booking Link"
             name: booking_link
             widget: string
             required: false
-            i18n: duplicate
+            i18n: sync
           - label: "Additional Info Link"
             name: additional_info_link
             widget: string
             required: false
-            i18n: duplicate
+            i18n: sync
           - label: "Fee"
             name: fee
             widget: string
             required: false
-            i18n: duplicate
+            i18n: sync
             hint: 'Fee for booking, e.g. "€ 5" or "5 %".'
           - label: "Type"
             name: type
@@ -684,7 +684,7 @@ collections:
                 value: "socialmedia"
               - label: "Ticket Machine"
                 value: "machine"
-            i18n: duplicate
+            i18n: sync
           - label: "Email Templates"
             name: email_templates
             widget: object
@@ -702,12 +702,12 @@ collections:
                     name: to
                     widget: string
                     required: false
-                    i18n: duplicate
+                    i18n: sync
                   - label: "Subject"
                     name: subject
                     widget: string
                     required: false
-                    i18n: duplicate
+                    i18n: sync
                   - label: "Body"
                     name: body
                     widget: text
@@ -723,12 +723,12 @@ collections:
                     name: to
                     widget: string
                     required: false
-                    i18n: duplicate
+                    i18n: sync
                   - label: "Subject"
                     name: subject
                     widget: string
                     required: false
-                    i18n: duplicate
+                    i18n: sync
                   - label: "Body"
                     name: body
                     widget: text
@@ -744,12 +744,12 @@ collections:
                     name: to
                     widget: string
                     required: false
-                    i18n: duplicate
+                    i18n: sync
                   - label: "Subject"
                     name: subject
                     widget: string
                     required: false
-                    i18n: duplicate
+                    i18n: sync
                   - label: "Body"
                     name: body
                     widget: text
@@ -765,12 +765,12 @@ collections:
                     name: to
                     widget: string
                     required: false
-                    i18n: duplicate
+                    i18n: sync
                   - label: "Subject"
                     name: subject
                     widget: string
                     required: false
-                    i18n: duplicate
+                    i18n: sync
                   - label: "Body"
                     name: body
                     widget: text
@@ -885,7 +885,7 @@ collections:
             name: "aliases"
             widget: "hidden"
             default: []
-            i18n: duplicate
+            i18n: sync
           - label: "Body"
             name: "body"
             widget: "markdown"
@@ -926,7 +926,7 @@ collections:
             name: "aliases"
             widget: "hidden"
             default: []
-            i18n: duplicate
+            i18n: sync
           - label: "Body"
             name: "body"
             widget: "markdown"
@@ -958,6 +958,13 @@ collections:
     create: true
     delete: false
     i18n: true
+    reorder:
+      key: "weight"
+    sortable_fields:
+      fields: ["weight", "title"]
+      default:
+        field: "weight"
+        direction: "ascending"
     fields:
       - label: "Title"
         name: "title"
@@ -968,7 +975,7 @@ collections:
         widget: "number"
         required: false
         min: 0
-        i18n: duplicate
+        i18n: sync
       - label: "Body"
         name: "body"
         widget: "markdown"
@@ -1014,7 +1021,7 @@ collections:
             name: url
             widget: string
             required: false
-            i18n: duplicate
+            i18n: sync
       - label: "Body"
         name: "body"
         widget: "markdown"
@@ -1058,7 +1065,7 @@ singletons:
             widget: "string"
             pattern:
               ["^[a-z0-9-]+$", "Use lowercase letters, digits and hyphens only"]
-            i18n: duplicate
+            i18n: sync
             hint: 'Unique identifier, e.g. "at-cz". Referenced in the Border Points field on each Country page.'
           - label: "Side A"
             name: "a"
