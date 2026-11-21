@@ -127,7 +127,7 @@ Zu den bedeutendsten Fernverkehrsachsen zählen:
 Auch die Zugflotte wird derzeit verjüngt, wodurch im Fernverkehr überwiegend moderne Züge mit hochwertiger Ausstattung und Komfort zum Einsatz kommen. Im Regionalverkehr verkehrt eine Vielzahl an unterschiedlichen Fahrzeugtypen, welche auch eine sehr unterschiedliche Qualität aufweisen.
 
 Durch viele Baustellen, überlastete Strecken und Störungen ist die Pünktlichkeitsquote im Fernverkehr mit unter 65% recht gering. Im Regionalverkehr ist die Lage etwas besser, aber auch hier gibt es Herausforderungen.
-Zwischen den großen Städten des Landes gibt es stündliche Fern- und Nahverkehrsverbindungen, die sich durch durch parallele Abschnitte ergänzen und somit ein noch engerer Takt ergibt.
+Zwischen den großen Städten des Landes gibt es stündliche Fern- und Nahverkehrsverbindungen, die sich auf parallelen Streckenabschnitten ergänzen und so einen dichteren Takt ermöglichen.
 In Ballungsräumen wie Berlin, Hamburg oder München ist der Takt sehr dicht – oft im 10- bis 20-Minuten-Rhythmus. In ländlichen Regionen hingegen sind Verbindungen oft dünn und unregelmäßig.
 
 Durch die zentrale Lage gibt es viele Verbindungen in das europäische Ausland, sowohl am Tag als auch in der Nacht.

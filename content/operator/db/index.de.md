@@ -43,7 +43,7 @@ Es existiert keine Reservierungspflicht, außer bei bestimmten grenzüberschreit
     reservation_possible=true
 %}}
 
-Der `ICE` ist ein Hochgeschwindigkeitszug und die höchste Zugkategorie der DB. Er verbindet große Städte in Deutschland mit bis zu 300 km/h und verkeht auch in einige Nachbarländer. Besonders schnelle Verbindungen mit wenigen Zwischenhalten werden als `ICE Sprinter` bezeichnet.
+Der `ICE` ist ein Hochgeschwindigkeitszug und die höchste Zugkategorie der DB. Er verbindet große Städte in Deutschland mit bis zu 300 km/h und verkehrt auch in einige Nachbarländer. Besonders schnelle Verbindungen mit wenigen Zwischenhalten werden als `ICE Sprinter` bezeichnet.
 
 #### Reservierungen
 

@@ -66,13 +66,13 @@ Zwischen Italien und Griechenland können die Fährverbindungen von [Attica](/op
 
 Zwischen Mailand und Paris fahren grenzüberschreitende Frecciarossa-Züge. Für diese Züge gelten in Frankreich keine FIP Vergünstigungen.
 
-Zusätzlich verkehren zwischen Turin und Paris konkurrierende `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden, für diese müssen jedoch FIP Globalpreistickets erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge](/operator/sncf/#grenzüberschreitende-tgv-inoui--ice-züge "Grenzüberschreitende TGV inOui / ICE Züge")
+Zusätzlich verkehren zwischen Turin und Paris konkurrierende `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden, dafür müssen jedoch FIP Globalpreistickets erworben werden, siehe [Grenzüberschreitende TGV inOui / ICE Züge](/operator/sncf/#grenzüberschreitende-tgv-inoui--ice-züge "Grenzüberschreitende TGV inOui / ICE Züge")
 
 Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza über Monaco nach Ventimiglia genutzt werden. Dabei gelten FIP Tickets und Freifahrtscheine der SNCF bis Ventimiglia.
 
 ### Schweiz
 
-Aus der Schweiz kann sowohl mit grenzüberschreitenden Fern- als auch Regionalzügen nach Italien gereist werden. Mailand kann sowohl über Como als auch über Domodossola aus dem Schweizer Netz erreicht werden. Die Züge über Como kommen meist aus Richtung Zürich, die über Domodossola aus Bern und Basel. Auf beiden Routen verkehren sowohl Eurocity-Verbindungen als auch Regionalzüge. Andere Grenzübergänge können nur mit Regionalzügen überquert werden. Bei den grenzüberschreitenden Eurocity-Zügen ist ein Aufpreis sowie eine Reservierung nötig. Zusätzlichen verkeht auch der `ECE` Zug Frankfurt - Mailand sowie die `EC` Züge Zürich - Mailand.
+Aus der Schweiz kann sowohl mit grenzüberschreitenden Fern- als auch Regionalzügen nach Italien gereist werden. Mailand kann sowohl über Como als auch über Domodossola aus dem Schweizer Netz erreicht werden. Die Züge über Como kommen meist aus Richtung Zürich, die über Domodossola aus Bern und Basel. Auf beiden Routen verkehren sowohl Eurocity-Verbindungen als auch Regionalzüge. Andere Grenzübergänge können nur mit Regionalzügen überquert werden. Bei den grenzüberschreitenden Eurocity-Zügen ist ein Aufpreis sowie eine Reservierung nötig. Zusätzlich verkehren auch der `ECE`-Zug Frankfurt–Mailand sowie die `EC`-Züge Zürich–Mailand.
 
 Der Aufpreis für die grenzüberschreitenden `EC`/`ECE` Züge nach Italien liegt bei 20 € (1./2. Klasse). Bei Buchung der Reservierung im DB Reisezentrum kostet der Aufpreis nur 11 € (2. Klasse) bzw. 13 € (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
 

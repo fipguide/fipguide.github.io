@@ -49,7 +49,7 @@ The `ICE` is a high-speed train and the highest train category of DB. It connect
 
 Reservation required for cross-border journeys to France.
 
-In the past, there was a reservation requirement for cross-border journeys in summer months to Austria, Belgium, Denmark and the Nederlands. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
+In the past, there was a reservation requirement for cross-border journeys in summer months to Austria, Belgium, Denmark and the Netherlands. This may change from year to year. A reservation requirement is indicated in the [DB journey planner](https://www.bahn.de).
 
 {{% /train-category %}}
 

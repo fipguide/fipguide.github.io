@@ -112,7 +112,7 @@ Autres réductions :
 - Les écoliers peuvent voyager gratuitement avec la ŽRSM tous les mercredis.[^3]
 
 {{% highlight tip %}}
-Pour les voyageurs traversant plusieurs pays des Balkans, le _Balkan Flexipass_ peut être intéressant. Il permet de voyager illimitément sur les réseaux ferroviaires de :
+Pour les voyageurs traversant plusieurs pays des Balkans, le _Balkan Flexipass_ peut être intéressant. Il permet de voyager de manière illimitée sur les réseaux ferroviaires de :
 
 - Bosnie-Herzégovine (ŽFBH, ŽRS),
 - Bulgarie (BDŽ),

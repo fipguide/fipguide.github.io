@@ -98,7 +98,7 @@ Im Raum Genf verkehren grenzüberschreitende Regionalzüge unter dem Namen [Lém
 
 Von Mailand verkehren grenzüberschreitende Frecciarossa Züge nach Paris. Für diese Züge gelten in Frankreich keine FIP Vergünstigungen.
 
-Zusätzlich verkehren zwischen Turin und Paris auch `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden werden, es müssen jedoch FIP Globalpreistickets erworben werden, siehe [TGV-Züge nach Italien, Spanien und Belgien](/operator/sncf#tgv-italy-spain-belgium).
+Zusätzlich verkehren zwischen Turin und Paris auch `TGV` Züge der SNCF. Diese können zwar in Frankreich mit FIP Vergünstigungen genutzt werden, dafür müssen jedoch FIP Globalpreistickets erworben werden, siehe [TGV-Züge nach Italien, Spanien und Belgien](/operator/sncf#tgv-italy-spain-belgium).
 
 Grenzüberschreitende Regionalzüge der SNCF können ab Grasse/Cannes/Nizza über Monaco nach Ventimiglia genutzt werden. Dabei gelten FIP 50 Tickets und Freifahrtscheine der SNCF bis Ventimiglia.
 
