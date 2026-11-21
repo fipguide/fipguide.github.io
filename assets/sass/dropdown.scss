@@ -1,3 +1,5 @@
+@use "variables";
+
 @keyframes dropdown-open-below {
   from {
     opacity: 0;
@@ -98,7 +100,7 @@
       &:hover,
       &:focus {
         color: var(--link-hovered);
-        background: rgba($link-hovered, 0.15);
+        background: rgba(variables.$link-hovered, 0.15);
         text-decoration: underline;
       }
     }

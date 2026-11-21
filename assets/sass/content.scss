@@ -1,3 +1,5 @@
+@use "variables";
+
 .o-last-updated {
   font-size: 1.3rem;
   display: flex;
@@ -13,7 +15,7 @@
 code {
   font-size: inherit;
   font-weight: 700;
-  color: $color-onLight;
+  color: variables.$color-onLight;
   background-color: var(--bg-code);
   padding: 0.2rem 0.8rem;
   border-radius: var(--border-radius-s);
@@ -53,7 +55,7 @@ thead {
 
 tbody {
   tr {
-    border-bottom: 0.1rem solid $color-table-border;
+    border-bottom: 0.1rem solid variables.$color-table-border;
   }
 
   tr:nth-of-type(even) {
@@ -61,7 +63,7 @@ tbody {
   }
 
   tr:last-of-type {
-    border-bottom: 2px solid $link-hovered;
+    border-bottom: 2px solid variables.$link-hovered;
 
     @media print {
       border-bottom: 0.1rem solid #5b5b5b;

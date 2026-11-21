@@ -1,3 +1,6 @@
+@use "styles";
+@use "variables";
+
 .o-expander > hr {
   margin: 0;
 }
@@ -25,7 +28,7 @@
       text-decoration: underline;
     }
 
-    background: rgba($link-hovered, 0.15);
+    background: rgba(variables.$link-hovered, 0.15);
   }
 
   .o-expander__title-text {
@@ -34,7 +37,7 @@
     width: 100%;
   }
 
-  @include focus-indicator(0.2rem);
+  @include styles.focus-indicator(0.2rem);
 
   > .a-icon {
     transition: transform 0.2s;

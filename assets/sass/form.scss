@@ -1,10 +1,13 @@
+@use "styles";
+@use "variables";
+
 .m-form {
   margin-bottom: 1.6rem;
   margin-left: 0;
   margin-right: 0;
   width: 100%;
 
-  @media (min-width: #{$breakpoint-md}) {
+  @media (min-width: #{variables.$breakpoint-md}) {
     width: 66%;
   }
 
@@ -27,7 +30,7 @@
     resize: vertical;
     text-overflow: ellipsis;
 
-    @include focus-indicator(0.2rem);
+    @include styles.focus-indicator(0.2rem);
   }
 
   select {

@@ -1,3 +1,5 @@
+@use "sass:color";
+@use "sass:map";
 $breakpoint-sm: 576px;
 $breakpoint-md: 768px;
 $breakpoint-lg: 992px;
@@ -31,33 +33,33 @@ $tag-colors-dark: (
 );
 
 $fip-validity-colors: (
-  valid: map-get($tag-colors, success),
-  invalid: map-get($tag-colors, error),
-  unknown: map-get($tag-colors, info),
+  valid: map.get($tag-colors, success),
+  invalid: map.get($tag-colors, error),
+  unknown: map.get($tag-colors, info),
 );
 
 $fip-validity-colors-dark: (
-  valid: map-get($tag-colors-dark, success),
-  invalid: map-get($tag-colors-dark, error),
-  unknown: map-get($tag-colors-dark, info),
+  valid: map.get($tag-colors-dark, success),
+  invalid: map.get($tag-colors-dark, error),
+  unknown: map.get($tag-colors-dark, info),
 );
 
 $highlight-colors: (
-  success: map-get($tag-colors, success),
+  success: map.get($tag-colors, success),
   tip: #116278,
   inofficial: #42454a,
-  important: map-get($tag-colors, warning),
-  confusion: map-get($tag-colors, warning),
-  default: map-get($tag-colors, info),
+  important: map.get($tag-colors, warning),
+  confusion: map.get($tag-colors, warning),
+  default: map.get($tag-colors, info),
 );
 
 $highlight-colors-dark: (
-  success: map-get($tag-colors-dark, success),
+  success: map.get($tag-colors-dark, success),
   tip: #61bdd6,
   inofficial: #acb3c1,
-  important: map-get($tag-colors-dark, warning),
-  confusion: map-get($tag-colors-dark, warning),
-  default: map-get($tag-colors-dark, info),
+  important: map.get($tag-colors-dark, warning),
+  confusion: map.get($tag-colors-dark, warning),
+  default: map.get($tag-colors-dark, info),
 );
 
 :root {
@@ -131,7 +133,7 @@ $highlight-colors-dark: (
   }
 
   @each $name, $color in $tag-colors {
-    --tag-#{$name}-bg: #{mix(white, $color, 90%)};
+    --tag-#{$name}-bg: #{color.mix(white, $color, 90%)};
     --tag-#{$name}-color: #{$color};
   }
 
@@ -139,7 +141,7 @@ $highlight-colors-dark: (
   --tag-newsUpdate-color: #414141;
 
   @each $name, $color in $highlight-colors {
-    --highlight-#{$name}-bg: #{mix(white, $color, 90%)};
+    --highlight-#{$name}-bg: #{color.mix(white, $color, 90%)};
     --highlight-#{$name}-color: #{$color};
   }
 }
@@ -166,7 +168,7 @@ $highlight-colors-dark: (
     }
 
     @each $name, $color in $tag-colors-dark {
-      --tag-#{$name}-bg: #{mix(black, $color, 65%)};
+      --tag-#{$name}-bg: #{color.mix(black, $color, 65%)};
       --tag-#{$name}-color: #{$color};
     }
 
@@ -174,7 +176,7 @@ $highlight-colors-dark: (
     --tag-newsUpdate-color: #e0e0e0;
 
     @each $name, $color in $highlight-colors-dark {
-      --highlight-#{$name}-bg: #{mix(black, $color, 65%)};
+      --highlight-#{$name}-bg: #{color.mix(black, $color, 65%)};
       --highlight-#{$name}-color: #{$color};
     }
 

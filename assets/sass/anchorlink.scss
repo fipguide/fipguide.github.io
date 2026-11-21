@@ -1,3 +1,6 @@
+@use "styles";
+@use "variables";
+
 .a-anchorlink {
   display: flex;
   flex-wrap: nowrap;
@@ -5,7 +8,7 @@
   align-items: center;
   column-gap: 0.8rem;
 
-  @media (max-width: #{$breakpoint-md}) {
+  @media (max-width: #{variables.$breakpoint-md}) {
     justify-content: space-between;
   }
 }
@@ -67,7 +70,7 @@
     opacity: 1;
   }
 
-  @include focus-indicator(0.2rem);
+  @include styles.focus-indicator(0.2rem);
 
   @media print {
     display: none;

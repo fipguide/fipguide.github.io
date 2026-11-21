@@ -1,3 +1,5 @@
+@use "variables";
+
 .a-tag {
   display: flex;
   align-items: flex-start;
@@ -7,7 +9,7 @@
   font-size: 0.7em;
   font-weight: 500;
 
-  @each $name, $color in $tag-colors {
+  @each $name, $color in variables.$tag-colors {
     &--#{$name} {
       background: var(--tag-#{$name}-bg);
       color: var(--tag-#{$name}-color);
