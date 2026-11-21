@@ -78,7 +78,7 @@ Ansonsten wird der Grenzverkehr hauptsächlich durch Busse sichergestellt, bei d
 
 ### Italien
 
-Aus Italien kann sowohl mit grenzüberschreitenden Fern- als auch Regionalzügen in die Schweiz gereist werden. Von Mailand kann sowohl über Como als auch über Domodossola das Schweizer Netz erreicht werden. Die Züge über Como fahren meist weiter in Richtung Zürich, die über Domodossola nach Bern und Basel. Auf beiden Routen verkehren sowohl Eurocity-Verbindungen als auch Regionalzüge. Andere Grenzübergänge können nur mit Regionalzügen überquert werden. Bei den grenzüberschreitenden Eurocity-Zügen ist ein Aufpreis sowie eine Reservierung nötig. Zusätzlichen verkeht auch der `ECE` Zug Frankfurt - Mailand sowie die `EC` Züge Zürich - Mailand.
+Aus Italien kann sowohl mit grenzüberschreitenden Fern- als auch Regionalzügen in die Schweiz gereist werden. Von Mailand kann sowohl über Como als auch über Domodossola das Schweizer Netz erreicht werden. Die Züge über Como fahren meist weiter in Richtung Zürich, die über Domodossola nach Bern und Basel. Auf beiden Routen verkehren sowohl Eurocity-Verbindungen als auch Regionalzüge. Andere Grenzübergänge können nur mit Regionalzügen überquert werden. Bei den grenzüberschreitenden Eurocity-Zügen ist ein Aufpreis sowie eine Reservierung nötig. Zusätzlich verkehren auch der `ECE`-Zug Frankfurt–Mailand sowie die `EC`-Züge Zürich–Mailand.
 
 Der Aufpreis für die grenzüberschreitenden `EC`/`ECE` Züge nach Italien liegt bei 20 € (1./2. Klasse). Bei Buchung der Reservierung im DB Reisezentrum kostet der Aufpreis nur 11 € (2. Klasse) bzw. 13 € (1. Klasse) und beinhaltet eine Sitzplatzreservierung (z. B. bis nach Frankfurt).
 

@@ -59,7 +59,7 @@ In der 1. Klasse sind kleine Speisen und Getränke am Platz im Ticketpreis inklu
 
 #### Reservierungen
 
-Die Züge sind aufpreispflichtig mit einem erhöten Reservierungsentgelt. Tickets und Reservierungen können nicht an Bord des Zuges gekauft werden.
+Die Züge sind aufpreispflichtig mit einem erhöhten Reservierungsentgelt. Tickets und Reservierungen können nicht an Bord des Zuges gekauft werden.
 
 Bei Reservierungen, die nicht zu einem entsprechenden Preis durch die PKP verkauft wurden, kann die Zahlung eines Zuschlags an Bord des Zuges erforderlich sein. [^1]
 
@@ -236,7 +236,7 @@ FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
 {{% /booking %}}
 
 {{% booking id="koleo-website"
-    subtitle="Für nationale Verbindungen Verbindungen inkl. EIP"
+    subtitle="Für nationale Verbindungen inkl. EIP"
 %}}
 FIP 50 Tickets können nur für nationale Verbindungen verkauft werden.
 
@@ -401,7 +401,7 @@ In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen
 ## Empfehlungen
 
 {{% highlight tip %}}
-FIP-Freifahrtscheine für die 1. Klasse lohnen sich bei der PKP nur bedingt. Sind Fahrten mit dem EIP geplant, sind sie sich durch den erhöhten Komfort und den zusätzlichen Snacks in der 1. Klasse empfehlenswert. In den anderen Zügen gibt es teilweise nur zwei 1. Klasse 6er-Abteile, die oft auch schnell ausgebucht sind. Auch bei größeren 1. Klasse Bereichen kommt es vor, dass diese vom Komfort her schlechter sind als die Bereiche der 2. Klasse im selben Zug. Bei Fahrten im Regionalverkehr wird grundsätzlich keine 1. Klasse angeboten.
+FIP-Freifahrtscheine für die 1. Klasse lohnen sich bei der PKP nur bedingt. Sind Fahrten mit dem EIP geplant, sind sie aufgrund des höheren Komforts und der zusätzlichen Snacks in der 1. Klasse empfehlenswert. In den anderen Zügen gibt es teilweise nur zwei 1. Klasse 6er-Abteile, die oft auch schnell ausgebucht sind. Auch bei größeren 1. Klasse Bereichen kommt es vor, dass diese vom Komfort her schlechter sind als die Bereiche der 2. Klasse im selben Zug. Bei Fahrten im Regionalverkehr wird grundsätzlich keine 1. Klasse angeboten.
 {{% /highlight %}}
 
 ## Quellen

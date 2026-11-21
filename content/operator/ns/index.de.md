@@ -203,7 +203,7 @@ Regionalzüge für kurze Verbindungen mit Halt an jedem Bahnhof auf der Strecke.
     reservation_possible=false
 %}}
 
-Regionalzüge mit rot-grauem R-net Branding auf der Strecke von von Alphen aan den Rijn nach Gouda.
+Regionalzüge mit rot-grauem R-net Branding auf der Strecke von Alphen aan den Rijn nach Gouda.
 
 {{< confusion netherlands >}}
 R-net (Randstadnet) ist ein Verkehrskonzept in der Metropolregion Randstad, welches von mehreren Betreibern in einheitlichem rot-grauem Fahrzeug-Branding betrieben wird. Es umfasst Züge, U-Bahnen, Straßenbahnen und Busse. Mit FIP ist ausschließlich die R-net Verbindung von Alphen aan den Rijn nach Gouda nutzbar, die von der NS betrieben wird. [^6] Alle anderen R-net Verbindungen, insbesondere die Linie Geldermalsen - Dordrecht (Qbuzz Stoptrein), sind mit FIP nicht nutzbar.

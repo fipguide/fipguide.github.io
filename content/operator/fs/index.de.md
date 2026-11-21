@@ -454,7 +454,7 @@ Der Ticketbezeichnung "Prenotazione - Ordinaria":
 {{< /float-image >}}
 
 **Nicht Zuggebunden:** \
-Tickets, die für nicht zuggebundene Züge gekauft werden, sind in dem gebuchten Zug und und allen anderen nicht zuggebundenen Zügen auf der Strecke gültig, jedoch nicht in zugebundenen Zügen.
+Tickets, die für nicht zuggebundene Züge gekauft werden, sind in dem gebuchten Zug und allen anderen nicht zuggebundenen Zügen auf der Strecke gültig, jedoch nicht in zugebundenen Zügen.
 
 {{< float-image
     src="ordinaria_2.webp"

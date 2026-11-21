@@ -268,13 +268,13 @@ In `AVE` (Hochgeschwindigkeit), internationalen `AVE`-Zügen zwischen Spanien un
 
 ## Tarifliche Besonderheiten
 
-### Fahrtunterberchungen
+### Fahrtunterbrechungen
 
 Bei FIP 50 und FIP Globalpreis Tickets darf die Reise zwischenzeitlich nicht unterbrochen werden.[^2]
 
 ### Renfe Feve
 
-FIP Fahrvergünstigungen gelten auch auch auf dem Meterspurnetz der Renfe Feve (Ferrocarriles de Vía Estrecha) zwischen Ferrol und Bilbao in Nordspanien.
+FIP Fahrvergünstigungen gelten auch auf dem Meterspurnetz der Renfe Feve (Ferrocarriles de Vía Estrecha) zwischen Ferrol und Bilbao in Nordspanien.
 
 ### Anschlüsse – AJC
 
