@@ -57,7 +57,7 @@ Trains s’arrêtant à toutes les stations. Dans les zones urbaines, également
 
 {{% train-category
     id="r"
-    title="PanormaExpress (PE)"
+    title="PanoramaExpress (PE)"
     type="regional"
     fip_accepted=true
     reservation_required=partially
