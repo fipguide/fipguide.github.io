@@ -1,3 +1,5 @@
+@use "styles";
+
 .m-image-gallery {
   display: flex;
   flex-direction: column;
@@ -24,7 +26,7 @@
     scroll-behavior: auto;
   }
 
-  @include focus-indicator(0.2rem);
+  @include styles.focus-indicator(0.2rem);
 }
 
 .m-image-gallery__item {

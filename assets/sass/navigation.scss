@@ -1,9 +1,11 @@
+@use "variables";
+
 .o-header__nav {
   align-items: center;
   display: flex;
   justify-content: flex-end;
 
-  @media (min-width: #{$breakpoint-md}) {
+  @media (min-width: #{variables.$breakpoint-md}) {
     display: block;
   }
 }
@@ -12,7 +14,7 @@
   width: 100%;
   display: none;
 
-  @media (min-width: #{$breakpoint-md}) {
+  @media (min-width: #{variables.$breakpoint-md}) {
     display: block;
   }
 
@@ -42,12 +44,12 @@ menu > li > menu {
   display: flex;
   align-items: center;
 
-  @media (max-width: #{$breakpoint-md}) {
+  @media (max-width: #{variables.$breakpoint-md}) {
     display: block;
   }
 
   .o-dropdown {
-    @media (max-width: #{$breakpoint-md}) {
+    @media (max-width: #{variables.$breakpoint-md}) {
       display: flex;
       flex-direction: column;
       align-items: end;
@@ -83,7 +85,7 @@ menu > li > menu {
         }
       }
 
-      @media (min-width: #{$breakpoint-md}) {
+      @media (min-width: #{variables.$breakpoint-md}) {
         padding: 0.4rem;
         justify-items: flex-start;
         z-index: 14;
@@ -148,7 +150,7 @@ menu > li > menu {
     color: var(--link-hovered);
   }
 
-  @media (min-width: #{$breakpoint-md}) {
+  @media (min-width: #{variables.$breakpoint-md}) {
     display: none;
   }
 
@@ -159,7 +161,7 @@ menu > li > menu {
   }
 }
 
-@media (max-width: #{$breakpoint-md}) {
+@media (max-width: #{variables.$breakpoint-md}) {
   .o-header__nav nav {
     display: flex;
     flex-direction: column;
@@ -215,7 +217,7 @@ menu > li > menu {
 .o-header__item--desktop {
   display: none;
 
-  @media (min-width: #{$breakpoint-md}) {
+  @media (min-width: #{variables.$breakpoint-md}) {
     display: inline-flex;
   }
 }
@@ -223,13 +225,13 @@ menu > li > menu {
 .o-header__item--mobile {
   display: inline-flex;
 
-  @media (min-width: #{$breakpoint-md}) {
+  @media (min-width: #{variables.$breakpoint-md}) {
     display: none;
   }
 }
 
 .o-header__item--desktop-search {
-  @media (min-width: #{$breakpoint-md}) and (max-width: #{$breakpoint-lg}) {
+  @media (min-width: #{variables.$breakpoint-md}) and (max-width: #{variables.$breakpoint-lg}) {
     display: none;
   }
 }
@@ -237,7 +239,7 @@ menu > li > menu {
 .o-header__item--desktop-search-icon {
   display: none;
 
-  @media (min-width: #{$breakpoint-md}) and (max-width: #{$breakpoint-lg}) {
+  @media (min-width: #{variables.$breakpoint-md}) and (max-width: #{variables.$breakpoint-lg}) {
     display: inline-flex;
   }
 }
@@ -266,7 +268,7 @@ body:has(.o-header__nav--open) {
 }
 
 #li-header-news {
-  @media (min-width: #{$breakpoint-md}) and (max-width: #{$breakpoint-lg}) {
+  @media (min-width: #{variables.$breakpoint-md}) and (max-width: #{variables.$breakpoint-lg}) {
     display: none;
   }
 }

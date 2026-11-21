@@ -1,3 +1,5 @@
+@use "styles";
+
 .o-interactive-map {
   &__wrapper {
     position: relative;
@@ -80,7 +82,7 @@
       background-color: var(--link-hovered);
     }
 
-    @include focus-indicator(0.2rem);
+    @include styles.focus-indicator(0.2rem);
 
     @media (prefers-reduced-motion: reduce) {
       transition: none;

@@ -1,3 +1,5 @@
+@use "variables";
+
 #header {
   position: sticky;
   width: 100%;
@@ -19,7 +21,7 @@
   align-items: center;
   display: flex;
 
-  @media (min-width: #{$breakpoint-md}) {
+  @media (min-width: #{variables.$breakpoint-md}) {
     justify-content: unset;
   }
 }

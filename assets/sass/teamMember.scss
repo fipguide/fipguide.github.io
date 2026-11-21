@@ -1,10 +1,12 @@
+@use "variables";
+
 .m-team-members {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 2rem;
   margin: 2rem 0;
 
-  @media (max-width: #{$breakpoint-md}) {
+  @media (max-width: #{variables.$breakpoint-md}) {
     grid-template-columns: 1fr;
   }
 }

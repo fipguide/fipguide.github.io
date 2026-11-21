@@ -1,3 +1,5 @@
+@use "variables";
+
 .o-fip-validity {
   display: flex;
   align-items: center;
@@ -32,7 +34,7 @@
     margin-left: 0;
     margin-top: 1rem;
 
-    @media (min-width: $breakpoint-lg) {
+    @media (min-width: variables.$breakpoint-lg) {
       table-layout: fixed;
       width: 100%;
     }
@@ -71,11 +73,11 @@
     flex: 1 1 100%;
     text-align: center;
 
-    @media (min-width: $breakpoint-sm) {
+    @media (min-width: variables.$breakpoint-sm) {
       flex: 1 1 calc(50% - 0.6rem);
     }
 
-    @media (min-width: $breakpoint-lg) {
+    @media (min-width: variables.$breakpoint-lg) {
       flex: 1 1 0;
     }
   }
@@ -88,7 +90,7 @@
     padding-bottom: 0.6rem;
     text-align: center;
 
-    @media (min-width: $breakpoint-lg) {
+    @media (min-width: variables.$breakpoint-lg) {
       height: 2lh;
       display: flex;
       align-items: center;

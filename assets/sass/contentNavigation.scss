@@ -1,3 +1,6 @@
+@use "styles";
+@use "variables";
+
 .o-aside {
   margin-bottom: 0;
   position: sticky;
@@ -47,7 +50,7 @@
   width: fit-content;
   min-height: 2.4rem;
 
-  @include focus-indicator(0.1rem);
+  @include styles.focus-indicator(0.1rem);
 
   > .a-icon {
     align-self: flex-start;
@@ -136,7 +139,7 @@
     }
   }
 }
-@media (max-width: #{$breakpoint-lg}) {
+@media (max-width: #{variables.$breakpoint-lg}) {
   .o-aside {
     position: fixed;
     top: unset;

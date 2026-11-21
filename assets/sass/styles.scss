@@ -1,3 +1,5 @@
+@use "variables";
+
 html {
   font-size: 62.5%;
   scroll-padding-top: 8rem;
@@ -22,7 +24,7 @@ body {
     font-size: 1.4em;
   }
 }
-@media (max-width: #{$breakpoint-lg}) {
+@media (max-width: #{variables.$breakpoint-lg}) {
   body:has(
     main:not(.o-newspage, .o-bookingpage) article.o-single--with-sidemenu
   ) {
@@ -128,7 +130,7 @@ main {
   grid-template-columns: 1fr 2fr;
   gap: 1.5rem;
 
-  @media (max-width: #{$breakpoint-lg}) {
+  @media (max-width: #{variables.$breakpoint-lg}) {
     display: flex;
     flex-direction: column;
   }
@@ -236,7 +238,7 @@ figure {
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
 
-  @media (max-width: #{$breakpoint-lg}) {
+  @media (max-width: #{variables.$breakpoint-lg}) {
     display: flex;
     flex-direction: column;
   }
@@ -253,7 +255,7 @@ figure {
     columns: $columns;
     column-gap: 2.4rem;
 
-    @media (max-width: #{$breakpoint-md}) {
+    @media (max-width: #{variables.$breakpoint-md}) {
       columns: 1;
     }
 
@@ -278,7 +280,7 @@ figure {
       min-width: 0;
     }
 
-    @media (max-width: #{$breakpoint-md}) {
+    @media (max-width: #{variables.$breakpoint-md}) {
       flex-wrap: wrap;
 
       > * {
@@ -293,7 +295,7 @@ figure {
   gap: 1rem;
   align-items: flex-start;
 
-  @media (max-width: #{$breakpoint-md}) {
+  @media (max-width: #{variables.$breakpoint-md}) {
     flex-direction: column;
 
     > .o-columns__column {
@@ -340,7 +342,7 @@ figure {
   &__news-image {
     margin-bottom: 1.6rem;
 
-    @media (min-width: #{$breakpoint-lg}) {
+    @media (min-width: #{variables.$breakpoint-lg}) {
       display: none;
     }
   }
@@ -369,7 +371,7 @@ figure {
   &__news-image {
     margin-bottom: 1.6rem;
 
-    @media (min-width: #{$breakpoint-lg}) {
+    @media (min-width: #{variables.$breakpoint-lg}) {
       display: none;
     }
   }

@@ -1,3 +1,6 @@
+@use "variables";
+@use "headings";
+
 .o-train-category__header {
   width: 100%;
   display: flex;
@@ -19,7 +22,7 @@
 }
 
 details.o-train-category:not([open]) {
-  @media (max-width: $breakpoint-md) {
+  @media (max-width: variables.$breakpoint-md) {
     .a-tag__text {
       display: none;
     }

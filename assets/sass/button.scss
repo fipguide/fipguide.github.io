@@ -1,6 +1,9 @@
+@use "styles";
+@use "variables";
+
 button {
   border-radius: var(--border-radius-s);
-  @include focus-indicator(0.2rem);
+  @include styles.focus-indicator(0.2rem);
 
   &:not(:disabled) {
     cursor: pointer;
@@ -26,10 +29,10 @@ button {
 
   &:hover,
   &:focus {
-    background: rgba($link-hovered, 0.15);
+    background: rgba(variables.$link-hovered, 0.15);
   }
 
-  @include focus-indicator(0.2rem);
+  @include styles.focus-indicator(0.2rem);
 
   @media print {
     padding: 0.6rem;

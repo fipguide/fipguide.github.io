@@ -1,3 +1,5 @@
+@use "variables";
+
 .o-startpage__search {
   pagefind-modal-trigger {
     display: block;
@@ -105,7 +107,7 @@ pagefind-modal-trigger {
 }
 
 :is(.pf-result-card, .pf-heading-chip):is(:focus-within, :hover) {
-  background: rgba($link-hovered, 0.15) !important;
+  background: rgba(variables.$link-hovered, 0.15) !important;
 }
 
 :is(.pf-input, .pf-result-card, .pf-heading-chip) {

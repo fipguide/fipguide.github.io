@@ -1,3 +1,5 @@
+@use "variables";
+
 .o-startpage h2:not(.m-teaser__headline) {
   margin-top: 2rem;
 }
@@ -9,7 +11,7 @@
   grid-template-columns: 1fr 1fr;
   gap: 4rem;
 
-  @media (max-width: #{$breakpoint-md}) {
+  @media (max-width: #{variables.$breakpoint-md}) {
     display: flex;
     flex-direction: column;
   }
@@ -26,7 +28,7 @@
     align-content: center;
   }
 
-  @media (max-width: #{$breakpoint-md}) {
+  @media (max-width: #{variables.$breakpoint-md}) {
     h1 {
       font-size: 4.8rem;
     }
@@ -34,7 +36,7 @@
 }
 
 .o-startpage__image {
-  @media (max-width: #{$breakpoint-md}) {
+  @media (max-width: #{variables.$breakpoint-md}) {
     display: none;
   }
 }
@@ -45,16 +47,16 @@
   gap: 2rem;
   margin-bottom: 2rem;
 
-  @media (max-width: #{$breakpoint-xl}) {
+  @media (max-width: #{variables.$breakpoint-xl}) {
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
   }
 
-  @media (max-width: #{$breakpoint-lg}) {
+  @media (max-width: #{variables.$breakpoint-lg}) {
     display: flex;
     gap: 1rem;
   }
 
-  @media (max-width: #{$breakpoint-md}) {
+  @media (max-width: #{variables.$breakpoint-md}) {
     flex-wrap: wrap;
   }
 
@@ -76,7 +78,7 @@
     gap: 2rem;
     margin-bottom: 2rem;
 
-    @media (max-width: #{$breakpoint-md}) {
+    @media (max-width: #{variables.$breakpoint-md}) {
       display: flex;
       flex-wrap: wrap;
     }
