@@ -411,46 +411,76 @@ CMS.registerEditorComponent({
   },
 });
 
+var fipValidityStatusOptions = [
+  { label: "Not shown", value: "" },
+  { label: "Valid", value: "valid" },
+  { label: "Invalid", value: "invalid" },
+  { label: "Unknown", value: "unknown" },
+];
+
 var fipValidityFields = [
   {
-    name: "type",
-    label: "Type",
+    name: "fip_coupon",
+    label: "FIP Coupon",
     widget: "select",
-    options: [
-      { label: "FIP Coupon", value: "fip-coupon" },
-      { label: "FIP Reduced Ticket", value: "fip-reduced-ticket" },
-      { label: "FIP Global Fare", value: "fip-global-fare" },
-      { label: "Additional", value: "additional" },
-    ],
-    param: { required: true },
+    options: fipValidityStatusOptions,
+    required: false,
+    param: {},
   },
   {
-    name: "status",
-    label: "Status",
-    widget: "select",
-    options: [
-      { label: "Valid", value: "valid" },
-      { label: "Invalid", value: "invalid" },
-      { label: "Unknown", value: "unknown" },
-    ],
-    param: { required: true },
-  },
-  {
-    name: "subtitle",
-    label: "Subtitle",
+    name: "fip_coupon_subtitle",
+    label: "FIP Coupon Subtitle",
     widget: "string",
     required: false,
     param: {},
   },
   {
-    name: "text",
-    label: "Additional Text",
+    name: "fip_reduced_ticket",
+    label: "FIP Reduced Ticket",
+    widget: "select",
+    options: fipValidityStatusOptions,
+    required: false,
+    param: {},
+  },
+  {
+    name: "fip_reduced_ticket_subtitle",
+    label: "FIP Reduced Ticket Subtitle",
     widget: "string",
     required: false,
     param: {},
   },
   {
-    name: "disable_dialog",
+    name: "fip_global_fare",
+    label: "FIP Global Fare",
+    widget: "select",
+    options: fipValidityStatusOptions,
+    required: false,
+    param: {},
+  },
+  {
+    name: "fip_global_fare_subtitle",
+    label: "FIP Global Fare Subtitle",
+    widget: "string",
+    required: false,
+    param: {},
+  },
+  {
+    name: "additional",
+    label: "Additional",
+    widget: "select",
+    options: fipValidityStatusOptions,
+    required: false,
+    param: {},
+  },
+  {
+    name: "additional_subtitle",
+    label: "Additional Subtitle",
+    widget: "string",
+    required: false,
+    param: {},
+  },
+  {
+    name: "disable_info",
     label: "Disable info dialog",
     widget: "boolean",
     default: false,
@@ -461,24 +491,30 @@ var fipValidityFields = [
 
 CMS.registerEditorComponent({
   id: "fip-validity",
-  label: "FIP Validity Badge",
+  label: "FIP Validity",
   icon: "verified",
   fields: fipValidityFields,
   pattern: selfClosingPattern("fip-validity"),
   fromBlock: function (match) {
     var p = parseHugoParams(match[1]);
     return {
-      type: p.type || "fip-coupon",
-      status: p.status || "valid",
-      subtitle: p.subtitle || "",
-      text: p.text || "",
-      disable_dialog: p.disable_dialog === true,
+      fip_coupon: p.fip_coupon || "",
+      fip_coupon_subtitle: p.fip_coupon_subtitle || "",
+      fip_reduced_ticket: p.fip_reduced_ticket || "",
+      fip_reduced_ticket_subtitle: p.fip_reduced_ticket_subtitle || "",
+      fip_global_fare: p.fip_global_fare || "",
+      fip_global_fare_subtitle: p.fip_global_fare_subtitle || "",
+      additional: p.additional || "",
+      additional_subtitle: p.additional_subtitle || "",
+      disable_info: p.disable_info === true,
     };
   },
   toBlock: makeToBlock("fip-validity", {
     bracket: "<",
     fields: fipValidityFields,
     bodyMode: "none",
+    multiline: true,
+    multilineThreshold: 0,
   }),
   toPreview: function () {
     return "";
