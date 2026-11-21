@@ -8,11 +8,9 @@ content_images:
 aliases:
   - /booking/bdz-ticket-office
 updates:
-  - message: "Ajout de la Macédoine du Nord."
-    date: 2026-10-08
   - message: "Mise à jour des âges limites et des règles pour les enfants."
     date: 2026-09-19
-  - message: "Ajout de la Bosnie."
+  - message: "Ajout d’informations sur le Balkan Flexipass pour la Bosnie-Herzégovine."
     date: 2026-08-30
   - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
     date: 2026-05-04
@@ -24,7 +22,7 @@ updates:
     date: 2025-10-08
   - message: "Mise à jour des tarifs de réservation BDZ."
     date: 2025-10-08
-  - message: "Ajout de la Bulgarie et de BDŽ."
+  - message: "Ajout de BDŽ."
     date: 2025-10-07
 ---
 

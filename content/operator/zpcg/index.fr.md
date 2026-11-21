@@ -6,15 +6,13 @@ country:
 content_images:
   - image.webp
 updates:
-  - message: "Ajout de la Macédoine du Nord."
-    date: 2026-10-08
   - message: "Mise à jour des âges limites et des règles pour les enfants."
     date: 2026-09-19
-  - message: "Ajout de la Bosnie."
+  - message: "Ajout d’informations sur le Balkan Flexipass pour la Bosnie-Herzégovine."
     date: 2026-08-30
-  - message: "Ajout de la Serbie."
+  - message: "Ajout d’informations sur la réservation par téléphone entre la Serbie et le Monténégro."
     date: 2026-06-29
-  - message: "Ajout du Monténégro et de ŽPCG."
+  - message: "Ajout de ŽPCG."
     date: 2026-05-02
 ---
 

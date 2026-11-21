@@ -40,25 +40,17 @@ updates:
     date: 2026-02-25
   - message: "Added SNCB telephone booking."
     date: 2025-12-12
-  - message: "Added trenitalia."
-    date: 2025-10-09
   - message: "SNCB Website only sells FIP 50 for cross-border travel."
     date: 2025-10-03
-  - message: "Added Eurocity train information for NS and SNCB operators."
+  - message: "Added EuroCity and EuroCity Direct information."
     date: 2025-09-29
   - message: "No SNCB board surcharge for FIP tickets."
     date: 2025-08-03
-  - message: "Added French language."
-    date: 2025-07-21
-  - message: "Added Austria."
-    date: 2025-07-10
-  - message: "Added operator NS."
+  - message: "Added FIP information for EuroCity Direct and EuroCity trains in the Netherlands."
     date: 2025-05-28
-  - message: "Added DSB information."
+  - message: "Added booking information for cross-border FIP 50 Tickets between Germany and Belgium."
     date: 2025-05-07
-  - message: "Added translation."
-    date: 2025-02-17
-  - message: "Page content added."
+  - message: "SNCB / NMBS added."
     date: 2025-01-18
 ---
 

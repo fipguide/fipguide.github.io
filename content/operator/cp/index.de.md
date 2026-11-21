@@ -18,11 +18,7 @@ updates:
     date: 2026-05-02
   - message: "Informationen eines SBB-Kollegen ergänzt."
     date: 2025-10-20
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
-  - message: "Grammatik auf den Portugal-Seiten korrigiert."
-    date: 2025-10-08
-  - message: "Portugal und CP hinzugefügt."
+  - message: "CP hinzugefügt."
     date: 2025-09-14
 ---
 

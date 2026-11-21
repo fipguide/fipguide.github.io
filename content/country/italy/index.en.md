@@ -22,13 +22,13 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Added Slovenia and SŽ."
+  - message: "Updated border connections with Slovenia."
     date: 2026-07-11
   - message: "Updated the cross-border Trenitalia fare to €11."
     date: 2026-06-19
   - message: "Added missing countries."
     date: 2026-05-12
-  - message: "Added greece, attica & hellenic train."
+  - message: "Added ferry connections between Italy and Greece."
     date: 2026-03-22
   - message: "Updated information on international rail journeys in Italy."
     date: 2025-12-28
@@ -36,11 +36,7 @@ updates:
     date: 2025-12-22
   - message: "Updated information about the Strait of Messina."
     date: 2025-10-30
-  - message: "Added France."
-    date: 2025-10-12
-  - message: "Translations."
-    date: 2025-10-09
-  - message: "Added trenitalia."
+  - message: "Italy added."
     date: 2025-10-09
 ---
 

@@ -17,15 +17,11 @@ updates:
     date: 2025-12-30
   - message: "Fahrplanänderungen aktualisiert."
     date: 2025-12-28
-  - message: "Übersetzungen ergänzt."
-    date: 2025-10-09
-  - message: "Französische Sprachversion hinzugefügt."
-    date: 2025-07-21
-  - message: "Österreich als Land hinzugefügt."
+  - message: "Ausnahme für ZSSK-D-Züge zwischen Bratislava und Wien ergänzt."
     date: 2025-07-10
   - message: "Grenzpunkte auf der Länderseite ergänzt."
     date: 2025-05-30
-  - message: "Seiteninhalt hinzugefügt."
+  - message: "Slowakei hinzugefügt."
     date: 2025-01-18
 ---
 

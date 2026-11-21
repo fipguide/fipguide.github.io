@@ -13,7 +13,7 @@ content_images:
 updates:
   - message: "Reviewed Lithuania, LTG Link and Latvia and did some changes."
     date: 2026-01-09
-  - message: "Added Lithuania."
+  - message: "Latvia added."
     date: 2025-12-28
 ---
 

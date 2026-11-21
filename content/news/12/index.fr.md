@@ -5,7 +5,7 @@ description: Désormais, les informations peuvent être modifiées rapidement et
 content_images:
   - image.webp
 updates:
-  - message: "Contenu de la page ajouté."
+  - message: "Ajout de Modifier soi-même le FIP Guide rapidement et facilement."
     date: 2026-08-08
 ---
 

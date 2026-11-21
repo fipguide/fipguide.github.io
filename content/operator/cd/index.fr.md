@@ -29,9 +29,7 @@ updates:
     date: 2025-11-20
   - message: "Ajout d’informations sur l’accès aux salons."
     date: 2025-10-10
-  - message: "Ajout de Trenitalia."
-    date: 2025-10-09
-  - message: "Ajout de ČD comme opérateur."
+  - message: "Ajout de ČD."
     date: 2025-09-20
 ---
 

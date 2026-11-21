@@ -12,7 +12,7 @@ aliases:
 updates:
   - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
     date: 2026-09-19
-  - message: "Stornierungsbedingungen für DB und GB ergänzt."
+  - message: "Stornierungsregeln für Fahrkarten in Großbritannien ergänzt."
     date: 2026-08-17
   - message: "Kostenlose Fährverbindung bei Dartmouth Steam Railway entfernt."
     date: 2026-06-19
@@ -48,7 +48,7 @@ updates:
     date: 2026-01-09
   - message: "Rover-Informationen ergänzt."
     date: 2025-12-22
-  - message: "Großbritannien hinzugefügt."
+  - message: "National Rail hinzugefügt."
     date: 2025-10-21
 ---
 

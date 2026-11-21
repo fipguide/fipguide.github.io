@@ -30,9 +30,7 @@ updates:
     date: 2026-02-07
   - message: "Amélioration des informations sur Centovalli."
     date: 2026-02-06
-  - message: "Ajout de l’Allemagne."
-    date: 2025-12-19
-  - message: "Ajout de SP."
+  - message: "Ajout d’informations FIP sur SP."
     date: 2025-12-15
 ---
 

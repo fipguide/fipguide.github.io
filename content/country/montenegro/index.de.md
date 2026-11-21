@@ -6,9 +6,7 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Bosnien hinzugefügt."
-    date: 2026-08-30
-  - message: "Montenegro und ŽPCG hinzugefügt."
+  - message: "Montenegro hinzugefügt."
     date: 2026-05-02
 ---
 

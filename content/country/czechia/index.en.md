@@ -25,11 +25,7 @@ updates:
     date: 2025-12-28
   - message: "Updated FIP discount information for Czechia and ČD services."
     date: 2025-11-20
-  - message: "Added France."
-    date: 2025-10-12
-  - message: "Added trenitalia."
-    date: 2025-10-09
-  - message: "Added ČD operator."
+  - message: "Czechia added."
     date: 2025-09-20
 ---
 

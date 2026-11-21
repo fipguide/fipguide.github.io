@@ -8,7 +8,7 @@ content_images:
 updates:
   - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
     date: 2026-09-19
-  - message: "Ungarn und MÁV hinzugefügt."
+  - message: "MÁV hinzugefügt."
     date: 2026-07-29
 ---
 

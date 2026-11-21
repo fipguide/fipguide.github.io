@@ -18,7 +18,7 @@ aliases:
 updates:
   - message: "Ajout de distributeurs de billets SNCF Nomad."
     date: 2026-11-21
-  - message: "Ajout du Léman Express dans les pages de SNCF et SBB."
+  - message: "Ajout de la catégorie de train Léman Express et des règles FIP."
     date: 2026-10-24
   - message: "Ajout d’informations sur la réservation via SNCF Connect."
     date: 2026-10-22
@@ -26,8 +26,6 @@ updates:
     date: 2026-10-04
   - message: "Ajout des règles d’embarquement en France."
     date: 2026-10-04
-  - message: "Ajout d’une section sur les correspondances dans les pages anglaise et française."
-    date: 2026-09-20
   - message: "Mise à jour des âges limites et des règles pour les enfants."
     date: 2026-09-19
   - message: "Ajout de HOTNAT et d’AJC."
@@ -64,7 +62,7 @@ updates:
     date: 2025-12-06
   - message: "Suppression de la réservation de billets FIP 50 sur le site de SNCB."
     date: 2025-11-08
-  - message: "Ajout de la France."
+  - message: "Ajout de la SNCF."
     date: 2025-10-12
 ---
 

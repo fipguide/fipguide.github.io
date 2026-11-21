@@ -18,7 +18,7 @@ aliases:
 updates:
   - message: "Added SNCF Nomad ticket machines."
     date: 2026-11-21
-  - message: "Added Léman Express to SNCF and SBB operator page."
+  - message: "Added the Léman Express train category and FIP rules."
     date: 2026-10-24
   - message: "Added SNCF Connect booking information."
     date: 2026-10-22
@@ -26,8 +26,6 @@ updates:
     date: 2026-10-04
   - message: "Added boarding rules in France."
     date: 2026-10-04
-  - message: "Added connections information to the English and French pages."
-    date: 2026-09-20
   - message: "Updated age limits and rules for children."
     date: 2026-09-19
   - message: "Added HOTNAT and AJC."
@@ -64,7 +62,7 @@ updates:
     date: 2025-12-06
   - message: "Removed FIP 50 ticket booking from SNCB website."
     date: 2025-11-08
-  - message: "Added France."
+  - message: "SNCF added."
     date: 2025-10-12
 ---
 

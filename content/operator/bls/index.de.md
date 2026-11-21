@@ -18,7 +18,7 @@ updates:
     date: 2026-06-13
   - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
     date: 2026-05-04
-  - message: "BLS hinzugefügt."
+  - message: "BLS-FIP-Informationen hinzugefügt."
     date: 2026-02-08
 ---
 

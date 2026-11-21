@@ -5,7 +5,7 @@ content_images:
 updates:
   - message: "Updated FIP and booking details for CP and Renfe."
     date: 2026-09-03
-  - message: "Added France."
+  - message: "Monaco added."
     date: 2025-10-12
 ---
 

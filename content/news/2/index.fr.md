@@ -15,13 +15,7 @@ content_images:
 updates:
   - message: "Suppression de la réservation de billets FIP 50 sur le site de SNCB."
     date: 2025-11-08
-  - message: "Ajout de traductions."
-    date: 2025-10-09
-  - message: "Ajout de la version française."
-    date: 2025-07-21
-  - message: "Ajout d’une traduction."
-    date: 2025-02-17
-  - message: "Contenu de la page ajouté."
+  - message: "Ajout de Billets FIP transfrontaliers de la SNCB."
     date: 2025-01-18
 ---
 

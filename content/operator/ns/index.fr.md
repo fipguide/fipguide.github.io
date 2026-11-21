@@ -11,8 +11,6 @@ aliases:
 updates:
   - message: "Ajout des modalités de paiement par carte du supplément ICD hors pointe."
     date: 2026-10-31
-  - message: "Ajout d’une section sur les correspondances dans les pages anglaise et française."
-    date: 2026-09-20
   - message: "Mise à jour des âges limites et des règles pour les enfants."
     date: 2026-09-19
   - message: "Suppression de l’obligation temporaire de réservation pour les ICE transfrontaliers."
@@ -43,15 +41,9 @@ updates:
     date: 2025-10-10
   - message: "Mise en conformité des informations NS RE avec la norme."
     date: 2025-10-10
-  - message: "Ajout de Trenitalia."
-    date: 2025-10-09
-  - message: "Ajout de la version française."
-    date: 2025-07-21
-  - message: "Ajout de l’Autriche."
-    date: 2025-07-10
-  - message: "Ajout de NS comme opérateur."
+  - message: "Ajout d’informations FIP sur NS."
     date: 2025-05-28
-  - message: "Contenu de la page ajouté."
+  - message: "Ajout de NS."
     date: 2025-03-23
 ---
 

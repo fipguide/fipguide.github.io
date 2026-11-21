@@ -14,7 +14,7 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Bosnien hinzugefügt."
+  - message: "Grenzpunktinformationen zu Bosnien und Herzegowina aktualisiert."
     date: 2026-08-30
   - message: "Serbien hinzugefügt."
     date: 2026-06-29

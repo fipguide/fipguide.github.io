@@ -10,7 +10,7 @@ aliases:
   - /booking/sbb-ticket-office
   - /booking/sbb-website
 updates:
-  - message: "Added Léman Express to SNCF and SBB operator page."
+  - message: "Added the Léman Express train category and FIP rules."
     date: 2026-10-24
   - message: "Updated age limits and rules for children."
     date: 2026-09-19
@@ -26,20 +26,14 @@ updates:
     date: 2026-05-04
   - message: "Added information about Metro RET."
     date: 2026-04-09
-  - message: "Added BLS."
-    date: 2026-02-08
   - message: "Clarified sob information."
     date: 2026-02-07
   - message: "Updated SBB BLS coupon acceptance."
     date: 2025-12-15
-  - message: "Added SP."
+  - message: "Updated the SBB age limit for children travelling free."
     date: 2025-12-15
-  - message: "Added France."
-    date: 2025-10-12
-  - message: "Added trenitalia."
+  - message: "Updated FIP information for cross-border EC/ECE trains to Italy."
     date: 2025-10-09
-  - message: "Added French language."
-    date: 2025-07-21
   - message: "Added SBB."
     date: 2025-07-13
 ---

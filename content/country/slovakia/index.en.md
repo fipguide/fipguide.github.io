@@ -17,15 +17,11 @@ updates:
     date: 2025-12-30
   - message: "Content update timetable change."
     date: 2025-12-28
-  - message: "Translations."
-    date: 2025-10-09
-  - message: "Added French language."
-    date: 2025-07-21
-  - message: "Added Austria."
+  - message: "Added an exception for ZSSK D trains between Bratislava and Vienna."
     date: 2025-07-10
   - message: "Border Points on country page."
     date: 2025-05-30
-  - message: "Page content added."
+  - message: "Slovakia added."
     date: 2025-01-18
 ---
 

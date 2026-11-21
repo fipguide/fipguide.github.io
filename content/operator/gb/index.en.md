@@ -12,7 +12,7 @@ aliases:
 updates:
   - message: "Updated age limits and rules for children."
     date: 2026-09-19
-  - message: "Added cancellation policies for DB and Great Britain."
+  - message: "Added ticket cancellation information for Great Britain."
     date: 2026-08-17
   - message: "Removed free ferry from Dartmouth Steam Railway."
     date: 2026-06-19
@@ -48,7 +48,7 @@ updates:
     date: 2026-01-09
   - message: "Create rover details."
     date: 2025-12-22
-  - message: "Added gb."
+  - message: "National Rail added."
     date: 2025-10-21
 ---
 

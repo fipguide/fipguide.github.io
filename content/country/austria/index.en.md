@@ -27,7 +27,7 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Added Slovenia and SŽ."
+  - message: "Updated border connections with Slovenia."
     date: 2026-07-11
   - message: "Removed Schneebergbahn."
     date: 2026-05-15
@@ -39,14 +39,12 @@ updates:
     date: 2025-12-28
   - message: "Content update timetable change."
     date: 2025-12-28
-  - message: "Added trenitalia."
+  - message: "Updated FIP information for EC/RJ trains between Austria and Italy."
     date: 2025-10-09
   - message: "Updated Liechtenstein borders."
     date: 2025-09-29
   - message: "Extend gysev information."
     date: 2025-08-11
-  - message: "Added French language."
-    date: 2025-07-21
   - message: "Added SBB."
     date: 2025-07-13
   - message: "Added Austria."

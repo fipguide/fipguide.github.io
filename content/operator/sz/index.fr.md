@@ -9,7 +9,7 @@ content_images:
 updates:
   - message: "Mise à jour des âges limites et des règles pour les enfants."
     date: 2026-09-19
-  - message: "Ajout de la Slovénie et de SŽ."
+  - message: "Ajout de SŽ."
     date: 2026-07-11
 ---
 

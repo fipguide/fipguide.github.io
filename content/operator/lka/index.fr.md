@@ -12,7 +12,7 @@ updates:
     date: 2026-09-19
   - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
     date: 2026-05-04
-  - message: "Ajout de KW et de LKA."
+  - message: "Ajout de ŁKA."
     date: 2026-02-25
 ---
 

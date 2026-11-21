@@ -8,7 +8,7 @@ content_images:
 updates:
   - message: "Mise à jour des âges limites et des règles pour les enfants."
     date: 2026-09-19
-  - message: "Ajout de la Hongrie et de MÁV."
+  - message: "Ajout de MÁV."
     date: 2026-07-29
 ---
 

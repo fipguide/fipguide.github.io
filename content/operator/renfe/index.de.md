@@ -31,8 +31,6 @@ updates:
     date: 2026-04-05
   - message: "Informationen zu den Zugangsschranken der Barcelonaer Cercanías bei Renfe ergänzt."
     date: 2026-04-05
-  - message: "Irland (CIE) und Nordirland (NIR) hinzugefügt."
-    date: 2026-03-12
   - message: "Internationale Bahnreisen in Italien verbessert beschrieben."
     date: 2025-12-28
   - message: "Ticketkauf an der spanischen Grenze aktualisiert."
@@ -41,25 +39,13 @@ updates:
     date: 2025-10-19
   - message: "Grenzüberschreitende Zugverbindungen zwischen Frankreich und Spanien aktualisiert."
     date: 2025-10-18
-  - message: "Frankreich hinzugefügt."
-    date: 2025-10-12
-  - message: "Englische und französische Übersetzungen ergänzt."
-    date: 2025-10-09
-  - message: "Übersetzungen ergänzt."
-    date: 2025-10-09
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
   - message: "Informationen zu GySEV erweitert."
     date: 2025-08-11
-  - message: "Französische Sprachversion hinzugefügt."
-    date: 2025-07-21
   - message: "Informationen zu internationalen AVE ergänzt."
     date: 2025-07-13
-  - message: "Österreich als Land hinzugefügt."
-    date: 2025-07-10
   - message: "Renfe-Klassenoptionen präzisiert."
     date: 2025-05-28
-  - message: "Spanien und den Betreiber Renfe hinzugefügt."
+  - message: "Renfe hinzugefügt."
     date: 2025-05-26
 ---
 

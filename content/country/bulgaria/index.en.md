@@ -13,13 +13,11 @@ content_images:
 updates:
   - message: "Added missing countries."
     date: 2026-05-12
-  - message: "Added greece, attica & hellenic train."
+  - message: "Updated border-point information for Greece."
     date: 2026-03-22
-  - message: "Added France."
-    date: 2025-10-12
   - message: "Bulgaria corrections."
     date: 2025-10-09
-  - message: "Added Bulgaria/BDŽ."
+  - message: "Bulgaria added."
     date: 2025-10-07
 ---
 

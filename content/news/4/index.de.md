@@ -14,15 +14,13 @@ operator:
 content_images:
   - image.webp
 updates:
-  - message: "Französische Sprachversion hinzugefügt."
-    date: 2025-07-21
   - message: "Eurostar-Preise aktualisiert."
     date: 2025-06-17
   - message: "Eurostar-Preise erhöht."
     date: 2025-05-21
   - message: "Englische Informationen zu LTG ergänzt."
     date: 2025-01-23
-  - message: "Seiteninhalt hinzugefügt."
+  - message: "Eurostar Preiserhöhung hinzugefügt."
     date: 2025-01-18
 ---
 

@@ -29,9 +29,7 @@ updates:
     date: 2025-11-20
   - message: "Added lounge access information."
     date: 2025-10-10
-  - message: "Added trenitalia."
-    date: 2025-10-09
-  - message: "Added ČD operator."
+  - message: "ČD added."
     date: 2025-09-20
 ---
 

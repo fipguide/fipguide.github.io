@@ -20,13 +20,9 @@ updates:
     date: 2026-05-04
   - message: "Informationen zur Slowakei verbessert."
     date: 2026-01-30
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
   - message: "Zusätzliche Anforderungen für FIP Freifahrtscheine in der Slowakei ergänzt."
     date: 2025-10-08
-  - message: "Französische Sprachversion hinzugefügt."
-    date: 2025-07-21
-  - message: "Seiteninhalt hinzugefügt."
+  - message: "ZSSK / ŽSR hinzugefügt."
     date: 2025-01-18
 ---
 

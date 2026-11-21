@@ -31,8 +31,6 @@ updates:
     date: 2026-04-05
   - message: "Ajout d’informations sur les portillons d’accès des Cercanías de Barcelone chez Renfe."
     date: 2026-04-05
-  - message: "Ajout de l’Irlande (CIE) et de l’Irlande du Nord (NIR)."
-    date: 2026-03-12
   - message: "Amélioration des informations sur les voyages internationaux en Italie."
     date: 2025-12-28
   - message: "Mise à jour des modalités d’achat des billets à la frontière espagnole."
@@ -41,25 +39,13 @@ updates:
     date: 2025-10-19
   - message: "Mise à jour des informations sur les trains transfrontaliers entre la France et l’Espagne."
     date: 2025-10-18
-  - message: "Ajout de la France."
-    date: 2025-10-12
-  - message: "Ajout des traductions anglaise et française."
-    date: 2025-10-09
-  - message: "Ajout de traductions."
-    date: 2025-10-09
-  - message: "Ajout de Trenitalia."
-    date: 2025-10-09
   - message: "Informations sur GySEV complétées."
     date: 2025-08-11
-  - message: "Ajout de la version française."
-    date: 2025-07-21
   - message: "Ajout d’informations sur les AVE internationaux."
     date: 2025-07-13
-  - message: "Ajout de l’Autriche."
-    date: 2025-07-10
   - message: "Précision des options de classe de Renfe."
     date: 2025-05-28
-  - message: "Ajout de l’Espagne et de l’opérateur Renfe."
+  - message: "Ajout de Renfe."
     date: 2025-05-26
 ---
 

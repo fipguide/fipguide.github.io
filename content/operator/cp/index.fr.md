@@ -18,11 +18,7 @@ updates:
     date: 2026-05-02
   - message: "Ajout d’informations communiquées par un collègue des CFF."
     date: 2025-10-20
-  - message: "Ajout de Trenitalia."
-    date: 2025-10-09
-  - message: "Correction de la grammaire dans les pages sur le Portugal."
-    date: 2025-10-08
-  - message: "Ajout du Portugal et de CP."
+  - message: "Ajout de CP."
     date: 2025-09-14
 ---
 

@@ -5,7 +5,7 @@ description: From now on, information can be edited quickly and easily directly 
 content_images:
   - image.webp
 updates:
-  - message: "Page content added."
+  - message: "Edit the FIP Guide yourself quickly and easily added."
     date: 2026-08-08
 ---
 

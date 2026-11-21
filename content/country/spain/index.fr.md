@@ -23,23 +23,15 @@ updates:
     date: 2025-10-30
   - message: "Mise à jour des informations sur les trains transfrontaliers entre la France et l’Espagne."
     date: 2025-10-18
-  - message: "Ajout de la France."
-    date: 2025-10-12
-  - message: "Ajout de Trenitalia."
-    date: 2025-10-09
-  - message: "Ajout d’Euskotren comme opérateur."
+  - message: "Ajout d’informations sur la validité FIP d’Euskotren jusqu’à Hendaye."
     date: 2025-09-02
   - message: "Informations sur GySEV complétées."
     date: 2025-08-11
-  - message: "Ajout de la version française."
-    date: 2025-07-21
   - message: "Ajout d’informations sur les AVE internationaux."
     date: 2025-07-13
-  - message: "Ajout de l’Autriche."
-    date: 2025-07-10
   - message: "Ajout de points frontières sur la page pays."
     date: 2025-05-30
-  - message: "Ajout de l’Espagne et de l’opérateur Renfe."
+  - message: "Ajout de l’Espagne."
     date: 2025-05-26
 ---
 

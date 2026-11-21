@@ -16,11 +16,11 @@ updates:
     date: 2026-06-13
   - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
     date: 2026-05-04
-  - message: "Ajout de KW et de LKA."
+  - message: "Ajout d’informations sur le distributeur KD et le supplément à bord."
     date: 2026-02-25
   - message: "Suppression des informations de réservation Polregio de la page KD."
     date: 2026-01-30
-  - message: "Ajout de KD comme nouvel opérateur."
+  - message: "Ajout d’informations FIP sur KD."
     date: 2026-01-22
 ---
 

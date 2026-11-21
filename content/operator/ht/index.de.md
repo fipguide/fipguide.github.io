@@ -9,15 +9,13 @@ aliases:
   - /booking/ht-ticket-office
   - /booking/ht-website
 updates:
-  - message: "Nordmazedonien hinzugefügt."
-    date: 2026-10-08
   - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
     date: 2026-09-19
-  - message: "Bosnien hinzugefügt."
+  - message: "Balkan-Flexipass-Informationen zu Bosnien und Herzegowina ergänzt."
     date: 2026-08-30
   - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
     date: 2026-05-04
-  - message: "Griechenland, Attica und Hellenic Train hinzugefügt."
+  - message: "Hellenic Train hinzugefügt."
     date: 2026-03-22
 ---
 

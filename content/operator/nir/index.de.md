@@ -17,7 +17,7 @@ updates:
     date: 2026-05-04
   - message: "FIP-75-Unterstützung an verschiedenen Stellen ergänzt."
     date: 2026-04-01
-  - message: "Irland (CIE) und Nordirland (NIR) hinzugefügt."
+  - message: "NIR hinzugefügt."
     date: 2026-03-12
 ---
 

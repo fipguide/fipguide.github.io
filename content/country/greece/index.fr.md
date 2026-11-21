@@ -15,9 +15,7 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Ajout de la Macédoine du Nord."
-    date: 2026-10-08
-  - message: "Ajout de la Grèce, d’Attica et de Hellenic Train."
+  - message: "Ajout de la Grèce."
     date: 2026-03-22
 ---
 

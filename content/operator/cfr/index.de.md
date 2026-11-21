@@ -8,11 +8,9 @@ content_images:
 aliases:
   - /booking/cfr-ticket-office
 updates:
-  - message: "Nordmazedonien hinzugefügt."
-    date: 2026-10-08
   - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
     date: 2026-09-19
-  - message: "Bosnien hinzugefügt."
+  - message: "Balkan-Flexipass-Informationen zu Bosnien und Herzegowina ergänzt."
     date: 2026-08-30
   - message: "CFR-Reservierungspreise aktualisiert."
     date: 2026-06-16

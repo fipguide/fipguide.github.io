@@ -19,31 +19,23 @@ content_images:
 updates:
   - message: "Mise à jour de la formulation sur le passage de la frontière aux Pays-Bas."
     date: 2026-10-12
-  - message: "Ajout d’une section sur les correspondances dans les pages anglaise et française."
-    date: 2026-09-20
   - message: "Ajout d’informations sur le train des trois pays."
     date: 2026-08-08
-  - message: "Ajout de l’Irlande (CIE) et de l’Irlande du Nord (NIR)."
+  - message: "Ajout du point frontière du ferry à Hoek van Holland."
     date: 2026-03-12
-  - message: "Ajout de SLL."
+  - message: "Ajout de la liaison par ferry FIP entre Hoek van Holland et Harwich."
     date: 2026-02-25
   - message: "Ajout de nouveaux opérateurs sans FIP."
     date: 2025-12-22
-  - message: "Ajout de Stena Line BV comme opérateur."
+  - message: "Ajout d’informations FIP sur le ferry entre Hoek van Holland et Harwich."
     date: 2025-12-22
   - message: "Mise à jour des informations sur l’IC Amsterdam."
     date: 2025-12-21
-  - message: "Ajout de Trenitalia."
-    date: 2025-10-09
-  - message: "Ajout de la version française."
-    date: 2025-07-21
-  - message: "Ajout de l’Autriche."
-    date: 2025-07-10
   - message: "Ajout de points frontières sur la page pays."
     date: 2025-05-30
-  - message: "Ajout de NS comme opérateur."
+  - message: "Ajout d’informations FIP pour les Pays-Bas."
     date: 2025-05-28
-  - message: "Contenu de la page ajouté."
+  - message: "Ajout de Pays-Bas."
     date: 2025-03-23
 ---
 

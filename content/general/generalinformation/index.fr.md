@@ -8,7 +8,7 @@ toc: true
 aliases:
   - /generalinformation/
 updates:
-  - message: "Contenu de la page ajouté."
+  - message: "Ajout de Informations générales."
     date: 2025-12-18
 ---
 

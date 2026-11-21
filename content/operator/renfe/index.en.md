@@ -31,8 +31,6 @@ updates:
     date: 2026-04-05
   - message: "Added Barcelona Cercanías ticket gate info to Renfe page."
     date: 2026-04-05
-  - message: "Added Ireland (CIE) and Northern Ireland (NIR)."
-    date: 2026-03-12
   - message: "Updated information on international rail journeys in Italy."
     date: 2025-12-28
   - message: "Updated Spain border ticket purchase."
@@ -41,25 +39,13 @@ updates:
     date: 2025-10-19
   - message: "Updated cross-border train information for France and Spain."
     date: 2025-10-18
-  - message: "Added France."
-    date: 2025-10-12
-  - message: "English and french translations."
-    date: 2025-10-09
-  - message: "Translations."
-    date: 2025-10-09
-  - message: "Added trenitalia."
-    date: 2025-10-09
   - message: "Extend gysev information."
     date: 2025-08-11
-  - message: "Added French language."
-    date: 2025-07-21
   - message: "Added information about international AVE."
     date: 2025-07-13
-  - message: "Added Austria."
-    date: 2025-07-10
   - message: "Clarified Renfe class options."
     date: 2025-05-28
-  - message: "Added Spain and the Renfe operator."
+  - message: "Renfe added."
     date: 2025-05-26
 ---
 

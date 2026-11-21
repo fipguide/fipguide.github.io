@@ -11,7 +11,7 @@ updates:
     date: 2026-10-02
   - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
     date: 2026-05-04
-  - message: "Ajout de KML."
+  - message: "Ajout d’informations FIP sur KMŁ."
     date: 2026-04-01
 ---
 

@@ -18,7 +18,7 @@ updates:
     date: 2026-05-12
   - message: "Updated Stena Line booking options."
     date: 2026-04-10
-  - message: "Added SLL."
+  - message: "Added FIP information for Stena Line Limited."
     date: 2026-02-25
 ---
 

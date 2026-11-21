@@ -23,8 +23,10 @@
     aria-label="{{ T "updateDate.aria-label" }}"
     data-pagefind-ignore="all"
   >
-    {{ T "updateDate.label" }}:
-    <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    <span>
+      {{ T "updateDate.label" }}:
+      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    </span>
     {{- partial "icon" "arrow_outward" -}}
   </a>
 {{ end }}

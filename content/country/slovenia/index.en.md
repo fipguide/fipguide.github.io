@@ -11,7 +11,7 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Added Slovenia and SŽ."
+  - message: "Slovenia added."
     date: 2026-07-11
 ---
 

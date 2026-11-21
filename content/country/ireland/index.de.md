@@ -13,7 +13,7 @@ updates:
     date: 2026-08-03
   - message: "Doppelten Betreiberhinweis auf der Irland-Seite entfernt."
     date: 2026-04-04
-  - message: "Irland (CIE) und Nordirland (NIR) hinzugefügt."
+  - message: "Irland hinzugefügt."
     date: 2026-03-12
 ---
 

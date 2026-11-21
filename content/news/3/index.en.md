@@ -10,9 +10,7 @@ updates:
     date: 2026-08-03
   - message: "Removed announced further VR information."
     date: 2026-04-21
-  - message: "Added French language."
-    date: 2025-07-21
-  - message: "Page content added."
+  - message: "FIP withdrawal of Finnish State Railways VR added."
     date: 2025-01-18
 ---
 

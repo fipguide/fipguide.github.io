@@ -94,10 +94,13 @@ x_fip_validity_target_fields_reduced: &fip_validity_target_fields_reduced
 
 x_updates_field: &updates_field
   label: "Updates"
+  label_singular: "Update"
   name: "updates"
   widget: "list"
   required: false
   i18n: true
+  collapsed: true
+  minimize_collapsed: true
   summary: "{{fields.date}}: {{fields.message}}"
   fields:
     - label: "Message"
@@ -108,6 +111,7 @@ x_updates_field: &updates_field
       name: "date"
       widget: "datetime"
       type: "date"
+      default: "{{now}}"
       i18n: sync
 
 x_border_side: &border_side

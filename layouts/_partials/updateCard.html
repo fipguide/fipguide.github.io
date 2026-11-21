@@ -1,0 +1,26 @@
+{{- $entry := .entry -}}
+{{- $class := .class | default "" -}}
+<a
+  href="{{ $entry.page.RelPermalink }}"
+  class="m-teaser__wrapper o-update-card {{ $class }}"
+>
+  <div class="m-teaser__content">
+    <div class="m-teaser__dateline">
+      <time datetime="{{ $entry.date.Format "2006-01-02" }}"
+        >{{ $entry.date | time.Format ":date_long" }}</time
+      >
+      <span class="o-update-page">
+        {{ $entry.page.Title }}
+        {{ if eq $entry.page.Type "country" }}
+          {{ partial "flag" (dict "country" $entry.page.File.ContentBaseName) }}
+        {{ else if eq $entry.page.Type "operator" }}
+          {{ partial "operator-logo" (dict "operator" $entry.page.File.ContentBaseName) }}
+        {{ end }}
+      </span>
+    </div>
+    <div class="o-update-card__body">
+      <h4 class="m-teaser__headline">{{ $entry.message }}</h4>
+      {{ partial "icon" "arrow_forward" }}
+    </div>
+  </div>
+</a>

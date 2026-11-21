@@ -21,12 +21,10 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Added Léman Express to SNCF and SBB operator page."
+  - message: "Added FIP validity information for the Léman Express."
     date: 2026-10-24
   - message: "Added govolta to non FIP operators in France."
     date: 2026-07-13
-  - message: "Added Serbia."
-    date: 2026-06-29
   - message: "Updated luxemburg borders."
     date: 2026-05-13
   - message: "Added SNCF trains in Germany."
@@ -47,7 +45,7 @@ updates:
     date: 2025-12-27
   - message: "Updated Spain border ticket purchase."
     date: 2025-10-30
-  - message: "Added gb."
+  - message: "Added FIP information about LeShuttle and ferry connections to Great Britain."
     date: 2025-10-21
   - message: "Added information from SBB colleague."
     date: 2025-10-20

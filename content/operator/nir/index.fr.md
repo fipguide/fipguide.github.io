@@ -17,7 +17,7 @@ updates:
     date: 2026-05-04
   - message: "Ajout de la prise en charge du FIP 75 à plusieurs endroits."
     date: 2026-04-01
-  - message: "Ajout de l’Irlande (CIE) et de l’Irlande du Nord (NIR)."
+  - message: "Ajout de NIR."
     date: 2026-03-12
 ---
 

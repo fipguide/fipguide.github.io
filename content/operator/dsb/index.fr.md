@@ -30,15 +30,9 @@ updates:
     date: 2026-05-04
   - message: "Mise à jour des changements d’horaires."
     date: 2025-12-28
-  - message: "Ajout de Trenitalia."
-    date: 2025-10-09
   - message: "Informations sur GySEV complétées."
     date: 2025-08-11
-  - message: "Ajout de la version française."
-    date: 2025-07-21
-  - message: "Ajout de l’Autriche."
-    date: 2025-07-10
-  - message: "Ajout d’informations sur DSB."
+  - message: "Ajout d’informations FIP sur DSB."
     date: 2025-05-07
 ---
 

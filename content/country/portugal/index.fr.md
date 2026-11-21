@@ -14,11 +14,7 @@ updates:
     date: 2026-11-21
   - message: "Mise à jour des informations FIP et de réservation sur CP et Renfe."
     date: 2026-09-03
-  - message: "Ajout de la France."
-    date: 2025-10-12
-  - message: "Correction de la grammaire dans les pages sur le Portugal."
-    date: 2025-10-08
-  - message: "Ajout du Portugal et de CP."
+  - message: "Ajout du Portugal."
     date: 2025-09-14
 ---
 

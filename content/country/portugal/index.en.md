@@ -10,15 +10,11 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Onboard tickets for cross-border trains Portugal / Spain."
+  - message: "Added information on cross-border ticketing between Portugal and Spain."
     date: 2026-11-21
   - message: "Updated FIP and booking details for CP and Renfe."
     date: 2026-09-03
-  - message: "Added France."
-    date: 2025-10-12
-  - message: "Grammatical issues on Portugal pages."
-    date: 2025-10-08
-  - message: "Added Portugal & CP."
+  - message: "Portugal added."
     date: 2025-09-14
 ---
 

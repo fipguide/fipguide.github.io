@@ -10,8 +10,6 @@ operator:
 content_images:
   - image.webp
 updates:
-  - message: "Added France."
-    date: 2025-10-12
   - message: "News Rigi-Bahnen."
     date: 2025-08-25
 ---

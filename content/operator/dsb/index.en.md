@@ -30,15 +30,9 @@ updates:
     date: 2026-05-04
   - message: "Content update timetable change."
     date: 2025-12-28
-  - message: "Added trenitalia."
-    date: 2025-10-09
   - message: "Extend gysev information."
     date: 2025-08-11
-  - message: "Added French language."
-    date: 2025-07-21
-  - message: "Added Austria."
-    date: 2025-07-10
-  - message: "Added DSB information."
+  - message: "Added FIP information for DSB."
     date: 2025-05-07
 ---
 

@@ -11,11 +11,7 @@ updates:
     date: 2026-05-04
   - message: "Added Zugpost travel reports for the railway."
     date: 2026-05-02
-  - message: "Translations."
-    date: 2025-10-09
-  - message: "Added trenitalia."
-    date: 2025-10-09
-  - message: "Added operator euskotren."
+  - message: "Added FIP information for Euskotren."
     date: 2025-09-02
 ---
 

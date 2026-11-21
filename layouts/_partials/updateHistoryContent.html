@@ -1,4 +1,3 @@
-{{- $page := .page -}}
 <ul class="o-update-history">
   {{- range .updates }}
     {{- $date := time.AsTime .date }}
@@ -10,4 +9,3 @@
     </li>
   {{- end }}
 </ul>
-{{ partial "link" (dict "Destination" .githubLink "Text" (T "updateDate.githubHistory") "Page" $page) }}

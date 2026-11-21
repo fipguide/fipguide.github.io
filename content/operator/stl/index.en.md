@@ -19,13 +19,13 @@ updates:
     date: 2026-04-09
   - message: "Removed note for stl FIP Coupons."
     date: 2026-03-21
-  - message: "Added SLL."
+  - message: "Separated booking information for Stena Line BV and Stena Line Limited."
     date: 2026-02-25
   - message: "Added Stena Line booking information by email."
     date: 2026-01-26
   - message: "Added instructions to determine the Stena Line fare."
     date: 2025-12-27
-  - message: "Operator Stena Line BV."
+  - message: "Added FIP information for Stena Line BV."
     date: 2025-12-22
 ---
 

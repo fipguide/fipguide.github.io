@@ -10,8 +10,6 @@ aliases:
   - /booking/zssk-ticket-office
   - /booking/zssk-website
 updates:
-  - message: "Added connections information to the English and French pages."
-    date: 2026-09-20
   - message: "Updated age limits and rules for children."
     date: 2026-09-19
   - message: "Added HOTNAT and AJC."
@@ -20,13 +18,9 @@ updates:
     date: 2026-05-04
   - message: "Improved FIP information for Slovakia."
     date: 2026-01-30
-  - message: "Added trenitalia."
-    date: 2025-10-09
   - message: "Added requirements for FIP Coupons in Slovakia."
     date: 2025-10-08
-  - message: "Added French language."
-    date: 2025-07-21
-  - message: "Page content added."
+  - message: "ZSSK / ZSR added."
     date: 2025-01-18
 ---
 

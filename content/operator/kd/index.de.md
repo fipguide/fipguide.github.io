@@ -16,11 +16,11 @@ updates:
     date: 2026-06-13
   - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
     date: 2026-05-04
-  - message: "KW und LKA hinzugefügt."
+  - message: "KD-Fahrkartenautomat und Bordzuschlag ergänzt."
     date: 2026-02-25
   - message: "Polregio-Buchung von der KD-Seite entfernt."
     date: 2026-01-30
-  - message: "KD als neuen Betreiber hinzugefügt."
+  - message: "FIP-Informationen zu KD hinzugefügt."
     date: 2026-01-22
 ---
 

@@ -21,8 +21,6 @@ updates:
     date: 2026-05-04
   - message: "CFL ticket office first class."
     date: 2026-01-21
-  - message: "Added Lithuania."
-    date: 2025-12-28
   - message: "Added Luxembourg."
     date: 2025-12-15
 ---

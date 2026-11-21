@@ -17,15 +17,13 @@ updates:
     date: 2026-10-04
   - message: "Added the Brenner surcharge to the ÖBB website."
     date: 2026-10-02
-  - message: "Added connections information to the English and French pages."
-    date: 2026-09-20
   - message: "Updated age limits and rules for children."
     date: 2026-09-19
   - message: "Renamed Vienna Airport Lines VAL busses."
     date: 2026-09-05
   - message: "Added HOTNAT and AJC."
     date: 2026-07-13
-  - message: "Added Slovenia and SŽ."
+  - message: "Added booking information for cross-border SŽ trains."
     date: 2026-07-11
   - message: "Added DB FIP Hotline."
     date: 2026-06-13
@@ -43,14 +41,6 @@ updates:
     date: 2026-01-07
   - message: "Updated information on international rail journeys in Italy."
     date: 2025-12-28
-  - message: "Added France."
-    date: 2025-10-12
-  - message: "English and french translations."
-    date: 2025-10-09
-  - message: "Added trenitalia."
-    date: 2025-10-09
-  - message: "Added ČD operator."
-    date: 2025-09-20
   - message: "Extend gysev information."
     date: 2025-08-11
 ---

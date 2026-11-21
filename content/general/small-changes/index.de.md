@@ -1,0 +1,5 @@
+---
+title: Änderungshistorie
+---
+
+{{< small-changes >}}

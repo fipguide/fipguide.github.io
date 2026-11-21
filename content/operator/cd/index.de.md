@@ -29,9 +29,7 @@ updates:
     date: 2025-11-20
   - message: "Informationen zum Lounge-Zugang ergänzt."
     date: 2025-10-10
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
-  - message: "ČD als Betreiber hinzugefügt."
+  - message: "ČD hinzugefügt."
     date: 2025-09-20
 ---
 

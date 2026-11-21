@@ -64,41 +64,220 @@
 }
 
 .o-startpage__news {
-  &-header {
-    display: flex;
-    align-items: baseline;
-    gap: 0.8rem;
-  }
-
   &-wrapper {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 2rem;
-    margin-bottom: 2rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-rows: auto minmax(0, 1fr);
+    column-gap: 2rem;
+    row-gap: 1.2rem;
+    margin-bottom: 1.2rem;
+    align-items: stretch;
+
+    > h2 {
+      grid-column: 1;
+      grid-row: 1;
+      align-self: baseline;
+    }
+
+    > .o-startpage__news-all {
+      grid-column: 2;
+      grid-row: 1;
+      justify-self: end;
+      align-self: baseline;
+    }
+
+    > .o-startpage__news-card--first {
+      grid-column: 1;
+      grid-row: 2;
+    }
+
+    > .o-startpage__news-card--second {
+      grid-column: 2;
+      grid-row: 2;
+    }
+
+    > .o-startpage__updates {
+      grid-column: 3;
+      grid-row: 1 / span 2;
+    }
+
+    @media (max-width: #{$breakpoint-lg}) {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      grid-template-rows: auto auto auto;
+
+      > .o-startpage__updates {
+        grid-column: 1 / -1;
+        grid-row: 3;
+      }
+    }
 
     @media (max-width: #{$breakpoint-md}) {
-      display: flex;
-      flex-wrap: wrap;
+      grid-template-columns: minmax(0, 1fr) auto;
+      grid-template-rows: auto;
+
+      > .o-startpage__news-card--first,
+      > .o-startpage__news-card--second,
+      > .o-startpage__updates {
+        grid-column: 1 / -1;
+        grid-row: auto;
+      }
     }
   }
 }
 
-.o-startpage__updates-list {
-  list-style: none;
-  padding: 0;
+.o-startpage__news-card {
+  min-width: 0;
+  display: flex;
 
-  li {
-    border-bottom: var(--border);
-    border-color: var(--color-table-border);
-    padding: 1rem 0;
+  > .m-teaser {
+    flex: 1;
+
+    .m-teaser__wrapper {
+      height: 100%;
+    }
+  }
+}
+
+.o-startpage__updates-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.8rem;
+
+  h3 {
+    margin: 2rem 0 0;
+    font-size: 2rem;
   }
 
-  time {
-    font-size: 1.3rem;
+  @media (max-width: #{$breakpoint-md}) {
+    h3 {
+      margin-top: 0;
+    }
+  }
+}
+
+.o-startpage__updates {
+  min-width: 0;
+  height: 100%;
+  min-height: 0;
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr);
+  row-gap: 1.2rem;
+
+  &-list {
+    display: grid;
+    grid-template-rows: repeat(4, minmax(0, 1fr));
+    gap: 0.8rem;
+    min-height: 0;
   }
 
-  p {
-    margin: 0.5rem 0;
+  @media (max-width: #{$breakpoint-lg}) {
+    height: auto;
+    grid-template-rows: auto auto;
+
+    &-list {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      grid-template-rows: repeat(2, minmax(11rem, 1fr));
+      height: auto;
+    }
+  }
+
+  @media (max-width: #{$breakpoint-md}) {
+    height: auto;
+    grid-template-rows: auto auto;
+
+    &-list {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+}
+
+.o-update-card {
+  height: 100%;
+  min-height: 0;
+
+  .m-teaser__content {
+    height: 100%;
+    padding: 1rem;
+    justify-content: flex-start;
+    gap: 1.2rem;
+  }
+
+  .m-teaser__dateline {
+    gap: 1.2rem;
+  }
+
+  &__body {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+  }
+
+  .m-teaser__headline {
+    flex: 1;
+    min-width: 0;
+    margin: 0;
+    font-size: 1.6rem;
+    line-clamp: 2;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  &__body > .a-icon {
+    flex: 0 0 auto;
+    margin-top: 0;
+  }
+
+  @media (max-width: #{$breakpoint-lg}) {
+    min-height: 11rem;
+  }
+
+  @media (max-width: #{$breakpoint-md}) {
+    height: auto;
+    min-height: 0;
+    flex: initial;
+
+    .m-teaser__content {
+      height: auto;
+    }
+  }
+}
+
+.o-update-page {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--link-special);
+  font-size: inherit;
+  text-align: right;
+}
+
+.o-small-changes__list {
+  display: grid;
+  gap: 1rem;
+}
+
+.o-update-card--overview {
+  width: 100%;
+  height: auto;
+  min-height: 0;
+
+  .m-teaser__content {
+    height: auto;
+  }
+
+  .m-teaser__headline {
+    line-clamp: unset;
+    display: block;
+    -webkit-line-clamp: unset;
+    -webkit-box-orient: initial;
+    overflow: visible;
   }
 }
 

@@ -21,12 +21,10 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Léman Express auf den Seiten von SNCF und SBB ergänzt."
+  - message: "FIP-Gültigkeit beim Léman Express ergänzt."
     date: 2026-10-24
   - message: "GoVolta zu den Betreibern ohne FIP in Frankreich hinzugefügt."
     date: 2026-07-13
-  - message: "Serbien hinzugefügt."
-    date: 2026-06-29
   - message: "Grenzpunkte in Luxemburg aktualisiert."
     date: 2026-05-13
   - message: "Informationen zu SNCF-Zügen in Deutschland ergänzt."
@@ -47,7 +45,7 @@ updates:
     date: 2025-12-27
   - message: "Ticketkauf an der spanischen Grenze aktualisiert."
     date: 2025-10-30
-  - message: "Großbritannien hinzugefügt."
+  - message: "FIP-Informationen zu LeShuttle und den Fährverbindungen nach Großbritannien ergänzt."
     date: 2025-10-21
   - message: "Informationen eines SBB-Kollegen ergänzt."
     date: 2025-10-20

@@ -6,9 +6,7 @@ country:
 content_images:
   - image.webp
 updates:
-  - message: "Nordmazedonien hinzugefügt."
-    date: 2026-10-08
-  - message: "Bosnien hinzugefügt."
+  - message: "ŽRS hinzugefügt."
     date: 2026-08-30
 ---
 

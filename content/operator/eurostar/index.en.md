@@ -49,20 +49,10 @@ updates:
     date: 2026-01-09
   - message: "Added missing Eurostar prices."
     date: 2026-01-03
-  - message: "Added gb."
+  - message: "Excluded FIP 50 from email booking via International Rail."
     date: 2025-10-21
-  - message: "Added France."
-    date: 2025-10-12
-  - message: "Added trenitalia."
-    date: 2025-10-09
   - message: "Updated Eurostar booking information."
     date: 2025-09-30
-  - message: "Added PKP."
-    date: 2025-08-25
-  - message: "Added French language."
-    date: 2025-07-21
-  - message: "Added Austria."
-    date: 2025-07-10
   - message: "Eurostar booking problem."
     date: 2025-07-08
   - message: "Added london international."
@@ -71,11 +61,7 @@ updates:
     date: 2025-06-17
   - message: "Added eurostar price increase."
     date: 2025-05-21
-  - message: "Eurostar booking is via International Rail Ltd, not National Rail."
-    date: 2025-05-08
-  - message: "Added DSB information."
-    date: 2025-05-07
-  - message: "Page content added."
+  - message: "Eurostar added."
     date: 2025-01-18
 ---
 

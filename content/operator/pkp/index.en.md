@@ -23,13 +23,11 @@ updates:
     date: 2026-05-04
   - message: "Updated ČD FIP validity."
     date: 2026-03-10
-  - message: "Added KW and ŁKA."
+  - message: "Added Polregio InterRegio trains and tourist ticket information."
     date: 2026-02-25
   - message: "Added KŚ information."
     date: 2026-02-19
-  - message: "Added trenitalia."
-    date: 2025-10-09
-  - message: "Added PKP."
+  - message: "PKP added."
     date: 2025-08-25
 ---
 

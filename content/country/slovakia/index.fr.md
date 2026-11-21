@@ -17,15 +17,11 @@ updates:
     date: 2025-12-30
   - message: "Mise à jour des changements d’horaires."
     date: 2025-12-28
-  - message: "Ajout de traductions."
-    date: 2025-10-09
-  - message: "Ajout de la version française."
-    date: 2025-07-21
-  - message: "Ajout de l’Autriche."
+  - message: "Ajout d’une exception pour les trains D de ZSSK entre Bratislava et Vienne."
     date: 2025-07-10
   - message: "Ajout de points frontières sur la page pays."
     date: 2025-05-30
-  - message: "Contenu de la page ajouté."
+  - message: "Ajout de Slovaquie."
     date: 2025-01-18
 ---
 

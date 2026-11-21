@@ -9,7 +9,7 @@ content_images:
 updates:
   - message: "Updated age limits and rules for children."
     date: 2026-09-19
-  - message: "Added Slovenia and SŽ."
+  - message: "SŽ added."
     date: 2026-07-11
 ---
 

@@ -25,11 +25,7 @@ updates:
     date: 2025-12-28
   - message: "FIP-Ermäßigungsinformationen für Tschechien und ČD aktualisiert."
     date: 2025-11-20
-  - message: "Frankreich hinzugefügt."
-    date: 2025-10-12
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
-  - message: "ČD als Betreiber hinzugefügt."
+  - message: "Tschechien hinzugefügt."
     date: 2025-09-20
 ---
 

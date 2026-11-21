@@ -19,15 +19,11 @@ updates:
     date: 2026-05-04
   - message: "GySEV-Buchungsinformationen aktualisiert."
     date: 2025-12-14
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
   - message: "Quelle für GySEV ergänzt."
     date: 2025-08-11
   - message: "Informationen zu GySEV erweitert."
     date: 2025-08-11
-  - message: "Französische Sprachversion hinzugefügt."
-    date: 2025-07-21
-  - message: "Österreich als Land hinzugefügt."
+  - message: "FIP-Informationen zur GySEV in Österreich ergänzt."
     date: 2025-07-10
 ---
 

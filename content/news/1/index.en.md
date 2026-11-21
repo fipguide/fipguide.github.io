@@ -13,11 +13,7 @@ content_images:
 updates:
   - message: "Updated relationship of old news."
     date: 2026-01-14
-  - message: "Added French language."
-    date: 2025-07-21
-  - message: "Added translation."
-    date: 2025-02-17
-  - message: "Page content added."
+  - message: "New FIP Member: LTG Link (Lithuania) added."
     date: 2025-01-18
 ---
 

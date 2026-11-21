@@ -40,25 +40,17 @@ updates:
     date: 2026-02-25
   - message: "Telefonische Buchung bei SNCB ergänzt."
     date: 2025-12-12
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
   - message: "SNCB-Website: FIP 50 nur für grenzüberschreitende Reisen."
     date: 2025-10-03
-  - message: "EuroCity-Informationen für NS und SNCB ergänzt."
+  - message: "EuroCity- und EuroCity-Direct-Informationen ergänzt."
     date: 2025-09-29
   - message: "SNCB-Bordzuschlag für FIP-Tickets korrigiert."
     date: 2025-08-03
-  - message: "Französische Sprachversion hinzugefügt."
-    date: 2025-07-21
-  - message: "Österreich als Land hinzugefügt."
-    date: 2025-07-10
-  - message: "NS als Betreiber hinzugefügt."
+  - message: "FIP-Informationen zu EuroCity Direct und EuroCity in den Niederlanden ergänzt."
     date: 2025-05-28
-  - message: "Informationen zu DSB ergänzt."
+  - message: "Buchungsinformationen für grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Belgien ergänzt."
     date: 2025-05-07
-  - message: "Übersetzung hinzugefügt."
-    date: 2025-02-17
-  - message: "Seiteninhalt hinzugefügt."
+  - message: "SNCB / NMBS hinzugefügt."
     date: 2025-01-18
 ---
 

@@ -21,8 +21,6 @@ updates:
     date: 2026-05-04
   - message: "Ajout des informations sur la première classe au guichet CFL."
     date: 2026-01-21
-  - message: "Ajout de la Lituanie."
-    date: 2025-12-28
   - message: "Ajout du Luxembourg."
     date: 2025-12-15
 ---

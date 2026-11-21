@@ -19,13 +19,13 @@ updates:
     date: 2026-04-09
   - message: "Suppression de la note sur les Coupons FIP Stena Line."
     date: 2026-03-21
-  - message: "Ajout de SLL."
+  - message: "Séparation des informations de réservation pour Stena Line BV et Stena Line Limited."
     date: 2026-02-25
   - message: "Ajout d’informations pour réserver par e-mail auprès de Stena Line."
     date: 2026-01-26
   - message: "Ajout d’instructions pour déterminer le tarif Stena Line."
     date: 2025-12-27
-  - message: "Ajout de Stena Line BV comme opérateur."
+  - message: "Ajout d’informations FIP sur Stena Line BV."
     date: 2025-12-22
 ---
 

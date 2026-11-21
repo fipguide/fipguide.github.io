@@ -29,7 +29,7 @@ updates:
     date: 2026-09-19
   - message: "Vorübergehende grenzüberschreitende ICE-Reservierungspflicht entfernt."
     date: 2026-09-03
-  - message: "Stornierungsbedingungen für DB und GB ergänzt."
+  - message: "Stornierungsregeln für FIP 50 Tickets und Reservierungen ergänzt."
     date: 2026-08-17
   - message: "HBX hinzugefügt."
     date: 2026-08-17
@@ -61,7 +61,7 @@ updates:
     date: 2025-12-28
   - message: "Fahrplanänderungen aktualisiert."
     date: 2025-12-28
-  - message: "Deutschland hinzugefügt."
+  - message: "DB hinzugefügt."
     date: 2025-12-19
 ---
 

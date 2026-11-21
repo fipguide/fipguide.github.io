@@ -15,9 +15,7 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Nordmazedonien hinzugefügt."
-    date: 2026-10-08
-  - message: "Griechenland, Attica und Hellenic Train hinzugefügt."
+  - message: "Griechenland hinzugefügt."
     date: 2026-03-22
 ---
 

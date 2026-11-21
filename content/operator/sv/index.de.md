@@ -6,13 +6,11 @@ country:
 content_images:
   - image.webp
 updates:
-  - message: "Nordmazedonien hinzugefügt."
-    date: 2026-10-08
   - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
     date: 2026-09-19
-  - message: "Bosnien hinzugefügt."
+  - message: "Balkan-Flexipass-Informationen zu Bosnien und Herzegowina ergänzt."
     date: 2026-08-30
-  - message: "Serbien hinzugefügt."
+  - message: "SV hinzugefügt."
     date: 2026-06-29
 ---
 

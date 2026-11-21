@@ -13,7 +13,7 @@ updates:
     date: 2026-08-03
   - message: "Removed duplicate identify-operator on Ireland page."
     date: 2026-04-04
-  - message: "Added Ireland (CIE) and Northern Ireland (NIR)."
+  - message: "Ireland added."
     date: 2026-03-12
 ---
 

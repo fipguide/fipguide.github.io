@@ -40,34 +40,44 @@
       <p>{{ T "support.text" | .Page.RenderString }}</p>
     </section>
     <section class="o-startpage__news">
-      <div class="o-startpage__news-header">
-        <h2>{{ T "news.headline" }}</h2>
-        {{ partial "link"
-          (dict
-          "Destination" (site.GetPage "news").RelPermalink
-          "Text" (print (partial "icon" "arrow_forward") (T "news.all") | safeHTML)
-          )
-        }}
-      </div>
       <div class="o-startpage__news-wrapper">
-        {{ range first 3 (partial "helper/sortedNews" .) }}
-          {{ partial "teaser.html" (dict "listview" false "type" "news" "page" .) }}
+        <h2 class="o-startpage__news-title">{{ T "news.headline" }}</h2>
+        <div class="o-startpage__news-all">
+          {{ partial "button"
+            (dict
+            "Destination" (site.GetPage "news").RelPermalink
+            "Text" (print (T "news.all") (partial "icon" "arrow_forward") | safeHTML)
+            )
+          }}
+        </div>
+        {{ range $index, $page := first 2 (partial "helper/sortedNews" .) }}
+          <div
+            class="o-startpage__news-card {{ if eq $index 0 }}
+              o-startpage__news-card--first
+            {{ else }}
+              o-startpage__news-card--second
+            {{ end }}"
+          >
+            {{ partial "teaser.html" (dict "listview" false "type" "news" "page" $page) }}
+          </div>
         {{ end }}
+        <div class="o-startpage__updates">
+          <div class="o-startpage__updates-header">
+            <h3>{{ T "smallUpdates.headline" }}</h3>
+            {{ partial "button"
+              (dict
+              "Destination" (site.GetPage "general/small-changes").RelPermalink
+              "Text" (print (T "smallUpdates.all") (partial "icon" "arrow_forward") | safeHTML)
+              )
+            }}
+          </div>
+          <div class="o-startpage__updates-list">
+            {{ range first 4 (partial "helper/sortedUpdates" (dict "deduplicate" true)) }}
+              {{ partial "updateCard.html" (dict "entry" .) }}
+            {{ end }}
+          </div>
+        </div>
       </div>
-    </section>
-    <section class="o-startpage__updates">
-      <h2>{{ T "smallUpdates.headline" }}</h2>
-      <ul class="o-startpage__updates-list">
-        {{ range first 5 (partial "helper/sortedUpdates" .) }}
-          <li>
-            <time datetime="{{ .date.Format "2006-01-02" }}"
-              >{{ .date | time.Format ":date_long" }}</time
-            >
-            <p>{{ .message }}</p>
-            <a href="{{ .page.RelPermalink }}">{{ .page.Title }}</a>
-          </li>
-        {{ end }}
-      </ul>
     </section>
   </div>
 {{ end }}

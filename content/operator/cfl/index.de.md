@@ -21,8 +21,6 @@ updates:
     date: 2026-05-04
   - message: "Erste Klasse am CFL-Ticketschalter ergänzt."
     date: 2026-01-21
-  - message: "Litauen hinzugefügt."
-    date: 2025-12-28
   - message: "Luxemburg hinzugefügt."
     date: 2025-12-15
 ---

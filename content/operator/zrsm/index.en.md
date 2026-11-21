@@ -7,7 +7,7 @@ content_images:
 updates:
   - message: "Improved information for North Macedonia."
     date: 2026-10-09
-  - message: "Added north-macedonia."
+  - message: "ŽRSM added."
     date: 2026-10-08
 ---
 

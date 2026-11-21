@@ -11,8 +11,6 @@ aliases:
 updates:
   - message: "Added ICD off-peak supplement usage with debit or credit card."
     date: 2026-10-31
-  - message: "Added connections information to the English and French pages."
-    date: 2026-09-20
   - message: "Updated age limits and rules for children."
     date: 2026-09-19
   - message: "Removed temporary cross-border ICE reservations."
@@ -43,15 +41,9 @@ updates:
     date: 2025-10-10
   - message: "Adjust ns RE information to match the standard."
     date: 2025-10-10
-  - message: "Added trenitalia."
-    date: 2025-10-09
-  - message: "Added French language."
-    date: 2025-07-21
-  - message: "Added Austria."
-    date: 2025-07-10
-  - message: "Added operator NS."
+  - message: "Added FIP information for NS."
     date: 2025-05-28
-  - message: "Page content added."
+  - message: "NS added."
     date: 2025-03-23
 ---
 

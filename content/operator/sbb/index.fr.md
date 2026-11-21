@@ -10,7 +10,7 @@ aliases:
   - /booking/sbb-ticket-office
   - /booking/sbb-website
 updates:
-  - message: "Ajout du Léman Express dans les pages de SNCF et SBB."
+  - message: "Ajout de la catégorie de train Léman Express et des règles FIP."
     date: 2026-10-24
   - message: "Mise à jour des âges limites et des règles pour les enfants."
     date: 2026-09-19
@@ -26,20 +26,14 @@ updates:
     date: 2026-05-04
   - message: "Ajout d’informations sur le métro RET."
     date: 2026-04-09
-  - message: "Ajout de BLS."
-    date: 2026-02-08
   - message: "Précision des informations sur SOB."
     date: 2026-02-07
   - message: "Mise à jour de l’acceptation des Coupons FIP par SBB et BLS."
     date: 2025-12-15
-  - message: "Ajout de SP."
+  - message: "Correction de l’âge limite pour les trajets gratuits des enfants sur les CFF."
     date: 2025-12-15
-  - message: "Ajout de la France."
-    date: 2025-10-12
-  - message: "Ajout de Trenitalia."
+  - message: "Mise à jour des informations FIP sur les trains EC/ECE transfrontaliers vers l’Italie."
     date: 2025-10-09
-  - message: "Ajout de la version française."
-    date: 2025-07-21
   - message: "Ajout des CFF."
     date: 2025-07-13
 ---

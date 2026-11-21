@@ -14,8 +14,6 @@ updates:
     date: 2026-11-14
   - message: "Added information about free FS tickets on Trenitalia."
     date: 2026-10-22
-  - message: "Added connections information to the English and French pages."
-    date: 2026-09-20
   - message: "Updated age limits and rules for children."
     date: 2026-09-19
   - message: "Replaced DIRITTO AMMISSIONE with CAMBIO SERVIZIO."

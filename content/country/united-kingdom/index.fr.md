@@ -30,11 +30,11 @@ content_images:
 updates:
   - message: "Suppression de la traversée Fishguard d’Irish Ferries."
     date: 2026-08-03
-  - message: "Ajout de l’Irlande (CIE) et de l’Irlande du Nord (NIR)."
+  - message: "Ajout d’informations FIP sur l’Irlande et l’Irlande du Nord."
     date: 2026-03-12
-  - message: "Ajout de SLL."
+  - message: "Ajout d’informations FIP sur les ferries de Stena Line Limited."
     date: 2026-02-25
-  - message: "Ajout de la Grande-Bretagne."
+  - message: "Ajout du Royaume-Uni."
     date: 2025-10-21
 ---
 

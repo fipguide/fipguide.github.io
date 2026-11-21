@@ -18,19 +18,11 @@ updates:
     date: 2026-09-20
   - message: "FIP-Nutzung in Dänemark ab dem 1. September 2026 aktualisiert."
     date: 2026-09-03
-  - message: "Fehlende GoCollective-Übersetzung ergänzt."
-    date: 2026-07-29
   - message: "Direktverbindung Kopenhagen–Prag mit dem RJ ergänzt."
     date: 2026-07-07
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
-  - message: "Französische Sprachversion hinzugefügt."
-    date: 2025-07-21
-  - message: "Österreich als Land hinzugefügt."
-    date: 2025-07-10
   - message: "Grenzpunkte auf der Länderseite ergänzt."
     date: 2025-05-30
-  - message: "Informationen zu DSB ergänzt."
+  - message: "Dänemark hinzugefügt."
     date: 2025-05-07
 ---
 

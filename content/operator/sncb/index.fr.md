@@ -40,25 +40,17 @@ updates:
     date: 2026-02-25
   - message: "Ajout de la réservation téléphonique auprès de SNCB."
     date: 2025-12-12
-  - message: "Ajout de Trenitalia."
-    date: 2025-10-09
   - message: "Précision : le site de SNCB ne vend le FIP 50 que pour les voyages transfrontaliers."
     date: 2025-10-03
-  - message: "Ajout d’informations sur les trains EuroCity pour NS et SNCB."
+  - message: "Ajout d’informations sur les trains EuroCity et EuroCity Direct."
     date: 2025-09-29
   - message: "Correction du supplément à bord de SNCB pour les billets FIP."
     date: 2025-08-03
-  - message: "Ajout de la version française."
-    date: 2025-07-21
-  - message: "Ajout de l’Autriche."
-    date: 2025-07-10
-  - message: "Ajout de NS comme opérateur."
+  - message: "Ajout d’informations FIP sur les trains EuroCity Direct et EuroCity aux Pays-Bas."
     date: 2025-05-28
-  - message: "Ajout d’informations sur DSB."
+  - message: "Ajout d’informations de réservation pour les Billets FIP 50 transfrontaliers entre l’Allemagne et la Belgique."
     date: 2025-05-07
-  - message: "Ajout d’une traduction."
-    date: 2025-02-17
-  - message: "Contenu de la page ajouté."
+  - message: "Ajout de SNCB / NMBS."
     date: 2025-01-18
 ---
 

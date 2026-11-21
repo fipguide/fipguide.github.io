@@ -17,15 +17,13 @@ updates:
     date: 2026-10-04
   - message: "Ajout du supplément Brenner sur le site Web ÖBB."
     date: 2026-10-02
-  - message: "Ajout d’une section sur les correspondances dans les pages anglaise et française."
-    date: 2026-09-20
   - message: "Mise à jour des âges limites et des règles pour les enfants."
     date: 2026-09-19
   - message: "Renommage de Vienna Airport Lines en bus VAL."
     date: 2026-09-05
   - message: "Ajout de HOTNAT et d’AJC."
     date: 2026-07-13
-  - message: "Ajout de la Slovénie et de SŽ."
+  - message: "Ajout d’informations sur la réservation des trains transfrontaliers de SŽ."
     date: 2026-07-11
   - message: "Ajout de la hotline FIP de DB."
     date: 2026-06-13
@@ -43,14 +41,6 @@ updates:
     date: 2026-01-07
   - message: "Amélioration des informations sur les voyages internationaux en Italie."
     date: 2025-12-28
-  - message: "Ajout de la France."
-    date: 2025-10-12
-  - message: "Ajout des traductions anglaise et française."
-    date: 2025-10-09
-  - message: "Ajout de Trenitalia."
-    date: 2025-10-09
-  - message: "Ajout de ČD comme opérateur."
-    date: 2025-09-20
   - message: "Informations sur GySEV complétées."
     date: 2025-08-11
 ---

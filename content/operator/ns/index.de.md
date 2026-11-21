@@ -43,15 +43,9 @@ updates:
     date: 2025-10-10
   - message: "NS-RE-Informationen an den Standard angepasst."
     date: 2025-10-10
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
-  - message: "Französische Sprachversion hinzugefügt."
-    date: 2025-07-21
-  - message: "Österreich als Land hinzugefügt."
-    date: 2025-07-10
-  - message: "NS als Betreiber hinzugefügt."
+  - message: "FIP-Informationen zu NS hinzugefügt."
     date: 2025-05-28
-  - message: "Seiteninhalt hinzugefügt."
+  - message: "NS hinzugefügt."
     date: 2025-03-23
 ---
 

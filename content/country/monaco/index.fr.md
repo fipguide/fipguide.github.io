@@ -5,7 +5,7 @@ content_images:
 updates:
   - message: "Mise à jour des informations FIP et de réservation sur CP et Renfe."
     date: 2026-09-03
-  - message: "Ajout de la France."
+  - message: "Ajout de Monaco."
     date: 2025-10-12
 ---
 

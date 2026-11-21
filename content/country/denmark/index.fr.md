@@ -18,19 +18,11 @@ updates:
     date: 2026-09-20
   - message: "Mise à jour des conditions FIP au Danemark à partir du 1er septembre 2026."
     date: 2026-09-03
-  - message: "Ajout de la traduction manquante de GoCollective."
-    date: 2026-07-29
   - message: "Ajout de la liaison directe Copenhague–Prague en RJ."
     date: 2026-07-07
-  - message: "Ajout de Trenitalia."
-    date: 2025-10-09
-  - message: "Ajout de la version française."
-    date: 2025-07-21
-  - message: "Ajout de l’Autriche."
-    date: 2025-07-10
   - message: "Ajout de points frontières sur la page pays."
     date: 2025-05-30
-  - message: "Ajout d’informations sur DSB."
+  - message: "Ajout du Danemark."
     date: 2025-05-07
 ---
 

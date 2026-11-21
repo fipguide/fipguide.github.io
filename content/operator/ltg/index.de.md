@@ -19,7 +19,7 @@ updates:
     date: 2026-04-19
   - message: "Informationen zu Litauen, LTG Link und Lettland überprüft und angepasst."
     date: 2026-01-09
-  - message: "Litauen hinzugefügt."
+  - message: "LTG-Link hinzugefügt."
     date: 2025-12-28
 ---
 

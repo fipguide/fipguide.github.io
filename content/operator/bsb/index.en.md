@@ -16,7 +16,7 @@ updates:
     date: 2026-05-04
   - message: "Added FIP conditions from the Bodensee-Personentarif (BP)."
     date: 2026-04-25
-  - message: "Added Germany."
+  - message: "BSB added."
     date: 2025-12-19
 ---
 

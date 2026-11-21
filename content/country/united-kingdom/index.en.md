@@ -30,11 +30,11 @@ content_images:
 updates:
   - message: "Removed Fishguard sailing from Irish Ferries."
     date: 2026-08-03
-  - message: "Added Ireland (CIE) and Northern Ireland (NIR)."
+  - message: "Added FIP information for Ireland and Northern Ireland."
     date: 2026-03-12
-  - message: "Added SLL."
+  - message: "Added FIP ferry information for Stena Line Limited."
     date: 2026-02-25
-  - message: "Added gb."
+  - message: "United Kingdom added."
     date: 2025-10-21
 ---
 

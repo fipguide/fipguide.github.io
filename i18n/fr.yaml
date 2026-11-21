@@ -255,7 +255,8 @@ search:
   open-aria-label: Ouvrir la zone de recherche
 skipToContent: Aller au contenu
 smallUpdates:
-  headline: Petites mises à jour
+  all: Toutes les modifications
+  headline: Petites modifications
 support:
   text: >-
     Vous souhaitez partager vos connaissances sur les réglementations FIP ?

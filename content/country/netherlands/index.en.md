@@ -19,31 +19,23 @@ content_images:
 updates:
   - message: "Netherlands border wording."
     date: 2026-10-12
-  - message: "Added connections information to the English and French pages."
-    date: 2026-09-20
   - message: "Added information about the three-country train (DE/BE/NL)."
     date: 2026-08-08
-  - message: "Added Ireland (CIE) and Northern Ireland (NIR)."
+  - message: "Added the Hoek van Holland ferry border point."
     date: 2026-03-12
-  - message: "Added SLL."
+  - message: "Added the FIP ferry connection between Hoek van Holland and Harwich."
     date: 2026-02-25
   - message: "Added new operators that do not accept FIP."
     date: 2025-12-22
-  - message: "Operator Stena Line BV."
+  - message: "Added FIP ferry information for Hoek van Holland–Harwich."
     date: 2025-12-22
   - message: "Updated amsterdam IC."
     date: 2025-12-21
-  - message: "Added trenitalia."
-    date: 2025-10-09
-  - message: "Added French language."
-    date: 2025-07-21
-  - message: "Added Austria."
-    date: 2025-07-10
   - message: "Border Points on country page."
     date: 2025-05-30
-  - message: "Added operator NS."
+  - message: "Added FIP information for the Netherlands."
     date: 2025-05-28
-  - message: "Page content added."
+  - message: "Netherlands added."
     date: 2025-03-23
 ---
 

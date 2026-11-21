@@ -19,15 +19,11 @@ updates:
     date: 2026-05-04
   - message: "Updated gysev booking information."
     date: 2025-12-14
-  - message: "Added trenitalia."
-    date: 2025-10-09
   - message: "Added gysev source."
     date: 2025-08-11
   - message: "Extend gysev information."
     date: 2025-08-11
-  - message: "Added French language."
-    date: 2025-07-21
-  - message: "Added Austria."
+  - message: "Added FIP information for GySEV in Austria."
     date: 2025-07-10
 ---
 

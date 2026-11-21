@@ -25,21 +25,19 @@ updates:
     date: 2026-10-04
   - message: "Added WKD."
     date: 2026-05-09
-  - message: "Added KMŁ as an operator."
+  - message: "Added KMŁ to Poland’s FIP operator list."
     date: 2026-04-01
-  - message: "Added KW and ŁKA."
+  - message: "Added KW and ŁKA to the FIP operator list."
     date: 2026-02-25
   - message: "Reviewed Lithuania, LTG Link and Latvia and did some changes."
     date: 2026-01-09
   - message: "Improved PKP information."
     date: 2025-12-30
-  - message: "Added Lithuania."
+  - message: "Updated FIP connections between Poland and Lithuania."
     date: 2025-12-28
   - message: "Added new operators that do not accept FIP."
     date: 2025-12-22
-  - message: "Added France."
-    date: 2025-10-12
-  - message: "Added PKP."
+  - message: "Poland added."
     date: 2025-08-25
 ---
 

@@ -13,15 +13,13 @@ operator:
 content_images:
   - image.webp
 updates:
-  - message: "Added French language."
-    date: 2025-07-21
   - message: "Eurostar Price Update 2."
     date: 2025-06-17
   - message: "Added eurostar price increase."
     date: 2025-05-21
   - message: "LTG in english."
     date: 2025-01-23
-  - message: "Page content added."
+  - message: "Eurostar Price Increase added."
     date: 2025-01-18
 ---
 

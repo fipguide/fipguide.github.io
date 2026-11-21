@@ -15,9 +15,7 @@ updates:
     date: 2026-06-13
   - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
     date: 2026-05-04
-  - message: "KML hinzugefügt."
-    date: 2026-04-01
-  - message: "KW und LKA hinzugefügt."
+  - message: "KW hinzugefügt."
     date: 2026-02-25
 ---
 

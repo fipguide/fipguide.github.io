@@ -30,15 +30,9 @@ updates:
     date: 2026-05-04
   - message: "Fahrplanänderungen aktualisiert."
     date: 2025-12-28
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
   - message: "Informationen zu GySEV erweitert."
     date: 2025-08-11
-  - message: "Französische Sprachversion hinzugefügt."
-    date: 2025-07-21
-  - message: "Österreich als Land hinzugefügt."
-    date: 2025-07-10
-  - message: "Informationen zu DSB ergänzt."
+  - message: "FIP-Informationen zur DSB hinzugefügt."
     date: 2025-05-07
 ---
 

@@ -16,7 +16,7 @@ updates:
     date: 2026-05-04
   - message: "FIP-Bedingungen des Bodensee-Personentarifs ergänzt."
     date: 2026-04-25
-  - message: "Deutschland hinzugefügt."
+  - message: "BSB hinzugefügt."
     date: 2025-12-19
 ---
 

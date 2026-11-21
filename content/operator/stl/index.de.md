@@ -19,13 +19,13 @@ updates:
     date: 2026-04-09
   - message: "Hinweis zu Stena-Line-FIP-Freifahrtscheinen entfernt."
     date: 2026-03-21
-  - message: "SLL hinzugefügt."
+  - message: "Buchungsinformationen für Stena Line BV und Limited getrennt."
     date: 2026-02-25
   - message: "Ergänzung der Buchungsinformationen für Stena Line per E-Mail."
     date: 2026-01-26
   - message: "Anleitung zur Ermittlung des Stena-Line-Tarifs ergänzt."
     date: 2025-12-27
-  - message: "Stena Line BV als Betreiber hinzugefügt."
+  - message: "FIP-Informationen zu Stena Line BV hinzugefügt."
     date: 2025-12-22
 ---
 

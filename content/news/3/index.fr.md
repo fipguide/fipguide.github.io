@@ -11,9 +11,7 @@ updates:
     date: 2026-08-03
   - message: "Suppression de la mention d’informations VR supplémentaires."
     date: 2026-04-21
-  - message: "Ajout de la version française."
-    date: 2025-07-21
-  - message: "Contenu de la page ajouté."
+  - message: "Ajout de Retrait FIP des chemins de fer finlandais VR."
     date: 2025-01-18
 ---
 

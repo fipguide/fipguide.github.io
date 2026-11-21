@@ -5,7 +5,7 @@ description: Ab sofort können Informationen schnell und einfach direkt auf der 
 content_images:
   - image.webp
 updates:
-  - message: "Seiteninhalt hinzugefügt."
+  - message: "FIP Guide schnell und einfach selbst bearbeiten hinzugefügt."
     date: 2026-08-08
 ---
 

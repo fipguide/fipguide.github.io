@@ -23,27 +23,21 @@ updates:
     date: 2026-09-20
   - message: "Informationen zum Drei-Länder-Zug ergänzt."
     date: 2026-08-08
-  - message: "Irland (CIE) und Nordirland (NIR) hinzugefügt."
+  - message: "Fährgrenzpunkt Hoek van Holland ergänzt."
     date: 2026-03-12
-  - message: "SLL hinzugefügt."
+  - message: "FIP-Fährverbindung zwischen Hoek van Holland und Harwich ergänzt."
     date: 2026-02-25
   - message: "Neue Betreiber ohne FIP hinzugefügt."
     date: 2025-12-22
-  - message: "Stena Line BV als Betreiber hinzugefügt."
+  - message: "FIP-Fährverbindung zwischen Hoek van Holland und Harwich ergänzt."
     date: 2025-12-22
   - message: "Amsterdam-IC-Informationen aktualisiert."
     date: 2025-12-21
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
-  - message: "Französische Sprachversion hinzugefügt."
-    date: 2025-07-21
-  - message: "Österreich als Land hinzugefügt."
-    date: 2025-07-10
   - message: "Grenzpunkte auf der Länderseite ergänzt."
     date: 2025-05-30
-  - message: "NS als Betreiber hinzugefügt."
+  - message: "FIP-Informationen für die Niederlande ergänzt."
     date: 2025-05-28
-  - message: "Seiteninhalt hinzugefügt."
+  - message: "Niederlande hinzugefügt."
     date: 2025-03-23
 ---
 

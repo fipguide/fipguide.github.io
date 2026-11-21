@@ -16,11 +16,11 @@ updates:
     date: 2026-06-13
   - message: "Standardized bus handling and add unknown FIP acceptance status."
     date: 2026-05-04
-  - message: "Added KW and ŁKA."
+  - message: "Added KD ticket machine information and clarified the on-board surcharge."
     date: 2026-02-25
   - message: "Removed polregio booking from kd page."
     date: 2026-01-30
-  - message: "Added KD as new operator."
+  - message: "Added FIP information for KD."
     date: 2026-01-22
 ---
 

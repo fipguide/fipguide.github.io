@@ -23,12 +23,10 @@ updates:
     date: 2026-05-04
   - message: "FIP-Gültigkeit bei ČD aktualisiert."
     date: 2026-03-10
-  - message: "KW und LKA hinzugefügt."
+  - message: "Polregio-InterRegiozüge und Touristenticket ergänzt."
     date: 2026-02-25
   - message: "Informationen zu KS ergänzt."
     date: 2026-02-19
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
   - message: "PKP hinzugefügt."
     date: 2025-08-25
 ---

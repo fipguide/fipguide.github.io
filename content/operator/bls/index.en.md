@@ -18,7 +18,7 @@ updates:
     date: 2026-06-13
   - message: "Standardized bus handling and add unknown FIP acceptance status."
     date: 2026-05-04
-  - message: "Added BLS."
+  - message: "Added BLS FIP information."
     date: 2026-02-08
 ---
 

@@ -18,19 +18,11 @@ updates:
     date: 2026-09-20
   - message: "Updates on FIP usage in Denmark starting 1 september 2026."
     date: 2026-09-03
-  - message: "Missing GoCollective translation."
-    date: 2026-07-29
   - message: "Added a direct RJ service between Copenhagen and Prague."
     date: 2026-07-07
-  - message: "Added trenitalia."
-    date: 2025-10-09
-  - message: "Added French language."
-    date: 2025-07-21
-  - message: "Added Austria."
-    date: 2025-07-10
   - message: "Border Points on country page."
     date: 2025-05-30
-  - message: "Added DSB information."
+  - message: "Denmark added."
     date: 2025-05-07
 ---
 

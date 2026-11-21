@@ -52,10 +52,12 @@
         </li>
         <hr aria-hidden="true" />
         {{ $generalSection := site.GetPage "section" "general" }}
+        {{ $smallChangesPage := site.GetPage "general/small-changes" }}
+        {{ $generalPages := where $generalSection.Pages "RelPermalink" "ne" $smallChangesPage.RelPermalink }}
         {{ partial "nav-dropdown" (dict
           "id" "navbar-generalinformation-selection"
           "key" "menu.generalinformation-dropdown"
-          "items" $generalSection.Pages.ByTitle
+          "items" $generalPages.ByTitle
           "currentPage" $currentPage
           "vertical" true
           )

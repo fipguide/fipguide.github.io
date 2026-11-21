@@ -31,11 +31,11 @@ content_images:
 updates:
   - message: "Fishguard-Fährverbindung von Irish Ferries entfernt."
     date: 2026-08-03
-  - message: "Irland (CIE) und Nordirland (NIR) hinzugefügt."
+  - message: "FIP-Informationen zu Irland und Nordirland ergänzt."
     date: 2026-03-12
-  - message: "SLL hinzugefügt."
+  - message: "FIP-Fährverbindungen von Stena Line Limited ergänzt."
     date: 2026-02-25
-  - message: "Großbritannien hinzugefügt."
+  - message: "Vereinigtes Königreich hinzugefügt."
     date: 2025-10-21
 ---
 

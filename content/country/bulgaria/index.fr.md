@@ -13,13 +13,11 @@ content_images:
 updates:
   - message: "Ajout des pays manquants."
     date: 2026-05-12
-  - message: "Ajout de la Grèce, d’Attica et de Hellenic Train."
+  - message: "Mise à jour des informations sur les points frontières avec la Grèce."
     date: 2026-03-22
-  - message: "Ajout de la France."
-    date: 2025-10-12
   - message: "Correction des informations sur la Bulgarie."
     date: 2025-10-09
-  - message: "Ajout de la Bulgarie et de BDŽ."
+  - message: "Ajout de la Bulgarie."
     date: 2025-10-07
 ---
 

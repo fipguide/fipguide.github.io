@@ -23,23 +23,15 @@ updates:
     date: 2025-10-30
   - message: "Updated cross-border train information for France and Spain."
     date: 2025-10-18
-  - message: "Added France."
-    date: 2025-10-12
-  - message: "Added trenitalia."
-    date: 2025-10-09
-  - message: "Added operator euskotren."
+  - message: "Added FIP validity information for Euskotren services to Hendaye."
     date: 2025-09-02
   - message: "Extend gysev information."
     date: 2025-08-11
-  - message: "Added French language."
-    date: 2025-07-21
   - message: "Added information about international AVE."
     date: 2025-07-13
-  - message: "Added Austria."
-    date: 2025-07-10
   - message: "Border Points on country page."
     date: 2025-05-30
-  - message: "Added Spain and the Renfe operator."
+  - message: "Spain added."
     date: 2025-05-26
 ---
 

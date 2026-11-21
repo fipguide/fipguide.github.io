@@ -12,7 +12,7 @@ updates:
     date: 2026-09-19
   - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
     date: 2026-05-04
-  - message: "KW und LKA hinzugefügt."
+  - message: "ŁKA hinzugefügt."
     date: 2026-02-25
 ---
 

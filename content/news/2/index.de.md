@@ -14,13 +14,7 @@ content_images:
 updates:
   - message: "FIP-50-Ticketbuchung auf der SNCB-Website entfernt."
     date: 2025-11-08
-  - message: "Übersetzungen ergänzt."
-    date: 2025-10-09
-  - message: "Französische Sprachversion hinzugefügt."
-    date: 2025-07-21
-  - message: "Übersetzung hinzugefügt."
-    date: 2025-02-17
-  - message: "Seiteninhalt hinzugefügt."
+  - message: "Grenzüberschreitende FIP Tickets der SNCB hinzugefügt."
     date: 2025-01-18
 ---
 

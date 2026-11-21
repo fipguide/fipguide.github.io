@@ -11,13 +11,11 @@ aliases:
   - /booking/attica-email
   - /booking/attica-phone
 updates:
-  - message: "Added north-macedonia."
-    date: 2026-10-08
   - message: "Updated age limits and rules for children."
     date: 2026-09-19
-  - message: "Added Bosnia."
+  - message: "Added Balkan Flexipass information for Bosnia and Herzegovina."
     date: 2026-08-30
-  - message: "Added greece, attica & hellenic train."
+  - message: "Attica added."
     date: 2026-03-22
 ---
 

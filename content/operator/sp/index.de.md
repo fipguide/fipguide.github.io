@@ -30,9 +30,7 @@ updates:
     date: 2026-02-07
   - message: "Centovalli-Informationen verbessert."
     date: 2026-02-06
-  - message: "Deutschland hinzugefügt."
-    date: 2025-12-19
-  - message: "SP hinzugefügt."
+  - message: "SP-FIP-Informationen hinzugefügt."
     date: 2025-12-15
 ---
 

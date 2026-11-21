@@ -22,21 +22,11 @@ updates:
     date: 2026-03-12
   - message: "Grenze zwischen Frankreich und Belgien aktualisiert."
     date: 2025-12-29
-  - message: "Übersetzungen ergänzt."
-    date: 2025-10-09
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
-  - message: "Französische Sprachversion hinzugefügt."
-    date: 2025-07-21
-  - message: "Österreich als Land hinzugefügt."
-    date: 2025-07-10
   - message: "Grenzpunkte auf der Länderseite ergänzt."
     date: 2025-05-30
-  - message: "Ouigo EC und ZSR hervorgehoben."
+  - message: "OUIGO-Züge ohne FIP-Rabatt ergänzt."
     date: 2025-05-09
-  - message: "Übersetzung hinzugefügt."
-    date: 2025-02-17
-  - message: "Seiteninhalt hinzugefügt."
+  - message: "Belgien hinzugefügt."
     date: 2025-01-18
 ---
 

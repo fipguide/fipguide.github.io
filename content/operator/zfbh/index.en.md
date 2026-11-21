@@ -6,9 +6,7 @@ country:
 content_images:
   - image.webp
 updates:
-  - message: "Added north-macedonia."
-    date: 2026-10-08
-  - message: "Added Bosnia."
+  - message: "ŽFBH added."
     date: 2026-08-30
 ---
 

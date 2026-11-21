@@ -23,13 +23,11 @@ updates:
     date: 2026-10-09
   - message: "Updated FIP travel conditions for Scandlines and DB Regio Stuttgart."
     date: 2026-09-20
-  - message: "Added connections information to the English and French pages."
-    date: 2026-09-20
   - message: "Updated age limits and rules for children."
     date: 2026-09-19
   - message: "Removed temporary cross-border ICE reservations."
     date: 2026-09-03
-  - message: "Added cancellation policies for DB and Great Britain."
+  - message: "Added cancellation information for DB FIP 50 Tickets and reservations."
     date: 2026-08-17
   - message: "Added HBX."
     date: 2026-08-17
@@ -61,7 +59,7 @@ updates:
     date: 2025-12-28
   - message: "Content update timetable change."
     date: 2025-12-28
-  - message: "Added Germany."
+  - message: "DB added."
     date: 2025-12-19
 ---
 

@@ -18,7 +18,7 @@ aliases:
 updates:
   - message: "SNCF-Nomad-Fahrkartenautomaten hinzugefügt."
     date: 2026-11-21
-  - message: "Léman Express auf den Seiten von SNCF und SBB ergänzt."
+  - message: "Léman-Express-Zugkategorie und FIP-Regeln ergänzt."
     date: 2026-10-24
   - message: "Buchungsinformationen zu SNCF Connect ergänzt."
     date: 2026-10-22
@@ -64,7 +64,7 @@ updates:
     date: 2025-12-06
   - message: "FIP-50-Ticketbuchung auf der SNCB-Website entfernt."
     date: 2025-11-08
-  - message: "Frankreich hinzugefügt."
+  - message: "SNCF hinzugefügt."
     date: 2025-10-12
 ---
 

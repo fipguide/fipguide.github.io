@@ -6,9 +6,7 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Ajout de la Bosnie."
-    date: 2026-08-30
-  - message: "Ajout du Monténégro et de ŽPCG."
+  - message: "Ajout du Monténégro."
     date: 2026-05-02
 ---
 

@@ -10,8 +10,6 @@ operator:
 content_images:
   - image.webp
 updates:
-  - message: "Ajout de la France."
-    date: 2025-10-12
   - message: "Ajout d’une actualité sur les chemins de fer du Rigi."
     date: 2025-08-25
 ---

@@ -11,7 +11,7 @@ operator:
 content_images:
   - image.webp
 updates:
-  - message: "KML hinzugefügt."
+  - message: "FIP-Mitgliedschaft von KMŁ bekanntgegeben."
     date: 2026-04-01
 ---
 

@@ -14,11 +14,7 @@ content_images:
 updates:
   - message: "Mise à jour des liens entre les anciennes actualités."
     date: 2026-01-14
-  - message: "Ajout de la version française."
-    date: 2025-07-21
-  - message: "Ajout d’une traduction."
-    date: 2025-02-17
-  - message: "Contenu de la page ajouté."
+  - message: "Ajout de Nouveau membre FIP : LTG Link (Lituanie)."
     date: 2025-01-18
 ---
 

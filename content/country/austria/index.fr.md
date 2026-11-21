@@ -27,7 +27,7 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Ajout de la Slovénie et de SŽ."
+  - message: "Mise à jour des liaisons frontalières avec la Slovénie."
     date: 2026-07-11
   - message: "Suppression de Schneebergbahn."
     date: 2026-05-15
@@ -39,14 +39,12 @@ updates:
     date: 2025-12-28
   - message: "Mise à jour des changements d’horaires."
     date: 2025-12-28
-  - message: "Ajout de Trenitalia."
+  - message: "Mise à jour des informations FIP sur les trains EC/RJ entre l’Autriche et l’Italie."
     date: 2025-10-09
   - message: "Mise à jour des points frontières au Liechtenstein."
     date: 2025-09-29
   - message: "Informations sur GySEV complétées."
     date: 2025-08-11
-  - message: "Ajout de la version française."
-    date: 2025-07-21
   - message: "Ajout des CFF."
     date: 2025-07-13
   - message: "Ajout de l’Autriche."

@@ -22,21 +22,11 @@ updates:
     date: 2026-03-12
   - message: "France Belgium border."
     date: 2025-12-29
-  - message: "Translations."
-    date: 2025-10-09
-  - message: "Added trenitalia."
-    date: 2025-10-09
-  - message: "Added French language."
-    date: 2025-07-21
-  - message: "Added Austria."
-    date: 2025-07-10
   - message: "Border Points on country page."
     date: 2025-05-30
-  - message: "Added OUIGO EC and ŽSR Highlight."
+  - message: "Added that OUIGO trains are not eligible for FIP discounts."
     date: 2025-05-09
-  - message: "Added translation."
-    date: 2025-02-17
-  - message: "Page content added."
+  - message: "Belgium added."
     date: 2025-01-18
 ---
 

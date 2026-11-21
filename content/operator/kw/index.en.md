@@ -15,9 +15,7 @@ updates:
     date: 2026-06-13
   - message: "Standardized bus handling and add unknown FIP acceptance status."
     date: 2026-05-04
-  - message: "Added KMŁ as an operator."
-    date: 2026-04-01
-  - message: "Added KW and ŁKA."
+  - message: "KW added."
     date: 2026-02-25
 ---
 

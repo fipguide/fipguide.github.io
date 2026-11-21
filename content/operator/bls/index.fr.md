@@ -18,7 +18,7 @@ updates:
     date: 2026-06-13
   - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
     date: 2026-05-04
-  - message: "Ajout de BLS."
+  - message: "Ajout d’informations FIP sur BLS."
     date: 2026-02-08
 ---
 

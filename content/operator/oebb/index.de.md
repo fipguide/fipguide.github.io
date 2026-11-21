@@ -25,7 +25,7 @@ updates:
     date: 2026-09-05
   - message: "HOTNAT und AJC ergänzt."
     date: 2026-07-13
-  - message: "Slowenien und SŽ hinzugefügt."
+  - message: "Buchungsinformationen für grenzüberschreitende SŽ-Züge ergänzt."
     date: 2026-07-11
   - message: "DB-FIP-Hotline ergänzt."
     date: 2026-06-13
@@ -43,14 +43,6 @@ updates:
     date: 2026-01-07
   - message: "Internationale Bahnreisen in Italien verbessert beschrieben."
     date: 2025-12-28
-  - message: "Frankreich hinzugefügt."
-    date: 2025-10-12
-  - message: "Englische und französische Übersetzungen ergänzt."
-    date: 2025-10-09
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
-  - message: "ČD als Betreiber hinzugefügt."
-    date: 2025-09-20
   - message: "Informationen zu GySEV erweitert."
     date: 2025-08-11
 ---

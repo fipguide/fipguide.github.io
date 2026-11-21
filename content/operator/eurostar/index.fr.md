@@ -49,20 +49,10 @@ updates:
     date: 2026-01-09
   - message: "Ajout des tarifs Eurostar manquants."
     date: 2026-01-03
-  - message: "Ajout de la Grande-Bretagne."
+  - message: "Exclusion du Billet FIP 50 pour la réservation par e-mail auprès d’International Rail."
     date: 2025-10-21
-  - message: "Ajout de la France."
-    date: 2025-10-12
-  - message: "Ajout de Trenitalia."
-    date: 2025-10-09
   - message: "Mise à jour des informations de réservation Eurostar."
     date: 2025-09-30
-  - message: "Ajout de PKP."
-    date: 2025-08-25
-  - message: "Ajout de la version française."
-    date: 2025-07-21
-  - message: "Ajout de l’Autriche."
-    date: 2025-07-10
   - message: "Résolution d’un problème de réservation Eurostar."
     date: 2025-07-08
   - message: "Ajout d’informations sur les liaisons internationales au départ de Londres."
@@ -71,11 +61,7 @@ updates:
     date: 2025-06-17
   - message: "Augmentation des tarifs Eurostar."
     date: 2025-05-21
-  - message: "Correction : les billets Eurostar sont vendus par International Rail Ltd., et non par National Rail."
-    date: 2025-05-08
-  - message: "Ajout d’informations sur DSB."
-    date: 2025-05-07
-  - message: "Contenu de la page ajouté."
+  - message: "Ajout de Eurostar."
     date: 2025-01-18
 ---
 

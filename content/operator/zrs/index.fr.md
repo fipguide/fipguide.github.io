@@ -6,9 +6,7 @@ country:
 content_images:
   - image.webp
 updates:
-  - message: "Ajout de la Macédoine du Nord."
-    date: 2026-10-08
-  - message: "Ajout de la Bosnie."
+  - message: "Ajout de ŽRS."
     date: 2026-08-30
 ---
 

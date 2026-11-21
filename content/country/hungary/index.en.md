@@ -17,7 +17,7 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Added Hungary and MÁV."
+  - message: "Hungary added."
     date: 2026-07-29
 ---
 

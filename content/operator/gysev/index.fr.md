@@ -19,15 +19,11 @@ updates:
     date: 2026-05-04
   - message: "Mise à jour des informations de réservation GySEV."
     date: 2025-12-14
-  - message: "Ajout de Trenitalia."
-    date: 2025-10-09
   - message: "Ajout d’une source pour GySEV."
     date: 2025-08-11
   - message: "Informations sur GySEV complétées."
     date: 2025-08-11
-  - message: "Ajout de la version française."
-    date: 2025-07-21
-  - message: "Ajout de l’Autriche."
+  - message: "Ajout d’informations FIP sur la GySEV en Autriche."
     date: 2025-07-10
 ---
 

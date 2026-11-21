@@ -49,20 +49,10 @@ updates:
     date: 2026-01-09
   - message: "Fehlende Eurostar-Preise ergänzt."
     date: 2026-01-03
-  - message: "Großbritannien hinzugefügt."
+  - message: "FIP 50 bei der E-Mail-Buchung über International Rail ausgeschlossen."
     date: 2025-10-21
-  - message: "Frankreich hinzugefügt."
-    date: 2025-10-12
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
   - message: "Eurostar-Buchungsinformationen aktualisiert."
     date: 2025-09-30
-  - message: "PKP hinzugefügt."
-    date: 2025-08-25
-  - message: "Französische Sprachversion hinzugefügt."
-    date: 2025-07-21
-  - message: "Österreich als Land hinzugefügt."
-    date: 2025-07-10
   - message: "Eurostar-Buchungsproblem behoben."
     date: 2025-07-08
   - message: "Informationen zu internationalen Verbindungen ab London ergänzt."
@@ -71,11 +61,7 @@ updates:
     date: 2025-06-17
   - message: "Eurostar-Preise erhöht."
     date: 2025-05-21
-  - message: "Klasse, wer Tickets über International Rail Ltd. und nicht über National Rail bucht."
-    date: 2025-05-08
-  - message: "Informationen zu DSB ergänzt."
-    date: 2025-05-07
-  - message: "Seiteninhalt hinzugefügt."
+  - message: "Eurostar hinzugefügt."
     date: 2025-01-18
 ---
 

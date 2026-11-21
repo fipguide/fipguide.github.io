@@ -17,7 +17,7 @@ updates:
     date: 2026-05-04
   - message: "Added FIP 75 information in several places."
     date: 2026-04-01
-  - message: "Added Ireland (CIE) and Northern Ireland (NIR)."
+  - message: "NIR added."
     date: 2026-03-12
 ---
 

@@ -23,23 +23,15 @@ updates:
     date: 2025-10-30
   - message: "Grenzüberschreitende Zugverbindungen zwischen Frankreich und Spanien aktualisiert."
     date: 2025-10-18
-  - message: "Frankreich hinzugefügt."
-    date: 2025-10-12
-  - message: "Trenitalia hinzugefügt."
-    date: 2025-10-09
-  - message: "Euskotren als Betreiber hinzugefügt."
+  - message: "FIP-Gültigkeit von Euskotren bis Hendaye ergänzt."
     date: 2025-09-02
   - message: "Informationen zu GySEV erweitert."
     date: 2025-08-11
-  - message: "Französische Sprachversion hinzugefügt."
-    date: 2025-07-21
   - message: "Informationen zu internationalen AVE ergänzt."
     date: 2025-07-13
-  - message: "Österreich als Land hinzugefügt."
-    date: 2025-07-10
   - message: "Grenzpunkte auf der Länderseite ergänzt."
     date: 2025-05-30
-  - message: "Spanien und den Betreiber Renfe hinzugefügt."
+  - message: "Spanien hinzugefügt."
     date: 2025-05-26
 ---
 
