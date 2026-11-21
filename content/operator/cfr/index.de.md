@@ -34,8 +34,7 @@ Die Zugkategorien werden teilweise auch von anderen Betreibern in Rumänien genu
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Nationale Fernverkehrszüge mit wenige Zwischenhalten und einem vergleichsweise höherem Komfort. Sie fahren hauptsächlich von Bukarest aus in die verschiedenen Richtungen des Landes.
@@ -57,8 +56,7 @@ Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die R
     title="InterRegio (IR)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Vergleichsweise schnelle Züge, die größere Städte des Landes mit wenig Zwischenhalten verbinden. Teilweise verkehren sie auch grenzüberschreitend, insbesondere nach Ungarn.
@@ -80,8 +78,7 @@ Eine Sitzplatzreservierung ist verpflichtend. Ist der Zug ausgebucht, kann die R
     title="InterRegio Noapte (IRN)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Meist internationale Züge, die über Nacht verkehren. Sie werden in der Verbindungsauskunft bei anderen Anbietern auch teilweise als `D` gekennzeichnet.
@@ -107,8 +104,7 @@ Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [P
     title="Andere internationale Züge"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 Internationale Züge nach Bulgarien, Moldau und der Ukraine verkehren ohne eigene Zugkategorie und haben lediglich eine Zugnummer.
@@ -134,8 +130,7 @@ Für Liege- und Schlafwagen gelten folgende Preise auf nationalen Relationen: [P
     title="Regio (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=false
+    reservation="partially-required"
 %}}
 
 Regionalzüge, die auch kleinere Orte mit anbinden. Dabei haben die verschiedenen Züge auf einer Strecke oft kein festes Halteschema, d. h. die kleineren Halte werden nur von manchen `R` Zügen angefahren.

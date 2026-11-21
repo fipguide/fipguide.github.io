@@ -37,8 +37,7 @@ Cross-border connections are sometimes only shown up to the border in the SŽ on
     title="InterCity Slovenia (ICS)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 National long-distance trains are operated with the [SŽ 310 “Pendolino”](https://potniski.sz.si/en/train/emg-310-316-pendolino/) train type. These trains feature tilting technology, shorter travel times and few intermediate stops. On weekdays, a small bistro also serves snacks and drinks. The route is mainly operated between the country’s two largest cities, Ljubljana and Maribor.
@@ -54,8 +53,7 @@ A reservation and a category supplement are mandatory on `ICS` trains. The suppl
     title="InterCity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Long-distance trains with few intermediate stops connect larger cities. They usually run only within Slovenia; the international trains to Budapest via Austria are also labelled `IC` on some sections.
@@ -71,8 +69,7 @@ No reservation is mandatory, but a surcharge of €1.50 applies to FIP reduced t
     title="EuroCity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Relatively fast international trains that connect Slovenia with Austria or Croatia.
@@ -88,8 +85,7 @@ No reservation is mandatory, but a surcharge of €1.50 applies to FIP reduced t
     title="Mednarodni vlaki (MV)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 International trains that operate between Slovenia and Austria, Hungary or Croatia. They run with few intermediate stops.
@@ -105,8 +101,7 @@ No reservation is mandatory, but a surcharge of €1.50 applies to FIP reduced t
     title="EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 International night trains to Croatia, Austria and Germany. The trains offer sleeper and couchette cars as well as seating cars, and are operated abroad in cooperation with other railways.
@@ -126,8 +121,7 @@ For journeys entirely within Slovenia, a surcharge of €1.50 applies to FIP red
     title="Lokalni potniški vlaki (LP or LPV)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 National regional trains that usually also call at smaller stations.
@@ -139,8 +133,7 @@ National regional trains that usually also call at smaller stations.
     title="Regionalni (RG)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 National regional trains, similar to [LP/LPV](#lpv).
@@ -152,8 +145,7 @@ National regional trains, similar to [LP/LPV](#lpv).
     title="Maloobmejnia (MO)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regional trains that operate cross-border.
@@ -165,8 +157,7 @@ Regional trains that operate cross-border.
     title="Avtovlak (AVT)"
     type="highspeed"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Auto trains that run through Slovenia’s longest rail tunnel (Bohinj Tunnel). FIP is not valid here.
@@ -178,8 +169,7 @@ Auto trains that run through Slovenia’s longest rail tunnel (Bohinj Tunnel). F
     title="Buses"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 SŽ buses. FIP is not valid, except when they are used as rail replacement services.

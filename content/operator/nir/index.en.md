@@ -29,8 +29,7 @@ Northern Ireland Railways (NIR) is the state railway company in Northern Ireland
     title="Intercity (Enterprise)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 NIR operates the Enterprise Service between Dublin and Belfast together with [CIE](/operator/cie).
@@ -44,8 +43,7 @@ _Enterprise Plus_ passengers are escorted to an available seat on board the trai
     title="Regional Trains"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     route_overview_url="https://en.wikipedia.org/wiki/NI_Railways#/media/File:NIRailways_Map.png"
 %}}
 

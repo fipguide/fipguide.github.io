@@ -39,8 +39,7 @@ Réservation obligatoire dans les trains `SC` et `IC`. Les autres trains ZSSK ne
     title="SuperCity (SC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Trains rapides pendulaires (Pendolino) circulant entre Prague (République tchèque) et Košice, avec peu d’arrêts.
@@ -56,8 +55,7 @@ Trains rapides pendulaires (Pendolino) circulant entre Prague (République tchè
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 _Actuellement, l’exploitation des trains Intercity est suspendue pour des raisons économiques. Les trains sont remplacés par des trains `Ex`._
@@ -75,8 +73,7 @@ Trains longue distance transfrontaliers exploités commercialement par ZSSK et C
     title="Eurocity (EC) / Railjet (RJ)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Trains transfrontaliers entre la Slovaquie et la République tchèque, l’Autriche ou la Hongrie. Ils circulent souvent avec peu d’arrêts et une vitesse moyenne relativement élevée. Les trains `RJ` sont des Railjet des chemins de fer autrichiens, utilisables avec les coupons ZSSK sur la section slovaque.
@@ -96,8 +93,7 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
     title="EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Les `EN` sont des trains de nuit internationaux nécessitant une réservation et offrant la possibilité de payer un supplément pour une couchette ou une place en voiture-lit. Sinon, ils sont similaires aux trains `EC`.
@@ -113,8 +109,7 @@ Les `EN` sont des trains de nuit internationaux nécessitant une réservation et
     title="Express (Ex)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Type de train InterRégional avec moins d’arrêts qu’un train régional, mais plus que, par exemple, les trains `IC`. Ils disposent souvent d’une voiture-restaurant et circulent avec des trains tractés confortables.
@@ -130,8 +125,7 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
     title="Rychlik (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Trains régionaux rapides desservant les principales gares de la région, un type d’express régional avec du matériel roulant très varié.
@@ -147,8 +141,7 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
     title="Osobní vlak (Os)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Trains régionaux standards qui s’arrêtent généralement partout (il existe des exceptions). Surtout sur les lignes secondaires, ils circulent souvent avec du matériel roulant ancien. Ils sont parfois présentés comme des trains S-Bahn, mais sans vraiment respecter une grille S-Bahn.
@@ -164,8 +157,7 @@ Les réservations sont obligatoires uniquement en 1ʳᵉ classe.
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Les bus sont exclus des réductions FIP. Dans les bus de remplacement ferroviaire, les réductions FIP s'appliquent lorsqu’ils remplacent un train sur lequel le FIP aurait été valable.[^1]

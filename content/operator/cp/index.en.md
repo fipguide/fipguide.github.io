@@ -37,8 +37,7 @@ Reservations are only mandatory on long-distance services (`AP` and `IC`).
     title="Alfa Pendular (AP)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 High-speed tilting trains (Pendolino) operating on the main axis between Braga, Porto, Lisbon and Faro with few stops. Trains offer a high level of comfort, Wi‑Fi, power sockets at every seat and a cafeteria/bar service.
@@ -54,8 +53,7 @@ FIP Coupons (regardless of pass class) are only valid in second class. [^1]
     title="Intercidades (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Fast national services formed by locomotive-hauled coaches serving main routes. They offer Wi‑Fi, power sockets in some first-class seats and a bistro service.
@@ -69,8 +67,7 @@ Fast national services formed by locomotive-hauled coaches serving main routes. 
     title="Serviço InterRegional (IR)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regional services that cover longer distances with few stops.
@@ -82,8 +79,7 @@ Regional services that cover longer distances with few stops.
     title="Serviço Regional (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regional trains with many stops.
@@ -95,8 +91,7 @@ Regional trains with many stops.
     title="Comboios Urbanos (U)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Commuter trains serving the urban networks of Lisbon, Porto and Coimbra (similar to S‑trains). FIP Coupons are valid without restrictions.
@@ -135,8 +130,7 @@ Single line between Coimbra and Figueira da Foz.
     title="Celta: Porto – Vigo"
     type="regional"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 The Celta is an international cooperation service between CP and Renfe from Porto to Vigo. FIP Coupons are not accepted.

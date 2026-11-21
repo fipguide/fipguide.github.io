@@ -49,8 +49,7 @@ Kosten: \
     title="Railjet (RJ) / Railjet Xpress (RJX)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Nationale und internationale Schnellzüge der höchsten Kategorie der ÖBB. Die Züge verkehren regelmäßig zwischen den wichtigsten Städten Österreichs, aber auch nach Deutschland, Italien, Tschechien, Ungarn, in die Slowakei und Schweiz. Die Züge besitzen 3 Wagenklassen und ein Bistro. Railjets mit weniger Halten werden als Railjet Xpress vermarktet.
@@ -76,8 +75,7 @@ Für Railjets nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahle
     title="Intercity (IC) / Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Die meisten `IC` Züge auf den Hauptstrecken wurden nach und nach durch Railjets ersetzt. `IC` Züge verkehren weiterhin auf Nebenstrecken wie Graz – Linz, Graz – Salzburg, Graz – Innsbruck, Klagenfurt – Salzburg, Wien – Gmunden – Stainach-Irdning sowie ergänzend zu Railjets auf der Verbindung Wien–Lienz (Osttirol). Zudem gibt es `IC` Züge und `ICE` Züge auf einigen internationalen Strecken nach Deutschland in Zusammenarbeit mit der Deutschen Bahn, wobei der österreichische Abschnitt von der ÖBB betrieben wird.
@@ -97,8 +95,7 @@ Es besteht Reservierungspflicht teilweise in der Hauptsaison (Sommer) auf intern
     title="InterRegio (IR)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Ab August 2025 wird der InterRegio `IR` als neue Fernverkehrszuggattung auf Nebenstrecken eingeführt und ersetzt größtenteils die bisherigen `IC`-Verbindungen. Beispiele hierfür sind Verbindungen wie Graz – Unzmarkt oder Graz – Linz. Ziel ist es, Orte mit dem Fernverkehr zu erschließen, die bislang nur wenige oder keine Direktverbindungen hatten. Die Züge verkehren im Zwei- oder Vierstundentakt.
@@ -110,8 +107,7 @@ Ab August 2025 wird der InterRegio `IR` als neue Fernverkehrszuggattung auf Nebe
     title="Eurocity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 Internationale Züge in Nachbarländern von der ÖBB, die in Kooperation mit anderen Bahngesellschaften betrieben werden. Teilweise werden diese Verbindungen auch als `IC` gekennzeichnet.
@@ -125,8 +121,7 @@ Für Eurocitys nach Italien ist ab der italienischen Grenze ein Zuschlag zu zahl
     title="Nightjet (NJ) / EuroNight (EN)"
     type="sleeper"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 Nachtzüge der ÖBB in verschiedene europäische Länder. Die Züge bieten Schlaf- und Liegewagen sowie Sitzwagen an und werden im Ausland in Kooperation mit anderen Bahngesellschaften betrieben.
@@ -151,8 +146,7 @@ Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen
     title="D-Zug (D)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=true
+    reservation="possible"
 %}}
 
 `D` Züge werden hauptsächlich als Entlastungszüge zu verkehrsstarken Zeiten (z. B. freitags und sonntags) eingesetzt, verfügen in der Regel nur über die 2. Klasse und bieten keinen besonderen Komfort, da sie mit älterem Wagenmaterial verkehren.
@@ -166,8 +160,7 @@ Für Nightjet Züge können Reservierungen/Aufpreise für Schlaf- und Liegewagen
     title="Regionalexpress (REX) / Cityjet Xpress (CJX)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Schneller Nahverkehrszug mit weniger Halten und modernem Wagenmaterial.
@@ -183,8 +176,7 @@ Regionalexpress-Züge werden teilweise auch von anderen privaten Bahngesellschaf
     title="Regionalzug (R)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Nahverkehrszug mit Halten an den meisten Stationen.
@@ -202,8 +194,7 @@ Die Bezeichnung `R` Regionalzug wird in der Fahrplanauskunft der ÖBB auch für 
     title="Schnellbahn (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Nahverkehrszug mindestens im Stundentakt mit Halt an allen Stationen. Vergleichbar mit einer S-Bahn.
@@ -226,8 +217,7 @@ Dazu gehören unter anderem:
     title="ÖBB Postbus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 FIP Fahrkarten sind im ÖBB Postbus nicht gültig. In Bussen des Schienenersatzverkehrs gelten FIP Vergünstigungen, wenn sie einen Zug ersetzen, in dem FIP gültig gewesen wäre.

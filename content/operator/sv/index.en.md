@@ -29,8 +29,7 @@ FIP Coupons and FIP 50 Tickets are valid on SV services. For cross-border travel
     title="Inter City (COKO)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
     additional_information_url="https://srbijavoz.rs/brzi-vozovi/"
 %}}
 
@@ -48,8 +47,7 @@ Reservations are mandatory on this route.
     title="Brzi Voz"
     type="highspeed"
     fip_accepted=true
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 The train category “Brzi Voz” corresponds to classic express trains; at SV they operate exclusively towards Montenegro.
@@ -75,8 +73,7 @@ Reservations can be made [by telephone](#telephone).
     title="Inter Regio Voz (IR)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Express trains stopping at the most important stations. Some trains are operated with second-class coaches only.
@@ -92,8 +89,7 @@ On some services, reservations are mandatory; on others, they can be purchased o
     title="Regio Expres (REx)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Trains of the Regio Expres (REx) category, like those of the `IR` category, only serve the most important towns.
@@ -109,8 +105,7 @@ On some services, reservations are mandatory; on others, they can be purchased o
     title="Regio Voz (Re)"
     type="regional"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Trains of the Regio Voz (Re) category connect smaller places with the metropolitan areas. These trains stop at many stations and generally use older rolling stock. Some trains are operated with second-class coaches only.
@@ -126,8 +121,7 @@ On some services, reservations are mandatory; on others, they can be purchased o
     title="BG:VOZ"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 As BG:VOZ, SV operates two lines in the Belgrade metropolitan area similar to an S-Bahn.
@@ -139,8 +133,6 @@ As BG:VOZ, SV operates two lines in the Belgrade metropolitan area similar to an
     title="Bus"
     type="bus"
     fip_accepted=false
-    reservation_required=false
-    reservation_possible=nil
 %}}
 
 FIP Tickets are not valid on bus lines operated by SV, unless they are rail replacement services.[^4]

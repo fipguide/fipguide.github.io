@@ -39,8 +39,7 @@ Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in viele
     title="Intercity-Express (ICE)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=partially
-    reservation_possible=true
+    reservation="partially-required"
 %}}
 
 Hochgeschwindigkeitszüge der Deutschen Bahn, die in Belgien von der SNCB übernommen werden. Sie verkehren zwischen Brüssel (Midi) und Deutschland (Köln / Frankfurt am Main). Einzelne Züge verkehren auch zwischen Deutschland und Antwerpen über den Flughafen Brüssel Zaventem und im Sommer zwischen Deutschland und der belgischen Küste. Alle ICE-Züge können auch innerhalb Belgiens mit FIP Fahrscheinen ohne Aufschlag genutzt werden.
@@ -56,8 +55,7 @@ Bei grenzüberschreitenden Reisen zur Hochsaison ist eine Reservierung erforderl
     title="Intercity (IC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle Regionalzüge mit wenigen Halten.
@@ -69,8 +67,7 @@ Anders als in anderen Ländern keine wirklichen Fernzüge, sondern eher schnelle
     title="Eurocity Direct (ECD)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
 
@@ -89,8 +86,7 @@ Für Fahrten innerhalb der Niederlande gelten besondere Regelungen, siehe [NS EC
     title="Eurocity (EC)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
     additional_information_url="https://www.nsinternational.com/en/trains/eurocity"
 %}}
 
@@ -103,8 +99,7 @@ Internationaler Zug zwischen Rotterdam und Brüssel mit mehreren Unterwegshalten
     title="Train local oder Lokale trein (L)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Regionalbahnen mit Halt an meist allen Stationen, in den Verbindungsauskünften oft auch einfach als `R` für Regionalzug zu finden.
@@ -116,8 +111,7 @@ Regionalbahnen mit Halt an meist allen Stationen, in den Verbindungsauskünften 
     title="Train S oder S-Trein (S)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Eine S-Bahn in den Großräumen Antwerpen, Brüssel, Charleroi, Gent oder Lüttich. Sie verbinden die großen Städte mit den Vororten und halten meist überall. Anders als in anderen Ländern zeichnen sich die S-Bahnen hier nicht durch dichtere Takte als bei anderen Zugkategorien aus. In der Verbindungsauskunft werden auch diese manchmal als `R` für Regionalzug zusammengefasst.
@@ -129,8 +123,7 @@ Eine S-Bahn in den Großräumen Antwerpen, Brüssel, Charleroi, Gent oder Lütti
     title="Train d’heure de pointe oder Piekuurtrein (P)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Zusätzliche Züge zu den Hauptverkehrszeiten montags bis freitags morgens sowie am späten Nachmittag, in den Verbindungsauskünften oft auch einfach als `R` für Regionalzug zu finden.
@@ -142,8 +135,7 @@ Zusätzliche Züge zu den Hauptverkehrszeiten montags bis freitags morgens sowie
     title="Express (E/EXP/EXTRA)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Zusätzliche Züge bei hohem Verkehrsaufkommen, vor allem in den Sommermonaten zur belgischen Küste.
@@ -155,8 +147,7 @@ Zusätzliche Züge bei hohem Verkehrsaufkommen, vor allem in den Sommermonaten z
     title="Tourist (T)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=false
+    reservation="not-possible"
 %}}
 
 Zusätzliche Züge zu bestimmten touristischen Zielen, oft auch einfach als `R` für Regionalzug zu finden.

@@ -32,8 +32,6 @@ Die aktuell verkehrenden Züge und deren Einschränkungen auf bestimmte Verkehrs
     title="Brzi (B)"
     type="highspeed"
     fip_accepted=true
-    reservation_required=false
-    reservation_possible=unknown
 %}}
 
 Nationale und nach Kroatien verkehrende internationale Schnellzüge, die mit wenig Zwischenhalten vergleichsweise schnell innerhalb der Entität Bosnien und Herzegowina und ins kroatische Ploče verkehren. Auf der Verbindung zwischen Sarajevo – Mostar – Čapljina (– Ploče) kommen moderne Talgo-Wagen zum Einsatz, auf der anderen Strecke Sarajevo – Maglaj sind deutlich ältere Personenwagen möglich.
@@ -48,7 +46,6 @@ Uns ist aktuell nicht bekannt, ob Reservierungen angeboten werden und ob diese v
     title="Putnički (P)"
     type="regional"
     fip_accepted=true
-    reservation_required=false
 %}}
 Regionalzüge, die kurze Strecken rund um die Hauptstadt Sarajevo mit allen Zwischenhalten bedienen.
 {{% /train-category %}}

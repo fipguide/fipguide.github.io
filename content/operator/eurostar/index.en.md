@@ -46,8 +46,7 @@ All trains require reservations, and a train-specific ticket must be purchased a
     title="Eurostar (Blue): London – Paris / Brussels / Amsterdam"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 High-speed train between Great Britain and Europe.
@@ -66,8 +65,7 @@ High-speed train between Great Britain and Europe.
     title="Eurostar (Red): Paris – Amsterdam / Brussels / Cologne / Dortmund"
     type="highspeed"
     fip_accepted=partially
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 High-speed train between Belgium, Germany, France, and the Netherlands.
@@ -87,8 +85,7 @@ High-speed train between Belgium, Germany, France, and the Netherlands.
     title="Eurostar Snow: Amsterdam / Brussels – French Alps"
     type="highspeed"
     fip_accepted=false
-    reservation_required=true
-    reservation_possible=true
+    reservation="required"
 %}}
 
 High-speed train from Amsterdam and Brussels to the French Alps.
