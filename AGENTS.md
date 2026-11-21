@@ -58,6 +58,11 @@ Use these exact translations for headlines on the pages:
 | Empfehlungen                     | Recommendations                   | Recommandations                      |
 | Quellen                          | Sources                           | Sources                              |
 
+## CMS
+
+- The CMS is [Sveltia CMS](https://github.com/sveltia/sveltia-cms), configured in `assets/admin/static/config.yml`.
+- `public/admin/` (including `public/admin/config.yml`) is a gitignored build output generated from `assets/admin/` via `npm run build:admin`. ALWAYS edit the source files under `assets/admin/`, never the generated `public/admin/` files.
+
 ## Development Guidelines
 
 ### Build/Test Commands
