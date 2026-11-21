@@ -15,3 +15,5 @@ Wenn das Anschlussticket zuggebunden ist und du kein durchgängiges Ticket besit
 HOTNAT noch AJC sind Regelungen zur Weiterreise mit einem Zug und sehen keine Übernahme von Kosten für Hotel- oder Taxikosten vor.
 
 Neben den genannten Möglichkeiten stehen dir zudem die [gesetzlichen Fahrgastrechte](https://europa.eu/youreurope/citizens/travel/passenger-rights/rail/index_en.htm) zu, sofern es sich um ein gemeinsamen Beförderungsvertrag handelt (z. B. ein durchgängiges FIP reduziertes Ticket oder ein Umstieg innerhalb des Geltungsbereich eines FIP Freifahrtscheins).
+
+Im Rahmen der Fahrgastrechte kann ebenfalls die Gültigkeitsdauer von Feldern und Freifahrtscheinen um jeweils einen Tag verlängert werden, wenn die ursprüngliche Reise durch Anschlussverlust oder Zugausfall nicht mehr innerhalb des eigentlichen Geltungszeitraum möglich ist. Hierzu muss das Bahnhofspersonal am Bahnhof des Anschlussverlustes einen entsprechenden Vermerk auf dem Freifahrtschein hinterlegen.

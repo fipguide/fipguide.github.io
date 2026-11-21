@@ -15,3 +15,5 @@ Si le billet de correspondance est lié au train et que vous ne disposez pas d'u
 HOTNAT et AJC sont des règles pour continuer le voyage par train et ne prévoient pas de couverture des frais d'hôtel ou de taxi.
 
 En plus des options mentionnées, vous avez également droit aux [droits des passagers ferroviaires établis par la loi](https://europa.eu/youreurope/citizens/travel/passenger-rights/rail/index_en.htm), à condition qu'il s'agisse d'un contrat de transport commun (par exemple, un billet FIP réduit continu ou un changement dans le champ d'application d'un Coupon FIP).
+
+Dans le cadre des droits des passagers, la durée de validité de chaque case et de chaque Coupon FIP peut également être prolongée d’un jour si le voyage initial ne peut plus être effectué pendant sa période de validité initiale en raison d’une correspondance manquée ou d’une suppression de train. Pour cela, le personnel de la gare où la correspondance a été manquée doit inscrire une mention correspondante sur le Coupon FIP.
