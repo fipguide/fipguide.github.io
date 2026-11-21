@@ -6,8 +6,7 @@ params:
   border_points:
     - pt-es
   border_points_footnotes:
-    - "[>] = Direction (for example: V. Real de Sto António Guardiana [> Ayamonte] =
-      the border point at V. Real de Sto António Guardiana is oriented towards Ayamonte)"
+    - "[>] = Direction (for example: V. Real de Sto António Guardiana [> Ayamonte] = the border point at V. Real de Sto António Guardiana is oriented towards Ayamonte)"
 content_images:
   - image.webp
 ---
@@ -41,7 +40,7 @@ Particularly recommended stations to visit:
 
 ### Spain
 
-There are currently only very few connections between Spain and Portugal. For example, travelling from Madrid to Lisbon requires multiple changes, including at the Spanish border in Badajoz, and long journey times on regional trains. FIP Tickets / FIP Coupons from the CP and a Renfe ticket for the Spanish section are required for the journey.
+There are currently only very few connections between Spain and Portugal. For example, travelling from Madrid to Lisbon requires multiple changes, including at the Spanish border in Badajoz, and long journey times on regional trains. FIP Tickets / FIP Coupons from the CP and a Renfe ticket for the Spanish section are required for the journey. The FIP tickets (50%) as well as other tickets are available to buy onboard (at least on the Badajoz to Portugal connection).
 
 A second option is the Celta connection from Vigo to Porto. Here a FIP flat fare applies for the entire route ([see CP – Celta](/operator/cp#train-categories-and-reservations "CP")). Currently (and only until 07.04.2027) a replacement bus must be used to cross the border, as the Celta train only runs between Valença do Minho and Porto. This is due to construction works by the Spanish infrastructure company ADIF. [^1]
 
