@@ -1,4 +1,4 @@
-{{- $contentImageData := partial "helper/contentImage" . -}}
+{{- $contentImageData := partial "./contentImage" . -}}
 {{- $contentImage := $contentImageData.firstImage -}}
 {{- if reflect.IsImageResourceProcessable $contentImage -}}
   {{- $image := $contentImage.Fill "1200x630 center jpg q85" -}}
