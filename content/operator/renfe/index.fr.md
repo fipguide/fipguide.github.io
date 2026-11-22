@@ -13,15 +13,15 @@ updates:
     date: 2026-11-02
   - message: "Mise à jour de l’indication sur les AVE internationaux."
     date: 2026-10-04
-  - message: "Mise à jour des âges limites et des règles pour les enfants."
+  - message: "Ajout des âges limites et des règles pour les enfants."
     date: 2026-09-19
-  - message: "Mise à jour des informations FIP et de réservation sur CP et Renfe."
+  - message: "Précisions sur l’accès aux Cercanías par les portiques et les solutions dans les gares sans personnel."
     date: 2026-09-03
   - message: "Ajout de HOTNAT et d’AJC."
     date: 2026-07-13
   - message: "Suppression du Bono Gratuit de Renfe."
     date: 2026-06-27
-  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
     date: 2026-05-04
   - message: "Ajout d’un récit de voyage de Zugpost."
     date: 2026-05-02
@@ -31,16 +31,12 @@ updates:
     date: 2026-04-05
   - message: "Ajout d’informations sur les portillons d’accès des Cercanías de Barcelone chez Renfe."
     date: 2026-04-05
-  - message: "Amélioration des informations sur les voyages internationaux en Italie."
-    date: 2025-12-28
-  - message: "Mise à jour des modalités d’achat des billets à la frontière espagnole."
+  - message: "Ajout de la vente à bord des billets AVE internationaux au départ de la France."
     date: 2025-10-30
   - message: "Ajout d’informations sur FEVE."
     date: 2025-10-19
-  - message: "Mise à jour des informations sur les trains transfrontaliers entre la France et l’Espagne."
+  - message: "Ajout de la validité FIP sur le réseau à voie métrique Renfe Feve."
     date: 2025-10-18
-  - message: "Informations sur GySEV complétées."
-    date: 2025-08-11
   - message: "Ajout d’informations sur les AVE internationaux."
     date: 2025-07-13
   - message: "Précision des options de classe de Renfe."

@@ -10,7 +10,7 @@ aliases:
   - /booking/entur-phone
   - /booking/entur-ticket-office
 updates:
-  - message: "Mise à jour des âges limites et des règles pour les enfants."
+  - message: "Ajout des âges limites et des règles pour les enfants."
     date: 2026-09-19
   - message: "Ajout de la Norvège."
     date: 2026-04-20

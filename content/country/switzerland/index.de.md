@@ -35,7 +35,7 @@ updates:
     date: 2025-10-12
   - message: "Informationen zu Aufschlägen und Reservierungen bei EC/ECE-Zügen nach Italien ergänzt."
     date: 2025-10-09
-  - message: "Grenzpunkte in Liechtenstein aktualisiert."
+  - message: "Grenzverbindungen über St. Margrethen und Buchs SG präzisiert; ÖBB-FIP über Liechtenstein ermöglicht durchgehende Reisen mit SBB-FIP."
     date: 2025-09-29
   - message: "SBB hinzugefügt."
     date: 2025-07-13

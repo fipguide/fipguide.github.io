@@ -6,9 +6,9 @@ country:
 content_images:
   - image.webp
 updates:
-  - message: "Mise à jour des âges limites et des règles pour les enfants."
+  - message: "Ajout des âges limites et des règles pour les enfants."
     date: 2026-09-19
-  - message: "Ajout d’informations sur le Balkan Flexipass pour la Bosnie-Herzégovine."
+  - message: "Ajout de la validité du Balkan Flexipass sur le réseau ferroviaire monténégrin (ŽPCG)."
     date: 2026-08-30
   - message: "Ajout d’informations sur la réservation par téléphone entre la Serbie et le Monténégro."
     date: 2026-06-29

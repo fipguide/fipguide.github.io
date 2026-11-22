@@ -13,9 +13,9 @@ content_images:
 updates:
   - message: "Added Leo Express to non-FIP operators in Slovakia."
     date: 2026-05-12
-  - message: "Improved PKP information."
+  - message: "Added FIP details for seasonal trains to Poland via Muszyna and Łupków."
     date: 2025-12-30
-  - message: "Content update timetable change."
+  - message: "Added two Bratislava–Vienna regional routes via Marchegg and Kittsee; a FIP 50 Ticket is required for the Slovak section."
     date: 2025-12-28
   - message: "Added an exception for ZSSK D trains between Bratislava and Vienna."
     date: 2025-07-10

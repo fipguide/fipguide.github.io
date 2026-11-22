@@ -7,7 +7,7 @@ content_images:
 aliases:
   - /booking/euskotren-ticket-office
 updates:
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Added Zugpost travel reports for the railway."
     date: 2026-05-02

@@ -7,7 +7,7 @@ content_images:
 aliases:
   - /booking/euskotren-ticket-office
 updates:
-  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
     date: 2026-05-04
   - message: "Ajout d’un récit de voyage de Zugpost."
     date: 2026-05-02

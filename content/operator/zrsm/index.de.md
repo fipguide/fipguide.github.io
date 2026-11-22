@@ -5,8 +5,6 @@ country:
 content_images:
   - image.webp
 updates:
-  - message: "Informationen zu Nordmazedonien verbessert."
-    date: 2026-10-09
   - message: "ŽRSM hinzugefügt."
     date: 2026-10-08
 ---

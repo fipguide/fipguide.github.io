@@ -122,6 +122,8 @@ That's the recommended way. However, you can still use other frontend ends like 
 
 Use the `updates` field and the small-change overview only for user-facing changes to FIP information. If one commit affects multiple pages, describe the change separately for each page and include only the FIP information changed on that page.
 
+New country, operator, and booking pages start with an empty `updates` array. Replace it with a concise, localized message and an ISO date (`YYYY-MM-DD`) describing the substantive FIP information introduced on each page.
+
 #### Small changes to include
 
 - Changes to FIP validity, acceptance, discounts, or eligible operators and routes.

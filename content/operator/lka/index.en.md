@@ -8,9 +8,9 @@ aliases:
   - /booking/lka-ticket-machine
   - /booking/lka-ticket-office
 updates:
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "ŁKA added."
     date: 2026-02-25

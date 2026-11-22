@@ -7,7 +7,7 @@ content_images:
   - image.webp
   - image2.webp
 updates:
-  - message: "Mise à jour des âges limites et des règles pour les enfants."
+  - message: "Ajout des âges limites et des règles pour les enfants."
     date: 2026-09-19
   - message: "Ajout de SŽ."
     date: 2026-07-11

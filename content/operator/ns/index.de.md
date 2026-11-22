@@ -11,9 +11,7 @@ aliases:
 updates:
   - message: "Nutzung des ICD-Nebensaison-Zuschlags mit Debit- oder Kreditkarte ergänzt."
     date: 2026-10-31
-  - message: "Verbindungsabschnitt auf den englischen und französischen Seiten ergänzt."
-    date: 2026-09-20
-  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
     date: 2026-09-19
   - message: "Vorübergehende grenzüberschreitende ICE-Reservierungspflicht entfernt."
     date: 2026-09-03
@@ -31,11 +29,11 @@ updates:
     date: 2026-04-25
   - message: "Informationen zu NS-Ermäßigungen ergänzt."
     date: 2026-03-11
-  - message: "Informationen zu NS-ICD- und ECD-Zügen aktualisiert."
+  - message: "Aufschlag für nationale ECD/ICD-Abschnitte auf 3,20 € aktualisiert; grenzüberschreitende FIP-50-Tickets ausgenommen und ermäßigten OV-chipkaart-Aufschlag ergänzt."
     date: 2026-02-25
   - message: "Buchungsmöglichkeiten per Telefon bei NS ergänzt."
     date: 2026-02-08
-  - message: "Amsterdam-IC-Informationen aktualisiert."
+  - message: "Amsterdam–Berlin-IC auf ICE 3neo umgestellt und FIP-50-Zuschlag im niederländischen Abschnitt ergänzt."
     date: 2025-12-21
   - message: "FIP-50-Ticketbuchung auf der SNCB-Website entfernt."
     date: 2025-11-08

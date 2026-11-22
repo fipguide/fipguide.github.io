@@ -10,7 +10,7 @@ aliases:
   - /booking/stena-line-limited-email
   - /booking/stena-line-limited-phone
 updates:
-  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
     date: 2026-09-19
   - message: "E-Mail-Buchung bei Stena Line Limited entfernt."
     date: 2026-06-27

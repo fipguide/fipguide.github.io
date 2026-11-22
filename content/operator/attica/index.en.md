@@ -11,9 +11,9 @@ aliases:
   - /booking/attica-email
   - /booking/attica-phone
 updates:
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
-  - message: "Added Balkan Flexipass information for Bosnia and Herzegovina."
+  - message: "Added Balkan Flexipass coverage of Greek railways, including Hellenic Train and Attica."
     date: 2026-08-30
   - message: "Attica added."
     date: 2026-03-22

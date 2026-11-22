@@ -103,11 +103,11 @@ updates:
     date: 2026-10-12
   - message: "Added Ilztalbahn to Non-FIP-Operator."
     date: 2026-10-05
-  - message: "Updated FIP travel conditions for Scandlines and DB Regio Stuttgart."
+  - message: "Clarified that FIP concessions are not valid on ferries to Puttgarden and Warnemünde."
     date: 2026-09-20
-  - message: "Updates on FIP usage in Denmark starting 1 september 2026."
+  - message: "Clarified that FIP is valid on the DSB section via Tønder, while the German NEG section requires a regular ticket."
     date: 2026-09-03
-  - message: "Updated Regionalverkehre Start GmbH."
+  - message: "Removed Regionalverkehre Start from the list of operators without FIP after its integration into DB Regio."
     date: 2026-08-01
   - message: "Added a direct RJ service between Copenhagen and Prague."
     date: 2026-07-07
@@ -119,15 +119,15 @@ updates:
     date: 2026-02-22
   - message: "Added a direct Frankfurt–Bordeaux train."
     date: 2026-02-01
-  - message: "Added Aussenfern Railway."
+  - message: "Added information about the Ausserfern Railway."
     date: 2026-01-17
-  - message: "Improved PKP information."
+  - message: "Added EC direct trains via Horka to Wrocław, Kraków, and Przemyśl."
     date: 2025-12-30
-  - message: "Content update timetable change."
+  - message: "Updated the ECE Copenhagen–Hamburg service and EC direct trains to Poland via Horka."
     date: 2025-12-28
   - message: "Added new operators that do not accept FIP."
     date: 2025-12-22
-  - message: "Updated amsterdam IC."
+  - message: "Added ICE connections from Amsterdam to Hanover and Berlin."
     date: 2025-12-21
   - message: "Added Germany."
     date: 2025-12-19

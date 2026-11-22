@@ -12,7 +12,7 @@ aliases:
 updates:
   - message: "Ajout de la catégorie de train Léman Express et des règles FIP."
     date: 2026-10-24
-  - message: "Mise à jour des âges limites et des règles pour les enfants."
+  - message: "Ajout des âges limites et des règles pour les enfants."
     date: 2026-09-19
   - message: "Ajout de HOTNAT et d’AJC."
     date: 2026-07-13
@@ -22,7 +22,7 @@ updates:
     date: 2026-06-13
   - message: "Ajout d’informations sur les services Nightjet utilisant des voitures Intercity."
     date: 2026-05-23
-  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
     date: 2026-05-04
   - message: "Ajout d’informations sur le métro RET."
     date: 2026-04-09
@@ -32,7 +32,7 @@ updates:
     date: 2025-12-15
   - message: "Correction de l’âge limite pour les trajets gratuits des enfants sur les CFF."
     date: 2025-12-15
-  - message: "Mise à jour des informations FIP sur les trains EC/ECE transfrontaliers vers l’Italie."
+  - message: "Ajout de la réservation via DB des trains EC/ECE transfrontaliers vers l’Italie et précisions sur les suppléments."
     date: 2025-10-09
   - message: "Ajout des CFF."
     date: 2025-07-13

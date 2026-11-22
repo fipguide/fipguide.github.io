@@ -10,11 +10,11 @@ aliases:
   - /booking/kd-ticket-office
   - /booking/kd-website
 updates:
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
   - message: "Added DB FIP Hotline."
     date: 2026-06-13
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Added KD ticket machine information and clarified the on-board surcharge."
     date: 2026-02-25

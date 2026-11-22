@@ -12,7 +12,7 @@ content_images:
 updates:
   - message: "Added information on cross-border ticketing between Portugal and Spain."
     date: 2026-11-21
-  - message: "Updated FIP and booking details for CP and Renfe."
+  - message: "Added the Celta service disruption through April 2027: trains terminate at Valença do Minho and a replacement bus is needed to cross the border."
     date: 2026-09-03
   - message: "Portugal added."
     date: 2025-09-14

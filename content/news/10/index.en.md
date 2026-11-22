@@ -9,13 +9,6 @@ operator:
   - sncb
 content_images:
   - image.webp
-updates:
-  - message: "Added a ticket machine as a booking option for SNCB."
-    date: 2026-06-03
-  - message: "Updated SNCB ticket machine situation after end of on-board sales."
-    date: 2026-05-02
-  - message: "Added news article about SNCB ending on-board ticket sales."
-    date: 2026-04-09
 ---
 
 From 1 July 2026, the Belgian national railway SNCB / NMBS will end ticket sales on board their trains. This ensures that all passengers are in possession of a valid ticket before boarding.

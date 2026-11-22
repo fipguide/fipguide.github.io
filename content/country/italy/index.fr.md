@@ -26,15 +26,15 @@ updates:
     date: 2026-07-11
   - message: "Mise à jour à 11 € du tarif transfrontalier Trenitalia."
     date: 2026-06-19
-  - message: "Ajout des pays manquants."
+  - message: "Ajout du Vatican (aucun train public de voyageurs) et de Saint-Marin (aucune liaison ferroviaire) comme pays voisins."
     date: 2026-05-12
   - message: "Ajout des liaisons par ferry entre l’Italie et la Grèce."
     date: 2026-03-22
-  - message: "Amélioration des informations sur les voyages internationaux en Italie."
+  - message: "Mise à jour des suppléments et des coûts de réservation des trains EC/ECE entre l’Italie et la Suisse."
     date: 2025-12-28
   - message: "Ajout de nouveaux opérateurs sans FIP."
     date: 2025-12-22
-  - message: "Mise à jour des informations sur le détroit de Messine."
+  - message: "Correction : le ferry Trenitalia via le détroit de Messine dessert la Sicile et non la Sardaigne."
     date: 2025-10-30
   - message: "Ajout de l’Italie."
     date: 2025-10-09

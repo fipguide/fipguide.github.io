@@ -19,7 +19,7 @@ content_images:
 updates:
   - message: "Formulierung zum Grenzübertritt in den Niederlanden angepasst."
     date: 2026-10-12
-  - message: "Verbindungsabschnitt auf den englischen und französischen Seiten ergänzt."
+  - message: "Grenzpunkte zu Deutschland um Bad Bentheim und Gronau (Westf.) ergänzt."
     date: 2026-09-20
   - message: "Informationen zum Drei-Länder-Zug ergänzt."
     date: 2026-08-08
@@ -31,7 +31,7 @@ updates:
     date: 2025-12-22
   - message: "FIP-Fährverbindung zwischen Hoek van Holland und Harwich ergänzt."
     date: 2025-12-22
-  - message: "Amsterdam-IC-Informationen aktualisiert."
+  - message: "ICE-Verbindungen von Amsterdam nach Hannover und Berlin ergänzt."
     date: 2025-12-21
   - message: "Grenzpunkte auf der Länderseite ergänzt."
     date: 2025-05-30

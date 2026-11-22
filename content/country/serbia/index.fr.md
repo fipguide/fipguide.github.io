@@ -14,7 +14,7 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Mise à jour des informations sur les points frontières avec la Bosnie-Herzégovine."
+  - message: "Mise à jour du point frontière avec la Bosnie-Herzégovine : Zvornik et les opérateurs ŽFBH/ŽRS ajoutés, Savski Brežovljani supprimé."
     date: 2026-08-30
   - message: "Ajout de la Serbie."
     date: 2026-06-29

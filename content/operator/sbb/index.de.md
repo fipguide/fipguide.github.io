@@ -12,7 +12,7 @@ aliases:
 updates:
   - message: "Léman-Express-Zugkategorie und FIP-Regeln ergänzt."
     date: 2026-10-24
-  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
     date: 2026-09-19
   - message: "HOTNAT und AJC ergänzt."
     date: 2026-07-13
@@ -22,7 +22,7 @@ updates:
     date: 2026-06-13
   - message: "Informationen zu Nightjet-Verbindungen mit Intercity-Wagen ergänzt."
     date: 2026-05-23
-  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+  - message: "FIP-Gültigkeit in Bussen und Ersatzbussen klargestellt."
     date: 2026-05-04
   - message: "Informationen zur Metro RET ergänzt."
     date: 2026-04-09
@@ -32,7 +32,7 @@ updates:
     date: 2025-12-15
   - message: "Altersgrenze für kostenlose Kinderfahrten bei der SBB korrigiert."
     date: 2025-12-15
-  - message: "FIP-Informationen zu grenzüberschreitenden EC/ECE-Zügen nach Italien aktualisiert."
+  - message: "Buchung grenzüberschreitender EC/ECE-Reservierungen nach Italien über die DB ergänzt und Zuschlagsregeln präzisiert."
     date: 2025-10-09
   - message: "SBB hinzugefügt."
     date: 2025-07-13

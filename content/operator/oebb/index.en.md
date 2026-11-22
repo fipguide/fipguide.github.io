@@ -13,11 +13,13 @@ aliases:
   - /booking/oebb-ticket-office
   - /booking/oebb-website
 updates:
-  - message: "ÖBB inconsistencies."
+  - message: "Clarified that the class categories apply to Railjets and removed the duplicate section from the EN/FR pages."
+    date: 2026-10-04
+  - message: "Clarified that the class categories apply to Railjets and removed the duplicate section from the EN/FR pages."
     date: 2026-10-04
   - message: "Added the Brenner surcharge to the ÖBB website."
     date: 2026-10-02
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
   - message: "Renamed Vienna Airport Lines VAL busses."
     date: 2026-09-05
@@ -31,7 +33,7 @@ updates:
     date: 2026-05-15
   - message: "Added temporary booking information for ÖBB Hotline in Germany."
     date: 2026-05-12
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Removed ÖBB IC Bus (ICB) section."
     date: 2026-02-13
@@ -39,10 +41,6 @@ updates:
     date: 2026-01-10
   - message: "Added corridor traffic Salzburg – Kufstein."
     date: 2026-01-07
-  - message: "Updated information on international rail journeys in Italy."
-    date: 2025-12-28
-  - message: "Extend gysev information."
-    date: 2025-08-11
 ---
 
 ÖBB (Austrian Federal Railways) is [Austria](/country/austria "Austria")’s national railway company and the country’s most important rail operator. It operates the majority of passenger services in Austria.

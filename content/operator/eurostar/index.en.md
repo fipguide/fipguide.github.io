@@ -19,7 +19,7 @@ aliases:
 updates:
   - message: "Added SNCF Connect booking information."
     date: 2026-10-22
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
   - message: "Removed traivelling."
     date: 2026-08-21
@@ -51,7 +51,7 @@ updates:
     date: 2026-01-03
   - message: "Excluded FIP 50 from email booking via International Rail."
     date: 2025-10-21
-  - message: "Updated Eurostar booking information."
+  - message: "Clarified that the hotline cannot book Eurostar Blue FIP Tickets to or from London; added Eurostar ticket offices as a booking option."
     date: 2025-09-30
   - message: "Eurostar booking problem."
     date: 2025-07-08

@@ -8,11 +8,11 @@ content_images:
 aliases:
   - /booking/bdz-ticket-office
 updates:
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
-  - message: "Added Balkan Flexipass information for Bosnia and Herzegovina."
+  - message: "Added Balkan Flexipass coverage of the Bulgarian rail network (BDZ)."
     date: 2026-08-30
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Updated ČD FIP validity."
     date: 2026-03-10

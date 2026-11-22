@@ -12,7 +12,7 @@ content_images:
 updates:
   - message: "Tickets für grenzüberschreitende Züge zwischen Portugal und Spanien ergänzt."
     date: 2026-11-21
-  - message: "FIP- und Buchungsinformationen zu CP und Renfe aktualisiert."
+  - message: "Bauarbeiten bis April 2027: Celta-Züge enden in Valença do Minho; für den Grenzübertritt ist ein Ersatzbus erforderlich."
     date: 2026-09-03
   - message: "Portugal hinzugefügt."
     date: 2025-09-14

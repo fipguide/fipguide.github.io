@@ -31,7 +31,7 @@ updates:
     date: 2026-02-25
   - message: "Vérification et mise à jour des informations sur la Lituanie, LTG Link et la Lettonie."
     date: 2026-01-09
-  - message: "Amélioration des informations sur PKP."
+  - message: "Ajout des liaisons EC via Horka vers Przemyśl et des liaisons transfrontalières saisonnières vers la Slovaquie."
     date: 2025-12-30
   - message: "Mise à jour des liaisons FIP entre la Pologne et la Lituanie."
     date: 2025-12-28

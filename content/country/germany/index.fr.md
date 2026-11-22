@@ -103,11 +103,11 @@ updates:
     date: 2026-10-12
   - message: "Ajout de l’Ilztalbahn comme opérateur sans FIP."
     date: 2026-10-05
-  - message: "Mise à jour des conditions FIP chez Scandlines et DB Regio Stuttgart."
+  - message: "Précision : les réductions FIP ne sont pas valables sur les ferries vers Puttgarden et Warnemünde."
     date: 2026-09-20
-  - message: "Mise à jour des conditions FIP au Danemark à partir du 1er septembre 2026."
+  - message: "Précision : le FIP est valable sur le tronçon DSB via Tønder ; le tronçon allemand exploité par NEG nécessite un billet ordinaire."
     date: 2026-09-03
-  - message: "Mise à jour des informations sur Regionalverkehre Start GmbH."
+  - message: "Retrait de Regionalverkehre Start de la liste des opérateurs sans FIP après son intégration à DB Regio."
     date: 2026-08-01
   - message: "Ajout de la liaison directe Copenhague–Prague en RJ."
     date: 2026-07-07
@@ -119,15 +119,15 @@ updates:
     date: 2026-02-22
   - message: "Ajout de la liaison directe Francfort–Bordeaux."
     date: 2026-02-01
-  - message: "Ajout de l’Aussenfern Railway."
+  - message: "Ajout d’informations sur la ligne de l’Außenfernbahn."
     date: 2026-01-17
-  - message: "Amélioration des informations sur PKP."
+  - message: "Ajout des EC directs via Horka vers Wrocław, Cracovie et Przemyśl."
     date: 2025-12-30
-  - message: "Mise à jour des changements d’horaires."
+  - message: "Mise à jour de la liaison ECE Copenhague–Hambourg et des EC directs vers la Pologne via Horka."
     date: 2025-12-28
   - message: "Ajout de nouveaux opérateurs sans FIP."
     date: 2025-12-22
-  - message: "Mise à jour des informations sur l’IC Amsterdam."
+  - message: "Ajout des liaisons ICE d’Amsterdam vers Hanovre et Berlin."
     date: 2025-12-21
   - message: "Ajout de l’Allemagne."
     date: 2025-12-19

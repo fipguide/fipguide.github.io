@@ -8,8 +8,34 @@ toc: true
 aliases:
   - /generalinformation/
 updates:
-  - message: "Übergreifende Infos hinzugefügt."
+  - message: "Erläuterungstabelle zur Zwei-Tages-Regel für FIP-Freifahrtschein-Felder und mögliche abweichende Betreiberregeln ergänzt."
+    date: 2026-05-12
+  - message: "FIP-Gültigkeit im Schienenersatzverkehr erläutert: FIP gilt, wenn der ersetzte Zug FIP-fähig ist."
+    date: 2026-04-19
+  - message: "Allgemeine Informationen zu FIP-Ausweisen, FIP 50, Freifahrtscheinen und Globalpreisen in die FIP-Gültigkeitsübersicht verlagert."
+    date: 2026-04-04
+  - message: "Ausstellerabhängige Gültigkeitszeiträume des FIP-Ausweises sowie nationale DB-Vergünstigungen und Steuerdetails in die FIP-Gültigkeitsübersicht verlagert."
+    date: 2026-03-29
+  - message: "Hinweis präzisiert: Der FIP-Ausweis muss offiziell bei FIP-Freifahrtscheinen im Zug nicht vorgezeigt werden, sollte bei Kontrollen aber verfügbar sein."
+    date: 2026-01-14
+  - message: "Gültigkeitszeitraum des FIP-Ausweises präzisiert: Er beginnt einen Monat vor dem ersten und endet einen Monat nach dem letzten aufgedruckten Gültigkeitsjahr."
+    date: 2026-01-10
+  - message: "Stena-Line-Regel zu zwei Überfahrten pro Freifahrtschein-Feld aus der allgemeinen Übersicht auf die Betreiberseite verlagert."
+    date: 2025-12-22
+  - message: "Mehrsprachige FIP-Übersicht mit FAQ zu Berechtigung, FIP-Ausweis, Coupons, Tickets und Reservierungen veröffentlicht."
     date: 2025-12-18
+  - message: "Grenztarifpunkt- und CIV-Code-Hinweise präzisiert sowie das DSB-Beispiel für eine grenzüberschreitende Fahrt korrigiert."
+    date: 2025-12-15
+  - message: "Regeln zu Angehörigen, günstigeren Alternativen zu FIP 50 und zur Besteuerung von FIP-Freifahrtscheinen ergänzt."
+    date: 2025-11-22
+  - message: "Jährliche Bestellung von höchstens einem FIP-Freifahrtschein pro Betreiber mit ein bis vier Feldern erläutert."
+    date: 2025-11-15
+  - message: "Allgemeine FIP-Informationen zu FIP-Ausweis, Freifahrtscheinen, FIP 50 und Grenzpunkten umfassend erweitert."
+    date: 2025-10-16
+  - message: "Grenzbahnhöfe und Grenztarifpunkte mit Beispielen zur Ticketgültigkeit erklärt."
+    date: 2025-08-11
+  - message: "Erste allgemeine Informationen zu FIP-Berechtigung, Freifahrtscheinen, FIP 50 und Globalpreisen ergänzt."
+    date: 2025-07-13
 ---
 
 ## Allgemein

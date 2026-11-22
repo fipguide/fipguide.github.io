@@ -11,10 +11,8 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Fehlende Länder ergänzt."
+  - message: "Nordmazedonien als Nachbarland ergänzt: derzeit keine Zugverbindung nach Bulgarien."
     date: 2026-05-12
-  - message: "Grenzpunktinformationen zu Griechenland aktualisiert."
-    date: 2026-03-22
   - message: "Informationen zu Bulgarien korrigiert."
     date: 2025-10-09
   - message: "Bulgarien hinzugefügt."

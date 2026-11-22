@@ -19,7 +19,7 @@ aliases:
 updates:
   - message: "Ajout d’informations sur la réservation via SNCF Connect."
     date: 2026-10-22
-  - message: "Mise à jour des âges limites et des règles pour les enfants."
+  - message: "Ajout des âges limites et des règles pour les enfants."
     date: 2026-09-19
   - message: "Suppression de Traivelling."
     date: 2026-08-21
@@ -51,7 +51,7 @@ updates:
     date: 2026-01-03
   - message: "Exclusion du Billet FIP 50 pour la réservation par e-mail auprès d’International Rail."
     date: 2025-10-21
-  - message: "Mise à jour des informations de réservation Eurostar."
+  - message: "Précision : la hotline ne permet pas de réserver des Billets FIP Eurostar Blue vers ou depuis Londres ; ajout des guichets Eurostar comme canal de réservation."
     date: 2025-09-30
   - message: "Résolution d’un problème de réservation Eurostar."
     date: 2025-07-08

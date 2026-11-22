@@ -9,6 +9,7 @@ params:
     -  # Notes de bas de page facultatives sous le tableau des points frontières
 content_images:
   - "image.webp"
+updates: []
 ---
 
 <!-- Supprimez ce message si la page est complète -->

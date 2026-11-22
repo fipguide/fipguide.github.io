@@ -21,9 +21,7 @@ updates:
     date: 2026-10-12
   - message: "Ajout d’AŽD comme opérateur sans FIP."
     date: 2026-06-13
-  - message: "Mise à jour des changements d’horaires."
-    date: 2025-12-28
-  - message: "Mise à jour des réductions FIP pour la Tchéquie et ČD."
+  - message: "Mise à jour de la validité FIP via Lichkov : Leo Express exploite le tronçon tchèque, où FIP n’est pas accepté."
     date: 2025-11-20
   - message: "Ajout de la Tchéquie."
     date: 2025-09-20

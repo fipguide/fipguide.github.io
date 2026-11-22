@@ -7,8 +7,34 @@ toc: true
 aliases:
   - /generalinformation/
 updates:
-  - message: "General Information added."
+  - message: "Added a printable guide to the two-day rule for FIP Coupon fields and noted that some operators have exceptions."
+    date: 2026-05-12
+  - message: "Clarified that FIP is valid on rail replacement buses when they replace a FIP-valid train."
+    date: 2026-04-19
+  - message: "Moved general guidance on FIP Cards, FIP 50 Tickets, Coupons, and Global Fares to the FIP validity overview."
+    date: 2026-04-04
+  - message: "Moved issuer-specific FIP Card validity periods, national DB discounts, and taxation details to the FIP validity overview."
+    date: 2026-03-29
+  - message: "Clarified that the FIP Card is not officially required to be shown on board with FIP Coupons, but should be available if staff ask for it."
+    date: 2026-01-14
+  - message: "Clarified that the FIP Card is valid from one month before its first printed validity year until one month after its last year."
+    date: 2026-01-10
+  - message: "Moved the Stena Line limit of two ferry crossings per Coupon field from the general overview to its operator page."
+    date: 2025-12-22
+  - message: "Published the multilingual FIP overview with FAQs on eligibility, FIP Cards, Coupons, tickets, and reservations."
     date: 2025-12-18
+  - message: "Clarified border tariff point and CIV code guidance, and corrected the DSB cross-border travel example."
+    date: 2025-12-15
+  - message: "Added guidance on dependents, cheaper alternatives to FIP 50 Tickets, and taxation of FIP Coupons."
+    date: 2025-11-22
+  - message: "Clarified the limit of one FIP Coupon per operator per year, with one to four fields."
+    date: 2025-11-15
+  - message: "Expanded the general guidance on FIP Cards, Coupons, FIP 50 Tickets, and border points."
+    date: 2025-10-16
+  - message: "Added examples explaining border stations, border tariff points, and ticket validity."
+    date: 2025-08-11
+  - message: "Added the first general guidance on FIP eligibility, Coupons, FIP 50 Tickets, and Global Fares."
+    date: 2025-07-13
 ---
 
 ## General

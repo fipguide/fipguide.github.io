@@ -9,7 +9,7 @@ aliases:
   - /booking/cfl-phone
   - /booking/cfl-ticket-office
 updates:
-  - message: "Mise à jour des âges limites et des règles pour les enfants."
+  - message: "Ajout des âges limites et des règles pour les enfants."
     date: 2026-09-19
   - message: "Suppression de l’option de réservation sur le site de CFL."
     date: 2026-07-22
@@ -17,7 +17,7 @@ updates:
     date: 2026-07-13
   - message: "Ajout du pass illimité SNCB."
     date: 2026-05-12
-  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
     date: 2026-05-04
   - message: "Ajout des informations sur la première classe au guichet CFL."
     date: 2026-01-21

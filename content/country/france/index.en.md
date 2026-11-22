@@ -29,7 +29,7 @@ updates:
     date: 2026-05-13
   - message: "Added SNCF trains in Germany."
     date: 2026-05-12
-  - message: "Added missing countries."
+  - message: "Added Andorra as a neighbouring country; there is currently no rail link between France and Andorra."
     date: 2026-05-12
   - message: "Updated Renfe ticket prices for 2026."
     date: 2026-05-02
@@ -43,13 +43,13 @@ updates:
     date: 2025-12-29
   - message: "Minor adjustments SNCF."
     date: 2025-12-27
-  - message: "Updated Spain border ticket purchase."
+  - message: "Added Renfe AVE FIP Global Fares from €15, available at ticket offices in Spain."
     date: 2025-10-30
   - message: "Added FIP information about LeShuttle and ferry connections to Great Britain."
     date: 2025-10-21
   - message: "Added information from SBB colleague."
     date: 2025-10-20
-  - message: "Updated cross-border train information for France and Spain."
+  - message: "Added DB online booking for cross-border FIP 50 Tickets and updated Renfe services to Spain."
     date: 2025-10-18
   - message: "Added France."
     date: 2025-10-12

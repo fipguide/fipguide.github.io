@@ -26,15 +26,15 @@ updates:
     date: 2026-07-11
   - message: "Grenzüberschreitenden Trenitalia-Preis auf 11 € aktualisiert."
     date: 2026-06-19
-  - message: "Fehlende Länder ergänzt."
+  - message: "Vatikanstadt (kein öffentlicher Personenverkehr) und San Marino (keine Bahnverbindung) als Nachbarländer ergänzt."
     date: 2026-05-12
   - message: "Fährverbindungen zwischen Italien und Griechenland ergänzt."
     date: 2026-03-22
-  - message: "Internationale Bahnreisen in Italien verbessert beschrieben."
+  - message: "Aufschläge und Reservierungskosten für EC/ECE-Züge zwischen Italien und der Schweiz aktualisiert."
     date: 2025-12-28
   - message: "Neue Betreiber ohne FIP hinzugefügt."
     date: 2025-12-22
-  - message: "Informationen zur Straße von Messina aktualisiert."
+  - message: "Fährverbindung über die Straße von Messina von Sardinien auf Sizilien korrigiert."
     date: 2025-10-30
   - message: "Italien hinzugefügt."
     date: 2025-10-09

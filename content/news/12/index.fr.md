@@ -4,9 +4,6 @@ title: Modifier soi-même le FIP Guide rapidement et facilement
 description: Désormais, les informations peuvent être modifiées rapidement et facilement directement sur le site web sans connaissances préalables.
 content_images:
   - image.webp
-updates:
-  - message: "Ajout de Modifier soi-même le FIP Guide rapidement et facilement."
-    date: 2026-08-08
 ---
 
 Désormais, les informations peuvent être modifiées rapidement et facilement directement sur le site web sans connaissances techniques préalables. Si vous trouvez une erreur sur une page ou si vous souhaitez mettre à jour des informations, vous pouvez le faire directement sur le site web du FIP Guide. La seule condition requise est un compte GitHub gratuit.

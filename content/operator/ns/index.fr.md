@@ -11,7 +11,7 @@ aliases:
 updates:
   - message: "Ajout des modalités de paiement par carte du supplément ICD hors pointe."
     date: 2026-10-31
-  - message: "Mise à jour des âges limites et des règles pour les enfants."
+  - message: "Ajout des âges limites et des règles pour les enfants."
     date: 2026-09-19
   - message: "Suppression de l’obligation temporaire de réservation pour les ICE transfrontaliers."
     date: 2026-09-03
@@ -29,11 +29,11 @@ updates:
     date: 2026-04-25
   - message: "Ajout d’informations sur les réductions NS."
     date: 2026-03-11
-  - message: "Mise à jour des informations sur les trains NS ICD et ECD."
+  - message: "Mise à jour du supplément ECD/ICD national à 3,20 €, exemption des Billets FIP 50 internationaux et ajout du tarif réduit avec OV-chipkaart."
     date: 2026-02-25
   - message: "Ajout des options de réservation par téléphone auprès de NS."
     date: 2026-02-08
-  - message: "Mise à jour des informations sur l’IC Amsterdam."
+  - message: "Passage de l’IC Amsterdam–Berlin à l’ICE 3neo et ajout du supplément FIP 50 sur le tronçon néerlandais."
     date: 2025-12-21
   - message: "Suppression de la réservation de billets FIP 50 sur le site de SNCB."
     date: 2025-11-08

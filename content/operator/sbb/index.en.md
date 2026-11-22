@@ -12,7 +12,7 @@ aliases:
 updates:
   - message: "Added the Léman Express train category and FIP rules."
     date: 2026-10-24
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
   - message: "Added HOTNAT and AJC."
     date: 2026-07-13
@@ -22,7 +22,7 @@ updates:
     date: 2026-06-13
   - message: "Added information about Nightjet services using Intercity coaches."
     date: 2026-05-23
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Added information about Metro RET."
     date: 2026-04-09
@@ -32,7 +32,7 @@ updates:
     date: 2025-12-15
   - message: "Updated the SBB age limit for children travelling free."
     date: 2025-12-15
-  - message: "Updated FIP information for cross-border EC/ECE trains to Italy."
+  - message: "Added DB booking for cross-border EC/ECE reservations to Italy and clarified the surcharge rules."
     date: 2025-10-09
   - message: "Added SBB."
     date: 2025-07-13

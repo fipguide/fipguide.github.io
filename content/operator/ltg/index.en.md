@@ -9,11 +9,11 @@ content_images:
 aliases:
   - /booking/ltg-website
 updates:
-  - message: "Updated LTG link information."
+  - message: "Clarified that LTG-Link sells FIP Tickets and reservations only on board, and recommends booking online in advance, especially for Vilnius–Klaipėda in summer."
     date: 2026-10-25
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Added LTG Sea Side Express source in all languages."
     date: 2026-04-19

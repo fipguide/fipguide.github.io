@@ -14,9 +14,9 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Mise à jour des conditions FIP chez Scandlines et DB Regio Stuttgart."
+  - message: "Précision : les réductions FIP ne sont pas valables sur les ferries vers Rødby et Gedser."
     date: 2026-09-20
-  - message: "Mise à jour des conditions FIP au Danemark à partir du 1er septembre 2026."
+  - message: "Les anciennes lignes GoCollective du Jutland central et occidental et de Fionie sont accessibles avec FIP depuis le 1er septembre."
     date: 2026-09-03
   - message: "Ajout de la liaison directe Copenhague–Prague en RJ."
     date: 2026-07-07

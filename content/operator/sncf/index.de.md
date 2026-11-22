@@ -26,15 +26,13 @@ updates:
     date: 2026-10-04
   - message: "Einstiegsregeln in Frankreich ergänzt."
     date: 2026-10-04
-  - message: "Verbindungsabschnitt auf den englischen und französischen Seiten ergänzt."
-    date: 2026-09-20
-  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
     date: 2026-09-19
   - message: "HOTNAT und AJC ergänzt."
     date: 2026-07-13
   - message: "Informationen zu SNCF-Zügen in Deutschland ergänzt."
     date: 2026-05-12
-  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+  - message: "FIP-Gültigkeit in Bussen und Ersatzbussen klargestellt."
     date: 2026-05-04
   - message: "FIP-75-Unterstützung an verschiedenen Stellen ergänzt."
     date: 2026-04-01
@@ -46,7 +44,7 @@ updates:
     date: 2026-02-01
   - message: "FIP-Anerkennung in Pariser Straßenbahnen entfernt."
     date: 2026-01-31
-  - message: "FIP-Zugang und Zugangsschranken bei SNCF aktualisiert."
+  - message: "Hinweis auf Zugangsschranken und erforderliche Durchgangskarten bei RER-, Transilien- und Tramstationen ergänzt."
     date: 2026-01-28
   - message: "Buchungsmöglichkeiten bei SNCF aktualisiert."
     date: 2026-01-18

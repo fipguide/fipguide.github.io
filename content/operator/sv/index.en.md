@@ -6,9 +6,9 @@ country:
 content_images:
   - image.webp
 updates:
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
-  - message: "Added Balkan Flexipass information for Bosnia and Herzegovina."
+  - message: "Added Balkan Flexipass coverage of the Serbian rail network."
     date: 2026-08-30
   - message: "SV added."
     date: 2026-06-29

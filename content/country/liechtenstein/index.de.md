@@ -3,7 +3,7 @@ title: Liechtenstein
 content_images:
   - image.webp
 updates:
-  - message: "Grenzpunkte in Liechtenstein aktualisiert."
+  - message: "Einreise per ÖBB-S-Bahn über Feldkirch und Buchs SG nur zu Hauptverkehrszeiten; FIP gilt in Zügen, nicht in Bussen."
     date: 2025-09-29
   - message: "Liechtenstein hinzugefügt."
     date: 2025-08-04

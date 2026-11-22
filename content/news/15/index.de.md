@@ -8,9 +8,6 @@ operator:
   - db
 content_images:
   - image.webp
-updates:
-  - message: "Nachricht zu DB Regio Stuttgart ergänzt."
-    date: 2026-10-04
 ---
 
 Zum 01. August 2026 wurde das Netz Neckartal, das ehemalig von der DB Regio Stuttgart GmbH betrieben wurde, vollständig in DB Regio Baden-Württemberg integriert und kann daher mit FIP genutzt werden. [^1]

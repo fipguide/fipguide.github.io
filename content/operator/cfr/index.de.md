@@ -8,15 +8,15 @@ content_images:
 aliases:
   - /booking/cfr-ticket-office
 updates:
-  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
     date: 2026-09-19
-  - message: "Balkan-Flexipass-Informationen zu Bosnien und Herzegowina ergänzt."
+  - message: "Balkan-Flexipass-Gültigkeit bei CFR Călători und Regiotrans ergänzt."
     date: 2026-08-30
   - message: "CFR-Reservierungspreise aktualisiert."
     date: 2026-06-16
   - message: "DB-Ticketschalter als Buchungsmöglichkeit für CFR ergänzt."
     date: 2026-05-09
-  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+  - message: "FIP-Gültigkeit in Bussen und Ersatzbussen klargestellt."
     date: 2026-05-04
   - message: "Rumänien hinzugefügt."
     date: 2026-03-14

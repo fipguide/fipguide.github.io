@@ -10,13 +10,13 @@ aliases:
   - /booking/zssk-ticket-office
   - /booking/zssk-website
 updates:
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
   - message: "Added HOTNAT and AJC."
     date: 2026-07-13
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
-  - message: "Improved FIP information for Slovakia."
+  - message: "Removed the outdated note that ZSSK and ÖBB FIP Coupons were valid on D trains between Bratislava and Vienna."
     date: 2026-01-30
   - message: "Added requirements for FIP Coupons in Slovakia."
     date: 2025-10-08

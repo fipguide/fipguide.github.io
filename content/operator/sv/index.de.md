@@ -6,9 +6,9 @@ country:
 content_images:
   - image.webp
 updates:
-  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
     date: 2026-09-19
-  - message: "Balkan-Flexipass-Informationen zu Bosnien und Herzegowina ergänzt."
+  - message: "Balkan-Flexipass-Gültigkeit im serbischen Bahnnetz ergänzt."
     date: 2026-08-30
   - message: "SV hinzugefügt."
     date: 2026-06-29

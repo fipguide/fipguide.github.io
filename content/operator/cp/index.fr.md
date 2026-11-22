@@ -8,11 +8,11 @@ content_images:
 aliases:
   - /booking/cp-ticket-office
 updates:
-  - message: "Mise à jour des informations sur l’opérateur CP."
+  - message: "Précision sur l’achat à bord en l’absence de guichet CP, notamment sur la liaison Badajoz–Entroncamento."
     date: 2026-11-15
-  - message: "Mise à jour des âges limites et des règles pour les enfants."
+  - message: "Ajout des âges limites et des règles pour les enfants."
     date: 2026-09-19
-  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
     date: 2026-05-04
   - message: "Ajout d’un récit de voyage de Zugpost."
     date: 2026-05-02

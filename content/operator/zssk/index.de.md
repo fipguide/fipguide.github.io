@@ -10,15 +10,13 @@ aliases:
   - /booking/zssk-ticket-office
   - /booking/zssk-website
 updates:
-  - message: "Verbindungsabschnitt auf den englischen und französischen Seiten ergänzt."
-    date: 2026-09-20
-  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
     date: 2026-09-19
   - message: "HOTNAT und AJC ergänzt."
     date: 2026-07-13
-  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+  - message: "FIP-Gültigkeit in Bussen und Ersatzbussen klargestellt."
     date: 2026-05-04
-  - message: "Informationen zur Slowakei verbessert."
+  - message: "Veralteten Hinweis zur Gültigkeit von ZSSK- und ÖBB-FIP-Freifahrtscheinen in D-Zügen zwischen Bratislava und Wien entfernt."
     date: 2026-01-30
   - message: "Zusätzliche Anforderungen für FIP Freifahrtscheine in der Slowakei ergänzt."
     date: 2025-10-08

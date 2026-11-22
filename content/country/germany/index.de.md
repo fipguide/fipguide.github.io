@@ -103,11 +103,11 @@ updates:
     date: 2026-10-12
   - message: "Ilztalbahn als Betreiber ohne FIP hinzugefügt."
     date: 2026-10-05
-  - message: "Nutzung der FIP-Vergünstigungen bei Scandlines und DB Regio Stuttgart aktualisiert."
+  - message: "FIP-Ermäßigungen auf Fähren nach Puttgarden und Warnemünde ausgeschlossen."
     date: 2026-09-20
-  - message: "FIP-Nutzung in Dänemark ab dem 1. September 2026 aktualisiert."
+  - message: "FIP-Gültigkeit auf dem DSB-Abschnitt über Tønder ergänzt; der deutsche NEG-Abschnitt erfordert weiterhin ein reguläres Ticket."
     date: 2026-09-03
-  - message: "Informationen zu Regionalverkehre Start GmbH aktualisiert."
+  - message: "Regionalverkehre Start nach der Eingliederung in DB Regio aus der Liste der Betreiber ohne FIP entfernt."
     date: 2026-08-01
   - message: "Direktverbindung Kopenhagen–Prag mit dem RJ ergänzt."
     date: 2026-07-07
@@ -119,15 +119,15 @@ updates:
     date: 2026-02-22
   - message: "Direktverbindung Frankfurt–Bordeaux ergänzt."
     date: 2026-02-01
-  - message: "Aussenfern Railway hinzugefügt."
+  - message: "Informationen zur Außenfernbahn ergänzt."
     date: 2026-01-17
-  - message: "PKP-Informationen verbessert."
+  - message: "EC-Direktzüge über Horka nach Breslau, Krakau und Przemyśl ergänzt."
     date: 2025-12-30
-  - message: "Fahrplanänderungen aktualisiert."
+  - message: "ECE-Verbindung Kopenhagen–Hamburg und EC-Direktzüge über Horka nach Polen aktualisiert."
     date: 2025-12-28
   - message: "Neue Betreiber ohne FIP hinzugefügt."
     date: 2025-12-22
-  - message: "Amsterdam-IC-Informationen aktualisiert."
+  - message: "ICE-Verbindungen von Amsterdam nach Hannover und Berlin ergänzt."
     date: 2025-12-21
   - message: "Deutschland hinzugefügt."
     date: 2025-12-19

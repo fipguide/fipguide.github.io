@@ -11,22 +11,20 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Mise à jour des informations FIP et de réservation sur CP et Renfe."
+  - message: "Ajout du bus de remplacement Celta jusqu’en avril 2027 et précision : les trains Rodalies circulent jusqu’à Barcelone."
     date: 2026-09-03
   - message: "Ajout d’informations sur les AVE internationaux complets."
     date: 2026-08-09
-  - message: "Ajout des pays manquants."
+  - message: "Ajout de l’Andorre comme pays voisin ; il n’existe actuellement aucune liaison ferroviaire entre l’Espagne et l’Andorre."
     date: 2026-05-12
   - message: "Mise à jour des tarifs Renfe pour 2026."
     date: 2026-05-02
-  - message: "Mise à jour des modalités d’achat des billets à la frontière espagnole."
+  - message: "Ajout de Tarifs Globaux FIP Renfe AVE à partir de 15 € et de l’achat à bord au départ de la France."
     date: 2025-10-30
-  - message: "Mise à jour des informations sur les trains transfrontaliers entre la France et l’Espagne."
+  - message: "Ajout d’informations FIP sur les Tarifs Globaux AVE, les trains Rodalies vers la France et Euskotren jusqu’à Hendaye."
     date: 2025-10-18
   - message: "Ajout d’informations sur la validité FIP d’Euskotren jusqu’à Hendaye."
     date: 2025-09-02
-  - message: "Informations sur GySEV complétées."
-    date: 2025-08-11
   - message: "Ajout d’informations sur les AVE internationaux."
     date: 2025-07-13
   - message: "Ajout de points frontières sur la page pays."

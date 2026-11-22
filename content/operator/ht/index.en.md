@@ -9,11 +9,11 @@ aliases:
   - /booking/ht-ticket-office
   - /booking/ht-website
 updates:
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
-  - message: "Added Balkan Flexipass information for Bosnia and Herzegovina."
+  - message: "Added Balkan Flexipass coverage of Greek railways, including Hellenic Train and Attica."
     date: 2026-08-30
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Hellenic Train added."
     date: 2026-03-22

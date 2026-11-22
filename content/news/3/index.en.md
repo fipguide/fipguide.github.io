@@ -5,13 +5,6 @@ description: Finnish Railways VR will leave the FIP program on January 1, 2026.
   FIP discounts will no longer apply. Background and future outlook here.
 content_images:
   - image.webp
-updates:
-  - message: "Finland reminder."
-    date: 2026-08-03
-  - message: "Removed announced further VR information."
-    date: 2026-04-21
-  - message: "FIP withdrawal of Finnish State Railways VR added."
-    date: 2025-01-18
 ---
 
 The Finnish State Railways VR has announced its withdrawal from the FIP program by the end of 2025. The withdrawal was originally planned for 2024 but was postponed by one year. As of 01.01.2026, FIP travel discounts for VR will no longer be available.

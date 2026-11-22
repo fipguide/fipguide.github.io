@@ -8,7 +8,7 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Improved information for North Macedonia."
+  - message: "Added the Elez Han border point to Kosovo and clarified the suspended Priština–Skopje service and FIP validity up to the border."
     date: 2026-10-09
   - message: "Added north-macedonia."
     date: 2026-10-08

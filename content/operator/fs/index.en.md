@@ -12,9 +12,9 @@ aliases:
 updates:
   - message: "Added ECE to FS operator pages."
     date: 2026-11-14
-  - message: "Added information about free FS tickets on Trenitalia."
+  - message: "Added the _Biglietti gratuiti FS_ surcharge."
     date: 2026-10-22
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
   - message: "Replaced DIRITTO AMMISSIONE with CAMBIO SERVIZIO."
     date: 2026-08-18
@@ -22,15 +22,15 @@ updates:
     date: 2026-07-13
   - message: "Added DB FIP Hotline."
     date: 2026-06-13
-  - message: "Updated booking information for FIP Tickets based on user feedback."
+  - message: "Added reports of booking problems on the FS website and at DB ticket offices, with Trenitalia ticket offices as an alternative."
     date: 2026-05-12
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Added minimum ticket price for regional trains to Fiumicino."
     date: 2026-03-15
   - message: "Updated FIP validity for EC and RJ trains between Italy and Austria."
     date: 2026-01-10
-  - message: "Updated information on international rail journeys in Italy."
+  - message: "Added booking options and lower DB travel-centre prices for cross-border EC/ECE reservations."
     date: 2025-12-28
   - message: "Added trenitalia."
     date: 2025-10-09

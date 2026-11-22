@@ -11,22 +11,20 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "FIP- und Buchungsinformationen zu CP und Renfe aktualisiert."
+  - message: "Celta-Ersatzbus bis April 2027 und Rodalies-Verbindungen bis Barcelona ergänzt."
     date: 2026-09-03
   - message: "Informationen zur Ausbuchung internationaler AVE ergänzt."
     date: 2026-08-09
-  - message: "Fehlende Länder ergänzt."
+  - message: "Andorra als Nachbarland ergänzt: derzeit keine Zugverbindung zwischen Spanien und Andorra."
     date: 2026-05-12
   - message: "Renfe-Ticketpreise für 2026 aktualisiert."
     date: 2026-05-02
-  - message: "Ticketkauf an der spanischen Grenze aktualisiert."
+  - message: "Renfe-AVE-Tarife ab 15 € und Bordverkauf bei Einstieg aus Frankreich ergänzt."
     date: 2025-10-30
-  - message: "Grenzüberschreitende Zugverbindungen zwischen Frankreich und Spanien aktualisiert."
+  - message: "FIP-Informationen zu AVE-Globalpreisen, Rodalies-Zügen nach Frankreich und Euskotren bis Hendaye ergänzt."
     date: 2025-10-18
   - message: "FIP-Gültigkeit von Euskotren bis Hendaye ergänzt."
     date: 2025-09-02
-  - message: "Informationen zu GySEV erweitert."
-    date: 2025-08-11
   - message: "Informationen zu internationalen AVE ergänzt."
     date: 2025-07-13
   - message: "Grenzpunkte auf der Länderseite ergänzt."

@@ -10,9 +10,9 @@ content_images:
 aliases:
   - /booking/bsb-ticket-office
 updates:
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Added FIP conditions from the Bodensee-Personentarif (BP)."
     date: 2026-04-25

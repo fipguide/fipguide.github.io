@@ -26,13 +26,13 @@ updates:
     date: 2026-10-04
   - message: "Added boarding rules in France."
     date: 2026-10-04
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
   - message: "Added HOTNAT and AJC."
     date: 2026-07-13
   - message: "Added SNCF trains in Germany."
     date: 2026-05-12
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Added FIP 75 information in several places."
     date: 2026-04-01
@@ -44,7 +44,7 @@ updates:
     date: 2026-02-01
   - message: "Removed FIP acceptance for Paris trams."
     date: 2026-01-31
-  - message: "Updated SNCF information regarding FIP access and ticket barriers."
+  - message: "Added guidance on ticket barriers and temporary access passes at RER, Transilien, and tram stations."
     date: 2026-01-28
   - message: "Updated SNCF booking ways."
     date: 2026-01-18

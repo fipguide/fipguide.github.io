@@ -12,7 +12,7 @@ content_images:
 updates:
   - message: "Ajout de billets pour les trains transfrontaliers entre le Portugal et l’Espagne."
     date: 2026-11-21
-  - message: "Mise à jour des informations FIP et de réservation sur CP et Renfe."
+  - message: "Travaux jusqu’en avril 2027 : les trains Celta terminent à Valença do Minho et un bus de remplacement est nécessaire pour franchir la frontière."
     date: 2026-09-03
   - message: "Ajout du Portugal."
     date: 2025-09-14

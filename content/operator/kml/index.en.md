@@ -7,9 +7,9 @@ content_images:
 aliases:
   - /booking/kml-ticket-office
 updates:
-  - message: "Added information about KMŁ buses."
+  - message: "Clarified that FIP Tickets are not valid on buses operated by KMŁ."
     date: 2026-10-02
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Added FIP information for KMŁ."
     date: 2026-04-01

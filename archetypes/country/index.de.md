@@ -9,6 +9,7 @@ params:
     -  # Optionale Fußnoten unter der Grenzpunkt-Tabelle
 content_images:
   - "image.webp"
+updates: []
 ---
 
 <!-- Entferne das "WIP" Snippet, wenn die Inhalte der Seite vollständig sind -->

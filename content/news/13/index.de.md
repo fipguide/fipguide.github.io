@@ -8,9 +8,6 @@ operator:
   - dsb
 content_images:
   - image.webp
-updates:
-  - message: "FIP-Nutzung in Dänemark ab dem 1. September 2026 aktualisiert."
-    date: 2026-09-03
 ---
 
 Zum 01.09.2026 hat die DSB den Zugverkehr des Unternehmens GoCollective übernommen. Unter dem Namen "DSB Vores Tog" werden die bisherigen Strecken im Regionalverkehr weiter betrieben. [^1]

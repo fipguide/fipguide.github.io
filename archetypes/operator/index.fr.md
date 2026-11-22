@@ -7,6 +7,7 @@ country:
   - "country3"
 content_images:
   - "image.webp"
+updates: []
 ---
 
 <!-- Supprimez ce message si la page est complète -->

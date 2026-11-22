@@ -14,9 +14,9 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Nutzung der FIP-Vergünstigungen bei Scandlines und DB Regio Stuttgart aktualisiert."
+  - message: "FIP-Ermäßigungen auf Fähren nach Rødby und Gedser ausgeschlossen."
     date: 2026-09-20
-  - message: "FIP-Nutzung in Dänemark ab dem 1. September 2026 aktualisiert."
+  - message: "Ehemalige GoCollective-Strecken in Mittel- und Westjütland sowie auf Fünen seit 1. September mit FIP nutzbar."
     date: 2026-09-03
   - message: "Direktverbindung Kopenhagen–Prag mit dem RJ ergänzt."
     date: 2026-07-07

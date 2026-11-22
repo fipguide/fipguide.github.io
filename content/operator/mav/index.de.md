@@ -6,7 +6,7 @@ country:
 content_images:
   - image.webp
 updates:
-  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
     date: 2026-09-19
   - message: "MÁV hinzugefügt."
     date: 2026-07-29

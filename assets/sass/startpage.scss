@@ -144,13 +144,12 @@
   justify-content: space-between;
   gap: 0.8rem;
 
-  h3 {
+  h2 {
     margin: 2rem 0 0;
-    font-size: 2rem;
   }
 
   @media (max-width: #{$breakpoint-md}) {
-    h3 {
+    h2 {
       margin-top: 0;
     }
   }

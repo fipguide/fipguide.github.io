@@ -10,25 +10,25 @@ content_images:
 updates:
   - message: "Updated FIP Coupon validity at Jungfraubahn."
     date: 2026-11-01
-  - message: "Removed section about Sensetalbahn + minor fixes."
+  - message: "Removed the Sensetalbahn (STB) from SP’s regional-operator list."
     date: 2026-09-29
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
   - message: "Added Brienz-Rothorn-Bahn."
     date: 2026-08-19
-  - message: "Updated Jungfraubahn."
+  - message: "Clarified that FIP travel on Jungfrau Railways is for local transport, not as a ski pass when travelling with winter sports equipment."
     date: 2026-08-17
   - message: "Added inofficial information about ski in JB."
     date: 2026-06-22
   - message: "Removed MIB from SP page."
     date: 2026-05-09
-  - message: "Updated THURBO routes and cross-border information."
+  - message: "Updated THURBO routes: S5/S7 to St. Margrethen and Lindau, S36 to Waldshut; added FIP 50 and FIP validity at the border stations."
     date: 2026-04-05
-  - message: "Updated RBS."
+  - message: "Clarified RBS FIP validity: accepted on all routes except S9 and tram line 6, and on all RBS buses."
     date: 2026-03-10
   - message: "Clarified sob information."
     date: 2026-02-07
-  - message: "Improved Centovalli information."
+  - message: "Added the €1.50 panorama surcharge on selected Centovalli trains, event-specific reservation requirements, and reservation costs."
     date: 2026-02-06
   - message: "Added SP FIP information."
     date: 2025-12-15

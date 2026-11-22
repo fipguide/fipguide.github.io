@@ -7,9 +7,9 @@ content_images:
 aliases:
   - /booking/kml-ticket-office
 updates:
-  - message: "Ajout d’informations sur les bus de KMŁ."
+  - message: "Précision : les Billets FIP ne sont pas valables dans les bus exploités par KMŁ."
     date: 2026-10-02
-  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
     date: 2026-05-04
   - message: "Ajout d’informations FIP sur KMŁ."
     date: 2026-04-01

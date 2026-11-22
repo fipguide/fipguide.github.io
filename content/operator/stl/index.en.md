@@ -11,7 +11,7 @@ aliases:
   - /booking/stena-line-bv-phone
   - /booking/stena-line-bv-ticket-office
 updates:
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
   - message: "Updated Stena Line booking options."
     date: 2026-04-10

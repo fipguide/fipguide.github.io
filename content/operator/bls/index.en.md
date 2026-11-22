@@ -8,15 +8,15 @@ content_images:
 aliases:
   - /booking/bls-ticket-office
 updates:
-  - message: "Removed section about Sensetalbahn + minor fixes."
+  - message: "Made minor wording corrections to the GoldenPass Express, car-carrying trains, surcharges, and Junior Card information."
     date: 2026-09-29
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
   - message: "Added HOTNAT and AJC."
     date: 2026-07-13
   - message: "Added DB FIP Hotline."
     date: 2026-06-13
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Added BLS FIP information."
     date: 2026-02-08

@@ -9,11 +9,11 @@ aliases:
   - /booking/translink-ticket-office
   - /booking/translink-whatsapp
 updates:
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
-  - message: "Added recommendation for NIR."
+  - message: "Recommended the scenic NIR coastal route between Coleraine and Derry-Londonderry."
     date: 2026-08-23
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Added FIP 75 information in several places."
     date: 2026-04-01

@@ -10,13 +10,13 @@ aliases:
   - /booking/lner-website
   - /booking/national-rail-ticket-office
 updates:
-  - message: "Mise à jour des âges limites et des règles pour les enfants."
+  - message: "Ajout des âges limites et des règles pour les enfants."
     date: 2026-09-19
   - message: "Ajout d’informations sur l’annulation des billets en Grande-Bretagne."
     date: 2026-08-17
   - message: "Suppression du ferry gratuit du Dartmouth Steam Railway."
     date: 2026-06-19
-  - message: "Mise à jour des informations FIP sur le Dartmouth Steam Railway."
+  - message: "Suppression de l’indication selon laquelle le Dartmouth Steam Railway accorde une réduction FIP de 75 %."
     date: 2026-06-18
   - message: "Ajout des guichets de l’Elizabeth line."
     date: 2026-05-09
@@ -30,20 +30,18 @@ updates:
     date: 2026-04-01
   - message: "Ajout d’informations sur les services de première classe en Grande-Bretagne."
     date: 2026-03-23
-  - message: "Mise à jour du résumé Lumo."
+  - message: "Précision : le FIP n’est pas accepté sur certaines lignes Lumo."
     date: 2026-03-18
   - message: "Ajout de nouvelles lignes Lumo West Coast."
     date: 2026-03-15
   - message: "Précision sur l’offre de collations dans les trains Greater Anglia."
     date: 2026-03-08
-  - message: "Ajout des tarifs BR pour trouver les tarifs FIP."
+  - message: "Ajout de BR Fares pour trouver les tarifs FIP."
     date: 2026-01-25
-  - message: "Mise à jour des informations sur Londres."
+  - message: "Précisions sur les trajets FIP à Londres : Elizabeth Line, Thameslink et Heathrow Express, avec les billets à tarif réduit FIP du Heathrow Express."
     date: 2026-01-18
   - message: "Ajout de Seatfrog pour la Grande-Bretagne."
     date: 2026-01-17
-  - message: "Ajout d’une règle pratique concernant le Rover."
-    date: 2026-01-09
   - message: "Ajout d’une règle pratique concernant le Rover."
     date: 2026-01-09
   - message: "Ajout d’informations sur le Rover."

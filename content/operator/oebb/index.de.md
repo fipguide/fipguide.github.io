@@ -13,13 +13,11 @@ aliases:
   - /booking/oebb-ticket-office
   - /booking/oebb-website
 updates:
-  - message: "Unstimmigkeiten bei ÖBB-Informationen korrigiert."
+  - message: "Railjet-Klassenbeschreibung präzisiert und separate, doppelte Klassenkategorie in EN/FR entfernt."
     date: 2026-10-04
   - message: "Brennerzuschlag auf der ÖBB-Website ergänzt."
     date: 2026-10-02
-  - message: "Verbindungsabschnitt auf den englischen und französischen Seiten ergänzt."
-    date: 2026-09-20
-  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
     date: 2026-09-19
   - message: "Vienna Airport Lines in VAL-Busse umbenannt."
     date: 2026-09-05
@@ -33,7 +31,7 @@ updates:
     date: 2026-05-15
   - message: "Vorübergehende Buchungsinformationen zur ÖBB-Hotline in Deutschland ergänzt."
     date: 2026-05-12
-  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+  - message: "FIP-Gültigkeit in Bussen und Ersatzbussen klargestellt."
     date: 2026-05-04
   - message: "ÖBB-IC-Bus-Abschnitt entfernt."
     date: 2026-02-13
@@ -41,10 +39,6 @@ updates:
     date: 2026-01-10
   - message: "Informationen zum Korridorverkehr Salzburg–Kufstein ergänzt."
     date: 2026-01-07
-  - message: "Internationale Bahnreisen in Italien verbessert beschrieben."
-    date: 2025-12-28
-  - message: "Informationen zu GySEV erweitert."
-    date: 2025-08-11
 ---
 
 Die ÖBB (Österreichische Bundesbahnen) ist die nationale Eisenbahngesellschaft [Österreich](/country/austria "Österreich") und die wichtigste Bahngesellschaft des Landes. Sie betreiben einen Großteil des Personenverkehrs in Österreich.

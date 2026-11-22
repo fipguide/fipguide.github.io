@@ -10,7 +10,7 @@ aliases:
   - /booking/sncb-ticket-office
   - /booking/sncb-website
 updates:
-  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
     date: 2026-09-19
   - message: "Vorübergehende grenzüberschreitende ICE-Reservierungspflicht entfernt."
     date: 2026-09-03
@@ -36,7 +36,7 @@ updates:
     date: 2026-03-12
   - message: "Regeln für Kinder bei SNCB gemäß offizieller Richtlinie aktualisiert."
     date: 2026-03-10
-  - message: "Informationen zu NS-ICD- und ECD-Zügen aktualisiert."
+  - message: "Aufschlagregeln für Eurocity Direct aus der SNCB-Seite entfernt und auf die NS-Informationen verwiesen; Zugnetzkarte ergänzt."
     date: 2026-02-25
   - message: "Telefonische Buchung bei SNCB ergänzt."
     date: 2025-12-12

@@ -12,11 +12,6 @@ operator:
   - sncb
 content_images:
   - image.webp
-updates:
-  - message: "Suppression de la réservation de billets FIP 50 sur le site de SNCB."
-    date: 2025-11-08
-  - message: "Ajout de Billets FIP transfrontaliers de la SNCB."
-    date: 2025-01-18
 ---
 
 La compagnie nationale belge SNCB / NMBS propose désormais des billets avec réduction FIP sur son [site international](https://www.b-europe.com/FR) en plus des billets transfrontaliers classiques. Cela simplifie considérablement l’achat de billets au-delà des frontières belges. Auparavant, ces billets devaient être achetés au guichet en Belgique ou dans certains pays voisins comme l’Allemagne ou les Pays-Bas.

@@ -8,9 +8,6 @@ operator:
   - db
 content_images:
   - image.webp
-updates:
-  - message: "Ajout d’une actualité sur DB Regio Stuttgart."
-    date: 2026-10-04
 ---
 
 À partir du 1er août 2026, le réseau Neckartal, qui était autrefois exploité par DB Regio Stuttgart GmbH, a été entièrement intégré à DB Regio Bade-Wurtemberg et peut donc être utilisé avec FIP. [^1]

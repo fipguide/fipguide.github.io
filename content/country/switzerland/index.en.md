@@ -35,7 +35,7 @@ updates:
     date: 2025-10-12
   - message: "Added surcharge and reservation information for EC/ECE trains to Italy."
     date: 2025-10-09
-  - message: "Updated Liechtenstein borders."
+  - message: "Clarified border routes via St. Margrethen and Buchs SG; ÖBB FIP via Liechtenstein allows continuous journeys with SBB FIP."
     date: 2025-09-29
   - message: "Added SBB."
     date: 2025-07-13

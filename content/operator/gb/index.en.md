@@ -10,13 +10,13 @@ aliases:
   - /booking/lner-website
   - /booking/national-rail-ticket-office
 updates:
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
   - message: "Added ticket cancellation information for Great Britain."
     date: 2026-08-17
   - message: "Removed free ferry from Dartmouth Steam Railway."
     date: 2026-06-19
-  - message: "Added Dartmouth Steam Railway FIP update."
+  - message: "Removed the claim that the Dartmouth Steam Railway offers a 75% FIP discount."
     date: 2026-06-18
   - message: "Elizabeth line ticket offices."
     date: 2026-05-09
@@ -30,7 +30,7 @@ updates:
     date: 2026-04-01
   - message: "Added FIP information for first-class services in Great Britain."
     date: 2026-03-23
-  - message: "Updated summary for Lumo."
+  - message: "Clarified that FIP is not accepted on certain Lumo routes."
     date: 2026-03-18
   - message: "Added new Lumo West Coast routes."
     date: 2026-03-15
@@ -38,12 +38,10 @@ updates:
     date: 2026-03-08
   - message: "Added BR Fares to find FIP fares."
     date: 2026-01-25
-  - message: "Updated London information."
+  - message: "Clarified FIP travel on the Elizabeth Line, Thameslink, and Heathrow Express, including FIP-discounted Heathrow Express tickets."
     date: 2026-01-18
   - message: "Added seatfrog for gb."
     date: 2026-01-17
-  - message: "Added rover rule of thumb."
-    date: 2026-01-09
   - message: "Added rover rule of thumb."
     date: 2026-01-09
   - message: "Create rover details."

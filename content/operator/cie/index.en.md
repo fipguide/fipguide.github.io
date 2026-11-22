@@ -9,11 +9,11 @@ aliases:
   - /booking/irish-rail-ticket-office
   - /booking/irish-rail-website
 updates:
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
-  - message: "Updated CIE operator information."
+  - message: "Clarified that First Class passengers are escorted to available seats and may travel in First Class only when a seat is available."
     date: 2026-08-17
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Added FIP 75 information in several places."
     date: 2026-04-01

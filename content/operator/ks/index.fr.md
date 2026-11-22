@@ -10,11 +10,11 @@ aliases:
   - /booking/ks-ticket-office
   - /booking/ks-website
 updates:
-  - message: "Mise à jour des âges limites et des règles pour les enfants."
+  - message: "Ajout des âges limites et des règles pour les enfants."
     date: 2026-09-19
   - message: "Ajout de la hotline FIP de DB."
     date: 2026-06-13
-  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
     date: 2026-05-04
   - message: "Ajout d’informations sur KS."
     date: 2026-02-19

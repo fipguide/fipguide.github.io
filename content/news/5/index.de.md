@@ -10,7 +10,6 @@ operator:
   - db
 content_images:
   - image.webp
-updates:
 ---
 
 Ab dem 15. Juni 2025 bietet die Deutsche Bahn keine Familienreservierungen mehr an. Bisher war es möglich für 10,40 € in der 2. Klasse bzw. 13 € in der 1. Klasse eine Familienreservierung zu buchen, die für bis zu 5 Personen galt. Zukünftig muss eine eigene Reservierung für jeden Erwachenen und Kind erworben werden. [^1]

@@ -5,8 +5,6 @@ country:
 content_images:
   - image.webp
 updates:
-  - message: "Amélioration des informations sur la Macédoine du Nord."
-    date: 2026-10-09
   - message: "Ajout de ŽRSM."
     date: 2026-10-08
 ---

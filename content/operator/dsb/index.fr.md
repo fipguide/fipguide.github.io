@@ -10,11 +10,11 @@ aliases:
   - /booking/dsb-ticket-office
   - /booking/dsb-website
 updates:
-  - message: "Mise à jour des conditions FIP chez Scandlines et DB Regio Stuttgart."
+  - message: "Suppression de l’indication non confirmée selon laquelle les Billets FIP seraient valables sur les ferries Scandlines."
     date: 2026-09-20
-  - message: "Mise à jour des âges limites et des règles pour les enfants."
+  - message: "Ajout des âges limites et des règles pour les enfants."
     date: 2026-09-19
-  - message: "Mise à jour des conditions FIP au Danemark à partir du 1er septembre 2026."
+  - message: "Les lignes DSB Vores Tog du Jutland et de Fionie, auparavant exploitées par GoCollective, sont accessibles avec FIP depuis le 1er septembre."
     date: 2026-09-03
   - message: "Ajout du supplément à bord et des horaires du petit-déjeuner chez DSB."
     date: 2026-08-09
@@ -26,12 +26,10 @@ updates:
     date: 2026-06-13
   - message: "Mise à jour du message DSB concernant les trains régionaux."
     date: 2026-05-13
-  - message: "Harmonisation des informations sur les bus et ajout du statut FIP inconnu."
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
     date: 2026-05-04
-  - message: "Mise à jour des changements d’horaires."
+  - message: "Trains Hambourg–Copenhague reclassés de EC à ECE et précisions sur les règles de réservation."
     date: 2025-12-28
-  - message: "Informations sur GySEV complétées."
-    date: 2025-08-11
   - message: "Ajout d’informations FIP sur DSB."
     date: 2025-05-07
 ---

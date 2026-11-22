@@ -10,7 +10,6 @@ operator:
   - db
 content_images:
   - image.webp
-updates:
 ---
 
 Starting June 15, 2025, Deutsche Bahn will no longer offer family reservations. Previously, it was possible to book a family reservation for €10.40 in 2nd class or €13 in 1st class, which covered up to 5 people. In the future, a separate reservation must be purchased for each adult and child. [^1]

@@ -29,7 +29,7 @@ updates:
     date: 2026-05-13
   - message: "Informationen zu SNCF-Zügen in Deutschland ergänzt."
     date: 2026-05-12
-  - message: "Fehlende Länder ergänzt."
+  - message: "Andorra als Nachbarland ergänzt: derzeit keine Zugverbindung zwischen Frankreich und Andorra."
     date: 2026-05-12
   - message: "Renfe-Ticketpreise für 2026 aktualisiert."
     date: 2026-05-02
@@ -43,13 +43,13 @@ updates:
     date: 2025-12-29
   - message: "Kleinere Anpassungen an den SNCF-Informationen."
     date: 2025-12-27
-  - message: "Ticketkauf an der spanischen Grenze aktualisiert."
+  - message: "Renfe-AVE-Tarife ab 15 € und Verkauf an Renfe-Schaltern in Spanien ergänzt."
     date: 2025-10-30
   - message: "FIP-Informationen zu LeShuttle und den Fährverbindungen nach Großbritannien ergänzt."
     date: 2025-10-21
   - message: "Informationen eines SBB-Kollegen ergänzt."
     date: 2025-10-20
-  - message: "Grenzüberschreitende Zugverbindungen zwischen Frankreich und Spanien aktualisiert."
+  - message: "DB-Onlinebuchung für grenzüberschreitende FIP-50-Tickets und Renfe-Verbindungen nach Spanien ergänzt."
     date: 2025-10-18
   - message: "Frankreich hinzugefügt."
     date: 2025-10-12

@@ -19,6 +19,8 @@ content_images:
 updates:
   - message: "Mise à jour de la formulation sur le passage de la frontière aux Pays-Bas."
     date: 2026-10-12
+  - message: "Ajout de Bad Bentheim et Gronau (Westf.) aux points de passage ferroviaires vers l’Allemagne."
+    date: 2026-09-20
   - message: "Ajout d’informations sur le train des trois pays."
     date: 2026-08-08
   - message: "Ajout du point frontière du ferry à Hoek van Holland."
@@ -29,7 +31,7 @@ updates:
     date: 2025-12-22
   - message: "Ajout d’informations FIP sur le ferry entre Hoek van Holland et Harwich."
     date: 2025-12-22
-  - message: "Mise à jour des informations sur l’IC Amsterdam."
+  - message: "Ajout des liaisons ICE d’Amsterdam vers Hanovre et Berlin."
     date: 2025-12-21
   - message: "Ajout de points frontières sur la page pays."
     date: 2025-05-30

@@ -35,7 +35,7 @@ updates:
     date: 2025-10-12
   - message: "Ajout d’informations sur les suppléments et réservations des trains EC/ECE vers l’Italie."
     date: 2025-10-09
-  - message: "Mise à jour des points frontières au Liechtenstein."
+  - message: "Précisions sur les passages via St. Margrethen et Buchs SG ; le FIP ÖBB via le Liechtenstein permet un trajet continu avec le FIP CFF."
     date: 2025-09-29
   - message: "Ajout des CFF."
     date: 2025-07-13

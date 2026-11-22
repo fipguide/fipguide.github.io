@@ -8,9 +8,6 @@ Operator:
   - dsb
 content_images:
   - image.webp
-updates:
-  - message: "Updates on FIP usage in Denmark starting 1 september 2026."
-    date: 2026-09-03
 ---
 
 As of September 1, 2026, DSB has taken over the train services of GoCollective. The existing regional routes will continue to operate under the name "DSB Vores Tog". [^1]

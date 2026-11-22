@@ -7,7 +7,7 @@ content_images:
   - image.webp
   - image2.webp
 updates:
-  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
     date: 2026-09-19
   - message: "SŽ hinzugefügt."
     date: 2026-07-11

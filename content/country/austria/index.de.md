@@ -27,23 +27,17 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Grenzverbindungen mit Slowenien aktualisiert."
+  - message: "Grenzverbindungen aus Slowenien präzisiert: Züge über Jesenice nach Villach sowie Verbindungen Maribor–Graz und Bleiburg–Maribor; FIP beider Bahnen oder durchgängiges FIP 50 erforderlich."
     date: 2026-07-11
   - message: "Schneebergbahn entfernt."
     date: 2026-05-15
-  - message: "Informationen zu DB Regio Mobidig aktualisiert."
-    date: 2026-05-12
-  - message: "Aussenfern Railway hinzugefügt."
+  - message: "Informationen zur Außenfernbahn ergänzt."
     date: 2026-01-17
-  - message: "Internationale Bahnreisen in Italien verbessert beschrieben."
+  - message: "Zwei Regionalzugverbindungen Wien–Bratislava über Marchegg und Kittsee ergänzt; für den slowakischen Abschnitt ist jeweils ein FIP 50 Ticket erforderlich."
     date: 2025-12-28
-  - message: "Fahrplanänderungen aktualisiert."
-    date: 2025-12-28
-  - message: "FIP-Informationen zu EC- und RJ-Zügen zwischen Österreich und Italien aktualisiert."
-    date: 2025-10-09
-  - message: "Grenzpunkte in Liechtenstein aktualisiert."
+  - message: "Grenzverbindungen über Buchs SG/Feldkirch und FIP-Gültigkeit in Liechtenstein präzisiert: ÖBB-FIP gilt in Zügen, nicht in Bussen."
     date: 2025-09-29
-  - message: "Informationen zu GySEV erweitert."
+  - message: "Liste der Betreiber ohne FIP aktualisiert: CAT und Wiener Lokalbahn ergänzt, Salzburger Lokalbahn entfernt."
     date: 2025-08-11
   - message: "SBB hinzugefügt."
     date: 2025-07-13

@@ -11,7 +11,7 @@ aliases:
 updates:
   - message: "Added ICD off-peak supplement usage with debit or credit card."
     date: 2026-10-31
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
   - message: "Removed temporary cross-border ICE reservations."
     date: 2026-09-03
@@ -29,11 +29,11 @@ updates:
     date: 2026-04-25
   - message: "Added discounts for NS."
     date: 2026-03-11
-  - message: "Updated NS information about ICD and ECD trains."
+  - message: "Updated the domestic ECD/ICD supplement to €3.20, exempted international FIP 50 Tickets, and added the reduced OV-chipkaart supplement."
     date: 2026-02-25
   - message: "Added ns phone booking options."
     date: 2026-02-08
-  - message: "Updated amsterdam IC."
+  - message: "Reclassified the Amsterdam–Berlin IC as ICE 3neo and added the FIP 50 supplement for the Dutch section."
     date: 2025-12-21
   - message: "Removed FIP 50 ticket booking from SNCB website."
     date: 2025-11-08

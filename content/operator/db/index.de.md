@@ -17,15 +17,13 @@ updates:
     date: 2026-10-22
   - message: "Wangerooge–Harlesiel als Zugkategorie bei DB ergänzt."
     date: 2026-10-15
-  - message: "Informationen zu übergreifenden Verkehrsverbünden aktualisiert."
+  - message: "FIP 50 Tickets in länderübergreifenden Verkehrsverbünden in Baden-Württemberg, Niedersachsen und Nordrhein-Westfalen ergänzt; FIP-Gültigkeit bei DB Regio Bayern präzisiert."
     date: 2026-10-14
   - message: "MEX als Zugkategorie hinzugefügt."
     date: 2026-10-09
-  - message: "Nutzung der FIP-Vergünstigungen bei Scandlines und DB Regio Stuttgart aktualisiert."
+  - message: "Sommerreservierung für Dänemark ergänzt; DB Regio Stuttgart nach Integration entfernt und TGV-, ECE- sowie ICE-Bordrestaurant/Portal-Informationen präzisiert."
     date: 2026-09-20
-  - message: "Verbindungsabschnitt auf den englischen und französischen Seiten ergänzt."
-    date: 2026-09-20
-  - message: "Altersgrenzen und Regeln für Kinder aktualisiert."
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
     date: 2026-09-19
   - message: "Vorübergehende grenzüberschreitende ICE-Reservierungspflicht entfernt."
     date: 2026-09-03
@@ -33,7 +31,7 @@ updates:
     date: 2026-08-17
   - message: "HBX hinzugefügt."
     date: 2026-08-17
-  - message: "Informationen zu Regionalverkehre Start GmbH aktualisiert."
+  - message: "FIP-Vergünstigungen auf den Strecken der Regionalverkehre Start seit der Eingliederung in DB Regio am 1. August 2026 ergänzt."
     date: 2026-08-01
   - message: "HOTNAT und AJC ergänzt."
     date: 2026-07-13
@@ -45,21 +43,19 @@ updates:
     date: 2026-05-23
   - message: "Vorübergehende Buchungsinformationen zur ÖBB-Hotline in Deutschland ergänzt."
     date: 2026-05-12
-  - message: "Informationen zu DB Regio Mobidig aktualisiert."
+  - message: "Strecken ohne FIP bei DB Regio Stuttgart und DB Regio Bayern (agilis zwischen Nürnberg und Regensburg) ergänzt."
     date: 2026-05-12
   - message: "ÖBB-Reservierungspreis in Deutschland aktualisiert."
     date: 2026-05-09
   - message: "Kostenlose Mitfahrt für Kinder bei DB präzisiert."
     date: 2026-05-04
-  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+  - message: "FIP-Gültigkeit in Bussen und Ersatzbussen klargestellt."
     date: 2026-05-04
   - message: "Vorübergehende Reservierungspflicht in ICE-Zügen ergänzt."
     date: 2026-04-25
   - message: "DB-Buchungsmöglichkeiten eingeschränkt."
     date: 2026-02-19
-  - message: "Internationale Bahnreisen in Italien verbessert beschrieben."
-    date: 2025-12-28
-  - message: "Fahrplanänderungen aktualisiert."
+  - message: "ECE-Reservierungspflicht in der Hochsaison auf Dänemark-Verbindungen ergänzt."
     date: 2025-12-28
   - message: "DB hinzugefügt."
     date: 2025-12-19

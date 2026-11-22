@@ -11,10 +11,8 @@ params:
 content_images:
   - image.webp
 updates:
-  - message: "Ajout des pays manquants."
+  - message: "Ajout de la Macédoine du Nord comme pays voisin ; il n’existe actuellement aucune liaison ferroviaire avec la Bulgarie."
     date: 2026-05-12
-  - message: "Mise à jour des informations sur les points frontières avec la Grèce."
-    date: 2026-03-22
   - message: "Correction des informations sur la Bulgarie."
     date: 2025-10-09
   - message: "Ajout de la Bulgarie."

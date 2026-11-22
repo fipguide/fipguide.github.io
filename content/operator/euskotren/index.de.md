@@ -7,7 +7,7 @@ content_images:
 aliases:
   - /booking/euskotren-ticket-office
 updates:
-  - message: "Businformationen vereinheitlicht und unbekannten FIP-Status ergänzt."
+  - message: "FIP-Gültigkeit in Bussen und Ersatzbussen klargestellt."
     date: 2026-05-04
   - message: "Reisebericht von Zugpost hinzugefügt."
     date: 2026-05-02

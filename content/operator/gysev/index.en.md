@@ -11,17 +11,15 @@ aliases:
   - /booking/mav-ticket-office
   - /booking/mav-website
 updates:
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
   - message: "Added HOTNAT and AJC."
     date: 2026-07-13
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
-  - message: "Updated gysev booking information."
+  - message: "Added MÁV website, ticket offices, and ticket machines as GySEV booking options."
     date: 2025-12-14
-  - message: "Added gysev source."
-    date: 2025-08-11
-  - message: "Extend gysev information."
+  - message: "Added GySEV IC details for Sopron–Budapest, reservations, and booking options."
     date: 2025-08-11
   - message: "Added FIP information for GySEV in Austria."
     date: 2025-07-10

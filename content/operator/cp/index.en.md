@@ -8,11 +8,11 @@ content_images:
 aliases:
   - /booking/cp-ticket-office
 updates:
-  - message: "Updated CP operator information."
+  - message: "Clarified onboard ticket purchase when no CP ticket office is available, for example on the Badajoz–Entroncamento route."
     date: 2026-11-15
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Added Zugpost travel reports for the railway."
     date: 2026-05-02

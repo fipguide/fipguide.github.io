@@ -29,7 +29,7 @@ updates:
     date: 2026-05-13
   - message: "Ajout d’informations sur les trains SNCF en Allemagne."
     date: 2026-05-12
-  - message: "Ajout des pays manquants."
+  - message: "Ajout de l’Andorre comme pays voisin ; il n’existe actuellement aucune liaison ferroviaire entre la France et l’Andorre."
     date: 2026-05-12
   - message: "Mise à jour des tarifs Renfe pour 2026."
     date: 2026-05-02
@@ -43,13 +43,13 @@ updates:
     date: 2025-12-29
   - message: "Petites modifications des informations SNCF."
     date: 2025-12-27
-  - message: "Mise à jour des modalités d’achat des billets à la frontière espagnole."
+  - message: "Ajout de Tarifs Globaux FIP Renfe AVE à partir de 15 €, disponibles aux guichets en Espagne."
     date: 2025-10-30
   - message: "Ajout d’informations FIP sur LeShuttle et les liaisons par ferry vers la Grande-Bretagne."
     date: 2025-10-21
   - message: "Ajout d’informations communiquées par un collègue des CFF."
     date: 2025-10-20
-  - message: "Mise à jour des informations sur les trains transfrontaliers entre la France et l’Espagne."
+  - message: "Ajout de la réservation en ligne DB des Billets FIP 50 transfrontaliers et mise à jour des liaisons Renfe vers l’Espagne."
     date: 2025-10-18
   - message: "Ajout de la France."
     date: 2025-10-12

@@ -17,13 +17,13 @@ updates:
     date: 2026-10-22
   - message: "Added the Wangerooge–Harlesiel ferry train category to DB."
     date: 2026-10-15
-  - message: "Updated information on integrated public transport networks."
+  - message: "Added that FIP 50 Tickets are unavailable on cross-association tariffs in Baden-Württemberg, Lower Saxony, and North Rhine-Westphalia; clarified FIP validity on other DB Regio Bayern routes."
     date: 2026-10-14
   - message: "Added MEX as a train category."
     date: 2026-10-09
-  - message: "Updated FIP travel conditions for Scandlines and DB Regio Stuttgart."
+  - message: "Added summer reservation guidance for Denmark; removed the DB Regio Stuttgart entry after integration and clarified TGV/ECE and ICE onboard dining/Portal information."
     date: 2026-09-20
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
   - message: "Removed temporary cross-border ICE reservations."
     date: 2026-09-03
@@ -31,7 +31,7 @@ updates:
     date: 2026-08-17
   - message: "Added HBX."
     date: 2026-08-17
-  - message: "Updated Regionalverkehre Start GmbH."
+  - message: "Clarified that FIP discounts apply on Regionalverkehre Start routes since its integration into DB Regio on 1 August 2026."
     date: 2026-08-01
   - message: "Added HOTNAT and AJC."
     date: 2026-07-13
@@ -43,21 +43,19 @@ updates:
     date: 2026-05-23
   - message: "Added temporary booking information for ÖBB Hotline in Germany."
     date: 2026-05-12
-  - message: "Updated DB Regio Mobidig information."
+  - message: "Added routes without FIP discounts for DB Regio Stuttgart and DB Regio Bayern (agilis between Nuremberg and Regensburg)."
     date: 2026-05-12
   - message: "Updated ÖBB Reservation Price in Germany."
     date: 2026-05-09
   - message: "Clarified free children option for DB."
     date: 2026-05-04
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Added temporarily required reservation in ICE-trains."
     date: 2026-04-25
   - message: "Restrict DB booking options."
     date: 2026-02-19
-  - message: "Updated information on international rail journeys in Italy."
-    date: 2025-12-28
-  - message: "Content update timetable change."
+  - message: "Added the summer reservation requirement for ECE services to Denmark."
     date: 2025-12-28
   - message: "DB added."
     date: 2025-12-19

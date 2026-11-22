@@ -11,7 +11,7 @@ aliases:
   - /booking/pkp-website
   - /booking/koleo-website
 updates:
-  - message: "Updated age limits and rules for children."
+  - message: "Added age limits and rules for children."
     date: 2026-09-19
   - message: "Added HOTNAT and AJC."
     date: 2026-07-13
@@ -19,7 +19,7 @@ updates:
     date: 2026-06-18
   - message: "Added DB FIP Hotline."
     date: 2026-06-13
-  - message: "Standardized bus handling and add unknown FIP acceptance status."
+  - message: "Clarified FIP validity on buses and rail replacement services."
     date: 2026-05-04
   - message: "Updated ČD FIP validity."
     date: 2026-03-10
