@@ -5,6 +5,11 @@ country:
   - hungary
 content_images:
   - image.webp
+updates:
+  - message: "Added age limits and rules for children."
+    date: 2026-09-19
+  - message: "MÁV added."
+    date: 2026-07-29
 ---
 
 MÁV (Magyar Államvasutak, Hungarian State Railways) is the main railway company in [Hungary](/country/hungary) and operates the majority of long-distance and regional traffic.

@@ -16,6 +16,29 @@ params:
     - nl-gb-stl
 content_images:
   - image.webp
+updates:
+  - message: "Mise à jour de la formulation sur le passage de la frontière aux Pays-Bas."
+    date: 2026-10-12
+  - message: "Ajout de Bad Bentheim et Gronau (Westf.) aux points de passage ferroviaires vers l’Allemagne."
+    date: 2026-09-20
+  - message: "Ajout d’informations sur le train des trois pays."
+    date: 2026-08-08
+  - message: "Ajout du point frontière du ferry à Hoek van Holland."
+    date: 2026-03-12
+  - message: "Ajout de la liaison par ferry FIP entre Hoek van Holland et Harwich."
+    date: 2026-02-25
+  - message: "Ajout de nouveaux opérateurs sans FIP."
+    date: 2025-12-22
+  - message: "Ajout d’informations FIP sur le ferry entre Hoek van Holland et Harwich."
+    date: 2025-12-22
+  - message: "Ajout des liaisons ICE d’Amsterdam vers Hanovre et Berlin."
+    date: 2025-12-21
+  - message: "Ajout de points frontières sur la page pays."
+    date: 2025-05-30
+  - message: "Ajout d’informations FIP pour les Pays-Bas."
+    date: 2025-05-28
+  - message: "Ajout de Pays-Bas."
+    date: 2025-03-23
 ---
 
 ## Informations FIP

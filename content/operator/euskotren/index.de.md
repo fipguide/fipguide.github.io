@@ -6,6 +6,13 @@ content_images:
   - image.webp
 aliases:
   - /booking/euskotren-ticket-office
+updates:
+  - message: "FIP-Gültigkeit in Bussen und Ersatzbussen klargestellt."
+    date: 2026-05-04
+  - message: "Reisebericht von Zugpost hinzugefügt."
+    date: 2026-05-02
+  - message: "FIP-Informationen zu Euskotren hinzugefügt."
+    date: 2025-09-02
 ---
 
 Im Norden [Spaniens](/country/spain "Spaniens") betreibt Euskotren ein Netz der baskischen Eisenbahn, das die malerischen Küstenorte und das gebirgige Hinterland zwischen der französischen Grenze bei Hendaye und der Metropole Bilbao verbindet. Euskotren gehört der baskische Regionalregierung.

@@ -14,6 +14,9 @@ params:
       in the direction of Ancona)"
 content_images:
   - image.webp
+updates:
+  - message: "Greece added."
+    date: 2026-03-22
 ---
 
 ## FIP Information

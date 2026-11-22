@@ -9,6 +9,15 @@ content_images:
   - image.webp
 aliases:
   - /booking/bsb-ticket-office
+updates:
+  - message: "Added age limits and rules for children."
+    date: 2026-09-19
+  - message: "Clarified FIP validity on buses and rail replacement services."
+    date: 2026-05-04
+  - message: "Added FIP conditions from the Bodensee-Personentarif (BP)."
+    date: 2026-04-25
+  - message: "BSB added."
+    date: 2025-12-19
 ---
 
 BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) operate the ferries on Lake Constance between [Germany](/country/germany "Germany"), [Austria](/country/austria "Austria"), and [Switzerland](/country/switzerland "Switzerland").

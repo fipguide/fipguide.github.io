@@ -8,6 +8,41 @@ content_images:
   - image.webp
 aliases:
   - /booking/renfe-ticket-office
+updates:
+  - message: "Added restrictions on ticket booking with Renfe."
+    date: 2026-11-02
+  - message: "Adopt ave international hint."
+    date: 2026-10-04
+  - message: "Added age limits and rules for children."
+    date: 2026-09-19
+  - message: "Clarified Cercanías ticket-gate access and options at unstaffed stations."
+    date: 2026-09-03
+  - message: "Added HOTNAT and AJC."
+    date: 2026-07-13
+  - message: "Removed Renfe Bono Gratuit."
+    date: 2026-06-27
+  - message: "Clarified FIP validity on buses and rail replacement services."
+    date: 2026-05-04
+  - message: "Added Zugpost travel reports for the railway."
+    date: 2026-05-02
+  - message: "Updated Renfe ticket prices for 2026."
+    date: 2026-05-02
+  - message: "Corrected Renfe FIP issuer information."
+    date: 2026-04-05
+  - message: "Added Barcelona Cercanías ticket gate info to Renfe page."
+    date: 2026-04-05
+  - message: "Added onboard sales of international AVE tickets when boarding in France."
+    date: 2025-10-30
+  - message: "Added information for FEVE."
+    date: 2025-10-19
+  - message: "Added FIP validity for Renfe’s FEVE narrow-gauge network."
+    date: 2025-10-18
+  - message: "Added information about international AVE."
+    date: 2025-07-13
+  - message: "Clarified Renfe class options."
+    date: 2025-05-28
+  - message: "Renfe added."
+    date: 2025-05-26
 ---
 
 Renfe Operadora is the state-owned railroad company in [Spain](/country/spain "Spain"). It operates comfortable high-speed trains, various regional trains and suburban trains.

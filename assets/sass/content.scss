@@ -6,8 +6,53 @@
   flex-wrap: wrap;
 }
 
+button.o-last-updated {
+  border: 0;
+  background: transparent;
+  color: var(--link-default);
+  font: inherit;
+  font-size: 1.3rem;
+  padding: 0;
+  margin-left: auto;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+
+  &:hover,
+  &:focus {
+    color: var(--link-hovered);
+  }
+}
+
+.o-update-history-dialog {
+  display: contents;
+}
+
 .o-last-updated > .a-icon {
   font-size: 1.5rem;
+}
+
+.o-update-history {
+  list-style: none;
+  padding: 0;
+
+  li {
+    border-bottom: var(--border);
+    border-color: var(--color-table-border);
+    padding: 1rem 0;
+
+    &:last-child {
+      border-bottom: 0;
+    }
+  }
+
+  time {
+    font-weight: 700;
+  }
+
+  p {
+    margin: 0.5rem 0 0;
+  }
 }
 
 code {

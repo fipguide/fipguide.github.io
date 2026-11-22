@@ -10,6 +10,13 @@ params:
     - lt-ru
 content_images:
   - image.webp
+updates:
+  - message: "Informationen zu grenzüberschreitenden Tickets zwischen Polen und Litauen ergänzt."
+    date: 2026-10-04
+  - message: "Informationen zu Litauen, LTG Link und Lettland überprüft und angepasst."
+    date: 2026-01-09
+  - message: "Litauen hinzugefügt."
+    date: 2025-12-28
 ---
 
 ## FIP Nutzung

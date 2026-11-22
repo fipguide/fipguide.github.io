@@ -10,6 +10,55 @@ aliases:
   - /booking/db-website
   - /booking/db-website-fip-db
   - /booking/db-website-fip-international
+updates:
+  - message: "Ajout d’informations sur la réservation via SNCF Connect."
+    date: 2026-10-22
+  - message: "Mise à jour des tarifs des voyages transfrontaliers réservés par téléphone auprès d’ÖBB."
+    date: 2026-10-22
+  - message: "Ajout de la catégorie de train Wangerooge–Harlesiel chez DB."
+    date: 2026-10-15
+  - message: "Précisions : les Billets FIP 50 ne sont pas disponibles sur les tarifs inter-réseaux du Bade-Wurtemberg, de Basse-Saxe et de Rhénanie-du-Nord-Westphalie ; validité FIP précisée sur les autres lignes DB Regio Bayern."
+    date: 2026-10-14
+  - message: "Ajout de MEX comme catégorie de train."
+    date: 2026-10-09
+  - message: "Ajout des réservations estivales vers le Danemark ; retrait de DB Regio Stuttgart après son intégration et précisions sur les TGV/ECE, la restauration à bord des ICE et l’ICE Portal."
+    date: 2026-09-20
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Suppression de l’obligation temporaire de réservation pour les ICE transfrontaliers."
+    date: 2026-09-03
+  - message: "Ajout d’informations sur l’annulation des billets FIP 50 et des réservations DB."
+    date: 2026-08-17
+  - message: "Ajout de HBX."
+    date: 2026-08-17
+  - message: "Précision : les réductions FIP sont valables sur les lignes de Regionalverkehre Start depuis son intégration à DB Regio le 1er août 2026."
+    date: 2026-08-01
+  - message: "Ajout de HOTNAT et d’AJC."
+    date: 2026-07-13
+  - message: "Ajout de la liaison directe Copenhague–Prague en RJ."
+    date: 2026-07-07
+  - message: "Ajout d’informations sur les réductions FIP pour la S-Bahn Mitteldeutschland (S5/X)."
+    date: 2026-06-03
+  - message: "Ajout d’informations sur les services Nightjet utilisant des voitures Intercity."
+    date: 2026-05-23
+  - message: "Ajout d’informations temporaires sur la réservation par la hotline ÖBB en Allemagne."
+    date: 2026-05-12
+  - message: "Ajout des lignes sans réductions FIP de DB Regio Stuttgart et DB Regio Bayern (agilis entre Nuremberg et Regensburg)."
+    date: 2026-05-12
+  - message: "Mise à jour du tarif de réservation ÖBB en Allemagne."
+    date: 2026-05-09
+  - message: "Précision sur la gratuité pour les enfants chez DB."
+    date: 2026-05-04
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
+    date: 2026-05-04
+  - message: "Ajout d’une obligation temporaire de réservation dans les trains ICE."
+    date: 2026-04-25
+  - message: "Restriction des options de réservation DB."
+    date: 2026-02-19
+  - message: "Ajout de l’obligation de réservation en été sur les trains ECE vers le Danemark."
+    date: 2025-12-28
+  - message: "Ajout de DB."
+    date: 2025-12-19
 ---
 
 La Deutsche Bahn (DB) est la plus grande entreprise ferroviaire d’[Allemagne](/country/germany "Allemagne") et exploite la majorité du trafic longue distance ainsi que de nombreuses liaisons régionales.

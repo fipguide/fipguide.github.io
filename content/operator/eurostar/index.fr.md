@@ -16,6 +16,53 @@ aliases:
   - /booking/ffestiniogtravel-phone
   - /booking/internationalrail-email
   - /booking/railtourguide-website
+updates:
+  - message: "Ajout d’informations sur la réservation via SNCF Connect."
+    date: 2026-10-22
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Suppression de Traivelling."
+    date: 2026-08-21
+  - message: "Ajout d’informations sur le contrôle des cartes FIP par Eurostar."
+    date: 2026-08-14
+  - message: "Mise à jour des conditions d’annulation Eurostar."
+    date: 2026-08-14
+  - message: "Ajout d’informations sur traivelling.com."
+    date: 2026-07-24
+  - message: "Ajout de HOTNAT et d’AJC."
+    date: 2026-07-13
+  - message: "Ajout des tarifs Eurostar en GBP."
+    date: 2026-06-27
+  - message: "Mise à jour des règles pour les enfants chez Eurostar."
+    date: 2026-06-22
+  - message: "Ajout de RailTourGuide et de Ffestiniog comme options de réservation."
+    date: 2026-04-23
+  - message: "Ajout de la prise en charge du FIP 75 à plusieurs endroits."
+    date: 2026-04-01
+  - message: "Ajout des conditions d’annulation et de modification pour Eurostar."
+    date: 2026-03-15
+  - message: "Ajout des options de réservation par téléphone auprès de NS."
+    date: 2026-02-08
+  - message: "Ajout des informations sur la première classe au guichet CFL."
+    date: 2026-01-21
+  - message: "Ajout de Traivelling."
+    date: 2026-01-09
+  - message: "Ajout des tarifs Eurostar manquants."
+    date: 2026-01-03
+  - message: "Exclusion du Billet FIP 50 pour la réservation par e-mail auprès d’International Rail."
+    date: 2025-10-21
+  - message: "Précision : la hotline ne permet pas de réserver des Billets FIP Eurostar Blue vers ou depuis Londres ; ajout des guichets Eurostar comme canal de réservation."
+    date: 2025-09-30
+  - message: "Résolution d’un problème de réservation Eurostar."
+    date: 2025-07-08
+  - message: "Ajout d’informations sur les liaisons internationales au départ de Londres."
+    date: 2025-07-04
+  - message: "Mise à jour des tarifs Eurostar."
+    date: 2025-06-17
+  - message: "Augmentation des tarifs Eurostar."
+    date: 2025-05-21
+  - message: "Ajout de Eurostar."
+    date: 2025-01-18
 ---
 
 Eurostar est un opérateur de trains à grande vitesse en Europe de l’Ouest. À l’origine, seuls les trains bleus entre Londres et Paris/Bruxelles/Amsterdam via l’Eurotunnel étaient désignés comme Eurostar. Depuis la fusion entre Thalys et Eurostar, les anciens trains rouges Thalys sont désormais appelés Eurostar (Rouge). Eurostar circule en [Allemagne](/country/germany "Allemagne"), [France](/country/france "France"), au [Royaume-Uni](/country/united-kingdom "Royaume-Uni"), en [Belgique](/country/belgium "Belgique") et aux [Pays-Bas](/country/netherlands "Pays-Bas").

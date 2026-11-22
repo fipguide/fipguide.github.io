@@ -5,6 +5,13 @@ country:
   - serbia
 content_images:
   - image.webp
+updates:
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout de la validité du Balkan Flexipass sur le réseau ferroviaire serbe."
+    date: 2026-08-30
+  - message: "Ajout de SV."
+    date: 2026-06-29
 ---
 
 Srbija Voz (Србија Воз) est la compagnie ferroviaire nationale de Serbie et exploite la majeure partie du trafic voyageurs dans le pays.

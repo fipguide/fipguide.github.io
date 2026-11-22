@@ -9,6 +9,45 @@ aliases:
   - /booking/caledonian-sleeper-website
   - /booking/lner-website
   - /booking/national-rail-ticket-office
+updates:
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
+    date: 2026-09-19
+  - message: "Stornierungsregeln für Fahrkarten in Großbritannien ergänzt."
+    date: 2026-08-17
+  - message: "Kostenlose Fährverbindung bei Dartmouth Steam Railway entfernt."
+    date: 2026-06-19
+  - message: "Angabe eines 75-prozentigen FIP-Rabatts bei der Dartmouth Steam Railway entfernt."
+    date: 2026-06-18
+  - message: "Ticketbüros der Elizabeth line ergänzt."
+    date: 2026-05-09
+  - message: "FIP-Anerkennung der Lumo-West-Coast-Strecke ergänzt."
+    date: 2026-05-02
+  - message: "Name der Londoner Seilbahn aktualisiert."
+    date: 2026-05-02
+  - message: "Dartmouth Steam Railway als nicht FIP-gültig gekennzeichnet."
+    date: 2026-04-26
+  - message: "FIP-75-Unterstützung an verschiedenen Stellen ergänzt."
+    date: 2026-04-01
+  - message: "Informationen zu Verbindungen erster Klasse in Großbritannien ergänzt."
+    date: 2026-03-23
+  - message: "FIP-Gültigkeit bei Lumo auf bestimmte Strecken eingeschränkt."
+    date: 2026-03-18
+  - message: "Neue Lumo-West-Coast-Strecken ergänzt."
+    date: 2026-03-15
+  - message: "Snack-Angebot in den Zügen von Greater Anglia präzisiert."
+    date: 2026-03-08
+  - message: "BR-Fares zur Ermittlung von FIP-Tarifen ergänzt."
+    date: 2026-01-25
+  - message: "FIP-Nutzung in London präzisiert: Elizabeth Line, Thameslink und Heathrow Express sowie FIP-Ermäßigungen beim Heathrow Express ergänzt."
+    date: 2026-01-18
+  - message: "Seatfrog für Großbritannien hinzugefügt."
+    date: 2026-01-17
+  - message: "Faustregel zum Rover-Ticket ergänzt."
+    date: 2026-01-09
+  - message: "Rover-Informationen ergänzt."
+    date: 2025-12-22
+  - message: "National Rail hinzugefügt."
+    date: 2025-10-21
 ---
 
 In [Großbritannien](/country/united-kingdom "Großbritannien") gibt es viele verschiedene Eisenbahngesellschaften, die als _National Rail_ zusammengefasst werden. Jedes Bahnunternehmen betreibt dabei seine eigenen Strecken. Die meisten Betreiber fokussieren sich dabei jedoch auf eine Region des Landes.

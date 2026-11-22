@@ -6,6 +6,9 @@ params:
     - ba-rs
 content_images:
   - image.webp
+updates:
+  - message: "Bosnien und Herzegowina hinzugefügt."
+    date: 2026-08-30
 ---
 
 ## FIP Nutzung

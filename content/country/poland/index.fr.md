@@ -18,6 +18,27 @@ params:
     - de-pl
 content_images:
   - image.webp
+updates:
+  - message: "Précision sur les services KD au point frontière de Forst (Gr)."
+    date: 2026-11-02
+  - message: "Ajout d’informations sur les billets transfrontaliers entre la Pologne et la Lituanie."
+    date: 2026-10-04
+  - message: "Ajout de WKD."
+    date: 2026-05-09
+  - message: "Ajout de KMŁ à la liste des opérateurs FIP en Pologne."
+    date: 2026-04-01
+  - message: "Ajout de KW et ŁKA à la liste des opérateurs FIP."
+    date: 2026-02-25
+  - message: "Vérification et mise à jour des informations sur la Lituanie, LTG Link et la Lettonie."
+    date: 2026-01-09
+  - message: "Ajout des liaisons EC via Horka vers Przemyśl et des liaisons transfrontalières saisonnières vers la Slovaquie."
+    date: 2025-12-30
+  - message: "Mise à jour des liaisons FIP entre la Pologne et la Lituanie."
+    date: 2025-12-28
+  - message: "Ajout de nouveaux opérateurs sans FIP."
+    date: 2025-12-22
+  - message: "Ajout de la Pologne."
+    date: 2025-08-25
 ---
 
 ## Informations FIP

@@ -7,6 +7,11 @@ params:
     - lu-fr
 content_images:
   - image.webp
+updates:
+  - message: "Mise à jour des points frontières au Luxembourg."
+    date: 2026-05-13
+  - message: "Ajout du Luxembourg."
+    date: 2025-12-15
 ---
 
 ## Informations FIP

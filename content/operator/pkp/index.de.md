@@ -10,6 +10,25 @@ aliases:
   - /booking/pkp-ticket-office
   - /booking/pkp-website
   - /booking/koleo-website
+updates:
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
+    date: 2026-09-19
+  - message: "HOTNAT und AJC ergänzt."
+    date: 2026-07-13
+  - message: "PKP-ICN als Zugkategorie hinzugefügt."
+    date: 2026-06-18
+  - message: "DB-FIP-Hotline ergänzt."
+    date: 2026-06-13
+  - message: "FIP-Gültigkeit in Bussen und Ersatzbussen klargestellt."
+    date: 2026-05-04
+  - message: "FIP-Gültigkeit bei ČD aktualisiert."
+    date: 2026-03-10
+  - message: "Polregio-InterRegiozüge und Touristenticket ergänzt."
+    date: 2026-02-25
+  - message: "Informationen zu KS ergänzt."
+    date: 2026-02-19
+  - message: "PKP hinzugefügt."
+    date: 2025-08-25
 ---
 
 Die polnische Staatsbahn PKP (Polskie Koleje Państwowe) betreibt mit ihren Tochtergesellschaften PKP Intercity und Polregio einen Großteil des Schienenpersonenverkehrs in [Polen](/country/poland "Polen").

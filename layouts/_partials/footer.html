@@ -43,6 +43,13 @@
       "Text" $privacyPage.Title
       )
     -}}
+    {{ $smallChangesPage := site.GetPage "general/small-changes" }}
+    {{- partial "link"
+      (dict
+      "Destination" $smallChangesPage.RelPermalink
+      "Text" $smallChangesPage.Title
+      )
+    -}}
     {{- partial "link"
       (dict
       "Destination" "https://www.paypal.com/pool/9u7U7JrSZC"

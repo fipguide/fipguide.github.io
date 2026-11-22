@@ -16,6 +16,29 @@ params:
     - nl-gb-stl
 content_images:
   - image.webp
+updates:
+  - message: "Netherlands border wording."
+    date: 2026-10-12
+  - message: "Added Bad Bentheim and Gronau (Westf.) as rail border crossings to Germany."
+    date: 2026-09-20
+  - message: "Added information about the three-country train (DE/BE/NL)."
+    date: 2026-08-08
+  - message: "Added the Hoek van Holland ferry border point."
+    date: 2026-03-12
+  - message: "Added the FIP ferry connection between Hoek van Holland and Harwich."
+    date: 2026-02-25
+  - message: "Added new operators that do not accept FIP."
+    date: 2025-12-22
+  - message: "Added FIP ferry information for Hoek van Holland–Harwich."
+    date: 2025-12-22
+  - message: "Added ICE connections from Amsterdam to Hanover and Berlin."
+    date: 2025-12-21
+  - message: "Border Points on country page."
+    date: 2025-05-30
+  - message: "Added FIP information for the Netherlands."
+    date: 2025-05-28
+  - message: "Netherlands added."
+    date: 2025-03-23
 ---
 
 ## FIP Information

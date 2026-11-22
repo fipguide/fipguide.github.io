@@ -16,6 +16,15 @@ params:
     - cz-de
 content_images:
   - image.webp
+updates:
+  - message: "Updated rules for Germany-Czechia border."
+    date: 2026-10-12
+  - message: "Added AŽD as operator without FIP."
+    date: 2026-06-13
+  - message: "Updated FIP validity via Lichkov: Leo Express operates the Czech section, where FIP is not accepted."
+    date: 2025-11-20
+  - message: "Czechia added."
+    date: 2025-09-20
 ---
 
 ## FIP Information

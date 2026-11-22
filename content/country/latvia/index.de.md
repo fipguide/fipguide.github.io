@@ -10,6 +10,11 @@ params:
     - lv-lt
 content_images:
   - image.webp
+updates:
+  - message: "Informationen zu Litauen, LTG Link und Lettland überprüft und angepasst."
+    date: 2026-01-09
+  - message: "Lettland hinzugefügt."
+    date: 2025-12-28
 ---
 
 ## FIP Nutzung

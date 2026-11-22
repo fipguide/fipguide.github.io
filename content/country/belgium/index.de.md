@@ -11,6 +11,23 @@ params:
     - be-fr
 content_images:
   - image.webp
+updates:
+  - message: "Informationen zum Drei-Länder-Zug ergänzt."
+    date: 2026-08-08
+  - message: "Fahrkartenautomat als Buchungsoption bei SNCB ergänzt."
+    date: 2026-06-03
+  - message: "Grenzpunkte in Luxemburg aktualisiert."
+    date: 2026-05-13
+  - message: "Grenzbeschreibung Deutschland–Belgien verbessert."
+    date: 2026-03-12
+  - message: "Grenze zwischen Frankreich und Belgien aktualisiert."
+    date: 2025-12-29
+  - message: "Grenzpunkte auf der Länderseite ergänzt."
+    date: 2025-05-30
+  - message: "OUIGO-Züge ohne FIP-Rabatt ergänzt."
+    date: 2025-05-09
+  - message: "Belgien hinzugefügt."
+    date: 2025-01-18
 ---
 
 ## FIP Nutzung

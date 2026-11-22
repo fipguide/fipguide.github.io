@@ -7,6 +7,19 @@ content_images:
   - image.webp
 aliases:
   - /booking/bls-ticket-office
+updates:
+  - message: "Corrections rédactionnelles mineures sur le GoldenPass Express, les trains-autos, les suppléments et la carte Junior."
+    date: 2026-09-29
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout de HOTNAT et d’AJC."
+    date: 2026-07-13
+  - message: "Ajout de la hotline FIP de DB."
+    date: 2026-06-13
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
+    date: 2026-05-04
+  - message: "Ajout d’informations FIP sur BLS."
+    date: 2026-02-08
 ---
 
 La BLS (anciennement Bern-Lötschberg-Simplon-Bahn) est une entreprise ferroviaire publique de la [Suisse](/country/switzerland "Suisse"). Elle exploite de nombreuses liaisons de trains, de bus et de bateaux et circule principalement dans le canton de Berne.

@@ -2,6 +2,11 @@
 title: Liechtenstein
 content_images:
   - image.webp
+updates:
+  - message: "Précisions sur les accès via Feldkirch et Buchs SG : les trains S-Bahn ÖBB circulent aux heures de pointe en semaine et acceptent le FIP, contrairement aux bus."
+    date: 2025-09-29
+  - message: "Ajout du Liechtenstein."
+    date: 2025-08-04
 ---
 
 ## Informations FIP

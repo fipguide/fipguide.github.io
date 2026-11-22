@@ -9,6 +9,13 @@ params:
     - "[>] = Direction (for example: V. Real de Sto António Guardiana [> Ayamonte] = the border point at V. Real de Sto António Guardiana is oriented towards Ayamonte)"
 content_images:
   - image.webp
+updates:
+  - message: "Added information on cross-border ticketing between Portugal and Spain."
+    date: 2026-11-21
+  - message: "Added the Celta service disruption through April 2027: trains terminate at Valença do Minho and a replacement bus is needed to cross the border."
+    date: 2026-09-03
+  - message: "Portugal added."
+    date: 2025-09-14
 ---
 
 ## FIP Information

@@ -7,6 +7,19 @@ content_images:
   - image.webp
 aliases:
   - /booking/cfr-ticket-office
+updates:
+  - message: "Added age limits and rules for children."
+    date: 2026-09-19
+  - message: "Added Balkan Flexipass coverage of CFR Călători and Regiotrans services."
+    date: 2026-08-30
+  - message: "Updated CFR reservation prices to reflect new rates."
+    date: 2026-06-16
+  - message: "Added DB ticket office to CFR."
+    date: 2026-05-09
+  - message: "Clarified FIP validity on buses and rail replacement services."
+    date: 2026-05-04
+  - message: "Added Romania."
+    date: 2026-03-14
 ---
 
 The Societatea Natională de Transport Feroviar de Călători "CFR Călători" S.A., or CFR Călători for short, is the state railway company of [Romania](/country/romania "Romania") and operates the majority of passenger services on the Romanian rail network.

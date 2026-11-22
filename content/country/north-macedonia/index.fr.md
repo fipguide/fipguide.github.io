@@ -7,6 +7,11 @@ params:
     - mk-xk
 content_images:
   - image.webp
+updates:
+  - message: "Ajout du point frontière d’Elez Han avec le Kosovo et précisions sur la suspension de la liaison Priština–Skopje et la validité FIP jusqu’à la frontière."
+    date: 2026-10-09
+  - message: "Ajout de la Macédoine du Nord."
+    date: 2026-10-08
 ---
 
 ## Informations FIP

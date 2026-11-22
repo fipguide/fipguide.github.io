@@ -9,6 +9,29 @@ aliases:
   - /booking/dsb-international-website
   - /booking/dsb-ticket-office
   - /booking/dsb-website
+updates:
+  - message: "Removed the unverified claim that FIP Tickets are valid on Scandlines ferries."
+    date: 2026-09-20
+  - message: "Added age limits and rules for children."
+    date: 2026-09-19
+  - message: "DSB Vores Tog routes in Jutland and on Funen, formerly operated by GoCollective, are FIP-valid from 1 September."
+    date: 2026-09-03
+  - message: "Added DSB on-board surcharge and breakfast time."
+    date: 2026-08-09
+  - message: "Added HOTNAT and AJC."
+    date: 2026-07-13
+  - message: "Added a direct RJ service between Copenhagen and Prague."
+    date: 2026-07-07
+  - message: "Added DB FIP Hotline."
+    date: 2026-06-13
+  - message: "Changed in DSB message regarding Regional services."
+    date: 2026-05-13
+  - message: "Clarified FIP validity on buses and rail replacement services."
+    date: 2026-05-04
+  - message: "Reclassified Hamburg–Copenhagen trains from EC to ECE and clarified reservation rules."
+    date: 2025-12-28
+  - message: "Added FIP information for DSB."
+    date: 2025-05-07
 ---
 
 The DSB (Danske Statsbaner) is the state-owned railway company in [Denmark](/country/denmark "Denmark"). It operates the majority of passenger traffic on the Danish rail network. Under the operator name "DSB Vores Tog," it has also been operating train services in Central and West Jutland and on Funen since September 1, 2026. [^4]

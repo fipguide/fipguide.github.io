@@ -9,6 +9,49 @@ aliases:
   - /booking/sncb-phone
   - /booking/sncb-ticket-office
   - /booking/sncb-website
+updates:
+  - message: "Added age limits and rules for children."
+    date: 2026-09-19
+  - message: "Removed temporary cross-border ICE reservations."
+    date: 2026-09-03
+  - message: "Added information about the three-country train (DE/BE/NL)."
+    date: 2026-08-08
+  - message: "Added HOTNAT and AJC."
+    date: 2026-07-13
+  - message: "Added a ticket machine as a booking option for SNCB."
+    date: 2026-06-03
+  - message: "Aligned SNCB recommendation meaning in French content."
+    date: 2026-06-02
+  - message: "Updated SNCB airport supplement."
+    date: 2026-05-28
+  - message: "Added SNCB unlimited pass."
+    date: 2026-05-12
+  - message: "Added temporarily required reservation in ICE-trains."
+    date: 2026-04-25
+  - message: "Added news article about SNCB ending on-board ticket sales."
+    date: 2026-04-09
+  - message: "Added FIP 75 information in several places."
+    date: 2026-04-01
+  - message: "Improved Germany / Belgium border description."
+    date: 2026-03-12
+  - message: "Updated SNCB child travel rules to match official policy."
+    date: 2026-03-10
+  - message: "Removed Eurocity Direct supplement details in favour of the NS guidance and added the train network map."
+    date: 2026-02-25
+  - message: "Added SNCB telephone booking."
+    date: 2025-12-12
+  - message: "SNCB Website only sells FIP 50 for cross-border travel."
+    date: 2025-10-03
+  - message: "Added EuroCity and EuroCity Direct information."
+    date: 2025-09-29
+  - message: "No SNCB board surcharge for FIP tickets."
+    date: 2025-08-03
+  - message: "Added FIP information for EuroCity Direct and EuroCity trains in the Netherlands."
+    date: 2025-05-28
+  - message: "Added booking information for cross-border FIP 50 Tickets between Germany and Belgium."
+    date: 2025-05-07
+  - message: "SNCB / NMBS added."
+    date: 2025-01-18
 ---
 
 The SNCB (Société nationale des chemins de fer belges) or NMBS (Nationale Maatschappij der Belgische Spoorwegen) is the Belgian national railway operator and the most important railway operator in [Belgium](/country/belgium "Belgium").

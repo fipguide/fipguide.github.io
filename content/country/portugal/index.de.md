@@ -9,6 +9,13 @@ params:
     - "[>] = In Richtung (z. B. V. Real de Sto António Guardiana [> Ayamonte] = V. Real de Sto António Guardiana ist der Grenzpunkt in Richtung Ayamonte)"
 content_images:
   - image.webp
+updates:
+  - message: "Tickets für grenzüberschreitende Züge zwischen Portugal und Spanien ergänzt."
+    date: 2026-11-21
+  - message: "Bauarbeiten bis April 2027: Celta-Züge enden in Valença do Minho; für den Grenzübertritt ist ein Ersatzbus erforderlich."
+    date: 2026-09-03
+  - message: "Portugal hinzugefügt."
+    date: 2025-09-14
 ---
 
 ## FIP Nutzung

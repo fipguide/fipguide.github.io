@@ -8,6 +8,17 @@ content_images:
 aliases:
   - /booking/translink-ticket-office
   - /booking/translink-whatsapp
+updates:
+  - message: "Added age limits and rules for children."
+    date: 2026-09-19
+  - message: "Recommended the scenic NIR coastal route between Coleraine and Derry-Londonderry."
+    date: 2026-08-23
+  - message: "Clarified FIP validity on buses and rail replacement services."
+    date: 2026-05-04
+  - message: "Added FIP 75 information in several places."
+    date: 2026-04-01
+  - message: "NIR added."
+    date: 2026-03-12
 ---
 
 Northern Ireland Railways (NIR) is the state railway company in Northern Ireland and is part of Translink, a state transport company. The rail network is compact and mainly consists of connections to and from Belfast.

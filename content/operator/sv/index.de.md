@@ -5,6 +5,13 @@ country:
   - serbia
 content_images:
   - image.webp
+updates:
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
+    date: 2026-09-19
+  - message: "Balkan-Flexipass-Gültigkeit im serbischen Bahnnetz ergänzt."
+    date: 2026-08-30
+  - message: "SV hinzugefügt."
+    date: 2026-06-29
 ---
 
 Srbija Voz (Србија Воз) ist die staatliche Eisenbahngesellschaft in Serbien und betreibt den Großteil des Personenverkehrs im Land.

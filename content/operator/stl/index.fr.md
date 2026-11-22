@@ -10,6 +10,23 @@ aliases:
   - /booking/stena-line-bv-email
   - /booking/stena-line-bv-phone
   - /booking/stena-line-bv-ticket-office
+updates:
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Options de réservation Stena Line complétées."
+    date: 2026-04-10
+  - message: "Ajout d’informations sur le métro RET."
+    date: 2026-04-09
+  - message: "Suppression de la note sur les Coupons FIP Stena Line."
+    date: 2026-03-21
+  - message: "Séparation des informations de réservation pour Stena Line BV et Stena Line Limited."
+    date: 2026-02-25
+  - message: "Ajout d’informations pour réserver par e-mail auprès de Stena Line."
+    date: 2026-01-26
+  - message: "Ajout d’instructions pour déterminer le tarif Stena Line."
+    date: 2025-12-27
+  - message: "Ajout d’informations FIP sur Stena Line BV."
+    date: 2025-12-22
 ---
 
 L’entreprise Stena Line exploite divers ferries pour passagers et véhicules. L’exploitation de la ligne entre Harwich ([Royaume-Uni](/country/united-kingdom)) et Hoek van Holland ([Pays-Bas](/country/netherlands)) est désignée dans le contexte FIP sous le nom de Stena Line BV (StL).

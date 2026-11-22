@@ -18,6 +18,27 @@ params:
       point frontière en direction de Domodossola)"
 content_images:
   - image.webp
+updates:
+  - message: "Ajout d’informations sur la validité FIP du Léman Express."
+    date: 2026-10-24
+  - message: "Mise à jour à 11 € du tarif transfrontalier Trenitalia."
+    date: 2026-06-19
+  - message: "Mise à jour du point frontière entre la Suisse et la France."
+    date: 2026-01-08
+  - message: "Ajout de nouveaux opérateurs sans FIP."
+    date: 2025-12-22
+  - message: "Ajout d’informations sur la validité FIP des chemins de fer privés suisses."
+    date: 2025-12-15
+  - message: "Ajout d’informations communiquées par un collègue des CFF."
+    date: 2025-10-20
+  - message: "Ajout de la validité des Coupons FIP SNCF sur le tronçon suisse du Léman Express."
+    date: 2025-10-12
+  - message: "Ajout d’informations sur les suppléments et réservations des trains EC/ECE vers l’Italie."
+    date: 2025-10-09
+  - message: "Précisions sur les passages via St. Margrethen et Buchs SG ; le FIP ÖBB via le Liechtenstein permet un trajet continu avec le FIP CFF."
+    date: 2025-09-29
+  - message: "Ajout des CFF."
+    date: 2025-07-13
 ---
 
 ## Informations FIP

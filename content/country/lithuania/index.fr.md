@@ -10,6 +10,13 @@ params:
     - lt-ru
 content_images:
   - image.webp
+updates:
+  - message: "Ajout d’informations sur les billets transfrontaliers entre la Pologne et la Lituanie."
+    date: 2026-10-04
+  - message: "Vérification et mise à jour des informations sur la Lituanie, LTG Link et la Lettonie."
+    date: 2026-01-09
+  - message: "Ajout de la Lituanie."
+    date: 2025-12-28
 ---
 
 ## Informations FIP

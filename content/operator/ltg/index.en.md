@@ -8,6 +8,19 @@ content_images:
   - image.webp
 aliases:
   - /booking/ltg-website
+updates:
+  - message: "Clarified that LTG-Link sells FIP Tickets and reservations only on board, and recommends booking online in advance, especially for Vilnius–Klaipėda in summer."
+    date: 2026-10-25
+  - message: "Added age limits and rules for children."
+    date: 2026-09-19
+  - message: "Clarified FIP validity on buses and rail replacement services."
+    date: 2026-05-04
+  - message: "Added LTG Sea Side Express source in all languages."
+    date: 2026-04-19
+  - message: "Reviewed Lithuania, LTG Link and Latvia and did some changes."
+    date: 2026-01-09
+  - message: "LTG-Link added."
+    date: 2025-12-28
 ---
 
 LTG is the state railway company of the Republic of Lithuania and, through its subsidiary LTG-Link, operates all passenger services on the Lithuanian rail network as well as international connections.

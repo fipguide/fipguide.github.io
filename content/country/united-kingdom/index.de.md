@@ -28,6 +28,15 @@ params:
       Isle of Wight)
 content_images:
   - image.webp
+updates:
+  - message: "Fishguard-Fährverbindung von Irish Ferries entfernt."
+    date: 2026-08-03
+  - message: "FIP-Informationen zu Irland und Nordirland ergänzt."
+    date: 2026-03-12
+  - message: "FIP-Fährverbindungen von Stena Line Limited ergänzt."
+    date: 2026-02-25
+  - message: "Vereinigtes Königreich hinzugefügt."
+    date: 2025-10-21
 ---
 
 <!-- UK ist ein bisschen anders. Hier gibt es keine Zugkategorien, sondern ganz viele Betreiber, bei den man gucken muss, ob FIP dort gilt. Daher ist es hier wahrscheinlich sinnvoll auch andere Betreiber aufzuführen ohne FIP, auch wenn es oft Straßenbahnen und U-Bahnen sind. Für den User ist es sonst schwer zu unterscheiden warum auf der Elizabeth Line FIP gilt, auf anderen U-Bahn Linien aber beispielsweise nicht. -->

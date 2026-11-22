@@ -5,6 +5,9 @@ params:
     - me-rs
 content_images:
   - image.webp
+updates:
+  - message: "Montenegro added."
+    date: 2026-05-02
 ---
 
 ## FIP Information

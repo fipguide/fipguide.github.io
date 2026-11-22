@@ -16,6 +16,9 @@ params:
     - at-hu-gysev
 content_images:
   - image.webp
+updates:
+  - message: "Ajout de la Hongrie."
+    date: 2026-07-29
 ---
 
 ## Informations FIP

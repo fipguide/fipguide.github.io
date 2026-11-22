@@ -9,6 +9,15 @@ aliases:
   - /booking/ks-ticket-machine
   - /booking/ks-ticket-office
   - /booking/ks-website
+updates:
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout de la hotline FIP de DB."
+    date: 2026-06-13
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
+    date: 2026-05-04
+  - message: "Ajout d’informations sur KS."
+    date: 2026-02-19
 ---
 
 Koleje Śląskie, abrégées KŚ, est une entreprise de transport ferroviaire polonaise qui propose principalement des services régionaux dans la voïvodie de Silésie. C’est l’une des cinq entreprises différentes qui proposent le FIP en [Pologne](/country/poland).

@@ -9,6 +9,7 @@ params:
     -  # Optional footnotes shown below the border point table
 content_images:
   - "image.webp"
+updates: []
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->

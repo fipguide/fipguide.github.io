@@ -13,6 +13,11 @@ params:
     - rs-hr
 content_images:
   - image.webp
+updates:
+  - message: "Bosnisch-herzegowinischer Grenzpunkt Zvornik und die Betreiber ŽFBH/ŽRS ergänzt; Savski Brežovljani entfernt."
+    date: 2026-08-30
+  - message: "Serbien hinzugefügt."
+    date: 2026-06-29
 ---
 
 ## FIP Nutzung

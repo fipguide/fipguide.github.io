@@ -9,6 +9,17 @@ content_images:
 aliases:
   - /booking/stena-line-limited-email
   - /booking/stena-line-limited-phone
+updates:
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Suppression de la réservation par e-mail auprès de Stena Line Limited."
+    date: 2026-06-27
+  - message: "Mise à jour des frais portuaires de SLL."
+    date: 2026-05-12
+  - message: "Options de réservation Stena Line complétées."
+    date: 2026-04-10
+  - message: "Ajout d’informations FIP sur Stena Line Limited."
+    date: 2026-02-25
 ---
 
 L’entreprise Stena Line exploite divers ferries pour passagers et véhicules. Les liaisons en mer d’Irlande sont assurées par Stena Line Limited (SLL) dans le cadre de l’accord FIP.

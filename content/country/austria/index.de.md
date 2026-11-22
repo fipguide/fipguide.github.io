@@ -26,6 +26,23 @@ params:
     - at-de
 content_images:
   - image.webp
+updates:
+  - message: "Grenzverbindungen aus Slowenien präzisiert: Züge über Jesenice nach Villach sowie Verbindungen Maribor–Graz und Bleiburg–Maribor; FIP beider Bahnen oder durchgängiges FIP 50 erforderlich."
+    date: 2026-07-11
+  - message: "Schneebergbahn entfernt."
+    date: 2026-05-15
+  - message: "Informationen zur Außenfernbahn ergänzt."
+    date: 2026-01-17
+  - message: "Zwei Regionalzugverbindungen Wien–Bratislava über Marchegg und Kittsee ergänzt; für den slowakischen Abschnitt ist jeweils ein FIP 50 Ticket erforderlich."
+    date: 2025-12-28
+  - message: "Grenzverbindungen über Buchs SG/Feldkirch und FIP-Gültigkeit in Liechtenstein präzisiert: ÖBB-FIP gilt in Zügen, nicht in Bussen."
+    date: 2025-09-29
+  - message: "Liste der Betreiber ohne FIP aktualisiert: CAT und Wiener Lokalbahn ergänzt, Salzburger Lokalbahn entfernt."
+    date: 2025-08-11
+  - message: "SBB hinzugefügt."
+    date: 2025-07-13
+  - message: "Österreich als Land hinzugefügt."
+    date: 2025-07-10
 ---
 
 ## FIP Nutzung

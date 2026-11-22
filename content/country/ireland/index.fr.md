@@ -8,6 +8,13 @@ params:
     - ie-gb-sll
 content_images:
   - image.webp
+updates:
+  - message: "Suppression de la traversée Fishguard d’Irish Ferries."
+    date: 2026-08-03
+  - message: "Suppression d’une mention en double de l’opérateur sur la page Irlande."
+    date: 2026-04-04
+  - message: "Ajout de l’Irlande."
+    date: 2026-03-12
 ---
 
 ## Informations FIP

@@ -10,6 +10,19 @@ params:
     - cz-sk
 content_images:
   - image.webp
+updates:
+  - message: "Leo Express zu den Betreibern ohne FIP in der Slowakei hinzugefügt."
+    date: 2026-05-12
+  - message: "FIP-Regeln für saisonale Zugverbindungen nach Polen über Muszyna und Łupków ergänzt."
+    date: 2025-12-30
+  - message: "Zwei Regionalzugverbindungen Bratislava–Wien über Marchegg und Kittsee ergänzt; FIP 50 Ticket für den slowakischen Abschnitt erforderlich."
+    date: 2025-12-28
+  - message: "Ausnahme für ZSSK-D-Züge zwischen Bratislava und Wien ergänzt."
+    date: 2025-07-10
+  - message: "Grenzpunkte auf der Länderseite ergänzt."
+    date: 2025-05-30
+  - message: "Slowakei hinzugefügt."
+    date: 2025-01-18
 ---
 
 ## FIP Nutzung

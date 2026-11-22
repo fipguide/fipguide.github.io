@@ -6,6 +6,11 @@ country:
 content_images:
   - image.webp
   - image2.webp
+updates:
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout de SŽ."
+    date: 2026-07-11
 ---
 
 Les Slovenske železnice (SŽ) sont la compagnie ferroviaire nationale de [Slovénie](/country/slovenia "Slovénie") et exploitent la majorité des services de voyageurs sur le réseau ferroviaire slovène.

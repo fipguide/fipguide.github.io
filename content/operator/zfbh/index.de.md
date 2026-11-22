@@ -5,6 +5,9 @@ country:
   - "bosnia-and-herzegovina"
 content_images:
   - image.webp
+updates:
+  - message: "ŽFBH hinzugefügt."
+    date: 2026-08-30
 ---
 
 Die Željeznice Federacije Bosne i Hercegovine (ŽFBH) ist das Eisenbahnverkehrsunternehmen der Förderation Bosnien und Herzegowina im gleichnamigen Land. Neben ihr existiert in dem Land auch noch die [Željeznice Republike Srpske (ŽRS)](/operator/zrs) der Förderation Republika Srpska. Die ŽFBH betreibt auf ihrem 608 km großen Schienennetz nur sehr wenige Verbindungen und auch nur auf einem Teil ihres Netzes.

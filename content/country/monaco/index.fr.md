@@ -2,6 +2,9 @@
 title: Monaco
 content_images:
   - image.webp
+updates:
+  - message: "Ajout de Monaco."
+    date: 2025-10-12
 ---
 
 ## Informations FIP

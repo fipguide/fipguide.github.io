@@ -11,6 +11,23 @@ params:
     - be-fr
 content_images:
   - image.webp
+updates:
+  - message: "Ajout d’informations sur le train des trois pays."
+    date: 2026-08-08
+  - message: "Ajout du distributeur de billets comme option de réservation chez SNCB."
+    date: 2026-06-03
+  - message: "Mise à jour des points frontières au Luxembourg."
+    date: 2026-05-13
+  - message: "Amélioration de la description de la frontière Allemagne–Belgique."
+    date: 2026-03-12
+  - message: "Mise à jour de la frontière entre la France et la Belgique."
+    date: 2025-12-29
+  - message: "Ajout de points frontières sur la page pays."
+    date: 2025-05-30
+  - message: "Ajout d’informations indiquant que les trains OUIGO ne bénéficient pas de remises FIP."
+    date: 2025-05-09
+  - message: "Ajout de Belgique."
+    date: 2025-01-18
 ---
 
 ## Informations FIP

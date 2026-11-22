@@ -8,6 +8,29 @@ content_images:
 aliases:
   - /booking/cd-ticket-office
   - /booking/cd-website
+updates:
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
+    date: 2026-09-19
+  - message: "HOTNAT und AJC ergänzt."
+    date: 2026-07-13
+  - message: "Direktverbindung Kopenhagen–Prag mit dem RJ ergänzt."
+    date: 2026-07-07
+  - message: "ČD-Karten aktualisiert."
+    date: 2026-06-13
+  - message: "DB-FIP-Hotline ergänzt."
+    date: 2026-06-13
+  - message: "FIP-Gültigkeit in Bussen und Ersatzbussen klargestellt."
+    date: 2026-05-04
+  - message: "Informationen zur Metro RET ergänzt."
+    date: 2026-04-09
+  - message: "FIP-Gültigkeit bei ČD aktualisiert."
+    date: 2026-03-10
+  - message: "Reservierungspflicht für SC und ausgewählte IC-Züge sowie kommerziellen Aufschlag präzisiert."
+    date: 2025-11-20
+  - message: "Informationen zum Lounge-Zugang ergänzt."
+    date: 2025-10-10
+  - message: "ČD hinzugefügt."
+    date: 2025-09-20
 ---
 
 Die České dráhy (ČD) ist die staatliche Eisenbahngesellschaft der [Tschechischen Republik](/country/czechia "Tschechischen Republik") und betreibt einen großen Teil der Verbindungen im Personenverkehr auf dem tschechischen Schienennetz.

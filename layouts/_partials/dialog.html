@@ -8,8 +8,17 @@
       <h1 id="{{ .ID }}-title" class="o-dialog__title">{{ .Title }}</h1>
       {{- partial "button" (dict "Text" (partial "icon" "close") "Title" (i18n "dialog.close")) -}}
     </header>
-    <div class="o-dialog__body">
+    <div
+      class="o-dialog__body{{ with .Actions }}
+        o-dialog__body--with-actions
+      {{ end }}"
+    >
       {{- .Content | safeHTML -}}
     </div>
+    {{- with .Actions }}
+      <footer class="o-dialog__actions">
+        <div class="o-dialog__actions-content">{{ . | safeHTML }}</div>
+      </footer>
+    {{- end }}
   </div>
 </dialog>

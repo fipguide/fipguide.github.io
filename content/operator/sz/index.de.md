@@ -6,6 +6,11 @@ country:
 content_images:
   - image.webp
   - image2.webp
+updates:
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
+    date: 2026-09-19
+  - message: "SŽ hinzugefügt."
+    date: 2026-07-11
 ---
 
 Die Slovenske železnice (SŽ) ist die staatliche Eisenbahngesellschaft von [Slowenien](/country/slovenia "Slowenien") und betreibt einen Großteil der Verbindungen im Personenverkehr auf dem slowenischen Schienennetz.

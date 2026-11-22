@@ -9,6 +9,49 @@ aliases:
   - /booking/sncb-phone
   - /booking/sncb-ticket-office
   - /booking/sncb-website
+updates:
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
+    date: 2026-09-19
+  - message: "Vorübergehende grenzüberschreitende ICE-Reservierungspflicht entfernt."
+    date: 2026-09-03
+  - message: "Informationen zum Drei-Länder-Zug ergänzt."
+    date: 2026-08-08
+  - message: "HOTNAT und AJC ergänzt."
+    date: 2026-07-13
+  - message: "Fahrkartenautomat als Buchungsoption bei SNCB ergänzt."
+    date: 2026-06-03
+  - message: "Bedeutung der SNCB-Empfehlung in der französischen Fassung angeglichen."
+    date: 2026-06-02
+  - message: "Flughafenzuschlag bei SNCB aktualisiert."
+    date: 2026-05-28
+  - message: "SNCB-Netzkarte ergänzt."
+    date: 2026-05-12
+  - message: "Vorübergehende Reservierungspflicht in ICE-Zügen ergänzt."
+    date: 2026-04-25
+  - message: "Nachricht zum Ende des Ticketverkaufs im Zug bei SNCB hinzugefügt."
+    date: 2026-04-09
+  - message: "FIP-75-Unterstützung an verschiedenen Stellen ergänzt."
+    date: 2026-04-01
+  - message: "Grenzbeschreibung Deutschland–Belgien verbessert."
+    date: 2026-03-12
+  - message: "Regeln für Kinder bei SNCB gemäß offizieller Richtlinie aktualisiert."
+    date: 2026-03-10
+  - message: "Aufschlagregeln für Eurocity Direct aus der SNCB-Seite entfernt und auf die NS-Informationen verwiesen; Zugnetzkarte ergänzt."
+    date: 2026-02-25
+  - message: "Telefonische Buchung bei SNCB ergänzt."
+    date: 2025-12-12
+  - message: "SNCB-Website: FIP 50 nur für grenzüberschreitende Reisen."
+    date: 2025-10-03
+  - message: "EuroCity- und EuroCity-Direct-Informationen ergänzt."
+    date: 2025-09-29
+  - message: "SNCB-Bordzuschlag für FIP-Tickets korrigiert."
+    date: 2025-08-03
+  - message: "FIP-Informationen zu EuroCity Direct und EuroCity in den Niederlanden ergänzt."
+    date: 2025-05-28
+  - message: "Buchungsinformationen für grenzüberschreitende FIP 50 Tickets zwischen Deutschland und Belgien ergänzt."
+    date: 2025-05-07
+  - message: "SNCB / NMBS hinzugefügt."
+    date: 2025-01-18
 ---
 
 Die SNCB (Société nationale des chemins de fer belges) bzw. NMBS (Nationale Maatschappij der Belgische Spoorwegen) ist die belgische Staatsbahn und die wichtigste Bahngesellschaft in [Belgien](/country/belgium "Belgien").

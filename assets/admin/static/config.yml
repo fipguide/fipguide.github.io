@@ -92,6 +92,28 @@ x_fip_validity_target_fields_reduced: &fip_validity_target_fields_reduced
     group_type: "fip-reduced-ticket"
     required: false
 
+x_updates_field: &updates_field
+  label: "Updates"
+  label_singular: "Update"
+  name: "updates"
+  widget: "list"
+  required: false
+  i18n: true
+  collapsed: true
+  minimize_collapsed: true
+  summary: "{{fields.date}}: {{fields.message}}"
+  fields:
+    - label: "Message"
+      name: "message"
+      widget: "string"
+      i18n: true
+    - label: "Date"
+      name: "date"
+      widget: "datetime"
+      type: "date"
+      default: "{{now}}"
+      i18n: sync
+
 x_border_side: &border_side
   - label: "Country"
     name: "country"
@@ -165,6 +187,7 @@ collections:
         widget: "datetime"
         type: "date"
         i18n: sync
+      - *updates_field
       - label: "Author"
         name: "author"
         widget: "string"
@@ -247,6 +270,7 @@ collections:
         name: "title"
         widget: "string"
         i18n: true
+      - *updates_field
       - label: "Parameters"
         name: "params"
         widget: "object"
@@ -325,6 +349,7 @@ collections:
         name: "title"
         widget: "string"
         i18n: true
+      - *updates_field
       - label: "Short Name"
         name: "shortName"
         widget: "string"
@@ -876,6 +901,7 @@ collections:
             name: "title"
             widget: "string"
             i18n: true
+          - *updates_field
           - label: "Description"
             name: "description"
             widget: "string"

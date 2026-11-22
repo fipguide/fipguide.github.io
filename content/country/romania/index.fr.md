@@ -16,6 +16,9 @@ params:
     - hu-ro
 content_images:
   - image.webp
+updates:
+  - message: "Ajout de la Roumanie."
+    date: 2026-03-14
 ---
 
 ## Informations FIP

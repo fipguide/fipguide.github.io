@@ -5,6 +5,11 @@ country:
   - hungary
 content_images:
   - image.webp
+updates:
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout de MÁV."
+    date: 2026-07-29
 ---
 
 MÁV (Magyar Államvasutak, Chemins de fer d'État hongrois) est la principale compagnie ferroviaire en [Hongrie](/country/hungary) et exploite la majorité du trafic longue distance et régional.

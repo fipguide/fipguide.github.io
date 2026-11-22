@@ -8,6 +8,43 @@ content_images:
 aliases:
   - /booking/ns-phone
   - /booking/ns-ticket-office
+updates:
+  - message: "Added ICD off-peak supplement usage with debit or credit card."
+    date: 2026-10-31
+  - message: "Added age limits and rules for children."
+    date: 2026-09-19
+  - message: "Removed temporary cross-border ICE reservations."
+    date: 2026-09-03
+  - message: "Added information about the three-country train (DE/BE/NL)."
+    date: 2026-08-08
+  - message: "Added HOTNAT and AJC."
+    date: 2026-07-13
+  - message: "Added clear distinction between R-Net services."
+    date: 2026-07-10
+  - message: "Specify R-Net."
+    date: 2026-07-07
+  - message: "Added SNCB unlimited pass."
+    date: 2026-05-12
+  - message: "Added temporarily required reservation in ICE-trains."
+    date: 2026-04-25
+  - message: "Added discounts for NS."
+    date: 2026-03-11
+  - message: "Updated the domestic ECD/ICD supplement to €3.20, exempted international FIP 50 Tickets, and added the reduced OV-chipkaart supplement."
+    date: 2026-02-25
+  - message: "Added ns phone booking options."
+    date: 2026-02-08
+  - message: "Reclassified the Amsterdam–Berlin IC as ICE 3neo and added the FIP 50 supplement for the Dutch section."
+    date: 2025-12-21
+  - message: "Removed FIP 50 ticket booking from SNCB website."
+    date: 2025-11-08
+  - message: "Added ICE-supplement for line 77."
+    date: 2025-10-10
+  - message: "Adjust ns RE information to match the standard."
+    date: 2025-10-10
+  - message: "Added FIP information for NS."
+    date: 2025-05-28
+  - message: "NS added."
+    date: 2025-03-23
 ---
 
 Nederlandse Spoorwegen (NS) is the state railway company of the [Netherlands](/country/netherlands "Netherlands") and operates the majority of passenger traffic on the Dutch rail network.

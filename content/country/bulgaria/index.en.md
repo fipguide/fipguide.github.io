@@ -10,6 +10,13 @@ params:
     - bg-rs
 content_images:
   - image.webp
+updates:
+  - message: "Added North Macedonia as a neighbouring country; there is currently no rail link to Bulgaria."
+    date: 2026-05-12
+  - message: "Bulgaria corrections."
+    date: 2025-10-09
+  - message: "Bulgaria added."
+    date: 2025-10-07
 ---
 
 ## FIP Information

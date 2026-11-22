@@ -1,0 +1,28 @@
+{{- $page := . -}}
+{{- $updates := $page.Params.updates -}}
+{{- $latest := index $updates 0 -}}
+{{- $latestDate := time.AsTime $latest.date -}}
+{{- $dialogID := printf "updates-%s" (urlize $page.File.Path) -}}
+{{- $githubLink := print $page.Site.Params.gitHubUrl "/commits/main/content/" $page.File.Path -}}
+{{- $actions := partial "button" (dict "Destination" $githubLink "Text" (T "updateDate.githubHistory")) -}}
+<button
+  type="button"
+  class="o-last-updated"
+  aria-label="{{ T "updateDate.aria-label" }}"
+  aria-haspopup="dialog"
+  aria-controls="{{ $dialogID }}"
+  data-dialog-trigger="{{ $dialogID }}"
+  data-pagefind-ignore="all"
+>
+  <span>
+    {{ T "updateDate.label" }}:
+    <time datetime="{{ $latestDate.Format "2006-01-02" }}"
+      >{{ $latestDate | time.Format ":date_long" }}</time
+    >
+  </span>
+  {{- partial "icon" "history" -}}
+</button>
+{{- $content := partial "updateHistoryContent.html" (dict "updates" $updates) -}}
+<div class="o-update-history-dialog" data-pagefind-ignore="all">
+  {{ partial "dialog" (dict "ID" $dialogID "Title" (T "updateDate.dialogTitle") "Content" $content "Actions" $actions) }}
+</div>

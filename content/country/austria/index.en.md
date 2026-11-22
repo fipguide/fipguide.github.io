@@ -26,6 +26,23 @@ params:
     - at-de
 content_images:
   - image.webp
+updates:
+  - message: "Detailed Slovenian cross-border routes: trains via Jesenice to Villach, Maribor–Graz and Bleiburg–Maribor; FIP Coupons from both railways or a through FIP 50 Ticket are required."
+    date: 2026-07-11
+  - message: "Removed Schneebergbahn."
+    date: 2026-05-15
+  - message: "Added information about the Ausserfern Railway."
+    date: 2026-01-17
+  - message: "Added two Vienna–Bratislava regional routes via Marchegg and Kittsee; a FIP 50 Ticket is required for the Slovak section on both."
+    date: 2025-12-28
+  - message: "Clarified routes via Buchs SG/Feldkirch and FIP validity in Liechtenstein: ÖBB FIP is valid on trains, not buses."
+    date: 2025-09-29
+  - message: "Updated the non-FIP operator list: added CAT and Wiener Lokalbahn, removed Salzburger Lokalbahn."
+    date: 2025-08-11
+  - message: "Added SBB."
+    date: 2025-07-13
+  - message: "Added Austria."
+    date: 2025-07-10
 ---
 
 ## FIP Information

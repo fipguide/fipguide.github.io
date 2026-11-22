@@ -5,6 +5,11 @@ country:
   - hungary
 content_images:
   - image.webp
+updates:
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
+    date: 2026-09-19
+  - message: "MÁV hinzugefügt."
+    date: 2026-07-29
 ---
 
 Die MÁV (Magyar Államvasutak, ungarische Staatsbahnen) ist die wichtigste Bahngesellschaft in [Ungarn](/country/hungary) und betreibt den Großteil des Fern- und Regionalverkehrs.

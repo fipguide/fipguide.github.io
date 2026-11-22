@@ -7,6 +7,19 @@ content_images:
   - image.webp
 aliases:
   - /booking/cp-ticket-office
+updates:
+  - message: "Clarified onboard ticket purchase when no CP ticket office is available, for example on the Badajoz–Entroncamento route."
+    date: 2026-11-15
+  - message: "Added age limits and rules for children."
+    date: 2026-09-19
+  - message: "Clarified FIP validity on buses and rail replacement services."
+    date: 2026-05-04
+  - message: "Added Zugpost travel reports for the railway."
+    date: 2026-05-02
+  - message: "Added information from SBB colleague."
+    date: 2025-10-20
+  - message: "CP added."
+    date: 2025-09-14
 ---
 
 CP (Comboios de Portugal) is the Portuguese state railway and the main railway company in [Portugal](/country/portugal "Portugal").

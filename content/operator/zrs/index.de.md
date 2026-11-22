@@ -5,6 +5,9 @@ country:
   - "bosnia-and-herzegovina"
 content_images:
   - image.webp
+updates:
+  - message: "ŽRS hinzugefügt."
+    date: 2026-08-30
 ---
 
 Die Željeznice Republike Srpske (ŽRS) ist das Eisenbahnverkehrsunternehmen der Förderation Republika Srpska in Bosnien und Herzegowina. Neben ihr existiert in dem Land auch noch die [Željeznice Federacije Bosne i Hercegovine (ŽFBH)](/operator/zfbh) der Förderation Bosnien und Herzegowina. Die ŽRS betreibt auf ihrem 418 km großen Schienennetz derzeit nur ein minimales Regionalzugangebot.

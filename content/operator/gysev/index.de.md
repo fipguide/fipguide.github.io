@@ -10,6 +10,19 @@ aliases:
   - /booking/mav-ticket-machine
   - /booking/mav-ticket-office
   - /booking/mav-website
+updates:
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
+    date: 2026-09-19
+  - message: "HOTNAT und AJC ergänzt."
+    date: 2026-07-13
+  - message: "FIP-Gültigkeit in Bussen und Ersatzbussen klargestellt."
+    date: 2026-05-04
+  - message: "MÁV-Website, Fahrkartenschalter und -automaten als GySEV-Buchungsoptionen ergänzt."
+    date: 2025-12-14
+  - message: "GySEV-IC zwischen Sopron und Budapest sowie Reservierungs- und Buchungsoptionen ergänzt."
+    date: 2025-08-11
+  - message: "FIP-Informationen zur GySEV in Österreich ergänzt."
+    date: 2025-07-10
 ---
 
 Die Raab-Oedenburg-Ebenfurter Eisenbahn AG (ungarisch Győr-Sopron-Ebenfurti Vasút Zrt.), kurz GySEV oder Raaberbahn ist ein privates ungarisches Eisenbahnunternehmen, welches Regionalzüge in Ungarn und [Österreich](/country/austria "Österreich") betreibt. Die Züge verkehren hauptsächlich südlich und östlich des Neusiedlersees (Westungarn), teilweise sind sie sogar auf eigener Infrastruktur unterwegs.

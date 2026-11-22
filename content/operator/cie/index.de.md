@@ -8,6 +8,17 @@ content_images:
 aliases:
   - /booking/irish-rail-ticket-office
   - /booking/irish-rail-website
+updates:
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
+    date: 2026-09-19
+  - message: "Ergänzt: Fahrgäste der 1. Klasse werden zu freien Sitzplätzen begleitet und dürfen die Klasse nur bei verfügbaren Sitzplätzen nutzen."
+    date: 2026-08-17
+  - message: "FIP-Gültigkeit in Bussen und Ersatzbussen klargestellt."
+    date: 2026-05-04
+  - message: "FIP-75-Unterstützung an verschiedenen Stellen ergänzt."
+    date: 2026-04-01
+  - message: "CIE hinzugefügt."
+    date: 2026-03-12
 ---
 
 Córas lompair Éireann (CIE) ist die staatliche Bahngesellschaft [Irlands](/country/ireland) und das Mutterunternehmen von Irish Rail (Iarnród Éireann). Die Tochtergesellschaft betreibt den Großteil des Schienenverkehrs in der Republik Irland, einschließlich der Hauptstrecken zwischen Dublin, Cork, Galway und Limerick sowie regionaler Verbindungen in der Gegend von Dublin und Cork.

@@ -7,6 +7,31 @@ country:
   - italy
 content_images:
   - image.webp
+updates:
+  - message: "FIP-Freifahrtschein-Gültigkeit bei der Jungfraubahn aktualisiert."
+    date: 2026-11-01
+  - message: "Sensetalbahn (STB) aus der Liste der SP-Regionalbahnen entfernt."
+    date: 2026-09-29
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
+    date: 2026-09-19
+  - message: "Brienz-Rothorn-Bahn hinzugefügt."
+    date: 2026-08-19
+  - message: "Nutzung von FIP bei Jungfraubahnen als Nahverkehr präzisiert; FIP ist nicht als Skipass für Wintersportausrüstung vorgesehen."
+    date: 2026-08-17
+  - message: "Inoffizielle Informationen zum Skifahren mit JB ergänzt."
+    date: 2026-06-22
+  - message: "MIB von der SP-Seite entfernt."
+    date: 2026-05-09
+  - message: "THURBO-Strecken angepasst: S5/S7 nach St. Margrethen und Lindau, S36 bis Waldshut; FIP 50 und FIP-Gültigkeit an den Grenzbahnhöfen ergänzt."
+    date: 2026-04-05
+  - message: "FIP-Gültigkeit bei RBS präzisiert: gültig auf den Linien außer S9 und Tramlinie 6 sowie auf allen RBS-Bussen."
+    date: 2026-03-10
+  - message: "Informationen zu SOB präzisiert."
+    date: 2026-02-07
+  - message: "Panoramaaufschlag von 1,50 € auf ausgewählten Centovalli-Zügen sowie Reservierungspflicht bei Veranstaltungen und Reservierungskosten ergänzt."
+    date: 2026-02-06
+  - message: "SP-FIP-Informationen hinzugefügt."
+    date: 2025-12-15
 ---
 
 In der [Schweiz](/country/switzerland "Schweiz") gibt es neben der Staatsbahn [SBB CFF FFS](/operator/sbb "SBB CFF FFS") und der kleineren BLS auch noch einen Zusammenschluss vieler verschiedener Eisenbahnverkehrsunternehmen, die als _Schweizer Privatbahnen_ zusammengefasst werden. Darunter sind sowohl reguläre Züge im Schweizer Streckennetz, als auch eher touristische Verkehre. Neben Zügen sind hier auch einige Schiffe, Seilbahnen oder Busse zu finden.

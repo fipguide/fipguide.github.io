@@ -14,6 +14,9 @@ params:
       Ancona)"
 content_images:
   - image.webp
+updates:
+  - message: "Griechenland hinzugefügt."
+    date: 2026-03-22
 ---
 
 ## FIP Nutzung

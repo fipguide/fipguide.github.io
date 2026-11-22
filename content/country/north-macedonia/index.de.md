@@ -7,6 +7,11 @@ params:
     - mk-xk
 content_images:
   - image.webp
+updates:
+  - message: "Grenzpunkt Elez Han nach Kosovo ergänzt; die ausgesetzte Verbindung Priština–Skopje und die FIP-Gültigkeit bis zur Grenze erläutert."
+    date: 2026-10-09
+  - message: "Nordmazedonien hinzugefügt."
+    date: 2026-10-08
 ---
 
 ## FIP Nutzung

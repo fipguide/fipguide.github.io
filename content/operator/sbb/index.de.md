@@ -9,6 +9,33 @@ aliases:
   - /booking/sbb-ticket-machine
   - /booking/sbb-ticket-office
   - /booking/sbb-website
+updates:
+  - message: "Léman-Express-Zugkategorie und FIP-Regeln ergänzt."
+    date: 2026-10-24
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
+    date: 2026-09-19
+  - message: "HOTNAT und AJC ergänzt."
+    date: 2026-07-13
+  - message: "Informationen zur SBB Junior-Karte ergänzt."
+    date: 2026-06-19
+  - message: "DB-FIP-Hotline ergänzt."
+    date: 2026-06-13
+  - message: "Informationen zu Nightjet-Verbindungen mit Intercity-Wagen ergänzt."
+    date: 2026-05-23
+  - message: "FIP-Gültigkeit in Bussen und Ersatzbussen klargestellt."
+    date: 2026-05-04
+  - message: "Informationen zur Metro RET ergänzt."
+    date: 2026-04-09
+  - message: "Informationen zu SOB präzisiert."
+    date: 2026-02-07
+  - message: "FIP-Freifahrtschein-Anerkennung bei SBB und BLS aktualisiert."
+    date: 2025-12-15
+  - message: "Altersgrenze für kostenlose Kinderfahrten bei der SBB korrigiert."
+    date: 2025-12-15
+  - message: "Buchung grenzüberschreitender EC/ECE-Reservierungen nach Italien über die DB ergänzt und Zuschlagsregeln präzisiert."
+    date: 2025-10-09
+  - message: "SBB hinzugefügt."
+    date: 2025-07-13
 ---
 
 Die SBB (Schweizerische Bundesbahnen) – (Chemins de fer fédéraux suisses CFF, Ferrovie federali svizzere FFS) ist die nationale Eisenbahngesellschaft der [Schweiz](/country/switzerland "Schweiz"). Sie betreibt einen Großteil des schweizerischen Schienennetzes. Die SBB ist bekannt für ihre Pünktlichkeit und Zuverlässigkeit.

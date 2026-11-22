@@ -2,6 +2,9 @@
 title: Monaco
 content_images:
   - image.webp
+updates:
+  - message: "Monaco added."
+    date: 2025-10-12
 ---
 
 ## FIP Information

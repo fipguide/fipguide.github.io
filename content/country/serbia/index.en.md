@@ -13,6 +13,11 @@ params:
     - rs-hr
 content_images:
   - image.webp
+updates:
+  - message: "Updated the Bosnia and Herzegovina border entry to Zvornik and added operators ŽFBH/ŽRS; removed Savski Brežovljani."
+    date: 2026-08-30
+  - message: "Added Serbia."
+    date: 2026-06-29
 ---
 
 ## FIP Information

@@ -13,6 +13,17 @@ params:
     - dk-de
 content_images:
   - image.webp
+updates:
+  - message: "Précision : les réductions FIP ne sont pas valables sur les ferries vers Rødby et Gedser."
+    date: 2026-09-20
+  - message: "Les anciennes lignes GoCollective du Jutland central et occidental et de Fionie sont accessibles avec FIP depuis le 1er septembre."
+    date: 2026-09-03
+  - message: "Ajout de la liaison directe Copenhague–Prague en RJ."
+    date: 2026-07-07
+  - message: "Ajout de points frontières sur la page pays."
+    date: 2025-05-30
+  - message: "Ajout du Danemark."
+    date: 2025-05-07
 ---
 
 ## Informations FIP

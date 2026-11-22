@@ -244,6 +244,9 @@ satellite:
 search:
   open-aria-label: Open search area
 skipToContent: Skip to content
+smallUpdates:
+  all: All changes
+  headline: Change History
 support:
   text: >-
     Would you like to share your knowledge about FIP regulations? Check out the
@@ -359,7 +362,9 @@ trainCategory:
   riskOfConfusion: Risk of confusion
   routeOverview: Route overview
 updateDate:
-  aria-label: Open the commit history of the page
+  aria-label: Open the change history for this page
+  dialogTitle: Page update history
+  githubHistory: View full history on GitHub
   label: Last updated
 wip: >-
   This page is still under construction and content may be incomplete. We would

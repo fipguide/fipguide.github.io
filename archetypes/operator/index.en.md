@@ -7,6 +7,7 @@ country:
   - "country3"
 content_images:
   - "image.webp"
+updates: []
 ---
 
 <!-- Remove the WIP snippet if the page is complete -->

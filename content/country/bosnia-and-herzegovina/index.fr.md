@@ -6,6 +6,9 @@ params:
     - ba-rs
 content_images:
   - image.webp
+updates:
+  - message: "Ajout de la Bosnie-Herzégovine."
+    date: 2026-08-30
 ---
 
 ## Informations FIP

@@ -21,6 +21,23 @@ params:
       towards Locarno)"
 content_images:
   - image.webp
+updates:
+  - message: "Updated border connections with Slovenia."
+    date: 2026-07-11
+  - message: "Updated the cross-border Trenitalia fare to €11."
+    date: 2026-06-19
+  - message: "Added Vatican City (no public passenger trains) and San Marino (no rail connection) as neighbouring countries."
+    date: 2026-05-12
+  - message: "Added ferry connections between Italy and Greece."
+    date: 2026-03-22
+  - message: "Updated surcharges and reservation costs for EC/ECE trains between Italy and Switzerland."
+    date: 2025-12-28
+  - message: "Added new operators that do not accept FIP."
+    date: 2025-12-22
+  - message: "Corrected the island served by the Trenitalia ferry across the Strait of Messina from Sardinia to Sicily."
+    date: 2025-10-30
+  - message: "Italy added."
+    date: 2025-10-09
 ---
 
 ## FIP Information

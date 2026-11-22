@@ -15,6 +15,55 @@ aliases:
   - /booking/sncf-phone
   - /booking/sncf-ticket-office
   - /booking/transilien-ticket-office
+updates:
+  - message: "Ajout de distributeurs de billets SNCF Nomad."
+    date: 2026-11-21
+  - message: "Ajout de la catégorie de train Léman Express et des règles FIP."
+    date: 2026-10-24
+  - message: "Ajout d’informations sur la réservation via SNCF Connect."
+    date: 2026-10-22
+  - message: "Mise à jour des prix de réservation ICN."
+    date: 2026-10-04
+  - message: "Ajout des règles d’embarquement en France."
+    date: 2026-10-04
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout de HOTNAT et d’AJC."
+    date: 2026-07-13
+  - message: "Ajout d’informations sur les trains SNCF en Allemagne."
+    date: 2026-05-12
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
+    date: 2026-05-04
+  - message: "Ajout de la prise en charge du FIP 75 à plusieurs endroits."
+    date: 2026-04-01
+  - message: "Suppression d’autres références au tramway parisien."
+    date: 2026-03-21
+  - message: "Précision sur la validité FIP dans l’ICE direct Francfort–Bordeaux."
+    date: 2026-03-15
+  - message: "Ajout de la liaison directe Francfort–Bordeaux."
+    date: 2026-02-01
+  - message: "Suppression de l’acceptation FIP dans les tramways parisiens."
+    date: 2026-01-31
+  - message: "Ajout d’informations sur les portiques et la contremarque nécessaire dans les stations RER, Transilien et tram."
+    date: 2026-01-28
+  - message: "Mise à jour des options de réservation SNCF."
+    date: 2026-01-18
+  - message: "Mise à jour de la validité FIP dans les tramways parisiens."
+    date: 2026-01-14
+  - message: "Ajout d’une recherche de réservations Intercité."
+    date: 2026-01-07
+  - message: "Mise à jour des tarifs de réservation SNCF."
+    date: 2026-01-03
+  - message: "Petites modifications des informations SNCF."
+    date: 2025-12-27
+  - message: "Description des deux opérateurs sur la ligne Marseille–Toulon."
+    date: 2025-12-07
+  - message: "Quelques améliorations des informations SNCF."
+    date: 2025-12-06
+  - message: "Suppression de la réservation de billets FIP 50 sur le site de SNCB."
+    date: 2025-11-08
+  - message: "Ajout de la SNCF."
+    date: 2025-10-12
 ---
 
 La SNCF (Société Nationale des Chemins de fer Français) est la compagnie ferroviaire nationale française et le principal opérateur ferroviaire en [France](/country/france "France"). Elle exploite la quasi-totalité des trains grandes lignes et régionaux du pays.

@@ -13,6 +13,17 @@ params:
     - dk-de
 content_images:
   - image.webp
+updates:
+  - message: "Clarified that FIP concessions are not valid on ferries to Rødby and Gedser."
+    date: 2026-09-20
+  - message: "Former GoCollective routes in Central and West Jutland and on Funen are FIP-valid from 1 September."
+    date: 2026-09-03
+  - message: "Added a direct RJ service between Copenhagen and Prague."
+    date: 2026-07-07
+  - message: "Border Points on country page."
+    date: 2025-05-30
+  - message: "Denmark added."
+    date: 2025-05-07
 ---
 
 ## FIP Information

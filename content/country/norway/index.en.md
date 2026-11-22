@@ -10,6 +10,9 @@ params:
     - no-se
 content_images:
   - image.webp
+updates:
+  - message: "Added Norway."
+    date: 2026-04-20
 ---
 
 ## FIP Information

@@ -11,6 +11,23 @@ params:
     - be-fr
 content_images:
   - image.webp
+updates:
+  - message: "Added information about the three-country train (DE/BE/NL)."
+    date: 2026-08-08
+  - message: "Added a ticket machine as a booking option for SNCB."
+    date: 2026-06-03
+  - message: "Updated luxemburg borders."
+    date: 2026-05-13
+  - message: "Improved Germany / Belgium border description."
+    date: 2026-03-12
+  - message: "France Belgium border."
+    date: 2025-12-29
+  - message: "Border Points on country page."
+    date: 2025-05-30
+  - message: "Added that OUIGO trains are not eligible for FIP discounts."
+    date: 2025-05-09
+  - message: "Belgium added."
+    date: 2025-01-18
 ---
 
 ## FIP Information

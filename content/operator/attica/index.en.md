@@ -10,6 +10,13 @@ aliases:
   - /booking/attica-agents
   - /booking/attica-email
   - /booking/attica-phone
+updates:
+  - message: "Added age limits and rules for children."
+    date: 2026-09-19
+  - message: "Added Balkan Flexipass coverage of Greek railways, including Hellenic Train and Attica."
+    date: 2026-08-30
+  - message: "Attica added."
+    date: 2026-03-22
 ---
 
 The Attica Group is a major Greek ferry operator running several brands, including Superfast Ferries, Blue Star Ferries, Hellenic Seaways and Anek Lines. The company operates domestic and international shipping services between the Greek mainland, Italy and the Greek islands.

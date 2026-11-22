@@ -8,6 +8,15 @@ content_images:
 aliases:
   - /booking/ht-ticket-office
   - /booking/ht-website
+updates:
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout de la validité du Balkan Flexipass sur les réseaux ferroviaires grecs, dont Hellenic Train et Attica."
+    date: 2026-08-30
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
+    date: 2026-05-04
+  - message: "Ajout de Hellenic Train."
+    date: 2026-03-22
 ---
 
 Hellenic Train S.A. (Ελληνικοί Σιδηρόδρομοι Α.Ε.) exploite l’ensemble du transport de voyageurs de l’État sur le réseau grec à voie normale. L’entreprise exploite des services grandes lignes, régionaux et de banlieue (« Proastiakos »). Depuis 2017, elle est une filiale à 100 % des chemins de fer italiens Ferrovie dello Stato Italiane (FS).

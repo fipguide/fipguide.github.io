@@ -27,6 +27,15 @@ params:
       Wight)
 content_images:
   - image.webp
+updates:
+  - message: "Suppression de la traversée Fishguard d’Irish Ferries."
+    date: 2026-08-03
+  - message: "Ajout d’informations FIP sur l’Irlande et l’Irlande du Nord."
+    date: 2026-03-12
+  - message: "Ajout d’informations FIP sur les ferries de Stena Line Limited."
+    date: 2026-02-25
+  - message: "Ajout du Royaume-Uni."
+    date: 2025-10-21
 ---
 
 <!-- Le Royaume-Uni est un peu différent. Il n’y a pas de catégories de trains, mais de nombreux opérateurs, il faut donc vérifier où le FIP est valable. Il est donc utile de lister aussi les autres opérateurs sans FIP, même s’il s’agit souvent de tramways ou de métros. Sinon, il est difficile pour l’utilisateur de comprendre pourquoi le FIP est valable sur la Elizabeth Line mais pas sur d’autres lignes du métro. -->

@@ -16,6 +16,15 @@ params:
     - cz-de
 content_images:
   - image.webp
+updates:
+  - message: "Mise à jour des règles à la frontière Allemagne–Tchéquie."
+    date: 2026-10-12
+  - message: "Ajout d’AŽD comme opérateur sans FIP."
+    date: 2026-06-13
+  - message: "Mise à jour de la validité FIP via Lichkov : Leo Express exploite le tronçon tchèque, où FIP n’est pas accepté."
+    date: 2025-11-20
+  - message: "Ajout de la Tchéquie."
+    date: 2025-09-20
 ---
 
 ## Informations FIP

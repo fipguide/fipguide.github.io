@@ -1,0 +1,5 @@
+<div class="o-small-changes__list">
+  {{- range partial "helper/sortedUpdates" (dict "deduplicate" false) }}
+    {{ partial "updateCard.html" (dict "entry" . "class" "o-update-card--overview") }}
+  {{- end }}
+</div>

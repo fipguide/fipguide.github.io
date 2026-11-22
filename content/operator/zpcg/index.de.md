@@ -5,6 +5,15 @@ country:
   - montenegro
 content_images:
   - image.webp
+updates:
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
+    date: 2026-09-19
+  - message: "Balkan-Flexipass-Gültigkeit im montenegrinischen Bahnnetz (ŽPCG) ergänzt."
+    date: 2026-08-30
+  - message: "Telefonische Reservierungsbuchung für Züge zwischen Serbien und Montenegro ergänzt."
+    date: 2026-06-29
+  - message: "ŽPCG hinzugefügt."
+    date: 2026-05-02
 ---
 
 ŽPCG (Željeznički prevoz Crne Gore, Жељезнички превоз Црне Горе) ist der nationale Personenverkehrsbetreiber in Montenegro.

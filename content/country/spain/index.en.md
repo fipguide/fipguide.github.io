@@ -10,6 +10,27 @@ params:
     - es-fr
 content_images:
   - image.webp
+updates:
+  - message: "Added the Celta replacement bus through April 2027 and clarified that Rodalies services run to Barcelona."
+    date: 2026-09-03
+  - message: "Booked out international AVE."
+    date: 2026-08-09
+  - message: "Added Andorra as a neighbouring country; there is currently no rail link between Spain and Andorra."
+    date: 2026-05-12
+  - message: "Updated Renfe ticket prices for 2026."
+    date: 2026-05-02
+  - message: "Added Renfe AVE FIP Global Fares from €15 and onboard purchase when boarding in France."
+    date: 2025-10-30
+  - message: "Added FIP details for AVE Global Fares, Rodalies trains to France, and Euskotren services to Hendaye."
+    date: 2025-10-18
+  - message: "Added FIP validity information for Euskotren services to Hendaye."
+    date: 2025-09-02
+  - message: "Added information about international AVE."
+    date: 2025-07-13
+  - message: "Border Points on country page."
+    date: 2025-05-30
+  - message: "Spain added."
+    date: 2025-05-26
 ---
 
 ## FIP Information

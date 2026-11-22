@@ -13,6 +13,17 @@ params:
     - dk-de
 content_images:
   - image.webp
+updates:
+  - message: "FIP-Ermäßigungen auf Fähren nach Rødby und Gedser ausgeschlossen."
+    date: 2026-09-20
+  - message: "Ehemalige GoCollective-Strecken in Mittel- und Westjütland sowie auf Fünen seit 1. September mit FIP nutzbar."
+    date: 2026-09-03
+  - message: "Direktverbindung Kopenhagen–Prag mit dem RJ ergänzt."
+    date: 2026-07-07
+  - message: "Grenzpunkte auf der Länderseite ergänzt."
+    date: 2025-05-30
+  - message: "Dänemark hinzugefügt."
+    date: 2025-05-07
 ---
 
 ## FIP Nutzung

@@ -10,6 +10,13 @@ params:
     - bg-rs
 content_images:
   - image.webp
+updates:
+  - message: "Nordmazedonien als Nachbarland ergänzt: derzeit keine Zugverbindung nach Bulgarien."
+    date: 2026-05-12
+  - message: "Informationen zu Bulgarien korrigiert."
+    date: 2025-10-09
+  - message: "Bulgarien hinzugefügt."
+    date: 2025-10-07
 ---
 
 ## FIP Nutzung

@@ -9,6 +9,13 @@ params:
     - "[>] = Direction (par exemple : V. Real de Sto António Guardiana [> Ayamonte] = le point frontalier à V. Real de Sto António Guardiana est orienté vers Ayamonte)"
 content_images:
   - image.webp
+updates:
+  - message: "Ajout de billets pour les trains transfrontaliers entre le Portugal et l’Espagne."
+    date: 2026-11-21
+  - message: "Travaux jusqu’en avril 2027 : les trains Celta terminent à Valença do Minho et un bus de remplacement est nécessaire pour franchir la frontière."
+    date: 2026-09-03
+  - message: "Ajout du Portugal."
+    date: 2025-09-14
 ---
 
 ## Informations FIP

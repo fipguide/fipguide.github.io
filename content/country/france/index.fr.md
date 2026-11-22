@@ -20,6 +20,39 @@ params:
     - es-fr
 content_images:
   - image.webp
+updates:
+  - message: "Ajout d’informations sur la validité FIP du Léman Express."
+    date: 2026-10-24
+  - message: "Ajout de GoVolta à la liste des opérateurs sans FIP en France."
+    date: 2026-07-13
+  - message: "Mise à jour des points frontières au Luxembourg."
+    date: 2026-05-13
+  - message: "Ajout d’informations sur les trains SNCF en Allemagne."
+    date: 2026-05-12
+  - message: "Ajout de l’Andorre comme pays voisin ; il n’existe actuellement aucune liaison ferroviaire entre la France et l’Andorre."
+    date: 2026-05-12
+  - message: "Mise à jour des tarifs Renfe pour 2026."
+    date: 2026-05-02
+  - message: "Mise à jour des règles de la ligne RS4 de l’Ortenau S-Bahn."
+    date: 2026-02-22
+  - message: "Ajout de la liaison directe Francfort–Bordeaux."
+    date: 2026-02-01
+  - message: "Mise à jour du point frontière entre la Suisse et la France."
+    date: 2026-01-08
+  - message: "Mise à jour de la frontière entre la France et la Belgique."
+    date: 2025-12-29
+  - message: "Petites modifications des informations SNCF."
+    date: 2025-12-27
+  - message: "Ajout de Tarifs Globaux FIP Renfe AVE à partir de 15 €, disponibles aux guichets en Espagne."
+    date: 2025-10-30
+  - message: "Ajout d’informations FIP sur LeShuttle et les liaisons par ferry vers la Grande-Bretagne."
+    date: 2025-10-21
+  - message: "Ajout d’informations communiquées par un collègue des CFF."
+    date: 2025-10-20
+  - message: "Ajout de la réservation en ligne DB des Billets FIP 50 transfrontaliers et mise à jour des liaisons Renfe vers l’Espagne."
+    date: 2025-10-18
+  - message: "Ajout de la France."
+    date: 2025-10-12
 ---
 
 ## Informations FIP

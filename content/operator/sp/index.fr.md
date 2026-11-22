@@ -7,6 +7,31 @@ country:
   - italy
 content_images:
   - image.webp
+updates:
+  - message: "Mise à jour de la validité des Coupons FIP chez Jungfraubahn."
+    date: 2026-11-01
+  - message: "Suppression de la Sensetalbahn (STB) de la liste des opérateurs régionaux SP."
+    date: 2026-09-29
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout du chemin de fer Brienz-Rothorn."
+    date: 2026-08-19
+  - message: "Précision : le FIP sur les chemins de fer de la Jungfrau est destiné aux transports publics, et non à servir de forfait de ski avec du matériel de sports d’hiver."
+    date: 2026-08-17
+  - message: "Ajout d’informations non officielles sur le ski avec JB."
+    date: 2026-06-22
+  - message: "Suppression de MIB de la page SP."
+    date: 2026-05-09
+  - message: "Mise à jour des lignes THURBO : S5/S7 vers St. Margrethen et Lindau, S36 jusqu’à Waldshut ; précisions sur les Billets FIP 50 et la validité FIP aux gares frontières."
+    date: 2026-04-05
+  - message: "Précision sur la validité FIP chez RBS : acceptée sur toutes les lignes sauf la S9 et le tram 6, ainsi que sur tous les bus RBS."
+    date: 2026-03-10
+  - message: "Précision des informations sur SOB."
+    date: 2026-02-07
+  - message: "Ajout du supplément panoramique de 1,50 € sur certains trains Centovalli, des réservations obligatoires lors d’événements et de leur coût."
+    date: 2026-02-06
+  - message: "Ajout d’informations FIP sur SP."
+    date: 2025-12-15
 ---
 
 En [Suisse](/country/switzerland "Suisse"), en plus de la compagnie nationale [SBB CFF FFS](/operator/sbb "SBB CFF FFS") et de la plus petite BLS, il existe une association de nombreuses entreprises ferroviaires regroupées sous l’appellation _Schweizer Privatbahnen_ (Chemins de fer privés suisses). On y trouve à la fois des trains réguliers du réseau suisse et des services plutôt touristiques. En plus des trains, certains bateaux, téléphériques et bus en font partie.

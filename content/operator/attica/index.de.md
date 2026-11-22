@@ -10,6 +10,13 @@ aliases:
   - /booking/attica-agents
   - /booking/attica-email
   - /booking/attica-phone
+updates:
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
+    date: 2026-09-19
+  - message: "Balkan-Flexipass-Gültigkeit im griechischen Bahnnetz von Hellenic Train und Attica ergänzt."
+    date: 2026-08-30
+  - message: "Attica hinzugefügt."
+    date: 2026-03-22
 ---
 
 Die Attica Group ist ein großer griechischer Fähranbieter und Betreiber mehrerer Marken, darunter Superfast Ferries, Blue Star Ferries, Hellenic Seaways und Anek Lines. Das Unternehmen betreibt nationale sowie internationale Schiffsverbindungen zwischen dem griechischen Festland, Italien und den griechischen Inseln.

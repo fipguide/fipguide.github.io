@@ -9,6 +9,19 @@ aliases:
   - zsr
   - /booking/zssk-ticket-office
   - /booking/zssk-website
+updates:
+  - message: "Added age limits and rules for children."
+    date: 2026-09-19
+  - message: "Added HOTNAT and AJC."
+    date: 2026-07-13
+  - message: "Clarified FIP validity on buses and rail replacement services."
+    date: 2026-05-04
+  - message: "Removed the outdated note that ZSSK and ÖBB FIP Coupons were valid on D trains between Bratislava and Vienna."
+    date: 2026-01-30
+  - message: "Added requirements for FIP Coupons in Slovakia."
+    date: 2025-10-08
+  - message: "ZSSK / ZSR added."
+    date: 2025-01-18
 ---
 
 The ŽSR (Železnice Slovenskej republiky) and its associated train operator ZSSK (Železničná spoločnosť Slovensko) are the Slovak state railways and the most important railway operator in [Slovaika](/country/slovakia "Slovakia").

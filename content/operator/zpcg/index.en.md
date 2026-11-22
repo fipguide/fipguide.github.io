@@ -5,6 +5,15 @@ country:
   - montenegro
 content_images:
   - image.webp
+updates:
+  - message: "Added age limits and rules for children."
+    date: 2026-09-19
+  - message: "Added Balkan Flexipass coverage of Montenegro’s rail network (ŽPCG)."
+    date: 2026-08-30
+  - message: "Added phone booking information for reservations between Serbia and Montenegro."
+    date: 2026-06-29
+  - message: "ŽPCG added."
+    date: 2026-05-02
 ---
 
 ŽPCG (Željeznički prevoz Crne Gore, Жељезнички превоз Црне Горе) is the national passenger transport operator in Montenegro.

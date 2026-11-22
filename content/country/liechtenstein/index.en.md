@@ -2,6 +2,11 @@
 title: Liechtenstein
 content_images:
   - image.webp
+updates:
+  - message: "Added access via Feldkirch and Buchs SG: ÖBB S-Bahn trains run at weekday peak hours and accept FIP; buses do not."
+    date: 2025-09-29
+  - message: "Added Liechtenstein."
+    date: 2025-08-04
 ---
 
 ## FIP Information

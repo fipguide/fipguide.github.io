@@ -7,6 +7,19 @@ content_images:
   - image.webp
 aliases:
   - /booking/cp-ticket-office
+updates:
+  - message: "Précision sur l’achat à bord en l’absence de guichet CP, notamment sur la liaison Badajoz–Entroncamento."
+    date: 2026-11-15
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
+    date: 2026-05-04
+  - message: "Ajout d’un récit de voyage de Zugpost."
+    date: 2026-05-02
+  - message: "Ajout d’informations communiquées par un collègue des CFF."
+    date: 2025-10-20
+  - message: "Ajout de CP."
+    date: 2025-09-14
 ---
 
 La CP (Comboios de Portugal) est la compagnie ferroviaire nationale portugaise et la principale société de chemins de fer au [Portugal](/country/portugal "Portugal").

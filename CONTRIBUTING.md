@@ -117,3 +117,25 @@ Inside the OpenCode Terminal, you can ask any question, similarly to GitHub Copi
 - `/check {page}`: Check the page for common mistakes and report them. `{page}` can be the name of an operator, a country, a booking plattform, or a path to a file.
 
 That's the recommended way. However, you can still use other frontend ends like GitHub Copilot Chat and Claude Code. We provide an [`AGENTS.md`](https://agents.md/) file for these providers in the repository, but the custom commands are not available without OpenCode.
+
+### Content update strategy
+
+Use the `updates` field and the small-change overview only for user-facing changes to FIP information. If one commit affects multiple pages, describe the change separately for each page and include only the FIP information changed on that page.
+
+New country, operator, and booking pages start with an empty `updates` array. Replace it with a concise, localized message and an ISO date (`YYYY-MM-DD`) describing the substantive FIP information introduced on each page.
+
+#### Small changes to include
+
+- Changes to FIP validity, acceptance, discounts, or eligible operators and routes.
+- Updates to reservations, supplements, FIP fares, ticket purchase options, or payment methods.
+- Changes to border points, cross-border travel, ticket barriers, or breaks of journey that affect FIP travel.
+- Corrections to inaccurate FIP guidance, including corrections to a translation that change the factual meaning.
+- New FIP-related information on a country or operator page.
+
+#### Changes not to include
+
+- Internal or external link changes that do not change the FIP information.
+- Formatting, markup, heading, typo, or grammar changes that do not correct factual FIP guidance.
+- Adding a translation or making a stylistic translation correction without changing the FIP information.
+- Technical changes to templates, layouts, CMS fields, metadata, or site functionality.
+- Reorganizing or moving existing information without changing the guidance presented to readers.

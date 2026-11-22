@@ -6,6 +6,13 @@ content_images:
   - image.webp
 aliases:
   - /booking/kml-ticket-office
+updates:
+  - message: "Clarified that FIP Tickets are not valid on buses operated by KMŁ."
+    date: 2026-10-02
+  - message: "Clarified FIP validity on buses and rail replacement services."
+    date: 2026-05-04
+  - message: "Added FIP information for KMŁ."
+    date: 2026-04-01
 ---
 
 Koleje Małopolskie, abbreviated KMŁ, is a Polish railway company that mainly provides regional services in the Lesser Poland Voivodeship. It is one of five different companies offering FIP in [Poland](/country/poland).

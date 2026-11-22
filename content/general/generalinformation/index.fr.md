@@ -7,6 +7,35 @@ description: Informations générales sur le FIP, la Carte FIP (Carte
 toc: true
 aliases:
   - /generalinformation/
+updates:
+  - message: "Ajout d’un tableau à imprimer sur la règle des deux jours des Coupons FIP et précision que certaines compagnies ont des exceptions."
+    date: 2026-05-12
+  - message: "Précisions : le FIP est valable dans les bus de remplacement lorsqu’ils remplacent un train admissible au FIP."
+    date: 2026-04-19
+  - message: "Transfert des informations générales sur les Cartes FIP, les Billets FIP 50, les Coupons et les Tarifs Globaux vers l’aperçu de validité FIP."
+    date: 2026-04-04
+  - message: "Transfert des durées de validité de la Carte FIP propres à chaque compagnie, des réductions nationales DB et des informations fiscales vers l’aperçu de validité FIP."
+    date: 2026-03-29
+  - message: "Précision : la Carte FIP n’a pas officiellement à être présentée dans le train avec un Coupon FIP, mais il est conseillé de l’avoir en cas de contrôle."
+    date: 2026-01-14
+  - message: "Précisions sur la validité de la Carte FIP : elle commence un mois avant la première année imprimée et se termine un mois après la dernière année."
+    date: 2026-01-10
+  - message: "Transfert vers la page opérateur de la limite Stena Line de deux traversées par case de Coupon FIP."
+    date: 2025-12-22
+  - message: "Publication de l’aperçu FIP multilingue et de FAQ sur l’éligibilité, les Cartes FIP, les Coupons, les billets et les réservations."
+    date: 2025-12-18
+  - message: "Précisions sur les points tarifaires frontières et le code CIV, et correction de l’exemple de trajet transfrontalier avec DSB."
+    date: 2025-12-15
+  - message: "Ajout d’informations sur les ayants droit, les alternatives moins coûteuses aux Billets FIP 50 et la fiscalité des Coupons FIP."
+    date: 2025-11-22
+  - message: "Précision : un Coupon FIP d’une à quatre cases peut être demandé par opérateur et par an."
+    date: 2025-11-15
+  - message: "Développement des informations générales sur les Cartes FIP, les Coupons, les Billets FIP 50 et les points frontières."
+    date: 2025-10-16
+  - message: "Ajout d’exemples expliquant les gares frontières, les points tarifaires frontières et la validité des billets."
+    date: 2025-08-11
+  - message: "Ajout des premières informations générales sur l’éligibilité FIP, les Coupons, les Billets FIP 50 et les Tarifs Globaux."
+    date: 2025-07-13
 ---
 
 ## Généralités

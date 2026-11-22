@@ -8,6 +8,41 @@ content_images:
   - image.webp
 aliases:
   - /booking/renfe-ticket-office
+updates:
+  - message: "Einschränkungen bei der Renfe-Ticketbuchung ergänzt."
+    date: 2026-11-02
+  - message: "Internationalen AVE-Hinweis angepasst."
+    date: 2026-10-04
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
+    date: 2026-09-19
+  - message: "Zugang zu Cercanías über Ticketschranken und Zugangsmöglichkeiten bei unbesetzten Stationen präzisiert."
+    date: 2026-09-03
+  - message: "HOTNAT und AJC ergänzt."
+    date: 2026-07-13
+  - message: "Renfes Bono Gratuit entfernt."
+    date: 2026-06-27
+  - message: "FIP-Gültigkeit in Bussen und Ersatzbussen klargestellt."
+    date: 2026-05-04
+  - message: "Reisebericht von Zugpost hinzugefügt."
+    date: 2026-05-02
+  - message: "Renfe-Ticketpreise für 2026 aktualisiert."
+    date: 2026-05-02
+  - message: "FIP-Ausstellerinformationen zu Renfe korrigiert."
+    date: 2026-04-05
+  - message: "Informationen zu den Zugangsschranken der Barcelonaer Cercanías bei Renfe ergänzt."
+    date: 2026-04-05
+  - message: "Bordverkauf internationaler AVE-Tickets bei Einstieg in Frankreich ergänzt."
+    date: 2025-10-30
+  - message: "Informationen zu FEVE ergänzt."
+    date: 2025-10-19
+  - message: "FIP-Gültigkeit auf dem Renfe-Feve-Meterspurnetz ergänzt."
+    date: 2025-10-18
+  - message: "Informationen zu internationalen AVE ergänzt."
+    date: 2025-07-13
+  - message: "Renfe-Klassenoptionen präzisiert."
+    date: 2025-05-28
+  - message: "Renfe hinzugefügt."
+    date: 2025-05-26
 ---
 
 Renfe Operadora ist das staatliche Eisenbahnunternehmen in [Spanien](/country/spain "Spanien"). Hierzu gehören komfortable Hochgeschwindkeitszüge, diverse Regionalzüge und S-Bahnen.

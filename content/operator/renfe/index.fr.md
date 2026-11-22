@@ -8,6 +8,41 @@ content_images:
   - image.webp
 aliases:
   - /booking/renfe-ticket-office
+updates:
+  - message: "Ajout de restrictions pour la réservation des billets Renfe."
+    date: 2026-11-02
+  - message: "Mise à jour de l’indication sur les AVE internationaux."
+    date: 2026-10-04
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Précisions sur l’accès aux Cercanías par les portiques et les solutions dans les gares sans personnel."
+    date: 2026-09-03
+  - message: "Ajout de HOTNAT et d’AJC."
+    date: 2026-07-13
+  - message: "Suppression du Bono Gratuit de Renfe."
+    date: 2026-06-27
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
+    date: 2026-05-04
+  - message: "Ajout d’un récit de voyage de Zugpost."
+    date: 2026-05-02
+  - message: "Mise à jour des tarifs Renfe pour 2026."
+    date: 2026-05-02
+  - message: "Correction des informations sur Renfe comme émetteur FIP."
+    date: 2026-04-05
+  - message: "Ajout d’informations sur les portillons d’accès des Cercanías de Barcelone chez Renfe."
+    date: 2026-04-05
+  - message: "Ajout de la vente à bord des billets AVE internationaux au départ de la France."
+    date: 2025-10-30
+  - message: "Ajout d’informations sur FEVE."
+    date: 2025-10-19
+  - message: "Ajout de la validité FIP sur le réseau à voie métrique Renfe Feve."
+    date: 2025-10-18
+  - message: "Ajout d’informations sur les AVE internationaux."
+    date: 2025-07-13
+  - message: "Précision des options de classe de Renfe."
+    date: 2025-05-28
+  - message: "Ajout de Renfe."
+    date: 2025-05-26
 ---
 
 Renfe Operadora est la compagnie ferroviaire publique en [Espagne](/country/spain "Espagne"). Elle exploite des trains à grande vitesse confortables, divers trains régionaux et des trains de banlieue.

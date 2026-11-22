@@ -10,6 +10,27 @@ params:
     - es-fr
 content_images:
   - image.webp
+updates:
+  - message: "Celta-Ersatzbus bis April 2027 und Rodalies-Verbindungen bis Barcelona ergänzt."
+    date: 2026-09-03
+  - message: "Informationen zur Ausbuchung internationaler AVE ergänzt."
+    date: 2026-08-09
+  - message: "Andorra als Nachbarland ergänzt: derzeit keine Zugverbindung zwischen Spanien und Andorra."
+    date: 2026-05-12
+  - message: "Renfe-Ticketpreise für 2026 aktualisiert."
+    date: 2026-05-02
+  - message: "Renfe-AVE-Tarife ab 15 € und Bordverkauf bei Einstieg aus Frankreich ergänzt."
+    date: 2025-10-30
+  - message: "FIP-Informationen zu AVE-Globalpreisen, Rodalies-Zügen nach Frankreich und Euskotren bis Hendaye ergänzt."
+    date: 2025-10-18
+  - message: "FIP-Gültigkeit von Euskotren bis Hendaye ergänzt."
+    date: 2025-09-02
+  - message: "Informationen zu internationalen AVE ergänzt."
+    date: 2025-07-13
+  - message: "Grenzpunkte auf der Länderseite ergänzt."
+    date: 2025-05-30
+  - message: "Spanien hinzugefügt."
+    date: 2025-05-26
 ---
 
 ## FIP Nutzung

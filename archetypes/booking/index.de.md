@@ -13,6 +13,7 @@ params:
   booking_link: "https://example.com" # Füge ein Link zur Buchungsplattform hinzu
   additional_info_link: "https://example.com/additional-info" # Füge einen Link zu zusätzlichen Informationen hinzu
   type: "onsite" # Akzeptierte Typen sind: website, online, onsite, phone, email, socialmedia und machine
+updates: []
 ---
 
 {{% booking-section "fip_50" %}}

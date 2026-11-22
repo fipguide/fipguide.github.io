@@ -26,6 +26,23 @@ params:
     - at-de
 content_images:
   - image.webp
+updates:
+  - message: "Précisions sur les liaisons transfrontalières depuis la Slovénie : trains via Jesenice vers Villach, liaisons Maribor–Graz et Bleiburg–Maribor ; Coupons FIP des deux compagnies ou Billet FIP 50 continu requis."
+    date: 2026-07-11
+  - message: "Suppression de Schneebergbahn."
+    date: 2026-05-15
+  - message: "Ajout d’informations sur la ligne de l’Außenfernbahn."
+    date: 2026-01-17
+  - message: "Ajout de deux liaisons régionales Vienne–Bratislava via Marchegg et Kittsee ; un Billet FIP 50 est requis sur le tronçon slovaque dans les deux cas."
+    date: 2025-12-28
+  - message: "Précisions sur les liaisons via Buchs SG/Feldkirch et la validité FIP au Liechtenstein : le FIP ÖBB est valable dans les trains, pas dans les bus."
+    date: 2025-09-29
+  - message: "Mise à jour des opérateurs sans FIP : ajout du CAT et de Wiener Lokalbahn, retrait de Salzburger Lokalbahn."
+    date: 2025-08-11
+  - message: "Ajout des CFF."
+    date: 2025-07-13
+  - message: "Ajout de l’Autriche."
+    date: 2025-07-10
 ---
 
 ## Informations FIP

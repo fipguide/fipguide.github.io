@@ -10,6 +10,9 @@ params:
     - hu-si
 content_images:
   - image.webp
+updates:
+  - message: "Ajout de la Slovénie."
+    date: 2026-07-11
 ---
 
 ## Informations FIP

@@ -27,6 +27,15 @@ params:
       of Wight)
 content_images:
   - image.webp
+updates:
+  - message: "Removed Fishguard sailing from Irish Ferries."
+    date: 2026-08-03
+  - message: "Added FIP information for Ireland and Northern Ireland."
+    date: 2026-03-12
+  - message: "Added FIP ferry information for Stena Line Limited."
+    date: 2026-02-25
+  - message: "United Kingdom added."
+    date: 2025-10-21
 ---
 
 <!-- The UK is a bit different. There are no train categories, but many operators, so you have to check where FIP is valid. It makes sense to list other operators without FIP, even if they are often trams and subways. Otherwise, it's hard for users to understand why FIP is valid on the Elizabeth Line but not on other Underground lines. -->

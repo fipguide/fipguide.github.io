@@ -18,6 +18,27 @@ params:
       in Richtung Domodossola)"
 content_images:
   - image.webp
+updates:
+  - message: "FIP-Gültigkeit beim Léman Express ergänzt."
+    date: 2026-10-24
+  - message: "Grenzüberschreitenden Trenitalia-Preis auf 11 € aktualisiert."
+    date: 2026-06-19
+  - message: "Grenzpunkt zwischen der Schweiz und Frankreich aktualisiert."
+    date: 2026-01-08
+  - message: "Neue Betreiber ohne FIP hinzugefügt."
+    date: 2025-12-22
+  - message: "Informationen zur FIP-Gültigkeit der Schweizer Privatbahnen ergänzt."
+    date: 2025-12-15
+  - message: "Informationen eines SBB-Kollegen ergänzt."
+    date: 2025-10-20
+  - message: "FIP-Gültigkeit von SNCF-Freifahrtscheinen im Schweizer Léman-Express-Abschnitt ergänzt."
+    date: 2025-10-12
+  - message: "Informationen zu Aufschlägen und Reservierungen bei EC/ECE-Zügen nach Italien ergänzt."
+    date: 2025-10-09
+  - message: "Grenzverbindungen über St. Margrethen und Buchs SG präzisiert; ÖBB-FIP über Liechtenstein ermöglicht durchgehende Reisen mit SBB-FIP."
+    date: 2025-09-29
+  - message: "SBB hinzugefügt."
+    date: 2025-07-13
 ---
 
 ## FIP Nutzung

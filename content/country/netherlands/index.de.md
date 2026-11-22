@@ -16,6 +16,29 @@ params:
     - nl-gb-stl
 content_images:
   - image.webp
+updates:
+  - message: "Formulierung zum Grenzübertritt in den Niederlanden angepasst."
+    date: 2026-10-12
+  - message: "Grenzpunkte zu Deutschland um Bad Bentheim und Gronau (Westf.) ergänzt."
+    date: 2026-09-20
+  - message: "Informationen zum Drei-Länder-Zug ergänzt."
+    date: 2026-08-08
+  - message: "Fährgrenzpunkt Hoek van Holland ergänzt."
+    date: 2026-03-12
+  - message: "FIP-Fährverbindung zwischen Hoek van Holland und Harwich ergänzt."
+    date: 2026-02-25
+  - message: "Neue Betreiber ohne FIP hinzugefügt."
+    date: 2025-12-22
+  - message: "FIP-Fährverbindung zwischen Hoek van Holland und Harwich ergänzt."
+    date: 2025-12-22
+  - message: "ICE-Verbindungen von Amsterdam nach Hannover und Berlin ergänzt."
+    date: 2025-12-21
+  - message: "Grenzpunkte auf der Länderseite ergänzt."
+    date: 2025-05-30
+  - message: "FIP-Informationen für die Niederlande ergänzt."
+    date: 2025-05-28
+  - message: "Niederlande hinzugefügt."
+    date: 2025-03-23
 ---
 
 ## FIP Nutzung

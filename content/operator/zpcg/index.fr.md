@@ -5,6 +5,15 @@ country:
   - montenegro
 content_images:
   - image.webp
+updates:
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout de la validité du Balkan Flexipass sur le réseau ferroviaire monténégrin (ŽPCG)."
+    date: 2026-08-30
+  - message: "Ajout d’informations sur la réservation par téléphone entre la Serbie et le Monténégro."
+    date: 2026-06-29
+  - message: "Ajout de ŽPCG."
+    date: 2026-05-02
 ---
 
 ŽPCG (Željeznički prevoz Crne Gore, Жељезнички превоз Црне Горе) est l’opérateur national de transport de voyageurs au Monténégro.

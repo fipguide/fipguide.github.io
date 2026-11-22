@@ -5,6 +5,9 @@ country:
   - "bosnia-and-herzegovina"
 content_images:
   - image.webp
+updates:
+  - message: "Ajout de ŽRS."
+    date: 2026-08-30
 ---
 
 Les Željeznice Republike Srpske (ŽRS) sont l’opérateur ferroviaire de la Fédération de Republika Srpska en Bosnie-Herzégovine. À côté d’elles, le pays compte aussi [Željeznice Federacije Bosne i Hercegovine (ŽFBH)](/operator/zfbh) de la Fédération de Bosnie-Herzégovine. La ŽRS n’exploite actuellement qu’un service régional minimal sur son réseau ferroviaire de 418 km.

@@ -7,6 +7,23 @@ content_images:
   - image.webp
 aliases:
   - /booking/bdz-ticket-office
+updates:
+  - message: "Ajout des âges limites et des règles pour les enfants."
+    date: 2026-09-19
+  - message: "Ajout de la validité du Balkan Flexipass sur le réseau ferroviaire bulgare (BDZ)."
+    date: 2026-08-30
+  - message: "Précisions sur la validité FIP dans les bus et les bus de remplacement."
+    date: 2026-05-04
+  - message: "Mise à jour de la validité FIP chez ČD."
+    date: 2026-03-10
+  - message: "Correction des informations sur la Bulgarie."
+    date: 2025-10-09
+  - message: "Suppression de la possibilité de réservation en ligne auprès de BDZ."
+    date: 2025-10-08
+  - message: "Mise à jour des tarifs de réservation BDZ."
+    date: 2025-10-08
+  - message: "Ajout de BDŽ."
+    date: 2025-10-07
 ---
 
 Balgarski Darschawni Schelesnizi (BDŽ) est la compagnie ferroviaire nationale de [Bulgarie](/country/bulgaria "Bulgarie") et exploite actuellement presque tous les services voyageurs sur le réseau ferroviaire bulgare.

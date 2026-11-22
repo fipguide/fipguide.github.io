@@ -14,6 +14,9 @@ params:
       en direction d’Ancona)"
 content_images:
   - image.webp
+updates:
+  - message: "Ajout de la Grèce."
+    date: 2026-03-22
 ---
 
 ## Informations FIP

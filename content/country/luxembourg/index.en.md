@@ -7,6 +7,11 @@ params:
     - lu-fr
 content_images:
   - image.webp
+updates:
+  - message: "Updated luxemburg borders."
+    date: 2026-05-13
+  - message: "Added Luxembourg."
+    date: 2025-12-15
 ---
 
 ## FIP Information

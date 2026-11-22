@@ -9,6 +9,15 @@ content_images:
   - image.webp
 aliases:
   - /booking/bsb-ticket-office
+updates:
+  - message: "Altersgrenzen und Regeln für Kinder ergänzt."
+    date: 2026-09-19
+  - message: "FIP-Gültigkeit in Bussen und Ersatzbussen klargestellt."
+    date: 2026-05-04
+  - message: "FIP-Bedingungen des Bodensee-Personentarifs ergänzt."
+    date: 2026-04-25
+  - message: "BSB hinzugefügt."
+    date: 2025-12-19
 ---
 
 Die BSB - Bodensee-Schiffsbetriebe (Vereinigten Schifffahrtsunternehmen für den Bodensee und Rhein) betreiben die Fähren auf dem Bodensee zwischen [Deutschland](/country/germany "Deutschland"), [Österreich](/country/austria "Österreich") und der [Schweiz](/country/switzerland "Schweiz").
