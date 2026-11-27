@@ -1,6 +1,7 @@
 ---
 title: Site Web Koleje Dolnośląskie
 description: Informations sur la réservation pour le site web Koleje Dolnośląskie.
+aliases: []
 params:
   fip_50: true
   booking_link: https://kolejedolnoslaskie.pl/
